@@ -1,7 +1,7 @@
 ---
 title: How to Resolve 'Minecraft Local Network Play' Problems Successfully
-date: 2024-10-20T20:54:26.006Z
-updated: 2024-10-24T18:04:05.597Z
+date: 2024-10-26T16:30:46.550Z
+updated: 2024-10-30T17:32:28.806Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -63,41 +70,28 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -109,21 +103,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
-4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
+4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -133,6 +122,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -140,13 +142,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -173,19 +168,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-navigating-screen-space-enlargement-on-youtube/"><u>[Updated] 2024 Approved Navigating Screen Space Enlargement on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-digital-creativity-unleashed-top-montage-apps-for-iphone-android-users/"><u>[Updated] Digital Creativity Unleashed Top Montage Apps for iPhone, Android Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-stand-out-yt-thumbnail-size-and-engagement-strategies/"><u>[Updated] How to Stand Out YT Thumbnail Size and Engagement Strategies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-a-step-by-step-approach-to-popularizing-instagram-posts/"><u>2024 Approved A Step-by-Step Approach to Popularizing Instagram Posts</u></a></li>
-<li><a href="https://common-error.techidaily.com/acquiring-trustedinstaller-consent-to-change-system-files/"><u>Acquiring TrustedInstaller Consent to Change System Files</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enhancing-income-through-the-science-of-youtube-trailer-creation-for-2024/"><u>Enhancing Income Through the Science of YouTube Trailer Creation for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-non-functional-webcam-on-your-lenovo-laptop-easily/"><u>Fixing a Non-Functional Webcam on Your Lenovo Laptop Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/graphics-driver-update-enables-miracast-functionality/"><u>Graphics Driver Update Enables Miracast Functionality</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-poco-m6-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Poco M6 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-stuck-boot-screen-repairing-your-pc-when-it-freezes-on-windows-setup/"><u>Overcome the Stuck Boot Screen: Repairing Your PC When It Freezes on Windows Setup</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/premium-gaming-experience-at-great-prices-inside-the-acer-predator-orion-5000-laptop/"><u>Premium Gaming Experience at Great Prices - Inside the Acer Predator Orion 5000 Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-keys-on-windows-1011-a-step-by-step-guide/"><u>Troubleshooting Non-Responsive Keys on Windows 10/11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-error-internet-explorer-has-stopped-working-problem/"><u>Troubleshooting the 'Error: Internet Explorer Has Stopped Working' Problem</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/understanding-malware-mechanisms-of-operation-and-methods-of-spread/"><u>Understanding Malware: Mechanisms of Operation and Methods of Spread</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-corsair-keyboard-not-lighting-up/"><u>[Fixed] Corsair Keyboard Not Lighting Up</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-one-world-to-another-connecting-instagram-and-facebook/"><u>[Updated] 2024 Approved From One World to Another Connecting Instagram & Facebook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-capturing-adrenaline-with-the-latest-yi-technology/"><u>[Updated] In 2024, Capturing Adrenaline with the Latest Yi Technology</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-time-savers-screen-recording-on-instagrams-story/"><u>[Updated] In 2024, Time Savers Screen Recording on Instagram's Story</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-infamous-roblox-code-277-glitch-for-pc-users-updated-guide/"><u>Bypassing the Infamous Roblox Code 277 Glitch for PC Users (Updated Guide)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-scroll-wheel-on-your-laptops-touchpad/"><u>How to Fix Unresponsive Scroll Wheel on Your Laptop's Touchpad</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-your-ps4-dualshock-controller-charging-issues/"><u>Resolved: Fixing Your PS4 Dualshock Controller Charging Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-resolve-the-sudden-termination-error-code-1067-in-windows-operating-system/"><u>Solved! How to Resolve the Sudden Termination Error (Code 1067) in Windows Operating System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-activating-microsoft-copilot-on-a-mac-device/"><u>Step-by-Step Guide: Activating Microsoft Copilot on a Mac Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-the-persistent-audio-glitch-in-youtube-videos-on-windows-10/"><u>Troubleshoot & Resolve the Persistent Audio Glitch in YouTube Videos on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-repairing-your-pathfinder-gamepad-controls/"><u>Troubleshooting Guide: Repairing Your Pathfinder Gamepad Controls</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-10-not-working-fixed/"><u>Windows Update 10 Not Working [FIXED]</u></a></li>
 </ul></div>
 

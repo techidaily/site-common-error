@@ -1,7 +1,7 @@
 ---
 title: "Corsair Illumination Troubleshooting: Bring Back the Glow"
-date: 2024-10-19T18:45:05.492Z
-updated: 2024-10-24T20:52:40.744Z
+date: 2024-10-23T16:47:57.882Z
+updated: 2024-10-30T16:14:48.688Z
 tags:
   - win11
   - win10
@@ -53,13 +53,6 @@ The good news is, you can fix it easily!
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
@@ -74,43 +67,36 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Locate and double-click on**Windows Audio** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
 
@@ -120,13 +106,44 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click **Yes**   when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -136,13 +153,6 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
@@ -171,24 +181,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-navigating-windows-10-like-a-tech-wizard/"><u>[Updated] 2024 Approved Navigating Windows 10 Like a Tech Wizard</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/accelerate-paperwork-processing-integrating-chatgpts-reading-techniques/"><u>Accelerate Paperwork Processing: Integrating ChatGPT's Reading Techniques</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/comprender-a-aomei-un-vistazo-al-mundo-del-expertos-en-recuperacion-de-datos/"><u>Comprender a AOMEI: Un Vistazo Al Mundo Del Expertos en Recuperación De Datos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-fixing-ieframedll-errors-on-your-computer-or-device/"><u>Expert Tips: Fixing Ieframe.dll Errors on Your Computer or Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/failed-to-initialize-battleye-service-generic-error-fixed/"><u>Failed to Initialize BattlEye Service: Generic Error [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-missing-power-alert-a-simple-guide-for-immediate-relief/"><u>Fix the Missing Power Alert: A Simple Guide for Immediate Relief</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-components-to-creativity-building-a-professional-4k-pc/"><u>In 2024, From Components to Creativity Building a Professional 4K PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-iphone-11-pro-max-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile iPhone 11 Pro Max online without SIM Card?</u></a></li>
-<li><a href="https://common-error.techidaily.com/netflix-issues-is-the-service-down-and-what-can-you-do-about-it/"><u>Netflix Issues: Is the Service Down, and What Can You Do About It?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-protect-your-videos-with-these-free-watermarking-tools-for-2024/"><u>New Protect Your Videos with These Free Watermarking Tools for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-for-fixing-0x800705b4-error-in-your-windows-11-system/"><u>Resolved: Step-by-Step Guide for Fixing 0X800705b4 Error in Your Windows 11 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-device-unavailable-error-code-24-on-windows-1187/"><u>Resolving 'Device Unavailable' Error Code 24 on Windows 11/8/7</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solution-resolving-the-steam-disk-writes-failed-issue-without-hassle/"><u>Simple Solution: Resolving the 'Steam Disk Writes Failed' Issue Without Hassle</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-to-reactivate-dimmed-or-dead-keylights-in-your-laptop/"><u>Solution Steps to Reactivate Dimmed or Dead Keylights in Your Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-error-code-0x800f0922-a-step-by-step-approach-to-successfully-updating-windows-abetes-and-can-help-manage-symptoms-in-some-cases-medication-may-be-67/"><u>Tackling Error Code 0X800F0922 - A Step-by-Step Approach to Successfully Updating Windows Abetes, and Can Help Manage Symptoms. In some Cases, Medication May Be Necessary but Will Likely Still Include Dietary Changes as Part of the Treatment Plan.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206026261-troubleshoot-the-windows-11-bluetooth-not-detected-problem-fast-solutions/"><u>Troubleshoot the Windows 11 Bluetooth Not Detected Problem - Fast Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-audio-glitches-solving-crackling-sounds-in-windows-os/"><u>Troubleshooting Audio Glitches: Solving Crackling Sounds in Windows OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-the-0x0000007b-blue-screen-of-death-issue/"><u>Ultimate Guide: Resolving the 0X0000007B Blue Screen of Death Issue</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-best-ios-slideshow-software-from-x-to-ios13/"><u>[New] Best iOS Slideshow Software From X to IOS13</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-bundles-for-yi-4k-videographers/"><u>[New] The Ultimate Bundles for YI 4K Videographers</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-file-explorer-hangs-tips-and-solutions-for-smoother-windows-experience/"><u>Bypassing File Explorer Hangs: Tips and Solutions for Smoother Windows Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-enabling-windows-update-service-to-keep-your-pc-secure/"><u>Expert Tips on Enabling Windows Update Service to Keep Your PC Secure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-resolving-non-responsive-bluetooth-in-windows-11-systems/"><u>Guide to Resolving Non-Responsive Bluetooth in Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restore-corrupt-system-files-on-your-windows-machine/"><u>Guide to Restore Corrupt System Files on Your Windows Machine</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/msvcr71dll-found-problem-solution-confirmed/"><u>MSVCR71.dll Found: Problem Solution Confirmed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-samsung-galaxy-f14-5g-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Samsung Galaxy F14 5G, is it possible?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rethinking-public-access-to-knowledge-a-critical-analysis-of-the-free-library-metaphor-for-online-platforms/"><u>Rethinking Public Access to Knowledge: A Critical Analysis of the 'Free Library' Metaphor for Online Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-6-step-approach-to-fixing-the-werfaultexe-problem-on-windows-operating-systems/"><u>The Definitive 6-Step Approach to Fixing the werfault.exe Problem on Windows Operating Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-asus-rog-phone-7-ultimate-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Asus ROG Phone 7 Ultimate Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-microsoft-screen-mirroring-on-windows-10-solved/"><u>Troubleshoot Your Microsoft Screen Mirroring on Windows 10 - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-overcoming-an-invalid-directory-error/"><u>Troubleshooting Tips for Overcoming an Invalid Directory Error</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 15 Plus | Dr.fone</u></a></li>
 </ul></div>
 

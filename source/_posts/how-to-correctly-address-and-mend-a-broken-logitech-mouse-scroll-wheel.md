@@ -1,7 +1,7 @@
 ---
 title: How To Correctly Address and Mend a Broken Logitech Mouse Scroll Wheel
-date: 2024-10-21T19:14:35.744Z
-updated: 2024-10-24T19:51:29.076Z
+date: 2024-10-28T17:55:05.861Z
+updated: 2024-10-30T18:12:24.401Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -50,6 +43,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -59,13 +59,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -81,13 +74,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -97,6 +83,13 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -116,6 +109,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -123,10 +129,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -137,13 +143,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -160,6 +159,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -199,21 +205,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/1723210733201-issue-resolved-how-to-overcome-windows-camera-error-code-0xa0-groovyf4292-and-get-back-to-snapshots/"><u>[Issue Resolved]: How to Overcome Windows Camera Error Code 0xA0 Groovyf4292 and Get Back to Snapshots!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sound-symphony-music-within-whatsapp-statuses/"><u>[New] Sound Symphony Music Within WhatsApp Statuses</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-the-art-of-live-streaming-obs-tips-for-youtube-and-twitch/"><u>[Updated] 2024 Approved Master the Art of Live Streaming OBS Tips for YouTube & Twitch</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-youtube-exposure-with-ongoing-creative-commons-compliance/"><u>2024 Approved Maximizing YouTube Exposure with Ongoing Creative Commons Compliance</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-prevent-and-solve-oddworld-soulstorm-freezing-on-desktop-pc/"><u>Expert Tips to Prevent and Solve Oddworld: Soulstorm Freezing on Desktop PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-tackle-dota-2s-modify-graphics-api-error-message-2024-in-minutes/"><u>How to Tackle Dota 2'S 'Modify Graphics API' Error Message 2024 in Minutes!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-tech-the-most-reliable-webcams-for-podcasters/"><u>In 2024, Advanced Tech The Most Reliable Webcams for Podcasters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-picks-17-superior-apps-for-quick-image-sharpening/"><u>In 2024, Expert Picks 17 Superior Apps for Quick Image Sharpening</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Hot 30 5G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/learn-to-navigate-two-screens-for-superior-streaming-on-netflix/"><u>Learn to Navigate Two Screens for Superior Streaming on Netflix</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-skype-video-issues-on-windows-11/"><u>Quick Solutions: Resolving Skype Video Issues on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-the-bluetooth-not-detected-on-windows-11-fast-fix-guide/"><u>Resolve the Bluetooth Not Detected on Windows 11 - Fast Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-internal-webcam-woes-with-these-simple-fixes-for-windows-users/"><u>Solve Your Internal Webcam Woes with These Simple Fixes for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-sound-issues-eliminating-crackling-from-speakers-in-windows-117/"><u>Solving Your Sound Issues: Eliminating Crackling From Speakers in Windows 11/7</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-compatible-logitech-g602-mouse-drivers-for-enhanced-performance-download/"><u>Windows Compatible Logitech G602 Mouse Drivers for Enhanced Performance Download</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-simplifying-gif-design-for-beginners/"><u>[New] Simplifying GIF Design for Beginners</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-webcam-hurdles-tackling-error-a00f4289-on-win11/"><u>Bypassing Webcam Hurdles - Tackling Error A00F4289 on Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-curb-microsoft-telemetrys-intensive-disk-use-on-your-windows-11-device-for-better-efficiency/"><u>How to Curb Microsoft Telemetry's Intensive Disk Use on Your Windows 11 Device for Better Efficiency</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-m54-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy M54 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-konverteren-van-m4a-naar-wav-vrije-dienst-met-movavi-convertereer-nl/"><u>Online Konverteren Van M4A Naar WAV - Vrije Dienst Met Movavi Convertereer NL</u></a></li>
+<li><a href="https://games-able.techidaily.com/primes-gateway-to-selective-twitch-content/"><u>Prime's Gateway to Selective Twitch Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-essentials-correcting-critical-error-1603-to-ensure-seamless-program-installation/"><u>Troubleshooting Essentials: Correcting Critical Error 1603 to Ensure Seamless Program Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-failed-downloads-of-windows-7-patches-and-updates/"><u>Troubleshooting Failed Downloads of Windows 7 Patches and Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-applicationexe-crash-issues/"><u>Troubleshooting Steps for 'Application.Exe' Crash Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/standing-and-mastering-youtube-live-visuals-for-engagement-for-2024/"><u>Understanding and Mastering YouTube Live Visuals for Engagement for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212053341-unstuck-with-screen-mirroring-on-windows-10-fix-the-device-connection-issue-here/"><u>Unstuck with Screen Mirroring on Windows 10? Fix the Device Connection Issue Here!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Fix: Ultimate Tips & Tricks to Correctly Address Window's Update Error Code 0X8024402c"
-date: 2024-10-19T22:30:49.384Z
-updated: 2024-10-24T22:55:38.756Z
+date: 2024-10-26T18:07:23.020Z
+updated: 2024-10-30T16:28:32.974Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 Now try to install Windows Updates now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
@@ -58,6 +58,13 @@ Now try to install Windows Updates now.
  4) Click**Advanced** while**Use a proxy server for you LAN** is ticked on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Clear Exceptions box if there were any content in it.
 
@@ -71,19 +78,6 @@ Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Run the commands below one by one.
 
  a) Type **netsh winhttp reset proxy**  and hit **Enter** .
@@ -93,13 +87,6 @@ Find and click to open Command Prompt from Start menu.
  c) Type **net start wuauserv**  and hit **Enter** .
 
 Now try to install Windows Updates now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3\. Change DNS Servers
 
@@ -120,16 +107,16 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Locate Use the following DNS server addresses.
@@ -160,6 +147,13 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
@@ -174,6 +168,13 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
@@ -185,19 +186,6 @@ If the fixes above didn’t serve you, try this one.
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -220,19 +208,18 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-best-motivational-films-to-fuel-your-ambition/"><u>[New] 2024 Approved The Best Motivational Films to Fuel Your Ambition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-zoom-makeover-effortless-background-softening/"><u>[New] 2024 Approved Zoom Makeover Effortless Background Softening</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-budget-savvy-gopro-upgrades-for-starters/"><u>[New] Budget Savvy GoPro Upgrades for Starters</u></a></li>
-<li><a href="https://common-error.techidaily.com/crc-data-discrepancy-fixed-tips-for-accurate-cyclic-redundancy-checks/"><u>CRC Data Discrepancy Fixed: Tips for Accurate Cyclic Redundancy Checks</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0x80072f8f-solved-expert-tips-for-restoring-your-windows-1110-systems-functionality/"><u>Error Code 0X80072F8F Solved: Expert Tips for Restoring Your Windows 11/10 System's Functionality</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975899064-forest-fire-control-including-water-bombing/"><u>Forest Fire Control (Including Water Bombing)</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-oddworld-soulstorm-crashes-on-pc-step-by-step-solution/"><u>How To Fix Oddworld: Soulstorm Crashes on PC - Step-by-Step Solution</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-rapid-access-accelerating-vimeo-videos/"><u>In 2024, Rapid Access Accelerating Vimeo Videos</u></a></li>
-<li><a href="https://win-web.techidaily.com/les-top-synchrosoft-solutions-portables-faciliter-le-transfert-de-fichiers-cross-plateforme/"><u>Les Top SynchroSoft Solutions Portables: Faciliter Le Transfert De Fichiers Cross-Plateforme</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-msmpengexe-high-cpu-usage-issue-on-windows-11-troubleshooting-guide/"><u>Solving the MsMpEng.exe High CPU Usage Issue on Windows 11 - Troubleshooting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-wireless-features-how-to-enable-and-use-bluetooth-with-windows-111/"><u>Unlocking Wireless Features: How to Enable and Use Bluetooth with Windows 11/1지</u></a></li>
-<li><a href="https://common-error.techidaily.com/unsticking-a-slow-google-chrome-easy-reload-tips-for-smooth-browsing/"><u>Unsticking a Slow Google Chrome: Easy Reload Tips for Smooth Browsing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-toshiba-laptops-software-essential-driver-downloads-for-windows-users/"><u>Updating Your Toshiba Laptop's Software: Essential Driver Downloads for Windows Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-6-video-tactics-for-captivating-audiences/"><u>[New] 2024 Approved Top 6 Video Tactics for Captivating Audiences</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-windows-10-top-5-recording-techniques/"><u>[New] Maximize Windows 10 Top 5 Recording Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-gamers-roadmap-navigating-a-successful-youtube-channel/"><u>[New] The Gamers' Roadmap Navigating a Successful YouTube Channel</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-future-of-gaming-leading-vr-game-engines-for-2024/"><u>[Updated] The Future of Gaming Leading VR Game Engines for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-guide-to-downloading-newgrounds-video-content-discover-three-effective-techniques/"><u>Easy Guide to Downloading Newgrounds Video Content - Discover Three Effective Techniques!</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-strategies-for-fixing-windows-1903-feature-update-complications/"><u>Efficient Strategies for Fixing Windows 1903 Feature Update Complications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-our-selection-of-top-6-editable-journal-apps-for-creative-writing-and-planning/"><u>Explore Our Selection of Top 6 Editable Journal Apps for Creative Writing & Planning</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exploring-the-ultimate-12-choices-in-computer-audio-recording-with-movavi-insights/"><u>Exploring the Ultimate 12 Choices in Computer Audio Recording with Movavi Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-access-issues-unlocking-the-installation-drive-on-windows-10/"><u>Fixing Access Issues: Unlocking the Installation Drive on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-rid-of-lag-in-minecraft-top-tips-and-fixes/"><u>Getting Rid of Lag in Minecraft - Top Tips and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-non-responsive-fn-keys-effective-solutions-and-tips/"><u>Resolving Non-Responsive Fn Keys - Effective Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211230678-troubleshooting-pubg-building-loading-errors-effective-fixes-inside/"><u>Troubleshooting PUBG Building Loading Errors - Effective Fixes Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-the-solution-addressing-entry-point-not-detected-in-windows-environments/"><u>Unlock the Solution: Addressing Entry Point Not Detected in Windows Environments</u></a></li>
 </ul></div>
 

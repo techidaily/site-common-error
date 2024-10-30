@@ -1,7 +1,7 @@
 ---
 title: How to Fix the 'Expired Semaphore Timeout Period' Issue with Error 0X80070079
-date: 2024-09-09T08:56:18.214Z
-updated: 2024-09-10T08:56:18.214Z
+date: 2024-10-26T17:02:29.175Z
+updated: 2024-10-30T16:56:29.456Z
 tags:
   - win11
   - win10
@@ -13,24 +13,12 @@ excerpt: This Article Describes How to Fix the 'Expired Semaphore Timeout Period
 thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f8786bd477dd4066192a8852.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 10 Users, Here's How to Overcome the 'Port Reset Failed' Error with Your USB Device
 
  If you get **Unknown USB Device (Port Reset Failed)** error in Device Manager, your USB device most probably won’t be recognized by your PC. The error could be caused by different issues. Here you will learn the top solutions to fix the problem. Try the solutions and one must work for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800776f4e2c0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The error can be caused by hardware issues. So first, follow below simple instructions to do the troubleshooting.
 
 **1\. Connect the device to your PC using another USB cable.** This may work like a charm on solving the problem.
@@ -49,12 +37,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58008bc046cc6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
 
 **Solution 2: Update the Generic USB Hub Drivers**
@@ -69,12 +51,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30bb3336f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Select**Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30ea9e511.png)
@@ -83,12 +59,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba312822f8b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then Windows will update the driver software for the device. If it is done successfully, a window will pop up like this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba314393778.png)
@@ -103,18 +73,6 @@ You can use [Driver Easy](https://tools.techidaily.com/drivereasy/download/)  as
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **5\. Change Power Management Setting**
 
  The Power Management would also be the reason causing the USB problem. Windows is set to shut down your USB controller to save power by default, sometimes it won’t be able to power it back up. So try following steps to prevent Windows from “managing” power to your USB controller or the devices.
@@ -136,8 +94,6 @@ Follow below steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +101,29 @@ Follow below steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-make-your-periscope-stream-swifter/"><u>[New] How to Make Your Periscope Stream Swifter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boosting-video-impact-integrating-free-luts-into-your-obs-workflow/"><u>2024 Approved Boosting Video Impact Integrating Free LUTs Into Your OBS Workflow</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-12-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 12</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-the-right-click-not-working-problem-in-windows-10-computers/"><u>Expert Tips for Fixing the 'Right-Click Not Working' Problem in Windows 10 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-cannot-read-from-disk-troubleshooting-steps-for-windows-users/"><u>Fixing 'Cannot Read From Disk': Troubleshooting Steps for Windows Users</u></a></li>
+<li><a href="https://win-lab.techidaily.com/get-smart-downloading-mastering-vidzitv-videos-on-both-mac-os-and-windows-systems/"><u>Get Smart Downloading: Mastering Vidzi.tv Videos on Both MAC OS & Windows Systems</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/harnessing-robotic-process-automation-for-efficient-logistics-exploring-the-power-of-abbyy-solutions/"><u>Harnessing Robotic Process Automation for Efficient Logistics: Exploring the Power of ABBYY Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-10t-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme 10T 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-endless-load-screen-issue-in-valorant-resolved/"><u>How to Fix the Endless Load Screen Issue in Valorant [Resolved]</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-youtube-permanently-stop-video-snips-complete-guide-for-2024/"><u>Mastering YouTube Permanently Stop Video Snips [Complete Guide] for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigate-past-power-state-failure-strategies-to-repair-driver-errors/"><u>Navigate Past Power State Failure: Strategies to Repair Driver Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-sign-of-sd-cards-lets-mend-that/"><u>No Sign of SD Cards? Let’s Mend That</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-7s-unresponsive-audio-dilemma-a-step-by-step-guide/"><u>Resolving Windows 7'S Unresponsive Audio Dilemma: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-unavailability-of-the-smartscreen-filter-in-windows/"><u>Troubleshooting Guide: Dealing with Unavailability of the SmartScreen Filter in Windows</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

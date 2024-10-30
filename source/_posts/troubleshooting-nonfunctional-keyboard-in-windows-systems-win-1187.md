@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Nonfunctional Keyboard in Windows Systems (Win 11/8/7)
-date: 2024-10-22T17:29:28.292Z
-updated: 2024-10-24T16:59:15.118Z
+date: 2024-10-23T17:15:49.825Z
+updated: 2024-10-30T18:03:08.742Z
 tags:
   - win11
   - win10
@@ -38,19 +38,6 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Update the driver
 
  Your Lenovo keyboard not working problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, try to update the keyboard driver for your Lenovo laptop.
@@ -82,25 +69,11 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -116,9 +89,23 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**System protection** in left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Click **System Restore** .
 
@@ -129,30 +116,37 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f7c3c1c1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Click**Yes** to confirm the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9) Reboot your PC for the changes to take effect.
 
@@ -176,14 +170,18 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-the-photographers-path-to-perfected-colors-for-2024/"><u>[New] The Photographer's Path to Perfected Colors for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/decoding-editing-excellence-can-pickup-outshine-the-competition-on-android/"><u>Decoding Editing Excellence Can PickUp Outshine the Competition on Android?</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-resolution-addressing-the-windows-resource-protection-error/"><u>Error Resolution: Addressing the 'Windows Resource Protection Error'</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-14-pro-max-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 14 Pro Max Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restore-your-screens-harmony-uncover-hidden-apps-and-windows-in-windows-11/"><u>Restore Your Screen's Harmony: Uncover Hidden Apps & Windows in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-brightness-solutions-for-unlit-leds-on-your-corsair-keyboard/"><u>Restoring Brightness: Solutions for Unlit LEDs on Your Corsair Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repair-your-lenovos-malfunctioning-biometric-scanner/"><u>Step-by-Step Guide to Repair Your Lenovo's Malfunctioning Biometric Scanner</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-minecraft-local-network-multiplayer-issues/"><u>Troubleshooting Guide: Fixing 'Minecraft Local Network Multiplayer' Issues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-mysteries-of-firefoxs-pip-mode/"><u>Unveiling the Mysteries of Firefox’s PIP Mode</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-20-minutes-to-master-vrecorder-instalment/"><u>[New] 20 Minutes To Master VRecorder Instalment</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>[Updated] In 2024, Prime Time Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-steps-for-effective-ipad-screen-casts/"><u>2024 Approved Steps for Effective iPad Screen Casts</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1726027305651-6/"><u>流行中国音楽ダウンロード経験豊かなファン選んだ最高の6カ所:おすすめリストあります！</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-step-by-step-approach-to-documenting-every-exciting-moment-on-discord-for-2024/"><u>A Step-by-Step Approach to Documenting Every Exciting Moment on Discord for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-straightforward-anti-cheat-issue-in-apex-legends-game/"><u>Fixing the Straightforward Anti-Cheat Issue in Apex Legends Game</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leak-uncovers-deeper-challenges-for-intels-processor-reliability-beyond-overvoltage-concerns/"><u>Leak Uncovers Deeper Challenges for Intel's Processor Reliability, Beyond Overvoltage Concerns</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-minecraft-optimization-a-deep-dive-into-fixing-opengl-mistakes/"><u>Mastering Minecraft Optimization: A Deep Dive Into Fixing OpenGL Mistakes</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-and-simple-guide-how-to-reset-your-windows-11-system/"><u>Quick and Simple Guide: How to Reset Your Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-error-0x80240017-during-windows-updates/"><u>Step-by-Step Solutions for Correcting Error 0X80240017 During Windows Updates</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-5-free-mac-screen-capture-tools-the-ultimate-guide/"><u>Top 5 Free Mac Screen Capture Tools: The Ultimate Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208426611-troubleshoot-and-solve-the-0x887a0006-glitch-in-no-time/"><u>Troubleshoot and Solve the 0X887A0006 Glitch in No Time</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-dead-laptop-mousepads-on-windows-10-8-and-7-expert-hacks-unveiled/"><u>Winning the Battle Against Dead Laptop Mousepads on Windows 10, 8 & 7 - Expert Hacks Unveiled</u></a></li>
 </ul></div>
 

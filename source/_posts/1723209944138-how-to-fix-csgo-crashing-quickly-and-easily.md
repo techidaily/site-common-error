@@ -1,7 +1,7 @@
 ---
 title: How To Fix CSGO Crashing. Quickly & Easily
-date: 2024-10-19T19:31:43.709Z
-updated: 2024-10-24T22:08:08.511Z
+date: 2024-10-24T18:15:11.472Z
+updated: 2024-10-30T17:19:11.346Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
@@ -70,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify integrity of game files
 
  You may have this**CSGO crashing** issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. So you can verify the integrity of game files to see if it fixes the issue.
@@ -82,23 +96,9 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-180.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES..** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-177.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Wait until the game cache verification finishes.
 
@@ -107,6 +107,13 @@ To do so:
 6) Relaunch Steam, then run CS:GO and see if the **CSGO crashing** problem has been fixed. If the crashing problem still occurs, move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Launch CSGO in -autoconfig or -safe mode
 
@@ -148,16 +155,22 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Remove**ANY** launch options currently shown.
 
@@ -166,10 +179,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/safe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Exit Steam.
@@ -197,37 +210,30 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Change fastprox.dll to fastprox.dllold
 
 1. On your keyboard, press**the Windows logo key** and**E** at the same time, then click**View** \>**Options** \>**Change folder and search options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4b228da5a.jpg)
 2. Click the**View** tab and uncheck**the box** before**Hide extensions for known file types** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4c03820bb.jpg)
 3. On your keyboard, press**the Windows logo key** and**E** at the same time, then copy & paste **C:\\Windows\\SysWOW64\\wbem** into the address bar and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4db541a75.jpg)
 4. Locate**fastprox.dll** and rename it to **fastprox.dllold** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4e5f2211c.jpg)
@@ -254,16 +260,19 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-record-gameplay-in-samsung-galaxy-phones/"><u>[New] How to Record Gameplay in Samsung Galaxy Phones</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-viewing-on-facebook-live/"><u>[Updated] In 2024, Mastering Viewing on Facebook Live</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-in-depth-explanation-implementing-cc-license-types/"><u>2024 Approved In-Depth Explanation Implementing CC License Types</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211218181-address-counterarguments-eg-some-may-argue-that-other-qualities-are-more-important-for-professional-success-and-rebut-them-with-convincing-evidence/"><u>Address Counterarguments (E.g., some May Argue that Other Qualities Are More Important for Professional Success) and Rebut Them with Convincing Evidence</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-screen-hurdle-sonic-frontiers-win-on-w11/"><u>Fixing the Screen Hurdle: Sonic Frontiers Win on W11</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-creating-heartfelt-youtube-journeys/"><u>In 2024, Creating Heartfelt YouTube Journeys</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/microsofts-recent-upgrade-a-potential-catalyst-for-ongoing-workplace-nightmares-explored-by-zdnet-experts/"><u>Microsoft's Recent Upgrade: A Potential Catalyst for Ongoing Workplace Nightmares, Explored by ZDNet Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-dns-server-not-responding-issues/"><u>Quick Solutions: How to Resolve 'DNS Server Not Responding' Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-resource-protection-error-resolution-steps/"><u>Troubleshooting 'Windows Resource Protection' Error: Resolution Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-a-non-charging-playstation-4-controller/"><u>Troubleshooting Tips for a Non-Charging PlayStation 4 Controller</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-when-your-system-cant-find-a-required-module/"><u>Troubleshooting When Your System Can’t Find a Required Module</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-strategies-for-superior-film-production-using-movie-maker-in-windows-8/"><u>[New] Step-by-Step Strategies for Superior Film Production Using Movie Maker in Windows 8</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-achieving-maximum-comfort-in-vr-landscape/"><u>[Updated] Achieving Maximum Comfort in VR Landscape</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-picture-capture-unpacker/"><u>[Updated] Picture Capture Unpacker</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-the-frustration-of-error-8007000e-during-windows-update-with-these-tips/"><u>Bypass the Frustration of Error 8007000E During Windows Update with These Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-improving-delayed-keyboard-input-with-ease/"><u>Effective Solutions for Improving Delayed Keyboard Input with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcome-no-sources-for-playback-error-in-windows-media-player/"><u>Guide to Overcome 'No Sources for Playback' Error in Windows Media Player</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-keeping-your-mac-awake-and-active-tips-and-tricks/"><u>Guide: Keeping Your Mac Awake and Active - Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-10-update-failure-code-0xc1900208-a-comprehensive-guide/"><u>How to Fix Windows 10 Update Failure Code 0xC1900208: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g84-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Moto G84 5G Phones with/without a PC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>In 2024, How to Translate TikTok Videos? All You Want to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-graphics-errors-in-minecraft-with-easy-opengl-fixes/"><u>Overcoming Graphics Errors in Minecraft with Easy OpenGL Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tip-how-to-correctly-identify-and-solve-device-missing-code-24-in-windows-versions-11-8-7/"><u>Troubleshooting Tip: How to Correctly Identify and Solve Device Missing (Code 24) in Windows Versions 11, 8, 7</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-update-a-reset-strategy/"><u>Troubleshooting Windows Update: A Reset Strategy</u></a></li>
 </ul></div>
 

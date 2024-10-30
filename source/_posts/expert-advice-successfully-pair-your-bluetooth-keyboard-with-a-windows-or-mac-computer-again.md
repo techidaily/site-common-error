@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Successfully Pair Your Bluetooth Keyboard with a Windows or Mac Computer Again"
-date: 2024-09-09T08:55:04.670Z
-updated: 2024-09-10T08:55:04.670Z
+date: 2024-10-29T18:18:35.000Z
+updated: 2024-10-30T17:03:47.736Z
 tags:
   - win11
   - win10
@@ -19,12 +19,6 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/file-explorer-in-window-s10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [**How to launch File Explorer in Windows 10 quickly?**](https://tools.techidaily.com/drivereasy/download/) [**How to customize Quick access items?**](https://tools.techidaily.com/drivereasy/download/) [**Windows 10 File Explorer not responding when right clicks?**](https://tools.techidaily.com/drivereasy/download/)   **How to launch File Explorer in Windows 10 quickly?** Usually, you can launch File Explorer by just typing**explorer**or**file explorer**in the search bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913472d50a-600x522.jpg)
@@ -33,12 +27,6 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913edbf2bf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you are more relied on your keyboard, here are some more shortcuts on keyboard that allows you to use**File Explorer** quickly: **Windows key + E**: open File Explorer **Ctrl + E**: activate the search bar in File Explorer**Alt + left arrow key**: go back to one folder in history**Alt + right arrow key**: go forward to one folder in history **Ctrl + mouse wheel Up or Down**: increase or decrease the size of icons in File Explorer **Ctrl + Shift + N**: create a new folder   **How to customize Quick access items?** If you want to add new quick access to the list on the left pane of File Explorer, here is how you can do it easily. Right click the desired folder and choose**Pin to Quick access**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/pin-to-quick-access.jpg)
@@ -51,12 +39,6 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491b710eb2d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) In the command prompt window, type in command:**netsh**, and then hit**Enter.** Then in the same window, type in**winstock reset**and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491c14e6750.jpg)
@@ -65,32 +47,14 @@ You can restart your computer when this operation is completed. 3) Follow the pa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d95611c0-600x476.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Then choose**Uninstall updates**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d7901b10-600x462.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) If you can see update**KB3081449**or**KB3081448**, right click it and choose**Uninstall**. Then restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491df2251f5-600x330.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -99,8 +63,6 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +70,30 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-insiders-blueprint-for-finding-hidden-youtube-files/"><u>[New] The Insider's Blueprint for Finding Hidden YouTube Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-teaching-techniques-with-youtube-a-practical-approach/"><u>[Updated] 2024 Approved Teaching Techniques with YouTube A Practical Approach</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-10-video-editors-webcams-reimagined/"><u>[Updated] 2024 Approved Ultimate 10 Video Editors Webcams Reimagined</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-hottest-8-video-clips-trending-today-online/"><u>[Updated] In 2024, The Hottest 8 Video Clips Trending Today Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-error-code-0x800f081f-successful-setup-of-net-framework-groove-in-windows/"><u>Bypassing Error Code 0X800F081F - Successful Setup of .NET Framework Groove in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-restore-key-usage-on-computers-and-phones/"><u>Comprehensive Guide to Restore @ Key Usage on Computers and Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-correctly-address-minecrafts-error-5-issue/"><u>Effective Ways to Correctly Address Minecraft's Error 5 Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-wd-my-passport-ultra-connects-and-shows-up-in-your-windows-environment/"><u>How to Ensure WD My Passport Ultra Connects and Shows Up in Your Windows Environment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/journey-redefined-chatbot-wisdom-in-car-customization-processes/"><u>Journey Redefined: Chatbot Wisdom in Car Customization Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-overcoming-windows-10s-skype-visual-hurdles/"><u>Master the Fix: Overcoming Windows 10'S Skype Visual Hurdles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-business-conversations-on-gpt-services/"><u>Safeguarding Business Conversations on GPT Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-correctly-address-error-0x887a0006/"><u>Troubleshooting Guide: How to Correctly Address Error 0X887A0006</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-battle-royale-games-resolving-in-game-crashes/"><u>Troubleshooting Tips for Battle Royale Games - Resolving In-Game Crashes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-persistent-connection-issues-between-airpods-and-iphone/"><u>Ultimate Guide: Solving Persistent Connection Issues Between AirPods and iPhone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-acer-chromebook-15-outstanding-capabilities-meet-an-expansive-screen/"><u>Unveiling the Acer Chromebook 15: Outstanding Capabilities Meet an Expansive Screen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-poco-c65-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Poco C65? | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

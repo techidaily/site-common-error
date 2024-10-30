@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Windows File Explorer Keeps Crashing on Windows 11/10"
-date: 2024-09-09T08:55:03.681Z
-updated: 2024-09-10T08:55:03.681Z
+date: 2024-10-26T17:17:11.129Z
+updated: 2024-10-30T17:35:27.000Z
 tags:
   - win11
   - win10
@@ -19,42 +19,18 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/file-explorer-in-window-s10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [**How to launch File Explorer in Windows 10 quickly?**](https://tools.techidaily.com/drivereasy/download/) [**How to customize Quick access items?**](https://tools.techidaily.com/drivereasy/download/) [**Windows 10 File Explorer not responding when right clicks?**](https://tools.techidaily.com/drivereasy/download/)   **How to launch File Explorer in Windows 10 quickly?** Usually, you can launch File Explorer by just typing**explorer**or**file explorer**in the search bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913472d50a-600x522.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can right click the**File Explorer** option and choose**Pin to Start** or**Pin to taskbar** if you want to have a quicker access to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913edbf2bf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you are more relied on your keyboard, here are some more shortcuts on keyboard that allows you to use**File Explorer** quickly: **Windows key + E**: open File Explorer **Ctrl + E**: activate the search bar in File Explorer**Alt + left arrow key**: go back to one folder in history**Alt + right arrow key**: go forward to one folder in history **Ctrl + mouse wheel Up or Down**: increase or decrease the size of icons in File Explorer **Ctrl + Shift + N**: create a new folder   **How to customize Quick access items?** If you want to add new quick access to the list on the left pane of File Explorer, here is how you can do it easily. Right click the desired folder and choose**Pin to Quick access**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/pin-to-quick-access.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to remove an item from Quick access menu, just right click this item and select**Unpin from Quick access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/unpin-from-quick-access.jpg)
@@ -67,12 +43,6 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491c14e6750.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can restart your computer when this operation is completed. 3) Follow the path:**Start button > Settings > Update & security**. Then one the left pane, choose**Windows Update**, and on the right pane, choose**Update history**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d95611c0-600x476.jpg)
@@ -85,18 +55,6 @@ You can restart your computer when this operation is completed. 3) Follow the pa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491df2251f5-600x330.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -105,8 +63,6 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +70,31 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-effortless-streaming-on-android-a-compreenhensive-guide-to-obs-for-2024/"><u>[New] Effortless Streaming on Android A Compreenhensive Guide to OBS for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-fast-and-furious-how-to-turbocharge-instagram-videos-for-2024/"><u>[New] Fast and Furious How to Turbocharge Instagram Videos for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/5-things-to-consider-before-buying-a-used-ipad/"><u>5 Things to Consider Before Buying a Used iPad</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-bugs-masterful-techniques-to-get-oddworld-soulstorm-running-on-windows-and-mac/"><u>Beat the Bugs! Masterful Techniques to Get Oddworld: Soulstorm Running on Windows and Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-picks-advanced-webcam-stands/"><u>Elite Picks Advanced Webcam Stands</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-video-input-not-connected-error-on-your-display-device/"><u>Expert Solutions for Video Input Not Connected Error on Your Display Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-easily-address-and-correct-a-503-http-server-error/"><u>How To Easily Address and Correct a #503 HTTP Server Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-on-windows-11-a-comprehensive-guide/"><u>How to Fix MsMpEng.exe High CPU Usage on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-persistent-pairing-problems-with-bluetooth-on-your-windows-10-device/"><u>How to Fix Persistent Pairing Problems with Bluetooth on Your Windows 10 Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-werfaultexe-application-malfunctions-quickly/"><u>How to Resolve Windows werfault.exe Application Malfunctions Quickly</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-fcpx-mastery-40-essential-keyboard-shortcuts-to-improve-your-skills-for-2024/"><u>New FCPX Mastery 40 Essential Keyboard Shortcuts to Improve Your Skills for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207834759-overcome-fresh-renderer-launch-issues-apply-the-latest-fix/"><u>Overcome Fresh Renderer Launch Issues - Apply the Latest Fix</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-powerhouses-a-guide-to-facebook-twitter-instagram-and-youtube-uses/"><u>Social Media Powerhouses: A Guide to Facebook, Twitter, Instagram, and YouTube Uses</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-for-enabling-bluetooth-connectivity-in-windows-1110/"><u>Step-by-Step Tutorial for Enabling Bluetooth Connectivity in Windows 11/10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-for-personalized-effective-health-goal-planning/"><u>Utilizing ChatGPT for Personalized, Effective Health Goal Planning</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

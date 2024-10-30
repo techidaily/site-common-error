@@ -1,7 +1,7 @@
 ---
 title: Keyboard Keys Sticking on Windows [Solved]
-date: 2024-09-09T08:55:06.412Z
-updated: 2024-09-10T08:55:06.412Z
+date: 2024-10-27T17:29:24.040Z
+updated: 2024-10-30T16:17:31.492Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Keyboard Keys Sticking on Windows [Solved]
 thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcfecec9d6029a84b03a72309d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering the Art of Restoring Functionality to Windows Keyboards with Sticking Keys
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/laptop-g190ddbc90_640.jpg)
@@ -29,18 +23,6 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
  But no worries, it’s not at all a hard question to solve. Here are 4 options for you to try. You may not have to try them all; just work your way down until you find the one that works for you. Let’s get started!
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Table of contents
 
 * [Method 1: Check keyboard connection](https://tools.techidaily.com/drivereasy/download/)
@@ -52,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Check keyboard connection
 
  One of the first things you should check when something is off with your keyboard is the connection between it and your computer.
@@ -61,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 * If you’re using a wireless keyboard, make sure that the batteries in your keyboard are working, or try to use new batteries.
 * Also, make sure that the keyboard receiver is well-connected as well.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Check for possible viruses
 
  Among all the possible reasons why your keyboard is sticking, virus infection or malware is one of the biggest possibilities. Try to update your anti-virus programs and run a full scan with them.
@@ -90,27 +73,36 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 4: Clean the keyboard
 
 If you haven’t cleaned your keyboard, in like forever, do it now.
@@ -129,8 +121,6 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +128,22 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-navigating-the-path-to-an-official-instagram-business-page/"><u>[New] In 2024, Navigating the Path to an Official Instagram Business Page</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-best-of-both-worlds-screenflow-for-mac-creatives-reviewed/"><u>[New] In 2024, The Best of Both Worlds ScreenFlow for Mac Creatives Reviewed</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-effective-solutions-for-troubleshooting-continuous-reboots-in-windows-11/"><u>5 Effective Solutions for Troubleshooting Continuous Reboots in Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-tips-for-enhancing-roblox-gaming-recordings-mac-for-2024/"><u>5 Tips for Enhancing Roblox Gaming Recordings (Mac) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-solution-to-overcome-windows-update-glitch-0x8024401c-in-windows-11-devices/"><u>A Step-by-Step Solution to Overcome Windows Update Glitch 0X8024401c in Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-illumination-troubleshooting-bring-back-the-glow/"><u>Corsair Illumination Troubleshooting: Bring Back the Glow</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-implemented-now-your-graphics-card-supports-easy-miracast-streaming/"><u>Fix Implemented: Now Your Graphics Card Supports Easy Miracast Streaming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/novice-to-pro-your-step-by-step-guide-to-youtube-live-images-for-2024/"><u>From Novice to Pro Your Step-by-Step Guide to YouTube Live Images for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-optimize-and-reduce-high-processor-load-from-wudfhostexe-in-windows-10/"><u>How to Optimize and Reduce High Processor Load From wudfhost.exe in Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-se-2022-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone SE (2022) Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis/"><u>In 2024, The Ultimate Showdown GoPro Max 360 VS Hero 11 Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-correcting-the-windows-update-failed-error-code-0x800705b4-on-windows-10/"><u>Step-by-Step Fix: Correcting the 'Windows Update Failed (Error Code 0X800705B4)' On Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-complete-walkthrough-to-activating-and-using-bluetooth-on-windows-7-systems/"><u>The Complete Walkthrough to Activating & Using Bluetooth on Windows 7 Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-language-matrix-decoding-complex-verbal-systems-in-star-wars/"><u>The Language Matrix: Decoding Complex Verbal Systems in Star Wars</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tp-link-ac-wireless-network-card-drivers-updated-for-windows-operating-systems-11-8-and-groove-download-now/"><u>TP-Link AC Wireless Network Card Drivers Updated | For Windows Operating Systems (11, 8 & Groove) Download Now</u></a></li>
+</ul></div>
 

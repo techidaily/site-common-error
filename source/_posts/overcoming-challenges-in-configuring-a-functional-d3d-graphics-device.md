@@ -1,7 +1,7 @@
 ---
 title: Overcoming Challenges in Configuring a Functional D3D Graphics Device
-date: 2024-10-18T16:00:58.052Z
-updated: 2024-10-24T19:32:48.731Z
+date: 2024-10-24T17:25:22.673Z
+updated: 2024-10-30T17:08:33.744Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/7e8f336fc2079d7aea2b749496409ce99e4eee388
 3. [**Check your power management settings**](#s3)
 4. [**Update your USB driver**](#s4)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Use a different USB port
 
  USB performance issues may occur if the USB port you plug your USB device into is dusty or damaged. You can try switching your USB device to a different USB port.
@@ -57,6 +50,13 @@ If all your USB ports aren’t working, try Step 2, below.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -68,24 +68,38 @@ If all your USB ports aren’t working, try Step 2, below.
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 8. Check if your USB port works properly now. If not, try Step 4, below.
@@ -111,13 +125,6 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  If you have any other suggestions or questions, please feel free to leave a comment below.
@@ -139,24 +146,15 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-newcomer-needs-efficient-purchases-of-monetizing-platforms/"><u>[New] In 2024, Newcomer Needs Efficient Purchases of Monetizing Platforms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/4-best-full-screen-recorder-for-pc-and-mac-for-2024/"><u>4 Best Full Screen Recorder for PC and Mac for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chromebook-zoom-excellence-must-know-strategies/"><u>Chromebook Zoom Excellence Must-Know Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-update-error-code-0xc1900208-a-step-by-step-guide/"><u>Fixing Windows 11 Update Error Code 0xC1900208: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/ftdi-bus-system-alert-memory-issues-arise-from-incompatible-driver-configurations/"><u>FTDI Bus System Alert: Memory Issues Arise From Incompatible Driver Configurations</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-microsofts-print-to-pdf-issue-on-windows-11/"><u>How to Fix Microsoft's Print to PDF Issue on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-netflix-no-sound-issues-easily/"><u>How To Fix Netflix No Sound Issues Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-logitech-g930-cutting-out/"><u>How To Solve Logitech G930 Cutting Out</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-reno-11-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo Reno 11 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-motorola-defy-2-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Motorola Defy 2 Phone?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-taking-views-viral-the-ultimate-guide-for-youtube-success/"><u>In 2024, Taking Views Viral The Ultimate Guide for YouTube Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/investing-in-future-updates-beyond-2025/"><u>Investing in Future Updates Beyond 2025</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-invalid-value-in-registry-issues-while-launching-photos-app-on-windows-11/"><u>Resolving 'Invalid Value in Registry' Issues While Launching Photos App on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-your-windows-10-mouses-right-click-functionality-with-these-expert-tips/"><u>Restore Your Windows 10 Mouse's Right-Click Functionality with These Expert Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/securing-trustedinstaller-approval-for-file-modification/"><u>Securing TrustedInstaller Approval for File Modification</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-error-0x80004005-unspecified-error/"><u>Solved: Error 0X80004005: Unspecified Error</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-hd-android-videos-ultimate-players-guide-for-2024/"><u>Top 10 HD Android Videos Ultimate Players Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-budget-friendly-streaming-tools-for-smooth-video-viewing-on-pc-and-mobile/"><u>[New] Best Budget-Friendly Streaming Tools for Smooth Video Viewing on PC and Mobile</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-shooting-hdr-iphones-pathway-to-enhanced-images/"><u>[New] Shooting HDR IPhone's Pathway to Enhanced Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-the-future-samsung-galaxy-s2er-ultra-unveiling-rumored-price-points-launch-dates-and-hardware-speculations/"><u>All About the Future Samsung Galaxy S2er Ultra - Unveiling Rumored Price Points, Launch Dates, and Hardware Speculations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-movie-recording-strategies-across-desktops-and-handhents-for-2024/"><u>Efficient Movie Recording Strategies Across Desktops and Handhents for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-guide-for-resolving-error-0x80070002-during-windows-updates/"><u>Effortless Guide for Resolving 'Error 0X80070002' During Windows Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-setup-integrating-your-airpods-into-macos-for-a-better-audio-experience/"><u>Effortless Setup: Integrating Your AirPods Into macOS for a Better Audio Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-v30-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo V30 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208712953-how-to-fix-an-unsuccessful-torrent-file-download-expert-tips/"><u>How to Fix an Unsuccessful Torrent File Download - Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-complete-mastering-error-code-0xa00f4292-in-windows-cameras/"><u>Troubleshooting Complete: Mastering Error Code 0xA00F4292 in Windows Cameras</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-shutdowns-on-windows-11/"><u>Unexpected Shutdowns on Windows 11</u></a></li>
 </ul></div>
 

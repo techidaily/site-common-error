@@ -1,7 +1,7 @@
 ---
 title: Mastering Touch Control on Your Laptop or Desktop - Essential Repair Tips for Windows 11 Enthusiasts
-date: 2024-09-08T16:00:05.373Z
-updated: 2024-09-15T16:00:10.148Z
+date: 2024-10-23T17:42:40.915Z
+updated: 2024-10-30T16:19:22.775Z
 tags:
   - win11
   - win10
@@ -45,19 +45,27 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Tip 3: Rebuild icon cache
 
@@ -83,6 +91,14 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
@@ -90,6 +106,19 @@ If your desktop icons still don’t show up, you can perform a system restore to
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -104,10 +133,10 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus tip
@@ -125,21 +154,20 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -163,5 +191,26 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-swift-solution-for-clownfish-vocal-alteration-on-pc-systems/"><u>[New] In 2024, Swift Solution for Clownfish Vocal Alteration on PC Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-slow-momentum-a-filmmakers-tale-on-instagram-for-2024/"><u>[New] Unlock Slow Momentum A Filmmaker’s Tale on Instagram for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-eye-catching-4k-experience-dell-p2715q-in-focus-for-2024/"><u>[Updated] The Eye Catching 4K Experience Dell P2715Q in Focus for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/achieve-side-by-side-viewing-on-chrome-the-pip-method/"><u>Achieve Side-by-Side Viewing on Chrome The PIP Method</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-solutions-for-fixing-error-code-0x8024002e-during-windows-updates/"><u>Definitive Solutions for Fixing Error Code 0X8024002E During Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-hp-laptop-webcam-problems-on-windows-10-operating-system/"><u>Effective Fixes for HP Laptop Webcam Problems on Windows 10 Operating System</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-7-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 7 for Free? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/interoperability-issue-fixed-non-responsive-htc-touchscreen/"><u>Interoperability Issue: Fixed Non-Responsive HTC Touchscreen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-play-7t-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Play 7T Phone FRP Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-add-ons-to-improve-sea-camera-shots/"><u>Leading Add-Ons to Improve Sea Camera Shots</u></a></li>
+<li><a href="https://common-error.techidaily.com/masterclass-ensuring-your-airpods-work-seamlessly-on-windows-tips-for-the-modern-tech-enthusiast/"><u>Masterclass: Ensuring Your AirPods Work Seamlessly on Windows (Tips for the Modern Tech Enthusiast )</u></a></li>
+<li><a href="https://common-error.techidaily.com/reestablish-your-connection-to-sound-fixing-audio-malfunctions-on-acers/"><u>Reestablish Your Connection to Sound: Fixing Audio Malfunctions on Acers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-graphics-and-gaming-new-vga-driver-updates-ready-to-go/"><u>Seamless Graphics and Gaming: New VGA Driver Updates Ready to Go</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205679336-solving-miracast-connectivity-issues-with-graphics-drivers-now-fixed/"><u>Solving Miracast Connectivity Issues with Graphics Drivers - Now Fixed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-correcting-the-unhandled-exception-0xc00e0005-issue-in-windows-os/"><u>Step-by-Step Tutorial: Correcting the Unhandled Exception (0xC00e0005) Issue in Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-unresponsive-ctrlplusaltplusdel-keys-easily/"><u>Troubleshoot and Resolve Unresponsive Ctrl+Alt+Del Keys Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-msdia80dll-importance-and-maintenance/"><u>Understanding msdia80.dll: Importance and Maintenance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-13-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 13 i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>
 

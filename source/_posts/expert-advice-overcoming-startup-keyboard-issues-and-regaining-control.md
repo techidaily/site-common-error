@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Overcoming Startup Keyboard Issues and Regaining Control"
-date: 2024-10-20T16:24:44.304Z
-updated: 2024-10-24T16:58:37.259Z
+date: 2024-10-25T18:10:46.449Z
+updated: 2024-10-30T18:09:42.380Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7664a26b24c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Method 2: Adjust your keyboard settings
@@ -67,31 +74,10 @@ If your computer is running Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665088706c.jpg)
 2. Click**Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76653d6e392.jpg)
 3. Click**Keyboard.** Then look at the status of**Use Sticky Keys** ,**Use Toggle Keys** ,**Use Filter Keys** . If any of them is On, switch to Off. Then move on to the next step. If all of them stay Off, move on to the next method.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If your computer is running Windows 11:
 
@@ -106,18 +92,33 @@ If your computer is running Windows 7:
 1. On the taskbar of your desktop, click the **Start button** , then select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76673c8c257.jpg)
 2. Click **Ease of Access** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766794641a7.jpg)
 3. Click **Change how your keyboard works** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766866a67e4.jpg)
 4. Make sure the three items **Turn on Sticky Keys** , **Turn on Toggle Keys** , and **Turn on Filter Keys**  are unchecked.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Try to type some words using your keyboard to see if it works.
 
@@ -139,22 +140,15 @@ See how to do it:
 4. Once you do, restart your computer. Windows should then reinstall the driver for your keyboard automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try to type some words using your keyboard to see if it works. If you type successfully, great! If you still aren’t able to type on your keyboard, don’t feel frustrated, move on to the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Update your keyboard driver
 
@@ -173,20 +167,27 @@ See how to do it:
 **Note:** You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766e1dcd420.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Try this fix if you’re using a USB keyboard
 
  If unfortunately, all the fixes above fail to help you and you’re using a USB keyboard, You can try to connect the keyboard with**another USB port** to check if it works as an old, shabby USB port could cause your Keyboard not to work.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Try this fix if you’re using a wireless keyboard
 
@@ -225,18 +226,21 @@ Try to type some words using your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-from-novice-to-pro-learning-snapseed-essentials/"><u>[New] 2024 Approved From Novice to Pro Learning Snapseed Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gripping-gospels-intros-that-draw-ears/"><u>[Updated] Gripping Gospels Intros That Draw Ears</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/complete-guide-retrieving-accidentally-erased-iphone-note-app-entries/"><u>Complete Guide: Retrieving Accidentally Erased iPhone Note App Entries</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-keyboard-darkness-issue-a-step-by-step-illumination-restoration-method/"><u>Corsair Keyboard Darkness Issue? A Step-by-Step Illumination Restoration Method</u></a></li>
-<li><a href="https://fox-access.techidaily.com/enhancing-your-gopros-energy-duration-for-2024/"><u>Enhancing Your GoPro's Energy Duration for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-a-non-functional-mic-on-your-samsung-playstation-4-console/"><u>Expert Tips for Fixing a Non-Functional Mic on Your Samsung PlayStation 4 Console</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fifa-20-and-pc-compatibility-solutions-your-all-in-one-resource-for-eradicating-game-interruptions/"><u>FIFA 20 and PC Compatibility Solutions: Your All-in-One Resource for Eradicating Game Interruptions</u></a></li>
-<li><a href="https://common-error.techidaily.com/frozen-function-computer-wont-leave-win1110-snooze/"><u>Frozen Function: Computer Won't Leave Win11/10 Snooze</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-microsoft-works-with-windows-11-easy/"><u>Integrating Microsoft Works with Windows 11 Easy</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-10-for-reliable-clipboard-use/"><u>Optimizing Windows 10 for Reliable Clipboard Use</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-solutions-how-to-fix-a-freezing-windows-11-system/"><u>Top Solutions: How to Fix a Freezing Windows 11 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-service-failed-to-start-issue-for-user-profiles-in-windows-10-and-11/"><u>Troubleshooting the 'Service Failed to Start' Issue for User Profiles in Windows 10 & 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/visionary-viewing-10-high-res-screens-for-2024/"><u>Visionary Viewing #10 High-Res Screens for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-expose-and-rectify-vanished-videos-on-fb/"><u>[New] How to Expose and Rectify Vanished Videos on FB</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-cutting-edge-techniques-for-backdrop-acquisition/"><u>[New] In 2024, Cutting-Edge Techniques for Backdrop Acquisition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-strategic-shifts-in-social-media-predictions-for-facebooks-future-for-2024/"><u>[New] Strategic Shifts in Social Media Predictions for Facebook's Future for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-auditory-options-for-iphones/"><u>2024 Approved Premier Auditory Options for iPhones</u></a></li>
+<li><a href="https://discover-community.techidaily.com/4-efficiente-methoden-om-windows-10-terug-te-draaien-tenuiseer-zonder-gedenkbreedheid-voor-permanent-verwijdering/"><u>4 Efficiënte Methoden Om Windows 10 Terug Te Draaien Tenuiseer Zonder Gedenkbreedheid Voor Permanent Verwijdering</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beam-yourself-into-vr-android-tips-and-tricks-for-2024/"><u>Beam Yourself Into VR Android Tips & Tricks for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-se-2020-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone SE (2020) without a computer?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-execution-errors-on-your-windows-media-player-server/"><u>How to Successfully Overcome Execution Errors on Your Windows Media Player Server</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-infinix-hot-30-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Infinix Hot 30 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 14</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-repairing-steam-disk-write-failures-a-comprehensive-guide-for-smooth-installations/"><u>Master the Art of Repairing Steam Disk Write Failures - A Comprehensive Guide for Smooth Installations</u></a></li>
+<li><a href="https://common-error.techidaily.com/scrolling-gains-for-the-modern-pc/"><u>Scrolling Gains for the Modern PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-party-chat-features-may-be-blocked-by-your-home-wifi-setup/"><u>Solved: Why Party Chat Features May Be Blocked by Your Home WiFi Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-inert-tailored-settings-on-your-device/"><u>Solving the Problem of Inert Tailored Settings on Your Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-microsoft-surface-pro-4-touch-screen-responding-solve-the-problem-here/"><u>Why Isn’t My Microsoft Surface Pro 4 Touch Screen Responding? Solve the Problem Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/wmi-optimization-strategies-for-enhanced-win11-speed/"><u>WMI Optimization Strategies for Enhanced Win11 Speed</u></a></li>
 </ul></div>
 

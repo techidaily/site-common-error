@@ -1,7 +1,7 @@
 ---
 title: How to Restore Functionality of Your Logitech Mouse's Scroll Wheel
-date: 2024-09-11T16:00:34.815Z
-updated: 2024-09-15T16:00:09.511Z
+date: 2024-10-23T17:42:36.475Z
+updated: 2024-10-30T18:05:45.650Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-634.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the**Power & sleep** tab, in the results pane, under**Related settings** , click**Additional power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
@@ -86,19 +93,33 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Tick the “Support TabletPC” option
@@ -111,9 +132,23 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
 
@@ -163,13 +198,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
@@ -190,13 +218,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Uncheck “Enable Windows Ink”
 
  This fix should work if you’re experiencing brush lags or other similar issues in Photoshop, with a Huion pen/tablet. Here’s how to do it:
@@ -205,16 +226,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then save the file as**PSUserConfig.txt** to the following location:
 
@@ -225,13 +252,6 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 **Note** that some of the functions in your drawing software may be unusable if you disable Windows Ink. In that situation, you’ll need to enable Windows Ink again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
@@ -256,5 +276,26 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-audiophiles-guide-to-speed-adjustment-apps/"><u>[New] 2024 Approved Audiophile's Guide to Speed Adjustment Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-strategizing-effective-movie-sneak-peeks/"><u>[New] 2024 Approved Strategizing Effective Movie Sneak Peeks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-essential-tips-for-incorporating-dynamic-cards-in-youtube-videos-for-2024/"><u>[Updated] Essential Tips for Incorporating Dynamic Cards in YouTube Videos for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-the-beam-easy-fix-for-monitor-blackout/"><u>Bring Back the Beam: Easy Fix for Monitor Blackout</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-task-managers-curious-display/"><u>Dissecting Task Manager's Curious Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-user-restrictions-and-organization-policies-on-windows-platforms/"><u>Exploring User Restrictions and Organization Policies on Windows Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-access-after-encountering-no-boot-disk-errors/"><u>Guide to Restoring Access After Encountering No Boot Disk Errors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/hack-the-art-of-instagram-reels-creation-for-2024/"><u>Hack the Art of Instagram Reels Creation for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y17s-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y17s Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-spark-20c-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Spark 20C Phones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/nef-to-jpg-image-transformation-at-no-cost-quick-and-easy-with-movavis-web-service/"><u>NEF to JPG Image Transformation at No Cost - Quick and Easy with Movavi's Web Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-guide-correcting-your-monitors-lack-of-video-feed-issues/"><u>Quick Fix Guide: Correcting Your Monitor's Lack of Video Feed Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/rectifying-pc-charging-problems-overcoming-the-plugged-in-but-not-charging-hurdle-in-windows-systems/"><u>Rectifying PC Charging Problems: Overcoming the 'Plugged In but Not Charging' Hurdle in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-restore-vanished-desktop-icons-in-windows-1-system/"><u>Solved: How to Restore Vanished Desktop Icons in Windows 1^ System</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-overcome-sign-in-problems-due-to-user-profile-service-failure-in-windows/"><u>Step-by-Step Guide to Overcome Sign-In Problems Due to User Profile Service Failure in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-the-dilemma-of-disconnected-airpods-on-windows-11/"><u>Troubleshooting Guide: Solving the Dilemma of Disconnected AirPods on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-resolve-a-missing-binkw32dll-error-on-your-pc/"><u>Troubleshooting: How to Resolve a Missing binkw32.dll Error on Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-potential-comprehensive-review-of-feelworlds-foldable-monitor-dh1-for-tech-enthusiasts-seeking-compactness-and-functionality/"><u>Unveiling the Potential: Comprehensive Review of Feelworld's Foldable Monitor DH1# for Tech Enthusiasts Seeking Compactness and Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-port-issues-on-dell-diagnosis-and-fixing-techniques-revealed/"><u>USB Port Issues on Dell: Diagnosis & Fixing Techniques Revealed</u></a></li>
+</ul></div>
 

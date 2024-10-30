@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: How to Repair Your Unresponsive Mic on PCs with Windows 10"
-date: 2024-10-18T22:48:18.568Z
-updated: 2024-10-24T20:14:26.612Z
+date: 2024-10-29T17:09:38.570Z
+updated: 2024-10-30T18:05:34.911Z
 tags:
   - win11
   - win10
@@ -64,19 +64,6 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -86,6 +73,13 @@ If you’re a laptop user, you could follow these steps:
  If cleaning the keyboard didn’t work for you, you need to[boot to BIOS](https://tools.techidaily.com/drivereasy/download/) .  
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -117,19 +111,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -143,30 +137,25 @@ OR
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -195,18 +184,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-superior-download-manager-best-youtube-downloader-apps-for-2024/"><u>[New] Superior Download Manager Best YouTube Downloader Apps for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-fifa-film-analysis-on-youtube-infographics/"><u>[New] Top FIFA Film Analysis on YouTube Infographics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-brand-transformation-on-instagram-top-10-unconventional-igtv-video-ideas-for-2024/"><u>[Updated] Brand Transformation on Instagram Top 10 Unconventional IGTV Video Ideas for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-saving-gifs-on-your-iphone-a-step-by-step-approach/"><u>[Updated] Saving GIFs on Your iPhone - A Step-by-Step Approach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-vivid-skies-highlighted-hdr-web-platforms/"><u>2024 Approved Explore Vivid Skies Highlighted HDR Web Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/breaking-free-from-frozen-updates-on-outdated-windows-version-expert-advice-solutions-and-step-by-step-guide-for-better-user-experience-in-the-year-of-our-l102/"><u>Breaking Free From Frozen Updates on Outdated Windows Version – Expert Advice, Solutions & Step-by-Step Guide for Better User Experience in the Year of Our Lord Two Thousand And Twenty Four (Guide, Helpful Tips and Troubleshooting Steps)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-the-unmatched-excellence-of-the-samsung-galaxy-note-9/"><u>Comprehensive Review: The Unmatched Excellence of the Samsung Galaxy Note 9</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-unsticking-a-frozen-google-chrome-browser/"><u>Expert Tips for Unsticking a Frozen Google Chrome Browser</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-red-dead-redemption-2-memory-crash-increase-pagefile-guide/"><u>Fix Red Dead Redemption 2 Memory Crash - Increase Pagefile Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-professional-grade-video-editing-on-mac-adobe-premiere-pro/"><u>New 2024 Approved Professional-Grade Video Editing on Mac Adobe Premiere Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-update-windows-11-despite-error-0xc1900208-guide/"><u>Successfully Update Windows 11 Despite Error 0Xc1900208 [GUIDE]</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-exploring-best-fit-basic-to-pro-in-vimeo-services/"><u>[New] In 2024, Exploring Best Fit Basic to Pro in Vimeo Services</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-plotting-the-pathway-for-engaging-youtube-content/"><u>[New] In 2024, Plotting the Pathway for Engaging YouTube Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-10-freezes-on-startup-or-boot/"><u>[Solved] Windows 10 Freezes on Startup or Boot</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-classroom-vids-essential-editing-strategies/"><u>[Updated] 2024 Approved Classroom Vids Essential Editing Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-chuckle-filled-creativity-crafting-7-side-splitting-youtube-sets/"><u>[Updated] In 2024, Chuckle-Filled Creativity Crafting 7 Side-Splitting YouTube Sets</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-pioneering-business-through-virtual-realitiescape/"><u>[Updated] In 2024, Pioneering Business Through Virtual Realitiescape</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-unidentified-usb-hardware-problems-and-port-issues-on-windows-11/"><u>Effective Fixes for Unidentified USB Hardware Problems & Port Issues on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-crashes-in-nier-automata-windows-edition/"><u>How to Fix Crashes in Nier: Automata Windows Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-and-repairing-microsofts-error-code-0x8024402c-on-your-pc/"><u>Navigating and Repairing Microsoft's Error Code 0X8024402c on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-drive-where-windows-is-installed-is-locked-in-windows-11/"><u>The Drive Where Windows Is Installed Is Locked in Windows 11</u></a></li>
 </ul></div>
 

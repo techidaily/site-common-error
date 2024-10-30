@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Lenovo Network Woes: Dealing with Missing Wireless Adapter Drivers"
-date: 2024-10-22T19:20:17.228Z
-updated: 2024-10-24T17:27:26.959Z
+date: 2024-10-28T17:05:46.210Z
+updated: 2024-10-30T18:18:25.676Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ If you’d like to know why you can’t browse the Internet due to the **‘DNS 
 
 **Note:** The screens shown below are from Windows 10, but all the methods also apply to Windows 11/8/7.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Correct your DNS server address
 
 The DNS server not responding error could be probably caused by an **incorrect DNS server address**. So you can follow these to correct your DNS server address:
@@ -63,6 +56,13 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1287bc28f2e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click **Change adapter settings**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1286df40874.jpg)
@@ -75,13 +75,6 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128fa0c7dc8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12900623628.png)
@@ -89,13 +82,6 @@ The DNS server not responding error could be probably caused by an **incorrect D
 8) Click **Internet Protocol Version 6(TCP/IPv6)**, then **Properties**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12903014de5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
@@ -105,6 +91,13 @@ Restart your computer and try to access the website you want to go to again and 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Clear your DNS cache and reset your IP
 
 There may be problems with your DNS server if its cache is getting full. To see if that’s the case, try clearing the DNS cache and resetting the IP address.
@@ -112,6 +105,13 @@ There may be problems with your DNS server if its cache is getting full. To see 
 1) Type **cmd** in the search box from the Start menu. Then right-click on **Command Prompt** to select **Run as administrator**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1298fb8c2d7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Click **Yes** when prompted by the User Account Control.
 
@@ -126,6 +126,13 @@ There may be problems with your DNS server if its cache is getting full. To see 
  **ipconfig /renew**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a129aa3217b1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then restart your computer and try to access the website you want to visit again and see if it succeeds.
 
@@ -144,27 +151,20 @@ You can update your drivers automatically with either the **FREE** or the **Pro*
 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)  
 **Note**: You can do it for free if you like, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After updating your network adapter driver, please restart your computer. Try to access the website you want to go to again and see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 4: Restart your modem and router
 
@@ -174,16 +174,16 @@ If your modem or router doesn’t work properly, the DNS server could stop respo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-28.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Try to access the website you want to go to again and see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why can’t I access websites when the DNS server not responding?
 
@@ -214,17 +214,17 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fresh-approaches-to-instagram-collages-made-simple/"><u>[New] Fresh Approaches to Instagram Collages Made Simple</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-choices-8-edits-suites-for-linux-users/"><u>[New] In 2024, Best Choices 8 Edits Suites for Linux Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-efficient-methods-for-android-screen-recordings/"><u>[New] In 2024, Efficient Methods for Android Screen Recordings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-mastering-aspect-ratio-rules-for-twitter-content-for-2024/"><u>[New] Mastering Aspect Ratio Rules for Twitter Content for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-does-windows/"><u>[Troubleshooting Guide] Why Does Windows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-future-of-tiktok-master-video-trends-and-techniques/"><u>2024 Approved The Future of TikTok - Master Video Trends and Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/brightness-adjustment-missing-help-required/"><u>Brightness Adjustment Missing - Help Required</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/enhancing-engagement-tweeting-for-fb-exposure-for-2024/"><u>Enhancing Engagement Tweeting for FB Exposure for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveil-your-video-potential-streaming-google-meet-to-youtube-guide/"><u>In 2024, Unveil Your Video Potential Streaming Google Meet to YouTube Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-enabling-night-mode-on-windows-10-and-11-systems/"><u>Troubleshooting Tips for Enabling Night Mode on Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-to-do-when-your-pc-cant-install-windows-11-version-1607/"><u>What to Do When Your PC Can't Install Windows 11 Version 1607</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-perfecting-your-video-conferencing-experience-with-slack-and-filmora/"><u>[New] 2024 Approved Perfecting Your Video Conferencing Experience with Slack & Filmora</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-blue-badge-on-facebook-your-pathway-unveiled/"><u>[New] In 2024, Blue Badge on Facebook Your Pathway Unveiled</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elevating-your-content-strategy-with-smart-igtv-hashtags/"><u>[Updated] In 2024, Elevating Your Content Strategy with Smart IGTV Hashtags</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-strategic-message-management-expert-tips-for-discord-pinning-for-2024/"><u>[Updated] Strategic Message Management Expert Tips for Discord Pinning for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-to-resolve-windows-amoledo64win10exe-error-code-0x80073712-in-windows-11/"><u>Comprehensive Solution to Resolve Windows amoledo_64_win10.exe Error Code 0X80073712 in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-the-darkness-overcoming-google-chromes-intimidating-black-screen-challenge/"><u>Decode the Darkness: Overcoming Google Chrome's Intimidating Black Screen Challenge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-permanently-discontinue-use-of-your-twitch-account-a-step-by-step-guide/"><u>How To Permanently Discontinue Use Of Your Twitch Account - A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/perfect-your-channel-imagery-youtube-thumbnail-dos-and-donts-for-2024/"><u>Perfect Your Channel Imagery YouTube Thumbnail Do's & Don'ts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-latest-tablet-essentials-today-find-the-best-deals-on-ipad-pro-ipad-air-and-enhanced-apple-pencil-preorders/"><u>Secure Your Latest Tablet Essentials Today – Find the Best Deals on iPad Pro, iPad Air, and Enhanced Apple Pencil Preorders!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-render-error-initialization-failure-patch-of-2021/"><u>Solutions for 'Render Error - Initialization Failure' Patch of 2021</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-pubg-construction-delays-and-missing-structures/"><u>Solved: How to Fix PUBG Construction Delays & Missing Structures</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-erroneous-module-data-for-uninterrupted-gaming-experience/"><u>Troubleshoot 'Erroneous Module Data' For Uninterrupted Gaming Experience</u></a></li>
 </ul></div>
 

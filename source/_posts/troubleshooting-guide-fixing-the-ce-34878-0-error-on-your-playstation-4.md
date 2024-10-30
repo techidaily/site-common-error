@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing the CE-34878-0 Error on Your PlayStation 4"
-date: 2024-10-18T17:05:18.078Z
-updated: 2024-10-24T20:54:35.892Z
+date: 2024-10-25T17:50:24.502Z
+updated: 2024-10-30T16:15:14.871Z
 tags:
   - win11
   - win10
@@ -49,38 +49,18 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae442394ec26.png)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click the**Compatibility** tab, check**Run this program as an administrator** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae454db00d71.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Double click the_executable (.exe) file_ of or the_desktop shortcut_ to your game, then check to see if you’ve got rid of the “failed to install” error.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Run the BattlEye launcher as an administrator
 
@@ -99,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
  If this method works for you, you won’t see the error when you launch your game. But if it doesn’t, there are three more fixes for you to try…
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Run the BattlEye installer manually
@@ -129,6 +109,13 @@ To verify your game files integrity on Steam:
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Wait until the process is completed.
 
 **4)** Launch your game. Then check to see if the error’s gone.
@@ -150,15 +137,28 @@ To verify your game files integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to each device to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
@@ -177,22 +177,24 @@ To verify your game files integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-video-game-top-tips-for-perfect-live-thumbnails/"><u>[New] 2024 Approved Elevate Your Video Game Top Tips for Perfect Live Thumbnails</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revel-in-history-reactivating-deleted-reddit-articles/"><u>[New] Revel in History Reactivating Deleted Reddit Articles</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-a-comprehensive-walkthrough-of-youtube-timestamping-techniques/"><u>[Updated] 2024 Approved A Comprehensive Walkthrough of YouTube Timestamping Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-22-in-depth-metaverse-illustrations-for-enlightenment/"><u>[Updated] 22 In-Depth Metaverse Illustrations for Enlightenment</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>[Updated] Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-navigating-igtv-essential-knowledge-and-usage/"><u>2024 Approved Navigating IGTV Essential Knowledge & Usage</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-original-tape-review-study-guide/"><u>2024 Approved Original Tape Review Study Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/best-gratuito-photoshop-alternatives-for-editors-the-ultimate-selection/"><u>Best Gratuito Photoshop Alternatives for Editors - The Ultimate Selection</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-tackle-videodxgkrnl-fatal-issues-on-windows-machines/"><u>Comprehensive Solutions to Tackle Video_Dxgkrnl Fatal Issues on Windows Machines</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-initialization-errors-for-windows-10-system-settings/"><u>Diagnosing and Repairing Initialization Errors for Windows 10 System Settings</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-to-fix-windows-update-error-0x80070652/"><u>Easy to Fix Windows Update Error 0X80070652</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-critical-issue-0x8024200d-during-windows-update-process-complete/"><u>Effective Fixes for Critical Issue 0X8024200d During Windows Update Process [COMPLETE]</u></a></li>
-<li><a href="https://common-error.techidaily.com/new-world-overcomes-previous-easy-anti-cheat-issues-now-fully-functional/"><u>New World Overcomes Previous Easy Anti-Cheat Issues: Now Fully Functional</u></a></li>
-<li><a href="https://common-error.techidaily.com/seamless-folder-navigation-in-windows-10-easy-tips-for-using-file-explorer/"><u>Seamless Folder Navigation in Windows 10 - Easy Tips for Using File Explorer</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-steam-api-dll-errors/"><u>Solutions for Steam API DLL Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-a-non-responsive-microsoft-keyboard/"><u>Troubleshooting Guide for a Non-Responsive Microsoft Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-0x80072efd-error-on-windows-10/"><u>Troubleshooting Guide: Resolving the 0X80072EFD Error on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-error-orglwjgllwjglexception-pixel-format-not-accelerated/"><u>[Fixed] Error: org.lwjgl.LWJGLException: Pixel Format Not Accelerated</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frontiers-in-virtuality-industry-analysis/"><u>[New] Frontiers in Virtuality Industry Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-grids-the-finest-10-grid-software/"><u>[Updated] 2024 Approved Mastering Instagram Grids The Finest 10 Grid Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-fresh-take-on-frigidity-crafting-inviting-backdrops/"><u>[Updated] In 2024, A Fresh Take on Frigidity Crafting Inviting Backdrops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-revolutionize-your-content-creation-the-mi-11s-screen-record-capabilities/"><u>[Updated] In 2024, Revolutionize Your Content Creation The Mi 11'S Screen Record Capabilities</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/arlo-video-doorbell-analysis-watch-hear-and-secure-with-one-device/"><u>Arlo Video Doorbell Analysis: Watch, Hear, and Secure with One Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/easily-fix-a-unresponsive-dns-server-with-these-4-steps/"><u>Easily Fix a Unresponsive DNS Server with These 4 Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-solving-d3derrnotavailable-error-with-ease/"><u>Expert Advice on Solving 'D3DERR_NOTAVAILABLE' Error with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-stalled-or-halted-windows-11-update-process-guide/"><u>Fixing a Stalled or Halted Windows 11 Update Process - Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-freezing-or-crashing-windows-10-system/"><u>How to Fix a Freezing or Crashing Windows 10 System</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-6s-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 6s Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-s23-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy S23 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-manually-shutting-down-unresponsive-pcs-on-windows-10-solved/"><u>Mastering The Art Of Manually Shutting Down Unresponsive PCs on Windows 10 [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-error-1-section-1-problem-advanced-pulse-modulation-techniques/"><u>Mastering the Fix: Error 1 # Section 1: Problem - Advanced Pulse Modulation Techniques</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/navigating-through-wd-sn55n-series-modifications-and-installation-tips/"><u>Navigating Through WD SN55n Series Modifications & Installation Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/optimal-video-techniques-to-dominate-freefire-vlogs-for-2024/"><u>Optimal Video Techniques to Dominate FreeFire Vlogs for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-functionality-of-your-hp-laptops-camera-in-windows-10/"><u>Step-by-Step Solution: Restoring Functionality of Your HP Laptop's Camera in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-update-error-0xc1900208-in-windows-11/"><u>Step-by-Step Solutions to Overcome Update Error 0xC1900208 in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-ideas-into-stories-with-chatgpts-nine-steps/"><u>Transforming Ideas Into Stories with ChatGPT's Nine Steps</u></a></li>
 </ul></div>
 

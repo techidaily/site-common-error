@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Fixing Issues with Logitec Mouse Scroll Functionality"
-date: 2024-09-09T08:55:01.664Z
-updated: 2024-09-10T08:55:01.664Z
+date: 2024-10-27T17:29:05.884Z
+updated: 2024-10-30T17:06:08.236Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Expert Advice: Fixing Issues with Logitec Mouse
 thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f099a461c4a5b1f228776ffdea.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solving Miracast Connectivity Issues with Graphics Drivers - Now Fixed
 
 If you see this **Miracast: not supported by graphics driver**error from **DxDiag** ? Don’t worry, it’s usually not hard to fix at all…
@@ -32,11 +26,12 @@ All the fixes below work both in**Windows 10**and**8**. You may not have to try 
 3. **[Update your Miracast adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Roll back your graphics card driver to a previous version
 
 Some graphics cards manufacturers have cut support for **Miracast**. So we might have to**roll back the drivers to a previous version**so that**Miracast**works. To do so:
@@ -44,25 +39,15 @@ Some graphics cards manufacturers have cut support for **Miracast**. So we might
 1. On your keyboard, press  **the Windows logo key**  and   **R** at the same time, then copy & paste **devmgmt.msc**  into the box and click  **OK**  .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Display adapters**  (aka. **graphics card** , **video card** ) to expand it.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e2baf0279.jpg)
 3. Click the**Driver** tab >**Roll Back Driver** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e27a083b7.jpg)
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Yes** if asked for confirmation. Then the driver will be restored to a previous version.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Restart you computer and see if**Miracast** works properly on your computer.
 
 ---
@@ -74,11 +59,12 @@ It’s also possible that the device you’re streaming content to doesn’t sup
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be94122c9d87.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Check if Miracast works properly as should right now. If yes, then congrats! But if the problem still persists, then move on to**Fix 3**, below.
 
 ---
@@ -91,11 +77,12 @@ This error may also occur when you have a corrupt/outdated **Miracast adapter** 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b43060ad35f9.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b43066ed2b95.jpg) You can do it for free if you like, but it’s partly manual.
 4. Restart your computer and see if this **Miracast: not supported by graphics driver** error message has been sorted.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -111,8 +98,6 @@ That’s it  – 3 tried and tested methods to help fix your**Miracast: not supp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +105,18 @@ That’s it  – 3 tried and tested methods to help fix your**Miracast: not supp
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-free-webm-players-how-to-play-webm-video-files/"><u>[New] Best Free WebM Players How to Play WebM Video Files?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-illuminate-focus-through-the-use-of-leading-lines-in-iphone-photography/"><u>[New] Illuminate Focus Through the Use of Leading Lines in iPhone Photography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-is-key-perfecting-close-up-videos-in-videoleap/"><u>[New] Precision Is Key Perfecting Close-Up Videos in Videoleap</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-blanked-second-display-on-win10win11/"><u>Eliminating Blanked Second Display on Win10/Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-fixing-windows-11s-inability-to-recognize-bluetooth-peripherals/"><u>Guide: Fixing Windows 11'S Inability to Recognize Bluetooth Peripherals</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-the-night-light-option-in-windows-11-when-it-stops-working/"><u>How to Reactivate the Night Light Option in Windows 11 when It Stops Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-buffering-masterful-ways-to-improve-streaming-on-kodi/"><u>Say Goodbye to Buffering: Masterful Ways to Improve Streaming on Kodi</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-complete-fix-manual-what-to-do-when-you-encounter-a-black-screen-on-dell-systems/"><u>The Complete Fix Manual: What to Do When You Encounter a Black Screen on Dell Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/uncover-sites-with-aggregated-ad-spots-on-youtube-for-2024/"><u>Uncover Sites with Aggregated Ad Spots on YouTube for 2024</u></a></li>
+</ul></div>
 

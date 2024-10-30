@@ -1,7 +1,7 @@
 ---
 title: Locating and Fixing the Necessary Driver Your PC Requires For Media Devices
-date: 2024-09-09T08:55:01.718Z
-updated: 2024-09-10T08:55:01.718Z
+date: 2024-10-26T17:26:24.933Z
+updated: 2024-10-30T16:31:58.452Z
 tags:
   - win11
   - win10
@@ -23,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756ceb050d3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Does this look familiar? If you are getting this error message in your Windows computer, don’t worry! This is a common issue and**you can fix the error easily and quickly** . The error message usually reads:
 
  A media driver your computer needs is missing. This could be a DVD, USB, or Hard disk driver. If you have a CD, DVD, or USB flash drive with the driver on it, please insert it now.
@@ -43,12 +37,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 4. [**Change the ISO file format**](#Fix4)
 5. _[**Things you should do after trying these methods**](#Fix5)_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why does the error occur?
 
  This error generally occurs when you are installing Windows on your PC/laptop. the possible causes can be:
@@ -60,12 +48,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
  You can actually fix the**A media driver your computer needs is missing** error easily and quickly with the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Re-plug the USB drive
 
  You can try to re-plug the USB drive to fix the problem. Try the steps below:
@@ -74,12 +56,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756ddcbe2a8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Re-plug the USB drive** into the computer again.
@@ -93,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
  1) When you see the error message popping up, click**Cancel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
@@ -124,17 +107,18 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
  4) Save the settings and try to install Windows again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Change the ISO file format
 
  The ISO file faulty can also cause the issue, so you can try to change the ISO file format to solve the issue.
 
  Double check the**extracted setup** from the ISO file. If it is in**NTFS format** , extract the ISO file in**FAT32 format** and use the setup to install Windows again.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Things you should do after trying these methods
 
@@ -152,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a741854f33af.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -159,11 +150,12 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a742eeb04a11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer to make it take effect.
 
  Here are the solutions to fix**A media driver your computer needs is missing** . If you have any questions, please feel free to comment below, and we’ll see what more we can do to help.
@@ -177,8 +169,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +176,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/nlock-50-exclusive-youtube-banner-free-gifts-in-2024/"><u>[New] Unlock 50 Exclusive YouTube Banner Free Gifts, In 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-fast-techniques-to-restructure-your-youtube-sequence-for-2024/"><u>[Updated] Fast Techniques to Restructure Your YouTube Sequence for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-story-audiences-the-untold-details-for-2024/"><u>[Updated] Instagram Story Audiences The Untold Details for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/change-default-backup-location-mac-for-2024/"><u>Change Default Backup Location (Mac) for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-redmi-12-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Redmi 12</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-melodious-feed-infusing-ig-stories-with-music/"><u>In 2024, Melodious Feed Infusing IG Stories With Music</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-vr-video-versus-spherical-capture-tech-distinctions/"><u>In 2024, Unveiling VR Video versus Spherical Capture Tech Distinctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/managing-and-fixing-peak-cpu-consumption-in-windows-speaker-setup/"><u>Managing and Fixing Peak CPU Consumption in Windows Speaker Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207907025-solving-the-binkw32dll-file-not-found-issue-a-step-by-step-guide/"><u>Solving the binkw32.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-6-plus-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 6 Plus Activation Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-audio-devices-fix-no-sound-output-errors-on-windows-computers/"><u>Troubleshoot Audio Devices: Fix No Sound Output Errors on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-optimization-complete-how-to-fix-your-laggy-keyboard-experience/"><u>Windows 11 Optimization Complete – How to Fix Your Laggy Keyboard Experience</u></a></li>
+</ul></div>
 

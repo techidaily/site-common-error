@@ -1,7 +1,7 @@
 ---
 title: Stuck on a Non-Printable PDF? Effortless Strategies for Immediate Results
-date: 2024-10-21T20:20:53.402Z
-updated: 2024-10-24T19:05:20.384Z
+date: 2024-10-26T17:24:07.191Z
+updated: 2024-10-30T16:11:20.774Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Remove browser extensions
@@ -91,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/turn-off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Scroll down to the bottom, disable**Help improve Chrome’s features and performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.2.jpg)
@@ -98,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
  5) Restart Chrome and open a URL in the third-party app to check if the error appears or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Reset Google Chrome to default settings
 
@@ -124,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Clear Google Chrome cache
@@ -140,13 +154,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the open Window, click**Clear browsing data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
@@ -154,13 +161,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
  4) Click**Clear data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Relaunch Chrome and open a URL in the third-party app to check the error will appear or not.
 
@@ -175,31 +175,24 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.5-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the**Shortcut** tab, add`“--process-per-site”` in the Target box and then click**Apply** .  
  Next, a window will appear. Click**Continue** , then click**OK** .  
 **Note** : There’s a space before`“--process-per-site”` .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Restart Chrome and open a URL in the third-party app to check whether the error will appear or not.
 
 **Note** : If this method works for you, you should start Chrome with this shortcut every time.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Rename the Google Chrome profile
 
@@ -216,13 +209,6 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
  3) Double click**Google** \>**Chrome** \>**User Data** to locate the**Default** folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.12-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Rename Default folder into_Default backup_ .
 
@@ -246,20 +232,40 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/control-1024x626.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Set Control Panel view by**Category** . Then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap821-1024x665.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click on Google Chrome and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/uninstall-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Use another browser to download the latest version of Google Chrome from the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI0sLo0YH%5F4QIVksJkCh1jiw8SEAAYASAAEgIDF%5FD%5FBwE&gclsrc=aw.ds) .  
 
@@ -286,18 +292,21 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/no-charge-issue-why-your-plugged-in-laptop-isnt-charging/"><u>- No Charge Issue: Why Your Plugged-In Laptop Isn't Charging</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-template-to-tutorial-gamers-channel-design/"><u>[New] In 2024, From Template to Tutorial Gamers' Channel Design</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-revolutionizing-the-market-the-leading-7-tools-to-create-digital-tokens-for-2024/"><u>[New] Revolutionizing the Market - The Leading 7 Tools to Create Digital Tokens for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-and-uncomplicated-youtube-image-extractor-tools-reviewed/"><u>[Updated] In 2024, Free and Uncomplicated YouTube Image Extractor Tools Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-audio-with-apods/"><u>2024 Approved Navigating the World of Audio with APods</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage/"><u>2024 Approved Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-most-shared-stock-photos-and-backstories/"><u>2024 Approved Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-s23-ultra-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy S23 Ultra to New Phone | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/league-of-legends-update-dilemma-speed-up-your-game-install-process-now/"><u>League of Legends Update Dilemma? Speed Up Your Game Install Process Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-windows-11-couldnt-be-installed-issue-error-code-802e0020-guide/"><u>Overcoming the 'Windows 11 Couldn't Be Installed' Issue - Error Code 802E0020 Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/roblox-status-check-server-issues-or-personal-connectivity/"><u>Roblox Status Check: Server Issues or Personal Connectivity?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209196513-step-by-step-repair-for-windows-10-mutevolume-issues-resolved/"><u>Step-by-Step Repair for Windows 10 Mute/Volume Issues - Resolved!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-agrarian-adventures-unplugged-stardews-kin-titles/"><u>[New] 2024 Approved Agrarian Adventures Unplugged Stardew's Kin Titles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-rapid-routines-to-disrupt-youtube-list-ordering/"><u>[New] 2024 Approved Rapid Routines to Disrupt YouTube List Ordering</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-optimal-ways-to-preserve-android-records-for-2024/"><u>[New] Optimal Ways to Preserve Android Records for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unlocking-potential-advanced-techniques-for-slug-line-creation-for-2024/"><u>[Updated] Unlocking Potential Advanced Techniques for Slug Line Creation for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-6-minecraft-abodes-for-survivors/"><u>2024 Approved Top 6 Minecraft Abodes for Survivors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-moto-g84-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Moto G84 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-solutions-to-fix-windows-network-error-code-0x800704cf/"><u>Efficient Solutions to Fix 'Windows Network Error Code 0X800704CF'</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-common-elevation-errors-during-operation-requests-in-windows-operating-systems/"><u>Fix Common Elevation Errors During Operation Requests in Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207566463-forgotten-sd-card-discover-remedies/"><u>Forgotten SD Card, Discover Remedies!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-captivating-storytelling-with-a-soundtrack-on-instagram/"><u>In 2024, Crafting Captivating Storytelling with a Soundtrack on Instagram</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-wont-play-on-motorola-razr-40-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204368141-troubleshoot-your-way-out-of-windows-10-update-failure-code-0x800f0922-solved/"><u>Troubleshoot Your Way Out of Windows 10 Update Failure: Code 0X800F0922 Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/tutorial-correctly-setting-up-windows-10-configuration-system-to-avoid-failure/"><u>Tutorial: Correctly Setting Up Windows 10 Configuration System to Avoid Failure</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-oculus-device-malfunctions/"><u>Ultimate Guide: Resolving Oculus Device Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-error-0x80240017-fixed/"><u>Windows Update Error 0X80240017 [Fixed]</u></a></li>
 </ul></div>
 

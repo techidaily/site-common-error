@@ -1,7 +1,7 @@
 ---
 title: Windows & System Event Notification Services Connection Problem, Fixed
-date: 2024-10-17T17:15:39.493Z
-updated: 2024-10-24T20:47:41.540Z
+date: 2024-10-29T16:18:30.689Z
+updated: 2024-10-30T17:24:47.471Z
 tags:
   - win11
   - win10
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/695183b6a6b4d76d103065d6006616fe1a028ff3d
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
@@ -65,20 +65,13 @@ thumbnail: https://thmb.techidaily.com/695183b6a6b4d76d103065d6006616fe1a028ff3d
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
@@ -94,12 +87,27 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
  If resetting Winsock worked temporarily, you can move to Fix 5.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
 
@@ -132,20 +140,20 @@ Follow these steps to reset your Winsock Catalog:
 4. Click View installed updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your computer to see if the error has gone.
@@ -165,13 +173,6 @@ Restart your computer to see if the error has gone.
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -197,22 +198,18 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-decoding-facebook-capturing-and-keeping-status-videos/"><u>[New] In 2024, Decoding Facebook Capturing and Keeping Status Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-next-level-game-monitoring-software-beyond-the-fbx-standard/"><u>[New] Next Level Game Monitoring Software Beyond the FBX Standard</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-and-resolve-unity-graphics-error-during-launch-successfully-now/"><u>Bypass and Resolve Unity Graphics Error During Launch Successfully Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-semaphore-timeout-period-error-resolution-causes-for-0x80070079/"><u>Expert Advice on 'Semaphore Timeout Period' Error Resolution, Causes for 0X80070079</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-and-optimize-overcoming-non-operational-diagnostic-services-issues/"><u>Fix and Optimize: Overcoming Non-Operational Diagnostic Services Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-chrome-errsslprotocolerror-for-smooth-browsing/"><u>How to Correctly Address 'Chrome ERR_SSL_PROTOCOL_ERROR' For Smooth Browsing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-nokia-105-classic-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Nokia 105 Classic To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-control-video-pace-in-instagram/"><u>In 2024, Step-by-Step Guide to Control Video Pace in Instagram</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-strategy-for-unearthing-secret-youtube-videos/"><u>In 2024, Step-by-Step Strategy for Unearthing Secret YouTube Videos</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://win-web.techidaily.com/simplify-your-network-storage-aomeis-ultimate-guide-to-backing-up-your-buffalo-nas-on-pc/"><u>Simplify Your Network Storage: AOMEI's Ultimate Guide to Backing Up Your Buffalo NAS on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211288428-surface-pen-wont-respond-heres-how-to-make-it-work-again/"><u>Surface Pen Won't Respond? Here’s How to Make It Work Again!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-foodies-framebook-stepwise-filming-for-2024/"><u>The Foodie's Framebook Stepwise Filming for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-responsive-number-keys-on-your-keyboard/"><u>Troubleshooting Guide: Fixing Non-Responsive Number Keys on Your Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-miracast-compatible-with-your-system-driver/"><u>Troubleshooting Guide: Making Miracast Compatible With Your System Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolve-device-unprepared-alert/"><u>Troubleshooting Steps: Resolve 'Device Unprepared' Alert</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-os-x-mavericks-video-editing-tutorial-mastering-the-basics/"><u>Updated OS X Mavericks Video Editing Tutorial Mastering the Basics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-crafting-compelling-examples-podcast-summaries/"><u>[Updated] In 2024, Crafting Compelling Examples Podcast Summaries</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-skyrim-perpetual-boot-loop-solutions-and-tips/"><u>Bypassing Skyrim Perpetual Boot Loop: Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/closure-non-existent-driver-support-for-opengl/"><u>Closure: Non-Existent Driver Support for OpenGL</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-update-instructions-for-epson-et-3760-printer-on-windows-computers/"><u>Easy Update Instructions for Epson ET-3760 Printer on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-methods-to-overcome-cutting-out-noise-in-logitech-g930-speakers/"><u>Effective Methods to Overcome Cutting Out Noise in Logitech G930 Speakers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-does-the-bookbook-v2-hold-up-in-depth-review-by-twelve-south-for-macbook-users/"><u>How Does the BookBook V2 Hold Up? In-Depth Review by Twelve South for MacBook Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-15-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 15 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/reestablishing-communication-with-a-non-responsive-obs-cam-for-2024/"><u>Reestablishing Communication with a Non-Responsive OBS Cam for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-stories-how-to-get-nier-replicant-remaster-running-smoothly-again/"><u>Success Stories: How to Get NieR Replicant Remaster Running Smoothly Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-fixes-for-your-playstation-4s-troublesome-ce-34878-0-error-now-available/"><u>The Definitive Fixes for Your PlayStation 4'S Troublesome CE-34878-0 Error - Now Available</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-smartwatches-a-buyers-guide/"><u>Top Rated Smartwatches : A Buyer's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-hidden-radios-are-they-lurking-inside-your-mac-and-ipad-find-out-now/"><u>Unveiling Hidden Radios: Are They Lurking Inside Your Mac & iPad? Find Out Now!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-free-video-splitter-software-top-rated-options-for-this-year-for-2024/"><u>Updated Free Video Splitter Software Top-Rated Options for This Year for 2024</u></a></li>
 </ul></div>
 

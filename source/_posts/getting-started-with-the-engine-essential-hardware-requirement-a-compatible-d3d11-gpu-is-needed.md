@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with the Engine: Essential Hardware Requirement – A Compatible D3D11 GPU Is Needed"
-date: 2024-10-20T16:05:58.202Z
-updated: 2024-10-24T19:21:02.878Z
+date: 2024-10-23T17:28:49.819Z
+updated: 2024-10-30T18:06:09.369Z
 tags:
   - win11
   - win10
@@ -48,30 +48,30 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
@@ -79,16 +79,10 @@ You might also need to do this for **Bluetooth HID Device** and **Microsoft Hard
 ---
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -131,22 +125,24 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-broadcast-bliss-the-most-accurate-local-and-online-tv-services/"><u>[New] 2024 Approved Broadcast Bliss The Most Accurate Local and Online TV Services</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-exploring-options-when-facebook-takes-down-my-content-for-2024/"><u>[New] Exploring Options When Facebook Takes Down My Content for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-creative-image-collage-tools-ranked-10/"><u>[Updated] In 2024, Creative Image Collage Tools Ranked #10</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-step-by-step-tips-for-green-screen-cinematography-success/"><u>[Updated] Step-by-Step Tips for Green Screen Cinematography Success</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-noble-nine-top-dvd-creation-tools-sierra-edition/"><u>2024 Approved Noble Nine Top DVD Creation Tools, Sierra Edition</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-substitute-film-gems-for-fans-top-7-lists/"><u>2024 Approved Substitute Film Gems for Fans - Top 7 Lists</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-nokia-150-2023-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Nokia 150 (2023) PC | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-the-absence-of-opencl-drivers/"><u>Addressing the Absence of OpenCL Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208133743-errtoomanyredirects-clear-it-up-in-minutes-with-these-tips/"><u>ERR_TOO_MANY_REDIRECTS? Clear It Up in Minutes with These Tips!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-track-to-fixing-error-code-0x887a0006-a-speedier-solution-guide/"><u>Fast Track to Fixing Error Code 0X887A0006 – A Speedier Solution Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-computers-inability-to-read-a-usb-clear-explanations-and-fixes-for-usb-device-not-recognized/"><u>Fix Your Computer’s Inability to Read a USB: Clear Explanations and Fixes for 'USB Device Not Recognized'</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-the-secrets-to-outro-mastery-free-tutorials-1-6/"><u>In 2024, Unlocking the Secrets to Outro Mastery (FREE Tutorials 1-6)</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-computer-how-to-tame-unwarranted-system-load-caused-by-infrastructure-shell-on-windowslinux/"><u>Reviving Your Computer: How to Tame Unwarranted System Load Caused By Infrastructure Shell on Windows/Linux</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212279268-troubleshooting-and-repairing-windows-cant-reset-your-pc-message-solved/"><u>Troubleshooting and Repairing 'Windows Can't Reset Your PC' Message – Solved</u></a></li>
-<li><a href="https://common-error.techidaily.com/tuning-in-again-overcoming-the-mute-challenge-in-forza-horizon-4-gaming/"><u>Tuning In Again: Overcoming the Mute Challenge in Forza Horizon 4 Gaming</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-streamers-guide-to-best-free-options-across-every-system/"><u>Ultimate Streamer's Guide to Best Free Options Across Every System</u></a></li>
-<li><a href="https://common-error.techidaily.com/user-friendly-fixes-for-werfaultexe-software-malfunction/"><u>User-Friendly Fixes for werFault.exe Software Malfunction</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ost-effective-strategies-to-combine-videos-with-text-for-2024/"><u>[New] Cost-Effective Strategies to Combine Videos with Text for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-innovation-unleashed-new-samsung-ubd-k8500-review/"><u>[New] Innovation Unleashed - New Samsung UBD-K8500 Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ideal-equipment-for-animation-photography/"><u>[Updated] In 2024, Ideal Equipment for Animation Photography</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-fixing-a-nonfunctional-mic-on-your-astro-a40-laptop/"><u>Effective Remedies for Fixing a Nonfunctional Mic on Your Astro A40 Laptop</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-system-performance-with-s620-drivers/"><u>Efficient System Performance with S620 Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-unsuccessful-update-to-windows-11-build-1607/"><u>Error: Unsuccessful Update to Windows 11 Build 1607</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-non-functional-mic-issue-in-windows-11-troubleshooting-guide/"><u>Fixing a Non-Functional Mic Issue in Windows 11 - Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-persistent-screen-shimmer-on-windows-11/"><u>Fixing the Persistent Screen Shimmer on Windows 11</u></a></li>
+<li><a href="https://fox-search.techidaily.com/innovative-techniques-to-seamlessly-copy-audio-files-from-your-ipad-to-a-desktop-computer/"><u>Innovative Techniques to Seamlessly Copy Audio Files From Your iPad to a Desktop Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-keyboards-arrow-buttons-effective-solutions-inside/"><u>Reviving Your Keyboard's Arrow Buttons – Effective Solutions Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-converting-your-dall-e-webp-to-jpgpng-with-ease/"><u>Simple Steps: Converting Your DALL-E WebP to JPG/PNG with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204832042-solving-your-connectivity-issues-get-your-windows-pcs-bluetooth-mouse-running-again/"><u>Solving Your Connectivity Issues: Get Your Windows PC's Bluetooth Mouse Running Again</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-find-x7-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Find X7 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-htc-u23-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track HTC U23 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-for-errors-during-steam-game-installation-or-update-process/"><u>Troubleshooting: Fixes for Errors During Steam Game Installation or Update Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/us-caribbean/"><u>U.S. Caribbean</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-moisture-mayhem-the-ultimate-guide-to-detecting-9-iphone-damage-symptoms/"><u>Unveiling Moisture Mayhem: The Ultimate Guide to Detecting 9 iPhone Damage Symptoms</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-unexpected-reboots/"><u>Windows 10: Unexpected Reboots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/zdnets-deep-dive-into-apple-vision-pro-explore-costs-innovations-and-hands-on-analysis-for-tech-enthusiasts/"><u>ZDNet's Deep Dive Into Apple Vision Pro – Explore Costs, Innovations, and Hands-On Analysis for Tech Enthusiasts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Eliminating Blanked Second Display on Win10/Win11
-date: 2024-10-17T20:23:15.982Z
-updated: 2024-10-24T18:33:54.252Z
+date: 2024-10-26T18:02:36.498Z
+updated: 2024-10-30T16:34:43.046Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -51,10 +58,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
@@ -63,6 +70,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -88,13 +102,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run DISM
 
  Sometimes this keyboard delay problem happens because of corruption and misconfigurations on your computer. If that’s the case, you’ll have to**run**   **DISM** to check and fix the error.
@@ -103,21 +110,14 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
@@ -148,16 +148,17 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-step-by-step-creating-your-channels-simple-subscribe-button/"><u>[New] 2024 Approved Step by Step Creating Your Channel's Simple Subscribe Button</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevate-ps2-gameplay-on-ios-devices/"><u>[New] In 2024, Elevate PS2 Gameplay on iOS Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ltimate-microphone-choices-for-filmmakers-for-2024/"><u>[New] Ultimate Microphone Choices for Filmmakers for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-discover-top-affordable-video-editors-of-2023-today/"><u>[Updated] Discover Top Affordable Video Editors of 2023 Today</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-self-filmed-brilliance-secrets-for-youtube-success/"><u>2024 Approved Self-Filmed Brilliance Secrets for YouTube Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-diagnosing-and-fixing-the-continuous-not-recognized-error-on-your-usb-drives/"><u>Expert Tips for Diagnosing & Fixing the Continuous 'Not Recognized' Error on Your USB Drives</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://common-error.techidaily.com/post-game-reboots-are-common/"><u>Post-Game Reboots Are Common</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-overcome-the-preparing-to-install-windows-hang-up/"><u>Resolved: Step-by-Step Guide to Overcome the 'Preparing to Install Windows' Hang Up</u></a></li>
-<li><a href="https://common-error.techidaily.com/struggling-with-printers-and-pdfs-here-are-instant-remedies/"><u>Struggling with Printers & PDFs? Here Are Instant Remedies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uide-to-getting-1000-subscribers-for-your-youtube-channel-for-2024/"><u>[New] Guide to Getting 1000 Subscribers for Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-iphones-quintet-of-premier-podcast-tools/"><u>[Updated] In 2024, IPhone's Quintet of Premier Podcast Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-installation-failed-error-code-800020-step-by-step-guide/"><u>How to Fix Windows 11 Installation Failed Error Code 80#0020 - Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-onscreen-image-clarity-and-detail/"><u>In 2024, Perfecting Onscreen Image Clarity and Detail</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-guide-to-professional-color-grading-top-11/"><u>In 2024, The Ultimate Guide to Professional Color Grading (Top 11)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-infinix-smart-8-plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Infinix Smart 8 Plus to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unveiling-facebooks-video-ratio-options-and-tweaks/"><u>In 2024, Unveiling Facebook's Video Ratio Options & Tweaks</u></a></li>
+<li><a href="https://common-error.techidaily.com/league-of-legends-download-speed-problem-solutions-and-tips/"><u>League of Legends Download Speed Problem: Solutions and Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-when-your-iphone-cant-update-with-icloud-fix-top-9-steps/"><u>Solutions for When Your iPhone Can't Update with iCloud - Fix Top 9 Steps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-cycwagens-latest-innovation-an-exclusive-test-drive-of-the-electric-cargo-e-bike/"><u>The Ultimate Guide to CycWagen's Latest Innovation - An Exclusive Test Drive of the Electric Cargo E-Bike</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205780356-trouble-with-hp-laptop-usb-ports-effective-solutions-at-hand/"><u>Trouble with HP Laptop USB Ports? Effective Solutions at Hand</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-rpc-connection-failures-in-windows-systems/"><u>Troubleshooting Tips for Fixing RPC Connection Failures in Windows Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: SD Unheard Of? Find the Way Out!
-date: 2024-10-22T19:06:35.899Z
-updated: 2024-10-24T19:20:11.280Z
+date: 2024-10-26T17:22:44.065Z
+updated: 2024-10-30T17:36:59.965Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Clean your SD card & reader
 
  Another very common cause of an unrecognized SD card is a very simple one: a dirty SD card or a dusty card reader. Either will cause a poor contact between card and reader.
@@ -80,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Check if your card reader is disabled
 
  If you’ve tried methods 1 and 2, and your PC still isn’t recognizing your SD card, it’s possible your card reader is turned off in your BIOS.
@@ -98,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
  Likewise all manufacturers organize their BIOS settings their own way; there’s no standard way of doing it. So we can’t tell you exactly what setting to change, and how to find that setting. But once you’re in the BIOS, it shouldn’t be too hard to find the ‘on/off’ switch for your card reader. Just look for a section related to devices or storage, and within that section look for something like “SD Reader” or “Card Reader”. Enable that setting if it’s not already enabled, then save and exit the BIOS. (Be sure to save as you exit. Some manufacturers make it very easy to leave the BIOS without saving your changes, and if you do, you won’t have changed anything.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c7dcd812.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once your computer has restarted and you’ve logged into Windows, test your card again. If it’s still not recognized, move onto[Method 4](https://pish-posh-baby.sjv.io/g1jg15) .
 
@@ -132,10 +125,10 @@ If you’re not sure how to do that, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-11-run-command-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Expand category “**Memory Technology Devices** “. Double-click the card reader (In Alan’s case, it’s RealteK PCIE CardaReader. In your case, it may be different.) to open
@@ -143,16 +136,10 @@ If you’re not sure how to do that, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Go to**Driver** tab. Click**Disable Device** .
@@ -166,6 +153,13 @@ If you’re not sure how to do that, refer steps below:
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -186,24 +180,18 @@ If you’re not sure how to do that, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-advanced-hd-screen-documentation-gadgets/"><u>[New] 2024 Approved Advanced HD Screen Documentation Gadgets</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-detailed-guide-to-using-firefoxs-picture-in-picture-mode/"><u>[New] 2024 Approved Detailed Guide to Using Firefox's Picture-in-Picture Mode</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-identifying-video-centric-dialogues/"><u>[New] 2024 Approved Identifying Video-Centric Dialogues</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ngage-audiences-best-hashtags-for-going-viral-on-yt-for-2024/"><u>[New] Engage Audiences Best Hashtags for Going Viral on YT for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-vimeo-vips-engaging-on-snapchat-for-2024/"><u>[New] Vimeo VIPs Engaging on Snapchat for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-your-computer-appears-to-be-correctly-configured-but-the-device-or-resource-is-not-responding/"><u>[SOLVED] Your Computer Appears to Be Correctly Configured, but the Device or Resource Is Not Responding</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-capture-the-spectacular-with-nikon-d500-in-4k-for-2024/"><u>[Updated] Capture the Spectacular with Nikon D500 in 4K for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/accelerate-window-11-closure-time-with-these-expert-tips-and-tricks/"><u>Accelerate Window 11 Closure Time with These Expert Tips and Tricks</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/discovering-melodies-a-guide-on-locating-songs-and-vids-without-titles/"><u>Discovering Melodies: A Guide on Locating Songs & Vids without Titles</u></a></li>
-<li><a href="https://common-error.techidaily.com/easily-repair-unresponsive-buttons-on-your-hp-laptop-step-by-step-guide/"><u>Easily Repair Unresponsive Buttons on Your HP Laptop - Step-by-Step Guide!</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-resolved-unsupported-inputs-no-longer-display-issues-on-screen/"><u>Error Resolved: Unsupported Inputs No Longer Display Issues on Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-10-kb40240034-update-issue/"><u>How to Fix the Windows 10 KB40240034 Update Issue</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-live-subscriber-count-meters/"><u>In 2024, Live Subscriber Count Meters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-turnback-artisan-hub/"><u>In 2024, Turnback Artisan Hub</u></a></li>
-<li><a href="https://common-error.techidaily.com/lower-your-pcs-cpu-load-by-correcting-audio-device-isolation-issues-in-windows/"><u>Lower Your PC's CPU Load by Correcting Audio Device Isolation Issues in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fix-for-unknown-usb-device-and-port-issues-under-windows-11/"><u>Master the Fix for 'Unknown USB Device' And Port Issues Under Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/revitalize-your-system-with-sfcdism-in-windows-11/"><u>Revitalize Your System with SFC/DISM in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-the-fatal-exception-error-in-windows-code-0xc00000e9/"><u>Step-by-Step Solutions for Overcoming the Fatal Exception Error in Windows (Code 0XC00000E9)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/synchronized-screen-size-alteration-online/"><u>Synchronized Screen Size Alteration Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-10-best-microphones-for-action-cameras/"><u>[New] In 2024, 10 Best Microphones for Action Cameras</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-angles-of-perspective-youtubes-path-to-dynamic-video-editing/"><u>[Updated] 2024 Approved Angles of Perspective YouTube's Path to Dynamic Video Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-comfort-10-tips-for-vr/"><u>[Updated] Mastering Comfort 10 Tips for VR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chuckle-forge-mutant-comedy-creatures/"><u>Chuckle Forge Mutant Comedy Creatures</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-high-gpu-demands-from-windows-11s-dwm-discover-five-essential-solutions/"><u>Conquer High GPU Demands From Windows 11’S DWM - Discover Five Essential Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/durch-das-deutsche-wochenjahr-lernen/"><u>Durch Das Deutsche Wochenjahr Lernen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unparalleled-gaming-with-dell-s3222dgm-now-at-an-amazing-price-only-229/"><u>Experience Unparalleled Gaming with Dell S3222DGM: Now at an Amazing Price - Only $229</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-scripts-for-advanced-affects-workflows/"><u>In 2024, Essential Scripts for Advanced Affects Workflows</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-forcing-a-shutdown-on-your-pc-running-windows-11-a-comprehensive-guide/"><u>Mastering The Art of Forcing a Shutdown on Your PC Running Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205065502-quick-solutions-for-windows-update-problem-overcome-error-8007000e-today/"><u>Quick Solutions for Windows Update Problem - Overcome Error 8007000E Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/screen-fix-for-non-hid-interactive-response/"><u>Screen Fix for Non-HID Interactive Response</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-resolving-win10-update-error-code-0x800705b4/"><u>Step-by-Step Solutions for Resolving Win10 Update Error Code 0X800705B4</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tech-savvy-or-tech-stylish-a-deep-dive-into-the-features-and-performance-of-the-tcl-32s325-2019-with-built-in-roku-smart-technology/"><u>Tech Savvy or Tech Stylish? A Deep Dive Into the Features and Performance of The TCL 32S325 (2019) with Built-In Roku Smart Technology</u></a></li>
 </ul></div>
 

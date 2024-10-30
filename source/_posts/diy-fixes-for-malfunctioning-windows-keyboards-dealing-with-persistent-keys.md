@@ -1,7 +1,7 @@
 ---
 title: "DIY Fixes for Malfunctioning Windows Keyboards: Dealing with Persistent Keys"
-date: 2024-09-09T08:55:02.223Z
-updated: 2024-09-10T08:55:02.223Z
+date: 2024-10-26T18:11:25.082Z
+updated: 2024-10-30T16:27:10.040Z
 tags:
   - win11
   - win10
@@ -36,18 +36,6 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 2. Type**devmgmt.msc** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click Keyboards and select the keyboard device you want to reset.
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the red cross button to uninstall the device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/x.jpg)
 5. Click Scan for hardware changes button. It will let the device appear.  
@@ -67,28 +55,10 @@ Your keyboard should back to the default setting after reboot.
 3. Click**Typing** in the left pane and click**Advanced keyboard settings** on the right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/type.jpg)
 4. Click the drop-down button to select the language you want.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/language.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now you’ve reset your keyboard language.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## For Mac Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -101,22 +71,25 @@ Now you’ve reset your keyboard language.
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Keyboard** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
 3. Click**Modifier Keys** in the bottom right corner.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/modi.jpg)
 4. Click**Restore Defaults** and then click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Your keyboard should be back in the default settings.
 
@@ -125,27 +98,24 @@ Your keyboard should be back in the default settings.
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Language and Region** .  
+
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
 3. Select the language you want.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Wait for the computer to reboot.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Hard Reset
 
@@ -171,8 +141,6 @@ Your keyboard should be reset successfully.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +148,24 @@ Your keyboard should be reset successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-8-no-cost-video-chat-tools-pcmac-compatibility/"><u>[New] In 2024, Top 8 No-Cost Video Chat Tools PC/Mac Compatibility</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-storage-solutions-the-leading-10-gopro-housings/"><u>[New] Optimal Storage Solutions - The Leading 10 GoPro Housings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtubes-first-visual-hook-creating-personalized-thumbnails/"><u>[New] YouTube's First Visual Hook Creating Personalized Thumbnails</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-quick-scan-recorder-for-chrome-devices/"><u>[Updated] In 2024, Quick Scan Recorder for Chrome Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/complete-guide-to-fully-removing-quicktime-from-windows-10-8-or-7/"><u>Complete Guide to Fully Removing QuickTime From Windows 10, 8 or 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-dealing-with-incomplete-or-damaged-service-registry-in-windows-11/"><u>Fix Guide: Dealing with Incomplete or Damaged Service Registry in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-slow-downloading-experience-in-league-of-legends-quickly-and-effortlessly/"><u>How to Fix a Slow Downloading Experience in League of Legends Quickly and Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208042311-how-to-restore-mic-functionality-on-your-steelseries-arctis-5-headset-easy-fix-tips-for-gamers/"><u>How to Restore Mic Functionality on Your SteelSeries Arctis 5 Headset - Easy Fix Tips for Gamers.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-practices-for-high-impact-customer-endorsements/"><u>In 2024, Best Practices for High-Impact Customer Endorsements</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-fire-browser-revolution-top-extra-tools-to-streamline-facebook-video-downloads-on-firefox/"><u>In 2024, Fire-Browser Revolution Top Extra Tools to Streamline Facebook Video Downloads on FireFox</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-propel-traffic-and-engagement-with-smart-youtube-backlink-strategies/"><u>In 2024, Propel Traffic and Engagement with Smart YouTube Backlink Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-security-protocol-restored-lsa-protection-reactivated/"><u>Local Security Protocol Restored: LSA Protection Reactivated</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-file-explorer-unresponsiveness-on-your-windows-11-pc-a-complete-solution/"><u>Overcoming File Explorer Unresponsiveness on Your Windows 11 PC - A Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-when-your-browser-stops-responding/"><u>Solving the Issue: When Your Browser Stops Responding</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-error-unable-to-reach-device-location-or-file-path/"><u>Solving Windows Error: Unable to Reach Device Location or File Path</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-solving-restoration-problems-in-windows-10/"><u>Troubleshooting Tips for Solving Restoration Problems in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+</ul></div>
 

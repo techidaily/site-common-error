@@ -1,7 +1,7 @@
 ---
 title: "Fixing Crackling Sound From Your Computer's Speakers: A Guide for Windows Users"
-date: 2024-10-23T17:05:58.441Z
-updated: 2024-10-24T16:15:17.780Z
+date: 2024-10-27T17:33:33.131Z
+updated: 2024-10-30T17:22:12.717Z
 tags:
   - win11
   - win10
@@ -80,9 +80,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer.
 
@@ -119,13 +133,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-118.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-116.png)
@@ -146,16 +153,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-112.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Click the**Startup tab.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-121.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)** Uncheck the box next to the program that you want to prevent it from auto-launching, and then click**OK** .
 
@@ -167,6 +174,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-120.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After your PC restarts, check if the issue has been resolved. If yes, you may need to re-enable important startups and services one by one to see which one is conflicting so you can keep it disabled.
 
  If this doesn’t work for you, you should[**reset your computer to start normally.**](#d3)
@@ -176,13 +190,6 @@ OR
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
@@ -196,13 +203,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-90.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-91.png)
@@ -214,13 +214,6 @@ OR
 **7)** Click the**Startup tab** , then click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-94.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)** Right-click the program you want to prevent it from auto-launching and select **Disable** .
 
@@ -252,28 +245,35 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-150.png)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click**Enable all,** then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-145.png)
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-146.png)
 
  Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Run the Command Prompt
 
@@ -283,16 +283,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Type **cmd,** then press the **Ctrl, Shift**  and **Enter** keys at the same time to run the Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Type **sfc.exe /scannow** , then press the **Enter**  key on your keyboard.
 
@@ -300,16 +306,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Type **dism.exe /online /cleanup-image /startcomponentcleanup** , then press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Type **dism.exe /online /cleanup-image /restorehealth** , then press the **Enter** key on your keyboard.
 
@@ -339,20 +345,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-immortalize-your-playthrough-xbox-one-screen-capture-tips/"><u>[New] In 2024, Immortalize Your Playthrough Xbox One Screen Capture Tips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-leveraging-content-marketing-for-more-views-and-subscribers-for-2024/"><u>[Updated] Leveraging Content Marketing for More Views and Subscribers for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pioneers-shaping-the-future-of-vr-experiences/"><u>[Updated] Pioneers Shaping The Future Of VR Experiences</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-ultimate-gimbal-picks-for-dslr-quality-videos-for-2024/"><u>[Updated] Ultimate Gimbal Picks for DSLR-Quality Videos for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>2024 Approved TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
-<li><a href="https://techidaily.com/5-cles-pour-triompher-dans-lexecution-dun-projet-rpa-avec-abbyy-guide-complet/"><u>5 Clés Pour Triompher Dans L'Exécution D'Un Projet RPA Avec ABBYY : Guide Complet</u></a></li>
-<li><a href="https://common-error.techidaily.com/bouncing-back-from-non-responsive-google-chrome-problems/"><u>Bouncing Back From Non-Responsive Google Chrome Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/darkened-display-sudden-blackout/"><u>Darkened Display: Sudden Blackout</u></a></li>
-<li><a href="https://common-error.techidaily.com/effectively-reducing-msmpengexes-impact-on-your-computers-processor-windows-10-solutions/"><u>Effectively Reducing MsMpEng.exe’s Impact on Your Computer's Processor - Windows 10 Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-restoring-the-alt-plus-tab-command-in-windows-and-macos/"><u>Expert Solutions: Restoring the Alt + Tab Command in Windows and MacOS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-avoid-feed-overload-how-to-stop-followers/"><u>In 2024, Avoid Feed Overload How to Stop Followers</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fix-for-class-not-registered-problem-in-windows-11-effective-solutions-await/"><u>Master the Fix for 'Class Not Registered' Problem in Windows 11 - Effective Solutions Await</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210785502-prognostic-factors-such-as-age-performance-status-and-comorbid-conditions-also-impact-treatment-decisions-and-outcomes/"><u>Prognostic Factors Such as Age, Performance Status, and Comorbid Conditions Also Impact Treatment Decisions and Outcomes.</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208982281-ret-proto-oncogene-rearrangements-play-a-significant-role-in-the-development-of-medullary-thyroid-cancer-and-have-therapeutic-implications/"><u>RET Proto-Oncogene Rearrangements Play a Significant Role in the Development of Medullary Thyroid Cancer and Have Therapeutic Implications.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-transforming-pal-discs-to-widely-used-file-types-for-free/"><u>Step-by-Step Tutorial on Transforming PAL Discs to Widely Used File Types for Free</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-art-of-intense-focus-5-techniques-for-zooming-in-minecraft/"><u>2024 Approved The Art of Intense Focus 5 Techniques for Zooming in Minecraft</u></a></li>
+<li><a href="https://media-tips.techidaily.com/airplay-setup-for-windows-10-a-comprehensive-tutorial-using-iphone-xsxs-maxxr-devices/"><u>AirPlay Setup for Windows 10 - A Comprehensive Tutorial Using iPhone XS/XS Max/XR Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206229976-corsair-keyboard-backlight-failure-heres-how-to-get-your-board-glowing-again/"><u>Corsair Keyboard Backlight Failure? Here’s How to Get Your Board Glowing Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solutions-for-cut-out-noise-in-your-logitech-g930-headset/"><u>DIY Solutions for Cut Out Noise in Your Logitech G930 Headset</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210948990-dota-2-fix-overcome-change-rendering-api-error-2024-in-a-flash/"><u>Dota 2 Fix: Overcome 'Change Rendering API' Error 2024 in a Flash</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-xr-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone XR</u></a></li>
+<li><a href="https://techidaily.com/free-guide-opening-rar-archives-without-costs-on-windows-and-macos/"><u>Free Guide: Opening RAR Archives Without Costs on Windows & macOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-silence-your-ps4-console-expert-tips-for-quieter-operation/"><u>How to Silence Your PS4 Console: Expert Tips for Quieter Operation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-full-sphere-video-via-iphone/"><u>In 2024, Step-by-Step Guide to Full-Sphere Video via iPhone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/integration-von-sharepoint-online-mit-windows-11-anleitung-zum-hinzufugen-als-netzlaufwerk/"><u>Integration Von SharePoint Online Mit Windows 11: Anleitung Zum Hinzufügen Als Netzlaufwerk</u></a></li>
+<li><a href="https://common-error.techidaily.com/minimize-resource-overuse-windows-10-guide/"><u>Minimize Resource Overuse: Windows 10 Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-motorola-converter-convert-mov-files-for-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Motorola converter-convert .mov files for Motorola</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlined-living-room-learn-to-remove-apps-from-your-samsung-smart-tv/"><u>Streamlined Living Room: Learn to Remove Apps From Your Samsung Smart TV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-setting-up-chatgpt-voice-control-features-on-android-via-voicegpt/"><u>The Ultimate Guide to Setting Up ChatGPT Voice Control Features on Android via VoiceGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-error-0x8024002e-heres-how-to-fix-it-and-get-your-updates-running-smoothly-again/"><u>Windows 10 Error 0X8024002e? Here's How to Fix It and Get Your Updates Running Smoothly Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210906234-windows-woes-no-more-achieve-perfect-harmony-between-your-device-driver-and-os-for-a-smooth-gaming-experience/"><u>Windows Woes No More - Achieve Perfect Harmony Between Your Device Driver and OS for a Smooth Gaming Experience!</u></a></li>
 </ul></div>
 

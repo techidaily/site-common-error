@@ -1,7 +1,7 @@
 ---
 title: PS4 Volume Woes? Here's What You Need to Know and How to Fix It
-date: 2024-09-09T08:54:59.719Z
-updated: 2024-09-10T08:54:59.719Z
+date: 2024-10-23T18:02:54.930Z
+updated: 2024-10-30T16:20:00.560Z
 tags:
   - win11
   - win10
@@ -13,18 +13,6 @@ excerpt: This Article Describes PS4 Volume Woes? Here's What You Need to Know an
 thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d158884cb761f8f838fb72e26.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PS4 Volume Woes? Here's What You Need to Know and How to Fix It
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a58271e9c06b.jpg)
@@ -45,11 +33,12 @@ thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d1
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Fix 1: Place your PS4 fan in a ventilated area**
 
  When your PS4 console is getting hot, the fan kicks in. If your PS4 is too hot, the fan spins and very likely gets much louder than normal. If there’re something on or around your PS4 console,**move them away** . Then wait for a while to see if your console cools down and gets quiet.
@@ -61,17 +50,12 @@ thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/ps4-2326616_960_720.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
 ### Fix 2: Turn your PS4 console to vertical
@@ -80,16 +64,24 @@ thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c6bb526bc3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If unfortunately, after the two quick fixes above, your PS4 still keeps loud, let’s move on to the clean-out solution. As we mentioned above, your loud PS4 fan is probably caused by the full-of dust itself. So you need to clean out your PS4 fan in order to quiet it.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Use a can of compressed air
 
  This is the easiest and quickest way to clean out your PS4\. Take a **[can of compressed air](https://www.amazon.com/Dust-Off-Compressed-Gas-Duster-Pack/dp/B00DZYEXPQ/?tag=easeware-aprilcai-20)**  to go through all the inputs and vents.
@@ -100,12 +92,6 @@ thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d1
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Open your PS4 console to clean out
 
 **NOTICE:** Once you open your PS4 console, you will **lose its warranty** . So if your PS4 is new or used within 1 year, you can send it to Sony for warranty service about the issue.
@@ -115,12 +101,6 @@ thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d1
 1. Use  a **[T8 or T9 torx security bit](https://www.amazon.com/TECKMAN-Screwdriver-Security-Screwdrivers-Precision/dp/B07BYCPMR5/?tag=easeware-aprilcai-20)**  screw driving to remove the screws. The screw driving may look like the image above. If you don’t have one, just go to Amazon to easily buy a new one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c847dc021b.png)
 2. Remove the four screws on the back of your PS4 console.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You should then see its fan, then remove the dust covering on the fan. Just clean out as much of the dust as you can.
 3. When you finish cleaning the fan, please put all the things back together.
 4. After all is done, turn on your PS4 and try to play games. Your PS4 should become much more quiet, even the same when it’s new.
@@ -131,14 +111,11 @@ thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d1
 
 * [PlayStation 4 (PS4)](/tag-search/?tagId=180)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +124,24 @@ thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-pathway-start-your-sports-youtube-chain-on-macos/"><u>[New] 2024 Approved Beginner's Pathway Start Your Sports YouTube Chain on macOS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-pixel-power-unveiling-youtubes-twitter-crew/"><u>[New] 2024 Approved Pixel Power Unveiling YouTube's Twitter Crew</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-turn-your-meet-webinar-into-an-interactive-participant-showcase/"><u>[New] 2024 Approved Turn Your Meet Webinar Into an Interactive Participant Showcase</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-safe-steps-to-extract-audio-from-youtube-videos-for-2024/"><u>[Updated] Free, Safe Steps to Extract Audio From YouTube Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-toxic-trend-unnecessary-followers-tarnish-reputation/"><u>[Updated] In 2024, Toxic Trend Unnecessary Followers Tarnish Reputation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-comprehensive-update-best-android-apps-for-downloading-facebook-videos/"><u>2024 Approved Comprehensive Update Best Android Apps for Downloading Facebook Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-for-resolving-steam-server-not-found-errors-and-connectivity-problems/"><u>Effective Strategies for Resolving Steam Server Not Found Errors and Connectivity Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-disk-space-consumption-caused-by-windows-11s-compatibility-telemetry/"><u>How to Fix Elevated Disk Space Consumption Caused by Windows 11'S Compatibility Telemetry</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-mouse-right-click-not-working-in-windows-11/"><u>How To Solve Mouse Right Click Not Working in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-bad-video-card-drivers-from-causing-crashes-in-minecraft-on-pc/"><u>How to Stop Bad Video Card Drivers From Causing Crashes in Minecraft on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-12-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-how-to-access-and-drag-windows-that-are-not-visible-on-monitor-edge/"><u>Solution: How to Access and Drag Windows That Are Not Visible on Monitor Edge</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-windows-n64-class-registration-failures/"><u>Step-by-Step Guide: Resolving Windows N64 Class Registration Failures</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/syma-s111g-quadcopter-overview-affordable-entertainment-in-small-spaces/"><u>Syma S111G Quadcopter Overview: Affordable Entertainment in Small Spaces</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-silent-reading-mode-on-ms-word-for-win-users/"><u>Troubleshooting Silent Reading Mode on MS Word for Win Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/unbootable-blues-master-guide-to-resolve-computer-stuck-on-boot-issue/"><u>Unbootable Blues? Master Guide to Resolve Computer Stuck on Boot Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-update-errors-solved-effective-strategies-for-unsticking-your-system/"><u>Windows 10 Update Errors Solved – Effective Strategies for Unsticking Your System</u></a></li>
+</ul></div>
 

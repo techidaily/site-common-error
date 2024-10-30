@@ -1,7 +1,7 @@
 ---
 title: "Silent Victory Over The Raging Crimson: Your Definitive Guide to Fixing System Faults"
-date: 2024-10-19T20:12:09.878Z
-updated: 2024-10-24T20:27:07.719Z
+date: 2024-10-28T17:38:58.344Z
+updated: 2024-10-30T17:22:48.719Z
 tags:
   - win11
   - win10
@@ -58,17 +58,18 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -82,6 +83,13 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -92,14 +100,15 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-**Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 
@@ -108,13 +117,6 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent with code 144 error still remains. If the problem still persists, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Check USB peripherals
 
@@ -127,18 +129,19 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-13.png)
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
@@ -153,10 +156,16 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Make sure the PSU works well for your machine
@@ -166,6 +175,13 @@ To do so, first visit the website of your GPU manufacturer:
  Here’s[**a post from Dell**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fkbdoc%2Fen-us%2F000125185%2Fhow-to-troubleshoot-the-power-supply-unit-psu-of-a-dell-desktop-computer) with more information about the power supply if you’re interested in knowing more and seeing how you can test your PSU.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update your computer BIOS and system firmware
 
@@ -186,14 +202,14 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -214,13 +230,6 @@ To do so, first visit the website of your GPU manufacturer:
 Then see if the LiveKernelEvent 144 error is still seen.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Seek help from a hardware technician
 
@@ -249,22 +258,21 @@ Then see if the LiveKernelEvent 144 error is still seen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-craft-top-quality-youtube-thumbnails-fast/"><u>[New] 2024 Approved How To Craft Top Quality YouTube Thumbnails Fast</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-path-to-prominence-with-powerful-instagram-video-narratives-for-2024/"><u>[New] The Path to Prominence with Powerful Instagram Video Narratives for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-getting-started-with-snapchat-on-apple-computers/"><u>[Updated] 2024 Approved Getting Started with Snapchat on Apple Computers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-starter-mic-solutions-for-youtube-starters/"><u>[Updated] In 2024, Starter Mic Solutions for YouTube Starters</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-from-camera-roll-to-twitter-feed-video-posting-guide/"><u>2024 Approved From Camera Roll to Twitter Feed Video Posting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/african-americans/"><u>African Americans</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-authentically-hear-the-depth-of-dolby-atmos-audio/"><u>Can You Authentically Hear the Depth of Dolby Atmos Audio?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capturing-your-desktop-in-winoses-effortlessly-for-2024/"><u>Capturing Your Desktop in WinOSes Effortlessly for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-graphics-engine-failure-during-launch/"><u>Comprehensive Fixes Graphics Engine Failure During Launch</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-to-correctly-handle-windows-update-error-0x8007001f/"><u>Effective Solutions to Correctly Handle Windows Update Error 0X8007001F</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208316634-expert-tips-to-get-overwatch-voice-chat-working-again-no-hassle/"><u>Expert Tips to Get Overwatch Voice Chat Working Again – No Hassle!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-ensure-your-devices-are-detected-by-windows-11s-bluetooth-functionality/"><u>How to Ensure Your Devices Are Detected by Windows 11'S Bluetooth Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-no-device-found-problem-in-icue-a-step-by-step-guide/"><u>How to Fix the 'No Device Found' Problem in ICUE: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fix-successful-steps-to-resolve-error-code-1-new-best-seo-titles-for-google-search-fatal-installer-glitch-error-1603-solved/"><u>Master the Fix: Successful Steps to Resolve Error Code 1 # New Best SEO Titles for Google Search - Fatal Installer Glitch (Error 1603) Solved</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/maximizing-engagement-essential-strategies-for-facebook-video-promotion/"><u>Maximizing Engagement Essential Strategies for Facebook Video Promotion</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-sprinkle-of-life-in-your-text-animations-for-2024/"><u>The Sprinkle of Life in Your Text Animations for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tip-why-your-monitor-wont-accept-the-input-timing-setup/"><u>Troubleshooting Tip: Why Your Monitor Won't Accept the Input Timing Setup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-and-easy-mac-screen-captures-utilizing-keyboard-shortcuts-for-2024/"><u>[New] Quick and Easy Mac Screen Captures Utilizing Keyboard Shortcuts for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-sdr-to-hdri-step-by-step-video-enhancement-guide/"><u>2024 Approved SDR to HDRI Step-by-Step Video Enhancement Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-update-mishaps-easy-fixes-for-the-common-windows-11-problem-error-0x8020390541/"><u>Banish Update Mishaps: Easy Fixes for the Common Windows 11 Problem - Error 0X80^20390541</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-ai-powered-video-improvement-apps-ranking-the-top-6-choices/"><u>Best AI-Powered Video Improvement Apps: Ranking the Top 6 Choices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enhancing-visual-quests-hunt-for-pristine-pexels-images/"><u>Enhancing Visual Quests Hunt for Pristine Pexels Images</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-problem-of-windows-10-not-acknowledging-hdmi-connected-tvs/"><u>How to Fix the Problem of Windows 10 Not Acknowledging HDMI Connected TVs</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/how-to-save-and-download-audio-from-tweets-on-twitter/"><u>How to Save & Download Audio From Tweets on Twitter</u></a></li>
+<li><a href="https://common-error.techidaily.com/keep-it-concise-and-descriptive-aim-for-a-title-length-of-50-60-characters-make-sure-the-title-accurately-represents-the-content-without-being-too-long-or-c35/"><u>Keep It Concise and Descriptive: Aim for a Title Length of 50-60 Characters. Make Sure the Title Accurately Represents the Content without Being Too Long or Complex, as Google Will Truncate Titles Beyond This Limit.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/master-screen-capture-detailed-tutorial-walkthrough/"><u>Master Screen Capture Detailed Tutorial Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-hosted-network-startup-tips-for-windows-10-users-issue-resolved/"><u>Mastering Hosted Network Startup: Tips for Windows 10 Users (Issue Resolved)</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-re-establishing-link-between-computer-and-external-devices-in-windows-os/"><u>Quick Fixes: Re-Establishing Link Between Computer and External Devices in Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-unsupported-device-or-driver-error-for-better-monitor-connectivity/"><u>Solving the 'Unsupported Device or Driver' Error for Better Monitor Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-overcoming-the-windows-11-update-issue-with-error-code-0xc1900208-fixed/"><u>Step-by-Step Tutorial: Overcoming the Windows 11 Update Issue with Error Code 0xC1900208 [FIXED]</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-superior-apple-watch-series-4-analysis-surpassing-the-previous-generation/"><u>The Superior Apple Watch Series 4 Analysis: Surpassing the Previous Generation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/transform-ordinary-pictures-into-viral-masterpieces-on-tiktok-for-2024/"><u>Transform Ordinary Pictures Into Viral Masterpieces on TikTok for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-common-windows-update-configuration-errors/"><u>Troubleshooting Tips: Overcoming Common Windows Update Configuration Errors</u></a></li>
 </ul></div>
 

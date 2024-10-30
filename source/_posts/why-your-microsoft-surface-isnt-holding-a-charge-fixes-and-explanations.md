@@ -1,7 +1,7 @@
 ---
 title: "Why Your Microsoft Surface Isn't Holding a Charge: Fixes and Explanations"
-date: 2024-10-19T16:47:16.710Z
-updated: 2024-10-24T17:27:04.564Z
+date: 2024-10-25T17:29:12.189Z
+updated: 2024-10-30T16:31:18.515Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 2. [**Update your battery driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Force a shutdown and restart your Surface
@@ -44,22 +44,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c39be812adb7.jpg)
 2. Press the power button to turn on your Surface.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Charge Surface again to see if the**plugged in, not charging** problem has been resolved. If yes, then great! But if the message still pops up, you should try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your battery driver
@@ -74,13 +67,21 @@ To do so:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c39c43c6e52e.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c39c4632e244.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -108,19 +109,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-fortnite-thumbnail-in-30-seconds/"><u>[Updated] 2024 Approved How to Make Fortnite Thumbnail in 30 Seconds</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-insiders-take-on-best-3d-blu-ray-players/"><u>[Updated] Exclusive Insider's Take on Best 3D Blu-Ray Players</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes-for-2024/"><u>[Updated] The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-a-malfunctioning-lenovo-biometric-scanner-step-by-step/"><u>Diagnosing and Repairing a Malfunctioning Lenovo Biometric Scanner Step-by-Step</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/enhance-visual-harmony-editing-for-instagram-standards/"><u>Enhance Visual Harmony Editing for Instagram Standards</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-the-web-to-intelligence-harnessing-agentgpt-for-seamless-ai-agent-deployment/"><u>From the Web to Intelligence: Harnessing AgentGPT for Seamless AI Agent Deployment</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-light-function-on-a-non-responsive-corsair-keyboard/"><u>How to Restore Light Function on a Non-Responsive Corsair Keyboard</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-to-resolve-sluggish-typing-experience-in-windows-11-systems/"><u>Quick Fixes to Resolve Sluggish Typing Experience in Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/sidestep-valorant-latency-issues-via-reboot/"><u>Sidestep Valorant Latency Issues via Reboot</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208694618-silent-in-the-realm-of-sd-cards-loudly-respond/"><u>Silent in the Realm of SD Cards? Loudly Respond</u></a></li>
-<li><a href="https://facebook.techidaily.com/tackling-the-glitch-restoring-active-facebook-status/"><u>Tackling the Glitch: Restoring Active Facebook Status</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-tell-if-netflix-is-offline-and-solutions/"><u>Troubleshooting: How To Tell If Netflix Is Offline & Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-instagram-blueprint-crafting-content-for-a-thousand-strong-audience/"><u>[New] The Instagram Blueprint Crafting Content for a Thousand-Strong Audience</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-plus-shift-plus-s-not-working-on-windows-1110/"><u>[SOLVED] Windows + Shift + S Not Working on Windows 11/10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/definitive-top-5-superlight-cinematography-devices/"><u>Definitive Top 5 Superlight Cinematography Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-repairing-wacom-pen-connectivity-in-microsofts-latest-operating-systems/"><u>Expert Advice: Repairing Wacom Pen Connectivity in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-microsoft-print-to-pdf-feature-failure-on-windows-10-and-11/"><u>Fixing the 'Microsoft Print to PDF' Feature Failure on Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-hp-laptops-webcam-back-to-work-in-windows-10-easy-fixes-you-can-do-today/"><u>Getting Your HP Laptop's Webcam Back to Work in Windows 10: Easy Fixes You Can Do Today</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gimp-ultimate-editing-course-review-for-2024/"><u>GIMP Ultimate Editing Course Review for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-your-safari-back-up-and-running-on-an-iphone-expert-tips-and-tricks/"><u>How to Get Your Safari Back Up and Running on an iPhone - Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-obtain-consent-from-trustedinstaller-before-making-file-adjustments/"><u>How to Obtain Consent From TrustedInstaller Before Making File Adjustments</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-play-40c-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Play 40C Phone FRP Lock</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-reign-supreme-with-these-ultimate-10-innovative-ideas-for-igtv-video-content/"><u>In 2024, Reign Supreme with These Ultimate 10 Innovative Ideas for IGTV Video Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-techniques-for-overcoming-504-gateway-timeout-failures/"><u>Master the Techniques for Overcoming 504 Gateway Timeout Failures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-social-media-creating-effective-fb-videos-for-2024/"><u>Mastering Social Media Creating Effective FB Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-0x8024401c-troubleshooting-guide-for-windows-update-on-windows-10-and-11/"><u>Resolved: Fixing the 0X8024401C Troubleshooting Guide for Windows Update on Windows 10 & 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/three-trustworthy-ways-to-extract-audio-from-youtube-videos-for-2024/"><u>Three Trustworthy Ways to Extract Audio From YouTube Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-hdmi-recognition-issues-on-your-windows-11-pc/"><u>Troubleshooting HDMI Recognition Issues on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-exploring-the-fixes-for-nba-2k21s-infamous-color-bug/"><u>Unraveling the Mystery: Exploring the Fixes for NBA 2K21's Infamous Color Bug</u></a></li>
 </ul></div>
 

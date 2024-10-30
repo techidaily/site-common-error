@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LAN Connection Failures for Windows 11 and 7 Users
-date: 2024-10-18T21:57:22.193Z
-updated: 2024-10-24T17:00:19.502Z
+date: 2024-10-26T16:43:01.947Z
+updated: 2024-10-30T16:41:08.929Z
 tags:
   - win11
   - win10
@@ -66,28 +66,36 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
 
@@ -97,25 +105,19 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
- Click **Yes**   when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Click **Yes**   when prompted to confirm.
 
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
@@ -131,23 +133,24 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -172,18 +175,17 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-youtube-autoplay-on-facebook-for-2024/"><u>[New] The Ultimate Guide to YouTube Autoplay on Facebook for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-record-ps4-with-obs/"><u>[Updated] 2024 Approved How To Record PS4 with OBS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/discover-whats-new-with-the-updated-logitech-extreme-3d-software/"><u>Discover What's New with the Updated Logitech Extreme 3D Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/finding-the-right-fix-how-to-release-a-stuck-windows-update-on-legacy-systems-updated-tips-and-techniques-for-better-user-experience-edition-helpful-tips-an13/"><u>Finding The Right Fix: How to Release A Stuck Windows Update on Legacy Systems - Updated Tips & Techniques For Better User Experience Edition! (Helpful Tips and Guides.)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-miracast-not-possible-on-this-device-top-tips-and-tricks/"><u>How to Resolve 'Miracast Not Possible on This Device' – Top Tips and Tricks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y78-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-lenovo-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Lenovo</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-aoc-monitor-on-windows-11-comprehensive-guide-to-usb-fixes-and-tweaks/"><u>Reviving Your AOC Monitor on Windows 11: Comprehensive Guide to USB Fixes and Tweaks</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-making-an-unrecognized-flash-drive-function-again/"><u>Step-by-Step Guide: Making an Unrecognized Flash Drive Function Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-pc-wont-power-down-from-windows-11/"><u>Troubleshooting Tips for When Your PC Won't Power Down From Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-to-repair-your-windows-11-with-sfc-and-dism-commands/"><u>Ultimate Guide to Repair Your Windows 11 with SFC and DISM Commands</u></a></li>
-<li><a href="https://win-latest.techidaily.com/windows-11sticky-notes/"><u>Windows 11のSticky Notesを探す：位置とリストア手順</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-creating-compelling-content-using-windows-movie-maker-in-windows-8-os/"><u>[New] 2024 Approved Creating Compelling Content Using Windows Movie Maker in Windows 8 OS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-outlining-expenses-creating-a-music-video/"><u>[New] Outlining Expenses Creating a Music Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-film-a-beginners-guide-to-essential-shots/"><u>[New] Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-proven-strategies-to-resolve-amber-screen-anomalies-on-your-ios-device/"><u>9 Proven Strategies to Resolve Amber Screen Anomalies on Your iOS Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-effortlessly-upgrading-to-a-new-iphone-tips-and-tricks-professionals/"><u>Expert Advice on Effortlessly Upgrading to a New iPhone: Tips and Tricks Professionals</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-smooth-performance-the-necessity-of-a-d3d11-compatible-graphics-card-for-running-our-engine/"><u>How to Ensure Smooth Performance: The Necessity of a D3D11-Compatible Graphics Card for Running Our Engine</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-asus-rog-phone-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Asus ROG Phone 8 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-ai-api/"><u>In 2024, What Is AI API?</u></a></li>
+<li><a href="https://common-error.techidaily.com/magic-in-motion-wired-solution-to-wireless-error/"><u>Magic in Motion: Wired Solution to Wireless Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-hang-ups-what-to-do-if-windows-11-is-unresponsive/"><u>Resolving Hang-Ups: What to Do If Windows 11 Is Unresponsive?</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-application-was-unable-to-start-correctly-0xc000007b-fixed/"><u>The Application Was Unable to Start Correctly (0Xc000007b) [FIXED]</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-oppo-find-x7-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Oppo Find X7 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Undetected Drivers Error During Windows 7 OS Installation
-date: 2024-10-17T17:04:59.171Z
-updated: 2024-10-24T22:18:37.861Z
+date: 2024-10-29T18:00:20.537Z
+updated: 2024-10-30T17:01:13.716Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ Click the link below to get to your interested part:
 
  USB tethering has the fastest speed among the three ones. It requires a USB cable to connect your laptop with your phone. But at the same time, it makes your phone suck power from your laptop’s USB port instead of draining.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is it free to use USB tethering?
 
  Whether it will cost your money or not, it depends on your carrier. In the US, most carriers do charge. You can**consult your carrier’s website** for further information.
@@ -56,13 +63,6 @@ It’s very easy to tether your phone on Windows 10, do these:
 **Note:**  You may also find the tethering option under the **Mobile Data**  or **Personal Hotspot**  sections based on different phones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78ef25f8dc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Tap to check **USB tethering** .
 
@@ -101,13 +101,26 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8c158644f0.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your laptop. Then check to see if you can access the Internet on your Windows 10 via USB tethering.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Replace the driver with the built-in one on your Windows 10 manually
@@ -115,52 +128,45 @@ Or click **Update All**  to automatically download and install the correct versi
  1) On your keyboard, press**Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and **X**  at the same time to invoke the quick access menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79a86b4b0e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Expand **Network adapters**  and right-click **Remote NDIS based Internet Sharing Device** . Then click **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79bee367fe.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79e6f2a6c1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click **Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79fa25a97b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click the small box beside the **Show compatible hardware** . Note: It’s ticked on by default. When you click it, it will get blank.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7a0b38a645.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Wait for a few seconds, you should then see the screen shown below. Select **Microsoft**  \> **USB RNDIS6 Adapter** . Then click **Next** .
 
@@ -170,16 +176,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e44842e31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for a while, Microsoft will install the driver for you. Then you should see this screen
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8b9b8df3ac.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check to see if you can access the Internet on your Windows 10 via USB tethering.
 
@@ -200,19 +206,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-guide-to-capturing-google-voice-chats/"><u>[New] In 2024, Guide to Capturing Google Voice Chats</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-reddit-a-step-by-step-guide-for-effective-posts/"><u>[New] Mastering Reddit A Step-By-Step Guide for Effective Posts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-beyond-the-screen-jaunt-vrs-spectacular-world/"><u>2024 Approved Beyond the Screen Jaunt VR's Spectacular World</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mellow-melodies-gradual-audio-decline-in-garageband/"><u>2024 Approved Mellow Melodies Gradual Audio Decline in Garageband</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-perfect-mac-video-capturer/"><u>2024 Approved Perfect Mac Video Capturer</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-diagnosing-and-repairing-frozen-movements-in-your-laptop-mouse/"><u>Comprehensive Guide to Diagnosing & Repairing Frozen Movements in Your Laptop Mouse</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-methods-for-streamlining-videos/"><u>Easy Methods for Streamlining Videos</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-advice-eradicating-class-not-registered-errors-on-your-windows-pc/"><u>Expert Advice: Eradicating ‘Class Not Registered’ Errors on Your Windows PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/gameplay-might-force-a-shutdown/"><u>Gameplay Might Force a Shutdown</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gift-yourself-winx-dvd-ripper-gold-edition-free-access-awaits-you-today/"><u>Gift Yourself WinX DVD Ripper Gold Edition – Free Access Awaits You Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-dead-laptop-battery-fast-and-effortlessly/"><u>Revive Your Dead Laptop Battery Fast & Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-image-troubles-in-windows-11-and-windows-10-environments/"><u>Step-by-Step Solutions to Overcome Image Troubles in Windows 11 and Windows 10 Environments</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-definitive-strategy-to-locate-ideal-placement-for-your-ps4-webcam/"><u>The Definitive Strategy to Locate Ideal Placement for Your PS4 Webcam</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-functional-wacom-pen-in-windows-11-and-10/"><u>Troubleshooting Guide: Fixing a Non-Functional Wacom Pen in Windows 11 & 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-8-best-screen-recorders-without-lag/"><u>[New] Top 8 Best Screen Recorders without Lag</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-rhythmic-revelry-selecting-ultimate-event-templates/"><u>[Updated] 2024 Approved Rhythmic Revelry Selecting Ultimate Event Templates</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-initiate-insight-an-entryway-guide-to-online-product-critique-channels/"><u>[Updated] In 2024, Initiate Insight An Entryway Guide to Online Product Critique Channels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-stream-success-secrets-are-you-a-fan-of-vmix-or-wirecast/"><u>[Updated] Stream Success Secrets Are You a Fan of VMix or Wirecast?</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-restoring-a-malfunctioning-windows-11-start-interface/"><u>Diagnosing and Restoring a Malfunctioning Windows 11 Start Interface</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-rectify-the-purple-screen-malfunction-on-your-computer/"><u>Effective Solutions to Rectify the Purple Screen Malfunction on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-updateerror-on-windows-11-resolve-0x80240034-issue/"><u>How to Fix the 'Update_Error' On Windows 11 – Resolve 0X80240034 Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-repairing-unidentified-usb-equipment-a-step-by-step-fix-for-port-reset-failures-in-windows-10/"><u>Mastering the Art of Repairing Unidentified USB Equipment: A Step-by-Step Fix for Port Reset Failures in Windows 10</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/rapid-dvd-to-digital-conversion-using-winx-platinum-dvd-ripper-preserve-memories-effortlessly-and-swiftly/"><u>Rapid DVD to Digital Conversion Using WinX Platinum DVD Ripper - Preserve Memories Effortlessly and Swiftly</u></a></li>
+<li><a href="https://common-error.techidaily.com/screen-sync-error-resolved-update-and-adjust-for-compatible-display-response-times/"><u>Screen Sync Error Resolved: Update and Adjust for Compatible Display Response Times</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/skycheap-fileserver-economical-efficient-large-data-for-2024/"><u>SkyCheap Fileserver Economical, Efficient Large Data for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/smooth-sailing-through-updates-effective-solutions-for-windows-error-0x8007001f/"><u>Smooth Sailing Through Updates: Effective Solutions for Windows Error 0X8007001f</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-unresponsive-casting-functionality-on-windows-11-devices/"><u>Step-by-Step Fixes for Unresponsive Casting Functionality on Windows 11 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-that-transforms-gaming-into-art-and-action/"><u>Tech That Transforms Gaming Into Art & Action</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-workout-logging-apps-of-2024-you-cant-miss/"><u>Top 10 Workout Logging Apps of 2024 You Can't Miss</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-success-a-step-by-nstep-strategy-to-overcome-windows-update-issue-0x80240017/"><u>Unlocking Success: A Step-by-nStep Strategy to Overcome Windows Update Issue 0X80240017</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027428018-premiere-pro/"><u>プロフェッショナルな編集のヒント：Premiere Proでのビデオアスペクト比変更技術</u></a></li>
 </ul></div>
 

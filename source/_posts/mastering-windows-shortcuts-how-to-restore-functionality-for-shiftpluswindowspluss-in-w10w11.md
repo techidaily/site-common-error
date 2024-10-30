@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Shortcuts: How to Restore Functionality for Shift+Windows+S in W10/W11"
-date: 2024-10-19T19:53:23.394Z
-updated: 2024-10-24T16:48:45.750Z
+date: 2024-10-23T16:48:55.016Z
+updated: 2024-10-30T16:17:04.032Z
 tags:
   - win11
   - win10
@@ -49,6 +49,14 @@ Did you have this experience? You open your computer ready to work or entertain,
 5. Choose**Devices and Printers** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_14-39-28.jpg)
 6. Choose**Add a device** and press**Enter** . Your computer will start to detect your Bluetooth mouse.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_17-57-35.jpg)
 7. Choose your Bluetooth mouse and press Enter. Follow the on-screen instructions to finish the process.
 
@@ -63,46 +71,26 @@ Did you have this experience? You open your computer ready to work or entertain,
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-00-03.jpg)
 3. Choose**Troubleshoot** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-59-52.jpg)
 4. Select**Bluetooth** . Activate**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-01-06.jpg)
 5. Follow the instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Bluetooth mouse Power Management
@@ -112,6 +100,14 @@ Did you have this experience? You open your computer ready to work or entertain,
 1. Press the**Windows logo key + X** to open the menu. Use the**down arrow key** to choose**Device Manager** then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-31-48.jpg)
 2. Press**Tab** key to choose**Bluetooth** . Press the**right arrow** key to open the folder.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Choose the Bluetooth and press Enter. Go to the**Power Management** tab. Make sure**Allow the computer to turn off this device to save power** is**unchecked** . If it’s not, activate the checkbox (using the tab key) and press the**Space bar** . Move to OK and save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-48-38.jpg)
 
@@ -135,16 +131,10 @@ Did you have this experience? You open your computer ready to work or entertain,
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -171,18 +161,20 @@ Did you have this experience? You open your computer ready to work or entertain,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-free-video-tools-cross-platform-os-support/"><u>[Updated] Top 10 Free Video Tools Cross-Platform OS Support</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-cutting-edge-srt-modifications-for-modern-computers/"><u>2024 Approved Cutting-Edge SRT Modifications for Modern Computers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-fatal-exception-error-code-0x00000133-in-windows-10-operating-system/"><u>Diagnosing and Repairing Fatal Exception Error Code 0X00000133 in Windows 10 Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-for-handling-windows-11s-0xc1900208-installation-hurdle/"><u>Effective Strategies for Handling Windows 11'S 0xC1900208 Installation Hurdle</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-rebooting-of-windows-10-how-to-refresh-or-reset-your-system-with-ease/"><u>Effortless Rebooting of Windows 10: How to Refresh or Reset Your System with Ease</u></a></li>
-<li><a href="https://fox-links.techidaily.com/first-steps-to-successful-vlogging-essentials/"><u>First Steps to Successful Vlogging Essentials</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207589891-follicular-carcinoma-while-less-common-than-papillary-still-accounts-for-a-significant-percentage-of-all-thyroid-cancers/"><u>Follicular Carcinoma, While Less Common than Papillary, Still Accounts for a Significant Percentage of All Thyroid Cancers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-install-and-use-hyper-v-with-windows-11-a-comprehensive-guide/"><u>How to Install and Use Hyper-V with Windows 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-xr-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone XR Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi</u></a></li>
-<li><a href="https://common-error.techidaily.com/lenovo-fingerprint-recognition-problems-heres-how-you-can-repair-it-easily/"><u>Lenovo Fingerprint Recognition Problems? Here's How You Can Repair It Easily!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-showing-your-hidden-windows-1amoader-bar-again/"><u>Step-by-Step Solution: Showing Your Hidden Windows 1Amoader Bar Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-11-8-and-7-effective-solutions/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 11, 8 & 7: Effective Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-encyclopedia-of-hand-centered-interaction-systems/"><u>2024 Approved The Encyclopedia of Hand-Centered Interaction Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-hubs-for-ai-prompt-sharing/"><u>Cutting-Edge Hubs for AI Prompt Sharing</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-to-restore-lenovo-mouse-functionality-in-windows-os/"><u>Effective Remedies to Restore Lenovo Mouse Functionality in Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-roundup-of-premium-iphone-16pro-cases-gear-guide-tested-and-recommended-by-zdnet-professionals/"><u>Exclusive Roundup of Premium iPhone 16/Pro Cases : Gear Guide Tested & Recommended by ZDNET Professionals</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/freestyle2-blue-software-tested-and-approved-by-mac-lovers-in-depth-insights-for-optimal-compatibility/"><u>Freestyle2 Blue Software Tested and Approved by Mac Lovers: In-Depth Insights for Optimal Compatibility</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-narzo-60-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme Narzo 60 Pro 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-fix-reactivate-your-local-security-protocols-now/"><u>Immediate Fix: Reactivate Your Local Security Protocols Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/instagrams-most-effective-tags-to-increase-engagement/"><u>Instagram's Most Effective Tags to Increase Engagement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-gaming-experience-with-the-top-ultrawide-monitors-of-2erly/"><u>Next-Level Gaming Experience with the Top Ultrawide Monitors of 2Erly</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-windows-struggles-to-find-compatible-printer-drivers/"><u>Resolved: Windows Struggles to Find Compatible Printer Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-stalled-windows-updates-a-step-by-step-guide/"><u>Resolving Stalled Windows Updates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-strategies-to-tackle-the-windows-update-at-zero-percent-conundrum/"><u>Seamless Strategies to Tackle the Windows Update at Zero Percent Conundrum</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-8007000e-update-issue-on-your-pc/"><u>Step-by-Step Guide: Resolving the 8007000E Update Issue on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-revealing-your-wi-fi-settings-in-windows-11/"><u>Troubleshooting Guide: Revealing Your Wi-Fi Settings in Windows 11</u></a></li>
 </ul></div>
 

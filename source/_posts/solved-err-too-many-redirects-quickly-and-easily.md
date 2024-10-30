@@ -1,7 +1,7 @@
 ---
 title: "[Solved] | ERR TOO MANY REDIRECTS | Quickly & Easily"
-date: 2024-10-19T18:16:56.932Z
-updated: 2024-10-24T16:20:14.126Z
+date: 2024-10-26T18:23:02.496Z
+updated: 2024-10-30T17:26:11.772Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 1: Check if your device is discoverable**
 
  If your AirDrop is not working in your device, you may need to check if you have make your device discoverable. AirDrop must be manually enabled in Control Center on iOS devices and in the Mac’s Finder for it to work. Check the following steps:
@@ -74,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45fe56bb738.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **On Mac OS** :
@@ -90,11 +83,31 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
 ![airdrop on mac](https://www.tenorshare.com/images/topics/os-x/airdrop-on-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Step 2: Make sure all the devices are within detected range**
 
  As mentioned, AirDrop works based on WiFi and Bluetooth, so your devices must be within the WiFi and Bluetooth range to be able to detected. You can’t AirDrop to users who are out of the defined range.
 
  It’s recommended to be as**closer** as possible when using AirDrop, and do not beyond**20 feet** (**6 meters** ), which may make your device undiscoverable.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 3: Turn off your AirPlane mode**
 
@@ -105,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
  2) Tap the**Airplane** button to turn it off. The button is grey if it’s turned off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a460c603cd38.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Try your AirDrop again to see if it works.
 
@@ -127,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 2: Resign in your iCloud account**
 
  The AirDrop not working issue can be caused by the iCloud issue.**Signing out and Signing in again** can solve the problem.
@@ -143,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
  1) Go to**Settings** , and tap**your name** to go to**iCloud** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a460c90c9a67.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Tap**Sign Out** , and enter your**Apple ID password** to confirm.
 
@@ -155,13 +161,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
  5) Try your AirDrop again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Check the Bluetooth and WiFi**
 
@@ -181,6 +180,13 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4607f0c3ee9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Try AirDrop again.
 
 **Tips** : Please make sure your WiFi connection works well. Sometimes if your WiFi doesn’t work, your AirDrop can’t transfer items.
@@ -196,6 +202,13 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
  2) Tap the button next to**Personal Hotspot** to turn it off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4608a486d7a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Reopen your AirDrop and try it again.
 
@@ -239,29 +252,22 @@ You can try to reset your network to fix AirDrop not working.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea3391f22f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Choose**Reset Network Settings** , then enter your**Passcode** to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d694399482.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Select your WiFi, enter the password to connect again.
 
 3) Try to use AirDrop again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 7: Check Firewall on Mac**
 
@@ -271,16 +277,16 @@ You can try to reset your network to fix AirDrop not working.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4603fa5ebb5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Firewall** , and click**Firewall** **Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4604372f4c1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Uncheck the box next to**Block all incoming connections** , then click**OK** .
 
@@ -310,18 +316,21 @@ You can try to reset your network to fix AirDrop not working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-resolving-frame-rate-puzzle-which-fps-brings-sharper-videos/"><u>[New] In 2024, Resolving Frame Rate Puzzle Which FPS Brings Sharper Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-no-cost-instant-messenger-applications-on-apple-devices/"><u>Best No-Cost Instant Messenger Applications on Apple Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhanced-security-measures-activated-for-local-systems/"><u>Enhanced Security Measures Activated for Local Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-magic-v2-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Magic V2 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-iphone-xs-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your iPhone XS and iPad?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/journey-through-time-identifying-the-dawn-of-machine-intelligence/"><u>Journey Through Time: Identifying the Dawn of Machine Intelligence</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-best-cloud-storage-service-for-videos/"><u>New Best Cloud Storage Service for Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-mp3-to-mkv-konvertierung-kostenlos-movavi/"><u>Online MP3-to-MKV Konvertierung Kostenlos - Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-problems-with-windows-11-1607-feature-set-installation-errors/"><u>Overcoming Problems with Windows 11 1607 Feature Set Installation Errors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-speedy-path-to-flawless-youtube-subtitling-and-cc-integration-for-2024/"><u>The Speedy Path to Flawless YouTube Subtitling & CC Integration for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-tips-for-fixing-windows-11-stalling-issues/"><u>Top Tips for Fixing Windows 11 Stalling Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-solving-windows-10-freezing-issues/"><u>Troubleshooting Tips: Solving Windows 10 Freezing Issues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-shorts-ultimate-guide/"><u>[New] 2024 Approved YouTube Shorts Ultimate Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swift-video-transformation-with-top-8-apps/"><u>[Updated] Swift Video Transformation with Top 8 Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-design-dynamics-top-20-font-choices-for-youtube-success/"><u>2024 Approved Design Dynamics Top 20 Font Choices for YouTube Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/ace-your-fixes-handling-the-080072efd-glitch-in-windows-11-effortlessly/"><u>Ace Your Fixes: Handling the 0#80072EFD Glitch in Windows 11 Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/gearheads-guide-to-restoring-audio-on-your-forza-horizon-4-tracks/"><u>Gearhead's Guide to Restoring Audio on Your Forza Horizon 4 Tracks</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-resolving-windows-10-boot-problems-preventing-proper-shutdown/"><u>Guide: Resolving Windows 10 Boot Problems Preventing Proper Shutdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-continuous-mistyped-keys-on-your-keyboard/"><u>How to Correct Continuous Mistyped Keys on Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209423436-how-to-fix-error-651-in-windows-easily/"><u>How to Fix Error 651 in Windows. Easily</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-automatic-youtube-playback-made-simple-for-social-networking-sites-like-facebook/"><u>In 2024, Automatic YouTube Playback Made Simple for Social Networking Sites Like Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/instant-solution-guidelines-fixing-the-missing-battery-alert-with-ease/"><u>Instant Solution Guidelines: Fixing the Missing Battery Alert with Ease</u></a></li>
+<li><a href="https://article-posts.techidaily.com/make-a-splash-impressive-video-edits-with-windows-10s-tools-for-2024/"><u>Make a Splash Impressive Video Edits with Windows 10'S Tools for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-screenplay-essential-dialogue-techniques/"><u>Mastering Screenplay Essential Dialogue Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-livekernelevent-issue-117/"><u>Step-by-Step Guide: Correcting LiveKernelEvent Issue #117</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-top-pick-for-new-dronists-a-deep-look-at-syma-x5c/"><u>The Top Pick for New Dronists – A Deep Look at Syma X5C</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-code-0x8007045d-in-windows-1011/"><u>Troubleshooting Error Code 0X8007045D in Windows 10/11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp4-mp3/"><u>온라인 무료 MP4 갤럼 MP3로 전환 - 모바이비</u></a></li>
 </ul></div>
 

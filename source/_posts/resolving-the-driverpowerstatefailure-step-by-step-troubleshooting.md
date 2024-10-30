@@ -1,7 +1,7 @@
 ---
 title: "Resolving the DRIVER_POWER_STATE_FAILURE: Step-by-Step Troubleshooting"
-date: 2024-10-17T22:45:11.585Z
-updated: 2024-10-24T19:58:03.868Z
+date: 2024-10-25T17:37:48.271Z
+updated: 2024-10-30T16:06:38.862Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 5. [**Change processor affinity**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
 
@@ -69,16 +76,16 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Install the latest game patch**
@@ -90,10 +97,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Update or reinstall your drivers**
@@ -124,10 +131,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
@@ -143,18 +150,18 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
@@ -175,19 +182,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -210,16 +204,19 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-tech-innovator-point-of-view-unveiling-the-best-fb-video-downloaders-on-android-for-2024/"><u>[Updated] Tech Innovator' Point of View Unveiling the Best FB Video Downloaders on Android for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-10-best-hexacopter-drones-for-2024/"><u>[Updated] Top 10 Best Hexacopter Drones for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-gifify-your-twit-making-vids-free-and-flashy/"><u>2024 Approved Gifify Your Twit Making Vids Free & Flashy</u></a></li>
-<li><a href="https://common-error.techidaily.com/breaking-boundaries-of-speed-the-remarkable-swiftness-of-our-latest-technological-advance/"><u>Breaking Boundaries of Speed: The Remarkable Swiftness of Our Latest Technological Advance</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-fixing-nier-automata-stability-issues-on-pcs/"><u>Comprehensive Guide to Fixing Nier: Automata Stability Issues on PCs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/declaring-heartfelt-feelings-in-hungarian/"><u>Declaring Heartfelt Feelings in Hungarian</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-m6-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco M6 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/revived-silent-mic-now-shouting-on-discord/"><u>Revived Silent Mic, Now Shouting on Discord</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-kinemaster-greenscreen-techniques-for-2024/"><u>Step-by-Step KineMaster Greenscreen Techniques for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oneplus-11-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On OnePlus 11 5G? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/wow-reimagined-delivering-ultimate-3d-experience-worldwide/"><u>WoW Reimagined: Delivering Ultimate 3D Experience Worldwide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-follow-the-flow-of-forum-fancies/"><u>[New] 2024 Approved Follow the Flow of Forum Fancies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bridging-platforms-effortlessly-add-linktree-to-tiktok-bios/"><u>[New] Bridging Platforms Effortlessly Add Linktree to TikTok Bios</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-youtube-presence-with-customized-subtitles-for-2024/"><u>[New] Elevating Your YouTube Presence with Customized Subtitles for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-your-picture-at-a-glance-quick-steps-for-saving-social-media-pics/"><u>[Updated] Your Picture at a Glance Quick Steps for Saving Social Media Pics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-broadcast-keepers-2023/"><u>2024 Approved Facebook Broadcast Keepers 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-a-wandering-computer-mouse/"><u>Effortless Fixes for a Wandering Computer Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-resolving-driverpowerstatefailure-malfunctions-efficiently/"><u>Expert Advice: Resolving DRIVER_POWER_STATE_FAILURE Malfunctions Efficiently</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-securely-download-and-install-nvidias-3d-vision-drivers-for-windows-without-spending-a-penny/"><u>How to Securely Download and Install Nvidia's 3D Vision Drivers for Windows - Without Spending a Penny</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-creating-gentle-volume-reduction-in-audacity/"><u>In 2024, Creating Gentle Volume Reduction in Audacity</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210710746-ps4-controller-power-problems-heres-how-to-solve-them/"><u>PS4 Controller Power Problems? Here's How to Solve Them!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/quick-fixes-for-hyperx-cloud-alpha-mic-malfunction-problems/"><u>Quick Fixes for HyperX Cloud Alpha Mic Malfunction Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-sudden-system-resets-a-guide-for-windows-11-users/"><u>Tackling Sudden System Resets – A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-undetected-western-digital-my-passport-ultra-on-your-pc/"><u>Troubleshooting Guide: Fixing Undetected Western Digital My Passport Ultra on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-overcome-the-32-bit-print-driver-host-crashed-issue/"><u>Troubleshooting Success! Overcome the '32-Bit Print Driver Host Crashed' Issue</u></a></li>
 </ul></div>
 

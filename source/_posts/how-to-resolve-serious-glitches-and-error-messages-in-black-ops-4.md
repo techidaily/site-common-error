@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Serious Glitches and Error Messages in Black Ops 4
-date: 2024-10-19T20:55:32.801Z
-updated: 2024-10-24T20:07:39.822Z
+date: 2024-10-25T16:44:38.650Z
+updated: 2024-10-30T17:13:50.339Z
 tags:
   - win11
   - win10
@@ -42,16 +42,30 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 2. On the top right, click on **the three vertical dots** button > **More tools** \> **clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df7b87cca5.jpg)
 3. In the drop-down menu, click to select **the time range** for the data cache clearing (Last 7 days in my example). Then click **CLEAR DATA** .  
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 4. Run Chrome and hopefully the**Google Chrome not responding** problem has been sorted. If yes, then great! But if the issue persists, you should try**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Turn off Chrome add-ons
@@ -64,19 +78,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 2. In the top right, click on **the three vertical dots** button > **More tools** \> **Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. **Restart**  your computer and check if**Google Chrome**  now works:
@@ -100,23 +101,9 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432efcb9088.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b1daa19ee7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -127,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Allow Chrome**through Windows Defender Firewall**
@@ -141,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4322c4421a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4323083c3e7.jpg)
@@ -148,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  3) Click**Change settings** . Then make sure the 4 boxes for Google Chrome are ALL ticked and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4324732913f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Re-launch Google Chrome and check if the **Google Chrome not responding** issue has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5** , below.
 
@@ -192,22 +193,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-the-secrets-of-valheim-crop-cultivation/"><u>[New] Unveiling the Secrets of Valheim Crop Cultivation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725285772577-digiarty-dvd/"><u>最新版 Digiartyソフトウェアラインナップ: DVD処理、動画編集、ファイル転送ツール一式</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortlessly-conceal-your-environment-the-ultimate-tutorial-for-blurring-backgrounds-on-google-meet/"><u>Effortlessly Conceal Your Environment: The Ultimate Tutorial for Blurring Backgrounds on Google Meet</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-red-screen-error-ultimate-troubleshooting-guide/"><u>Fixing the Red Screen Error: Ultimate Troubleshooting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11s-phantom-mouse-cursor-problem/"><u>Fixing Windows 11'S Phantom Mouse Cursor Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-non-functional-surface-pro-4-digital-pen-fixed/"><u>How to Repair Non-Functional Surface Pro 4 Digital Pen [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-failure-to-detect-wd-my-passport-ultra-drive/"><u>How to Resolve Windows Failure to Detect WD My Passport Ultra Drive</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-nokia-c12-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Nokia C12? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-poor-communication-between-epson-printer-and-scanner/"><u>Navigating Poor Communication Between Epson Printer and Scanner</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-infinix-zero-30-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Infinix Zero 30 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-windows-presscreen-five-step-by-step-solutions-for-windows-10-users/"><u>Reviving Your Windows Presscreen: Five Step-by-Step Solutions for Windows 10 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-update-issue-0x800f0845/"><u>Steps to Overcome Update Issue - 0X800F0845</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stop-windows-update-installing-drivers-in-windows-11-solved/"><u>Stop Windows Update Installing Drivers in Windows 11 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/stopping-windows-overzealous-cpu-consumption/"><u>Stopping Window's Overzealous CPU Consumption</u></a></li>
-<li><a href="https://common-error.techidaily.com/update-announcement-new-world-clears-the-way-past-previous-anti-cheat-glitches/"><u>Update Announcement: New World Clears the Way Past Previous Anti-Cheat Glitches</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-smart-8-plus-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Smart 8 Plus Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-iconic-tricks-from-the-80s-for-stunning-videos/"><u>[New] In 2024, Iconic Tricks From the '80S for Stunning Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-a-comprehensive-breakdown-of-live-streaming-and-downloading-tv/"><u>[Updated] 2024 Approved A Comprehensive Breakdown of Live Streaming and Downloading TV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-beyond-illusion-vr-timeline-explored/"><u>[Updated] Beyond Illusion VR Timeline Explored</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-directcapture-pro-windows-11-recording-made-simple/"><u>[Updated] In 2024, DirectCapture Pro - Windows 11 Recording Made Simple</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-dungeons-and-dragons-leveraging-chatgpt-for-game-improvement/"><u>Boosting Dungeons & Dragons: Leveraging ChatGPT for Game Improvement</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-follow-guides-for-using-microsoft-file-explorer-in-windows-10/"><u>Easy-to-Follow Guides for Using Microsoft File Explorer in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-troubleshooting-steps-for-a-stuck-amd-ccc-panel-launch-issue/"><u>Effortless Troubleshooting Steps for a Stuck AMD CCC Panel Launch Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-steps-how-to-grant-admin-rights-for-operations-in-windows-11-10-and-7/"><u>Essential Steps: How to Grant Admin Rights for Operations in Windows 11, 10 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206118065-google-chrome-stuck-heres-how-we-fixed-it-and-ensured-smooth-browsing/"><u>Google Chrome Stuck? Here's How We Fixed It and Ensured Smooth Browsing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-11-pro-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 11 Pro With 7 Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-hosted-network-could-not-be-started-error-on-windows-11/"><u>How to Fix 'Hosted Network Could Not Be Started' Error on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/obs-studio-excellence-the-top-5-editing-strategies-for-2024/"><u>OBS Studio Excellence The Top 5 Editing Strategies for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/samsungs-new-odyssey-neo-g9-smartphone-launches-at-a-steep-price-of-1300-on-amazon/"><u>Samsung's New Odyssey Neo G9 Smartphone Launches at a Steep Price of $1,300 on Amazon</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-hp-laptop-webcam-malfunctions-on-windows-10/"><u>Solving the Issue: HP Laptop Webcam Malfunctions on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-recovering-missing-file-privileges-in-steam-fixed/"><u>The Ultimate Guide to Recovering Missing File Privileges in Steam [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-usage-from-wudfhostexe-under-windows-1-groovy-11/"><u>Troubleshooting Elevated CPU Usage From WUDFHost.exe Under Windows 1 Groovy 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-obs-software-microphone-issues/"><u>Troubleshooting Guide: Resolving OBS Software Microphone Issues</u></a></li>
 </ul></div>
 

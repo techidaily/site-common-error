@@ -1,7 +1,7 @@
 ---
 title: Overcoming Issues with Windows Defender and System File Checker
-date: 2024-09-09T08:55:03.373Z
-updated: 2024-09-10T08:55:03.373Z
+date: 2024-10-23T17:26:09.987Z
+updated: 2024-10-30T17:37:52.856Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes Overcoming Issues with Windows Defender and Syst
 thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08b530725208b4f5fec9ae8dd.JPG
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Tips for Windows 10 Issues with The Duo Approach: System File Checker (SFC) and Deployment Image Servicing (DISM)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586c9a4e6db41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows 10 is equipped with some very handy tools that allow you to solve your computer problems.**System File Checker** and**Deployment Image & Servicing Management** tools are ones of them.
 
 You should consider using these tools when:
@@ -56,12 +44,6 @@ and etc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) In the Command Prompt window, type in the following command:
 
 sfc /scannow
@@ -76,18 +58,6 @@ Leave the Command Prompt window on until the command completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca520c7e49.png)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) If you see a message saying   **Windows Resource Protection found corrupt files but was unable to fix some of them** , then you need to go to[**safe mode**](https://tools.techidaily.com/drivereasy/download/) and run the system file checker again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca59f1f21f.jpg)
@@ -124,12 +94,6 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586caacd9f489.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 For more detailed information, please go to the posts below:
 
 [**How to refresh Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
@@ -142,12 +106,6 @@ For more detailed information, please go to the posts below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8abc65e6ec.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to have your own professional tech support and tons of other features in Driver Easy such as driver back up and driver restore, by all means, have a try at the[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It allows you to update all your device drivers in just ONE click and poof, your computer problems are gone!
 
  You can always ask for a refund thirty days within the purchase if you are not satisfied with it. What’s with the hold up, come on and have a try at[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) now!
@@ -160,8 +118,6 @@ For more detailed information, please go to the posts below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +125,31 @@ For more detailed information, please go to the posts below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-power-supplies-for-black-gopro-hero5-cameras-authentic-and-imposters/"><u>[New] In 2024, Top Power Supplies for Black GoPro Hero5 Cameras - Authentic & Imposters</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-newcomers-pathway-maximizing-money-on-periscope-platform/"><u>[New] Newcomer's Pathway Maximizing Money on Periscope Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721371588262-everyone-enjoys-gpt-4-for-free-yet-6-advantages-of-premium/"><u>Everyone Enjoys GPT-4 for Free; Yet, 6 Advantages of Premium</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-successfully-pair-your-bluetooth-keyboard-with-a-windows-or-mac-computer-again/"><u>Expert Advice: Successfully Pair Your Bluetooth Keyboard with a Windows or Mac Computer Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-the-noentrypointfound-error-on-your-computers-operating-system/"><u>How To Repair The ‘NoEntryPointFound’ Error on Your Computer's Operating System</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-6s-plus-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 6s Plus without Password</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-enlarged-pictures-maintaining-high-quality-standards/"><u>In 2024, Enlarged Pictures Maintaining High-Quality Standards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-designs-in-syma-x8c/"><u>In 2024, Innovative Designs in Syma X8C</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-audio-hurdles-restoring-dolby-entertainment-features-on-windows-11-systems/"><u>Overcoming Audio Hurdles: Restoring Dolby Entertainment Features on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-copy-and-paste-functionality-errors-on-your-windows-11-pc/"><u>Resolving 'Copy & Paste' Functionality Errors on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fix-for-the-apex-anti-cheat-system-bug-now-solved/"><u>Simple Fix for the Apex Anti-Cheat System Bug - Now Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-reducing-msmpengexes-high-resource-drain-on-windows-10-pc/"><u>Solution for Reducing MsMpEng.exe's High Resource Drain on Windows 10 PC</u></a></li>
+<li><a href="https://discover-data.techidaily.com/surface-usb/"><u>Surfaceパソコンデータの安全確保: USBメモリ移行ガイド</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-ace-3-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Ace 3 Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-nokia-c12-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Nokia C12 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-stuck-keyboard-arrows-effective-solutions/"><u>Troubleshoot Your Stuck Keyboard Arrows – Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-windows-10-store-error-message-0x80073cf9/"><u>Troubleshooting and Correcting Windows 10 Store Error Message 0X80073CF9</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

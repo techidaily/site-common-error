@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Destiny 2 Stuck on Initializing"
-date: 2024-09-09T08:54:58.728Z
-updated: 2024-09-10T08:54:58.728Z
+date: 2024-10-27T17:21:31.110Z
+updated: 2024-10-30T16:22:28.715Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0354aa9101-300x139.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your Dell PC can’t detect or recognize your USB device when you plug it into the USB port, here are 4 simple troubleshooting steps for you. They have worked for many people.
 
 ## Try these steps
@@ -34,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 3. [**Check your power management settings**](#s3)
 4. [**Update your USB driver**](#s4)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Use a different USB port
 
  USB performance issues may occur if the USB port you plug your USB device into is dusty or damaged. You can try switching your USB device to a different USB port.
@@ -41,11 +42,12 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 If all your USB ports aren’t working, try Step 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
  If your Dell laptop has any problem with the power supply, the USB ports on your laptop may stop working. To check for power supply issues, you can follow these steps:
@@ -53,22 +55,10 @@ If all your USB ports aren’t working, try Step 2, below.
 1. **Disconnect** the AC adapter or power cord from your laptop.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -78,42 +68,28 @@ If all your USB ports aren’t working, try Step 2, below.
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
-5. Click the**Power Management** tab.  
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
-6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
-7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
+
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
   <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
+5. Click the**Power Management** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
+6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
+7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
 ### Step 4: Update your USB driver
@@ -149,8 +125,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +132,20 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-steps-for-seamless-youtube-video-loops/"><u>[New] 2024 Approved Essential Steps for Seamless YouTube Video Loops</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-perfect-your-content-with-tiktoks-number-manipulation-tricks-for-2024/"><u>[New] Perfect Your Content with TikTok's Number Manipulation Tricks for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-itel-s23-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Itel S23</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-touchpad-issues-why-scroll-functions-fail-in-windows-10/"><u>Fixing Touchpad Issues: Why Scroll Functions Fail in Windows 10?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-svchostexe-consuming-too-much-cpu-in-windows-10-solution-guide/"><u>How to Fix svchost.exe Consuming Too Much CPU in Windows 10 - Solution Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jokecrafters-generate-smiles-app/"><u>In 2024, JokeCrafters Generate Smiles (App)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-8-best-video-animation-app-for-androidiphoneipad-2024-recommended/"><u>New 8 Best Video Animation App for Android/iPhone/iPad 2024 Recommended</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-file-explorer-freezing-issues-on-windows-10-a-comprehensive-guide/"><u>Resolve File Explorer Freezing Issues on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-encrypted-drives-problems-with-windows-11/"><u>Resolving Encrypted Drives Problems with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-there-were-no-hard-drives-found-issue-when-rebooting-your-windows-10-system/"><u>Resolving the 'There Were No Hard Drives Found' Issue When Rebooting Your Windows 10 System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-setup-find-and-download-compatible-webcam-drivers-for-windows-7-free/"><u>Speedy Setup: Find & Download Compatible Webcam Drivers for Windows 7 | FREE</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-non-functioning-webcam-on-your-hp-laptop-in-windows-10/"><u>Troubleshooting Steps: Resolving Non-Functioning Webcam on Your HP Laptop in Windows 10</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/windows-11-microsofts-most-polarizing-operating-system-yet-is-the-hate-justified-zdnet-insights/"><u>Windows 11: Microsoft's Most Polarizing Operating System Yet - Is the Hate Justified? | ZDNET Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Troubleshoot a Frozen HDD in Windows 11: Expert Tips for Disk Health Restoration"
-date: 2024-09-09T08:55:03.246Z
-updated: 2024-09-10T08:55:03.246Z
+date: 2024-10-23T16:56:55.260Z
+updated: 2024-10-30T16:30:31.555Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: "This Article Describes How to Troubleshoot a Frozen HDD in Windows 11:
 thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c3295829397bcf7ff50f7e4bad5d7.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bluetooth Mouse Troubles? Restore Functionality for Windows Users Now
 
 Did you have this experience? You open your computer ready to work or entertain, the Bluetooth mouse is not working. When you’re using a Bluetooth mouse, it stops responding. Don’t worry, we’re here to help. You’re not the only one and this post can lead your way to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -51,34 +39,31 @@ Did you have this experience? You open your computer ready to work or entertain,
 2. Type**control panel** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 3. Use the**Tab** key or the**arrow** keys to choose the position. When you see the square around**Category** , press the**Enter** key.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Use the**arrow keys** to choose**Large icons** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_14-32-17.jpg)
 5. Choose**Devices and Printers** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_14-39-28.jpg)
 6. Choose**Add a device** and press**Enter** . Your computer will start to detect your Bluetooth mouse.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_17-57-35.jpg)
 7. Choose your Bluetooth mouse and press Enter. Follow the on-screen instructions to finish the process.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Troubleshooter
 
  If your mouse works fine on another computer, it should be a system issue. Windows has in-built troubleshooters to diagnose and fix common problems. Try this tool to fix the Bluetooth mouse not working problem.
@@ -87,20 +72,16 @@ Did you have this experience? You open your computer ready to work or entertain,
 2. Use the**Tab** key to choose**Update & Security** and then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-00-03.jpg)
 3. Choose**Troubleshoot** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-59-52.jpg)
 4. Select**Bluetooth** . Activate**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-01-06.jpg)
 5. Follow the instructions to finish the process.
 
@@ -113,29 +94,26 @@ Did you have this experience? You open your computer ready to work or entertain,
 1. Press the**Windows logo key + X** to open the menu. Use the**down arrow key** to choose**Device Manager** then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-31-48.jpg)
 2. Press**Tab** key to choose**Bluetooth** . Press the**right arrow** key to open the folder.
+
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Choose the Bluetooth and press Enter. Go to the**Power Management** tab. Make sure**Allow the computer to turn off this device to save power** is**unchecked** . If it’s not, activate the checkbox (using the tab key) and press the**Space bar** . Move to OK and save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-48-38.jpg)
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your driver
 
  If there’s something wrong with your Bluetooth adapter driver or mouse driver, you may encounter this Bluetooth mouse not working problem. There are two ways you can get drivers: manually or automatically.
@@ -168,8 +146,6 @@ Did you have this experience? You open your computer ready to work or entertain,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +153,22 @@ Did you have this experience? You open your computer ready to work or entertain,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-delving-into-active-presenters-record-capabilities/"><u>[New] 2024 Approved Delving Into Active Presenter's Record Capabilities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-6-effective-ways-of-resizing-your-igtv-videos/"><u>[New] In 2024, 6 Effective Ways of Resizing Your IGTV Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-quick-fixes-to-resume-paused-stream-on-facebook/"><u>[New] Quick Fixes to Resume Paused Stream on Facebook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-essential-tips-for-a-novice-using-facebook-analytics-for-2024/"><u>[Updated] Essential Tips for a Novice Using Facebook Analytics for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-powered-success-enhancing-your-job-interview-preparation-with-chatgpt/"><u>Chatbot-Powered Success: Enhancing Your Job Interview Preparation with ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-disconnecting-usb-devices-comprehamo-guide-to-keeping-your-connections-secure/"><u>Dealing With Disconnecting USB Devices: Comprehamo Guide to Keeping Your Connections Secure</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-for-fixing-bluetooth-connectivity-problems-on-your-windows-11-device-year-2024/"><u>Essential Tips for Fixing Bluetooth Connectivity Problems on Your Windows 11 Device - Year 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-periscopes-world-free-access-and-user-registration-for-2024/"><u>Exploring Periscope's World Free Access & User Registration for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-continuous-airplane-mode-glitch-solutions-explored/"><u>Fixing Windows 11'S Continuous Airplane Mode Glitch - Solutions Explored</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mac-audio-lab-a-comprehensive-guide/"><u>Mac Audio Lab A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-laptop-black-or-white-screen-dilemma-a-comprehensive-guide/"><u>Overcoming the Laptop Black (or White) Screen Dilemma – A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/protecting-your-apple-devices-does-applecareplus-offer-real-benefits/"><u>Protecting Your Apple Devices: Does AppleCare+ Offer Real Benefits?</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-handling-semaphore-timeout-error-code-0x80070079/"><u>Resolved: Handling 'Semaphore Timeout Error' Code 0X80070079</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-made-simple-resolving-issues-with-your-elgato-hd60-drivers-today/"><u>Troubleshooting Made Simple: Resolving Issues with Your Elgato HD60 Drivers Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-corsair-keyboard-wont-light-up/"><u>Troubleshooting Tips for When Your Corsair Keyboard Won't Light Up</u></a></li>
+</ul></div>
 

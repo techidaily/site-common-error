@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Audio Devices: Fix No Sound Output Errors on Windows Computers"
-date: 2024-10-17T20:33:20.091Z
-updated: 2024-10-24T21:24:10.225Z
+date: 2024-10-23T17:48:54.021Z
+updated: 2024-10-30T16:05:01.731Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 
  Then run a Windows update to check if the error code is resolved. If not, move on to try fix 2.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 Re-register DLL files
 
  If some DLL (Dynamic Link Library) files on your computer are malfunctioning, they may cause problems when connecting to the Windows Update servers. Hence, you may want to re-register these files with the following steps:
@@ -59,16 +52,10 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 2. Copy and paste the following commands. Hit**Enter** after each.  
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * `**regsvr32 softpub.dll /s**`  
@@ -90,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. At the end of the scan, you can check your computer’s Hardware, Security, and Stability in comparison with a worldwide average. Besides, a summary of the issues detected will show up. Click**Start Repair** and you’ll be prompted to purchase.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  Fortect comes with a**60-day Money-Back** Guarantee so you can refund anytime if Fortect doesn’t fix your problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 Turn off Firewall temporarily
 
@@ -113,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-8.jpg)
 3. **Turn off** Windows Defender Firewall for**Domain** ,**Private** and**Public** networks. Then click**OK** to save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have installed any other third-party antivirus, also disable them temporarily by exiting or following the official guideline.
 
@@ -131,6 +125,14 @@ Encounter 0x80072f8f when activating Windows? Try 2 fixes below.
 2. On the Date & time tab, turn on**Set time automatically** and**Set time zone automatically** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/2022-06-27_14-48-12.jpg)
 3. Click**Region** on the left tab. Make sure the**Country or region** is set to the country where you live in.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/2022-06-27_14-49-17.jpg)
 
 Restart your PC to make changes apply. Then try activating again.
@@ -144,33 +146,54 @@ Restart your PC to make changes apply. Then try activating again.
 2. Locate to the destination by following the path below.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **HKEY\_LOCAL\_MACHINE/Software/Microsoft/Windows/CurrentVersion/Setup/OOBE**
 3. Double-click**MediaBootInstall** . Then set the Value data to**0** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/regedit-activate-windows-8.jpg)
 4. After exiting the Registry Editor, type**cmd** in the Windows search box and click**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 5. Copy and paste**slmgr /rearm** . Then hit**Enter** . If you see a message with**Command completed successfully** , click**OK** to restart your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/0628.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Try to run the activation process again to see if the error is fixed.
 
 ## Microsoft store error 0x80072f8f
 
  Here are 2 fixes for you who’s prompted with the error code in Microsoft store.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1 Run Windows Store Apps Troubleshooter
 
@@ -179,13 +202,6 @@ Try to run the activation process again to see if the error is fixed.
 2. Choose**Troubleshoot** in the left tab. Click**Additional troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/additional-troubleshooter.jpg)
 3. Scroll down to click**Windows Store Apps** . Then click**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/2022-06-27_18-13-47.jpg)
 
@@ -201,21 +217,7 @@ Try to run the activation process again to see if the error is fixed.
 `Get-AppxPackage -allusers Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}`  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/2022-06-28_16-21-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now try to use Microsoft store again to see if the issue is fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -258,22 +260,15 @@ Now try to use Microsoft store again to see if the issue is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-accurate-chart-watcher-master-your-video-rankings/"><u>[Updated] 2024 Approved Accurate Chart Watcher Master Your Video Rankings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youngest-entrepreneur-in-media-lands-fortune-peak/"><u>[Updated] 2024 Approved Youngest Entrepreneur in Media Lands Fortune Peak</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-fine-tune-viewing-the-ultimate-zoom-journey-for-2024/"><u>[Updated] Fine-Tune Viewing The Ultimate Zoom Journey for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-quick-time-cameo-evaluation/"><u>[Updated] In 2024, Quick-Time Cameo Evaluation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/apex-legends-efficient-enjoyable-experience/"><u>Apex Legends: Efficient, Enjoyable Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhanced-personalization-with-advanced-analytics-the-secret-behind-successful-websites/"><u>Enhanced Personalization with Advanced Analytics: The Secret Behind Successful Websites</u></a></li>
-<li><a href="https://common-error.techidaily.com/failed-system-enhancement-windows-10-version-1607-installation-woes/"><u>Failed System Enhancement: Windows 10 Version 1607 Installation Woes</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211399277-master-the-fix-successful-steps-to-resolve-error-code-1-new-best-seo-titles-for-google-search-fatal-installer-glitch-error-1603-solved/"><u>Master the Fix: Successful Steps to Resolve Error Code 1 # New Best SEO Titles for Google Search - Fatal Installer Glitch (Error 1603) Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-through-troublesome-steam-setup-processes-tips-to-correct-common-problems/"><u>Navigating Through Troublesome Steam Setup Processes: Tips to Correct Common Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-guide-for-non-responsive-windows-11-start-menu/"><u>Resolved: Troubleshooting Guide for Non-Responsive Windows 11 Start Menu</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-the-openal32dll-error-message/"><u>Troubleshooting and Solutions for The openal32.dll Error Message</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-your-windows-computers-non-functional-built-in-camera/"><u>Troubleshooting Steps: Resolving Your Windows Computer's Non-Functional Built-In Camera</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-solving-the-dilemma-of-your-unresponsive-corsair-void-headset/"><u>Ultimate Troubleshooting Guide: Solving the Dilemma of Your Unresponsive Corsair Void Headset</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/what-everyone-must-know-about-creating-short-form-videos-for-2024/"><u>What Everyone Must Know About Creating Short-Form Videos for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-certain-monitors-dont-accept-current-input-specifications-a-technical-insight/"><u>Why Certain Monitors Don't Accept Current Input Specifications: A Technical Insight</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-touchpad-woes-heres-how-to-keep-your-cursor-visible/"><u>Windows 11 Touchpad Woes? Here's How to Keep Your Cursor Visible</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-high-cpu-usage-by-svchostexe-on-your-windows-10-device-guide/"><u>Winning the Battle Against High-CPU Usage by svchost.exe on Your Windows 10 Device [Guide]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-prodigy-vs-creative-hub-beta-edition/"><u>[New] In 2024, YouTube Prodigy Vs. Creative Hub Beta Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-liberate-yourself-with-free-movie-player-software/"><u>[New] Liberate Yourself with FREE MOVIE PLAYER Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-text-overlays-on-photos-in-windows-10s-photos-app/"><u>[New] Mastering Text Overlays on Photos in Windows 10'S Photos App</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-video-privacy-techniques-for-obscuring-details/"><u>[Updated] In 2024, Mastering Video Privacy Techniques for Obscuring Details</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-skype-video-not-working-on-windows-10/"><u>Easy to Fix Skype Video Not Working on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-spacebar-functionality-on-windows-10-pcs/"><u>How to Repair a Broken Spacebar Functionality on Windows 10 PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restart-your-audio-services-on-a-win-7-machine/"><u>How to Restart Your Audio Services on a Win 7 Machine</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-complete-studio-exploration-in-depth-xvideoexamine/"><u>In 2024, Complete Studio Exploration In-Depth XVideoExamine</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-echoing-ethos-with-closing-credits/"><u>In 2024, Echoing Ethos with Closing Credits</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-restore-pen-and-touch-interaction-on-your-screen/"><u>Troubleshooting: How to Restore Pen & Touch Interaction on Your Screen</u></a></li>
 </ul></div>
 

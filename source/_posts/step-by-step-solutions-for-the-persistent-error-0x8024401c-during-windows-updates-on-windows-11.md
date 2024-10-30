@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for the Persistent Error 0X8024401C During Windows Updates on Windows 11
-date: 2024-10-22T22:45:29.960Z
-updated: 2024-10-24T20:47:38.761Z
+date: 2024-10-28T17:17:56.660Z
+updated: 2024-10-30T17:54:13.968Z
 tags:
   - win11
   - win10
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 2. In the pop-up window, select **Windows Update** and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes** to run Windows Update troubleshooter.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap466-1.png)
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 4. Follow the on-screen instructions to troubleshoot this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### If you’re using Windows 11
@@ -95,26 +95,13 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 4. Click on the**Run** button next to Windows Update. Then wait for it to troubleshoot your issues.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Perform a Windows update again to see if you can install the update. If this issue reappears, try the next fix, below.
 
@@ -125,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the Run dialog. Type **cmd** and press **Ctrl** , **Shift** and **Enter** at the same time to **run Command Prompt as administrator** . You’ll be prompted for permission. Click **Yes** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468-1.png)
 2. In Command Prompt, type the command lines below and press Enter on your keyboard after typing each:  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  net stop bits  
  net stop wuauserv  
@@ -151,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of the Windows operating system. You can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually to see if you can fix this issue.
@@ -170,10 +157,10 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
@@ -186,10 +173,10 @@ Now, you can follow the steps below to download Windows updates manually:
 3. Visit **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Type the update number that you want to download. In this example, type KB3006137 and then click **Search** .  
@@ -204,6 +191,13 @@ Now, you can follow the steps below to download Windows updates manually:
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
  Restart your PC to see if this issue persists. If not, congratulations! You’ve resolved this annoying issue! But if this issue reappears, you can try the last fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pro tip: Want us to fix the problem for you?
 
@@ -231,22 +225,20 @@ Now, you can follow the steps below to download Windows updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-helmet-to-high-definition-top-5-cams-for-riders-23-edition/"><u>[New] Helmet to High Definition Top 5 Cams for Riders, '23 Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-breaking-the-mold-high-fidelity-sound-without-a-microphone/"><u>[Updated] 2024 Approved Breaking the Mold High-Fidelity Sound without a Microphone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-creators-guide-to-the-top-9-affordable-video-editing-apps/"><u>[Updated] 2024 Approved The Creator's Guide to the Top 9 Affordable Video Editing Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-designing-news-outro-sequences-for-2024/"><u>[Updated] Designing News Outro Sequences for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>[Updated] Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-multi-screen-mastery-review-splits-best-cam-for-2024/"><u>[Updated] Multi-Screen Mastery Review Splits Best Cam for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-streamitsimple-your-first-guide-to-live-podcasting-for-2024/"><u>[Updated] StreamItSimple Your First Guide to Live Podcasting for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/chrome-not-responding-heres-how-to-relaunch-and-continue-seamlessly/"><u>Chrome Not Responding? Here's How to Relaunch and Continue Seamlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-xbox-one-connection-issues-with-xbox-live-solved/"><u>How to Fix Your Xbox One Connection Issues with Xbox Live (Solved)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/keep-up-with-technology-the-definitive-guide-to-update-your-webcam-drivers-in-windows-11/"><u>Keep Up with Technology: The Definitive Guide to Update Your Webcam Drivers in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/kodi-hiccups-top-strategies-for-restoring-full-media-player-functionality/"><u>Kodi Hiccups? Top Strategies for Restoring Full Media Player Functionality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/retrieve-saved-memories-tips-for-recovering-instagram-reels-youve-archived/"><u>Retrieve Saved Memories: Tips for Recovering Instagram Reels You've Archived</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-driver-failed-due-to-incorrect-user-settings/"><u>Step-by-Step Guide to Resolve 'Driver Failed Due to Incorrect User Settings'</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-visible-cursor-functionality-in-windows-ebox-pcs-and-laptops/"><u>Step-by-Step Guide: Restoring Visible Cursor Functionality in Windows Ebox PCs and Laptops</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-load-caused-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Solutions for Reducing GPU Load Caused by the Desktop Window Manager on Windows 10 & 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing a Non-Responsive Laptop Trackpad</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-issue-when-windowsplusshiftpluss-key-combination-fails-in-windows-11-or-10/"><u>Troubleshooting Guide: Fixing the Issue When Windows+Shift+S Key Combination Fails in Windows 11 or 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-maximizing-viewability-and-engagement-understanding-facebook-video-ratios/"><u>[Updated] In 2024, Maximizing Viewability & Engagement Understanding Facebook Video Ratios</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-and-resolving-display-driver-stopped-responding-alerts-successfully/"><u>Addressing & Resolving 'Display Driver Stopped Responding' Alerts Successfully</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-apple-watch-series-9-analysis/"><u>Comprehensive Apple Watch Series 9 Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/dxgidll-resolution-pubg-glitch-overcome/"><u>Dxgi.dll Resolution: PUBG Glitch Overcome</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-random-disconnections-of-your-bluetooth-mouse-with-windows-1110/"><u>Expert Tips for Resolving Random Disconnections of Your Bluetooth Mouse with Windows 11/10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-with-ease-meta-unveils-new-feature-in-ray-ban-smart-glasses-for-real-time-landmark-recognition-insights-from-zdnet/"><u>Explore with Ease: Meta Unveils New Feature in Ray-Ban Smart Glasses for Real-Time Landmark Recognition - Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-and-regain-access-to-your-windows-smartscreen-guard/"><u>How to Fix and Regain Access to Your Windows SmartScreen Guard</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-flv-photo-slideshow-with-music-for-2024/"><u>How to Make a FLV Photo Slideshow with Music for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-elevate-your-imagery-a-compreenasional-on-lightroom-hdr/"><u>In 2024, Elevate Your Imagery A Compreenasional on Lightroom HDR</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-hot-30i-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Hot 30i Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-opengl-problems-a-comprehensive-guide-for-minecraft-players/"><u>Overcoming OpenGL Problems - A Comprehensive Guide for Minecraft Players</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-access-add-admin-to-your-social-media-hub/"><u>Secure Access: Add Admin to Your Social Media Hub</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-expert-review-of-peak-designs-best-smartphone-holders-for-samsung-google-and-iphone-users-cnet/"><u>The Expert Review of Peak Design's Best Smartphone Holders for Samsung, Google & iPhone Users | CNET</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-showdown-how-does-nintendo-switch-lite-stack-up-to-the-oled-model/"><u>The Showdown: How Does Nintendo Switch Lite Stack Up to the OLED Model?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-disappearance-of-your-default-windows-desktop/"><u>Troubleshooting the Disappearance of Your Default Windows Desktop</u></a></li>
 </ul></div>
 

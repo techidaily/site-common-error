@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for a Non-Responsive Fn Key on Your Lenovo Device
-date: 2024-10-20T17:50:49.474Z
-updated: 2024-10-24T22:49:26.301Z
+date: 2024-10-24T16:04:13.857Z
+updated: 2024-10-30T16:27:27.208Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -74,22 +74,15 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -132,10 +125,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
@@ -150,15 +143,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -199,17 +199,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-shoot-in-slow-motion-essential-gopro-hero-10-techniques/"><u>[New] Shoot in Slow Motion Essential GoPro Hero 10 Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>[New] Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-from-tiktok-to-instagram-strategies-to-amplify-your-reels-virality/"><u>[Updated] From TikTok to Instagram Strategies to Amplify Your Reel's Virality</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-stealth-and-honor-find-your-favorite-games-like-tsushi/"><u>[Updated] Stealth and Honor Find Your Favorite Games Like Tsushi</u></a></li>
-<li><a href="https://video-capture.techidaily.com/elevating-obs-studios-impact-top-5-editing-techniques-revealed/"><u>Elevating OBS Studio's Impact Top 5 Editing Techniques Revealed</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-12-pro-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 12 Pro Without Previous Owner?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-solve-error-message-0x80004005/"><u>How to Troubleshoot and Solve Error Message 0X80004005</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mitigating-excessive-cpudisk-load-by-ntoskrnlexe/"><u>Mitigating Excessive CPU/Disk Load by ntoskrnl.exe</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-troubleshooting-steps-for-an-unresponsive-xbox-one-on-xbox-live-networks/"><u>Solved! Troubleshooting Steps for an Unresponsive Xbox One on Xbox Live Networks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-youtube-creator-summit-a-getaway-for-top-talent-for-2024/"><u>The YouTube Creator Summit - A Getaway for Top Talent for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-windows-update-error-code-0x80070652-a-user-friendly-guide/"><u>Winning Against Windows Update Error Code 0X80070652: A User-Friendly Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hdr-tech-showdown-sns-vs-alternatives/"><u>[New] HDR Tech Showdown SNS vs Alternatives</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-decoding-the-core-contrasts-between-youtube-and-dailymention/"><u>[New] In 2024, Decoding the Core Contrasts Between YouTube and DailyMention</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-journey-from-photographic-moments-to-sequential-videos/"><u>[New] Journey From Photographic Moments to Sequential Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-executive-mind-how-neuroscience-can-inform-better-management-strategies/"><u>[Updated] The Executive Mind How Neuroscience Can Inform Better Management Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-internet-sharing-mastering-usb-tethering-on-windows-11/"><u>Effortless Internet Sharing: Mastering USB Tethering on Windows 11</u></a></li>
+<li><a href="https://discover-best.techidaily.com/international-ai-and-rpa-specialists-gather-at-the-abbyy-conference-during-the-2ndai-and-rpa-world-summit-berlin-2018/"><u>International AI and RPA Specialists Gather at the ABBYY Conference During the 2^Nd^AI & RPA World Summit, Berlin 2018</u></a></li>
+<li><a href="https://common-error.techidaily.com/pc-refuses-to-rise-snoozing-on-win1110/"><u>PC Refuses to Rise: Snoozing on Win11/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-exploring-the-causes-of-your-windows-10-machines-unexpected-boot-cycles/"><u>Resolved! Exploring the Causes of Your Windows 10 Machine's Unexpected Boot Cycles</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-the-mystery-missing-emails-on-your-iphone-and-easy-fixes/"><u>Solving the Mystery: Missing Emails on Your iPhone and Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-efficient-wdf-drivers-to-lower-cpu-utilization/"><u>Troubleshooting Efficient WDF Drivers to Lower CPU Utilization</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/whos-out-there-unraveling-online-communication-and-the-intriguing-dead-internet-hypothesis/"><u>Who's Out There? Unraveling Online Communication and the Intriguing Dead Internet Hypothesis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-11-3dvdmp4aviwmv/"><u>Windows 11专业推荐: 3位顶级无限制DVD转MP4/AVI/WMV工具 | 高效浏海转换</u></a></li>
 </ul></div>
 

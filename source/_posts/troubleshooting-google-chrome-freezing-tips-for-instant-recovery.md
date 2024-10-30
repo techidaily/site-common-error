@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Google Chrome Freezing - Tips for Instant Recovery
-date: 2024-10-17T18:58:09.989Z
-updated: 2024-10-24T22:28:01.414Z
+date: 2024-10-23T16:22:10.686Z
+updated: 2024-10-30T17:01:16.357Z
 tags:
   - win11
   - win10
@@ -50,14 +50,28 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Repair Apex Legends in Origin
@@ -79,6 +93,13 @@ Here are the steps to repair Apex Legends in Origin:
 
  After that, launch Apex Legends game and see if the Easy Anti-Cheat error still occurs. If it doesn’t, then great! If the issue persists, please try**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Verify connectivity to Easy Anti-Cheat
 
  You may encounter this error is Easy Anti-Cheat isn’t properly connected. To verify your connectivity to Easy Anti-Cheat, navigate to these two sites:
@@ -99,42 +120,30 @@ Here are the steps to repair Apex Legends in Origin:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**control firewall.cpl** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run.png)
 2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
-3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
+3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. While the role of an anti-virus program is hardly questionable, it’s known to conflict with other programs, rendering games unplayble.
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
 
@@ -148,10 +157,10 @@ Here are the steps to repair Apex Legends in Origin:
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends and Origin
@@ -172,25 +181,19 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-15.png)
 2. View Control Panel by **Category** , and then click **Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-14.png)
 3. Double-click **Origin** to uninstall it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
 6. Launch Apex Legends to see if you can play without error.
 
@@ -215,20 +218,16 @@ Here are the steps to repair Apex Legends in Origin:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-to-securing-photographic-backdrops/"><u>[New] Ultimate Guide to Securing Photographic Backdrops</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-optimizing-visual-content-adding-black-bar-and-box-to-facebook-videos/"><u>[Updated] 2024 Approved Optimizing Visual Content Adding Black Bar & Box to Facebook Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-backlink-journey-paving-a-path-to-youtube-success/"><u>[Updated] In 2024, The Backlink Journey Paving a Path to YouTube Success</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-cinematic-l-slow-videos-tips-from-the-pros-on-gopro-hero-10-for-2024/"><u>Crafting Cinematic L-Slow Videos Tips From the Pros on GoPro Hero 10 for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/destiny-2-troubleshooting-how-to-fix-initialization-failed-error/"><u>Destiny 2 Troubleshooting: How to Fix 'Initialization Failed' Error</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-se-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone SE Display? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hps-color-expertise-in-full-display-the-z32x-review/"><u>HP's Color Expertise in Full Display The Z32X Review</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-10-games-comparable-to-grand-theft-auto-v/"><u>In 2024, Essential 10 Games Comparable to Grand Theft Auto V</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-updated-video-card-software-for-your-toshiba-notebook-windows-edition/"><u>Installing Updated Video Card Software for Your Toshiba Notebook - Windows Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/maximizing-computer-performance-a-solution-for-low-memory-alerts-on-windows-ebitcoin/"><u>Maximizing Computer Performance: A Solution for Low Memory Alerts on Windows Ebitcoin</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-through-minecraft-opengl-challenges-proven-strategies-to-resolve-errors/"><u>Navigating Through Minecraft OpenGL Challenges: Proven Strategies to Resolve Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/preventing-valorant-game-freeze-with-reboot/"><u>Preventing Valorant Game Freeze with Reboot</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-persistent-usb-device-unrecognizable-pop-ups-troubleshooting-guide/"><u>Solved: Persistent 'USB Device Unrecognizable' Pop-Ups - Troubleshooting Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-error-code-0x80070570-for-corrupted-items/"><u>Steps to Resolve Windows Error Code 0X80070570 for Corrupted Items</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-hp-laptops-malfunctioning-usb-port/"><u>Troubleshooting Guide: Fixing HP Laptop's Malfunctioning USB Port</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-verdict-on-actives-place-among-best-recorders/"><u>[New] The Verdict on Active's Place Among Best Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-capturing-ios-device-screen-on-video/"><u>[Updated] Step-by-Step Capturing iOS Device Screen on Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-repair-techniques-for-the-driverpowerstatefailure-complication/"><u>Easy Repair Techniques for the DRIVER_POWER_STATE_FAILURE Complication</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-of-mic-issues-welcome-back-to-discord/"><u>End of Mic Issues, Welcome Back to Discord</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-malfunctioning-start-button-easily/"><u>Fixing Windows 11'S Malfunctioning Start Button Easily</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-mixed-media-with-color/"><u>In 2024, Mastering Mixed Media with Color</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-windows-could-not-complete-the-installation-errors/"><u>Quick Fixes for 'Windows Could Not Complete the Installation' Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-among-us-persistent-load-error-fix-and-troubleshooting-guide/"><u>Solving the 'Among Us' Persistent Load Error - Fix & Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-your-iphone-standby-in-just-four-steps/"><u>Unstuck Your iPhone Standby in Just Four Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-newest-accessory-the-sound-enabled-wearable-with-anticipated-price-and-launch-details/"><u>Unveiling Apple's Newest Accessory: The Sound-Enabled Wearable with Anticipated Price & Launch Details</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-werfuelexe-6-crucial-tips-for-seamless-operations-on-windows/"><u>Winning the Battle Against 'werfuel.exe' - 6 Crucial Tips for Seamless Operations on Windows</u></a></li>
 </ul></div>
 

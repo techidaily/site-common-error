@@ -1,7 +1,7 @@
 ---
 title: "Operating Oversights: Sudden System Stops While Playing"
-date: 2024-10-20T18:28:56.013Z
-updated: 2024-10-24T21:59:01.703Z
+date: 2024-10-23T18:13:54.256Z
+updated: 2024-10-30T17:04:42.858Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 4. **[Update your graphics drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Change the power option and adjust for best performance](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run PUBG in windowed full screen
 
  Running PUBG in windowed full screen is a proven effective way to reduce lag. To do so:
@@ -50,13 +43,6 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
  Once you’re in windowed full screen mode, check if the lag issues have reduced. If yes, then great! If the lag issues remain, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Close unused apps and set high priority for PUBG
 
@@ -79,6 +65,19 @@ Running PUBG in a lower resolution can also help in fixing lag:
 3. Start a game in PUBG and check if the lag in PUBG issues have been resolved. If yes, then congrats! But if the issues still persist, you should move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics drivers
 
@@ -106,13 +105,6 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Change the power option and adjust for best performance
 
  By default, the power plan on our computer is often configured to **Balanced**   or **Power saver**   to conserve battery, which largely compromises the operating capacity of your graphics card and CPU.
@@ -124,25 +116,34 @@ So to tweak the settings:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
 4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -166,20 +167,20 @@ So to tweak the settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-explore-the-finest-virtual-hydro-adventures/"><u>[Updated] 2024 Approved Explore the Finest Virtual Hydro Adventures</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-fast-and-efficient-image-captures-pcs-top-snipping-software-ranked/"><u>[Updated] In 2024, Fast & Efficient Image Captures PC's Top Snipping Software Ranked</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-ten-simple-steps-to-acquire-igtv-media-for-2024/"><u>[Updated] Ten Simple Steps to Acquire IGTV Media for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/among-us-troubleshooting-persistent-loading-issue-get-unstuck/"><u>Among Us: Troubleshooting Persistent 'Loading' Issue - Get Unstuck</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-successfully-completing-your-pending-windows-11-update-issues-addressed/"><u>Expert Tips: Successfully Completing Your Pending Windows 11 Update [ISSUES ADDRESSED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-logitech-g930-headset-audio-issue-steps-and-tips/"><u>Fixing the Logitech G930 Headset Audio Issue: Steps and Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a05-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A05 to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-s17e-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo S17e Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-obs-troubleshooting-eradicating-black-screens-in-live-gaming-broadcasts/"><u>Master OBS Troubleshooting: Eradicating Black Screens in Live Gaming Broadcasts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-lava-blaze-2-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Lava Blaze 2 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205020648-quick-solutions-when-your-hp-laptops-keys-stop-functioning-correctly/"><u>Quick Solutions When Your HP Laptop's Keys Stop Functioning Correctly!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-simplest-way-to-enable-wireless-internet-access-on-your-computer-system/"><u>The Simplest Way to Enable Wireless Internet Access on Your Computer System</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-guide-to-restore-symbol-functionality-in-apps-and-websites/"><u>The Ultimate Troubleshooting Guide to Restore @ Symbol Functionality in Apps and Websites</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-realtek-network-controllers-fail-to-show-up/"><u>Troubleshooting Tips for When Realtek Network Controllers Fail to Show Up</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-7-installation-issue-overcoming-the-no-device-drivers-present-hurdle-successfully/"><u>Windows 7 Installation Issue: Overcoming the 'No Device Drivers Present' Hurdle Successfully</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-investors-guide-to-choosing-yt-channels/"><u>[New] 2024 Approved The Investor's Guide to Choosing YT Channels</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-free-video-chatting-software-for-windowsmac-users-uncovered/"><u>[New] In 2024, Free Video Chatting Software for Windows/Mac Users Uncovered</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-rhymes-that-roam-a-list-of-must-have-tiktok-rap-songs/"><u>[Updated] 2024 Approved Rhymes That Roam A List of Must-Have TikTok Rap Songs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-discover-the-undiscovered-top-social-media-memes-for-2024/"><u>[Updated] Discover the Undiscovered Top Social Media Memes for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-complete-blueprint-for-capturing-your-ps4-adventures-for-2024/"><u>[Updated] The Complete Blueprint for Capturing Your PS4 Adventures for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/conquering-kernel-panic-on-your-macbook-pro/"><u>Conquering Kernel Panic on Your MacBook Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/elevate-engagement-posting-video-content-from-twitter-on-snapchat/"><u>Elevate Engagement Posting Video Content From Twitter on Snapchat</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-unsupported-entry-notifications-on-your-screen-display/"><u>How to Correct 'Unsupported Entry' Notifications on Your Screen Display</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-earnings-potential-with-youtube-adsense-payments-per-1k-viewer/"><u>In 2024, Unlocking Earnings Potential with Youtube AdSense Payments Per 1K Viewer</u></a></li>
+<li><a href="https://common-error.techidaily.com/lowering-cpu-intensity-on-your-pc/"><u>Lowering CPU Intensity on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/new-methods-unveiled-how-to-smooth-out-your-minecraft-gaming-session/"><u>New Methods Unveiled - How To Smooth Out Your Minecraft Gaming Session</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-visual-disturbances-a-solution-for-screen-stuttering-on-windows-11/"><u>Overcoming Visual Disturbances: A Solution for Screen Stuttering on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/program-lockdown/"><u>Program Lockdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-steam-updates-that-wont-download/"><u>Resolving Issues with Steam Updates That Won't Download</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211213608-9798350069341-summary-of-dean-koontzs-a-big-little-life/"><u>Summary of Dean Koontz's A Big Little Life | Free Book</u></a></li>
 </ul></div>
 

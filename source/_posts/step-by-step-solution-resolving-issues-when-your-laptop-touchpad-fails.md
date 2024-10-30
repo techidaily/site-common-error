@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Resolving Issues When Your Laptop Touchpad Fails"
-date: 2024-10-22T22:37:21.554Z
-updated: 2024-10-24T17:06:33.458Z
+date: 2024-10-29T18:19:20.484Z
+updated: 2024-10-30T16:42:40.609Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ The good news is, you can fix it easily!
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your sound driver
 
  Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
@@ -51,21 +58,20 @@ The good news is, you can fix it easily!
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
@@ -81,35 +87,29 @@ To do so:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
@@ -138,15 +138,23 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -171,21 +179,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-choosing-5-chrome-extensions-for-facebook-videos/"><u>[New] 2024 Approved The Ultimate Guide to Choosing 5 Chrome Extensions for Facebook Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-ultimate-guide-to-increasing-traffic-with-powerful-social-media-videos/"><u>[New] In 2024, The Ultimate Guide to Increasing Traffic with Powerful Social Media Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204369684-solved-new-world-wont-launch-easy-anti-cheat-error/"><u>[SOLVED] New World Won’t Launch Easy Anti-Cheat Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-malfunctioning-usb-inputoutput-on-modern-windows-systems/"><u>Diagnosing and Repairing Malfunctioning USB Input/Output on Modern Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-troubleshooting-how-to-restore-access-to-your-windows-installer-services/"><u>Error Troubleshooting: How to Restore Access to Your Windows Installer Services</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-guide-to-using-winxvideo-for-advanced-video-transformation-and-conversion-with-ai-features-tutorial-inside/"><u>Expert Guide to Using Winxvideo for Advanced Video Transformation & Conversion with AI Features - Tutorial Inside</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratuito-online-convertidor-de-archivos-ogg-a-flac-con-movavi/"><u>Gratuito Online - Convertidor De Archivos OGG a FLAC Con Movavi</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-game-crashes-in-minecraft-due-to-outdated-or-corrupted-video-card-drivers-windows/"><u>How to Solve Game Crashes in Minecraft Due to Outdated or Corrupted Video Card Drivers (Windows)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-visual-impact-strategic-planning-for-viral-video-campaigns/"><u>In 2024, Instagram Visual Impact Strategic Planning for Viral Video Campaigns</u></a></li>
-<li><a href="https://facebook.techidaily.com/reconnecting-to-facebook-post-random-signoff/"><u>Reconnecting to Facebook Post-Random Signoff</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-error-code-0x80072efd-a-step-by-step-guide/"><u>Resolving Windows 11 Error Code 0X80072EFD: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-10-hang-issues-a-comprehensive-guide-to-get-it-running-smoothly-again/"><u>Solving Windows 10 Hang Issues: A Comprehensive Guide to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-lava-yuva-2-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Lava Yuva 2</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-fix-a-non-functional-hdmi-connection-from-your-usb-port/"><u>Troubleshooting Tips: How to Fix a Non-Functional HDMI Connection From Your USB Port</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-oppo-reno-10-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo Reno 10 5G</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-decelerating-action-the-ultimate-guide-to-ig-reels-slow-motion/"><u>[New] In 2024, Decelerating Action The Ultimate Guide to IG Reels’ Slow Motion</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-dimensions-for-impressive-videography/"><u>[New] Instagram Dimensions for Impressive Videography</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-peacock-party-patter/"><u>[Updated] 2024 Approved Peacock Party Patter</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-accessing-google-meet-via-device-for-2024/"><u>[Updated] Accessing Google Meet via Device for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimize-your-online-visuals-learn-and-adjust-facebook-video-sizes-and-ratios-for-2024/"><u>[Updated] Optimize Your Online Visuals Learn and Adjust Facebook Video Sizes & Ratios for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/command-unexecuted-standstill/"><u>Command Unexecuted: Standstill</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-fixing-disconnection-problems-with-remote-servers-easily/"><u>Expert Tips: Fixing Disconnection Problems with Remote Servers Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-surface-device-unplugged-but-wont-charge-problem-solved/"><u>How to Fix Surface Device Unplugged but Won't Charge Problem: Solved</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-z-flip-5-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy Z Flip 5 FRP Bypass</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205334443-reviving-non-working-hp-laptop-keys-quick-solutions-at-hand/"><u>Reviving Non-Working HP Laptop Keys: Quick Solutions at Hand!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-experience-with-iphone-vr-video-playback-for-2024/"><u>Seamless Experience with iPhone VR Video Playback for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-error-1053-how-to-ensure-services-start-promptly/"><u>Troubleshooting Steps for Error 1053: How to Ensure Services Start Promptly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-hub-significance-crafting-memorable-names-for-2024/"><u>Video Hub Significance Crafting Memorable Names for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-overheat-and-crash-intervention/"><u>Win11 Overheat & Crash Intervention</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-configuration-stuck-heres-how-you-can-fix-it-effectively/"><u>Windows Configuration Stuck? Here's How You Can Fix It Effectively!</u></a></li>
 </ul></div>
 

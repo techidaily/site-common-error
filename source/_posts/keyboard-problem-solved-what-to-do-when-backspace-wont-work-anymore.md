@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Problem Solved: What to Do When 'Backspace' Won't Work Anymore"
-date: 2024-09-09T08:55:00.559Z
-updated: 2024-09-10T08:55:00.559Z
+date: 2024-10-27T16:16:42.692Z
+updated: 2024-10-30T17:58:27.688Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Keyboard Problem Solved: What to Do When 'Backs
 thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc39159b03c85adcc25dd9aaa4.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keyboard Dilemma? Here's How to Get Your Backspace Working Again
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0655f1dbae0.jpg)
@@ -33,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
  **Solution 2:[Reinstall your keyboard](#solution2)**
  **Solution 3:[Update your keyboard driver \[Recommended\]](#solution3)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 1: Turn off the Sticky Keys and the Filter Keys feature
 
  Sticky Keys and Filter keys are two accessibility functions in the Windows operating system. Sticky Keys allows you to press one key at a time for keyboard shortcuts; Filter Keys tells the keyboard to ignore your brief or repeated keystrokes. If these two keyboard functions are enabled, sometimes your backspace key cannot work fine.
@@ -66,11 +54,12 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
  Your backspace key should work now. Check to see if it works. If unfortunately not, please try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 2: Reinstall your keyboard
 
  The corrupted connection between your keyboard and your Windows operating system could also make the backspace key stop working. You can reinstall your keyboard to solve it.
@@ -81,46 +70,43 @@ Follow these:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/win-key-1.png)**  and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066acd62fb2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right-click on your keyboard software in the Keyboards section. Then click **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066e71dd09a.png)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Reboot your computer; Windows should then reinstall your keyboard automatically. Then check to see if your backspace key works.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
+<span id="1982485">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 3: Update your keyboard driver
 
  The solutions above could solve your problem, but if they don’t, please update your keyboard driver. Because a corrupted, wrong or missing keyboard driver could make your backspace key not function.
@@ -135,12 +121,6 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a06730e567d8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) If you try the Free version, click **Update**  next to your flagged keyboard driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system.
@@ -158,8 +138,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +145,19 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-compiling-chords-and-crafting-a-unique-youtube-playlist/"><u>[New] In 2024, Compiling Chords and Crafting a Unique YouTube Playlist</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unbeatable-mobilized-game-slowdowns/"><u>[New] In 2024, Unbeatable Mobilized Game Slowdowns</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-flip-your-video-collection-in-a-flash/"><u>[Updated] 2024 Approved How to Flip Your Video Collection in a Flash</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-filmora-for-windows-10-and-other-top-video-editors-recommendation/"><u>[Updated] Filmora for Windows 10 and Other Top Video Editors Recommendation</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-lenovo-laptops-cam-isnt-working/"><u>Effective Fixes for When Your Lenovo Laptop's Cam Isn't Working</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-steam-deck-performance-with-the-top-9-emulation-tools/"><u>Enhance Steam Deck Performance with the Top 9 Emulation Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-how-to-zoom-in-microsoft-teams/"><u>In 2024, How to Zoom in Microsoft Teams</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-persistent-pauses-when-initiating-windows-10-efficient-strategies-for-seamless-booting/"><u>Resolving Persistent Pauses When Initiating Windows 10: Efficient Strategies for Seamless Booting</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206284840-steam-client-launcher-trouble-discover-how-to-fix-and-get-back-in-action-today/"><u>Steam Client Launcher Trouble? Discover How to Fix and Get Back in Action Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-unresponsive-mousepad-issues-in-windows-operating-systems/"><u>Troubleshooting Guide for Unresponsive Mousepad Issues in Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-v1607-update-not-installing-correctly-heres-why/"><u>Windows 11 v1607 Update Not Installing Correctly – Here's Why</u></a></li>
+</ul></div>
 

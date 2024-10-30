@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Print to PDF Functionality Problems on Windows 11 by Microsoft
-date: 2024-10-22T22:45:42.926Z
-updated: 2024-10-24T20:38:12.841Z
+date: 2024-10-27T16:18:02.473Z
+updated: 2024-10-30T17:29:13.245Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/1e6fd3a5a3ea0e5e8f5fb33cf394d624bcb419dee
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -54,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/1e6fd3a5a3ea0e5e8f5fb33cf394d624bcb419dee
 3) Connect your USB device to the laptop again
 
 4) Plug the power supply back in
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Check your power management settings**
 
@@ -84,9 +70,29 @@ thumbnail: https://thmb.techidaily.com/1e6fd3a5a3ea0e5e8f5fb33cf394d624bcb419dee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
@@ -113,20 +119,20 @@ thumbnail: https://thmb.techidaily.com/1e6fd3a5a3ea0e5e8f5fb33cf394d624bcb419dee
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 5: Check your USB ports**
@@ -150,24 +156,21 @@ thumbnail: https://thmb.techidaily.com/1e6fd3a5a3ea0e5e8f5fb33cf394d624bcb419dee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-isnapmaker-ios-and-macos-media-synthesis-tool/"><u>[New] In 2024, ISnapMaker IOS & macOS Media Synthesis Tool</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-capture-and-record-a-new-era-of-iphoneipad-recording/"><u>2024 Approved Capture & Record A New Era of iPhone/iPad Recording</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-synthesizing-best-canon-sequential-videos/"><u>2024 Approved Synthesizing Best Canon Sequential Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-10-steps-to-optimize-your-insta-storytelling/"><u>2024 Approved The Ultimate 10 Steps to Optimize Your Insta Storytelling</u></a></li>
-<li><a href="https://common-error.techidaily.com/correcting-windows-setup-files-that-arent-working-properly/"><u>Correcting Windows Setup Files That Aren't Working Properly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dealing-with-inaccessible-or-frozen-screens-tips-for-playing-football-manager-2023/"><u>Dealing with Inaccessible or Frozen Screens - Tips for Playing Football Manager 2023</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-decrease-gpu-usage-of-dwm-in-windows-10-and-11/"><u>Effective Strategies to Decrease GPU Usage of DWM in Windows 10 and 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-troubleshooting-steps-for-windows-10-sound-level-adjustments/"><u>Fix: Troubleshooting Steps for Windows 10 Sound Level Adjustments</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-xerox-update-error-0x800f020b-and-enhance-your-printer-experience-on-windows/"><u>How to Fix 'Xerox Update Error 0X800f020b' And Enhance Your Printer Experience on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-se-2022-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone SE (2022) Factory Reset? | Stellar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-sony-xperia-10-v-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Sony Xperia 10 V?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-asus-rog-phone-8-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Asus ROG Phone 8 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-end-of-fortnites-initial-failures/"><u>The End of Fortnite's Initial Failures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-immagini-dng-in-png-senza-costi-con-il-convertitore-online-di-movavi/"><u>Trasforma Immagini DNG in PNG Senza Costi Con Il Convertitore Online Di Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-windows-11-disk-read-failures-easy-fixes-for-users/"><u>Troubleshooting and Repairing Windows 11 Disk Read Failures: Easy Fixes for Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-non-responsive-lenovo-mouse-pads-in-widows-oss/"><u>Troubleshooting Guide for Non-Responsive Lenovo Mouse Pads in Widows OSs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unmissable-heroes-from-every-fifa-world-cup-a-guide-to-exceptional-talent/"><u>Unmissable Heroes From Every FIFA World Cup - A Guide to Exceptional Talent</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-windows-11-start-menu-not-responding-solutions-inside/"><u>Why Is My Windows 11 Start Menu Not Responding? Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/winapi-component-absent-cruntimel1-1-0/"><u>WinAPI Component Absent - cRuntimeL1-1-0</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-naming-your-podcast-a-complete-guide-plus-list-of-over-50-creative-ideas/"><u>[New] 2024 Approved Naming Your Podcast A Complete Guide + List of Over 50 Creative Ideas</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-action-hunting-cameras-of-the-year/"><u>[Updated] 2024 Approved Top Action Hunting Cameras of the Year</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-movie-maker-pro-tips-for-efficient-editing/"><u>[Updated] 2024 Approved YouTube Movie Maker Pro Tips for Efficient Editing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-snippets-guide-essential-info-inside/"><u>2024 Approved YouTube Snippets Guide Essential Info Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-80240020-explained-a-step-by-step-solution-for-windows-11-installation-problems/"><u>Error Code 80240020 Explained - A Step-by-Step Solution for Windows 11 Installation Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-restoring-functionality-to-your-logitech-mouses-scroll-wheel/"><u>Expert Advice for Restoring Functionality to Your Logitech Mouse's Scroll Wheel</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-why-arent-my-function-keys-working/"><u>Expert Guide: Why Aren't My Function Keys Working?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/real-time-video-editing-master-the-art-with-manycam-virtual-camera-tech-unleashed/"><u>Real-Time Video Editing: Master the Art with ManyCam - Virtual Camera Tech Unleashed</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-the-roar-a-comprehensive-guide-to-fix-sound-issues-on-an-acer-computer/"><u>Reviving the Roar: A Comprehensive Guide to Fix Sound Issues on an Acer Computer</u></a></li>
+<li><a href="https://techidaily.com/tecno-video-recovery-recover-deleted-videos-from-tecno-by-fonelab-android-recover-video/"><u>Tecno Video Recovery - Recover Deleted Videos from Tecno</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/uide-to-smart-video-money-making-on-platforms-for-2024/"><u>The Guide to Smart Video Money-Making on Platforms for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sound-issues-resolve-windows-1011-audio-setup-errors-easily/"><u>Troubleshooting Sound Issues: Resolve Windows 10/11 Audio Setup Errors Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-symbol-when-it-fails-to-work/"><u>Troubleshooting the '@' Symbol When It Fails to Work</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/ultimate-guide-cleaning-and-formatting-data-for-efficient-ai-model-training/"><u>Ultimate Guide: Cleaning and Formatting Data for Efficient AI Model Training</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-file-explorer-made-easy-learn-how-with-our-help/"><u>Windows 10 File Explorer Made Easy – Learn How With Our Help</u></a></li>
 </ul></div>
 

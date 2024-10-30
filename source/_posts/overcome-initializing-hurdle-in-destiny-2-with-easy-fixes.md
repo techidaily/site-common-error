@@ -1,7 +1,7 @@
 ---
 title: Overcome 'Initializing...' Hurdle in Destiny 2 with Easy Fixes
-date: 2024-10-23T17:16:28.443Z
-updated: 2024-10-24T20:20:52.562Z
+date: 2024-10-29T18:07:01.965Z
+updated: 2024-10-30T16:31:29.599Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your video card drivers
 
  Keep in mind to update your video card drivers at regular times; otherwise an out-dated or corrupt driver may end up lowering your FPS and even preventing the game from running smoothly.
@@ -67,9 +60,23 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update your video card driver, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -78,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
  Now launch the game and check whether it runs smoothly. Hopefully it does; but if not, read on and try out the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Modify your video card settings
 
@@ -88,6 +102,13 @@ To modify your video card settings, use the following procedure:
  1) Right-click an empty area on your desktop and then select**NVIDIA Control Panel** from the context menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-207.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the pop-up window, select**Manage 3D settings** from its left pane. Then, click**Add** to locate and choose the executable file of Fallout 4.
 
@@ -106,22 +127,15 @@ Now you’re able to modify the settings of this program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust in-game settings
@@ -134,25 +148,11 @@ Now you’re able to modify the settings of this program.
 
 ![This image has an empty alt attribute; its file name is image-215.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-215.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re not sure about the exact resolution of your monitor, you can right-click an empty area on your desktop and select**Display settings** from the context menu. In the pop-up window, take note of the recommended option under**Resolution** , the one that best suits your monitor size.
 
  Run the game to see if it goes smoothly this time. If not, move on and check out the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Uncap FPS limit
 
@@ -218,19 +218,22 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-future-cloud-costs-top-2024-storages-and-lowest-rates/"><u>[New] Future Cloud Costs Top 2024 Storages & Lowest Rates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-key-practices-for-amassing-picture-resources/"><u>[Updated] Key Practices for Amassing Picture Resources</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-macbook-cam-tutorial-for-smooth-video-capture/"><u>[Updated] MacBook Cam Tutorial for Smooth Video Capture</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-magix-video-pro-x-user-guide-summary/"><u>[Updated] Magix Video Pro X User Guide Summary</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-hangs-and-lag-in-windows-10-effective-solutions-to-try/"><u>Dealing with Hangs and Lag in Windows 10: Effective Solutions to Try</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-for-frozen-logitech-mouse-connectivity/"><u>Fix for Frozen Logitech Mouse Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-surface-pro-4-stylus-issues-a-comprehensive-solution-guide/"><u>Fixing Surface Pro 4 Stylus Issues: A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guia-paso-a-paso-para-recuperar-datos-de-backup-en-un-disco-seagate-externo/"><u>Guía Paso a Paso Para Recuperar Datos De Backup en Un Disco Seagate Externo</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-windows-update-error-code-0x802/"><u>How to Solve Windows Update Error Code 0X802</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issues-with-creating-a-crash-dump-in-wolfenstein-ii/"><u>Resolved: Issues with Creating a Crash Dump in Wolfenstein II</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-support-functionality-in-windows-11-help/"><u>Restoring Support Functionality in Windows 11 Help</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-poco-c65-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-windows-update-issues-head-on-effective-fixes-for-error-0x8024a105/"><u>Tackling Windows Update Issues Head-On: Effective Fixes for Error 0X8024a105</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/topo-10-conversionistas-de-video-premium-y-gratuito-para-computadoras/"><u>Topo 10 Conversionistas De Video Premium Y Gratuito Para Computadoras</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-frameful-fun-essential-tools-and-sites-for-photoframe-artistry/"><u>[New] 2024 Approved Frameful Fun Essential Tools and Sites for Photoframe Artistry</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-video-capture-clash-a-rivalry-of-screens-obs-vs-shadowcast/"><u>[New] 2024 Approved Video Capture Clash A Rivalry of Screens (OBS Vs. ShadowCast)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-the-secrets-of-lut-customization-in-premiere/"><u>[Updated] Unveiling the Secrets of LUT Customization in Premiere</u></a></li>
+<li><a href="https://fox-http.techidaily.com/advanced-tips-for-effective-google-podcast-sharing-for-2024/"><u>Advanced Tips for Effective Google Podcast Sharing for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-and-complex-microphone-malfunctions-in-windows-7-a-comprehensive-solution/"><u>Common and Complex Microphone Malfunctions in Windows 7: A Comprehensive Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-dealing-with-uncharging-issues-while-using-a-charger-on-windows-7-or-10/"><u>Effective Solutions for Dealing With Uncharging Issues While Using a Charger on Windows 7 or 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-and-techniques-to-fix-code-28-error-on-your-windows-computers-device-manager/"><u>Expert Tips and Techniques to Fix 'Code 28 Error' On Your Windows Computer's Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-d3d9-graphics-driver-error/"><u>How to Repair a Broken D3D9 Graphics Driver Error?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-scroll-wheel-capability-on-a-laptop-touchpad-for-windows-10-users/"><u>How to Restore Scroll Wheel Capability on a Laptop Touchpad for Windows 10 Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-poco-x5-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Poco X5 Phone Screen?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-13-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 13 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-file-explorer-on-windows-11-simple-troubleshooting-steps/"><u>Mastering File Explorer on Windows 11: Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-know-you-dont-need-a-pc-or-mac-to-apply-luts-on-your-media-you-can-use-many-smartphone-apps-to-apply-luts-such-as-3dlut-mobile-app-for-2024/"><u>New Do You Know You Dont Need a PC or Mac to Apply LUTs on Your Media? You Can Use Many Smartphone Apps to Apply LUTs, Such as 3DLUT Mobile App for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/oculus-quest-2-analysis-superb-virtual-reality-experience-with-unbeatable-value/"><u>Oculus Quest 2 Analysis: Superb Virtual Reality Experience with Unbeatable Value</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-compatibility-issues-with-display-input-timing-fixed/"><u>Solution Found: Compatibility Issues with Display Input Timing Fixed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-an-aoc-monitor-compatibility-on-windows-10/"><u>Troubleshooting Tips: Resolving Issues with an AOC Monitor Compatibility on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-guide-resolving-a-non-responsive-mouse-on-your-computer/"><u>Ultimate Troubleshooting Guide: Resolving a Non-Responsive Mouse on Your Computer</u></a></li>
 </ul></div>
 

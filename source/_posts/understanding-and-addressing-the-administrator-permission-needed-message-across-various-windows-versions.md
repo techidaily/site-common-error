@@ -1,7 +1,7 @@
 ---
 title: Understanding and Addressing the 'Administrator Permission Needed' Message Across Various Windows Versions
-date: 2024-10-20T16:28:00.800Z
-updated: 2024-10-24T21:47:25.156Z
+date: 2024-10-27T18:20:38.154Z
+updated: 2024-10-30T16:28:11.100Z
 tags:
   - win11
   - win10
@@ -36,19 +36,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -58,10 +45,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
@@ -88,32 +75,25 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -124,8 +104,30 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Click the **High performance** option > **Change plan settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -152,15 +154,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-fast-and-flawless-screen-shots-for-chromebookers/"><u>[New] Fast and Flawless Screen Shots for Chromebookers</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-mac-mouse-not-working/"><u>[Solved] Mac Mouse Not Working</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-efficiently-tackling-twitter-archive-data-analysis/"><u>[Updated] In 2024, Efficiently Tackling Twitter Archive Data Analysis</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-youtube-masterclass-choose-your-development-stage-for-2024/"><u>[Updated] YouTube Masterclass Choose Your Development Stage for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-on-resolving-windows-and-event-log-service-connection-failures/"><u>Expert Tips on Resolving Windows and Event Log Service Connection Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-updates-hanging-endlessly-at-100/"><u>How to Fix Windows Updates Hanging Endlessly at 100%</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-to-setup-handbrake-and-libdvdcss-for-legal-dvd-ripping-on-macwindows-11-systems/"><u>How to Setup Handbrake & Libdvdcss for Legal DVD Ripping on Mac/Windows 11 Systems</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-accelerate-your-videos-10-free-speed-changer-apps-for-ios-and-android/"><u>In 2024, Accelerate Your Videos 10 Free Speed Changer Apps for iOS and Android</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-get-your-nvidia-geforce-experience-running-smoothly/"><u>Step-by-Step Solutions to Get Your NVIDIA GeForce Experience Running Smoothly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-realme-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Realme Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-ultimate-guide-to-facetune-photo-enhancement/"><u>[New] 2024 Approved The Ultimate Guide to Facetune Photo Enhancement</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-premiere-pros-approach-to-clearing-iphone-video-overexposure-for-2024/"><u>[New] Premiere Pro's Approach to Clearing iPhone Video Overexposure for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-dynamic-discussions-for-regular-streaming-for-2024/"><u>[Updated] Dynamic Discussions for Regular Streaming for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-put-a-stay-to-unsolicited-youtube-trails/"><u>[Updated] Put a Stay to Unsolicited YouTube Trails</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boosting-views-essential-hashtags-for-trending-shorts/"><u>Boosting Views Essential Hashtags for Trending Shorts</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-strategies-to-address-and-resolve-parameter-errors/"><u>Comprehensive Strategies to Address and Resolve Parameter Errors</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/conversion-libre-de-h265hevc-a-h264-pour-macos-et-windows-version-1110/"><u>Conversion Libre De H.265/HEVC À H.264 Pour macOS Et Windows - Version 11/10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embark-on-an-api-adventure-with-openais-innovations/"><u>Embark on an API Adventure with OpenAI's Innovations</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-windows-11-computer-from-randomly-powering-on-by-itself/"><u>How to Stop Your Windows 11 Computer From Randomly Powering On by Itself</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-lava-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Lava FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-11-how-to-fix-insufficient-memory-warnings/"><u>Optimizing Windows 11 - How to Fix Insufficient Memory Warnings</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-update-unsuccessful-in-warframe-expert-tips-and-tricks/"><u>Resolving 'Update Unsuccessful' In Warframe: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-screen-capture-issues-in-obs-studio-for-smooth-recording/"><u>Resolving Screen Capture Issues in OBS Studio for Smooth Recording</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-ps4-remote-solutions-for-power-charging-issues/"><u>Revive Your PS4 Remote - Solutions for Power-Charging Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-for-fixing-a-frozen-ios-software-upgrade-process/"><u>Step-by-Step Solution for Fixing a Frozen iOS Software Upgrade Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-get-your-lenovo-camera-up-and-running-again/"><u>Step-by-Step Solutions to Get Your Lenovo Camera Up and Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-easy-errors-with-apex-legends-anti-cheat-system/"><u>Troubleshooting Easy Errors with Apex Legends Anti-Cheat System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ultimate-solution-for-windows-critical-process-died-error-error-code-c00000e9/"><u>Troubleshooting Ultimate Solution for Windows Critical Process Died Error (Error Code C00000e9)</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-sudden-closures-insights-into-correcting-error-solved-code-1067-on-windows-systems/"><u>Winning the Battle Against Sudden Closures: Insights Into Correcting Error ([SOLVED]) Code 1067 on Windows Systems</u></a></li>
 </ul></div>
 

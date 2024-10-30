@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve Xbox One Connection Problems with Xbox Live"
-date: 2024-10-20T18:12:20.230Z
-updated: 2024-10-24T22:02:03.716Z
+date: 2024-10-23T17:29:10.862Z
+updated: 2024-10-30T16:03:52.292Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
@@ -76,10 +69,10 @@ Here’s how to do it:
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -97,42 +90,45 @@ To do so:
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
@@ -166,20 +162,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/est-webcams-unveiled-a-youtube-livestreamers-handbook/"><u>[New] Best Webcams Unveiled A YouTube Livestreamer's Handbook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-compact-tech-set-for-itinerant-filmmaking/"><u>[New] Compact Tech Set for Itinerant Filmmaking</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-correcting-gopros-fish-eye-distortion-techniques/"><u>[New] Correcting GoPro's Fish Eye Distortion Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-list-of-8-budget-friendly-srt-services-for-2024/"><u>A Comprehensive List of 8 Budget-Friendly SRT Services for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/down-of-earnings-how-much-does-a-clicky-make-for-2024/"><u>Breakdown of Earnings How Much Does a Clicky Make for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/ensuring-uninterrupted-peaceful-nights-in-win11/"><u>Ensuring Uninterrupted Peaceful Nights in Win11</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-techniques-for-thawing-your-windows-11-taskbar-best-practices-revealed/"><u>Essential Techniques for Thawing Your Windows 11 Taskbar: Best Practices Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-skype-microphone-issues-a-comprehensive-solution-guide/"><u>Fixing Skype Microphone Issues - A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-techniques-for-high-quality-gopro-videos/"><u>In 2024, Advanced Techniques for High-Quality GoPro Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v29-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo V29</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-touchpad-problems-steps-to-get-it-working-again/"><u>Mastering Touchpad Problems: Steps to Get It Working Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-windows-app-crash-explorerexe/"><u>Resolved: Windows App Crash - Explorer.exe</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-10-update-loop-at-99-or-full-get-back-on-track-now/"><u>Resolving Windows 10 Update Loop at 99% or Full - Get Back on Track Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-fusion-of-premium-style-and-advanced-chips-discover-asus-new-zenbook-s-and-tuf-a14-with-top-tier-processors/"><u>The Fusion of Premium Style & Advanced Chips: Discover Asus' New ZenBook S and TUF A14 with Top-Tier Processors</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-startup-woes-eliminating-black-screens-on-monster-hunter-world-launch/"><u>Troubleshooting Startup Woes: Eliminating Black Screens on Monster Hunter: World Launch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-exploring-extraordinary-realms-metaverse-vs-omniverse-analyzed-for-2024/"><u>[New] Exploring Extraordinary Realms Metaverse Vs. Omniverse Analyzed for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-access-free-photographic-treasures-through-favored-4-youtube-clips/"><u>[New] In 2024, Access Free Photographic Treasures Through Favored 4 Youtube Clips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-goofy-way-a-look-back-at-the-90s-comedy-vhs/"><u>[Updated] 'The Goofy Way' A Look Back at the 90S Comedy VHS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/converting-twitter-video-lyrics-to-custom-gif-animations-for-2024/"><u>Converting Twitter Video Lyrics to Custom GIF Animations for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-windows-1s10-update-error-code-0x800f0922-with-these-8-expert-fixes/"><u>Defeat Windows 1ˈs10 Update Error Code 0X800F0922 with These 8 Expert Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-solving-when-hamachi-service-stops-working/"><u>Expert Tips for Solving When Hamachi Service Stops Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-the-problem-of-steam-store-failing-to-load/"><u>Expert Tips: Overcoming the Problem of Steam Store Failing to Load</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-simple-fixes-for-your-non-operational-windows-notepad/"><u>Five Simple Fixes for Your Non-Operational Windows Notepad</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-issues-when-steam-installs-or-updates-games/"><u>How to Fix Issues When Steam Installs or Updates Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-regain-access-to-lost-steam-game-files-complete-solution/"><u>How to Regain Access to Lost Steam Game Files - Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-issues-when-icloud-cant-detect-devices/"><u>How to Repair Issues When iCloud Can't Detect Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-pc-from-starting-automatically-on-windows-11/"><u>How To Stop Your PC From Starting Automatically on Windows 11?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-tecno-spark-go-2023-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Tecno Spark Go (2023) Location | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ix-escort-smart-radar-detector-reviews-adaptive-learning-device-enhancing-your-driving-experience/"><u>IX Escort Smart Radar Detector Reviews: Adaptive Learning Device Enhancing Your Driving Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-friendly-face-poking-in-modern-social-media/"><u>Navigating Friendly Face-Poking in Modern Social Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/real-time-broadcasting-excellence-connecting-via-wirecast-to-facebook/"><u>Real-Time Broadcasting Excellence Connecting via Wirecast to Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-authentication-problems-user-profile-service-on-windows-10-and-11/"><u>Solving Authentication Problems: User Profile Service on Windows 10 & 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving WoW Performance Lags and Optimizing Gameplay"
-date: 2024-10-18T19:57:37.171Z
-updated: 2024-10-24T19:14:10.426Z
+date: 2024-10-26T17:12:39.999Z
+updated: 2024-10-30T16:42:58.902Z
 tags:
   - win11
   - win10
@@ -38,28 +38,35 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Virus & threat protection settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484832a46a2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down to the bottom and click**Add or remove exclusions** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4848b874e63.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Add an exclusion** \>**Folder** .
@@ -67,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484924c3bad.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Copy & paste **C:\\Program Files\\Windows Defender** into the box and click Select**Folder** .
@@ -85,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
@@ -104,9 +104,23 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4845e5ee219.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48462bea585.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click the**Triggers** tab >**New…** .
 
@@ -117,20 +131,13 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
 
@@ -153,13 +160,6 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
 5) Restart your computer and see if your computer runs normally now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Want us to fix the problem for you?
 
@@ -184,22 +184,20 @@ thumbnail: https://thmb.techidaily.com/a9c4773f553465442855522d53311e6c839ae2e26
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unraveling-the-meaning-and-usage-of-blue-emoji-in-fb-messages/"><u>[New] 2024 Approved Unraveling the Meaning and Usage of Blue Emoji in FB Messages</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-viewer-interest-with-thumbnails-for-2024/"><u>[Updated] Enhancing Viewer Interest with Thumbnails for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-make-money-on-snapchat-for-2024/"><u>[Updated] How To Make Money On Snapchat for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-text-tactics-best-practices-guide/"><u>2024 Approved Text Tactics Best Practices Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-administrative-controls-tweaking-corporate-configurations-in-windows-environment/"><u>Deciphering Administrative Controls: Tweaking Corporate Configurations in Windows Environment</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fixes-for-non-functional-hp-laptop-cameras-in-the-windows-10-operating-system/"><u>DIY Fixes for Non-Functional HP Laptop Cameras in the Windows 10 Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-repair-techniques-for-windows-n-utilizing-system-file-checker-and-deployment-image-services/"><u>Effective Repair Techniques for Windows N: Utilizing System File Checker & Deployment Image Services</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-pro-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-converting-your-clips-upload-to-youtube-via-premiere/"><u>In 2024, Converting Your Clips Upload to YouTube Via Premiere</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-opencl-dynamic-link-deficiencies/"><u>Overcoming OpenCL Dynamic Link Deficiencies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/professionnel-macx-transforme-votre-video-en-mp4mkvaviwmv-pour-ios-et-android/"><u>Professionnel MacX : Transforme Votre Vidéo en MP4/MKV/AVI/WMV Pour iOS Et Android</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-game-crash-resolving-non-loading-buildings-for-smoother-playtime/"><u>PUBG Game Crash: Resolving Non-Loading Buildings for Smoother Playtime</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-steps-to-overcome-a-black-screen-on-google-chrome/"><u>Resolving the Issue: Steps to Overcome a Black Screen on Google Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-resolving-common-issues-in-call-of-duty-black-ops-4/"><u>Step-by-Step Tutorial: Resolving Common Issues in Call of Duty Black Ops 4</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-event-id-1000-across-windows-vista7810-a-comprehensive-guide/"><u>Troubleshooting Event ID 1000 Across Windows Vista/7/8/10: A Comprehensive Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unravel-costs-liberating-your-vob-experience-pcmac-for-2024/"><u>Unravel Costs Liberating Your VOB Experience (PC/Mac) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210298538-solved-windows-11-wont-sleep-issue/"><u>[Solved] Windows 11 Won’t Sleep Issue</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-window-capture-suite-pro-xp/"><u>[Updated] 2024 Approved Window Capture Suite Pro XP</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-cutting-edge-strategies-to-capture-dynamic-audio-in-video-projects-for-2024/"><u>[Updated] Cutting-Edge Strategies to Capture Dynamic Audio in Video Projects for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-methods-for-documenting-overwatch-games/"><u>[Updated] Essential Methods for Documenting Overwatch Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-pristine-story-conception-in-eight-genre-divisions/"><u>[Updated] Pristine Story Conception in Eight Genre Divisions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-influencers-roadmap-instagram-edition/"><u>[Updated] The Influencer's Roadmap Instagram Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-love-and-light-nine-essential-filmora-elements/"><u>2024 Approved Love and Light Nine Essential Filmora Elements</u></a></li>
+<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-network-initialization-issue-fixed-successfully/"><u>Dragon Ball FighterZ Network Initialization - Issue Fixed Successfully</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-print-job-stuck-in-queue-quickly/"><u>Fix ‘Print Job Stuck in Queue’ Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-crimson-display-malfunction-on-your-pc-or-console/"><u>How to Repair a Crimson Display Malfunction on Your PC or Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-connectivity-seamless-setup-on-windows-11-and-10-unveiled/"><u>Mastering Bluetooth Connectivity: Seamless Setup on Windows 11 & 10 Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-disappearing-windows-issue-quick-tricks-and-solutions/"><u>Resolve Disappearing Windows Issue: Quick Tricks & Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-sluggishness-in-google-chrome-prompt-techniques-to-restart-and-refresh/"><u>Resolving Sluggishness in Google Chrome – Prompt Techniques to Restart and Refresh</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steinberg-mwav-driver-windows-installation-tips/"><u>Steinberg MWAV Driver - Windows Installation Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-failed-attempts-to-generate-directx-output-devices/"><u>Troubleshooting and Resolving Failed Attempts to Generate DirectX Output Devices</u></a></li>
 </ul></div>
 

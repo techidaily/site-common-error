@@ -1,7 +1,7 @@
 ---
 title: How To Get Your Wacom Pen to Work Again in Windows 11 & 10
-date: 2024-10-22T16:14:26.945Z
-updated: 2024-10-24T18:40:15.514Z
+date: 2024-10-29T17:13:00.847Z
+updated: 2024-10-30T16:35:40.262Z
 tags:
   - win11
   - win10
@@ -39,27 +39,21 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 1. On your keyboard, press the Windows logo key and type camera. Then click on**Camera privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff3b628678.png)
 2. Make sure to toggle**On** **Allow apps to access your camera** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
-3. Scroll down to**Choose which apps can access your camera** and toggle**On** ALL the apps you want access to camera.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
+3. Scroll down to**Choose which apps can access your camera** and toggle**On** ALL the apps you want access to camera.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff6254a550.jpg)
 4. Close the window, test the camera and see if it’s working properly. If it works, then congrats! But if it doesn’t, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your camera driver
 
@@ -75,6 +69,19 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffcedce806.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0033072f1b.jpg)
@@ -87,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Reinstall your camera driver
 
 It’s also possible that your current camera  driver is corrupted or in conflict with Windows 10 and triggers the**camera not working** issue. We can try uninstalling the driver before reinstalling it to see if it fixes the problem.
@@ -103,30 +103,39 @@ To do so:
 1. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00c2cd78eb.png)
 2. Double-click on either   **Cameras** or**Imaging devices** to reveal your camera device.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00fd3e6f44.jpg)
 3. Right-click on**your camera device** and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01186337dc.jpg)
 4. Click **Yes**   to confirm the uninstall.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart**   your computer.
 6. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00c2cd78eb.png)
 7. Click**Action** \>**Scan for hardware changes** so that Windows can reinstall the driver for your PC (a generic one though).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01480c86ca.jpg)
 8. Check your camera and see if it’s working properly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -150,18 +159,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-perfecting-youtube-videos-with-angle-rotation-mastery-for-2024/"><u>[Updated] Perfecting YouTube Videos with Angle Rotation Mastery for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-7-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 7 Plus to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/backspace-failure-diagnosing-the-problems-and-correcting-them-effectively/"><u>Backspace Failure: Diagnosing the Problems and Correcting Them Effectively</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/como-transferir-con-facilidad-archivos-de-una-pc-a-otra-con-un-cable-ethernet-paso-a-paso/"><u>Cómo Transferir Con Facilidad Archivos De Una PC a Otra Con Un Cable Ethernet – Paso a Paso</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-se-2022-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone SE (2022) to iPad | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-walkthrough-solve-your-windows-11s-persistent-0x800705b4-update-problem/"><u>Complete Walkthrough: Solve Your Windows 11'S Persistent 0X800705B4 Update Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-a-non-responsive-spacebar-on-microsofts-latest-os-windows-11/"><u>How to Repair a Non-Responsive Spacebar on Microsoft's Latest OS, Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-s24-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-code-x80780119-error-in-windows-imaging/"><u>Remedy Code X80780119 Error in Windows Imaging</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-lenovo-keyboard-malfunction-issues-and-resolutions/"><u>Solved! Lenovo Keyboard Malfunction Issues and Resolutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-semaphore-timeout-expiration-error-code-0x80070079/"><u>Troubleshooting Guide: Dealing with Semaphore Timeout Expiration (Error Code 0X80070079)</u></a></li>
-<li><a href="https://common-error.techidaily.com/user-friendly-steps-to-fix-the-notorious-http-503-service-interruption-issue/"><u>User-Friendly Steps to Fix the Notorious HTTP 503 Service Interruption Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209305785-windows-10-blurry-text-heres-how-to-fix-it/"><u>Windows 10 Blurry Text? Here's How to Fix It</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professionals-insight-into-morphvox-techniques-for-precise-audio-alteration/"><u>[New] Professional's Insight Into MorphVOX Techniques for Precise Audio Alteration</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-listings-easy-purchases-of-startup-youtube-revenue-streams/"><u>[Updated] 2024 Approved Elite Listings Easy Purchases of Startup YouTube Revenue Streams</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/11-of-our-favorite-free-software-updater-programs/"><u>11 of Our Favorite Free Software Updater Programs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10-popular-websites-to-download-aesthetic-wallpapers-for-laptop/"><u>2024 Approved 10 Popular Websites to Download Aesthetic Wallpapers for Laptop</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-immersive-storytelling-journey-our-top-8-selections/"><u>2024 Approved Immersive Storytelling Journey – Our Top 8 Selections</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-techniques-to-revive-corrupted-files-within-your-windows-11-os/"><u>Expert Techniques to Revive Corrupted Files Within Your Windows 11 OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-steam-apps-dll-issues/"><u>Fixing Steam App's Dll Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/issues-encountered-with-windows-10-version-1903-upgrade/"><u>Issues Encountered with Windows 10 Version 1903 Upgrade</u></a></li>
+<li><a href="https://common-error.techidaily.com/resurrect-xbox-one-controls-for-pc-gaming/"><u>Resurrect Xbox One Controls for PC Gaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/thank-you-in-motion-templates-for-every-budget-level/"><u>Thank You in Motion Templates for Every Budget Level</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-trouble-free-opening-of-csgo-on-windows-11/"><u>Tips for Trouble-Free Opening of CS:GO on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-load-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Solutions for Reducing GPU Load by the Desktop Window Manager on Windows 10 and 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-solve-failed-steam-download-issues/"><u>Troubleshooting Guide: How to Solve Failed Steam Download Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-spacebar-issues-for-a-smooth-typing-experience-on-windows-11/"><u>Troubleshooting Spacebar Issues for a Smooth Typing Experience on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726228028043-m4a-mp3-movavi/"><u>무료 웹 기회: 온라인 M4A MP3 바이트 버스터 - Movavi</u></a></li>
 </ul></div>
 

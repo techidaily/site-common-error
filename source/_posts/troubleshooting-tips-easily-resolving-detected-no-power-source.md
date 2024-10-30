@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Easily Resolving 'Detected No Power Source'"
-date: 2024-10-22T16:29:06.881Z
-updated: 2024-10-24T22:14:31.713Z
+date: 2024-10-24T17:24:13.839Z
+updated: 2024-10-30T16:34:32.170Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -56,6 +63,13 @@ To make sure the volume is audible:
 
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
@@ -71,36 +85,30 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
@@ -123,13 +131,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -163,24 +164,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/resolution-unlocking-pc-performance-eliminating-shell-induced-high-cpu-load-on-modern-oses/"><u>(Resolution) Unlocking PC Performance: Eliminating Shell-Induced High CPU Load on Modern OSes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-elevate-your-slides-with-auditory-elements-powerpoint/"><u>[New] Elevate Your Slides with Auditory Elements (PowerPoint)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-speed-audio-alteration-software-summary/"><u>[Updated] High-Speed Audio Alteration Software Summary</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-backward-glance-decoding-youtube-video-reversals/"><u>[Updated] In 2024, Backward Glance Decoding YouTube Video Reversals</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-itel-p55-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Itel P55 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-minecraft-instability-in-windows-the-role-of-compromised-graphics-driver-software-and-fixing-tips/"><u>Dealing with Minecraft Instability in Windows: The Role of Compromised Graphics Driver Software and Fixing Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-erratic-flickering-screens-in-windows-10-operating-system/"><u>Effective Fixes for Erratic Flickering Screens in Windows 10 Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-strategies-to-repair-the-missing-msvcr110dll-error-on-your-pc-in-depth-guide/"><u>Expert Strategies to Repair the Missing msvcr110.dll Error on Your PC [In-Depth Guide]</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/hdr-lighting-insight-does-it-merit-creation-in-2024/"><u>HDR Lighting Insight Does It Merit Creation, In 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-nokia-g310-easily-by-drfone-android/"><u>How To Unlock a Nokia G310 Easily?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-secrets-to-crafting-enthralling-edu-videos-for-the-digital-age/"><u>In 2024, Secrets to Crafting Enthralling Edu-Videos for the Digital Age</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-motorola-moto-g34-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Motorola Moto G34 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Tecno Spark 20C? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-windows-11-continuous-restart-problem-with-simple-steps/"><u>Solve Your Windows 11 Continuous Restart Problem with Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-touch-functionality-on-windows-10-devices/"><u>Step-by-Step Guide: Restoring Touch Functionality on Windows 10 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-addressing-microsofts-windows-10-update-to-may-2019-build-1903-setbacks/"><u>Step-by-Step Solutions for Addressing Microsoft's Windows 10 Update to May 2019 (Build 1903) Setbacks</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-reno-11-pro-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo Reno 11 Pro 5G Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-graphics-card-restrictions-your-ultimate-fix-for-fortnite-on-windows/"><u>Winning the Battle Against Graphics Card Restrictions – Your Ultimate Fix for Fortnite on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/wwe-2k-battlegrounds-and-dx11-v100-fixing-the-incompatibility-flaw-a-user-guide/"><u>WWE 2K Battlegrounds and DX11 v10.0: Fixing the Incompatibility Flaw - A User Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-leveraging-google-for-precise-speech-to-text-conversion/"><u>[Updated] 2024 Approved Leveraging Google for Precise Speech-to-Text Conversion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-navigating-through-motion-perception-systems/"><u>[Updated] 2024 Approved Navigating Through Motion Perception Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-turn-fb-vids-into-savable-mp3-files-for-2024/"><u>[Updated] Turn FB Vids Into Savable MP3 Files for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-revolutionizing-your-webinar-recordings-a-blueprint/"><u>2024 Approved Revolutionizing Your Webinar Recordings A Blueprint</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-windows-errors-a-comprehensive-guide-to-fixing-werfuelexe-issues/"><u>Bypassing Windows Errors: A Comprehensive Guide to Fixing 'werfuel.exe' Issues</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-poco-x6-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco X6 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-dota-2-rendering-api-error-code-2024-quickly-step-by-step-guide/"><u>Fix Dota 2 Rendering API Error Code 2024 Quickly - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unrecognized-usb-hardware-errors-on-your-pc-solutions-inside/"><u>How to Fix Unrecognized USB Hardware Errors on Your PC – Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-access-to-unreachable-servers-on-your-destiny-2-game/"><u>How to Restore Access to Unreachable Servers on Your Destiny 2 Game</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-intrepid-insights-top-10-undiscovered-vlc-commands/"><u>In 2024, Intrepid Insights Top 10 Undiscovered VLC Commands</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-xiaomi-redmi-note-13-pro-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Xiaomi Redmi Note 13 Pro 5G has been deleted</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-persistent-streaming-pauses-in-kodi/"><u>Resolved: How to Fix Persistent Streaming Pauses in Kodi</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-resolving-the-0xc000012f-glitch-on-your-pc/"><u>Simple Solutions: Resolving the 0xC000012F Glitch on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201160873-tackling-high-cpu-drain-by-svchostexe-on-windows-11-solved/"><u>Tackling High CPU Drain by svchost.exe on Windows 11: Solved</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-free-video-cutting-software-for-divx-files/"><u>Top-Rated Free Video Cutting Software for Divx Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-mic-steelseries-arctis-5-audio-fixes-and-solutions/"><u>Troubleshooting the Mic: SteelSeries Arctis 5 Audio Fixes and Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-windows-11-takes-the-lead-over-windows-n-in-gaming-performance-insights-from-pc-players-zdnet/"><u>Why Windows 11 Takes the Lead Over Windows N in Gaming Performance: Insights From PC Players - ZDNet</u></a></li>
 </ul></div>
 

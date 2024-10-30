@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fix 'Windows Key + Shift + S' Issues in Windows 11 & 10"
-date: 2024-10-20T22:23:12.859Z
-updated: 2024-10-24T20:10:33.819Z
+date: 2024-10-24T17:01:39.111Z
+updated: 2024-10-30T17:35:59.464Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Close unnecessary programs
 
  The first fix you can try is to close the programs running in the background. When you have many apps running at the same time, they may interfere with each other and cause random system bugs. For example, some users reported that they were able to fix the copy-and-paste feature after they turned off or restarted their video players or graphics design software.
@@ -55,16 +48,23 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this fix didn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Repair corrupted system files
 
@@ -79,16 +79,16 @@ If this fix didn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
 
@@ -100,19 +100,6 @@ If this fix didn’t help, try the next fix.
 
 If this fix didn’t help, try the next one.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Restart the Windows Explorer process
 
  If the copy-paste bug occurs mostly when you’re sorting and moving your files, then the problem is likely caused by the Windows Explorer process. You can restart this process in Task Manager, here’s how:
@@ -122,10 +109,10 @@ If this fix didn’t help, try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your problem persists, try the next fix.
@@ -137,6 +124,13 @@ If your problem persists, try the next fix.
 1. Press**Ctrl** and**Shift** and**Esc** on your keyboard to open Task Manager.
 2. Find the**RDP Clipboard Monitor** process, right-click it and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
 
@@ -151,10 +145,10 @@ If your problem persists, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
@@ -184,18 +178,15 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-4k-uxga-gaming-the-asus-mg28uq-explained-for-2024/"><u>[New] 4K UXGA Gaming - The ASUS MG28UQ Explained for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-the-0x80072efd-error-in-windows-10/"><u>[Solved] How to Fix the 0X80072EFD Error in Windows 10</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-unlocking-creative-potential-with-pexels-visuals/"><u>2024 Approved Unlocking Creative Potential with Pexels Visuals</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comprehensive-analysis-of-the-ugreen-nexode-portable-100w-dual-gan-charger/"><u>Comprehensive Analysis of the Ugreen Nexode Portable 100W Dual GaN Charger</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-realme-11-proplus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme 11 Pro+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-how-to-fix-and-prevent-vcruntime140dll-not-detected-problems/"><u>Expert Tips: How to Fix and Prevent 'VCRUNTIME140.dll' Not Detected Problems</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-y78-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y78 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-tiktok-to-tokens-financial-figures-of-pewdiepie/"><u>In 2024, TikTok to Tokens Financial Figures of PewDiePie</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-microsoft-store-apps-await-you-2023/"><u>Masterful Microsoft Store Apps Await You, 2023</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-fixing-windows-resource-protection-cannot-initiate-repair-sfc-error/"><u>Solutions for Fixing Windows Resource Protection Cannot Initiate Repair (SFC) Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-touchpad-problem-when-scrolling-fails-to-respond/"><u>Solving Your Touchpad Problem: When Scrolling Fails to Respond</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-for-repairing-the-crash-with-system-service-failure-error-0xc00000e9-in-windows-os/"><u>Step-by-Step Tutorial for Repairing the Crash with System Service Failure (Error 0XC00000E9) in Windows OS</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728481795042-windows/"><u>セーフティネット機能でWindowsマシンを確実にバックアップする方法</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-wisdom-waves-prime-ed-channels-online/"><u>[New] Wisdom Waves Prime Ed Channels Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-5-photo-background-changer-apps-for-iphone-x87-for-2024/"><u>[Updated] Top 5 Photo Background Changer Apps for iPhone X/8/7 for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207040844-get-your-steelseries-arctis-5-mic-back-on-track-troubleshooting-solutions-for-better-sound-quality/"><u>Get Your SteelSeries Arctis 5 Mic Back on Track: Troubleshooting Solutions for Better Sound Quality.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-moto-g-stylus-5g-2023-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Moto G Stylus 5G (2023) Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/keys-fail-randomly/"><u>Keys Fail Randomly</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/lost-data-on-hard-drive-restored-top-file-recovery-solutions-reviewed/"><u>Lost Data on Hard Drive Restored: Top File Recovery Solutions Reviewed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/pcm-samples-the-signal-at-regular-intervals-and-quantizes-these-values/"><u>PCM Samples the Signal at Regular Intervals and Quantizes These Values.</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-windows-10-touchscreen-top-5-easy-methods/"><u>Revive Your Windows 10 Touchscreen: Top 5 Easy Methods</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oneplus-ace-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 </ul></div>
 

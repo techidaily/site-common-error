@@ -1,7 +1,7 @@
 ---
 title: Lenovo Fn Key Malfunction? Here's How to Restore It!
-date: 2024-10-23T18:06:59.231Z
-updated: 2024-10-24T19:16:27.215Z
+date: 2024-10-27T16:05:44.193Z
+updated: 2024-10-30T17:32:39.035Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Update the driver
 
  Your Lenovo keyboard not working problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, try to update the keyboard driver for your Lenovo laptop.
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
@@ -61,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -81,19 +95,6 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -113,26 +114,32 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click **System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
@@ -142,13 +149,6 @@ If you have no idea how to do a system restore, refer steps below:
  7) Click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Click**Yes** to confirm the restore.
 
@@ -176,22 +176,22 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/utting-and-compositing-for-youtube-videos-using-premiere-pro-for-2024/"><u>[New] Cutting and Compositing for YouTube Videos Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-quick-and-effective-methods-to-save-instagram-stories/"><u>[Updated] 2024 Approved Quick & Effective Methods to Save Instagram Stories</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-addressing-hearing-gaps-in-video-content-sharing-for-2024/"><u>[Updated] Addressing Hearing Gaps in Video Content Sharing for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-transform-srt-to-video-top-10-free-subtitle-tools-for-2024/"><u>[Updated] Transform SRT to Video - Top 10 FREE Subtitle Tools for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-youtubes-comment-analysis/"><u>2024 Approved Mastering YouTube's Comment Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-the-cant-boot-up-cs-go-dilemma-with-simple-solutions/"><u>Bypassing the 'Can't Boot Up CS: GO' Dilemma with Simple Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-catalog-of-playstation-vr2-software-officially-announced-selection/"><u>Complete Catalog of PlayStation VR2 Software: Officially Announced Selection</u></a></li>
-<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-wont-connect-solving-the-network-setup-errors-efficiently/"><u>Dragon Ball FighterZ Won't Connect: Solving The Network Setup Errors Efficiently</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-eliminating-error-code-0x800704cf-and-restoring-network-functions-in-windows/"><u>Expert Tips: Eliminating Error Code 0X80ˈ0704ˈcf and Restoring Network Functions in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-browser-blues-a-comprehensive-guide-to-solving-google-chromes-dark-screen-error/"><u>Fix Your Browser Blues: A Comprehensive Guide to Solving Google Chrome's Dark Screen Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-semaphore-timeout-period-error-error-0x80070079-in-windows/"><u>How to Fix Semaphore Timeout Period Error (Error 0X80070079) in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-elusive-entry-point-error-on-windows-systems/"><u>How to Fix the Elusive Entry Point Error on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-uncontrollable-mouse-movement-issues/"><u>How to Resolve Uncontrollable Mouse Movement Issues</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/o-run-a-sports-youtube-chain-on-macos/"><u>How to Run a Sports YouTube Chain on MacOS</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-reducing-your-csgo-lag-time/"><u>Step-by-Step Solutions for Reducing Your CS:GO Lag Time</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tailor-your-own-memetic-masterpiece-now/"><u>Tailor Your Own Memetic Masterpiece Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-livekernelevent-117-issue/"><u>Ultimate Guide: Resolving the LiveKernelEvent 117 Issue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-7-voice-changer-recorder-apps-for-2024/"><u>[New] Top 7 Voice Changer Recorder Apps for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-8-ultimate-free-3d-players-perfect-for-pcmac-users-out-there/"><u>2024 Approved 8 Ultimate Free 3D Players Perfect for PC/Mac Users Out There</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723964469716-amd-quality-computer-system-builders-race-event-q4-2015-competitive-price-at-just-912/"><u>AMD Quality Computer System Builders Race Event, Q4 2015 - Competitive Price at Just $912!</u></a></li>
+<li><a href="https://discover-help.techidaily.com/effizientes-video-bearbeiten-mit-winxvideo-ai-hochskalieren-stabilisieren-und-konvertieren-fur-profis/"><u>Effizientes Video-Bearbeiten Mit Winxvideo AI: Hochskalieren, Stabilisieren Und Konvertieren Für Profis</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-keyboard-sticky-keys-problem/"><u>Fix Windows Keyboard Sticky Keys Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-invalid-directory-name-error-expert-solutions/"><u>Fixing the 'Invalid Directory Name' Error – Expert Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-youtube-to-high-quality-mpegs-the-essential-guide-for-2024/"><u>From YouTube to High-Quality MPEGs The Essential Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-failure-configuring-windows-updates-error/"><u>How to Fix “Failure Configuring Windows Updates” Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-name-is-not-a-valid-directory-mistake-easily/"><u>How to Fix the 'Name Is Not a Valid Directory' Mistake Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-your-pc-solve-msmpengexe-overloading-cpu-on-windows-11-systems/"><u>Optimize Your PC: Solve MsMpEng.exe Overloading CPU on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-geforce-experience-cannot-access-configuration-details/"><u>Resolved: GeForce Experience Cannot Access Configuration Details</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-inaccessible-roblox-game-on-windows-due-to-settings/"><u>Resolving Inaccessible Roblox Game on Windows Due to Settings</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-resolve-wacom-tablet-malfunctions-easily/"><u>Troubleshooting Tips: How to Resolve Wacom Tablet Malfunctions Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-troubleshooting-and-solutions-for-persistent-usb-connection-issues/"><u>Ultimate Guide: Troubleshooting & Solutions for Persistent USB Connection Issues</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/vlogventures-in-cosmetics-how-to-create-your-fashion-forward-channel/"><u>Vlogventures in Cosmetics How to Create Your Fashion-Forward Channel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-the-chatgpt-error-in-body-stream-issue-7-ways-you-can-fix-it/"><u>What Is the ChatGPT Error in Body Stream Issue? 7 Ways You Can Fix It</u></a></li>
 </ul></div>
 

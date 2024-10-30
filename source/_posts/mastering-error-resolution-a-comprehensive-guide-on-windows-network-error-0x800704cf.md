@@ -1,7 +1,7 @@
 ---
 title: "Mastering Error Resolution: A Comprehensive Guide on Windows Network Error 0X800704cf"
-date: 2024-10-21T17:20:23.583Z
-updated: 2024-10-24T18:34:38.115Z
+date: 2024-10-27T16:29:13.900Z
+updated: 2024-10-30T17:17:40.939Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Select**Status** . Then, click**Change adapter options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-3-2.jpg)
@@ -70,6 +77,13 @@ When you fail to access another computer of the same network, or when you cannot
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Reset TCP/IP
 
  TCP/IP is a suite of rules that allow computers to communicate on a network. So if there’s something wrong with the[TCP/IP](https://en.wikipedia.org/wiki/Internet%5Fprotocol%5Fsuite) settings, the 0x800704cf error may occur. To see if that’s the case, you can simply do a reset.
@@ -81,13 +95,6 @@ When you fail to access another computer of the same network, or when you cannot
 **2)** Click**Yes** when you’re prompted to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-3-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** In the command prompt window, type in the following commands and press the **Enter** key after each command.
 
@@ -112,19 +119,6 @@ netsh int ip reset
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Select the**View** tab, and click**Show hidden devices** .
 
@@ -158,6 +152,13 @@ netsh int ip reset
 2. **[Run the Windows troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reset the Microsoft Store](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Sign in with Microsoft account
 
  The 0x800704cf error can arise when you’re logged in using a local account. Try signing in to your Microsoft account and see if the issue is resolved.
@@ -165,13 +166,6 @@ netsh int ip reset
 **1)** Click the**Start** button and click the**Settings icon** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click**Accounts** .
 
@@ -191,6 +185,13 @@ netsh int ip reset
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Run the Windows troubleshooter
 
  If the 0x800704cf error keeps appearing when you’re using the Microsoft Store, the Windows built-in troubleshooter is an effective tool that may help you out.
@@ -199,26 +200,26 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Scroll down to click**Network Adapter** . Then, click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select**All network adapters** , and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Wait for the troubleshooting process to complete, and close the troubleshooter.
@@ -226,6 +227,13 @@ netsh int ip reset
 **5)** Click**troubleshoot** in the search box and click**Troubleshooting settings** to open the troubleshoot menu again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Scroll down to click**Windows Store Apps** and click**Run the troubleshooter** .
 
@@ -251,34 +259,13 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Scroll down and click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-4-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-5-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open your Microsoft Store, and the 0x800704cf error won’t be disturbing you anymore.
 
@@ -301,6 +288,13 @@ netsh int ip reset
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to the flagged network driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
@@ -337,20 +331,22 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-download-your-favorite-podcasts-from-apple/"><u>[Updated] In 2024, Download Your Favorite Podcasts From Apple</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-compile-of-premier-iphone-camera-apps-for-pro-photographers/"><u>2024 Approved Compile of Premier iPhone Camera Apps for Pro Photographers</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-update-blues-fix-miracast-unsupported-by-this-device-easy-steps/"><u>Beat The Update Blues: Fix 'Miracast Unsupported by This Device' Easy Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-getting-your-dell-camera-up-and-running-in-windows/"><u>Expert Tips: Getting Your Dell Camera Up and Running in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-mystery-how-to-stop-your-computer-from-unexpected-shutdowns/"><u>Fixing the Mystery: How to Stop Your Computer From Unexpected Shutdowns</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-silent-issue-complete-guide-on-resolving-no-audio-in-forza-horizon-4/"><u>Fixing the Silent Issue: Complete Guide on Resolving No Audio in Forza Horizon 4</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-magic-6withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor Magic 6with/without a PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nubia-red-magic-8s-proplus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nubia Red Magic 8S Pro+ Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-lava-blaze-pro-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Lava Blaze Pro 5G.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-analysis-how-mismatched-drivers-lead-to-breached-security-in-ftdi-bus-systems/"><u>In-Depth Analysis: How Mismatched Drivers Lead to Breached Security in FTDI Bus Systems</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mars-encounter-brings-urban-planning-chaos-igniting-blustery-excitement-and-joyful-fun/"><u>Mars Encounter Brings Urban Planning Chaos, Igniting Blustery Excitement and Joyful Fun</u></a></li>
-<li><a href="https://techtrends.techidaily.com/net-neutrality-simplified-key-points-for-everyone/"><u>Net Neutrality Simplified: Key Points for Everyone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-overcoming-chatgpt-moderation-error-issues/"><u>Solutions for Overcoming ChatGPT 'Moderation Error' Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-windows-update-failed-understanding-and-fixing-error-code-0x80070643/"><u>Solving the Mystery of 'Windows Update Failed' - Understanding and Fixing Error Code 0X80070643</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-revenue-with-the-perfect-youtube-trailer-strategy-for-2024/"><u>[New] Boosting Revenue with the Perfect YouTube Trailer Strategy for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-evolution-of-4k-a-look-at-the-d500-model/"><u>[New] The Evolution of 4K A Look at the D500 Model</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-ultimate-non-twitter-social-sites-of-the-year-for-2024/"><u>[Updated] Ultimate Non-Twitter Social Sites of the Year for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-next-level-screenshots-review-of-apowersofts-pc-recorder/"><u>2024 Approved Next-Level Screenshots Review of Apowersoft's PC Recorder</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-microsoft-print-to-pdf-functionality-running-smoothly-on-your-pc-windows-1011/"><u>How to Get Microsoft Print to PDF Functionality Running Smoothly on Your PC (Windows 10/11)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-microphone-functionality-on-windows-10-devices/"><u>How to Restore Microphone Functionality on Windows 10 Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-refine-and-reveal-editing-fbs-recollected-moments/"><u>In 2024, Refine and Reveal Editing FB's Recollected Moments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-to-develop-captivating-vlogs-a-scriptwriting-approach/"><u>In 2024, Tips to Develop Captivating Vlogs A Scriptwriting Approach</u></a></li>
+<li><a href="https://win-answers.techidaily.com/madden-22-malfunctions-heres-how-to-rectify-them-swiftly-and-efficiently/"><u>Madden 22 Malfunctions? Here's How to Rectify Them Swiftly and Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-why-wont-my-pc-exit-windows-10-properly/"><u>Solution Guide: Why Won't My PC Exit Windows 10 Properly?</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-common-problems-and-fixes-for-the-non-functional-mic-on-steelseries-arctis-5-headset/"><u>Solved: Common Problems and Fixes for the Non-Functional Mic on SteelSeries Arctis 5 Headset</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-wont-my-usb-composite-device-work-with-usb-30-troubleshooting-tips-inside/"><u>Solved! Why Won't My USB Composite Device Work with USB 3.0? Troubleshooting Tips Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-err-internet-disconnected-issue-a-step-by-step-guide/"><u>Solving the 'ERR: Internet Disconnected' Issue - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/successful-diagnosis-and-repair-of-headphone-failures-in-windows-11/"><u>Successful Diagnosis and Repair of Headphone Failures in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-unique-notetaking-applications-for-apples-ipad-and-ipad-pro/"><u>Top 7 Unique Notetaking Applications for Apple's iPad & iPad Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-invisible-mouse-icons-in-windows-10-a-complete-solution/"><u>Troubleshooting Invisible Mouse Icons in Windows 10 – A Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-error-0x80004005-a-step-by-step-troubleshooting-guide/"><u>Unraveling Error 0X80004005 - A Step-by-Step Troubleshooting Guide</u></a></li>
 </ul></div>
 

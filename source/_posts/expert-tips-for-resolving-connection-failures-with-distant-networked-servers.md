@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Connection Failures with Distant Networked Servers
-date: 2024-10-19T21:14:58.628Z
-updated: 2024-10-24T19:43:37.144Z
+date: 2024-10-27T17:58:04.770Z
+updated: 2024-10-30T16:23:21.006Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ Here’s how:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -58,44 +65,23 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update the drivers for your USB devices
 
@@ -111,9 +97,23 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -144,20 +144,19 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-face-to-face-conferencing-woes-9-fixes-for-clear-video-chats/"><u>[Updated] Face-to-Face Conferencing Woes? 9 Fixes for Clear Video Chats</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-new-era-for-sony-blu-ray-player-s6700/"><u>[Updated] New Era for Sony Blu-Ray Player S6700</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-prime-voice-capture-apps-for-mac-users-feature-spotlight/"><u>[Updated] Prime Voice Capture Apps for Mac Users Feature Spotlight</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-computer-that-wont-start-solutions-worked/"><u>How to Fix a Computer That Won't Start - Solutions Worked</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-huawei-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Huawei</u></a></li>
-<li><a href="https://common-error.techidaily.com/lenovo-fn-key-malfunction-heres-how-to-restore-it/"><u>Lenovo Fn Key Malfunction? Here's How to Restore It</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-final-cut-the-ultimate-guide-for-2024/"><u>Mastering Final Cut The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unlocking-the-potential-of-your-sony-camcorder-video-editing-essentials/"><u>New In 2024, Unlocking the Potential of Your Sony Camcorder Video Editing Essentials</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-initialization-issues-in-destiny-2-for-smooth-gameplay/"><u>Overcoming Initialization Issues in Destiny 2 for Smooth Gameplay</u></a></li>
-<li><a href="https://common-error.techidaily.com/protecting-your-data-solving-connection-is-not-secured-on-firefox-quick-guide/"><u>Protecting Your Data: Solving 'Connection Is Not Secured' On Firefox Quick Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-when-your-dns-server-wont-respond-four-key-methods/"><u>Quick Solutions for When Your DNS Server Won't Respond (Four Key Methods)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/skysoft-vs-competitors-in-iphone-data-restoration-finding-the-ultimate-recovery-tool-for-missed-texts-and-photos/"><u>Skysoft Vs. Competitors in iPhone Data Restoration: Finding the Ultimate Recovery Tool for Missed Texts and Photos</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-samsung-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Samsung</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-truth-behind-facebooks-fading-user-numbers/"><u>The Truth Behind Facebook's Fading User Numbers</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-inputoutput-device-issues-on-your-computer/"><u>Troubleshooting Input/Output Device Issues on Your Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-azure-speech-recognition-efficiently/"><u>[New] Navigating Azure Speech Recognition Efficiently</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-photoshop-guide-to-crafting-hdr-images/"><u>[New] Professional Photoshop Guide to Crafting HDR Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-reverse-playback-of-videos-on-android-devices/"><u>[Updated] Master Reverse Playback of Videos on Android Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/configuration-complete-response-deficiency-present/"><u>Configuration Complete; Response Deficiency Present</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cost-efficiency/"><u>Cost Efficiency:</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-surface-device-troubleshooting-non-charging-issues/"><u>Fixing Surface Device: Troubleshooting Non-Charging Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-infinix-hot-30-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Infinix Hot 30 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-10-installation-error-code-80240020-a-step-by-step-guide/"><u>How to Fix the 'Windows 10 Installation Error (Code 80240020)' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-fixes-for-easier-handling-of-steam-write-errors/"><u>Mastering Fixes for Easier Handling of Steam Write Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722894090120-mastering-network-troubleshooting-a-guide-to-using-tracert-on-windows/"><u>Mastering Network Troubleshooting: A Guide to Using 'Tracert' On Windows</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/nimbostratus/"><u>Nimbostratus</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-unresponsive-buttons-on-hp-laptops-troubleshoot-now/"><u>Quick Fixes for Unresponsive Buttons on HP Laptops - Troubleshoot Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-disappearing-mouse-cursor-on-a-touchpad-in-windows-11/"><u>Solution Steps for Disappearing Mouse Cursor on a Touchpad in Windows 11</u></a></li>
 </ul></div>
 

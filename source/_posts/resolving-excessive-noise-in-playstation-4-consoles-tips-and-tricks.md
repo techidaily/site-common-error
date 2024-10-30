@@ -1,7 +1,7 @@
 ---
 title: Resolving Excessive Noise in PlayStation 4 Consoles - Tips and Tricks
-date: 2024-09-11T16:00:05.988Z
-updated: 2024-09-15T16:00:55.981Z
+date: 2024-10-27T16:16:41.941Z
+updated: 2024-10-30T16:50:33.680Z
 tags:
   - win11
   - win10
@@ -40,12 +40,27 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Set default devices
 
@@ -59,6 +74,14 @@ Here’s how to do it:
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
@@ -70,10 +93,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
@@ -91,16 +114,10 @@ Here’s how:
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -137,5 +154,21 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-boundaries-of-visual-storytelling-in-windows-photos-plus-story-remix/"><u>[New] Explore the Boundaries of Visual Storytelling in Windows Photos + Story Remix</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-strategies-for-procuring-high-quality-clip-art-with-no-cost/"><u>[Updated] 2024 Approved Strategies for Procuring High-Quality Clip Art with No Cost</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726030417799-hd/"><u>「高画質（フルHD）ダウンロード：ニコニコ動画から簡単な手順」</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adobe-audition-101-the-art-of-fading-on/"><u>2024 Approved Adobe Audition 101 The Art of Fading On</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-quick-diy-tricks-for-professional-quality-homemade-films/"><u>2024 Approved Quick DIY Tricks for Professional-Quality Homemade Films</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-work-and-wanderlust-top-xr-gear-with-new-features-youll-love-according-to-zdnet/"><u>Boost Your Work & Wanderlust: Top XR Gear with New Features You'll Love, According To ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-the-mystery-quick-fixes-for-error-code-5-in-minecraft/"><u>Decode the Mystery: Quick Fixes for Error Code 5 in Minecraft</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210547932-expert-advice-eliminate-error-code-0x80072efd-from-windows-10-step-by-step-fixes/"><u>Expert Advice: Eliminate Error Code 0X80072EFD From Windows 10 - Step-by-Step Fixes!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ifinds-top-picks-ultimate-list-of-5-leading-programs-to-recover-unrecognized-allocated-and-deleted-sectors-in-windowsmacos-systems/"><u>IFind's Top Picks: Ultimate List of 5 Leading Programs to Recover Unrecognized, Allocated and Deleted Sectors in Windows/macOS Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-12-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 12 Without a Passcode</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-google-pixel-8-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Google Pixel 8</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-failed-to-create-d3d-device-error-in-your-game-expert-advice/"><u>Resolving Failed to Create D3D Device Error in Your Game – Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210268836-solving-the-bluetooth-missing-dilemma-on-your-windows-10-device-today/"><u>Solving the 'Bluetooth Missing' Dilemma on Your Windows 10 Device Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-missing-charge-indicator-easy-fix-guide/"><u>Windows 10 Missing Charge Indicator? Easy Fix Guide!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Identifying & Resolving Self-Boot Issues on Windows 11 Computers
-date: 2024-10-21T16:15:18.532Z
-updated: 2024-10-24T18:38:47.445Z
+date: 2024-10-27T16:01:30.517Z
+updated: 2024-10-30T17:00:52.647Z
 tags:
   - win11
   - win10
@@ -45,41 +45,27 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -98,9 +84,30 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -115,16 +122,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
@@ -153,17 +154,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-breezy-methodology-for-downloading-twitters-laughs-gifs-for-2024/"><u>[New] Breezy Methodology for Downloading Twitter's Laughs (GIFs) for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-pro-tips-grab-your-chromebooks-screen-with-these-4-hacks/"><u>[Updated] In 2024, Pro Tips Grab Your Chromebook's Screen with These 4 Hacks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comment-configurer-correctement-la-qualite-constante-en-handbrake-pour-un-rendu-parfait-des-formats-dvd-blu-ray-and/"><u>Comment Configurer Correctement La Qualité Constante en HandBrake Pour Un Rendu Parfait Des Formats DVD, Blu-Ray & 지푹?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-a79-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo A79 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://article-posts.techidaily.com/explore-the-best-ways-to-record-sound-in-your-latest-windows-11-pc-for-2024/"><u>Explore the Best Ways to Record Sound in Your Latest Windows 11 PC for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-invalid-directory-name-issue-a-comprehensive-guide/"><u>Fixing the 'Invalid Directory Name' Issue - A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-common-problems-with-windows-key-plus-shift-plus-s-on-windows-operating-systems-windows-11-and-10/"><u>Resolving Common Problems with Windows Key + Shift + S on Windows Operating Systems (Windows 11 and 10)</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-provided-trouble-in-establishing-connection-between-windows-and-sensvc/"><u>Solution Provided: Trouble in Establishing Connection Between Windows and SENSVC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-motorola-g54-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Motorola G54 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-oddworld-soulstorm-pc-overcoming-crash-problems-and-playing-smoothly/"><u>Troubleshooting Oddworld: Soulstorm [PC] – Overcoming Crash Problems & Playing Smoothly</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-device-to-tv-how-to-cast-local-videos-to-chromecast-on-any-platform/"><u>Updated In 2024, From Device to TV How to Cast Local Videos to Chromecast on Any Platform</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dissecting-ajey-nagars-2023-youtube-economic-landscape/"><u>[New] Dissecting Ajey Nagar's 2023 YouTube Economic Landscape</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-echoes-of-the-past-iphone-x-portraiture-for-2024/"><u>[New] Echoes of the Past IPhone X Portraiture for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-professional-edge-in-instagram-videos-with-green-screen-tech-for-2024/"><u>[Updated] Professional Edge in Instagram Videos with Green Screen Tech for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/asus-webcam-fix-resolving-display-issues-under-windows-11/"><u>ASUS Webcam Fix: Resolving Display Issues Under Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203651755-corsair-keyboard-lighting-problem-heres-how-to-get-those-lights-back/"><u>Corsair Keyboard Lighting Problem? Here’s How to Get Those Lights Back</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-elevated-wudfhostexe-cpu-usage-on-your-windows-11-system-expert-tips-and-solutions/"><u>Dealing with Elevated WUDFHost.exe CPU Usage on Your Windows 11 System - Expert Tips & Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-how-to-record-lectures-on-mac/"><u>In 2024, How to Record Lectures on Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-control-ending-random-mouse-movements-swiftly/"><u>Master the Control: Ending Random Mouse Movements Swiftly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-everscape-ii-pc-performance-tips-and-fixes-for-continuous-play/"><u>Mastering Everscape II PC Performance: Tips and Fixes for Continuous Play</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-animated-design-kits-for-2024/"><u>Premium Animated Design Kits for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-attempted-write-operation-on-read-only-reference-in-memory-address/"><u>Resolved Issue: Attempted Write Operation on Read-Only Reference in Memory Address</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-pcs-function-keys-a-step-by-step-guide-for-quick-fixes/"><u>Reviving Your PC’s Function Keys: A Step-by-Step Guide for Quick Fixes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-essentials-of-sharing-music-compilations-online-for-2024/"><u>The Essentials of Sharing Music Compilations Online for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleashing-new-worlds-best-psvr-games-on-their-way-out/"><u>Unleashing New Worlds Best PSVR Games on Their Way Out</u></a></li>
+<li><a href="https://common-error.techidaily.com/verdict-lack-of-drivers-support-for-opengl/"><u>Verdict: Lack of Drivers' Support for OpenGL</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-explorer-application-issue-fixed/"><u>Windows Explorer Application Issue Fixed</u></a></li>
 </ul></div>
 

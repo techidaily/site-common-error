@@ -1,7 +1,7 @@
 ---
 title: Beating the Puzzle of DirectX's Unrecoverable Error with Effective Fixes
-date: 2024-09-09T08:54:59.237Z
-updated: 2024-09-10T08:54:59.237Z
+date: 2024-10-29T17:58:46.656Z
+updated: 2024-10-30T17:08:29.608Z
 tags:
   - win11
   - win10
@@ -13,38 +13,14 @@ excerpt: This Article Describes Beating the Puzzle of DirectX's Unrecoverable Er
 thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3e859b7ef1ec6d0563fa86aa.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unstuck the Infinite Waiting Screen of Valorant with Proven Fixes
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-loading-pic.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With its unique visual style, great graphics quality and gameplay, Valorant has gained an increasing number of game players in the PC gaming community. However, more and more reports about**Valorant stuck on the loading screen** came out. If you are a Valorant player experiencing such an issue, you’re not alone. The good news is, we have found some solutions for you to troubleshoot this problem! Now, let’s get started to try the methods below.
 
  Before you set out to try the fixes below, please check on the**game server status** first. Because if the Valorant is in the middle of server maintenance, you won’t be able to load into the game. For your Valorant server maintenance information, head to **[Riot Games Service Status](https://status.riotgames.com/)**  or **[Twitter of Riot Games Support](https://twitter.com/riotsupport?lang=en)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Here’re the fixes to try
 
  You may not need to try them all; just walk your way down the list until you find the one that works for you.
@@ -55,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 4. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Delete Manifest txt files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for network connection
 
  A poor network connection would certainly hold you back from loading into the game. Having a quick and simple check on your network connection should be your first fix to try.
@@ -64,12 +47,6 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 
  If network connection is not where the problem is, try the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Run your game as administrator
 
  In some cases, the game can’t be opened properly because it lacks higher permission from your PC, so try running Valorant as administrator is a possible method to solve the infinite loading problem.
@@ -79,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -108,32 +92,14 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com>.
 
 If this doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Reinstall Valorant
 
  Install files of Valorant may somehow become corrupted in your computer and could not function properly, leading to the infinite loading error. So to get new and intact Install files, you should uninstall the Valorant from your computer first and then reinstall it.
@@ -141,18 +107,36 @@ If this doesn’t solve your problem, move on to the next fix.
 1. Press**Windows + I** key to open Windows Settings and then click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-settings-apps.jpg)
 2. Find**Valorant** from the Apps & features list and click on it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Appsfeatures-1.jpg)
 3. Click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
 
@@ -178,8 +162,6 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +169,20 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-mastering-snapchats-call-and-chat-features-for-2024/"><u>[New] The Ultimate Guide Mastering Snapchat's Call & Chat Features for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-embracing-4k-clarity-the-q500-journey-reviewed/"><u>[Updated] 2024 Approved Embracing 4K Clarity The Q500 Journey Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-inside-stardust-a-complete-exploration-of-stardew-and-its-hidden-gem-ginger-isle-for-2024/"><u>[Updated] Inside Stardust A Complete Exploration of Stardew and Its Hidden Gem, Ginger Isle for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/selection-turn-your-videos-into-text-fast/"><u>Best Selection Turn Your Videos Into Text Fast</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-solutions-for-fixing-error-code-0x8024002e-during-windows-updates/"><u>Definitive Solutions for Fixing Error Code 0X8024002E During Windows Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-data-protection-top-7-win-apps-148-chars/"><u>Enhancing Data Protection: Top 7 Win Apps (148 Chars)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-macmacdvd-itunes-appleios/"><u>IPhone動画変換 - Macで快適なMac用DVD iTunes転送ソフト | Apple純正iOSアプリ</u></a></li>
+<li><a href="https://common-error.techidaily.com/masterclass-ensuring-your-airpods-work-seamlessly-on-windows-tips-for-the-modern-tech-enthusiast/"><u>Masterclass: Ensuring Your AirPods Work Seamlessly on Windows (Tips for the Modern Tech Enthusiast )</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-best-free-online-daw-software-your-2023-guide-to-browser-based-recording-for-2024/"><u>New The Best Free Online DAW Software Your 2023 Guide to Browser-Based Recording for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-correcting-the-unhandled-exception-0xc00e0005-issue-in-windows-os/"><u>Step-by-Step Tutorial: Correcting the Unhandled Exception (0xC00e0005) Issue in Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-unresponsive-ctrlplusaltplusdel-keys-easily/"><u>Troubleshoot and Resolve Unresponsive Ctrl+Alt+Del Keys Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-laptop-keyboards-for-windows-users-win-10-8-and-7/"><u>Troubleshooting and Repairing Laptop Keyboards for Windows Users [WIN 10, 8 & 7]</u></a></li>
+</ul></div>
 

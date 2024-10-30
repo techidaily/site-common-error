@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Continuous Boot Issues on Your Skyrim Game
-date: 2024-10-20T16:40:05.430Z
-updated: 2024-10-24T21:32:35.212Z
+date: 2024-10-28T16:34:44.525Z
+updated: 2024-10-30T18:06:21.137Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ The good news is, you can fix it easily!
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your sound driver
 
  Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
@@ -52,10 +59,16 @@ The good news is, you can fix it easily!
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
@@ -72,18 +85,25 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. **Restart** your PC and check if your volume control icon works as it should.
 
@@ -101,15 +121,23 @@ To run SFC:
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
@@ -121,36 +149,16 @@ Here’s how:
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
@@ -177,21 +185,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-efficiently-upgrading-your-snaps-on-snapchat/"><u>[Updated] 2024 Approved Efficiently Upgrading Your Snaps on Snapchat</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlock-joy-behind-the-walls-20-funniest-fb-detainment-scenarios/"><u>[Updated] In 2024, Unlock Joy Behind the Walls 20 Funniest Fb Detainment Scenarios</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-logitechs-elite-4k-webcam-exhaustive-features-and-usability-for-2024/"><u>[Updated] Logitech’s Elite 4K Webcam Exhaustive Features & Usability for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/detailed-solutions-to-restore-your-dead-or-frozen-laptop-trackpad-functionality/"><u>Detailed Solutions To Restore Your Dead or Frozen Laptop Trackpad Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-remedies-for-fixing-persistent-restart-problems-in-windows-11-and-10/"><u>Effective Remedies for Fixing Persistent Restart Problems in Windows 11 & 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-repairing-your-windows-11-system-using-sfc-and-deployment-image-servicing/"><u>Guide to Repairing Your Windows 11 System Using SFC and Deployment Image Servicing</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-restoring-steam-privileges-on-corrupted-folders-fixed/"><u>Guide to Restoring Steam Privileges on Corrupted Folders [FIXED]</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>New In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/quick-and-simple-guide-mass-converting-your-movies-from-mov-to-mp4-format/"><u>Quick & Simple Guide: Mass Converting Your Movies From MOV to MP4 Format</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-unavailability-of-radeon-configuration-utility/"><u>Resolved Issue: Unavailability of Radeon Configuration Utility</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-f5-pro-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco F5 Pro 5G</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-fire-tv-stick-models-a-comprehensive-guide/"><u>Top Rated Fire TV Stick Models : A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-typing-issues-on-windows-11-how-to-repair-non-functional-keys/"><u>Troubleshooting: Typing Issues on Windows 11 – How to Repair Non-Functional Keys</u></a></li>
-<li><a href="https://common-error.techidaily.com/warframes-latest-update-hiccup-heres-how-you-can-fix-it-easily/"><u>Warframe's Latest Update Hiccup? Here's How You Can Fix It Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-art-of-slow-motion-utilizing-online-platforms-and-photos/"><u>[New] Unveiling the Art of Slow Motion Utilizing Online Platforms & Photos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-pro-level-insights-for-perfectly-crafted-snaps/"><u>[Updated] 2024 Approved Pro-Level Insights for Perfectly Crafted Snaps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-charting-the-stars-instagrams-leading-25-trailblazers-in-digital-dominion/"><u>[Updated] Charting the Stars Instagram’s Leading 25 Trailblazers in Digital Dominion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-eliminating-an-obsolete-linkedin-identity-stepwise-guide/"><u>[Updated] In 2024, Eliminating an Obsolete LinkedIn Identity Stepwise Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-4k-masterpieces-our-favorites-listed/"><u>2024 Approved 4K Masterpieces Our Favorites Listed</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-windows-10-crashes-tips-and-techniques-for-users/"><u>Addressing Windows 10 Crashes: Tips and Techniques for Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207857915-google-chrome-stops-working-heres-how-you-can-resolve-it/"><u>Google Chrome Stops Working? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-google-pixel-8-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Google Pixel 8 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/improved-driver-management-minimizes-elevated-cpu-utilization-in-windows/"><u>Improved Driver Management Minimizes Elevated CPU Utilization in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-launch-errors-strategies-to-address-post-upgrade-system-hang-ups/"><u>Mastering Windows 11 Launch Errors: Strategies to Address Post-Upgrade System Hang-Ups</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-typing-speed-tackling-keyboard-stutters-on-windows-11-devices/"><u>Optimizing Typing Speed - Tackling Keyboard Stutters on Windows 11 Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/snooze-button-off-fixing-wake-issues-on-windows-11/"><u>Snooze Button Off: Fixing Wake Issues on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-connection-issues-how-to-tell-if-discord-is-down-or-your-network/"><u>Troubleshooting Connection Issues: How to Tell if Discord Is Down or Your Network</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-dealing-with-a-black-monitor-on-dell-systems/"><u>Ultimate Troubleshooting Tips for Dealing with a Black Monitor on Dell Systems</u></a></li>
 </ul></div>
 

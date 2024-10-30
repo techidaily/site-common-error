@@ -1,7 +1,7 @@
 ---
 title: "Solve Gaming Interruptions: Preventing Mid-Game PC Shutdowns on Various Windows Editions"
-date: 2024-10-19T17:09:00.025Z
-updated: 2024-10-24T19:21:40.602Z
+date: 2024-10-27T16:58:45.679Z
+updated: 2024-10-30T18:10:27.719Z
 tags:
   - win11
   - win10
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Disable background programs
 
  Games are usually CPU- and RAM-intensive, i.e., they occupy a large chunk of your computer processor and memory resources. When too many unnecessary applications run in the background when a game is on, your computer resources are strained and could crash if it reaches an extreme point. In this case, it’s suggested that you disable unnecessary background programs when playing games. To do so:
@@ -81,19 +74,19 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/task.jpg)
 3. Play the game and see if your computer still crashes. If so, please move on.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **On Windows 11:**
 
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click**End Task** to close them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then run your game again and see if your computer crashes still. If the problem remains, please move on to the next fix below.
 
@@ -116,14 +109,15 @@ To verify the game’s files on Epic Games Launcher:
 2. Click **Verify** to start verifying the game files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-29.png)
 3. Wait for validation to complete. (It may take a while to verify all your files.)
-4. When the validation is done, run your game again to see if it still cause your computer to crash.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. When the validation is done, run your game again to see if it still cause your computer to crash.
 
 ### Ubisoft Connect
 
@@ -132,13 +126,6 @@ To verify the game’s files on Ubisoft Connect:
 1. Open Ubisoft Connect, and find the game with problem under the**Games** tab.
 2. Select**Properties** , then**Verify files** under Local files.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-30.png)
 3. If prompted, select**Repair** . Ubisoft Connect will then download and restore any missing or corrupted files.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-32.png)
 4. Then launch your game again to see if your computer crashes.
@@ -153,13 +140,6 @@ To verify the game’s files on Ubisoft Connect:
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Then see if this game still crashes your computer. If so, please move on.
 
@@ -201,20 +181,35 @@ To verify the game’s files on Ubisoft Connect:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-53-32.jpg)
 3. Click **Restart now and check for problems (recommended)** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **IMPORTANT: Make sure to save all your work before restarting.**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-53-57.jpg)
 4. Windows will run diagnosis automatically, which can take a few minutes. When it’s finished, your PC will reboot.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. The results will be shown on your desktop. If you don’t see any notification, right-click the **Start** menu then click **Event Viewer** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-54-28.jpg)
 6. Click **Windows Logs** \>> **System** \>> **Find** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-56-41.jpg)
@@ -226,6 +221,13 @@ To verify the game’s files on Ubisoft Connect:
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5.2 – Run System File Checker
 
@@ -253,17 +255,17 @@ To verify the game’s files on Ubisoft Connect:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt.jpg)
 3. Type **sfc /scannow** and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/sfc.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer and check if it has fixed your problem. If not, try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5.3 – Prevent your computer from overheating
 
@@ -279,6 +281,13 @@ To verify the game’s files on Ubisoft Connect:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5.4 – Check your power supply
 
  Other than the issues mentioned above, insufficient power supply could also be the culprit to your computer crashes when playing a game problem.
@@ -288,13 +297,6 @@ To verify the game’s files on Ubisoft Connect:
  Long story short, you’ll need third-party tools (available for free) to run more tests to see if hardware components are the reason why your computer crashes when playing games. If you don’t have the time or patience to do so, you can always seek help from a hardware technician instead.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5.5 – Upgrade your hardware devices
 
@@ -321,14 +323,20 @@ To verify the game’s files on Ubisoft Connect:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-starting-up-in-periscope-tips-to-launch-your-wealth-journey/"><u>[New] Starting Up in Periscope Tips to Launch Your Wealth Journey</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-9-best-free-and-easy-editing-apps-you-should-know-for-2024/"><u>[Updated] 9 Best Free and Easy Editing Apps You Should Know for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-expert-advice-for-monitoring-and-engaging-with-fbs-video-on-apple-tv-for-2024/"><u>[Updated] Expert Advice for Monitoring and Engaging With FB's Video on Apple TV for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-getting-the-steam-platform-store-up-and-running-again/"><u>Complete Guide: Getting the Steam Platform Store Up and Running Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-removing-write-protection-from-usb-sd-and-cd-in-windows-systems/"><u>Guide to Removing Write Protection From USB, SD, and CD in Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-high-cpu-use-diagnosing-and-solving-wudfhost-issues-in-windows-11/"><u>Tackling High CPU Use: Diagnosing and Solving WUDFHost Issues in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-full-playbook-on-repairing-unresponsive-console-control-devices/"><u>The Full Playbook on Repairing Unresponsive Console Control Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transform-mowing-time-into-fun-and-games-using-a-remote-controlled-lawnmower-a-must-read-review/"><u>Transform Mowing Time Into Fun and Games Using a Remote-Controlled Lawnmower - A Must-Read Review!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-creativity-how-chatgpts-new-feature-enables-fully-tailored-ai-model-design/"><u>Unleashing Creativity: How ChatGPT's New Feature Enables Fully Tailored AI Model Design</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cultivate-creativity-10plus-channel-driven-video-suggestions-for-2024/"><u>[New] Cultivate Creativity 10+ Channel-Driven Video Suggestions for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-seamless-inshot-edits/"><u>[New] Mastering the Art of Seamless Inshot Edits</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-mini-mic-marvels-affordable-sound-for-youtube-creators/"><u>2024 Approved Mini-Mic Marvels Affordable Sound for YouTube Creators</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-effective-techniques-to-unfreeze-a-stubborn-windows-10-taskbar/"><u>5 Effective Techniques to Unfreeze a Stubborn Windows 10 Taskbar!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-problem-of-failure-during-directx-hardware-setup/"><u>Fixing the Problem of Failure During DirectX Hardware Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-windows-7-volume-controls-working-again/"><u>Get Your Windows 7 Volume Controls Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205245961-how-to-fix-minecraft-crashes-caused-by-incompatible-video-card-drivers-in-windows-systems/"><u>How to Fix Minecraft Crashes Caused by Incompatible Video Card Drivers in Windows Systems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-revenue-driven-guide-to-designing-youtube-trailers/"><u>In 2024, The Revenue-Driven Guide to Designing YouTube Trailers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-read-ahead-to-l/"><u>New Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/pubg-lag-woes-discover-the-ultimate-fixes-for-a-seamless-play/"><u>PUBG Lag Woes? Discover the Ultimate Fixes for a Seamless Play</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-mastering-file-explorer-troubleshooting-on-windows-10/"><u>Quick Solutions: Mastering File Explorer Troubleshooting on Windows 10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-ultimate-guide-to-cutting-edge-computing/"><u>Tom's Tech Hub: Your Ultimate Guide to Cutting-Edge Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/triumphant-journey-post-nvidia-setup-hurdle/"><u>Triumphant Journey Post NVIDIA Setup Hurdle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-and-managing-video-layouts-in-zoom-for-windows-11-users-for-2024/"><u>Understanding and Managing Video Layouts in Zoom for Windows 11 Users for 2024</u></a></li>
 </ul></div>
 

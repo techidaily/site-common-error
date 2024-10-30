@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Buffering: Masterful Ways to Improve Streaming on Kodi"
-date: 2024-10-21T22:01:01.708Z
-updated: 2024-10-24T22:42:39.839Z
+date: 2024-10-25T17:48:31.634Z
+updated: 2024-10-30T17:12:49.172Z
 tags:
   - win11
   - win10
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
@@ -98,16 +105,16 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -123,16 +130,16 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
 
@@ -183,10 +190,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
@@ -194,13 +201,6 @@ OR
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The folder name can be different based on your tablet model.
 
@@ -224,15 +224,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then save the file as**PSUserConfig.txt** to the following location:
@@ -244,13 +251,6 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 **Note** that some of the functions in your drawing software may be unusable if you disable Windows Ink. In that situation, you’ll need to enable Windows Ink again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
@@ -277,24 +277,24 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-diversify-referrals-tactics-for-effective-youtube-backlinks/"><u>[New] 2024 Approved Diversify Referrals Tactics for Effective YouTube Backlinks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-speech-capture-device-scrutiny/"><u>[Updated] In 2024, Speech Capture Device Scrutiny</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-zero-dollar-mp3-recorders-skype-call-edition/"><u>[Updated] In 2024, Zero Dollar MP3 Recorders Skype Call Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-visionary-6-eco-friendly-minecraft-mansions-for-2024/"><u>[Updated] Visionary 6 Eco-Friendly Minecraft Mansions for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-pc-and-bluetooth-keyboard-connection-failures/"><u>Expert Tips for Repairing PC and Bluetooth Keyboard Connection Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-11s-bluetooth-connection-problems-with-these-simple-steps/"><u>Fix Windows 11'S Bluetooth Connection Problems with These Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205693301-google-chrome-lagging-or-freezing-restart-immediately/"><u>Google Chrome Lagging or Freezing? Restart Immediately</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/googles-revolutionary-ai-bard-enters-the-ai-arena/"><u>Google's Revolutionary AI, 'Bard', Enters the AI Arena</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-getting-back-control-dealing-with-non-responsive-file-explorer-in-windows-11/"><u>Guide to Getting Back Control: Dealing with Non-Responsive File Explorer in Windows 11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-steps-for-online-gamers-banner-use/"><u>In 2024, Essential Steps for Online Gamers' Banner Use</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-lava-blaze-2-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Lava Blaze 2 Phones? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagrams-hidden-pathway-extract-more-filters-for-free-effortlessly-for-2024/"><u>Instagram’s Hidden Pathway Extract More Filters for Free Effortlessly for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/nier-automata-pc-stability-improvements-how-to-prevent-frequent-crashes/"><u>NieR: Automata PC Stability Improvements: How to Prevent Frequent Crashes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-data-buffering-for-sony-a7s-ii-for-2024/"><u>Optimal Data Buffering for Sony A7S II for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-for-troubleshooting-and-fixing-the-critical-process-died-error-0xc000012f-in-windows/"><u>Quick Guide for Troubleshooting and Fixing the Critical Process Died Error (0XC000012F) in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-corrupted-windows-store-caches-a-comprehensive-guide/"><u>Resolving Corrupted Windows Store Caches - A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/sidestep-stutters-smooth-pc-game-experiences/"><u>Sidestep Stutters: Smooth PC Game Experiences</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-manual-for-resolving-chromes-monochrome-mode/"><u>The Ultimate Troubleshooting Manual for Resolving Chrome's Monochrome Mode</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-maximizing-your-steam-experience-with-a-switch-pro-controller/"><u>[New] 2024 Approved Maximizing Your Steam Experience with a Switch Pro Controller</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-building-blocks-of-boosted-bots-elevating-bot-based-promotion/"><u>[Updated] 2024 Approved Building Blocks of Boosted Bots Elevating Bot-Based Promotion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-student-engagement-using-youtube-as-a-teaching-tool-for-2024/"><u>[Updated] Unlocking Student Engagement Using YouTube as a Teaching Tool for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-organize-ideas-efficiently-with-mematic/"><u>2024 Approved Organize Ideas Efficiently with Mematic</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-blue-screen-bugs-linked-to-cmusbdacsys-driver-in-windows/"><u>Diagnosing and Repairing Blue Screen Bugs Linked to CMUSBDAC.sys Driver in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-glitch-what-to-do-when-your-windows-integrated-camera-wont-work-anymore/"><u>Fixing the Glitch: What to Do When Your Windows Integrated Camera Won't Work Anymore</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oppo-reno-8t-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo Reno 8T? Try These Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209860687-9780980608922-get-out-of-jail-card/"><u>Get Out of Jail Card | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-fatal-error-1603-and-complete-software-installation-successfully/"><u>How to Resolve 'Fatal Error 1603' & Complete Software Installation Successfully</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-upgrade-and-install-the-newest/"><u>How to Seamlessly Upgrade and Install the Newest</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-effortless-vlog-themes-youll-love/"><u>In 2024, 10 Effortless Vlog Themes You'll Love</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-filmmakers-dilemma-in-filmora/"><u>In 2024, Navigating the Filmmaker's Dilemma in Filmora</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-authority-security-patched-successfully-learn-more-inside/"><u>Local Authority Security Patched Successfully - Learn More Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixes-for-steam-game-files-not-found-error/"><u>Resolved: Fixes for Steam Game Files Not Found Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-geforce-experience-launch-problem-a-complete-guide/"><u>Resolving the GeForce Experience Launch Problem - A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-rpc-server-unavailable-error-code-0xc0000098-in-windows-a-step-by-step-guide/"><u>Solving the RPC Server Unavailable (Error Code 0xC0000098) in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-network-adapter-failures-on-windows-117-pcs/"><u>Step-by-Step Guide: Resolving Network Adapter Failures on Windows 11/7 PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-destiny-2-initialization-stall-problems/"><u>Troubleshooting Guide: Resolving Destiny 2 Initialization Stall Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac598-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a1cymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-r103/"><u>YAC598 - Yamaha'aturboSound II Sound Module Based on the YMF7A1C/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

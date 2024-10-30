@@ -1,7 +1,7 @@
 ---
 title: Fixing the Mystifying Black Screen Faults in Your Windows 11 Device
-date: 2024-10-21T17:32:31.092Z
-updated: 2024-10-24T19:30:55.840Z
+date: 2024-10-25T16:14:03.956Z
+updated: 2024-10-30T18:14:39.753Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -61,20 +54,27 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -86,19 +86,20 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
  If resetting Winsock worked temporarily, you can move to Fix 5.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
 
@@ -115,13 +116,6 @@ Follow these steps to reset your Winsock Catalog:
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
@@ -135,21 +129,29 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
 Restart your computer to see if the error has gone.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -166,10 +168,10 @@ Restart your computer to see if the error has gone.
 4. Restart your computer to see if the error has gone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
@@ -196,19 +198,22 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-digital-dialogue-preservation-guide/"><u>[New] In 2024, Digital Dialogue Preservation Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-fn-keys-on-my-asus-laptop-not-working/"><u>[Solved] Fn Keys on My ASUS Laptop Not Working</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-zero-price-super-quality-youtube-thumbnails-extractor-guide/"><u>2024 Approved Zero Price, Super Quality YouTube Thumbnails Extractor Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-non-responsive-lenovo-mouse-pads-on-various-windows-systems/"><u>Comprehensive Fix for Non-Responsive Lenovo Mouse Pads on Various Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-synaptix-touchpad-drivers-with-simple-steps/"><u>Download the Latest Synaptix Touchpad Drivers with Simple Steps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-poco-f5-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Poco F5 5G</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-comprehensive-analysis-of-the-cambridge-auditory-experience-cxu-device-for-2024/"><u>New The Comprehensive Analysis of the Cambridge Auditory Experience CXU Device for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimize-your-memory-perfecting-iphone-album-organization-and-icloud-backup/"><u>Optimize Your Memory Perfecting iPhone Album Organization and iCloud Backup</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-12-mini-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 mini Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-overcoming-opengl-glitches-in-minecraft/"><u>Step-by-Step Fixes for Overcoming OpenGL Glitches in Minecraft</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-when-you-encounter-internet-explorer-has-stopped-working/"><u>Step-by-Step Solutions When You Encounter 'Internet Explorer Has Stopped Working'</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207757346-troubleshoot-and-solve-call-of-duty-world-war-iis-persistent-error-code-angs-12320/"><u>Troubleshoot and Solve Call of Duty: World War II's Persistent Error Code Angs 12320</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-non-functional-usb-ports-on-windows-10-and-11/"><u>Troubleshooting and Fixing Non-Functional USB Ports on Windows 10 & 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-discovering-the-best-in-class-9-microphone-recorders-reviewed/"><u>[New] 2024 Approved Discovering the Best in Class 9 Microphone Recorders Reviewed</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-distinguishing-yourself-with-ingenious-tiktok-profile-ideas/"><u>[New] In 2024, Distinguishing Yourself with Ingenious TikTok Profile Ideas</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-accelerate-your-metaverse-journey-with-7-must-have-devices/"><u>[Updated] In 2024, Accelerate Your Metaverse Journey with 7 Must-Have Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiling-the-powerhouse-techniques-in-facebooks-360-streaming/"><u>[Updated] In 2024, Unveiling the Powerhouse Techniques in Facebook's 360 Streaming</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-device-friendly-tutorial-inserting-your-shorts-into-youtube/"><u>2024 Approved Device-Friendly Tutorial Inserting Your Shorts Into YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-driver-update-for-epsons-wf-n20-series-wf-7620-a-user-friendly-guide-compatible-with-all-windows-versions/"><u>DIY Driver Update for Epson's WF-N20 Series (WF-7620): A User-Friendly Guide Compatible with All Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-224003-solved-enjoy-uninterrupted-video-viewing/"><u>Error Code 224003 Solved: Enjoy Uninterrupted Video Viewing</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-steelseries-arctis-5-microphone-issues-a-comprehensive-guide/"><u>Fixing SteelSeries Arctis 5 Microphone Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-dell-devices-photography-issue-a-guide-to-restoring-camera-functionality-in-windows/"><u>Fixing Your Dell Device's Photography Issue: A Guide to Restoring Camera Functionality in Windows</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/free-online-converter-transform-mmf-audio-files-into-wav-format/"><u>Free Online Converter: Transform MMF Audio Files Into WAV Format</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-sluggish-chrome-quick-fixes-for-non-responsive-browser-dilemmas/"><u>No More Sluggish Chrome: Quick Fixes for Non-Responsive Browser Dilemmas</u></a></li>
+<li><a href="https://common-error.techidaily.com/resizing-and-moving-windows-beyond-the-display-edge-tips-and-tricks/"><u>Resizing and Moving Windows Beyond the Display Edge: Tips & Tricks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resource-saturation-a-usage-dilemma/"><u>Resource Saturation: A Usage Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-pc-wont-boot-overcoming-the-getting-windows-ready-hurdle/"><u>Solutions for When Your PC Won't Boot: Overcoming the 'Getting Windows Ready' Hurdle</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-windows-sfc-scannow-fails-to-complete-task/"><u>Troubleshooting Steps When Windows Sfc /Scannow Fails to Complete Task</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-sign-in-errors-with-user-profile-services/"><u>Troubleshooting Windows 11 Sign-In Errors with User Profile Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unraveling-best-practices-for-effective-fb-healthcare-promos/"><u>Unraveling Best Practices for Effective FB Healthcare Promos</u></a></li>
 </ul></div>
 

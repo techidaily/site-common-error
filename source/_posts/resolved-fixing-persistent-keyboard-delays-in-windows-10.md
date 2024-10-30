@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Persistent Keyboard Delays in Windows 10"
-date: 2024-10-22T18:36:04.136Z
-updated: 2024-10-24T22:01:54.043Z
+date: 2024-10-24T16:26:38.333Z
+updated: 2024-10-30T17:42:56.996Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 6. **[Reconnect your keyboard to your computer](#f)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Disable Num Lock
@@ -48,9 +48,29 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-162134_1280-1024x512.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **If you don’t have a NUM key** (if you’re using a laptop), you’ll need to press the**FN key** and the**CAPS Lock key** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-311803_1280-1-1024x512.png)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hope your keyboard is back to normal now. If not, read on and try the fix below.
 
@@ -63,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-230.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Switch to another input language and then switch back. (In my case, I’ll change the input language to German, then change it back to English.)
@@ -74,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 **3)** Check your keyboard to see if this fixed your issue.
 
  If your keyboard map still won’t match the letters on your keys, move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run the keyboard troubleshooter
 
@@ -85,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 **1)** On your keyboard, press the**Windows logo** key and type**troubleshoot** . Then, select**Troubleshoot settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-534.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Keyboard** , then click**Run the troubleshooter** .
 
@@ -126,29 +160,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-229.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -168,23 +182,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Restart your computer after the update is complete. Then, check if your keyboard is able to function properly.
 
 If your problem persists, check the fix 6, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reconnect your keyboard to your PC
 
@@ -243,22 +243,24 @@ If your problem persists, check the fix 6, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-crafting-content-that-captivates-instagrams-roadmap-to-success/"><u>[New] 2024 Approved Crafting Content that Captivates Instagram’s Roadmap to Success</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-5-premier-cloud-platforms-revolutionizing-storage-for-2024/"><u>[New] 5 Premier Cloud Platforms Revolutionizing Storage for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-hands-on-methods-mirror-video-frames-using-vlc/"><u>[New] In 2024, Hands-On Methods Mirror Video Frames Using VLC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-tech-comforts-with-luxury-desktops/"><u>2024 Approved Ultimate Tech Comforts with Luxury Desktops</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-persistent-error-0x8024401c-in-your-windows-10-or-11-update-process-expert-advice-and-fixes/"><u>Bypassing the Persistent Error 0X8024401C in Your Windows 10 or 11 Update Process: Expert Advice and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-troubleshooting-cyclic-redundancy-check-failures/"><u>Comprehensive Guide to Troubleshooting Cyclic Redundancy Check Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-fix-error-0x800f0922-during-windows-10-update/"><u>How to Troubleshoot and Fix Error 0X800F0922 During Windows 10 Update</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-essence-of-scripting-for-film/"><u>In 2024, The Essence of Scripting for Film</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-manual-how-to-restore-display-colors-and-eliminate-black-screens-on-dell-computers/"><u>In-Depth Manual: How to Restore Display Colors and Eliminate Black Screens on Dell Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-persistent-slowdowns-the-complete-guide-for-stuck-valorant-loading-screens/"><u>Overcoming Persistent Slowdowns: The Complete Guide for Stuck Valorant Loading Screens</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-persistent-windows-update-error-code-0x802n401c-on-windows-10-and-11/"><u>Resolving the Persistent Windows Update Error Code 0X802n401C on Windows 10 & 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-effortlessly-converting-excel-formulas-across-languages/"><u>Step-by-Step Guide: Effortlessly Converting Excel Formulas Across Languages</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-resolved-fixing-the-error-application-failed-to-launch-properly-error-code-0xc000007b/"><u>Successfully Resolved: Fixing the Error 'Application Failed to Launch Properly (Error Code 0xC000007B)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/superior-lineup-elite-webcam-mounts/"><u>Superior Lineup Elite Webcam Mounts</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-damaged-files-in-windows-11/"><u>Troubleshooting and Repairing Damaged Files in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-diy-tripods-how-to-stabilize-your-camera-without-buying-a-tripod/"><u>[New] In 2024, DIY Tripods| How to Stabilize Your Camera without Buying a Tripod</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-googles-audio-to-text-translations-a-comprehensible-guide/"><u>[New] In 2024, Mastering Google's Audio to Text Translations A Comprehensible Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-podcast-recorder-quality-check-for-2024/"><u>[New] Podcast Recorder Quality Check for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-top-free-screen-recorders-ranked-list/"><u>[Updated] Explore the Top Free Screen Recorders Ranked List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-obscurity-to-influence-5-strategies-to-dominate-reddit-advertising/"><u>2024 Approved From Obscurity to Influence 5 Strategies to Dominate Reddit Advertising</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-to-your-volume-is-dirty-problem-error-code-0x80071ac3/"><u>Comprehensive Fixes to Your 'Volume Is Dirty' Problem (Error Code 0X80071AC3)</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solution-correcting-the-monitor-not-receiving-signal-problem-a-step-by-step-tutorial/"><u>DIY Solution: Correcting the 'Monitor Not Receiving Signal' Problem - A Step by Step Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fix-for-unity-initialization-graphics-glitch-beginner-friendly-tips/"><u>Effortless Fix for Unity Initialization Graphics Glitch - Beginner-Friendly Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-mysterious-darkness-solutions-to-chromes-black-screen-dilemma/"><u>Fixing the Mysterious Darkness: Solutions to Chrome's Black Screen Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-restoring-lost-bluetooth-icons-on-your-windows-10-device/"><u>Guide: Restoring Lost Bluetooth Icons on Your Windows 10 Device</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-access-and-enjoy-free-online-music-playlists-without-any-charge/"><u>How to Access & Enjoy Free Online Music Playlists Without Any Charge</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-creative-thinking-techniques-for-generating-ideas-with-mind-mapping-and-chatgpt/"><u>Mastering Creative Thinking: Techniques for Generating Ideas with Mind Mapping & ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-issue-effective-fixes-for-windows-11-update-error-code-0x800f0922/"><u>Resolve the Issue: Effective Fixes for Windows 11 Update Error Code 0X800F0922</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-lowered-cpu-impact-with-improved-windows-driver-foundations/"><u>Resolved Issue: Lowered CPU Impact with Improved Windows Driver Foundations</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-age-of-empires-iii-boot-issue-with-these-proven-fixes-for-initialization-failures/"><u>Solve Your Age of Empires III Boot Issue with These Proven Fixes for Initialization Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-overcome-apexs-anti-cheat-issues/"><u>Step-by-Step Solution to Overcome Apex's Anti-Cheat Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/twitch-account-deletion-process-explained-a-step-by-step-guide/"><u>Twitch Account Deletion Process Explained: A Step-by-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-12-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 12 Pro</u></a></li>
 </ul></div>
 

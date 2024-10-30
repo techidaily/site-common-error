@@ -1,7 +1,7 @@
 ---
 title: "Effective Remedies: Rectifying Non-Functional Touchpad Scrolling on Laptops/PCs"
-date: 2024-10-17T16:43:36.279Z
-updated: 2024-10-24T21:34:50.768Z
+date: 2024-10-29T16:48:33.782Z
+updated: 2024-10-30T16:02:35.362Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/c930e94b907356f9a15f0bf147840ab473cafcc14
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2faf385cf07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Update DirectX to the latest version
 
  All Windows Operating systems include DirectX. Microsoft would update DirectX and release the new versions through Windows Update. So you can update the DirectX by downloading and installing the latest Windows Update. You may know how to download and install the Windows Update. But if not, the following steps may help:
@@ -64,10 +71,10 @@ If you’re using Windows 7, 8 & 8.1, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30f7fa7ccd0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  b) View by Small icons, click**Windows Update** .
@@ -75,10 +82,10 @@ If you’re using Windows 7, 8 & 8.1, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30fd18bc24f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you’re using Windows 10, follow these steps:
@@ -95,14 +102,14 @@ If you’re using Windows 10, follow these steps:
 
 ---
 
-## Method 2: Use VPN
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Method 2: Use VPN
 
 ### Why you should use a VPN?
 
@@ -159,10 +166,10 @@ If you’re using Windows 10, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a311618e4085.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Player settings** .
@@ -173,13 +180,6 @@ If you’re using Windows 10, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3116853ff8e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click**Videos** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3116c9a518c.jpg)
@@ -189,10 +189,10 @@ If you’re using Windows 10, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3116ed64dcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7) Restart Kodi and check to see if the problem persists.
@@ -200,10 +200,10 @@ If you’re using Windows 10, follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 6: Reinstall Kodi
@@ -248,22 +248,16 @@ Following steps are for your reference to clear cache:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fe1867311.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Video add-ons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fe38901fc.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Select the add-on you have used to remove the cache.
 
@@ -288,18 +282,21 @@ Following steps are for your reference to clear cache:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/implicity-in-action-constructing-an-intuitive-youtube-signup-page/"><u>[New] Simplicity in Action Constructing an Intuitive YouTube Signup Page</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-hidden-viewers-guide-reading-instagram-stories-privately-from-pcandroidios/"><u>[Updated] In 2024, Hidden Viewers Guide Reading Instagram Stories Privately From PC/Android/iOS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-simple-routines-for-documenting-digital-dialogues-on-os-xpc/"><u>[Updated] In 2024, Simple Routines for Documenting Digital Dialogues on OS X/PC</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-boost-engagement-and-growth-unlocking-youtube-analytics-via-social-blade/"><u>2024 Approved Boost Engagement and Growth - Unlocking YouTube Analytics via Social Blade</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-igniting-curiosity-and-participation-in-fb-giveaway-initiatives/"><u>2024 Approved Igniting Curiosity and Participation in FB Giveaway Initiatives</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/1728501867744-hdd-3/"><u>不要なデータを完全に取り除くHDDリサイクル方法: 3つのテクニック</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-and-correcting-error-0x800f0831-in-a-single-day-with-windows-update-tools/"><u>Bypassing and Correcting Error 0X800F0831 in a Single Day with Windows Update Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-guide-to-navigating-file-explorer-on-your-windows-10-pc/"><u>Effortless Guide to Navigating File Explorer on Your Windows 10 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-unresponsive-solutions-to-overcome-the-endless-load-of-valorant/"><u>Fixing the Unresponsive: Solutions to Overcome the Endless Load of Valorant</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-fixes-for-your-laptop-when-the-battery-refuses-to-charge/"><u>Immediate Fixes for Your Laptop When the Battery Refuses to Charge</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quick-tricks-for-enhancing-sound-level-on-mp3-tracks-a-beginners-guide/"><u>Quick Tricks for Enhancing Sound Level on MP3 Tracks - A Beginner's Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-the-non-functioning-aoc-monitor-compatible-with-windows-10/"><u>Troubleshooting Guide: How to Fix the Non-Functioning AOC Monitor Compatible with Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-success-overcoming-write-failures-to-referenced-0x-memory-slot/"><u>Troubleshooting Success: Overcoming Write Failures to Referenced 0X Memory Slot</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-an-intro-to-quantum-hdr-innovations/"><u>[New] An Intro to Quantum HDR Innovations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-path-to-youtube-wealth-top-revenue-tactics/"><u>[New] In 2024, The Path to YouTube Wealth Top Revenue Tactics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-recording-quality-unlocked-best-mics/"><u>[Updated] 2024 Approved Recording Quality Unlocked Best Mics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-getting-started-a-primer-on-screencastify-use-for-2024/"><u>[Updated] Getting Started A Primer on Screencastify Use for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-google-meet-broadcast-simplified-youtube-steps/"><u>[Updated] In 2024, Google Meet Broadcast Simplified YouTube Steps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-algorithm-advantage-tips-for-achieving-instagram-video-fame/"><u>[Updated] In 2024, The Algorithm Advantage Tips for Achieving Instagram Video Fame</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-fix-a-white-display-on-your-laptop/"><u>Effective Solutions to Fix a White Display on Your Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/endless-blinking-cursor-learn-how-to-make-it-disappear-now/"><u>Endless Blinking Cursor? Learn How to Make It Disappear Now</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-your-website-with-cookiebots-powerful-analytics-solutions/"><u>Enhance Your Website with Cookiebot's Powerful Analytics Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-c55-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-windows-11-using-sfc-and-dism-commands-a-step-by-step-guide/"><u>How to Repair Your Windows 11 Using SFC & DISM Commands – A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/remote-procedure-call-issues-heres-how-you-can-resolve-them/"><u>Remote Procedure Call Issues? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-d3derrnotavailable-error-a-comprehensive-guide/"><u>Resolving 'D3DERR_NOT_AVAILABLE' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-when-your-pc-runs-into-a-hang-on-windows-10/"><u>Step-by-Step Solution for When Your PC Runs Into a Hang on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-your-airpods-connection-issues-on-windows-1011/"><u>Ultimate Guide: Solving Your AirPods Connection Issues on Windows 10/11</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1726030432966-pcandroidiphone/"><u>スムーズに編集！PC/Android/iPhone 対応：ビデオカット技術総まくり</u></a></li>
 </ul></div>
 

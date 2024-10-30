@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Overcoming 'Fatal Error During Installation' (Error 1603)
-date: 2024-10-21T22:30:23.673Z
-updated: 2024-10-24T22:47:48.263Z
+date: 2024-10-23T17:08:55.182Z
+updated: 2024-10-30T17:11:09.126Z
 tags:
   - win11
   - win10
@@ -49,23 +49,9 @@ thumbnail: https://thmb.techidaily.com/ab4e5b2f78d2947f058c6bbc1a1a3d8a464aeb89e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae442394ec26.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click the**Compatibility** tab, check**Run this program as an administrator** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae454db00d71.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Double click the_executable (.exe) file_ of or the_desktop shortcut_ to your game, then check to see if you’ve got rid of the “failed to install” error.
 
@@ -83,14 +69,14 @@ thumbnail: https://thmb.techidaily.com/ab4e5b2f78d2947f058c6bbc1a1a3d8a464aeb89e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae454d3f00ea.png)
 
- If this method works for you, you won’t see the error when you launch your game. But if it doesn’t, there are three more fixes for you to try…
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this method works for you, you won’t see the error when you launch your game. But if it doesn’t, there are three more fixes for you to try…
 
 ## Method 4: Run the BattlEye installer manually
 
@@ -113,21 +99,35 @@ To verify your game files integrity on Steam:
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Select the**Installed Files** tab, then click on the button**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Wait until the process is completed.
 
 **4)** Launch your game. Then check to see if the error’s gone.
 
  If this works for you, you won’t see the error again. But if not, you have one more thing to try…
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 6: Update your device drivers
 
@@ -143,16 +143,16 @@ To verify your game files integrity on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to each device to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
@@ -171,18 +171,18 @@ To verify your game files integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-5-pro-tips-to-perfectly-tag-videos-and-maximize-views/"><u>[Updated] In 2024, 5 Pro Tips to Perfectly Tag Videos and Maximize Views</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/windowsdll/"><u>如何找回Windows电脑中消失的DLL文件—解决方法</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-the-top-10-vector-image-hubs/"><u>Discover the Top 10 Vector Image Hubs</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-tiny-tycoon-how-ryans-channel-became-a-millionaire-hub/"><u>In 2024, Tiny Tycoon How Ryan’s Channel Became a Millionaire Hub</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-windows-player-load-failure-due-to-missing-media-files/"><u>Resolved: Fixing Windows Player Load Failure Due to Missing Media Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-fatal-errors-for-halo-4-ue4-gameplay-insights-and-solutions/"><u>Resolving Fatal Errors for Halo 4 UE4 Gameplay - Insights and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202123414-shockwave-flash-and-google-chrome-solving-the-crashing-problem-once-and-for-all/"><u>Shockwave Flash and Google Chrome - Solving the Crashing Problem Once and For All!</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/smart-savings-without-compromising-quality-why-i-chose-the-most-affordable-microsoft-surface-pro-model-gadgetsforgeeks/"><u>Smart Savings without Compromising Quality: Why I Chose the Most Affordable Microsoft Surface Pro Model | GadgetsForGeeks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-for-successful-loading-of-the-elder-scrolls-online-game/"><u>Solution Guide for Successful Loading of The Elder Scrolls Online Game</u></a></li>
-<li><a href="https://windows11.techidaily.com/systematic-approach-to-eliminate-flashing-on-windows/"><u>Systematic Approach to Eliminate Flashing on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-the-d3dxt939dll-missing-error-on-your-computer/"><u>The Ultimate Fix for the d3dxt9_39.dll Missing Error on Your Computer</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/top-6-astuces-pour-resoudre-les-problemes-de-mise-en-retablissement-de-windows-11/"><u>Top 6 Astuces Pour Résoudre Les Problèmes De Mise en Rétablissement De Windows 11</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comment-recuperer-une-partition-avec-western-digital-my-passport-trois-methodes-efficaces/"><u>« Comment Récupérer Une Partition Avec Western Digital My Passport : Trois Méthodes Efficaces »</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-35-hilarious-image-editing-software-for-smartphones-and-pcs/"><u>[Updated] 35 Hilarious Image Editing Software for Smartphones & PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-macos-experience-with-screenflow-reviewed/"><u>[Updated] In 2024, The Ultimate MacOS Experience with ScreenFlow Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-sharing-bygone-photos-through-snapchats-memories-feature/"><u>[Updated] Sharing Bygone Photos Through Snapchat's Memories Feature</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-the-journey-fb-videos-and-whatsapp-conversion/"><u>2024 Approved Navigating the Journey FB Videos & WhatsApp Conversion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seeking-peak-playback-performance-vlc-or-mx-showdown/"><u>2024 Approved Seeking Peak Playback Performance VLC or MX Showdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-a-nonfunctional-lenovo-camera/"><u>Diagnosing and Repairing a Nonfunctional Lenovo Camera</u></a></li>
+<li><a href="https://common-error.techidaily.com/ending-the-struggle-with-lag-in-minecraft-expert-tips-and-solutions/"><u>Ending the Struggle with Lag in Minecraft: Expert Tips and Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-xs-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone XS Max</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-renderer-startup-issues-with-the-latest-2021-corrections/"><u>Overcoming Renderer Startup Issues with the Latest 2021 Corrections</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-geforce-experience-fails-to-pull-up-user-preferences/"><u>Resolved Issue: GeForce Experience Fails to Pull Up User Preferences</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-overcome-the-problem-of-minecraft-not-loading-on-windows/"><u>Troubleshooting Guide: How to Overcome the Problem of Minecraft Not Loading on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-the-solution-how-to-fix-your-pc-cant-start/"><u>Unlock the Solution: How to Fix 'Your PC Can't Start'</u></a></li>
 </ul></div>
 

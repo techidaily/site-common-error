@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Restoring Touchpad Scrolling Functionality"
-date: 2024-10-19T17:35:24.610Z
-updated: 2024-10-24T21:51:54.252Z
+date: 2024-10-26T17:17:57.403Z
+updated: 2024-10-30T17:47:06.964Z
 tags:
   - win11
   - win10
@@ -31,10 +31,16 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Reset your keyboard
@@ -54,18 +60,18 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Turn off your keyboard.
 2. Press and hold the**ESC** key.
 3. While holding down the ESC key, turn on your keyboard and wait for a few seconds until the keyboard begins to flash.
 
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update the Corsair keyboard driver
 
@@ -79,13 +85,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update and configure the iCUE software
 
  iCUE is a software that allows you to control the performance of Corsair’s devices. Updating the iCUE software may help you deal with bugs that relate to your backlight problem. Here is how:
@@ -97,14 +96,22 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
@@ -131,20 +138,22 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/utting-edge-method-quick-erasure-of-youtube-comments-for-2024/"><u>[New] Cutting-Edge Method Quick Erasure of Youtube Comments for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-elevating-your-vimeo-clips-a-guide-to-musical-additions/"><u>[New] In 2024, Elevating Your Vimeo Clips A Guide to Musical Additions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-picsart-edge-bringing-facial-movement-into-the-digital-realm/"><u>[Updated] Picsart Edge Bringing Facial Movement Into the Digital Realm</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-skyrocketing-youtube-popularity-through-seo-know-how/"><u>[Updated] Skyrocketing YouTube Popularity Through SEO Know-How</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-inadequate-system-power-to-fulfill-task-requests/"><u>Addressing Inadequate System Power to Fulfill Task Requests</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-guide-overcome-windows-11-installer-error-code-80240020/"><u>Fix Guide: Overcome 'Windows 11 Installer Error Code 80240020'</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-cyclic-redundancy-check-errors-in-your-files/"><u>How To Resolve Cyclic Redundancy Check Errors in Your Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206141954-how-to-restore-sounds-in-forza-horizon-4-after-a-silent-ride-solutions-unveiled/"><u>How to Restore Sounds in Forza Horizon 4 After a Silent Ride – Solutions Unveiled</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/lenovo-mouse-pad-not-working-in-windows-1087-fixed/"><u>Lenovo Mouse Pad Not Working in Windows 10/8/7 [FIXED]</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/mastering-basic-video-edits-on-windows-11s-new-photos-application-tips-and-tricks/"><u>Mastering Basic Video Edits on Windows 11'S New Photos Application: Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-windows-10-bluetooth-connectivity-issues-instantly-step-by-step-guide/"><u>Resolve Your Windows 10 Bluetooth Connectivity Issues Instantly - Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-work-how-generative-ai-is-shaping-future-jobs-insights-and-predictions/"><u>Revolutionizing Work: How Generative AI Is Shaping Future Jobs - Insights and Predictions</u></a></li>
-<li><a href="https://common-error.techidaily.com/sd-invisible-no-more-find-the-answer-here/"><u>SD Invisible No More, Find the Answer Here!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photo-clips-melody-layers-in-new-videos/"><u>[Updated] Photo Clips, Melody Layers in New Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209901727-breeze-through-fixing-windows-update-error-code-0x80070002-simple-solutions-for-smooth-operations/"><u>Breeze Through Fixing Windows Update Error Code 0X80070002: Simple Solutions for Smooth Operations!</u></a></li>
+<li><a href="https://common-error.techidaily.com/clearing-cache-failures-how-to-address-erroneous-caching-errcachemiss-errors-on-chrome/"><u>Clearing Cache Failures: How to Address Erroneous Caching (ERR_CACHE_MISS) Errors on Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-msda80dll-ensuring-system-stability-by-retaining-it/"><u>Comprehensive Guide to MSDA80.DLL: Ensuring System Stability by Retaining It</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-fixing-the-critical-halo-t-4-ue4-fatal-error-and-avoiding-system-crashes/"><u>Comprehensive Guide: Fixing the Critical Halo T 4 UE4 'Fatal Error' & Avoiding System Crashes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/discovering-the-secret-to-instagram-voice-change-for-2024/"><u>Discovering the Secret to Instagram Voice Change for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-nier-automata-pc-lagging-problems-complete-guide/"><u>Fix Your Nier Automata PC Lagging Problems – Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-code-24-errors-for-missing-devices-in-windows-os/"><u>How To Fix Code 24 Errors for Missing Devices in Windows OS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-15-pro-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 15 Pro Without a Home Button</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-live-sound-perfection-our-selections-of-the-top-6-stream-friendly-mics/"><u>In 2024, Live Sound Perfection Our Selections of the Top 6 Stream-Friendly Mics</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/inspirational-themes-for-regular-vlogs/"><u>Inspirational Themes for Regular Vlogs</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/losung-unfahigkeit-mit-macrium-reflect-volumen-zu-trennen-4-strategien/"><u>Lösung: Unfähigkeit, Mit Macrium Reflect Volumen Zu Trennen – 4 Strategien</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simplified-guide-seamless-setup-of-windows-updates/"><u>Simplified Guide: Seamless Setup of Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211454532-steam-game-data-gone-heres-your-step-by-step-fix/"><u>Steam Game Data Gone? Here’s Your Step-by-Step Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-the-missing-sound-device-error-in-windows-11/"><u>Step-by-Step Solution for the Missing Sound Device Error in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-responsive-function-fn-keys-on-your-lenovo-laptop/"><u>Troubleshooting Guide: Fixing Non-Responsive Function (Fn) Keys on Your Lenovo Laptop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-gpt-3-addressing-the-top-four-disruptions/"><u>Unlock GPT-3: Addressing the Top Four Disruptions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Instantaneous Solutions for Preventing Your CSGO From Crashing Unexpectedly
-date: 2024-09-10T16:00:37.835Z
-updated: 2024-09-15T16:00:27.443Z
+date: 2024-10-27T16:19:19.858Z
+updated: 2024-10-30T16:57:30.279Z
 tags:
   - win11
   - win10
@@ -65,6 +65,19 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ## Solution 3: Disable the screen saver
@@ -81,8 +94,29 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 3. Click**Screen saver settings** at the bottom of the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For Windows 7:**
 
@@ -94,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -110,36 +151,36 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
-4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
+4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Exit the Registry Editor.
@@ -178,5 +219,24 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-top-3-nintendo-switch-emulators-free-to-download/"><u>[Updated] Top 3 Nintendo Switch Emulators Free to Download</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unleashing-your-cellphones-potential-in-videography/"><u>[Updated] Unleashing Your Cellphone's Potential in Videography</u></a></li>
+<li><a href="https://common-error.techidaily.com/achieving-peak-performance-tips-for-smarter-gaming-setups-with-windows-11/"><u>Achieving Peak Performance: Tips for Smarter Gaming Setups with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/activated-security-measure-lsa-local-security-authority-now-active/"><u>Activated Security Measure: LSA (Local Security Authority) Now Active</u></a></li>
+<li><a href="https://article-files.techidaily.com/crafting-a-captivating-periscope-livestream-for-2024/"><u>Crafting a Captivating Periscope Livestream for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-failed-dvd-movie-playback-on-windows-pcs/"><u>Diagnosing and Repairing Failed DVD Movie Playback on Windows PCs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-tips-sharing-your-apple-devices-screen-with-youtube/"><u>Essential Tips Sharing Your Apple Devices Screen with YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-teredo-reliable-connection-issues-in-windows-environments/"><u>How to Fix Teredo Reliable Connection Issues in Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-address-and-resolve-missing-d3dxtk9dll-errors/"><u>How to Successfully Address and Resolve Missing d3dxtk9.dll Errors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-8t-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-how-to-make-youtube-videos-on-your-smartphone/"><u>In 2024, How To Make YouTube Videos on Your Smartphone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oppo-reno-8t-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Oppo Reno 8T to Another | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/see-event-may-12-1amo-the-us-treasury-department-introduces-liberty-bonds-to-finance-world-war-i-efforts-relating-to-stock-markets-as-it-shows-governmental-134/"><u>See Event [May 12, 1Amo]: The U.S. Treasury Department Introduces 'Liberty Bonds' To Finance World War I Efforts, Relating to 'Stock Markets' As It Shows Governmental Intervention Can Influence Market Dynamics.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-graphics-problems-in-red-dead-redemption-2-solving-errgfxstate/"><u>Troubleshooting Graphics Problems in Red Dead Redemption 2: Solving ERR_GFX_STATE</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-msmpengexe-reducing-its-impact-on-system-performance-in-windows-11/"><u>Troubleshooting MsMpEng.exe: Reducing Its Impact on System Performance in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-tricks-and-tips-to-resolve-minecraft-slowdowns-and-lags/"><u>Ultimate Tricks & Tips to Resolve Minecraft Slowdowns and Lags</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-spacing-simplified-and-smoothed/"><u>Win11: Screen Spacing Simplified and Smoothed</u></a></li>
+</ul></div>
 

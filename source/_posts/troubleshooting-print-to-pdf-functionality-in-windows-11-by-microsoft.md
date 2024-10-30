@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Print to PDF Functionality in Windows 11 by Microsoft
-date: 2024-10-18T22:05:54.347Z
-updated: 2024-10-24T20:32:46.512Z
+date: 2024-10-27T17:25:43.928Z
+updated: 2024-10-30T17:06:09.633Z
 tags:
   - win11
   - win10
@@ -37,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 2: Check your power supply (laptop only)**
@@ -69,26 +75,26 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
@@ -98,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -122,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 5: Check your USB ports**
 
  If none of the above methods resolve your problem, your USB ports might be damaged. To find out, you can take your PC to a repair store and ask them to check. If your USB ports are damaged, the repairer should be able to replace them fairly inexpensively.
@@ -150,22 +156,19 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-iconic-top-tier-virtual-reality-films/"><u>[New] Iconic Top-Tier Virtual Reality Films</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-wrapping-up-with-impactful-endings/"><u>[Updated] 2024 Approved Wrapping Up with Impactful Endings</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-checklist-for-new-channels/"><u>[Updated] In 2024, The Ultimate Checklist for New Channels</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210148490-baffled-by-sd-detecting-errors-fixes-include/"><u>Baffled by SD Detecting Errors? Fixes Include!</u></a></li>
-<li><a href="https://common-error.techidaily.com/boost-your-pcs-performance-with-easy-maintenance-tips/"><u>Boost Your PC's Performance with Easy Maintenance Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-hardware-driver-problems-a-guide-to-completing-your-windows-7-installation-without-errors/"><u>Diagnosing and Solving Hardware Driver Problems: A Guide to Completing Your Windows 7 Installation Without Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-pvpnet-patchers-kernel-stops-functioning/"><u>Effective Fixes for When Your PvP.net Patcher's Kernel Stops Functioning</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-note-13-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi Note 13 Pro 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-performance-issues-decreasing-desktop-window-managers-cpu-and-gpu-consumption-on-windows-1011/"><u>Fixing Performance Issues: Decreasing Desktop Window Manager's CPU and GPU Consumption on Windows 10/11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-videos-top-rated-ipad-video-editors/"><u>In 2024, Elevate Your Videos Top-Rated iPad Video Editors</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-c12-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nokia C12 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209764696-noisy-playstation-4-heres-how-you-can-silence-the-racket/"><u>Noisy PlayStation 4? Here's How You Can Silence the Racket!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-when-your-screen-lacks-hdcp-protection/"><u>Solution Steps When Your Screen Lacks HDCP Protection</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-rectifying-compromised-file-systems-on-windows-11/"><u>Troubleshooting and Rectifying Compromised File Systems on Windows 11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unwanted-comments-made-easy-an-overview-for-2024/"><u>Unwanted Comments Made Easy An Overview for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-5-best-free-flv-video-editors/"><u>Updated In 2024, Top 5 Best Free FLV Video Editors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-big-sur-tech-requirements-a-quick-reference-guide/"><u>[New] Big Sur Tech Requirements A Quick Reference Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capture-and-conquer-speedy-photos-on-windows-11/"><u>[New] Capture & Conquer Speedy Photos on Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ideation-at-its-peak-crafting-impressive-youtube-titles/"><u>[Updated] In 2024, Ideation at Its Peak Crafting Impressive YouTube Titles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-list-of-trending-instagram-hashtags-for-success/"><u>[Updated] The Ultimate List of Trending Instagram Hashtags for Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-update-error-code-0x802e-a-comprehensive-guide/"><u>Fixing Windows Update Error Code 0X802e: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/honesty-as-a-learner-refusing-cheap-ai-solutions/"><u>Honesty as a Learner: Refusing Cheap AI Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-on-windows-stuttering-and-freezing-correct-graphic-card-driver-errors-here/"><u>Minecraft on Windows Stuttering and Freezing? Correct Graphic Card Driver Errors Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-3-gaming-issues-understanding-the-causes-of-fps-drops-and-stuttering/"><u>Modern Warfare 3 Gaming Issues : Understanding the Causes of FPS Drops and Stuttering</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>New A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-s-pen-problems-a-comprehensive-fixing-manual-for-samsungs-digital-pens/"><u>Solve Your S Pen Problems: A Comprehensive Fixing Manual for Samsung's Digital Pens</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ducational-science-channels-for-knowledge-boost/"><u>Top Educational Science Channels for Knowledge Boost</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovos-unresponsive-mouse-pad-on-windows-operating-systems-win-1187/"><u>Troubleshooting Lenovo's Unresponsive Mouse Pad on Windows Operating Systems (Win 11/8/7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-connection-issues-with-airpods-on-microsofts-latest-operating-systems-windows-10-and-11/"><u>Ultimate Guide: Resolving Connection Issues with AirPods on Microsoft's Latest Operating Systems (Windows 10 & 11)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zoom-for-broadcasts-bridging-the-gap-to-fb-live/"><u>ZOOM for Broadcasts Bridging the Gap to FB Live</u></a></li>
 </ul></div>
 

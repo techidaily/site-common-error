@@ -1,7 +1,7 @@
 ---
 title: "Fixing LiveKernelEvent Error Code 117: Expert Tips and Tricks"
-date: 2024-10-18T17:49:22.453Z
-updated: 2024-10-24T18:47:21.576Z
+date: 2024-10-25T16:47:39.943Z
+updated: 2024-10-30T16:14:35.660Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Windows Update Troubleshooter
 
 **Windows Update Troubleshooter**   is a useful troubleshooting tool that helps us solve common Windows update issues. Here’s how to run Troubleshooter:
@@ -50,22 +43,15 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Windows Update**   \> **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a523037e9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Follow the on-screen instructions to troubleshoot.
 
@@ -78,13 +64,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **error 0x80073712** ). To **run the SFC scan** :
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
@@ -99,6 +78,13 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run **the DISM tool**
 
 **DISM**  (**Deployment Image & Servicing Management** ) is another tool that helps us fix Windows-corruption-caused errors (**0x80073712** in this case). To run **DISM** :
@@ -108,10 +94,16 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **the following command**   and press **Enter** :
@@ -135,19 +127,25 @@ Wait for a while for the whole process to finishes.
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Scroll down to the bottom, right-click on **Windows Update**  . Then click**Stop** .
@@ -155,13 +153,6 @@ Wait for a while for the whole process to finishes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a89c68a29.jpg)
 
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
 
@@ -173,11 +164,32 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ab04cd2f7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Back to the**Services** window, right-click on**Windows Update** and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Restart your computer and try the Windows update again to see if the error code disappears.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Use **Media Creation Tool** to have a clean installation of Windows 10
 
@@ -212,14 +224,17 @@ Wait for a while for the whole process to finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-optimizing-video-playback-sizes-on-youtube/"><u>[Updated] In 2024, Optimizing Video Playback Sizes on YouTube</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-defy-2-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola Defy 2 Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-download-youtube-responsibly-legal-mp4-conversion-methods/"><u>In 2024, Download YouTube Responsibly Legal MP4 Conversion Methods</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-infinix-smart-8-hd-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Infinix Smart 8 HD Location Settings | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-problems-with-windows-10-updates-a-comprehensive-guide/"><u>Overcoming Problems with Windows 10 Updates: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207113275-solving-your-stuck-keyboard-arrows-essential-troubleshooting-tips/"><u>Solving Your Stuck Keyboard Arrows: Essential Troubleshooting Tips!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-dawn-of-advanced-ai-googles-launch-of-palm-2-model/"><u>The Dawn of Advanced AI: Google's Launch of PaLM 2 Model</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-a-noisy-ps4-console-causes-and-solutions/"><u>Troubleshooting a Noisy PS4 Console: Causes and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/wake-up-woes-windows-1011-pc-plays-piano-in-pjs/"><u>Wake-Up Woes: Windows 10/11 PC Plays Piano in PJs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-snapshots-of-adventure-mastering-the-craft-of-professional-travel-blogging/"><u>[New] 2024 Approved Snapshots of Adventure Mastering the Craft of Professional Travel Blogging</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-complete-audio-solution-for-incomplete-youtube-and-fb-sounds/"><u>[New] Complete Audio Solution for Incomplete YouTube and FB Sounds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-amp-up-creativity-premiere-pro-templates-free/"><u>[New] In 2024, Amp Up Creativity Premiere Pro Templates, FREE</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-vr-footage-contest-samsung-gear-and-lgs-compare/"><u>2024 Approved The Ultimate VR Footage Contest Samsung Gear & LG's Compare</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boosting-digital-presence-using-cookiebot-technology/"><u>Boosting Digital Presence Using Cookiebot Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-ethernet-issues-in-windows-11-windows-navigating-to-os-7/"><u>Diagnosing and Solving Ethernet Issues in Windows 11 / Windows Navigating to OS 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-problems-when-the-com-surrogate-worker-has-stopped-functioning/"><u>Expert Tips: Overcoming Problems When The COM Surrogate Worker Has Stopped Functioning</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-non-responsive-right-click-functionality-in-windows-11-computers/"><u>Fixing the Non-Responsive Right-Click Functionality in Windows 11 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-device-connection-error-when-casting-from-a-windows-10-computer/"><u>Resolving Device Connection Error When Casting From a Windows 10 Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-fit2-the-perfect-pocket-sized-exercise-monitor/"><u>Samsung Galaxy Fit2: The Perfect Pocket-Sized Exercise Monitor</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-code-24-fixing-the-missing-device-issue-in-windows-operating-systems/"><u>Troubleshooting Code 24: Fixing the Missing Device Issue in Windows Operating Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-revised-meanings-of-facebooks-pages/"><u>Understanding Revised Meanings of Facebook's Pages</u></a></li>
 </ul></div>
 

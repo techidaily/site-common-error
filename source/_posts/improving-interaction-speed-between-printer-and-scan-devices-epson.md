@@ -1,7 +1,7 @@
 ---
 title: Improving Interaction Speed Between Printer & Scan Devices (Epson)
-date: 2024-10-19T17:34:08.010Z
-updated: 2024-10-24T17:44:07.586Z
+date: 2024-10-29T17:44:26.240Z
+updated: 2024-10-30T18:18:33.759Z
 tags:
   - win11
   - win10
@@ -43,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check the setting of System Event Notification Service on your computer
@@ -66,21 +60,36 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -92,25 +101,20 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
  If resetting Winsock worked temporarily, you can move to Fix 5.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
 
@@ -124,13 +128,6 @@ Follow these steps to reset your Winsock Catalog:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
@@ -152,13 +149,6 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Restart your computer to see if the error has gone.
 
 ---
@@ -178,10 +168,10 @@ Restart your computer to see if the error has gone.
 4. Restart your computer to see if the error has gone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
@@ -208,24 +198,24 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-entry-level-mic-tips-for-youtube-voice-talents/"><u>[New] In 2024, Entry-Level Mic Tips for YouTube Voice Talents</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-speaker-tape-recorder-iphone-2024/"><u>[New] Speaker Tape Recorder (iPhone 2024)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-cinema-mobile-and-desktop-device-movie-recording/"><u>[Updated] In 2024, Capture Cinema Mobile & Desktop Device Movie Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-linuxs-best-pick-screen-capture-and-save-tools/"><u>[Updated] In 2024, Linux's Best Pick Screen Capture & Save Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-quickcapture-plus-voice-guided-session-maker-for-2024/"><u>[Updated] QuickCapture + Voice-Guided Session Maker for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-lannister-line-up-top-list-of-websites-for-game-ringtones/"><u>[Updated] The Lannister Line-Up Top List of Websites for Game Ringtones</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-persistent-keyboard-stutter-in-windows-10-operating-system/"><u>Fixing Persistent Keyboard Stutter in Windows 10 Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-stop-code-when-running-32-bit-print-drivers/"><u>Fixing the Issue: Stop Code When Running 32-Bit Print Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-brother-hl-2240-printer-software-for-optimal-performance-on-your-windows-machine/"><u>Get the Latest Brother HL-2240 Printer Software for Optimal Performance on Your Windows Machine!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-z-fold-5-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy Z Fold 5 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-skyward-haven-of-the-pennywise-clouds/"><u>In 2024, Skyward Haven of the Pennywise Clouds</u></a></li>
-<li><a href="https://common-error.techidaily.com/interface-issue-addressed/"><u>Interface Issue Addressed</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-ntoskrnlexe-for-better-performance-on-pc/"><u>Optimizing ntoskrnl.exe for Better Performance on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-to-resolve-your-pcs-ethernet-issues-on-microsoft-operating-systems-windows-11-and-7/"><u>Quick Fixes to Resolve Your PC's Ethernet Issues on Microsoft Operating Systems (Windows 11 & 7)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-steam-shop-errors-and-restoring-functionality-quickly/"><u>Troubleshooting the Steam Shop Errors and Restoring Functionality Quickly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-persistent-game-crashes-in-alien-fireteam-elite-on-windows-systems/"><u>Ultimate Fix for Persistent Game Crashes in Alien: Fireteam Elite on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-update-failed-to-install-solved/"><u>Windows 10 Update Failed to Install [SOLVED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-couldnt-be-installed-error-code-80240020-solved/"><u>Windows 11 Couldn't Be Installed Error Code 80240020 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-update-quandary-breaking-through-when-progress-halts-at-100/"><u>Windows Update Quandary - Breaking Through When Progress Halts at 100%</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-elite-4k-displays-for-high-fidelity-games/"><u>[New] 2024 Approved Elite 4K Displays for High-Fidelity Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-guide-to-crafting-professional-haul-videos/"><u>[Updated] Comprehensive Guide to Crafting Professional Haul Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-safe-online-video-conversion-from-youtube-to-mp4/"><u>[Updated] Safe Online Video Conversion - From YouTube to MP4</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expanding-your-audience-on-youtube-step-by-step/"><u>2024 Approved Expanding Your Audience on Youtube Step by Step</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversao-perfeita-de-dvds-em-formato-digital-os-melhores-metodos-da-moderna-tecnologia-atualizado-em-2023/"><u>Conversão Perfeita De DVDs Em Formato Digital: Os Melhores Métodos Da Moderna Tecnologia (Atualizado Em 2023)</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-windows-10-relentless-restarts-with-these-user-friendly-remedies/"><u>Defeat Windows 10 Relentless Restarts with These User-Friendly Remedies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhance-your-videos-call-to-action-a-step-by-step-filmora-guide-for-2024/"><u>Enhance Your Video's Call-to-Action A Step-by-Step Filmora Guide for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-review-the-best-software-programs-for-retrieving-lost-contacts-from-iphones/"><u>Expert Review: The Best Software Programs for Retrieving Lost Contacts From iPhones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exquisite-desktop-pcs-the-best-of-the-best-for-2024/"><u>Exquisite Desktop PCs The Best of the Best for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-computer-keeps-going-to-sleep-issue-easily/"><u>Fix Computer Keeps Going to Sleep Issue. Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-persistent-keyboard-delay-on-windows-10-ultimate-guide/"><u>Fixing Persistent Keyboard Delay on Windows 10 - Ultimate Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-audio-enhancement-issues-comprehensive-solutions/"><u>Fixing Windows Audio Enhancement Issues - Comprehensive Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-video-cards-glitchy-behavior-for-stable-minecraft-gameplay-in-windows/"><u>How to Fix Your Video Card's Glitchy Behavior for Stable Minecraft Gameplay in Windows</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-and-fixing-wrong-letter-typos-during-typing-sessions/"><u>Preventing and Fixing Wrong Letter Typos During Typing Sessions</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-erroneous-dll-in-steam/"><u>Repairing Erroneous Dll in Steam</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-functional-usb-to-hdmi-converters/"><u>Troubleshooting Guide: Fixing Non-Functional USB to HDMI Converters</u></a></li>
+<li><a href="https://common-error.techidaily.com/what-to-do-when-your-wi-fi-doesnt-show-up-on-windows-11-pc-expert-advice/"><u>What to Do When Your Wi-Fi Doesn't Show Up on Windows 11 PC: Expert Advice</u></a></li>
 </ul></div>
 

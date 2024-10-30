@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Obsidian Gaming Recording: Resolve Your Black Screen Trouble"
-date: 2024-10-23T19:08:05.123Z
-updated: 2024-10-24T19:38:38.571Z
+date: 2024-10-28T16:03:56.634Z
+updated: 2024-10-30T16:30:04.209Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 **[Bonus: Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Resize Chrome window
 
  According to some users, you can resize the Chrome window by clicking the**Restore Down** icon next to the Close button in the upper-right corner of Chrome.
@@ -46,6 +53,13 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-06_11-08-49.jpg)
 
  You should see the webpage again. Then you can adjust the edge of the window as you like. It’s a temporary fix, you might meet the issue again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Remove browser extensions
 
@@ -58,13 +72,6 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 4. Restart Chrome to check whether the issue is solved or not.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. If the issue is solved, you’ll know there is something wrong with at least one extension.
 6. Enable your installed extensions one by one to find which one is causing the problem. Then disable or remove it.
@@ -80,36 +87,22 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 1. Right-click on Chrome click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom0.jpg)
 2. On the Shortcuts tab, find Target. Add “`--disable-gpu` ” at the end of the text in the Target box. It should now read: …chrome.exe”`--disable-gpu` .  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : There’s a space after**exe”** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom01.jpg)
 3. Click**OK** and then run Google Chrome.
 4. Hit the three dots button in the upper right corner, then click**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom3.jpg)
 5. Click**Advanced** at the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Deselect “**Use hardware acceleration when available** .”![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom4.jpg)
 7. Run Google Chrome to check whether the issue is solved or not.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Method 3: Run Chrome as Compatibility mode
 
@@ -119,28 +112,28 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 2. In the Compatibility tab, click Run this program in compatibility mode for. Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click**OK** then run Google Chrome to check.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4: Update your Google Chrome
 
  Updating your Google Chrome to the latest version can help you solve many issues. You can use another browser and go to the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIm77Z45T%5F4QIV%5Fh-tBh3K6Qy6EAAYASAAEgJfh%5FD%5FBwE&gclsrc=aw.ds) to download the latest version and install it manually.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Reinstall your Google Chrome
 
@@ -153,6 +146,13 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 5. Install it manually and then check the issue is solved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: Update your graphics card driver
 
@@ -186,10 +186,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -216,20 +216,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-content-pc-video-editing-for-effective-youtube-presentations-for-2024/"><u>[New] Elevate Your Content PC Video Editing for Effective YouTube Presentations for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-decoding-music-copyright-rules-in-the-world-of-instagram/"><u>[Updated] Decoding Music Copyright Rules in the World of Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-you-encounter-a-missing-binkw32dll-error/"><u>Effective Solutions for When You Encounter a Missing binkw32.dll Error</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-digitize-dvds-software-solutions-and-user-friendly-techniques/"><u>How to Digitize DVDs: Software Solutions & User-Friendly Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unable-to-use-desktop-in-systemprofile-on-windows-pcs/"><u>How to Fix Unable to Use Desktop in SystemProfile on Windows PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-reset-your-pc-overcoming-errors-in-windows-10-guide/"><u>How to Successfully Reset Your PC: Overcoming Errors in Windows 10 [Guide]</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-broadcast-elegance-gamers-guide-to-using-obs/"><u>In 2024, Broadcast Elegance Gamers' Guide to Using OBS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-lava-blaze-2-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Lava Blaze 2 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/innovative-design-meets-expensive-reality-microsofts-studio-2-examined/"><u>Innovative Design Meets Expensive Reality: Microsoft's Studio 2 Examined</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-is-getting-ready-to-start-freeze-on-your-personal-computer/"><u>Overcoming 'Windows Is Getting Ready to Start' Freeze on Your Personal Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-stop-your-laptop-from-randomly-freezing-up/"><u>Step-by-Step Guide to Stop Your Laptop From Randomly Freezing Up</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-correcting-windows-driver-power-management-errors/"><u>Step-by-Step Tutorial: Correcting Windows Driver Power Management Errors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-asus-wifi-router-models-in-2/"><u>Top-Rated ASUS WiFi Router Models in 2</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-cannot-start-this-hardware-device-in-windows-11-with-registry-issues-error-19/"><u>Troubleshooting 'Windows Cannot Start This Hardware Device' In Windows 11 with Registry Issues - Error 19</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-transform-your-video-footage-shape-size-and-more/"><u>Updated 2024 Approved Transform Your Video Footage Shape, Size, and More</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-enhancing-instagram-presence-with-picture-borders/"><u>[New] Enhancing Instagram Presence with Picture Borders</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-10mac/"><u>高画質なまま小さい動画作り！Windows 10/Mac向け無料ソフトで容量圧縮方法</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/an-adventure-in-textures-in-depth-analysis-of-minecrafts-campfire-tales-pack/"><u>An Adventure in Textures: In-Depth Analysis of Minecraft's Campfire Tales Pack</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-ps4-ce-34878-0-error-proven-fixes-and-effective-strategies/"><u>Beat the PS4 CE-34878-0 Error: Proven Fixes and Effective Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-codegpt-does-this-innovative-software-actually-compose-quality-code/"><u>Deciphering CodeGPT: Does This Innovative Software Actually Compose Quality Code?</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-overcome-the-windows-10-update-failure-error-0x800705b4-explained-and-solved/"><u>Effective Strategies to Overcome the Windows 10 Update Failure: Error 0X800705b4 Explained and Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210594336-fixed-complete-guide-on-fixing-silent-forza-horizon-4-sounds-now-working/"><u>Fixed: Complete Guide on Fixing Silent Forza Horizon 4 - Sounds Now Working</u></a></li>
+<li><a href="https://techtrends.techidaily.com/head-to-head-comparison-iphone-15-pro-max-versus-samsung-s2e-ultra/"><u>Head-to-Head Comparison: IPhone 15 Pro Max Versus Samsung S2e Ultra</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unsupported-graphics-card-error-in-fortnite-on-windows/"><u>How to Fix 'Unsupported Graphics Card' Error in Fortnite on Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-prevent-thumbnail-absence-in-shorts-uploads/"><u>How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-logitech-brio-webcam-drivers-on-windows-1187-get-the-latest-version-today/"><u>Install Logitech BRIO Webcam Drivers on Windows 11/8/7: Get the Latest Version Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-source-not-supported-errors-in-microsofts-media-player/"><u>Overcoming Source Not Supported Errors in Microsoft's Media Player</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-10-update-issue-key-strategies-for-overcoming-error-0x800f0922/"><u>Solving Windows 10 Update Issue: Key Strategies for Overcoming Error 0X800F0922</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-function-keys-solutions-for-your-asus-laptop/"><u>Troubleshooting Non-Functional Function Keys: Solutions for Your ASUS Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/untangling-the-windows-10-update-mess-error-0xc1900208-fixed-here/"><u>Untangling the Windows 10 Update Mess - Error 0Xc1900208 Fixed Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-to-the-newest-amd-radeon-pro-w5700-drivers-for-windows-platforms/"><u>Upgrade to the Newest AMD Radeon Pro W5700 Drivers for Windows Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-does-my-pc-auto-start-a-comprehensive-solution-for-windows-10-users/"><u>Why Does My PC Auto-Start? A Comprehensive Solution for Windows 10 Users</u></a></li>
 </ul></div>
 

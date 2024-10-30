@@ -1,7 +1,7 @@
 ---
 title: Complete Solution for Non-Responsive Windows 11 System During Upgrades
-date: 2024-10-23T17:14:21.415Z
-updated: 2024-10-24T19:22:52.095Z
+date: 2024-10-26T18:08:01.952Z
+updated: 2024-10-30T16:46:39.303Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ The good news is, you can fix it easily!
  You can also click **Update** to do it for free if you like, but it’s partly manual
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
@@ -74,10 +74,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Locate and double-click on**Windows Audio** .  
@@ -85,14 +85,28 @@ To do so:
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
@@ -107,16 +121,17 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
  Click **Yes**   when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
@@ -131,20 +146,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
@@ -172,22 +180,19 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-a-visual-revolution-how-to-upgrade-your-snapchat-photos/"><u>[Updated] In 2024, A Visual Revolution How to Upgrade Your Snapchat Photos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-2019-game-changer-in-vegaspro/"><u>2024 Approved The 2019 Game-Changer in VegasPro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exposing-pseudo-authors-detecting-ai-written-pieces/"><u>Exposing Pseudo-Authors: Detecting AI Written Pieces</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209195588-fixing-unending-load-screens-in-skyrim-now-solved/"><u>Fixing Unending Load Screens in Skyrim - Now Solved!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo V29 Phone Without Password?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-engineer-eliciting-gags/"><u>In 2024, Engineer Eliciting Gags</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-technique-to-prevent-frequent-resets-on-your-windows-10-system/"><u>Mastering the Technique to Prevent Frequent Resets on Your Windows 10 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-challenge-effective-solutions-for-error-code-0x80070643-in-windows-updateinstallation/"><u>Overcome the Challenge: Effective Solutions for Error Code 0X80070643 in Windows Update/Installation</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolve-the-persistent-windows-update-error-code-0x80070652/"><u>Quick Solutions: Resolve the Persistent Windows Update Error Code 0X80070652</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-applicationexe-failed-to-run-issue-successfully/"><u>Resolving the 'Application.exe Failed to Run' Issue Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-wdf-for-improved-processor-resource-management/"><u>Troubleshooting WDF for Improved Processor Resource Management</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-compactness-on-a-budget-our-take-on-the-latest-microsoft-surface-laptop-go/"><u>Ultimate Compactness on a Budget: Our Take on the Latest Microsoft Surface Laptop Go</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-solution-resolving-the-dell-laptops-black-screen-problem-complete-tutorial/"><u>Ultimate Solution: Resolving the Dell Laptop's Black Screen Problem (Complete Tutorial)</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-microsoft-wireless-display-adapter-glitches-on-windows-11/"><u>Winning the Battle Against Microsoft Wireless Display Adapter Glitches on Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-8-free-instagram-to-mp4-converters-that-you-can-try-onlinewindowsmac/"><u>[Updated] 2024 Approved 8 Free Instagram to MP4 Converters That You Can Try [Online/Windows/Mac]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-chucklecraft-sign-up-now-and-laugh-later/"><u>[Updated] 2024 Approved ChuckleCraft Sign Up Now & Laugh Later</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-method-quick-erasure-of-youtube-comments-for-2024/"><u>[Updated] Cutting-Edge Method Quick Erasure of Youtube Comments for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-innovative-recorder-software-top-10-of-this-year/"><u>[Updated] In 2024, Innovative Recorder Software Top 10 of This Year</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/1726029303410-pc/"><u>不適切なビデオファイル処理：PCに取り込んだ動画が開かない時の解決策</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/broadcasting-with-a-history-live-transmission-of-pre-recorded-videos/"><u>Broadcasting with a History LIVE Transmission of Pre-Recorded Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-overcoming-issues-with-usb-mice-on-personal-computers/"><u>Expert Guide: Overcoming Issues With USB Mice on Personal Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-when-windows-10-wont-load-quick-fixes-for-a-smooth-startup/"><u>How to Recover When Windows 10 Won't Load: Quick Fixes for a Smooth Startup</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-the-d3d-device-initialization-failure-problem/"><u>How to Successfully Overcome the D3D Device Initialization Failure Problem</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-scripted-text-into-storytelling-magic/"><u>In 2024, Transform Scripted Text Into Storytelling Magic</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-vanishing-desktop-icons-on-windows-11-a-complete-guide/"><u>Resolving the Issue of Vanishing Desktop Icons on Windows 11 - A Complete Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/speech-recognition-made-accessible-transforming-audio-to-text-with-ease-in-microsoft-word-for-2024/"><u>Speech Recognition Made Accessible Transforming Audio to Text with Ease in Microsoft Word for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-your-lenovo-biometric-sensor-work-again/"><u>Troubleshooting Guide: Making Your Lenovo Biometric Sensor Work Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-post-monitor-connection-windows-lag-fixes/"><u>Troubleshooting Post-Monitor Connection: Windows Lag Fixes</u></a></li>
 </ul></div>
 

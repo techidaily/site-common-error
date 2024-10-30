@@ -1,7 +1,7 @@
 ---
 title: Noise Coming From Your PS4? Find Out Why and How You Can Repair It!
-date: 2024-09-09T08:55:03.438Z
-updated: 2024-09-10T08:55:03.438Z
+date: 2024-10-29T16:41:56.212Z
+updated: 2024-10-30T16:44:40.818Z
 tags:
   - win11
   - win10
@@ -28,12 +28,20 @@ Are you trying to install an application but receive an error message? Or are yo
  While it’s no harm to keep it because it’s a safe system file. But this file should be located at**C:\\Program Files\\Common Files\\Microsoft Shared\\VC\\msdia80.dll** . If you find it in other drives, you may need to be careful cause it could be the reason for the unsuccessful installation for your other application.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Try the two fixes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Install the Microsoft Visual C++ Packages
 
@@ -46,11 +54,12 @@ Are you trying to install an application but receive an error message? Or are yo
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Navigate to the file location, right-click on them and choose**Run as administrator** .
 
  4) After installation, reboot your computer to take effect. Then check your problem is fixed or not.
@@ -65,38 +74,21 @@ Are you trying to install an application but receive an error message? Or are yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Copy and paste**C:\\Program Files\\Common Files\\Microsoft Shared\\VC** into the address bar and press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/path.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) In this folder, right-click on the empty space and click**Paste** . Click**Continue** when you were asked for permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/permission.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Press the**Windows logo** key**\+ R** together on your keyboard to open the Run box.
 
  6) Type**cmd** and press the**Ctrl + Shift + Enter** key on your keyboard to**run as administrator** .
@@ -110,12 +102,6 @@ regsvr32 "C:\Program Files\Common Files\Microsoft Shared\VC\msdia80.dll"
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8) Restart your computer to take effect. Then check if your problem is solved or not.
 
 ---
@@ -130,8 +116,6 @@ regsvr32 "C:\Program Files\Common Files\Microsoft Shared\VC\msdia80.dll"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +123,16 @@ regsvr32 "C:\Program Files\Common Files\Microsoft Shared\VC\msdia80.dll"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-broken-dell-webcams-in-windows-environments/"><u>Comprehensive Solutions for Broken Dell Webcams in Windows Environments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-facilitee-des-dvd-proteges-gratuite-un-logiciel-pour-debloquer-la-contenu-video/"><u>Conversion Facilitee Des DVD-Proteges Gratuite - Un Logiciel Pour Débloquer La Contenu Vidéo</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-annoyance-of-constant-restarts-in-windows-10-with-these-steps/"><u>End the Annoyance of Constant Restarts in Windows 10 with These Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-corrupted-or-malfunctioning-image-files-in-windows-10-and-windows-11/"><u>Fix Corrupted or Malfunctioning Image Files in Windows 10 and Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-nubia-red-magic-8s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-troublesome-0x80072f8f-issue-on-windows-operating-systems/"><u>Step-by-Step Fixes for the Troublesome 0X80072F8F Issue on Windows Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-infinix-note-30i-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Infinix Note 30i? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

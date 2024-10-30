@@ -1,7 +1,7 @@
 ---
 title: Microsoft SmartScreen Outage - Why the Security Feature Is Down
-date: 2024-09-09T08:55:00.457Z
-updated: 2024-09-10T08:55:00.457Z
+date: 2024-10-26T16:47:22.024Z
+updated: 2024-10-30T17:26:26.086Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes Microsoft SmartScreen Outage - Why the Security 
 thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee2169bafa3b138dd4f9cdab2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Isn’t My Microsoft Surface Pro 4 Touch Screen Responding? Solve the Problem Here
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad4f7002d7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you are a Surface Pro 4 user, and the touch screen of your tablet can’t work, you are not alone. Many Surface Pro 4 users are reporting this. The good news is you can fix it. The article shows you four methods. You may not have to try them all; just work from the top down until you find the one that works.
 
  **Method 1: [Perform a two button shutdown](https://tools.techidaily.com/drivereasy/download/)**
@@ -50,12 +38,14 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 **4) Start** your device. Then try your touch screen and see if it can work.  
   
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Install system updates
 
  Your operating system may contain some defects that disable the touch screen of your device. You should verify that your system is updated, and install the system updates if it isn’t.
@@ -68,9 +58,23 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b63705ebce.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Restart your computer and check to see if this fixes your touch screen.  
   
@@ -94,18 +98,6 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
   
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Reset your Surface Pro 4
 
  Your touch screen not working issue may result from corrupted system on your tablet. You can try resetting your device to fix your system.
@@ -114,12 +106,6 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
@@ -128,22 +114,17 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c54ad3185f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c551f22061.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)**  Wait for your device to be reset completely. Then try your screen and see if it gets back to normal.
 
 * [Surface](https://tools.techidaily.com/drivereasy/download/)
@@ -154,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +142,19 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-grow-your-streams-money-potential-anywhere-on-devices/"><u>[Updated] 2024 Approved Grow Your Stream's Money Potential Anywhere on Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-effervescent-account-creation-series-for-2024/"><u>[Updated] Effervescent Account Creation Series for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-your-origin-app-to-work-again-on-win10-and-win11-systems/"><u>Getting Your Origin App to Work Again on Win10 and Win11 Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guida-completa-ai-migliori-applicazioni-per-registrare-lo-schermo-sul-pc-con-windows-versioni-10-8-7/"><u>Guida Completa Ai Migliori Applicazioni per Registrare Lo Schermo Sul PC Con Windows (Versioni 10, 8, 7)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-auto-gpt-setup-from-scratch/"><u>Guide: Auto-GPT Setup From Scratch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-add-music-to-facebook-profile-iphone-and-android/"><u>How to Add Music to Facebook Profile (iPhone & Android)？</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-stuck-keyboard-arrows-effective-troubleshooting-tips-inside/"><u>Overcome Stuck Keyboard Arrows - Effective Troubleshooting Tips Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/pc-boot-issues-heres-how-to-clear-up-getting-ready-for-windows-error-and-start-fresh/"><u>PC Boot Issues? Here's How to Clear Up 'Getting Ready for Windows' Error and Start Fresh</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-perpetual-waiting-solutions-for-stuck-steam-updates/"><u>Resolving the Perpetual Waiting: Solutions for Stuck Steam Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-driver-related-reboots-due-to-power-state-problems-in-windows-os/"><u>Troubleshooting and Repairing Driver-Related Reboots Due to Power State Problems in Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-persistent-0-windows-update-bug/"><u>Troubleshooting Guide for Persistent 0% Window's Update Bug</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-5-best-performing-mesh-network-systems-of-2024/"><u>Unveiling the 5 Best Performing Mesh Network Systems of 2024</u></a></li>
+</ul></div>
 

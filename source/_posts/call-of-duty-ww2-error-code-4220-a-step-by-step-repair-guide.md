@@ -1,7 +1,7 @@
 ---
 title: Call of Duty WW2 Error Code 4220 - A Step-by-Step Repair Guide
-date: 2024-09-09T08:55:02.734Z
-updated: 2024-09-10T08:55:02.734Z
+date: 2024-10-23T16:15:05.893Z
+updated: 2024-10-30T17:18:20.066Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Receive ERROR notice when playing CoD: WWII? Call of Duty World War 2 is one of 
 * [System requirements for PC players](https://tools.techidaily.com/drivereasy/download/)
 * [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart the device
 
  This fix sounds cliche but worth trying. Reboot your device could make things different. We suggest everyone try this first before any technical and complex fix.
@@ -40,11 +47,12 @@ Receive ERROR notice when playing CoD: WWII? Call of Duty World War 2 is one of 
 If the issue is still there, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Log on Zombie first
 
  If reboot your device and game don’t help, you can try logging into Zombies. This sounds wired, but it seems the Zombies mode is different from the others in connecting mechanisms. This mysterious fix works for many users and you could have a try.
@@ -89,27 +97,9 @@ Use a wired connection if you’re a PC player.
 2. Type **appwiz.cpl** , then press **Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right-click this game in the list and select **Uninstall** ).
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## System requirements for PC players
 
 #### Minimum requirements
@@ -149,11 +139,18 @@ Use a wired connection if you’re a PC player.
 | **Memory**           | 16 GB RAM                         |
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Update your driver
 
  It is very important to update your drivers, especially for gamers. To geta a better gaming experience, your device driver should be upgraded to the latest version. This can prevent your computer from potential problems.
@@ -172,21 +169,17 @@ Use a wired connection if you’re a PC player.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -201,8 +194,6 @@ Use a wired connection if you’re a PC player.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +201,24 @@ Use a wired connection if you’re a PC player.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-edit-efficiently-to-minimize-your-overflowing-drafter-points/"><u>[Updated] 2024 Approved Edit Efficiently to Minimize Your Overflowing Drafter' Points</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-fb-videos-made-quick-proximity-tricks-for-instant-uploaddownload-for-2024/"><u>[Updated] FB Videos Made Quick Proximity Tricks for Instant Upload/Download for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-art-of-memetic-mastery/"><u>[Updated] The Art of Memetic Mastery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-lost-internet-landscapes-a-beginners-handbook-on-harnessing-the-power-of-the-wayback-machine/"><u>Discover Lost Internet Landscapes: A Beginner's Handbook on Harnessing the Power of the Wayback Machine</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-7-ai-driven-tools-for-tackling-difficult-mathematics-with-ease/"><u>Discover the Best 7 AI-Driven Tools for Tackling Difficult Mathematics with Ease</u></a></li>
+<li><a href="https://facebook.techidaily.com/empowering-communities-through-online-platforms/"><u>Empowering Communities Through Online Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-establishing-a-stable-connection-between-xbox-one-and-xbox-live-services/"><u>Expert Tips for Establishing a Stable Connection Between Xbox One and Xbox Live Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-hp-laptop-keys-working-again-immediately/"><u>Expert Tips to Get Your HP Laptop Keys Working Again Immediately</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-touchscreen-in-windows-10-5-ways/"><u>How to Fix Your Touchscreen in Windows 10 [5 Ways]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apps-on-iphone-6-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apps on iPhone 6 Plus?</u></a></li>
+<li><a href="https://win-special.techidaily.com/in-depth-analysis-the-recent-microsoft-365-service-interruption-affecting-thousands-explained-cyberwise/"><u>In-Depth Analysis: The Recent Microsoft 365 Service Interruption Affecting Thousands Explained | CyberWise</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solution-for-change-rendering-api-problems-in-dota-2-error-2024/"><u>Quick Solution for 'Change Rendering API' Problems in Dota 2 - Error 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-bluetooth-not-found-problem-in-windows-11-step-by-step-guide/"><u>Solve the 'Bluetooth Not Found' Problem in Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/stay-safe-with-premium-storm-watcher-software-best-apps-available-in-202email-protected/"><u>Stay Safe with Premium Storm Watcher Software - Best Apps Available in 202([Email Protected])</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-reactivating-the-webcam-feature-on-a-lenovo-computer/"><u>Step-by-Step Guide: Reactivating the Webcam Feature on a Lenovo Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-keyboard-fails-to-register-inputs/"><u>Troubleshooting Steps - When Keyboard Fails to Register Inputs</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsuccessful-feature-installation-on-windows-n-11-version-1607-how-to-fix-it/"><u>Unsuccessful Feature Installation on Windows N 11 Version 1607: How to Fix It</u></a></li>
+</ul></div>
 

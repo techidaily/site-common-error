@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Windows 11 Won't Shut Down, Restarts Instead"
-date: 2024-10-21T19:54:23.843Z
-updated: 2024-10-24T22:55:31.883Z
+date: 2024-10-26T17:47:47.976Z
+updated: 2024-10-30T17:10:46.869Z
 tags:
   - win11
   - win10
@@ -53,26 +53,19 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system. (Note: Upon selecting the ‘Update All’ option, you will be asked to upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . A 7-day free trial, including all Pro features like high-speed download and one-click install, is available if you’re not ready for the Pro version yet. Rest assured, you won’t incur any charges until after the 7-day trial.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Check to see if your computer still freezes randomly after updating the drivers. If the problem persists, you know your drivers weren’t to blame, and you should try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Clear your computer’s temp files
 
@@ -82,9 +75,23 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a4d089b3e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Select all the files in the Temp folder and delete them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a52e5c1ac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If Windows 10 is still randomly freezing after clearing your temp files, try the next fix.
 
@@ -106,9 +113,29 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d6d0a83c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376da7f418e.png)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Select your windows drive (the hard drive or partition that has Windows installed on it – usually **C:** )**,** and enter an Initial size and Maximum size for your virtual memory:
 
@@ -163,10 +190,10 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/user-account-control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) In the black Command Prompt window, type:
@@ -184,16 +211,10 @@ sfc /scannow
 ---
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 5: Run a memory check**
@@ -212,13 +233,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb698e7b6b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t see any errors here, your memory card probably isn’t the problem, and you should try the next fix.
 
 ---
@@ -233,6 +247,19 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a917ba7f6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate the hard drive you’d like to check, right-click on it and choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9834949e.png)
@@ -241,23 +268,9 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9a940e55.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) If your hard disk drive is problem-free, you’ll see this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb70907dd5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This suggests your hard disk is NOT the problem, and you can move on to the next fix below.
 
@@ -286,13 +299,6 @@ sfc /scannow
  After changing these settings, save and exit the BIOS settings as per the instructions on your screen, then restart your computer again.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 8: Switch to ChromeOS
 
@@ -339,24 +345,16 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-picture-perfect-in-the-sky-free-and-paid-cloud-solutions-reviewed/"><u>[New] Picture Perfect in the Sky Free & Paid Cloud Solutions Reviewed</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x887a0006-cracked-effective-fixes-at-your-fingertps/"><u>Error 0X887A0006 Cracked: Effective Fixes at Your Fingertps</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-a-non-responsive-steam-store-interface/"><u>Expert Tips for Fixing a Non-Responsive Steam Store Interface</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-does-my-minecraft-not-start-on-windows/"><u>Fixing the Issue: Why Does My Minecraft Not Start on Windows?</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-resolving-non-responsive-shutdown-situations-in-windows-10-systems/"><u>Guide To Resolving Non-Responsive Shutdown Situations in Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-enable-biometric-authentication-with-windows-hello-on-windows-11-systems/"><u>How to Enable Biometric Authentication with Windows Hello on Windows 11 Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-register-missing-classes-in-windows-10-effective-fixes/"><u>How to Register Missing Classes in Windows 10 - Effective Fixes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-tecno-camon-20-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Tecno Camon 20? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-m34-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy M34</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/play-flv-videos-effortlessly-on-windows-11-top-3-methods-revealed/"><u>Play FLV Videos Effortlessly on Windows 11 - Top 3 Methods Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-pcs-performance-by-installing-required-media-drivers/"><u>Revive Your PC's Performance by Installing Required Media Drivers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-y77t-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo Y77t with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-troubleshooting-why-teredo-tunneling-fails/"><u>Solved: Troubleshooting Why Teredo Tunneling Fails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-combat-low-usb-controller-space/"><u>Strategies to Combat Low USB Controller Space</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/tips-and-tricks-untuk-mempercepat-folder-akses-dan-menyembuhkan-file-explorer-gagal-di-windows-10/"><u>Tips & Tricks Untuk Mempercepat Folder Akses Dan Menyembuhkan File Explorer Gagal Di Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-strategies-how-chatgpt-boosts-your-cryptocurrency-investments/"><u>Top 5 Strategies: How ChatGPT Boosts Your Cryptocurrency Investments</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-obs-capture-problem-eliminate-the-annoying-black-screen-now/"><u>Troubleshooting OBS Capture Problem - Eliminate the Annoying Black Screen Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-magic-6-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor Magic 6 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-uploading-and-sharing-gifs-on-instagram-step-by-step-approach/"><u>[Updated] Uploading & Sharing GIFs on Instagram Step-by-Step Approach</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevating-home-cinema-in-depth-analysis-of-the-lg-65-oled-c9-for-aficionados-and-techies/"><u>Elevating Home Cinema: In-Depth Analysis of the LG 65 OLED C9 for Aficionados and Techies</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-solving-disconnected-media-issues-on-windows-systems/"><u>Expert Advice: Solving Disconnected Media Issues on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-handle-and-correct-installation-problems-with-your-steam-games/"><u>How to Handle and Correct Installation Problems with Your Steam Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pixel-perfection-best-video-cameras-for-extended-recording-times/"><u>In 2024, Pixel Perfection Best Video Cameras for Extended Recording Times</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-camera-drivers-on-various-windows-versions-download-for-win11-10-8-7/"><u>Installing Camera Drivers on Various Windows Versions - Download for Win11, 10, 8, 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/mouse-cursor-disappears-on-windows-10-solved/"><u>Mouse Cursor Disappears on Windows 10 [Solved]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/professional-techniques-for-streaming-and-recording-league-of-legends-for-2024/"><u>Professional Techniques for Streaming and Recording League of Legends for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-windows-10-missing-bluetooth-problem-swiftly-and-with-simple-fixes/"><u>Resolve the 'Windows 10 Missing Bluetooth' Problem Swiftly and with Simple Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-25-freemium-image-editors-of-2024-programs-and-applications/"><u>Top 25 Freemium Image Editors of 2024: Programs & Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-the-infamous-error-1068-on-your-pc-detailed-fixes/"><u>Troubleshoot and Resolve the Infamous Error 1068 on Your PC - Detailed Fixes</u></a></li>
 </ul></div>
 

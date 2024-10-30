@@ -1,7 +1,7 @@
 ---
 title: 5 Effective Solutions for Troubleshooting Continuous Reboots in Windows 11
-date: 2024-10-23T16:09:33.203Z
-updated: 2024-10-24T22:12:02.735Z
+date: 2024-10-25T17:08:12.093Z
+updated: 2024-10-30T16:49:39.979Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -53,13 +53,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -77,28 +70,29 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -111,6 +105,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -118,6 +120,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -128,13 +137,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -159,21 +161,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-explore-revolutionary-meeting-platforms-that-cost-nothing/"><u>[Updated] Explore Revolutionary Meeting Platforms That Cost Nothing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-gaming-giants-tussle-with-video-powerhouse-youtube/"><u>[Updated] In 2024, The Gaming Giant's Tussle with Video Powerhouse YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-a18-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo A18? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/critical-considerations-before-investing-in-a-new-dash-cam-device/"><u>Critical Considerations Before Investing in a New Dash Cam Device</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-magic-v2-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Magic V2</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/effortless-data-retrieval-stellars-mac-interaction/"><u>Effortless Data Retrieval - Stellar's Mac Interaction</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-frozen-screen-top-tips-for-dealing-with-windows-10-freezes/"><u>Fixing a Frozen Screen: Top Tips for Dealing with Windows 10 Freezes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-quiet-your-playstation-4-diagnosing-and-repairing-louder-than-usual-fan-sounds/"><u>How to Quiet Your PlayStation 4: Diagnosing and Repairing Louder-Than-Usual Fan Sounds</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-non-functional-speakers-in-windows-11-solutions-inside/"><u>How to Troubleshoot Non-Functional Speakers in Windows 11 – Solutions Inside</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigate-to-success-the-insiders-guide-to-adding-times/"><u>In 2024, Navigate to Success The Insider's Guide to Adding Times</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-problems-with-starting-a-hosted-network-in-windows-11-solutions-and-guidance/"><u>Overcoming Problems with Starting a Hosted Network in Windows 11: Solutions and Guidance</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-overcoming-heathstone-game-lags/"><u>Quick Solutions for Overcoming Heathstone Game Lags</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-elevated-cpu-consumption-in-system-idle-process-a-comprehensive-guide/"><u>Resolving Elevated CPU Consumption in System Idle Process: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/safe-and-reliable-your-guide-to-downloading-sades-headset-drivers-compatible-with-all-windows-versions/"><u>Safe and Reliable - Your Guide to Downloading Sades Headset Drivers Compatible with All Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-no-pentouch-issues-on-your-monitor/"><u>Troubleshooting Guide: Overcoming 'No Pen/Touch' Issues on Your Monitor</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-windows-error-0x80n04cf/"><u>Troubleshooting Tips for Fixing Windows Error 0X80n04CF</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-overcoming-the-noise-barrier-twitter-vids-without-sounds-for-2024/"><u>[New] Overcoming the Noise Barrier Twitter Vids Without Sounds for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-optimal-ppt-presentation-capture-methods-for-2024/"><u>[Updated] Optimal PPT Presentation Capture Methods for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-insights-from-the-desk-of-tom-at-techvanguard/"><u>Advanced PC Insights From the Desk of Tom at TechVanguard</u></a></li>
+<li><a href="https://common-error.techidaily.com/blaring-success-story-pcplusheadphones-connection-restored/"><u>Blaring Success Story: PC+Headphones Connection Restored</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-24-a-step-by-step-solution-for-missing-devices-in-windows-10-8-and-7/"><u>Error Code 24 - A Step-by-Step Solution for Missing Devices in Windows 10, 8 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-strategies-to-restore-functionality-of-mic-on-playstation-4-console/"><u>Expert Strategies to Restore Functionality of Mic on PlayStation 4 Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-sims-4-opening-errors-quick-and-effective-solutions/"><u>Fixes for Sims 4 Opening Errors - Quick and Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-lag-woes-pro-tips-for-smooth-gameplay-in-fallout/"><u>Fixing Lag Woes: Pro Tips for Smooth Gameplay in Fallout</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-streamline-the-integration-of-youtube-playlists-into-a-sites-layout-for-2024/"><u>How To Streamline the Integration of YouTube Playlists Into a Site's Layout for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-y78-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo Y78 5G Without PUK Codes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/navigating-the-nuances-of-snapchat-spotlight-for-2024/"><u>Navigating the Nuances of Snapchat Spotlight for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-why-teredo-tunneling-fails-to-establish-a-connection/"><u>Resolved: Why Teredo Tunneling Fails to Establish a Connection</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-disabled-wi-fi-functionality-a-comprehensive-guide/"><u>Resolving Issues with Disabled Wi-Fi Functionality: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-print-screen-failure-in-windows-10-and-windows-11-operating-systems/"><u>Resolving Print Screen Failure in Windows 10 and Windows 11 Operating Systems</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-instructions-for-ipodiphone-users-streaming-songs-through-facetime-in-ios-evolution/"><u>Step-by-Step Instructions for iPod/iPhone Users: Streaming Songs Through Facetime in iOS Evolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-utilizing-live-photo-functionality-with-ios-16/"><u>Step-by-Step Instructions for Utilizing Live Photo Functionality with iOS 16</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-overcoming-user-profile-service-breakdown-in-windows-11-login-process/"><u>Step-by-Step Tutorial: Overcoming 'User Profile Service' Breakdown in Windows 11 Login Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/technical-guide-to-optimal-playability-why-your-pc-must-have-a-d3d11-graphics-card-compatibility-to-run-the-engine-flawlessly/"><u>Technical Guide to Optimal Playability: Why Your PC Must Have a D3D11 Graphics Card Compatibility to Run the Engine Flawlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-at-windows-11-essential-tweaks-to-elevate-your-gaming-capabilities/"><u>Winning at Windows 11: Essential Tweaks to Elevate Your Gaming Capabilities</u></a></li>
 </ul></div>
 

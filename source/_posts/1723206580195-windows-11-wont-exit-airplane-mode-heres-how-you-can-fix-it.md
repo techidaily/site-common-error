@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Won't Exit Airplane Mode? Here's How You Can Fix It
-date: 2024-10-23T18:33:56.504Z
-updated: 2024-10-24T21:00:45.805Z
+date: 2024-10-29T17:57:06.988Z
+updated: 2024-10-30T18:19:11.815Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 4. **[Flush DNS cache](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Turn off airplane mode
 
  Before going about troubleshooting the Windows 10 stuck in airplane mode problem, let’s get one simple question out of the way: is your computer really STUCK in the airplane mode?
@@ -68,10 +61,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-112.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Action Center doesn’t appear on your desktop? Please try**Way 3** .
@@ -85,21 +78,7 @@ Here is how to do it:
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type**airplane mode** . Then click on**Airplane mode** as it pops up as a match.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-108.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure to switch_off_ the toggle for Airplane mode.
 
@@ -109,6 +88,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable power saving
 
  Your computer may get stuck in airplane mode if the power saving mode is enabled. Make sure to turn it off to see if it fixes the issue.
@@ -117,14 +103,14 @@ Here is how to do it:
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type**devmgmt.msc** and press**Enter** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-86.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-86.png)
 
  2) Double-click on the**Network adapters** category and then**your wireless adapter** .
 
@@ -139,6 +125,13 @@ Here is how to do it:
 5) Check to see if you can get back online on your computer. If yes, then great! If it’s not working, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Enable Radio Management Service
 
@@ -163,6 +156,13 @@ Here is how to do it:
 5) Check to see if the computer stuck on airplane mode problem is solved. If yes, then congrats! If the issue persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Flush DNS cache
 
@@ -216,26 +216,26 @@ Here is a step-by-step walk-through:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-174.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click **Offline Scan** . Then select **Offline Scan (on the computer without Internet access)** and click **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-175.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click **Browse…** , then choose a destination folder in your computer to save the offline scan file. After that, click **Offline Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-176.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) A window will pop up telling you that the offline scan file has been saved. Click **OK**  to confirm.
 
@@ -253,22 +253,16 @@ Here is a step-by-step walk-through:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-178.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  11) Click **Browse…**  to locate the offline scan file. Then click **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-179.png)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  12) Click the **Download** button next to your WiFi driver.
 
@@ -304,21 +298,16 @@ Here is a step-by-step walk-through:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-selfie-showstoppers-adding-whimsy-with-the-cartoon-lens/"><u>[New] In 2024, Selfie Showstoppers Adding Whimsy with the Cartoon Lens</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streamers-selection-most-popular-livestream-software-and-devices/"><u>[New] Streamer's Selection Most Popular Livestream Software and Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-high-cpu-spikes-in-windows-tamed-by-stops/"><u>[RESOLVED] High CPU Spikes in Windows Tamed by Stops</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-construct-share-worthy-graphics-on-giphy-for-2024/"><u>[Updated] Construct Share-Worthy Graphics on Giphy for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-6-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 6 Plus Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-90-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor 90 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212196629-aoc-monitor-not-responding-heres-your-ultimate-guide-for-windows-10-users/"><u>AOC Monitor Not Responding? Here's Your Ultimate Guide for Windows 10 Users!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/apple-watch-variants-explored-navigating-with-gps-or-opting-for-cellular-service/"><u>Apple Watch Variants Explored: Navigating with GPS or Opting for Cellular Service</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-the-subtle-charms-in-vixias-compact-camcorder/"><u>Discovering the Subtle Charms in VIXIA’s Compact Camcorder</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oppo-reno-10-proplus-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Oppo Reno 10 Pro+ 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-svchostexe-from-using-too-much-cpu-power-on-your-windows-11-pc/"><u>How to Stop svchost.exe From Using Too Much CPU Power on Your Windows 11 PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-effortless-transition-zip-to-subrip-srt-formatting/"><u>In 2024, Effortless Transition ZIP to SubRip (SRT) Formatting</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-2024-fixes-expert-tips-on-overcoming-startup-problems-and-getting-back-into-battle/"><u>PUBG 2024 Fixes: Expert Tips on Overcoming Startup Problems and Getting Back Into Battle</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-fix-absence-of-wi-fi-network-option-in-windows-11-interface/"><u>Solution: Fix - Absence of Wi-Fi Network Option in Windows 11 Interface</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-keyboard-and-mouse-problems-in-widows-7/"><u>Troubleshooting Non-Responsive Keyboard & Mouse Problems in Widows 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-non-charging-surface-device-solutions-inside/"><u>Troubleshooting Your Non-Charging Surface Device - Solutions Inside</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-exploring-essential-gif-sources-for-latest-iphones-for-2024/"><u>[Updated] Exploring Essential GIF Sources for Latest iPhones for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-common-mishaps-encountered-when-updating-your-steam-titles/"><u>Correcting Common Mishaps Encountered When Updating Your Steam Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-correcting-error-0x80004004-on-defender/"><u>Deciphering and Correcting Error 0X80004004 on Defender</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhanced-fixes-when-system-resources-are-overstretched/"><u>Enhanced Fixes When System Resources Are Overstretched</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/explore-mastery-in-photography-and-videography-on-apple-and-android-phones/"><u>Explore Mastery in Photography & Videography on Apple & Android Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-netflix-errors-steps-to-get-your-streaming-up-and-running-again/"><u>Fixing Netflix Errors: Steps to Get Your Streaming Up and Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-resolve-unable-to-boot-error-on-your-pc/"><u>Fixing the Issue: How to Resolve 'Unable to Boot' Error on Your PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nokia-c110-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nokia C110 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-minecraft-slowdown-expert-solutions-for-smooth-gaming/"><u>Resolve Your Minecraft Slowdown: Expert Solutions for Smooth Gaming</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transform-your-unsubscribe-strategy-expert-tips-for-crafting-the-ideal-user-departure-journey-using-massmail-tech/"><u>Transform Your Unsubscribe Strategy: Expert Tips for Crafting the Ideal User Departure Journey Using MassMail Tech</u></a></li>
 </ul></div>
 

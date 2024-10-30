@@ -1,7 +1,7 @@
 ---
 title: Fixes for When You Can't Start Minecraft on Your PC
-date: 2024-10-23T18:02:22.153Z
-updated: 2024-10-24T22:47:59.877Z
+date: 2024-10-24T18:06:23.098Z
+updated: 2024-10-30T17:48:15.116Z
 tags:
   - win11
   - win10
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Update the graphics card driver
@@ -74,32 +74,11 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 3: Disable the screen saver
 
@@ -113,6 +92,14 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 2. Type**lock screen settings** in the search bar and select**Lock screen settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
@@ -124,20 +111,28 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 2. **View by Category** , and click**Appearance and Personalization** (In some cases, this could be**Appearance** .).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
-4. Set**Screen saver** to**None** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
+4. Set**Screen saver** to**None** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
@@ -156,6 +151,14 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
@@ -171,17 +174,18 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
 
@@ -206,21 +210,19 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-guide-to-trending-hashtags-on-instagram-for-2024/"><u>[New] The Ultimate Guide to Trending Hashtags on Instagram for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-knowledge-exchange-the-fundamentals-of-transfer-learning/"><u>AI Knowledge Exchange: The Fundamentals of Transfer Learning</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-common-display-issues-how-to-deal-with-input-not-supported-warnings/"><u>Fixing Common Display Issues: How to Deal with 'Input Not Supported' Warnings</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-10-brightness-dysfunctionality-issues-efficiently/"><u>Fixing Windows 10 Brightness Dysfunctionality Issues Efficiently</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-your-disappeared-sound-levels-icon-in-windows-11-with-images/"><u>How to Restore Your Disappeared Sound Levels Icon in Windows 11 with Images</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-enhancing-your-multi-task-experience-pip-in-safari-guide/"><u>In 2024, Enhancing Your Multi-Task Experience PIP in Safari Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/introducing-the-future-of-typing-microsoft-copilot-ai-enhances-keyboard-experience/"><u>Introducing the Future of Typing: Microsoft Copilot AI Enhances Keyboard Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-airpod-connectivity-prevents-automatic-linking-between-multiple-mac-devices/"><u>Mastering AirPod Connectivity: Prevents Automatic Linking Between Multiple Mac Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-fixing-msvcp140dll-missing/"><u>Mastering the Art of Fixing MSVCP140.dll Missing</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-laptop-mouse-locks-up-a-comprehensive-guide/"><u>Quick Fixes for When Your Laptop Mouse Locks Up – A Comprehensive Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2003-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2003 Files for Free | Stellar</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-video-file-cant-play-error-224003/"><u>Resolved: Fixing 'Video File Can't Play - Error 224003'</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranking-4k-television-models-a-comprehensive-guide/"><u>Top-Ranking 4K Television Models - A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-windows-11-when-hosted-wi-fi-doesnt-activate/"><u>Troubleshooting Steps for Windows 11 When Hosted Wi-Fi Doesn't Activate</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-motorola-g24-powers-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Motorola G24 Powers Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-financial-insights-how-much-does-pewdopeep-make/"><u>[Updated] Financial Insights How Much Does PewDoPeep Make?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-innovative-12-motion-cameras-with-integrated-global-positioning/"><u>[Updated] In 2024, Innovative 12 Motion Cameras with Integrated Global Positioning</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-video-calls-that-protect-our-selection-of-the-best-free-secure-applications-for-mobile-tech/"><u>[Updated] In 2024, Video Calls That Protect Our Selection of the Best Free, Secure Applications for Mobile Tech</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1728506554788-windows-111087/"><u>安心して保管!Windows 11・10・8・7ではじめるデータのオフサイトバックアップ方法</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211846096-complete-guide-to-resolving-ps4-network-problems-fixed-nat-explained/"><u>Complete Guide to Resolving PS4 Network Problems – Fixed NAT Explained!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-xs-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone XS and iPad</u></a></li>
+<li><a href="https://common-error.techidaily.com/installation-issue-no-hardware-drivers-detected-on-windows-7-a-comprehensive-fix-guide/"><u>Installation Issue: No Hardware Drivers Detected on Windows 7 – A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-connectivity-an-authoritative-review-of-the-amazonbasics-7-port-usb-30-hub-for-optimal-performance/"><u>Mastering Connectivity: An Authoritative Review of the AmazonBasics 7-Port USB 3.0 Hub for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-remedies-to-address-failed-pc-resets-on-windows-11-expert-advice-shared/"><u>Step-by-Step Remedies to Address Failed PC Resets on Windows 11 – Expert Advice Shared</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-movie-color-correction-through-luts-application-for-2024/"><u>Streamlining Movie Color Correction Through Luts Application for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-pubg-startup-issues-expert-solutions-launch-problems/"><u>Troubleshooting and Fixing PUBG Startup Issues - Expert Solutions Launch Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-keyboard-backlit-diagnosing-and-repairing-on-macwindows-systems/"><u>Why Isn't My Keyboard Backlit? Diagnosing and Repairing on Mac/Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/wifi-network-not-showing-up-on-computer-best-fixes/"><u>WiFi Network Not Showing Up on Computer [Best Fixes]</u></a></li>
 </ul></div>
 

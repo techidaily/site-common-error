@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Troubleshooting Techniques to Address Persistent Freezing in Computers
-date: 2024-10-18T18:32:01.475Z
-updated: 2024-10-24T16:41:20.767Z
+date: 2024-10-28T17:51:43.118Z
+updated: 2024-10-30T16:02:52.106Z
 tags:
   - win11
   - win10
@@ -60,18 +60,18 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -83,32 +83,26 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
@@ -120,10 +114,10 @@ To make sure you’ve this setting disabled:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
@@ -142,16 +136,16 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -177,19 +171,16 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-comparative-study-twitch-and-youtube-in-streaming-land/"><u>[New] 2024 Approved Comparative Study Twitch & YouTube in Streaming Land</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-loop-like-a-pro-detailed-methods-for-youtube-enthusiasts/"><u>[New] 2024 Approved Loop Like a Pro Detailed Methods for YouTube Enthusiasts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-revealing-10-hidden-viewers-of-stories/"><u>2024 Approved Revealing 10 Hidden Viewers of Stories</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-bluetooth-mouse-working-again-on-a-windows-machine/"><u>Expert Tips to Get Your Bluetooth Mouse Working Again on a Windows Machine</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/ideale-migrationssoftware-von-lenovo-fur-ein-reibungsloses-umstellen-auf-windows-11-10-8-oder-nativ/"><u>Ideale Migrationssoftware Von Lenovo Für Ein Reibungsloses Umstellen Auf Windows 11, 10, 8 Oder Nativ</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-kernel-has-stopped-working-problem-on-lol-pvpnet-patcher-easily/"><u>Overcoming the 'Kernel Has Stopped Working' Problem on LOL PvP.net Patcher Easily</u></a></li>
-<li><a href="https://facebook.techidaily.com/report-facebook-users-are-buying-300-oculus-quest-2-headsets-to-reset-hacked-accounts/"><u>Report: Facebook Users Are Buying $300 Oculus Quest 2 Headsets to Reset Hacked Accounts</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s23-ultra-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy S23 Ultra can't play MP4 video files</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-key-to-unlocking-trustedinstaller-rights-how-to-modify-system-files-successfully/"><u>The Key to Unlocking TrustedInstaller Rights: How to Modify System Files Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-notorious-0x80072efd-error-in-windows-10/"><u>Troubleshooting and Fixing the Notorious 0X80072EFD Error in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-disk-space-consumption-by-microsofts-telemetry-on-windows-11/"><u>Troubleshooting Excessive Disk Space Consumption by Microsoft's Telemetry on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-understanding-and-resolving-blue-screen-stop-errors/"><u>Ultimate Guide to Understanding and Resolving Blue Screen Stop Errors</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unleash-your-creativity-top-rated-stop-motion-apps-for-mobile/"><u>Updated In 2024, Unleash Your Creativity Top-Rated Stop Motion Apps for Mobile</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-next-gen-psvr-experience-essential-upcoming-games-to-watch-for-2024/"><u>[New] Next Gen PSVR Experience Essential Upcoming Games to Watch for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-2024-elite-camcorders-best-buy-guide/"><u>[Updated] The 2024 Elite Camcorders - Best Buy Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-ntoskrnlexe-overuse-on-windows-systems/"><u>Addressing ntoskrnl.exe Overuse on Windows Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empower-your-job-quest-with-chatgpt-tips/"><u>Empower Your Job Quest with ChatGPT Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-corrupted-fixservice-installations-on-windows-11/"><u>How to Correct Corrupted FixService Installations on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-compreeved-analysis-a-full-review-of-the-gecata-device/"><u>In 2024, Compreeved Analysis A Full Review of the Gecata Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/masterful-techniques-to-repair-non-functional-control-alternate-delete-shortcuts/"><u>Masterful Techniques to Repair Non-Functional Control, Alternate, Delete Shortcuts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-bring-your-photos-to-life-the-top-animation-software-for-2024/"><u>New Bring Your Photos to Life The Top Animation Software for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/privacy-protection-plan-reject-these-invasive-apps/"><u>Privacy Protection Plan: Reject These Invasive Apps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-solution-for-fixing-hp-p2035-printer-driver-glitches-in-windows/"><u>Step-by-Step Solution for Fixing HP P2035 Printer Driver Glitches in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-repairing-missing-d3dxx939dll-error-on-your-pc/"><u>Troubleshooting Tips: Repairing 'Missing d3dxx9_39.dll' Error on Your PC</u></a></li>
 </ul></div>
 

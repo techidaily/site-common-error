@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Stuck Keyboard Arrows: Essential Solutions"
-date: 2024-10-17T18:50:54.327Z
-updated: 2024-10-24T18:44:02.807Z
+date: 2024-10-27T16:43:02.264Z
+updated: 2024-10-30T16:36:03.967Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/579cb7fea2e3fcda2d744239cd461eaad31f6bb8c
 
  After confirming that your hardware is not the problem, check out the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -58,35 +65,36 @@ thumbnail: https://thmb.techidaily.com/579cb7fea2e3fcda2d744239cd461eaad31f6bb8c
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -99,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/579cb7fea2e3fcda2d744239cd461eaad31f6bb8c
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
@@ -137,17 +138,18 @@ If this method didn’t work for you, check out the last fix.
 1. On your keyboard, press the**Window logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -156,15 +158,15 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -187,15 +189,24 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-launch-day-calculus-for-successful-podcasts/"><u>2024 Approved Launch Day Calculus for Successful Podcasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/astro-a40-microphone-problem-solved-step-by-step-guide/"><u>Astro A40 Microphone Problem Solved – Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-obstacles-hindering-discord-setup-success/"><u>Eliminating Obstacles Hindering Discord Setup Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-network-error-code-0x800704cf-a-comprehensive-guide/"><u>How to Fix Windows Network Error Code 0X800704CF: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-the-broken-windows-key-functionality-in-windows-11-expert-tips-and-tricks/"><u>How to Repair the Broken Windows Key Functionality in Windows 11: Expert Tips and Tricks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-the-perfect-youtube-conclusion-for-engagement/"><u>In 2024, Tailoring the Perfect YouTube Conclusion for Engagement</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/precision-conversion-hub-top-10-online-audio-devices/"><u>Precision Conversion Hub Top 10 Online Audio Devices</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/quick-guide-build-a-windows-server-2019-recovery-drive-using-a-flash-drive/"><u>Quick Guide: Build a Windows Server 2019 Recovery Drive Using a Flash Drive</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-update-problems-for-a-smooth-computer-experience/"><u>Solving Windows Update Problems for a Smooth Computer Experience</u></a></li>
-<li><a href="https://fox-links.techidaily.com/under-100-investments-in-action-cameras-top-selections-for-2024/"><u>Under $100 Investments in Action Cameras – Top Selections for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-audio-amplification-for-impressive-instagram-reels/"><u>[New] 2024 Approved Audio Amplification for Impressive Instagram Reels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-ultimate-list-of-leading-real-time-tv-streamers-compared/"><u>[New] 2024 Approved Ultimate List of Leading Real-Time TV Streamers Compared</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-top-facebook-song-videos-unveiled-a-making-of-chronicle-for-2024/"><u>[New] Top Facebook Song Videos Unveiled A Making-Of Chronicle for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-determining-film-production-price-points/"><u>2024 Approved Determining Film Production Price Points</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-resolving-issues-with-your-lenovos-fingerprint-sensor/"><u>Effortless Solutions: Resolving Issues with Your Lenovo's Fingerprint Sensor</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-dealing-with-malfunctioning-delete-keys-on-computers-and-phones/"><u>Expert Advice: Dealing with Malfunctioning Delete Keys on Computers and Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-call-of-duty-ww2-error-code-4220-step-by-step-instructions/"><u>Fixing the 'Call of Duty: WW2' Error Code #4220 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-nba-2k21-viridian-glitch-guide-updated/"><u>How to Overcome the NBA 2K21 Viridian Glitch – Guide Updated</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-zte-axon-40-lite-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your ZTE Axon 40 Lite Is Unlocked</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-12-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi 12 Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-desktop-window-manager-performance-lower-gpu-usage-in-windows-11/"><u>Mastering Desktop Window Manager Performance: Lower GPU Usage in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204182212-resolving-your-systems-diagnostics-policy-service-problem-today/"><u>Resolving Your System's Diagnostics Policy Service Problem Today!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10-best-flvto-alternatives-youtube-converter-you-can-try-for-2024/"><u>Top 10 Best Flvto Alternatives YouTube Converter You Can Try for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-a1x-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo A1x 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-unresponsive-right-click-on-a-windows-11-pc/"><u>Troubleshooting the Unresponsive Right-Click on a Windows 11 PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-11-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 11 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-how-to-troubleshoot-and-repair-your-ps4-microphone-issues/"><u>Ultimate Guide: How To Troubleshoot and Repair Your PS4 Microphone Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-11-no-display-problem/"><u>Ultimate Guide: Resolving the Windows 11 No Display Problem</u></a></li>
 </ul></div>
 
