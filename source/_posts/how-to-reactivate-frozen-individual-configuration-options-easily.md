@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate Frozen Individual Configuration Options Easily
-date: 2024-10-27T16:36:43.193Z
-updated: 2024-10-30T18:16:28.170Z
+date: 2024-11-03T03:10:34.017Z
+updated: 2024-11-04T23:42:24.613Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
@@ -79,27 +79,7 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -131,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this method didn’t work for you, check out the last fix.
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -144,10 +131,10 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
@@ -156,10 +143,10 @@ If this method didn’t work for you, check out the last fix.
 4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -168,6 +155,14 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
@@ -192,22 +187,22 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-mastering-youtube-thumbnails-with-ease/"><u>[Updated] 2024 Approved Mastering YouTube Thumbnails with Ease</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-insights-how-to-communicate-effectively-with-viewers/"><u>[Updated] Unlocking Insights How to Communicate Effectively with Viewers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-wave-weaver-toolkit/"><u>[Updated] Wave Weaver Toolkit</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1728485288891-ssdhddwindows-111087/"><u>効率的なSSDへのHDDクローニング：Windows 11・10・8・7で手順</u></a></li>
-<li><a href="https://article-files.techidaily.com/a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
-<li><a href="https://common-error.techidaily.com/banishing-delayed-key-inputs-fixes-for-windows-solved-keyboard-lag/"><u>Banishing Delayed Key Inputs: Fixes for Windows [Solved] Keyboard Lag</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210738908-bid-farewell-to-the-incessant-cursor-twinkle-with-these-proven-solutions/"><u>Bid Farewell to the Incessant Cursor Twinkle with These Proven Solutions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-remedies-for-resolving-windows-update-freezes-at-0/"><u>Effortless Remedies for Resolving 'Windows Update Freezes at 0%'</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-on-your-origin-game-follow-these-steps-to-correct-the-setup-and-enjoy/"><u>Error on Your Origin Game? Follow These Steps to Correct the Setup & Enjoy!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exiting-chatgpts-shadow-for-fresh-experienences/"><u>Exiting ChatGPT's Shadow for Fresh Experienences</u></a></li>
-<li><a href="https://win-community.techidaily.com/guide-complet-pour-la-securisation-des-fichiers-par-sauvegarde-du-sysmteme/"><u>Guide Complet Pour La Sécurisation Des Fichiers Par Sauvegarde Du Sysmtème</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-the-latest-youtube-income-regulations/"><u>In 2024, Inside the Latest YouTube Income Regulations</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-driverpowerstateerror-a-comprehensive-guide/"><u>Solving the DRIVER_POWER_STATE_ERROR: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-connecting-your-microsoft-wireless-display-adapter-with-windows-aturate-as-well-as-to-improve-the-efficiency-of-the-model-itself-during-t117/"><u>Step-by-Step Guide: Connecting Your Microsoft Wireless Display Adapter with Windows Aturate, as Well as to Improve the Efficiency of the Model Itself During Training and Inference.</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-restoring-renderer-functionality-after-recent-patch-updates/"><u>Successfully Restoring Renderer Functionality After Recent Patch Updates</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-infinix-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Infinix FRP Bypass</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-secrets-the-process-of-acquiring-modification-authorization-from-trustedinstaller/"><u>Unlocking Secrets: The Process of Acquiring Modification Authorization From TrustedInstaller</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen-for-2024/"><u>[New] Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-mastering-the-art-of-modern-360-camera-purchases-2enas/"><u>[Updated] 2024 Approved Mastering the Art of Modern 360 Camera Purchases (2Enas)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-professionals-choice-ranking-the-top-9-microphone-apps/"><u>[Updated] In 2024, Professional's Choice Ranking the Top 9 Microphone Apps</u></a></li>
+<li><a href="https://facebook.techidaily.com/expecting-a-shielded-future-e2ee-for-fb-messenger/"><u>Expecting a Shielded Future: E2EE for FB Messenger</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-fixing-non-responsive-alt-plus-tab-feature-in-windows/"><u>Expert Advice on Fixing Non-Responsive Alt + Tab Feature in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-red-screen-of-error-a-step-by-step-guide/"><u>Fixing the Red Screen of Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-unrecognized-usb-flash-drives/"><u>Quick Solutions: Resolving Unrecognized USB Flash Drives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/r-type-final-2-stability-issues-how-to-prevent-pc-game-crashes/"><u>R-Type Final 2 Stability Issues: How to Prevent PC Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-rst-service-not-running-errors-for-optimal-performance-with-windows-11/"><u>Resolving 'RST Service Not Running' Errors for Optimal Performance with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-issues-with-your-windows-11-start-menu-easy-fixes-and-solutions/"><u>Solving Issues with Your Windows 11 Start Menu - Easy Fixes and Solutions!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/successfully-watching-usb-files-on-a-sansui-set-complete-tutorial/"><u>Successfully Watching USB Files on a Sansui Set: Complete Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-how-to-fix-windows-audio-device-failure-error/"><u>Troubleshoot: How to Fix 'Windows Audio Device Failure' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206921710-unstuck-from-windows-11-learn-how-to-effectively-restart-your-pc-now/"><u>Unstuck From Windows 11? Learn How to Effectively Restart Your PC Now</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-audio-free-editing-excising-sound-from-mov-media-on-windowsmac/"><u>Updated Audio-Free Editing Excising Sound From MOV Media on Windows/Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-touchpad-woes-heres-how-to-fix-sluggish-or-nonfunctional-scroll-buttons/"><u>Windows 10 Touchpad Woes? Here's How to Fix Sluggish or Nonfunctional Scroll Buttons</u></a></li>
 </ul></div>
 

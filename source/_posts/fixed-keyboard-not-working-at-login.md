@@ -1,7 +1,7 @@
 ---
 title: "FIXED: Keyboard Not Working at Login"
-date: 2024-09-04T20:26:44.045Z
-updated: 2024-09-05T20:26:44.045Z
+date: 2024-11-01T00:06:25.645Z
+updated: 2024-11-04T22:59:44.530Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Keyboard backlight not working is a common problem which can happen on Windows o
 2. [Control the Key Backlighting manually](https://tools.techidaily.com/drivereasy/download/)
 3. [Contact customer service](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Adjust the light sensor
 
  Mac has a light sensor located on the top of your Macbook screen. In some situation, direct lighting, bright lights such as sunlight directly on the light sensor can cause the illumination indicator and controls become locked. This feature is aimed to disable the backlighting when it’s not needed.
@@ -36,11 +43,12 @@ Keyboard backlight not working is a common problem which can happen on Windows o
  Check your keyboard again, if it doesn’t work, you can move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Adjust keyboard brightness
 
  For Mac, you might have unintentionally set the light to 0\. To solve it, you can adjust the keyboard brightness in the settings.
@@ -53,38 +61,35 @@ Here’s how:
 2. Click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Snap841.jpg)
 3. Choose**Keyboard** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-1.jpg)
 4. Uncheck**Adjust keyboard brightness in low light** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/mackeyboard.jpg)
 5. Use the**F1** and**F2** keys to manually control the keyboard lighting level.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Contact customer service
 
  If the above methods can’t fix this issue, you’d better contact AppleCare for help. The problem may be caused by a hardware issue.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## For Windows
 
@@ -137,6 +142,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/asus1.jpg)
 5. Download and install the ATK driver manually.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Option 2 – Automatically update the ATK drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -156,30 +168,6 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/atk.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips for keyboard maintenance
 
  1\. Try not to eat, smoke or drink on top of the keyboard to keep it clean.
@@ -200,8 +188,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +195,26 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/boost-your-racing-experience-by-correcting-audio-issues-in-forza-horizon-4/"><u>Boost Your Racing Experience by Correcting Audio Issues in Forza Horizon 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-update-failure-in-windows-11-error-code-0x800f0922-step-by-step-fixes-for-users/"><u>Bypass Update Failure in Windows 11 (Error Code 0X800f0922): Step-by-Step Fixes for Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-the-dreaded-werfaultexe-bug-a-guide-with-six-foolproof-fixes-for-a-smoother-windows-experience/"><u>Defeat the Dreaded WerFault.exe Bug - A Guide with Six Foolproof Fixes for a Smoother Windows Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/directive-approach-to-prevent-fake-outputs-in-machine-learning/"><u>Directive Approach to Prevent Fake Outputs in Machine Learning</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-the-top-free-screen-recorders-ranked-list/"><u>Explore the Top Free Screen Recorders Ranked List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fast-and-furious-the-prime-5-video-clipping-tools-in-chromes/"><u>Fast & Furious The Prime 5 Video Clipping Tools in Chromes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-behind-glasses-and-screens-vrs-evolutionary-tale/"><u>In 2024, Behind Glasses and Screens VR’s Evolutionary Tale</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unlock-your-potential-mastering-the-art-of-youtube-edits/"><u>In 2024, Unlock Your Potential Mastering the Art of YouTube Edits</u></a></li>
+<li><a href="https://article-tips.techidaily.com/leveraging-azure-ai-for-audio-to-text-translation-for-2024/"><u>Leveraging Azure AI for Audio to Text Translation for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-error-0x80004005-essential-tips-to-diagnose-and-repair-this-common-issue/"><u>Overcoming Error 0X80004005: Essential Tips to Diagnose and Repair This Common Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-error-of-failure-in-creating-a-directx-graphics-device/"><u>Resolved: Fixing the Error of Failure in Creating a DirectX Graphics Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-purchase-a-high-quality-electric-bike-below-900-today-only/"><u>Save Big: Purchase a High-Quality Electric Bike Below $900 - Today Only!</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-flickering-effective-fixes-for-continuous-cursor-blinking-problems/"><u>Say Goodbye to Flickering: Effective Fixes for Continuous Cursor Blinking Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-walkthrough-activating-usb-tethering-in-windows-10-made-easy/"><u>Step-by-Step Walkthrough: Activating USB Tethering in Windows 10 Made Easy</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-the-problem-of-continuous-boot-loops-effective-fixes-for-your-computer/"><u>Tackling the Problem of Continuous Boot Loops: Effective Fixes for Your Computer</u></a></li>
+<li><a href="https://discover-community.techidaily.com/ultimate-guide-to-burning-dvds-with-embedded-subtitles/"><u>Ultimate Guide to Burning DVDs With Embedded Subtitles</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-14-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 14 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-back-your-lost-scroll-wheel-control-on-a-windows-10-pc/"><u>Winning Back Your Lost Scroll Wheel Control on a Windows 10 PC</u></a></li>
+</ul></div>
 

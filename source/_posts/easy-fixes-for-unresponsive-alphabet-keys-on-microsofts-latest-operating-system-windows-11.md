@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for Unresponsive Alphabet Keys on Microsoft's Latest Operating System, Windows 11
-date: 2024-09-04T20:24:12.262Z
-updated: 2024-09-05T20:24:12.262Z
+date: 2024-11-01T21:35:19.993Z
+updated: 2024-11-05T02:32:20.196Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -101,23 +108,18 @@ thumbnail: https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
@@ -131,18 +133,6 @@ thumbnail: https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Open the app again to see if it goes fine.
 
 ``
@@ -162,11 +152,12 @@ thumbnail: https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ``
 
 ``
@@ -178,11 +169,12 @@ thumbnail: https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ``
 
 ``
@@ -191,12 +183,6 @@ thumbnail: https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Disable iCloud
 
  Some users reported that to disable iCloud in Task Manager fix the error for them. So make sure to try to disable icloud if you install one on Windows 10.
@@ -206,6 +192,13 @@ thumbnail: https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,8 +218,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +225,24 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-effective-streaming-strategies-facebook-crossposting/"><u>[New] Effective Streaming Strategies Facebook Crossposting</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-iptv-screen-capture-techniques/"><u>[Updated] 2024 Approved Mastering IPTV Screen Capture Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716068661379-updated-2024-approved-top-12-capture-providers-never-stop/"><u>[Updated] 2024 Approved Top 12 Capture Providers, Never Stop!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fixing-unintended-you-mistakes-while-chatting-online/"><u>2024 Approved Fixing Unintended 'You' Mistakes While Chatting Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/battleye-integration-woes-heres-how-to-ensure-a-successful-configuration/"><u>BattlEye Integration Woes? Here's How to Ensure a Successful Configuration</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-understanding-vsco-features-advantages-disadvantages-and-top-substitutes/"><u>Comprehensive Guide: Understanding VSCO – Features, Advantages, Disadvantages, and Top Substitutes</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-driverpowerstatefaulty-problems/"><u>Effective Fixes for DRIVER_POWER_STATE_FAULTY Problems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-pcs-connectivity-with-newest-thunderbolt-3-driver-downloads-compatible-with-win-1087/"><u>Enhance Your PC's Connectivity with Newest Thunderbolt 3 Driver Downloads – Compatible with Win 10/8/7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-hl-2240-printer-driver-compatible-with-windows-systems/"><u>Get the Newest HL-2240 Printer Driver Compatible with Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-microsoft-wi-fi-display-adapter-connection-issues-in-windows-11/"><u>How to Fix Microsoft Wi-Fi Display Adapter Connection Issues in Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimal-mics-tailored-to-youtube-professionals-for-2024/"><u>Optimal Mics Tailored to YouTube Professionals for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unknown-usb-device-errors-in-windows-10-a-comprehensive-guide/"><u>Resolving 'Unknown USB Device' Errors in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-available-for-non-responsive-tailored-settings-option/"><u>Solution Available for Non-Responsive Tailored Settings Option</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-to-repair-critical-process-died-exception-in-windows-error-c00000e9/"><u>Step-by-Step Tutorial to Repair Critical Process Died Exception in Windows Error C00000e9</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msdia80dll-in-your-system-do-you-need-it/"><u>The Role of msdia80.dll in Your System: Do You Need It?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-resolve-obs-game-captures-unwanted-black-display-problem/"><u>Troubleshooting: How to Resolve OBS Game Capture's Unwanted Black Display Problem</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-vllo-usability-stories-for-2024/"><u>Unveiling VLLO Usability Stories for 2024</u></a></li>
+</ul></div>
 

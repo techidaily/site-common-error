@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Steps to Correct d3dxt9_39.dll File Not Found Error"
-date: 2024-10-26T17:01:12.494Z
-updated: 2024-10-30T17:08:46.244Z
+date: 2024-11-04T08:42:35.324Z
+updated: 2024-11-05T09:26:08.689Z
 tags:
   - win11
   - win10
@@ -42,35 +42,22 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
 2. Right-click on**Microsoft Store Install Service** and click**Start** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b515a7b35011.jpg)
 3. Scroll down to the bottom and double-click on**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51623b61cf7.jpg)
 4. Select**Manual** in**Startup type** , click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51629aa2ad6.jpg)
 5. Launch your Windows Store again and see if the problem has been solved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the DISM tool
 
@@ -79,6 +66,14 @@ But don’t worry, it’s not hard to fix at all…
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
  Wait a while for the whole process to finish.
@@ -86,6 +81,13 @@ But don’t worry, it’s not hard to fix at all…
 4. Restart your computer, run Windows Store again and see if it works properly this time.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -105,14 +107,21 @@ But don’t worry, it’s not hard to fix at all…
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hope everything goes off without a hitch on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the problem still lingers on after trying Driver Easy, feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** for more expedient and efficient guidance. ?
 
@@ -124,28 +133,22 @@ But don’t worry, it’s not hard to fix at all…
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and **R**  at the same time. Then copy & paste **control /name Microsoft.NetworkAndSharingCenter** into the box and click   **OK**  .  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af921398c56a.png)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. **Click Change adapter settings .**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2935c0967f.jpg)**
 3. Right-click on**the network adpater** (Ethernet in my case) and click **Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b22081a8ea67.jpg)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)**  and then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2228b800796.jpg)
 5. Click option **Use the following DNS server addreses** ,
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  for **Preferred DNS server** , enter **8.8.8.8** ;
 
@@ -166,20 +169,20 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Copy & paste**the following command** into the window and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **PowerShell -ExecutionPolicy Unrestricted -Command “& {$manifest = (Get-AppxPackage Microsoft.WindowsStore).InstallLocation + ‘\AppxManifest.xml’ ; Add-AppxPackage -DisableDevelopmentMode -Register $manifest}”**
 3. Once it finishes, close the command prompt window.
@@ -206,18 +209,21 @@ But don’t worry, it’s not hard to fix at all…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-pivotal-moments-in-figure-skating-22-highlights-for-2024/"><u>[New] Pivotal Moments in Figure Skating '22 Highlights for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-stuck-on-preparing-to-configure-windows/"><u>[SOLVED] How to Fix Stuck on Preparing to Configure Windows</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unleashing-the-power-of-screen-capture-with-hp-notebooks-for-2024/"><u>[Updated] Unleashing the Power of Screen Capture with HP Notebooks for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-into-the-world-of-slowed-motion-a-comprehensive-ig-reel-guide/"><u>2024 Approved Step Into the World of Slowed-Motion A Comprehensive IG Reel Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-tips-for-resolving-geforce-experience-wont-open-problem/"><u>Effective Tips for Resolving GeForce Experience Won't Open Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/explanation-of-current-issues-with-accessing-steam-gaming-services/"><u>Explanation of Current Issues with Accessing Steam Gaming Services</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g29-steering-wheel-driver-for-modern-and-legacy-windows-systems-free/"><u>Get Your Logitech G29 Steering Wheel Driver for Modern and Legacy Windows Systems Free</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-m1s-potential-in-streamlining-editing-tasks/"><u>In 2024, Exploring M1’s Potential in Streamlining Editing Tasks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-se-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone SE without Apple ID?</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-invalid-entry-error-in-directories-expert-tips-and-solutions/"><u>Resolving 'Invalid Entry' Error in Directories - Expert Tips & Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-overcome-igfxem-hardware-glitches-and-revive-display-output/"><u>Steps to Overcome igfxEM Hardware Glitches and Revive Display Output</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-art-of-shots-discover-the-best-camera-angles-for-iphones/"><u>The Art of Shots Discover the Best Camera Angles for iPhones</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-y78t-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo Y78t</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-expert-tips-for-creating-engaging-screencasts/"><u>[New] 2024 Approved Expert Tips for Creating Engaging Screencasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-path-to-precision-audio-starting-with-an-adobe-auditions-fade-in/"><u>[New] 2024 Approved The Path to Precision Audio Starting with an Adobe Audition's Fade In</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-5-best-live-stream-video-conference-recorders-for-2024/"><u>[Updated] 5 Best Live Stream Video Conference Recorders for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-nailing-the-perfect-gameplay-with-fbx-for-2024/"><u>[Updated] Nailing the Perfect Gameplay with FBX for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordable-xr-glasses-solved-my-apple-vision-dilemma-beating-peer-pressure-for-just-a-click-away-insights-from-zdnet/"><u>Affordable XR Glasses Solved My Apple Vision Dilemma, Beating Peer Pressure for Just a Click Away – Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-restarting-your-failed-diagnostics-service-quick-fixes-applied/"><u>Diagnosing and Restarting Your Failed Diagnostics Service - Quick Fixes Applied</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-memory-integrity-failures-in-ftdis-sys-caused-by-driver-inefficiencies/"><u>Diagnosing Memory Integrity Failures in FTDIS Sys Caused by Driver Inefficiencies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204018801-how-to-fix-the-missing-device-warning-in-icu-software-expert-solutions/"><u>How to Fix the Missing Device Warning in ICU Software - Expert Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-windows-10-when-your-space-bar-doesnt-work/"><u>How to Repair Windows 10 When Your Space Bar Doesn't Work</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-e13-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto E13 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-tecno-camon-20-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Tecno Camon 20 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-common-cheats-in-apex-legends-easy-anti-cheat-system/"><u>Resolved! Troubleshooting Common Cheats in Apex Legends' Easy Anti-Cheat System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-failed-windows-11-version-1607-update-issues/"><u>Troubleshooting Steps for Failed Windows 11 (Version 1607) Update Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-win32-kernal-termination-error-0xc0000005-on-your-pc/"><u>Ultimate Guide: Resolving the Win32 Kernal Termination Error (0xC0000005) on Your PC</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-data-recovery-software-to-recover-lost-data/"><u>Windows Data Recovery Software to Recover Lost Data</u></a></li>
 </ul></div>
 

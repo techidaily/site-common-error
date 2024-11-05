@@ -1,7 +1,7 @@
 ---
 title: Overcoming DirectX Hardware Configuration Errors for Seamless Graphic Devices
-date: 2024-09-04T20:25:18.419Z
-updated: 2024-09-05T20:25:18.419Z
+date: 2024-10-31T05:35:13.233Z
+updated: 2024-11-05T11:10:16.039Z
 tags:
   - win11
   - win10
@@ -41,11 +41,12 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
  If you’re using a wired controller, a broken USB cable can be the cause. Try a cable with no problem and check to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3: Update the Xbox One Controller Driver
 
  If the Xbox One Controller driver is missing or corrupted, the controller cannot work properly on your PC. So you can try to update the controller driver. There are two methods to update the driver. This method is update the driver manually via Device Manager. If you don’t time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy (move to[Method 4](#method4) ).
@@ -61,45 +62,38 @@ Follow these steps to update the driver via Device Manager:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If the issue persists, follow steps below to update the driver again:
 
 1. In Device Manager, right-click on**Microsoft Xbox One Controller** and click **Update Driver Software** .
 2. Click **Browse my computer for driver software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-3.png)
 3. Click **Let me pick from a list of device drivers on my computer** .  
+
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-4.png)
 4. Select **Microsoft Xbox One Controller** then click**Next** button.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-5.png)
 5. Select**Microsoft Xbox One Controller** and click**Next** to run the driver installation.  
+
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-6.png)
 
 If this still doesn’t work for you, please move on.
@@ -114,11 +108,18 @@ If this still doesn’t work for you, please move on.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -136,8 +137,6 @@ If this still doesn’t work for you, please move on.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +144,22 @@ If this still doesn’t work for you, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-guide-to-quick-video-recording-on-youtube/"><u>[New] 2024 Approved Guide to Quick Video Recording on YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-mastery-over-buffering-in-vimeo-streams-revised-tips/"><u>[New] In 2024, Mastery Over Buffering in Vimeo Streams (Revised Tips)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-guide-finalcut-pro-for-youtube-editing/"><u>[New] Ultimate Guide FinalCut Pro for YouTube Editing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-harmony-music-edition-for-2024/"><u>[Updated] Instagram Harmony Music Edition for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-tech-tips-correcting-your-facetime-call-when-you-encounter-a-blank-screen/"><u>DIY Tech Tips: Correcting Your FaceTime Call When You Encounter a Blank Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/elevate-your-windows-11-gaming-performance-with-these-proven-strategies/"><u>Elevate Your Windows 11 Gaming Performance with These Proven Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969077446-get-your-free-hp-laserjet-p1006-software-and-driver-today/"><u>Get Your Free HP LaserJet P1006 Software and Driver Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-xr21-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nokia XR21 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-troublefree-gameplay-overcoming-halo-n-4-ue4-crashes-for-a-smoother-2024-experience/"><u>Mastering Troublefree Gameplay: Overcoming Halo N 4 UE4 Crashes for a Smoother 2024 Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/preserve-file-locations-during-startup-in-windows-10/"><u>Preserve File Locations During Startup in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-minecraft-crashes-due-to-faulty-video-card-drivers-on-windows-computers/"><u>Resolving Minecraft Crashes Due to Faulty Video Card Drivers on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-user-account-control-prompts-elevation-needed-in-windows-11-10-and-7/"><u>Resolving User Account Control Prompts: Elevation Needed in Windows 11, 10 & 7</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-streamlining-say-no-to-lags/"><u>Swift Streamlining - Say No to Lags</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-windows-10-sound-levels-issue/"><u>Troubleshooting Guide: Fixing Windows 10 Sound Levels Issue</u></a></li>
+</ul></div>
 

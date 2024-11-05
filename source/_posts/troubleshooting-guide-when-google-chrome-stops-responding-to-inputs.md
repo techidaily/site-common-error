@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Google Chrome Stops Responding to Inputs"
-date: 2024-10-23T18:20:26.598Z
-updated: 2024-10-30T17:01:54.005Z
+date: 2024-11-03T23:25:08.415Z
+updated: 2024-11-05T02:52:19.590Z
 tags:
   - win11
   - win10
@@ -35,55 +35,41 @@ You may not have to try them all; just work your way down the list until you fin
 
 To fix your game graphics issue, you can make your game load the building texture before landing. To do so, when your parachute is pulled out, press the**Tab**key on your keyboard to bring up the inventory screen. Your game may freeze for a while, as it’s loading the texture. After that, check to see if this fixes your texture issues. Hopefully it does. But if not, there are still three fixes for you to try…
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Move your game files to your SSD (if you have one)
 
 If you’re using an solid-state drive (SSD), you should try moving your games file there to speed up the loading process. To move your game files to your SSD:**1)** On your Steam client, click**Steam**, then click**Settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fda9155da2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Downloads**, then click the**STEAM LIBRARY FOLDERS**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb536f27d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**ADD LIBRARY FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdcc73a052.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Choose a folder on your SSD where you want to save your PUBG files. (If you want to create a new one, click **NEW FOLDER**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdd923b057.png)
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Click**CLOSE**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdde86db67.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click**OK**.
 
@@ -97,15 +83,22 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe31f23cb3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Select the**LOCAL FILES**tab, then click**MOVE INSTALL FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe45ed95b1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **10)** Select the new folder you’ve created, then click**MOVE FOLDER**.
@@ -114,22 +107,35 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 Steam will move your PUBG files to that new folder. You can then check to see if this fixes your building texture issues.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Update your graphics driver
 
 Your game may not be able to load the building texture properly if you’re not using a correct graphics driver or it’s out of date. You should update this driver to see if this fixes your issue. If you don’t have the time, patience or skills to update your printer driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . **Driver Easy**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.  You can download and install your drivers by using either Free or **Pro**  version of Driver Easy. But with the Pro version it takes only **2**  clicks (and you get **full support** and a **30-day money back guarantee** ): **1)** [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** . **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed68ebd56d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b600778ced76.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -156,17 +162,24 @@ Your PUBG files may have been corrupted so you are having the texture loading is
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-tips-for-uninterrupted-obs-video-playback/"><u>[Updated] In 2024, Tips for Uninterrupted OBS Video Playback</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/aspx-what-is-it-and-how-do-i-open-and-edit-it/"><u>ASPX: What Is It & How Do I Open and Edit It?</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-windows-store-cache-problems-successfully/"><u>Diagnosing and Repairing Windows Store Cache Problems Successfully</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/te-video-popularity-with-strategic-hashtags-for-2024/"><u>Elevate Video Popularity with Strategic #Hashtags for 2024</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/how-add-emojisstickers-to-videos-on-pcmacmobileonline/"><u>How Add Emojis/Stickers to Videos on PC/Mac/Mobile/Online</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 11 Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/league-of-legends-download-acceleration-tips-to-fix-your-game-lag/"><u>League of Legends Download Acceleration: Tips to Fix Your Game Lag</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-dll-fixes-for-audio-game-files/"><u>Mastering DLL Fixes for Audio Game Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/prevent-chrome-from-saving-webp-images-in-windows/"><u>Prevent Chrome From Saving WebP Images in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209382796-quick-fixes-for-your-non-functioning-hp-laptop-keys-get-back-to-work-now/"><u>Quick Fixes for Your Non-Functioning HP Laptop Keys – Get Back to Work Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-unveiling-the-latest-hardware-innovations/"><u>Tom's Computer Gear: Unveiling the Latest Hardware Innovations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-upgrading-to-macos-1441-is-now-safer-for-your-apple-device-insights/"><u>Why Upgrading to macOS 14.4.1 Is Now Safer for Your Apple Device - Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-edge-computing-select-the-optimal-device-for-video-editing/"><u>[Updated] 2024 Approved Cutting Edge Computing Select the Optimal Device for Video Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-orchestrating-the-scene-adding-cropping-and-adjusting-music-in-canva/"><u>[Updated] Orchestrating the Scene Adding, Cropping & Adjusting Music in Canva</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1-troubleshooting-why-cant-vlc-media-player-open-mkv-files-solutions-for-viewing/"><u>1. Troubleshooting: Why Can't VLC Media Player Open .MKV Files? Solutions for Viewing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-solutions-for-motorola-network-unlock-by-drfone-android/"><u>Best Solutions for Motorola Network Unlock</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-animations-5-top-online-stop-motion-makers-for-2024/"><u>Create Stunning Animations 5 Top Online Stop Motion Makers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-ways-to-turn-on-and-use-bluetooth-with-windows-11-and-10-a-complete-fix/"><u>Easy Ways to Turn On & Use Bluetooth with Windows 11 and 10 – A Complete Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-resolving-windows-1110-endless-reboot-loop/"><u>Fix: Resolving Windows 11/10 Endless Reboot Loop</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/fotor-pro-advanced-workflow/"><u>Fotor Pro Advanced Workflow</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/gaming-on-one-disabling-cross-play-and-selecting-top-platforms-for-2024/"><u>Gaming on One Disabling Cross-Play and Selecting Top Platforms for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-0x80071ac3-faulty-disk-mistake-in-your-system/"><u>How to Resolve the 0X80071AC3 Faulty Disk Mistake in Your System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-valorants-perpetual-loading-problem-for-smooth-gameplay/"><u>How to Resolve Valorant's Perpetual Loading Problem for Smooth Gameplay</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-to-windows-11-brightness-controls/"><u>How To Restore Functionality to Windows 11 Brightness Controls</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v29-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V29 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y17s-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y17s to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-blaze-curve-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Blaze Curve 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-guide-for-fixing-windows-10-system-crashes-during-launch/"><u>Resolved: Troubleshooting Guide for Fixing Windows 10 System Crashes During Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-common-problems-with-cyclic-redundancy-check-data-integrity/"><u>Troubleshooting Common Problems with Cyclic Redundancy Check (Data Integrity)</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-users-rejoice-comprehensive-guide-to-fixing-your-keyboard-responsiveness-issues/"><u>Windows 10 Users Rejoice: Comprehensive Guide to Fixing Your Keyboard Responsiveness Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-build-1607-installation-errors-and-how-to-fix-them/"><u>Windows 11 Build 1607 Installation Errors and How to Fix Them</u></a></li>
 </ul></div>
 

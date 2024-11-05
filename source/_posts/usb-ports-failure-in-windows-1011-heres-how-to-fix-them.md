@@ -1,7 +1,7 @@
 ---
 title: USB Ports Failure in Windows 10/11? Here's How to Fix Them!
-date: 2024-10-25T18:24:31.904Z
-updated: 2024-10-30T18:03:10.606Z
+date: 2024-11-01T03:26:11.904Z
+updated: 2024-11-05T00:49:23.786Z
 tags:
   - win11
   - win10
@@ -36,19 +36,6 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -75,6 +62,19 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
@@ -84,38 +84,32 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
@@ -162,24 +156,17 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capture-your-desktop-on-windows-3-ways-free/"><u>[New] 2024 Approved Capture Your Desktop on Windows, 3 Ways, Free</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-victory-over-missing-dxgidll-error/"><u>[PUBG] Victory over Missing Dxgi.dll Error</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growing-engagement-ethically-youtube-success-stories/"><u>[Updated] In 2024, Growing Engagement Ethically YouTube Success Stories</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-cost-effective-pc-video-archive-tools/"><u>2024 Approved Cost-Effective PC Video Archive Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-8-visual-boosts-for-online-broadcasts/"><u>Advanced 8 Visual Boosts for Online Broadcasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/aol-mail-issues-determining-whether-its-a-downtime-scenario-or-personal-connectivity-problem/"><u>AOL Mail Issues: Determining Whether It's a Downtime Scenario or Personal Connectivity Problem</u></a></li>
-<li><a href="https://media-tips.techidaily.com/combining-disneyplus-hulu-and-max-a-trifecta-bundle-launching-in-summer/"><u>Combining Disney+, Hulu & Max: A Trifecta Bundle Launching in Summer!</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-resolving-installation-errors-code-0x80070643-on-your-windows-device/"><u>Expert Guide: Resolving Installation Errors Code 0X80070643 on Your Windows Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-installation-how-to-download-and-set-up-your-logitech-hd-webcam-on-windows-11/"><u>Free Installation: How to Download & Set Up Your Logitech HD Webcam on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-successfully-install-windows-10-error-code-80240020-explanation-and-solution/"><u>Guide to Successfully Install Windows 10: Error Code 80240020 Explanation and Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-resolving-the-incorrect-parameter-issue-efficiently/"><u>Guide: Resolving the Incorrect Parameter Issue Efficiently</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-the-incorrect-registry-value-for-flawless-photo-opening-in-windows-11/"><u>How to Correct the Incorrect Registry Value for Flawless Photo Opening in Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-honor-v-purse-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Honor V Purse to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-s23-ultra-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy S23 Ultra Fingerprint Lock</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-b-roll-creative-uses-and-integration/"><u>In 2024, Maximizing B-Roll Creative Uses and Integration</u></a></li>
-<li><a href="https://common-error.techidaily.com/restored-msvcr71dll-case-closed/"><u>Restored MSVCR71.dll: Case Closed</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-overcoming-keyboard-malfunction-when-logging-in/"><u>Solution Found: Overcoming Keyboard Malfunction When Logging In</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-incorrect-path-format-and-improper-directory-naming-issues-fixed/"><u>Troubleshooting 'Incorrect Path Format' And 'Improper Directory Naming' Issues - Fixed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-secure-connection-issues-in-mozilla-firefox/"><u>Troubleshooting Guide: Resolving Secure Connection Issues in Mozilla Firefox</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-excellent-series-of-animated-type-options/"><u>[Updated] In 2024, Excellent Series of Animated Type Options</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-precise-aural-link-the-casters-toolkit/"><u>[Updated] Precise Aural Link The Caster's Toolkit</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unveiling-secrets-how-to-dominate-fb-searches-with-these-10-hacks-for-2024/"><u>[Updated] Unveiling Secrets How to Dominate FB Searches with These 10 Hacks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/discover-these-6-must-have-instagram-reel-tools-for-2024/"><u>Discover These 6 Must-Have Instagram Reel Tools for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-file-explorer-crashes-on-windows-11-complete-guide/"><u>How to Fix File Explorer Crashes on Windows 11 – Complete Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-innovations-in-smart-homes-for-202/"><u>Leading Innovations in Smart Homes for 202</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-pc-maintenannoins-strategies-to-fix-critical-error-0xc0000098-in-windows/"><u>Mastering PC Maintenannoins: Strategies to Fix Critical Error 0xC0000098 in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-dilemma-of-forced-system-closes-on-windows-11-a-step-by-step-guide/"><u>Overcoming the Dilemma of Forced System Closes on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connectivity-problems-with-microsofts-wireless-display-on-windows-11/"><u>Resolving Connectivity Problems with Microsoft's Wireless Display on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-high-cpu-usage-by-msmpengexe-on-windows-10-troubleshooting-guide/"><u>Solve High CPU Usage by MsMpEng.exe on Windows 10 - Troubleshooting Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix: Resolved Issue - How to Stop Windows 11/10 Continuous Reboot Cycle"
-date: 2024-10-26T16:43:15.622Z
-updated: 2024-10-30T16:21:32.538Z
+date: 2024-11-03T16:20:47.131Z
+updated: 2024-11-05T01:24:17.799Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -69,27 +62,29 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
-5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
+5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
 
@@ -101,17 +96,26 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -120,6 +124,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -127,13 +138,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -160,19 +164,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/est-8-mirrorless-cameras-to-elevate-your-vlogging-game/"><u>[New] Best 8 Mirrorless Cameras to Elevate Your Vlogging Game</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-direct-youtube-share-on-snapchat-tips/"><u>[New] In 2024, Direct YouTube, Share on Snapchat Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/bridging-the-gap-reestablishing-connection-with-your-non-syncing-xbox-one-contoller/"><u>Bridging the Gap: Reestablishing Connection with Your Non-Syncing Xbox One Contoller</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/easy-guide-to-cropping-videos-in-adobe-premiere-pro/"><u>Easy Guide to Cropping Videos in Adobe Premiere Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-lenovo-trackpad-working-again-under-windows-tips-and-solutions/"><u>Get Your Lenovo Trackpad Working Again Under Windows: Tips & Solutions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-advanced-mobiles-for-crafting-perfect-dji-videos/"><u>In 2024, Advanced Mobiles for Crafting Perfect DJi Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/newest-support-and-improvements-nvidia-geforce-100-210-for-windows-10/"><u>Newest Support and Improvements: NVIDIA GeForce 지오100 드라이버 (210) for Windows 10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/non-responsive-lenovo-touchscreen-resolved/"><u>Non-Responsive Lenovo Touchscreen - Resolved</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/online-mov-file-in-aiff-format-umwandeln-kostenlos-bei-movavi/"><u>Online MOV File in AIFF Format Umwandeln Kostenlos Bei Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-repairs-for-malfunctioning-widgets-in-just-minutes-ios-edition/"><u>Quick Repairs for Malfunctioning Widgets in Just Minutes – iOS Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-aw-snap-error-in-google-chrome-step-by-step-guide/"><u>Resolving the 'Aw, Snap!' Error in Google Chrome: Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-10-update-error-0xc1900208-expert-tips-and-solutions/"><u>Resolving Windows 10 Update Error 0xC1900208: Expert Tips and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamline-your-workflow-with-windows-10-file-explorer-help/"><u>Streamline Your Workflow with Windows 10 File Explorer Help</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oneplus-nord-3-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On OnePlus Nord 3 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-successful-youtube-sponsorship-deals/"><u>[New] Crafting Successful YouTube Sponsorship Deals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-essentials-of-screen-capture-with-fraps/"><u>[New] In 2024, The Essentials of Screen Capture with Fraps</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-code-80070103-windows-update-error/"><u>[Solved] Code 80070103 Windows Update Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-error-1068-in-windows-a-comprehensive-guide-solution-found/"><u>Fixing Error 1068 in Windows: A Comprehensive Guide - SOLUTION FOUND!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fixing-face-id-on-iphone-x-a-compreenasome-guide-for-2024/"><u>Fixing Face ID on iPhone X A Compreenasome Guide for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-simplified-approach-to-embedding-multiple-video-playlists-from-youtube/"><u>In 2024, Simplified Approach to Embedding Multiple Video Playlists From YouTube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/interactive-demo-experience-the-latest-dell-screen-technology-elite-noise-canceling-headphones-and-high-definition-camera/"><u>Interactive Demo: Experience the Latest Dell Screen Technology, Elite Noise-Canceling Headphones & High-Definition Camera</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-activating-bluetooth-in-windows-1110-systems/"><u>Ultimate Troubleshooting Tips for Activating Bluetooth in Windows 11/10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-from-unresponsive-charge-repair-your-ps4s-dualshock-now/"><u>Unstuck From Unresponsive Charge - Repair Your PS4's DualShock Now</u></a></li>
 </ul></div>
 

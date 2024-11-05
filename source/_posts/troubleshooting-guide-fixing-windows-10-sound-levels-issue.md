@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Windows 10 Sound Levels Issue"
-date: 2024-10-25T17:51:38.373Z
-updated: 2024-10-30T16:03:46.167Z
+date: 2024-10-30T04:41:38.552Z
+updated: 2024-11-04T17:19:13.986Z
 tags:
   - win11
   - win10
@@ -80,20 +80,33 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Restart your computer.
 
  If your problem still exists after you update your computer, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Scan for malware on your computer
 
@@ -108,13 +121,6 @@ OR
 **2)** Run**Malwarebytes,** and then click the**Scan Now button** to start scanning your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-98-1024x641.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Wait for the process to be complete. If there is any malware on your computer, follow the on-screen instructions to remove it.
 
@@ -133,19 +139,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-118.png)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-116.png)
@@ -162,6 +155,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-109.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-112.png)
@@ -175,13 +175,6 @@ OR
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety reasons.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-114.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)** Click**Restart** and wait for your computer to restart.
 
@@ -197,6 +190,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-88.png)
@@ -208,6 +208,13 @@ OR
 **4)** Click the**Services tab,** and then check the box next to**Hide all Microsoft services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-90.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Click**Disable all** .
 
@@ -221,18 +228,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-94.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Right-click the program you want to prevent it from auto-launching and select **Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-724.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)** Restart your computer and check if this has resolved your problem.
 
@@ -246,16 +253,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**msconfig** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-132.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the button next to**Normal startup,** and then click**Apply** .
 
@@ -265,13 +272,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-150.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Click**Enable all,** then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-145.png)
@@ -280,14 +280,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-146.png)
 
- Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
 
 ### Fix 5: Run the Command Prompt
 
@@ -339,17 +345,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-cutting-down-high-bitrate-obs-streams/"><u>[New] 2024 Approved Cutting Down High-Bitrate OBS Streams</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-demystifying-advanced-video-coding-techniques/"><u>[New] Demystifying Advanced Video Coding Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quickly-crafting-a-facebook-collage-a-step-by-step-guide/"><u>[New] Quickly Crafting a Facebook Collage A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210910844-cant-print-your-pdf-these-simple-tips-will-help-you-succeed/"><u>Can't Print Your PDF? These Simple Tips Will Help You Succeed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-a-malfunctioning-lenovo-keyboard-expert-tips-and-tricks/"><u>Diagnosing and Fixing a Malfunctioning Lenovo Keyboard: Expert Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-bluetooth-pairings-effective-solutions-to-connect-your-devices-on-windows-11-tips/"><u>Mastering Bluetooth Pairings: Effective Solutions to Connect Your Devices on Windows 11 (Tips )</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-repairing-and-resolving-a-0x8007049-grotesque-error-in-your-pcs-update-system-fixed/"><u>The Ultimate Guide to Repairing and Resolving a 0X8007049 Grotesque Error in Your PC's Update System [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-step-by-step-for-error-1000-on-windows-os-versions-7-8-and-10/"><u>Troubleshooting Step-by-Step for Error 1000 on Windows OS Versions 7, 8 & 10</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-10-explainer-video-tools-to-boost-your-brand/"><u>Updated In 2024, Top 10 Explainer Video Tools to Boost Your Brand</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-is-runtime-broker-and-fix-its-high-cpu-error-on-windows-11-solved/"><u>What Is Runtime Broker and Fix Its High CPU Error on Windows 11 [Solved]</u></a></li>
-<li><a href="https://win-blog.techidaily.com/why-is-my-battlefield-talkie-crashing-overcoming-common-compatibility-issues-on-pcs/"><u>Why Is My Battlefield Talkie-Crashing? Overcoming Common Compatibility Issues on PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-your-microsoft-surface-isnt-holding-a-charge-fixes-and-explanations/"><u>Why Your Microsoft Surface Isn't Holding a Charge: Fixes and Explanations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fv-downloader-for-social-networking-videos/"><u>[Updated] FV-Downloader for Social Networking Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tips-for-uninterrupted-obs-video-playback/"><u>[Updated] Tips for Uninterrupted OBS Video Playback</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-v30-lite-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo V30 Lite 5G PC | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-redmi-k70-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Redmi K70 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-enhanced-enhance-your-websites-performance-with-our-advanced-tracking-solutions/"><u>Cookiebot-Enhanced: Enhance Your Website's Performance with Our Advanced Tracking Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-for-repairing-unrecognized-external-hard-drives-in-windows-1087/"><u>Easy Steps for Repairing Unrecognized External Hard Drives in Windows 10/8/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205996325-fix-error-there-is-a-problem-with-your-games-setup-origin-games/"><u>Fix Error “There Is a Problem with Your Game’s Setup” | Origin Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-set-user-settings-to-driver-failed-issue-a-step-by-step-guide/"><u>How to Overcome the 'Set User Settings To Driver Failed' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p55-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P55 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-105-classic-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia 105 Classic to New Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-tv-explained-essential-knowledge-for-all-viewers/"><u>In 2024, YouTube TV Explained Essential Knowledge for All Viewers</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-startup-issues-how-to-fix-the-critical-error-0xc000007b/"><u>Mastering Startup Issues - How to Fix the Critical Error 0Xc000007b</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-ethernet-challenges-a-users-manual-for-windows-10-and-7-users/"><u>Overcoming Ethernet Challenges: A User's Manual for Windows 10 & 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-destiny-srevz-nt-aevalebe-1ssuz-the-ultimate-troubleshooting-guide/"><u>Resolve Destiny ˈsɪrəvz Nɑt ˌævaɪləbəɫ 1Ssuːz: The Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-diagnostics-policy-service-is-offline-heres-what-to-do/"><u>Resolving 'Diagnostics Policy Service Is Offline – Here’s What To Do!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-getting-your-dell-camera-up-and-running-in-windows/"><u>Step-by-Step Guide: Getting Your Dell Camera Up and Running in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-a18-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo A18 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

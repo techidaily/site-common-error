@@ -1,7 +1,7 @@
 ---
 title: Temporary Downtime for Microsoft's SmartScreen – What to Do Now?
-date: 2024-10-25T16:09:37.617Z
-updated: 2024-10-30T16:59:26.430Z
+date: 2024-11-04T11:04:30.447Z
+updated: 2024-11-05T09:38:11.427Z
 tags:
   - win11
   - win10
@@ -56,44 +56,18 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b63705ebce.png)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Restart your computer and check to see if this fixes your touch screen.  
   
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Update the driver of your touch screen
@@ -116,6 +90,21 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 4: Reset your Surface Pro 4
 
  Your touch screen not working issue may result from corrupted system on your tablet. You can try resetting your device to fix your system.
@@ -124,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
@@ -131,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 **3)**  Select**Recovery** and then select **Get started** button under Reset this PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c54ad3185f.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
@@ -162,22 +151,18 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-capture-and-save-video-images-on-windows-11/"><u>[New] 2024 Approved Capture and Save Video Images on Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-command-prompt-wizardry-opening-srt-in-winosx/"><u>[New] Command Prompt Wizardry Opening SRT in Win/OSX</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-convenient-iphone-method-for-live-screen-capture/"><u>[New] Convenient iPhone Method for Live Screen Capture</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-tiny-videos-deciphered-crucial-elements/"><u>[New] In 2024, Tiny Videos Deciphered Crucial Elements!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/arcadegeddon-continues-to-experience-persistent-issues-on-windows-platform/"><u>Arcadegeddon Continues to Experience Persistent Issues on Windows Platform</u></a></li>
-<li><a href="https://article-tips.techidaily.com/elevating-your-filmmaking-skills-on-the-windows-10-platform/"><u>Elevating Your Filmmaking Skills on the Windows 10 Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-reviving-a-stuck-laptop-or-pc-effortlessly/"><u>Expert Tips: Reviving a Stuck Laptop or PC Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-overcoming-windows-11-version-0x80240034-update-errors-successfully/"><u>Guide: Overcoming Windows 11 Version 0X80240034 Update Errors Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-flickering-display-issues-in-windows-11-computers/"><u>How to Resolve Flickering Display Issues in Windows 11 Computers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-strategic-branding-techniques-for-higher-youtube-followings/"><u>In 2024, Strategic Branding Techniques for Higher YouTube Followings</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/ios-guide-best-ways-to-enjoy-live-coverage-of-the-2018-fifa-world-cup-on-your-device/"><u>IOS Guide: Best Ways to Enjoy Live Coverage of the 2018 FIFA World Cup on Your Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-your-wow-experience-avoiding-and-repairing-lags/"><u>Optimizing Your 'WoW' Experience: Avoiding and Repairing Lags</u></a></li>
-<li><a href="https://common-error.techidaily.com/seamless-sync-expert-advice-on-getting-airpods-to-connect-to-windows-11/"><u>Seamless Sync: Expert Advice on Getting AirPods to Connect to Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-fix-destiny-2-when-it-gets-stuck-during-startup/"><u>Step-by-Step Solutions to Fix Destiny 2 When It Gets Stuck During Startup</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/stop-video-buffering-during-streaming-for-2024/"><u>Stop Video Buffering During Streaming for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-steps-to-take-when-your-torrent-wont-download/"><u>The Ultimate Fix: Steps to Take When Your Torrent Won't Download</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-high-cpu-load-from-windows-audio-service/"><u>Troubleshooting High CPU Load From Windows Audio Service</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-devising-visual-temporal-anomalies-effects/"><u>[New] Devising Visual Temporal Anomalies Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-5-leading-tools-for-crafting-superior-video-titles-and-tags/"><u>[Updated] In 2024, 5 Leading Tools for Crafting Superior Video Titles and Tags</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/budget-4k-cameras-for-beginners/"><u>Budget 4K Cameras for Beginners</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-and-resolve-the-persistent-0x8007001f-error-during-windows-updates/"><u>Bypass and Resolve the Persistent 0X8007001f Error During Windows Updates</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-15-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 15 to PC | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-how-to-address-the-dreaded-0x80070643-updateinstallation-faults-on-your-pc/"><u>Master the Fix: How To Address The Dreaded 0X80070643 Update/Installation Faults on Your PC!</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-system-performance-resolving-msmpengexes-abnormal-cpu-consumption-on-windows-11/"><u>Optimizing System Performance: Resolving MsMpEng.exe's Abnormal CPU Consumption on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-visual-roadblocks-in-halo-infinite-problem-fixed/"><u>Overcoming Visual Roadblocks in Halo Infinite – Problem Fixed!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-11-pro-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issues-with-windows-and-system-event-notification-service-connection/"><u>Resolved: Issues with Windows and System Event Notification Service Connection</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-installation-failures-resolving-windows-11-error-80240020-quickly/"><u>Troubleshooting Installation Failures: Resolving Windows 11 Error 80240020 Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-repair-unresponsive-microphones-on-windows-11-systems/"><u>Troubleshooting: How to Repair Unresponsive Microphones on Windows 11 Systems</u></a></li>
 </ul></div>
 

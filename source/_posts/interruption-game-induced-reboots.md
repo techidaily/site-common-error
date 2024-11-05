@@ -1,7 +1,7 @@
 ---
 title: "[INTERRUPTION] Game-Induced Reboots"
-date: 2024-10-26T16:39:29.101Z
-updated: 2024-10-30T18:32:58.738Z
+date: 2024-11-03T01:11:15.250Z
+updated: 2024-11-05T10:32:45.569Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 2: Update the graphics card driver
 
  The computer keeps going to sleep issue can be caused by the faulty or outdated graphics card driver, especially if you have a high-end graphics card installed. To fix the problem, you can try to update the graphics card driver.
@@ -66,16 +73,17 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -92,21 +100,14 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
@@ -118,15 +119,16 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 2. **View by Category** , and click**Appearance and Personalization** (In some cases, this could be**Appearance** .).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
-4. Set**Screen saver** to**None** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
+4. Set**Screen saver** to**None** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
@@ -145,6 +147,14 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
@@ -154,10 +164,10 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
@@ -173,13 +183,6 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
@@ -208,24 +211,20 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-edge-editing-meets-online-video-sharing/"><u>[New] In 2024, Cutting-Edge Editing Meets Online Video Sharing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-igtvs-top-10-talents-to-follow-today/"><u>[Updated] 2024 Approved IGTV's Top 10 Talents to Follow Today</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unleashing-potential-key-tips-for-hospitals-fb-ad-reach-for-2024/"><u>[Updated] Unleashing Potential Key Tips for Hospitals' FB Ad Reach for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-expert-tips-for-effortless-instagram-video-dialogues/"><u>2024 Approved Expert Tips for Effortless Instagram Video Dialogues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-windows-smartscreen-access-problems-a-swift-guide/"><u>Addressing Windows SmartScreen Access Problems: A Swift Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/audio-troubleshooting-tips-for-windows-users-experiencing-no-output-device-errors/"><u>Audio Troubleshooting Tips for Windows Users Experiencing 'No Output Device' Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/clear-the-clogs-smooth-gaming-on-pcs-no-hassle/"><u>Clear the Clogs: Smooth Gaming on PCs, No Hassle</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquering-missing-dll-error-in-games-like-x3d/"><u>Conquering Missing DLL Error in Games Like X3D</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-techniques-for-ae-title-creation/"><u>Expert Techniques for AE Title Creation</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-chrome-extension-loading-failure-in-windows-11/"><u>Fixing the Chrome Extension Loading Failure in Windows 11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/script-to-splendor-animating-effects-unbound-for-2024/"><u>From Script to Splendor Animating Effects Unbound for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/traction-on-youtube-deciphering-ranking-principles-for-2024/"><u>Gain Traction on YouTube Deciphering Ranking Principles for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-strategies-for-effectively-swapping-gender-identity-in-digital-media-images/"><u>In 2024, Strategies for Effectively Swapping Gender Identity in Digital Media Images</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-typing-issues-in-windows-10-and-11-a-guide-to-repair-malfunctioning-alphabet-keys/"><u>Solving Typing Issues in Windows 10 and 11: A Guide to Repair Malfunctioning Alphabet Keys</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-restore-brightness-controls-on-windows-11/"><u>Troubleshooting Guide: Restore Brightness Controls on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-unresponsive-dns-4-effective-solutions/"><u>Troubleshooting Your Unresponsive DNS: 4 Effective Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/unexpected-startup-understanding-auto-boot-in-your-windows-10-pc/"><u>Unexpected Startup: Understanding Auto-Boot in Your Windows 10 PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-secrets-of-your-mac-display-hidden-files-with-terminal-commands/"><u>Unlocking Secrets of Your Mac: Display Hidden Files with Terminal Commands</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-multimedia-posts-multiphotograph-and-video-uploads-on-instagram-for-2024/"><u>[New] Mastering Multimedia Posts Multiphotograph & Video Uploads on Instagram for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-from-capturing-moments-to-sharing-them-editing-with-adobe-premiere/"><u>[Updated] In 2024, From Capturing Moments to Sharing Them Editing with Adobe Premiere</u></a></li>
+<li><a href="https://blog-min.techidaily.com/219/"><u>「ムービーフォーマットを完璧にする：21対9の変更方法を詳しく解説」</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-cracking-the-code-to-niche-celeb-content-creators-on-insta/"><u>2024 Approved Cracking the Code to Niche Celeb Content Creators on Insta</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-step-by-step-process-to-preserve-instagrams-ephemeral-content/"><u>2024 Approved Step-by-Step Process to Preserve Instagram's Ephemeral Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/abrupt-termination-devices-last-stand/"><u>Abrupt Termination: Devices' Last Stand</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211249482-9781958997574-blood-gates/"><u>Blood Gates | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-addressing-pc-performance-problems-in-monster-hunter-world/"><u>Diagnosing and Addressing PC Performance Problems in 'Monster Hunter: World'</u></a></li>
+<li><a href="https://common-error.techidaily.com/directx-error-resolution-handling-the-unrecoverable-error-exception/"><u>DirectX Error Resolution: Handling the 'Unrecoverable Error' Exception</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-cpu-use-by-the-32-bit-iastordatasvc-on-windows-11-solution/"><u>How to Fix Elevated CPU Use by the 32-Bit IAstorDataSvc on Windows 11 [Solution]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/image-album-composer-craft-stunning-videos-from-photos-set-to-song/"><u>Image Album Composer: Craft Stunning Videos From Photos Set to Song</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-top-car-traffic-cameras-for-2024/"><u>In-Depth Analysis Top Car Traffic Cameras for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/league-of-legends-lag-no-more-speedy-download-fixes-unveiled/"><u>League of Legends Lag No More: Speedy Download Fixes Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-acer-laptop-solutions-when-it-wont-charge/"><u>Troubleshooting Acer Laptop: Solutions When It Won't Charge</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-troubleshooting-and-solving-crashes-in-total-war-rome-remastered/"><u>Ultimate Guide to Troubleshooting and Solving Crashes in Total War: Rome Remastered</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Methods to Repair ASUS Laptop's Dysfunctional Function Button Issues
-date: 2024-10-26T18:27:59.734Z
-updated: 2024-10-30T17:17:18.126Z
+date: 2024-11-03T17:22:51.199Z
+updated: 2024-11-04T21:41:57.316Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
@@ -59,35 +66,28 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
- Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 ### Fix 4: Update your keyboard driver
 
@@ -109,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -121,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
 If this method didn’t work for you, check out the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Keyboard Troubleshooter
 
  If your keyboard isn’t working properly, running a built-in troubleshooter might help find and fix the problem for you. To do so:
@@ -138,25 +138,37 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -188,18 +200,15 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>[New] In 2024, Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlock-social-growth-youtube-links-to-fb/"><u>2024 Approved Unlock Social Growth YouTube Links to FB</u></a></li>
-<li><a href="https://techidaily.com/ace-the-shot-expert-strategies-for-easy-and-effective-screenshotting-on-asus-machines/"><u>Ace the Shot: Expert Strategies for Easy and Effective Screenshotting on ASUS Machines</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnose-and-repair-overwatch-connection-failures-a-comprehensive-guide/"><u>Diagnose & Repair Overwatch Connection Failures: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-struggle-for-users-and-profits-amidst-the-tiktok-wave/"><u>Facebook’s Struggle for Users and Profits Amidst the TikTok Wave</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-windows-10-update-issue-a-guide-on-resolving-0x800705b4-error/"><u>Fixing the Windows 10 Update Issue: A Guide on Resolving 0X800705b4 Error</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-sonic-and-the-hedgehog-switch-edition-top-10/"><u>In 2024, Sonic and the Hedgehog Switch Edition (Top 10)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-or-updating-intel-rapid-storage-technology-guide-for-windows-vista781011-users/"><u>Installing or Updating Intel Rapid Storage Technology: Guide for Windows Vista/7/8/10/11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/razer-keyboard-issue-resolved-why-it-wasnt-lighting-up-and-what-to-do/"><u>Razer Keyboard Issue Resolved - Why It Wasn't Lighting Up & What to Do</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-integration-of-realtek-audio-device-with-windows-11-drive-downloads-and-setup-tips/"><u>Seamless Integration of RealTek Audio Device with Windows 11: Drive Downloads & Setup Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-no-audio-output-device-found-issue-on-your-windows-pc/"><u>Solving the 'No Audio Output Device Found' Issue on Your Windows PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-this-device-is-unavailable-code-24-problem-for-versions-10-8-and-7/"><u>Solving Windows 'This Device Is Unavailable (Code 24)' Problem for Versions 10, 8 & 7</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-better-analytics-using-our-advanced-cookiebot-features/"><u>Unlock Better Analytics Using Our Advanced Cookiebot Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-elevating-audio-rates-on-youtube-dual-device-approach/"><u>[Updated] 2024 Approved Elevating Audio Rates on YouTube Dual Device Approach</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/easy-methods-for-mirroring-a-redmi-mobile-device-with-your-personal-computer/"><u>Easy Methods for Mirroring a Redmi Mobile Device with Your Personal Computer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/easy-walkthrough-for-old-facebook-stories-on-laptops-and-phones/"><u>Easy Walkthrough for Old Facebook Stories on Laptops & Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-message-volume-damaged-0x80071ac3-troubleshooting-steps-for-recovery/"><u>Error Message: Volume Damaged (0X80071AC3) - Troubleshooting Steps for Recovery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-nvidia-3d-vision-driver-downloads-for-windows-comprehensive-guide/"><u>Free Nvidia 3D Vision Driver Downloads for Windows – Comprehensive Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-elements-to-construct-a-magnetic-vlog-storyline/"><u>In 2024, Elements to Construct a Magnetic Vlog Storyline</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-your-windows-stores-cached-data-a-guide/"><u>Resolving Issues with Your Windows Store's Cached Data – A Guide</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s24plus-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy S24+ can't play MP4 video files</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210138834-troubleshooting-guide-fixing-minecraft-lan-connection-issues-quick-solutions/"><u>Troubleshooting Guide: Fixing 'Minecraft LAN Connection Issues' - Quick Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-freezing-issues-during-windows-10-launch/"><u>Troubleshooting Guide: Fixing Freezing Issues During Windows 10 Launch</u></a></li>
 </ul></div>
 

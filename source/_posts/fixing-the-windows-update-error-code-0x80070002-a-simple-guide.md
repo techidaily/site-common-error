@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Windows Update Error Code 0X80070002: A Simple Guide"
-date: 2024-10-28T17:35:38.775Z
-updated: 2024-10-30T18:22:51.848Z
+date: 2024-10-29T07:52:04.666Z
+updated: 2024-11-05T10:35:44.673Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest version of IE for Windows 7
 
  This fix is for the users who are using **Windows 7** operating system. If the current OS of your PC is not Windows 7, you can skip this fix.
@@ -52,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 3. Install the latest version of IE 11 on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then Type **control** and press **Enter** to open the Control Panel.  
@@ -63,8 +70,24 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 5. In the search box in the upper-right corner, type **installed update** . Click **View installed updates** under **Programs and Features**  to view installed updates on your PC.  
 ![View installed updates](https://images.drivereasy.com/wp-content/uploads/2018/09/View-installed-updates.jpg)
 6. Delete **Hotfix for Microsoft Windows (KB2534111)** and **Hotfix for Microsoft Windows (KB2639308)** .   **If you don’t find these two hot fixes, please skip this step.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![step 6](https://images.drivereasy.com/wp-content/uploads/2018/09/step-6.jpg)
 7. Restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Open IE and go through the welcome screen. Then close all the tabs to close IE.
 9. Restart your PC.
 
@@ -85,14 +108,14 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 5. Click **Apply this fix**  to start the update process in the background immediately.  
 ![Fix 2 Step 5](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-2-Step-5.jpg)
 
- The troubleshooter will try to fix the issue for you. You can restart your computer and try performing the Windows update again. If it still doesn’t work, please try the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The troubleshooter will try to fix the issue for you. You can restart your computer and try performing the Windows update again. If it still doesn’t work, please try the next fix.
 
 ### Fix 3: Restart the Windows Update service
 
@@ -103,21 +126,14 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 2. Right-click **Windows Update**  and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Fix 3 step 2](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-2.jpg)
 3. On your keyboard, press **the Windows Logo Key** and **E** at the same time to open **File Explorer** . Copy the path below and paste it in the address bar, then press **Enter** on your keyboard to go to the **DataStore**  folder.  
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **C:\\Windows\\SoftwareDistribution\\DataStore**  
 
@@ -133,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 ![Fix 3 step 7](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-7.jpg)
 
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the DISM tool
 
@@ -157,27 +166,21 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 ![DISM CheckHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-CheckHealth.jpg)  
 **Note:** When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Dism /Online /Cleanup-Image /RestoreHealth**  
 ![DISM RestoreHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-RestoreHealth.jpg)  
  Note: The command line **Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Close Command Prompt when the restore operation completed.  
 ![Fix 4 step 3](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-4-step-3.jpg)
 
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Run System File Checker
 
@@ -219,14 +222,14 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-6.jpg)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
-## This issue persists?
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## This issue persists?
 
 ### Want us to fix the problem for you?
 
@@ -255,24 +258,19 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-home-cinematic-wonders-fastest-tips-and-tricks/"><u>[New] In 2024, Home Cinematic Wonders Fastest Tips & Tricks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-harmonious-hits-a-guide-to-sound-in-instagram-clips/"><u>[Updated] Harmonious Hits A Guide to Sound in Instagram Clips</u></a></li>
-<li><a href="https://common-error.techidaily.com/bring-out-the-hidden-touchpad-showcase-it/"><u>Bring Out the Hidden Touchpad, Showcase It</u></a></li>
-<li><a href="https://win-superb.techidaily.com/effektiver-ansatz-fur-die-ruckgewinnung-verlorener-orf-informationen-einfache-erklarung-des-orf-prozesses/"><u>Effektiver Ansatz Für Die Rückgewinnung Verlorener ORF Informationen: Einfache Erklärung Des ORF Prozesses</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203244022-fixing-call-of-duty-wwii-error-4220-heres-your-complete-troubleshooting-solution/"><u>Fixing Call of Duty WWII Error 4220? Here's Your Complete Troubleshooting Solution!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-windows-update-error-understanding-and-resolving-0x8007049e-issue/"><u>Fixing the Windows Update Error: Understanding and Resolving '0X8007049e' Issue</u></a></li>
-<li><a href="https://fox-http.techidaily.com/from-novice-to-expert-a-guide-for-effective-single-stream-livestreams/"><u>From Novice to Expert A Guide for Effective Single-Stream Livestreams</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/hidden-gems-in-windows-11-features-worth-noticing/"><u>Hidden Gems in Windows 11: Features Worth Noticing</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-gt-neo-5-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-civi-3-disney-100th-anniversary-edition-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Civi 3 Disney 100th Anniversary Edition Screen | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/revitalize-your-pc-how-to-combat-excessive-cpu-usage-from-shell-infrastructure-in-linux-and-beyond/"><u>Revitalize Your PC – How to Combat Excessive CPU Usage From Shell Infrastructure in Linux and Beyond</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/utionize-your-branding-strategy-with-access-to-a-vast-library-of-free-youtube-banners-for-2024/"><u>Revolutionize Your Branding Strategy with Access to a Vast Library of Free YouTube Banners for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-errsslprotocolerror-chrome-error/"><u>Solved: Err_ssl_protocol_error Chrome Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-restoring-right-click-capability-in-windows-nvme-10-systems/"><u>Step-by-Step Solution for Restoring Right-Click Capability in Windows Nvme 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-solution-to-overcome-livekernelevent-error-117/"><u>The Ultimate Solution to Overcome LiveKernelEvent Error 117</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-expert-advice-t17239718720366/"><u>Tom's Tech Insights: In-Depth Reviews and Expert Advice</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-app-downloads-discover-these-10-solutions/"><u>Trouble with iPhone App Downloads? Discover These 10 Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-surface-pro-4-camera-issues-in-windows-10/"><u>Troubleshooting Guide: Fixing Surface Pro 4 Camera Issues in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-how-to-fix-issues-with-non-downloading-torrents/"><u>Troubleshooting Steps: How to Fix Issues with Non-Downloading Torrents</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-winning-software-to-capture-your-display-on-windows-10/"><u>[New] Winning Software to Capture Your Display on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-usb-malfunction-solutions-for-reviving-your-computers-connector/"><u>Dell USB Malfunction: Solutions for Reviving Your Computer’s Connector</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-fixes-for-non-workingnot-captured-obs-desktop-sounds/"><u>Essential Fixes for Non-Working/Not Captured OBS Desktop Sounds</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-elgoog-the-definitive-guide-to-understanding-the-unconventional-search-engine/"><u>Exploring elgooG: The Definitive Guide to Understanding the Unconventional Search Engine</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-system-files-top-6-access-methods/"><u>Exploring System Files: Top 6 Access Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unleash-creativity-building-a-memorable-podcast-logo/"><u>In 2024, Unleash Creativity Building a Memorable Podcast Logo</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-problems-fixed-restoring-functionality-of-number-pad/"><u>Keyboard Problems Fixed: Restoring Functionality of Number Pad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/netflix-trouble-heres-how-to-fix-the-using-a-proxyvpn-error-message/"><u>Netflix Trouble? Here's How to Fix the 'Using a Proxy/VPN' Error Message</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210314181-overcome-laptop-charging-problems-expert-advice-to-revive-your-battery-fast/"><u>Overcome Laptop Charging Problems: Expert Advice to Revive Your Battery Fast!</u></a></li>
+<li><a href="https://common-error.techidaily.com/replenished-essential-inputoutput-device-drivers-required-by-your-computer/"><u>Replenished Essential Input/Output Device Drivers Required by Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-pc-reset-problems-on-windows-10-efficiently/"><u>Step-by-Step Guide: Fixing PC Reset Problems on Windows 10 Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-on-solving-constant-system-lockups/"><u>Step-by-Step Tutorial on Solving Constant System Lockups</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-6-screen-recorder-no-ads-for-android/"><u>Top 6 Screen Recorder No Ads for Android</u></a></li>
 </ul></div>
 

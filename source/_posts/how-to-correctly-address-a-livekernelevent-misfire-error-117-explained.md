@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address a LiveKernelEvent Misfire, Error 117 Explained
-date: 2024-10-23T18:08:13.534Z
-updated: 2024-10-30T17:48:57.516Z
+date: 2024-11-03T08:40:21.657Z
+updated: 2024-11-04T21:05:16.630Z
 tags:
   - win11
   - win10
@@ -54,21 +54,7 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Click**Change adapter** **settings** on the left.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
@@ -78,9 +64,30 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Use the Ethernet connection
 
@@ -90,10 +97,17 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
@@ -114,21 +128,14 @@ A missing or outdated network card driver will cause connection issues in your c
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Open Destiny 2 and see the servers not available error has been removed.
 
@@ -154,19 +161,24 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-tight-scenes-minecraft-edition/"><u>[New] 2024 Approved Navigating Tight Scenes Minecraft Edition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-rapid-review-windows-files-made-simple/"><u>[New] Rapid Review Windows Files Made Simple</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-screenshot-secrets-for-windows-pros/"><u>[New] Screenshot Secrets for Windows Pros</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-facetune-manual-for-perfected-2024-pics/"><u>[New] The Ultimate Facetune Manual for Perfected 2024 Pics</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-latest-hit-a-guide-to-todays-top-8-online-videos/"><u>[Updated] In 2024, The Latest Hit A Guide to Today's Top 8 Online Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-troubleshoot-facebook-live-pause-strategies-for-smooth-broadcasts/"><u>2024 Approved Troubleshoot Facebook Live Pause Strategies for Smooth Broadcasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-issues-with-windows-10-not-identifying-hdmi-tv-step-by-step-solution/"><u>Fixing Issues with Windows 10 Not Identifying HDMI TV - Step by Step Solution</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/next-gen-gaming-escapades-top-5-psvr-titles-for-the-future/"><u>Next-Gen Gaming Escapades Top 5 PSVR Titles for the Future</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-win-updating-drivers-in-windows-11-easily/"><u>Quick Win: Updating Drivers in Windows 11 Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correct-bad-image-errors-on-windows-1011-systems/"><u>Step-by-Step Guide to Correct Bad Image Errors on Windows 10/11 Systems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-90-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor 90 FRP</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-your-computer-resolving-constant-usb-not-detected-alerts-easily/"><u>Troubleshoot Your Computer: Resolving Constant 'USB Not Detected' Alerts Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-the-issue-of-windowsplusshiftpluss-unresponsiveness-in-windows-11-and-10/"><u>Troubleshooting Tips: Fixing the Issue of Windows+Shift+S Unresponsiveness in Windows 11 and 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-keys-on-your-windows-keyboard-easy-fixes-and-tips/"><u>Troubleshooting Unresponsive Keys on Your Windows Keyboard – Easy Fixes & Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-hit-the-town-non-gta-games-that-offer-similar-joy-for-2024/"><u>[New] Hit the Town Non-GTA Games That Offer Similar Joy for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-enhance-your-visuals-the-best-text-editors-reviewed/"><u>2024 Approved Enhance Your Visuals The Best Text Editors Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-minimizing-vr-nausea-effective-strategies/"><u>2024 Approved Minimizing VR Nausea Effective Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/bring-life-back-to-your-console-troubleshooting-a-dead-ps4-dualshock-charge/"><u>Bring Life Back to Your Console: Troubleshooting a Dead PS4 Dualshock Charge</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-why-gamer-friendly-monitors-are-overrated/"><u>Exploring Why Gamer-Friendly Monitors Are Overrated</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-successful-for-new-world-addressing-the-easy-anti-cheat-problems/"><u>Fix Successful for 'New World': Addressing the Easy Anti-Cheat Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/funicate-mastery-for-seamless-media-access-for-2024/"><u>Funicate Mastery for Seamless Media Access for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-a-step-by-step-approach-to-freeing-up-space-in-figma/"><u>In 2024, A Step-by-Step Approach to Freeing Up Space in Figma</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-secret-lives-of-messages-exploring-whatsapp-hidden-features/"><u>In 2024, The Secret Lives of Messages Exploring WhatsApp Hidden Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-rtl81ncu-driver-download-compatible-with-windows-10-11-and-7-systems/"><u>Realtek RTL81nCU Driver Download: Compatible with Windows 10, 11 and 7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-resolving-non-functional-speakers-on-your-pc/"><u>Solution Guide: Resolving Non-Functional Speakers on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-pnpudfdevicenotfound-issue-a-guide-to-troubleshooting-error-0xc0000098-in-windows/"><u>Solving the PnP_UDF_DEVICE_NOT_FOUND Issue: A Guide to Troubleshooting Error 0xC0000098 in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-looming-departure-of-unreal-in-the-wake-of-d3d-loss/"><u>The Looming Departure of Unreal in the Wake of D3D Loss</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-guide-for-the-0x800705b4-error-during-windows-11-updates-solved/"><u>The Ultimate Fix Guide for the 0X800705b4 Error During Windows 11 Updates [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-turning-on-bluetooth-in-windows-7/"><u>The Ultimate Guide to Turning On Bluetooth in Windows 7</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210710328-9781642508840-the-womans-book-of-strength/"><u>The Woman's Book of Strength | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-s17-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo S17 Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-remote-server-connection-issues/"><u>Troubleshooting and Solutions for Remote Server Connection Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211368279-windows-10-missing-charge-indicator-easy-fix-guide/"><u>Windows 10 Missing Charge Indicator? Easy Fix Guide</u></a></li>
 </ul></div>
 

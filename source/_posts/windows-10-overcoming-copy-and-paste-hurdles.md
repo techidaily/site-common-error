@@ -1,7 +1,7 @@
 ---
 title: "Windows 10: Overcoming Copy & Paste Hurdles"
-date: 2024-10-29T17:41:26.828Z
-updated: 2024-10-30T17:10:04.294Z
+date: 2024-10-29T11:44:20.919Z
+updated: 2024-11-04T22:28:53.063Z
 tags:
   - win11
   - win10
@@ -41,10 +41,16 @@ thumbnail: https://thmb.techidaily.com/d0531d40b03cde46602b7231bfc17c15ddbf08155
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Close unnecessary programs
@@ -56,22 +62,35 @@ thumbnail: https://thmb.techidaily.com/d0531d40b03cde46602b7231bfc17c15ddbf08155
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this fix didn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Repair corrupted system files
 
@@ -86,21 +105,14 @@ If this fix didn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -114,6 +126,13 @@ If this fix didn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-09-15.png)
 
 If this fix didn’t help, try the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Restart the Windows Explorer process
 
@@ -132,13 +151,6 @@ If your problem persists, try the next fix.
 1. Press**Ctrl** and**Shift** and**Esc** on your keyboard to open Task Manager.
 2. Find the**RDP Clipboard Monitor** process, right-click it and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
 
@@ -179,18 +191,24 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-moto-g13-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Moto G13 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-through-the-crowd-your-guide-to-choosing-free-intro-masters-for-2024/"><u>Break Through the Crowd - Your Guide to Choosing Free Intro Masters for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-when-your-dell-camcorder-wont-function-with-windows-pc/"><u>Fixes for When Your Dell Camcorder Won't Function with Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/immediate-actions-for-local-security-not-functioning-warning/"><u>Immediate Actions for 'Local Security Not Functioning' Warning</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-a-3d-text-art-effect-in-adobe-illustrator/"><u>In 2024, How to Create a 3D Text Art Effect in Adobe Illustrator</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Meizu Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-14-text-movements-in-artwork/"><u>In 2024, Pioneering 14 Text Movements in Artwork</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-huawei-nova-y71-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Huawei Nova Y71 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-dysfunctional-function-keys-a-step-by-step-guide/"><u>Overcoming the Challenge of Dysfunctional Function Keys: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-tips-for-speeding-up-your-pcs-initial-launch-sequence/"><u>Quick Tips for Speeding Up Your PC's Initial Launch Sequence</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-airpods-pairing-problems-on-microsofts-latest-os-comprehensive-tips/"><u>Troubleshooting AirPods Pairing Problems on Microsoft's Latest OS - Comprehensive Tips</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-facets-a-thorough-examination-of-imochats-performance/"><u>Unveiling the Facets: A Thorough Examination of ImoChat's Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-tracks-to-mp3-safely-the-3-best-ways/"><u>[New] In 2024, How To Convert YouTube Tracks to MP3 Safely - The 3 Best Ways</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-instalment-insight-getting-vrecord-running/"><u>[New] In 2024, Instalment Insight Getting VRecord Running</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swift-tweeting-solutions-with-video-conversion/"><u>[New] Swift Tweeting Solutions with Video Conversion</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-complete-walkthrough-to-fix-monitors-showing-no-image-error-easily-and-quickly/"><u>A Complete Walkthrough to Fix Monitors Showing No Image Error Easily and Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/audio-stumbling-blocks-cleared-for-win-1011-users/"><u>Audio Stumbling Blocks Cleared for WIN 10/11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-solved-correcting-the-root-cause-of-driver-settings-configuration-error/"><u>Error Solved: Correcting the Root Cause of 'Driver Settings Configuration Error'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-samsung-galaxy-ring-costs-launch-timeline-specifications-and-latest-updates/"><u>Exploring the Samsung Galaxy Ring: Costs, Launch Timeline, Specifications, and Latest Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-it-right-now-why-isnt-my-voice-chat-working-the-warning-explained/"><u>Fix It Right Now: Why Isn't My Voice Chat Working? The Warning Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-system-interruption-a-detailed-approach-to-deal-with-blue-screen-error-0xc00000e9/"><u>Fixing System Interruption: A Detailed Approach to Deal with Blue Screen Error 0xC00000E9</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-pop-7-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Pop 7 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-70-lite-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor 70 Lite 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-6-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 6 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/methods-to-reactivate-non-responsive-hp-devices/"><u>Methods to Reactivate Non-Responsive HP Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-your-windows-11-experience-through-sfc-and-dism-repair-techniques/"><u>Optimizing Your Windows 11 Experience Through SFC and DISM Repair Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/resurrecting-off-screen-windows-made-simple-quick-fixes-for-desktop-woes/"><u>Resurrecting Off-Screen Windows Made Simple - Quick Fixes for Desktop Woes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/soil-spinners-finding-the-next-stardew-title-for-2024/"><u>Soil Spinners Finding the Next Stardew Title for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-non-functional-scrolling-on-a-logitech-mouse/"><u>Step-by-Step Solutions for Non-Functional Scrolling on a Logitech Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-for-resolving-broken-touchscreen-gesture-controls/"><u>Step-by-Step Tutorial for Resolving Broken Touchscreen Gesture Controls</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-initialization-issues-with-windows-10s-configuration-system/"><u>Troubleshooting Guide: Overcoming Initialization Issues with Windows 10'S Configuration System</u></a></li>
 </ul></div>
 

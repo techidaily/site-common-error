@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Troubleshooting: Correcting Error 0X80240017 in Windows Updates"
-date: 2024-10-29T16:05:34.911Z
-updated: 2024-10-30T18:13:22.997Z
+date: 2024-10-29T10:32:34.965Z
+updated: 2024-11-04T20:58:26.189Z
 tags:
   - win11
   - win10
@@ -44,27 +44,35 @@ Here’s what you can do:
 1. Type**Troubleshoot** in the search box on your desktop, and click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the Windows Update error persists, move on to the second method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset Windows Update Components
 
@@ -73,13 +81,6 @@ If the Windows Update error persists, move on to the second method.
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Copy and paste the following commands one by one in Command Prompt, and press**Enter** on your keyboard.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **net stop wuauserv**  
 **net stop cryptSvc**  
@@ -95,22 +96,15 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dd3338a3f.jpg)
 3. Wait for the commands to complete, and exit Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Open Windows Update and see if it works properly.
 
  If your issue still persists, don’t worry, There is something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Repair corrupted system files
@@ -128,6 +122,19 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -160,10 +167,10 @@ sfc /scannow
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
@@ -192,19 +199,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-asserting-ownership-on-social-platforms-instagrams-watermarking-secrets-for-2024/"><u>[New] Asserting Ownership on Social Platforms Instagram's Watermarking Secrets for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-foreground-emphasis-tips-for-logitech-video-recordings/"><u>[Updated] In 2024, Foreground Emphasis Tips for Logitech Video Recordings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unveiling-the-secrets-to-captioning-stories-and-reels/"><u>[Updated] In 2024, Unveiling the Secrets to Captioning Stories and Reels</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-coordinated-audio-visual-grouping-space/"><u>2024 Approved Coordinated Audio-Visual Grouping Space</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-edge-of-innovation-secure-these-7-must-have-devices/"><u>2024 Approved The Edge of Innovation Secure These 7 Must-Have Devices</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-dota-2-changerenderingapierror-2024-quickly-and-easily/"><u>Fix Dota 2 'ChangeRenderingAPI:Error 2024' Quickly and Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-comprehensive-guide-on-resolving-windows-camera-error-0xa00f4292/"><u>Fixing the Issue: Comprehensive Guide on Resolving Windows Camera Error 0xA00F4292</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-g42-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nokia G42 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211608220-resolved-when-screens-wont-accept-pen-or-touch-heres-what-to-do/"><u>Resolved: When Screens Won't Accept Pen or Touch, Here’s What to Do</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-unreachable-desktop-message-for-windows-system-accounts/"><u>Resolving the 'Unreachable Desktop' Message for Windows System Accounts</u></a></li>
-<li><a href="https://common-error.techidaily.com/shift-key-malfunctions-heres-how-you-can-get-it-fixed-now/"><u>Shift Key Malfunctions? Here's How You Can Get It Fixed Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repair-a-malfunctioning-laptop-touchpad/"><u>Step-by-Step Guide to Repair a Malfunctioning Laptop Touchpad</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/top-3-methods-for-free-veoh-downloads-a-comprehensive-guide/"><u>Top 3 Methods for FREE Veoh Downloads: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ultimate-guide-to-trending-youtubers/"><u>[New] In 2024, The Ultimate Guide to Trending YouTubers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-accelerate-your-channel-growth-affordable-subscribers-available/"><u>[Updated] 2024 Approved Accelerate Your Channel Growth - Affordable Subscribers Available</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-inspiring-vistas-top-20-scenic-shots-for-social-media-success-for-2024/"><u>[Updated] Inspiring Vistas Top 20 Scenic Shots for Social Media Success for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolution-ensuring-your-system-has-a-supported-d3d11-graphics-card/"><u>Error Resolution: Ensuring Your System Has a Supported D3D11 Graphics Card</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-fixing-the-common-opengl-error-1281-involving-texture-compression-formats-with-ease/"><u>Expert Advice: Fixing the Common OpenGL Error 1281 Involving Texture Compression Formats with Ease</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-eliminating-the-unexpected-trapping-bug-leading-to-blue-screen-failures-in-windows-11/"><u>Guide: Eliminating the Unexpected Trapping Bug Leading to Blue Screen Failures in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-dvd-player-problems-in-windows/"><u>How to Resolve DVD Player Problems in Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-selecting-the-perfect-4k-camera-lens/"><u>In 2024, Guide to Selecting the Perfect 4K Camera Lens</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-battleye-setup-expert-guide-for-seamless-integration-and-optimal-performance/"><u>Mastering BattlEye Setup: Expert Guide for Seamless Integration and Optimal Performance</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-10-best-omegle-alternatives-meet-new-people-online/"><u>New In 2024, 10 Best Omegle Alternatives Meet New People Online</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pro-video-tech-selecting-advanced-recording-software-for-2024/"><u>Pro Video Tech Selecting Advanced Recording Software for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-connectivity-on-an-unresponsive-dns-server/"><u>Step-by-Step Guide to Restoring Connectivity on an Unresponsive DNS Server</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-a25-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy A25 5G for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

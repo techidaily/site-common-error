@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Unknown USB Device' Errors in Windows 10: A Comprehensive Guide"
-date: 2024-10-24T16:41:33.427Z
-updated: 2024-10-30T17:51:09.251Z
+date: 2024-11-03T22:43:08.727Z
+updated: 2024-11-05T01:21:45.810Z
 tags:
   - win11
   - win10
@@ -66,10 +66,10 @@ net start cryptsvc
  If it is, then you’ve solved your problem. But if not, you may need to…
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Modify your Windows setting in the registry
@@ -84,10 +84,10 @@ net start cryptsvc
 3. If prompted, click**Yes** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. On the Registry Editor, click**File** , then select**Export** .  
@@ -96,44 +96,30 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
 
- Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
 ## Fix 3: Perform a clean boot
 
@@ -154,6 +140,14 @@ To do so:
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if the update error occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
@@ -162,13 +156,21 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 16. Click**OK** and then click**Restart** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
@@ -196,18 +198,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube/"><u>[Updated] In 2024, From Raw Feedback A Critical Review of Top Video Editors for YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-the-error-0x80n3cf9-on-windows-10-and-enjoy-uninterrupted-app-downloads/"><u>Bypass the Error 0X80n3cf9 on Windows 10 and Enjoy Uninterrupted App Downloads</u></a></li>
-<li><a href="https://driver-download.techidaily.com/compatible-pci-card-drivers-for-windows-operating-systems-including-11-10-8-and-7/"><u>Compatible PCI Card Drivers for Windows Operating Systems Including 11, 10, 8 & 7</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-13-pro-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 13 Pro to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-navigating-zoom-for-webinars-and-livestreams/"><u>In 2024, In-Depth Analysis Navigating Zoom for Webinars and Livestreams</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nubia-red-magic-9-proplus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nubia Red Magic 9 Pro+ Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-your-search-securing-cool-images-at-pexels-for-2024/"><u>Master Your Search Securing Cool Images at Pexels for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-configuration-hurdles-fixing-the-stuck-pre-setup-screen/"><u>Overcoming Windows Configuration Hurdles: Fixing the Stuck Pre-Setup Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-sign-in-failures-due-to-user-profile-services-errors/"><u>Resolving Windows 11 Sign-In Failures Due to User Profile Services Errors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/thwarting-video-stops-in-photobooth-recordings-for-2024/"><u>Thwarting Video Stops in Photobooth Recordings for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-night-light-feature-malfunction/"><u>Troubleshooting Windows 11 Night Light Feature Malfunction</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unveiling-the-ultimate-intelligent-fitness-routine/"><u>Unveiling the Ultimate Intelligent Fitness Routine</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-elevate-your-aerial-craft-best-practices-in-choosing-lipods-for-2024/"><u>[New] Elevate Your Aerial Craft Best Practices in Choosing LiPods for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-4-ways-to-record-ps3-gameplay/"><u>[New] In 2024, 4 Ways to Record PS3 Gameplay</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-finding-balance-in-fb-sharing-a-guide-to-aspect-ratio-knowledge/"><u>[Updated] 2024 Approved Finding Balance in FB Sharing A Guide to Aspect Ratio Knowledge</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elite-6-urban-home-structures-in-minecraft/"><u>Elite 6 Urban Home Structures in Minecraft</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-steam-servers-back-online-after-downtime/"><u>How to Get Your Steam Servers Back Online After Downtime</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-suite-of-business-plugins-and-slide-show-ideas/"><u>In 2024, Comprehensive Suite of Business Plugins and Slide Show Ideas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-top-5-gaming-headsets-for-youtube/"><u>In 2024, Top 5 Gaming Headsets for YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207894356-pdf-printing-woes-master-the-art-of-quick-and-effective-solutions/"><u>PDF Printing Woes? Master the Art of Quick and Effective Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-print-to-pdf-malfunctions-in-modern-windows-versions-by-microsoft/"><u>Resolving Print-to-PDF Malfunctions in Modern Windows Versions by Microsoft</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-browser-is-a-fresh-start-for-google-chrome-needed-now/"><u>Reviving Your Browser: Is a Fresh Start for Google Chrome Needed Now?</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-undetected-bluetooth-connections-on-your-windows-10-pc/"><u>Solve Undetected Bluetooth Connections on Your Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-enable-seamless-bluetooth-device-recognition-on-windows-11/"><u>Step-by-Step Fix: Enable Seamless Bluetooth Device Recognition on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-quick-and-effective-ways-to-fix-lagging-in-pubg/"><u>Ultimate Guide: Quick and Effective Ways to Fix Lagging in PUBG!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On OnePlus Open? | Dr.fone</u></a></li>
 </ul></div>
 

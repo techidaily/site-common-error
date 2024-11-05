@@ -1,7 +1,7 @@
 ---
 title: How to Restore Shift Key Operation - Step by Step Fixes
-date: 2024-10-24T18:03:24.849Z
-updated: 2024-10-30T18:24:42.544Z
+date: 2024-10-31T21:40:35.546Z
+updated: 2024-11-04T20:47:03.832Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 **[Fix 3: Update your chipset/keyboard drivers](#fix3)**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Modify BIOS settings
 
@@ -99,15 +92,28 @@ In another version of BIOS, the procedure may go like this:
 
 ![This image has an empty alt attribute; its file name is image-128.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Go to the**Driver** tab and click**Roll Back Driver** .
@@ -144,13 +150,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
@@ -170,10 +169,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
@@ -185,10 +190,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Repeat**Step3 through Step 4** to update your chipset driver.
@@ -213,15 +224,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-06-10_14-52-48-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -249,21 +267,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-pixelplay-logger-analysis/"><u>[New] PixelPlay Logger Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-expert-insights-on-optimal-fpv-drone-blades/"><u>[Updated] In 2024, Expert Insights on Optimal FPV Drone Blades</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-a-to-z-guide-to-recording-games-using-obs/"><u>[Updated] In 2024, The A-to-Z Guide to Recording Games Using OBS</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-infographics-spotlight-on-future-social-trends/"><u>[Updated] Infographics Spotlight on Future Social Trends</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-free-version-of-killer-network-drivers-compatible-with-win1087/"><u>Download the Latest Free Version of Killer Network Drivers Compatible with Win10/8/7</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-windows-camera-error-code-0xa00f4292-step-by-step-guide/"><u>Fixing the 'Windows Camera Error: Code 0xA00F4292' - Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-m1-macbook-pro-worth-an-upgrade-from-your-current-m3-model-expert-comparison-and-insights-zdnet/"><u>Is the M1 MacBook Pro Worth an Upgrade From Your Current M3 Model? Expert Comparison & Insights | ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-n11-performance-tackling-compatibility-telemetry-disk-overuse/"><u>Optimizing Windows N11 Performance: Tackling Compatibility Telemetry Disk Overuse</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-pubg-server-latency-problems-tips-and-tricks-for-optimal-performance/"><u>Overcoming PUBG Server Latency Problems - Tips & Tricks for Optimal Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-error-8007000e-in-windows-updates-quick-fixes-inside/"><u>Resolve Error 8007000E in Windows Updates: Quick Fixes Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-windows-failed-to-connect-with-the-system-event-notification-service/"><u>Resolved: Fixing 'Windows Failed to Connect with the System Event Notification Service'</u></a></li>
-<li><a href="https://common-error.techidaily.com/text-duplicate-fails-in-windows-11/"><u>Text Duplicate Fails in Windows 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-obs-streams-to-facebook-success/"><u>The Ultimate Guide OBS Streams to Facebook Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-a-non-functional-backspace-key-solutions/"><u>Troubleshooting a Non-Functional Backspace Key: Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-reducing-cs2-latency-and-ping-issues-on-your-gaming-pc/"><u>Ultimate Guide: Reducing CS2 Latency & Ping Issues on Your Gaming PC</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-google-pixel-8-pro-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Google Pixel 8 Pro.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-and-techniques-in-documentary-scriptwriting/"><u>[New] Strategies and Techniques in Documentary Scriptwriting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-differences-between-iphone-x-face-id-and-samsung-face-recognition/"><u>[Updated] 2024 Approved Differences Between iPhone X Face ID and Samsung Face Recognition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hazy-endings-how-to-black-out-with-pro/"><u>[Updated] Hazy Endings How to Black Out with Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-step-by-step-how-to-convert-and-download-vids-from-social-media-to-mp3s/"><u>[Updated] In 2024, Step-by-Step How to Convert and Download Vids From Social Media to MP3s</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-amazon-fire-hd-10-family-friendly-tablet-overview/"><u>Comprehensive Amazon Fire HD 10 Family-Friendly Tablet Overview</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnose-and-repair-ps4-dualshock-not-charging-issues-easily/"><u>Diagnose and Repair PS4 Dualshock Not Charging Issues Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-windows-11-sign-in-errors-with-easy-solutions-for-the-failed-user-profile-service/"><u>Fix Your Windows 11 Sign-In Errors with Easy Solutions for the Failed User Profile Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-security-connection-issues-a-guide-for-firefox-users/"><u>Fixing Security Connection Issues: A Guide for Firefox Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-video-card-error-in-the-sims-4-expert-tips-and-tricks/"><u>Fixing the 'Video Card Error' In The Sims 4: Expert Tips & Tricks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-toshibe-satellite-graphic-card-drivers-for-your-windows-computer/"><u>Get the Newest Toshibe Satellite Graphic Card Drivers for Your Windows Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-a78-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo A78 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-google-chrome-browser-reload-and-troubleshooting-tips/"><u>How to Fix a Non-Responsive Google Chrome Browser: Reload and Troubleshooting Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/noise-free-viewing-effective-methods-for-restoring-sound-on-netflix/"><u>Noise-Free Viewing: Effective Methods for Restoring Sound on Netflix</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-smart-8-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Smart 8 FRP</u></a></li>
 </ul></div>
 

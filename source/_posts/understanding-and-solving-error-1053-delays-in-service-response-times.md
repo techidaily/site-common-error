@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Solving Error 1053: Delays in Service Response Times"
-date: 2024-10-24T16:36:37.383Z
-updated: 2024-10-30T17:07:52.146Z
+date: 2024-10-29T22:29:54.394Z
+updated: 2024-11-05T10:49:00.557Z
 tags:
   - win11
   - win10
@@ -43,15 +43,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
-3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
+3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
@@ -76,22 +77,15 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
@@ -102,27 +96,36 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -147,22 +150,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-demystifying-facebooks-off-page-activity-review-for-2024/"><u>[New] Demystifying Facebook's Off-Page Activity Review for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-hub-for-newbies-in-cinematic-craftsmanship/"><u>[New] YouTube Hub for Newbies in Cinematic Craftsmanship</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-groupwatcher-pro-hd-downloader/"><u>[Updated] In 2024, GroupWatcher Pro HD Downloader</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-art-of-assault-in-real-time-rivalry/"><u>[Updated] The Art of Assault in Real-Time Rivalry</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch/"><u>2024 Approved Reel in the Future Top 5 PS VR Games on The Brink of Launch</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-seamlesscapture-w10s-simple-recording-tool/"><u>2024 Approved SeamlessCapture W10's Simple Recording Tool</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-a-stubborn-geforce-experience-application-that-refuses-to-start/"><u>Dealing with a Stubborn GeForce Experience Application That Refuses to Start</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-outcomes-with-chatgpt-a-guide-to-crafting-effective-user-personas/"><u>Enhancing Outcomes with ChatGPT: A Guide to Crafting Effective User Personas</u></a></li>
-<li><a href="https://win11.techidaily.com/experience-the-future-first-steps-with-windows-11-widgets/"><u>Experience the Future: First Steps with Window's 11 Widgets</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-problem-of-non-responsive-bluetooth-keyboard-in-pc-connectivity/"><u>Fixing the Problem of Non-Responsive Bluetooth Keyboard in PC Connectivity</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 13 mini</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamlining-corporate-compliance-with-admin-managed-windows-environment-settings/"><u>Streamlining Corporate Compliance with Admin-Managed Windows Environment Settings</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-windows-groove-with-these-5-solutions-for-a-malfunctioning-touchscreen/"><u>Troubleshoot and Repair Windows Groove with These 5 Solutions for a Malfunctioning Touchscreen</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-excessive-cpu-consumption-caused-by-windows-audio-device-graph-issue/"><u>Troubleshooting and Repairing Excessive CPU Consumption Caused by Windows' Audio Device Graph Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-fixing-xerox-software-updates-failure-error-0x800f020b-in-windows/"><u>Troubleshooting Guide for Fixing Xerox Software Updates Failure (Error 0X800f020b) in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-previously-unresponsive-custom-settings-are-now-working-perfectly/"><u>Troubleshooting Guide: Previously Unresponsive Custom Settings Are Now Working Perfectly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-bad-image-problems-on-windows-operating-systems/"><u>Troubleshooting Persistent Bad Image Problems on Windows Operating Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-pro-gopro-filming-tips-for-flawless-results/"><u>[New] In 2024, Pro Gopro Filming Tips for Flawless Results</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-voice-over-basics-from-script-to-screen/"><u>[New] In 2024, Voice-Over Basics From Script to Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-core-dll-is-undetected/"><u>[Solved]: Windows Core DLL Is Undetected</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-creating-heartfelt-youtube-journeys-for-2024/"><u>[Updated] Creating Heartfelt YouTube Journeys for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-digital-diaries-blending-visuals-with-audio-threads/"><u>[Updated] Digital Diaries Blending Visuals with Audio Threads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-facebook-cover-video-widthheight-guide/"><u>[Updated] In 2024, Facebook Cover Video Width/Height Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-capturing-content-with-confidence-winning-strategies-for-igtv-acquisition/"><u>2024 Approved Capturing Content with Confidence Winning Strategies for IGTV Acquisition</u></a></li>
+<li><a href="https://common-error.techidaily.com/arctis-5-mic-not-working-heres-the-ultimate-fix/"><u>Arctis 5 Mic Not Working? Here's The Ultimate Fix!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/effortless-youtube-video-to-text-conversion-at-no-cost-in-2024/"><u>Effortless YouTube Video to Text Conversion at No Cost, In 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-the-no-driver-files-found-error-on-your-new-windows-7-system/"><u>Eliminating the 'No Driver Files Found' Error on Your New Windows 7 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-sudden-computer-shutdown-issues-a-comprehhemic-approach-to-a-solved-problem/"><u>Fixing Sudden Computer Shutdown Issues: A Comprehhemic Approach to a Solved Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcome-windows-11-bug-error-0xc1900208-solution-unveiled/"><u>Guide to Overcome Windows 11 Bug - Error 0Xc1900208 Solution Unveiled</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-v-purse-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from V Purse.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-throw-a-memorable-labor-day-bash-expert-advice-and-must-have-ideas-curated-by-zdnet/"><u>How to Throw a Memorable Labor Day Bash: Expert Advice & Must-Have Ideas Curated by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-unidentified-usb-device-failures-during-port-resets-in-windows-11-environments/"><u>Overcoming the Challenge of Unidentified USB Device Failures During Port Resets in Windows 11 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-get-your-huion-pen-up-and-running-again/"><u>Quick Solutions: How to Get Your Huion Pen Up and Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-typing-issues-in-windows-11-with-these-simple-steps-for-malfunctioning-keyboard-buttons/"><u>Resolve Typing Issues in Windows 11 with These Simple Steps for Malfunctioning Keyboard Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-guide-resolving-the-dark-display-issue-on-your-dell-computer/"><u>Ultimate Troubleshooting Guide: Resolving the Dark Display Issue on Your Dell Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-potential-of-gpt-with-android/"><u>Unveiling the Potential of GPT with Android</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Error Code 0X8024200D During Windows Updates – A Comprehensive Guide
-date: 2024-09-04T20:22:00.327Z
-updated: 2024-09-05T20:22:00.327Z
+date: 2024-10-30T21:28:27.354Z
+updated: 2024-11-05T01:30:31.093Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap14-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press**the Windows Logo Key** and**E** at the same time to open **File Explorer** . Copy the path below and paste it into the address bar, then press **Enter** on your keyboard to go to the **DataStore**  folder.
 
 `C:\Windows\SoftwareDistribution\DataStore`
@@ -82,6 +89,13 @@ Please paste it in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap21-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Please paste it in the address bar.
 
 **6)** Delete all the files in the folder**Download** .
@@ -97,11 +111,12 @@ Please paste it in the address bar.
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3: Running System File Checker
 
  System File Checker can scan for corruptions in Windows system files and restore corrupted files. When you fail to install Windows updates, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -111,11 +126,12 @@ Please paste it in the address bar.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap37.png)
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** On your keyboard, type the command below and press **Enter** . **If your current operating system is Windows 7, please skip this step.**
 
 DISM.exe /Online /Cleanup-image /Restorehealth
@@ -124,12 +140,6 @@ DISM.exe /Online /Cleanup-image /Restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** When this command operation is completed, on your keyboard, type the following command and press **Enter** .
 
 sfc /scannow
@@ -156,12 +166,6 @@ It may take some time for the command operation to be completed.
 **ii.**  Type the command line**systeminfo** and press**Enter** to view your system type.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap31-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  “**X64-based PC** ” indicates that your Windows OS is 64-bit; “**X86-based PC** ” means that your Windows OS is 32-bit.
 
 **4)** Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  .
@@ -171,33 +175,29 @@ It may take some time for the command operation to be completed.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap42.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **6)** In the list of search results, select the right update for your operating system and click **Download** .
 
  If your Windows OS is 64-bit, you should download the update whose name contains “**x64-based** ”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap26-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap27.png)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **8)** Double-click the downloaded file and follow the on-screen instructions to install the update.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -209,8 +209,6 @@ It may take some time for the command operation to be completed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +216,26 @@ It may take some time for the command operation to be completed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capture-call-transcript-for-study-for-2024/"><u>[New] Capture Call Transcript for Study for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-unwrapped-to-personalized-perfection-10-leading-shopping-platforms/"><u>[New] From Unwrapped to Personalized Perfection 10 Leading Shopping Platforms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ultimate-web-compendium-alarm-rhythms-guidebook/"><u>[Updated] In 2024, Ultimate Web Compendium Alarm Rhythms Guidebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-physical-prowess-meets-online-opinions/"><u>[Updated] Physical Prowess Meets Online Opinions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pros-cons-navigating-virtual-reality-worlds/"><u>[Updated] Pros, Cons Navigating Virtual Reality Worlds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-note-30-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix Note 30 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-the-clouds-and-crowds-stream-from-dji-to-facebook/"><u>2024 Approved Navigating the Clouds and Crowds Stream From DJI to Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860137066-2024-approved-the-ultimate-user-friendly-guide-to-starting-an-effective-group-chat-on-skype-across-multiple-platforms/"><u>2024 Approved The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms.</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-a-non-responsive-pvpnet-lol-game-kernel/"><u>Easy Solutions for a Non-Responsive PvP.net LOL Game Kernel</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-frozen-taskbars-in-windows-10-insider-secrets-for-quick-resolution/"><u>Fixing Frozen Taskbars in Windows 10: Insider Secrets for Quick Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-failed-torrent-download-issues-a-step-by-step-guide/"><u>How to Troubleshoot Failed Torrent Download Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/live-streaming-elite-9-edition/"><u>Live Streaming Elite #9 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-browser-trouble-resolving-internet-explorer-wont-open/"><u>Overcome Browser Trouble: Resolving 'Internet Explorer Won't Open'</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-11-installer-error-successfully-resolved-error-80240020/"><u>Overcome Windows 11 Installer Error - Successfully Resolved Error 80240020</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-unfixable-how-to-overcome-a-critical-directx-failure/"><u>Resolving the Unfixable: How to Overcome a Critical DirectX Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unavailable-server-glitches-in-destiny-2-a-step-by-step-guide/"><u>Resolving Unavailable Server Glitches in Destiny 2: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-the-volume-icon-in-windows-11-a-step-by-step-guide-with-screenshots/"><u>Restoring the 'Volume' Icon in Windows 11: A Step-by-Step Guide with Screenshots</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-lol-lag-quick-fixes-for-slower-league-of-legends-downloads/"><u>Solve Your LoL Lag: Quick Fixes for Slower League of Legends Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/time-travelers-treasure-a-look-at-goofy-movie-for-2024/"><u>Time Traveler’s Treasure A Look at 'Goofy Movie' For 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving the Mystery of Unplayable DVD Files on Your PC
-date: 2024-10-29T17:29:13.189Z
-updated: 2024-10-30T18:18:06.725Z
+date: 2024-10-28T20:11:50.901Z
+updated: 2024-11-05T07:45:05.672Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 
 3\. Restart the PC and connect the device to the USB port.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 2: Uninstall the USB Driver in Device Manager**
 
 Follow these steps:
@@ -66,19 +59,6 @@ Follow these steps:
  2\. Right-click on the device and select**Uninstall** from the context menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdbac0739e5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
 
@@ -98,16 +78,16 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Disable Fast Startup**
 
@@ -131,16 +111,22 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde3ce2afe1.png)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6\. Under**Shutdown settings** , uncheck the box next to**Turn on fast startup (recommended)** . Then click on the**Save changes** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde41b1e60a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7\. Restart your PC and see if the problem resolves. Note your PC will boot a little slower.
 
@@ -153,10 +139,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde8af2b766.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2\. Click**Change settings that are currently unavailable** .
@@ -168,10 +154,16 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb69c7e9e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Click on**Change advanced power settings** .
@@ -182,11 +174,25 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb95133af.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6\. Locate**USB settings** and expand it.
 
  7\. Expand**USB selective suspend setting** . Disable both**On battery** and**Plugged in** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdec39ba7fd.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8\. Click the**Apply** button and restart your computer.
 
@@ -207,24 +213,20 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/-social-media-perspective-dissecting-igtv-versus-youtubes-features-for-2024/"><u>[New] A Social Media Perspective Dissecting IGTV versus YouTube's Features for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-pixel-gatherings-unique-ringtone-repository/"><u>[New] Ideal Pixel Gatherings Unique Ringtone Repository</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-craft-and-share-360-videos-to-youtube-an-essential-guide-for-creators/"><u>[New] In 2024, Craft and Share 360 Videos to YouTube An Essential Guide for Creators</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-freeplayvid-seamless-recording-for-the-avid-player/"><u>[Updated] 2024 Approved FreePlayVid Seamless Recording for the Avid Player</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-shoot-igtv-videos-with-smartphonedlsr-cameras/"><u>[Updated] 2024 Approved How to Shoot IGTV Videos With Smartphone/DLSR Cameras?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-clandestine-glimpse-at-fb-flashbacks/"><u>[Updated] In 2024, Clandestine Glimpse at Fb Flashbacks</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-how-to-restore-and-repair-your-windows-10-bluetooth-connection/"><u>Effortless Solutions: How to Restore and Repair Your Windows 10 Bluetooth Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-screen-blink-issue-on-windows-10/"><u>Fixing the Screen Blink Issue on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-keyboards-that-wont-type-in-windows-1178/"><u>How to Repair Keyboards That Won't Type in Windows [11/7/8]</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-connections-in-windows-media-player-a-comprehve-solution/"><u>How to Restore Connections in Windows Media Player: A Comprehve Solution</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-redmi-k70-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Redmi K70 FRP Bypass</u></a></li>
-<li><a href="https://common-error.techidaily.com/microsoft-wireless-display-adapter-wont-connect-on-windows-10-solved/"><u>Microsoft Wireless Display Adapter Won't Connect on Windows 10 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-common-audio-glitches-in-overwatch-with-quick-fixes/"><u>Overcoming Common Audio Glitches in Overwatch with Quick Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-disruption-resolving-the-hamachi-service-error-once-and-for-all/"><u>Overcoming Disruption: Resolving the Hamachi Service Error Once and For All</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ng-the-most-reliable-youtube-mp3-converters/"><u>Ranking the Most Reliable YouTube Mp3 Converters</u></a></li>
-<li><a href="https://common-error.techidaily.com/recover-lost-desktop-images-for-windows-11-users-step-by-step-troubleshooting/"><u>Recover Lost Desktop Images for Windows 11 Users – Step-by-Step Troubleshooting</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-your-headphones-disturbing-whir-a-guide-to-eliminating-unwanted-sounds/"><u>Solving the Mystery of Your Headphone's Disturbing Whir: A Guide to Eliminating Unwanted Sounds</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-the-change-in-network-settings-alert/"><u>Troubleshooting Steps for the 'Change in Network Settings' Alert</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-filmmakers-choice-leading-15-creative-gopro-luts/"><u>Ultimate Filmmaker's Choice Leading 15 Creative GOPRO LUTs</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-missing-codec-0xc00d5212-error-on-window-1110/"><u>[FIXED] Missing Codec 0Xc00d5212 Error on Window 11/10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-turning-off-igtv-on-your-account/"><u>[Updated] Turning Off IGTV on Your Account</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/"><u>2024 Approved Authoritative Picks Top 10 Apps to Watch Football Games Anytime, Anywhere</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-non-loading-photos-in-safari-top-9-solutions-for-iphones/"><u>Fixing Non-Loading Photos in Safari: Top 9 Solutions for iPhones</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-facile-pour-transferer-windows-11-dun-ssd-a-un-autre-sous-securite-de-demarrage/"><u>Guide Facile Pour Transférer Windows 11 D'un SSD À Un Autre Sous Sécurité De Démarrage</u></a></li>
+<li><a href="https://common-error.techidaily.com/handling-windows-errors-fixing-inaccessible-file-or-hard-drive-issues/"><u>Handling Windows Errors: Fixing Inaccessible File or Hard Drive Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-perform-operations-that-need-admin-rights-on-windows-11107/"><u>How to Perform Operations that Need Admin Rights on WIndows 11/10/7</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-cut-and-trim-videos-for-free-the-best-software/"><u>In 2024, Cut and Trim Videos for Free The Best Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Asus Phone without Google Account?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-hps-thunderbolt-dock-g2-firmware-for-your-120-watt-and-230-watt-devices-today/"><u>Install HP's Thunderbolt Dock G2 Firmware for Your 120-Watt and 230-Watt Devices Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/instantaneously-deploying-smart-agents-online-via-agentgpt/"><u>Instantaneously Deploying Smart Agents Online via AgentGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/silencing-windows-11-reboots/"><u>Silencing Windows 11 Reboots</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msdia80dll-in-your-system-delete-or-preserve/"><u>The Role of msdia80.dll in Your System - Delete or Preserve?</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-parameter-is-incorrect-mistake/"><u>Ultimate Guide: Resolving the 'Parameter Is Incorrect' Mistake</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-configuration-error-fixes-what-you-need-to-know-solved/"><u>Windows 11 Configuration Error Fixes – What You Need to Know [Solved]</u></a></li>
 </ul></div>
 

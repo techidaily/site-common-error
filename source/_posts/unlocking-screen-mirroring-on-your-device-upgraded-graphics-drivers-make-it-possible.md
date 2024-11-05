@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Screen Mirroring on Your Device: Upgraded Graphics Drivers Make It Possible"
-date: 2024-10-29T16:33:17.244Z
-updated: 2024-10-30T17:15:42.093Z
+date: 2024-10-30T21:08:15.849Z
+updated: 2024-11-04T21:24:33.312Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -55,10 +55,16 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -81,13 +87,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -97,13 +96,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -129,6 +121,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -139,16 +138,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
+<span id="1516072">
 					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
@@ -170,6 +169,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,14 +211,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unpacking-tunefab-written-review-on-latest-tech-for-screen-recording/"><u>[New] Unpacking Tunefab' Written Review on Latest Tech for Screen Recording</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-to-address-errcachemiss-errors-in-your-chrome-browser/"><u>Effective Fixes to Address ERR_CACHE_MISS Errors in Your Chrome Browser</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-erased-windows-explorer-fix/"><u>Error Erased: Windows Explorer Fix</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excessive-tiktok-drafts-simplify-with-smart-editing-techniques-for-2024/"><u>Excessive TikTok Drafts? Simplify with Smart Editing Techniques for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-code-1067-unanticipated-process-ended-in-windows/"><u>How to Fix the 'Error Code 1067: Unanticipated Process Ended' In Windows</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-crystal-clear-capture-amping-up-your-home-studio-recordings/"><u>In 2024, Crystal Clear Capture Amping Up Your Home Studio Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-a-silent-windows-11-mobile-hotspot-connection/"><u>Reactivating a Silent Windows 11 Mobile Hotspot Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-lenovo-laptop-camera-functionality-with-easy-repair-steps/"><u>Revive Your Lenovo Laptop Camera Functionality with Easy Repair Steps</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/wii-us-victory-lap-analyzing-factors-that-led-to-its-successful-launch-and-reception/"><u>Wii U's Victory Lap: Analyzing Factors That Led to Its Successful Launch and Reception</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y100i-power-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/causing-resentment-among-colonists-who-felt-that-these-acts-infringed-upon-their-economic-freedom-and-benefited-british-interests-at-the-expense-of-colonial101/"><u>Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-to-correct-the-windows-11-update-failure-error-0x80070541/"><u>Easy Solutions to Correct the Windows 11 Update Failure (Error 0X80070541)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207307794-easy-to-fix-your-dns-server-might-be-unavailable-error/"><u>Easy to Fix “Your DNS Server Might Be Unavailable” Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-fix-successfully-completing-your-windows-installation/"><u>Fast Fix: Successfully Completing Your Windows Installation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-strategic-trailer-planning-for-increased-channels-profitability/"><u>In 2024, Strategic Trailer Planning for Increased Channels' Profitability</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-asus-zenbook-pro/"><u>In-Depth Analysis of the Asus Zenbook Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-repair-overcoming-opengl-hurdles-in-minecraft-gaming/"><u>Mastering the Art of Repair: Overcoming OpenGL Hurdles in Minecraft Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-persistent-issues-in-call-of-duty-black-ops-iv/"><u>Overcoming Persistent Issues in Call of Duty: Black Ops IV</u></a></li>
+<li><a href="https://video-capture.techidaily.com/recording-rivals-meet-for-2024/"><u>Recording Rivals, Meet for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nokia-c110-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nokia C110</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-your-aoc-display-failures-in-windows-11-setup/"><u>Step-by-Step Solutions for Your AOC Display Failures in Windows 11 Setup</u></a></li>
 </ul></div>
 

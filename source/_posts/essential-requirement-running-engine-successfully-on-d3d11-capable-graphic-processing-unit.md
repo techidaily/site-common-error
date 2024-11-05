@@ -1,7 +1,7 @@
 ---
 title: "Essential Requirement: Running Engine Successfully on D3D11 Capable Graphic Processing Unit"
-date: 2024-10-25T17:58:57.665Z
-updated: 2024-10-30T17:26:26.640Z
+date: 2024-11-02T00:44:39.413Z
+updated: 2024-11-05T07:38:05.285Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -64,20 +57,27 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -90,15 +90,22 @@ Follow these:
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
@@ -117,13 +124,6 @@ Follow these:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers. Your keyboard driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
@@ -150,22 +150,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-best-practices-for-engaging-with-facebook-live-content/"><u>[New] Best Practices for Engaging with Facebook Live Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-minecraft-lan-not-working/"><u>[SOLVED] Minecraft LAN Not Working</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-choosing-platforms-youtube-shorts-vs-tiktok-best-for-minis/"><u>[Updated] In 2024, Choosing Platforms YouTube Shorts Vs. TikTok – Best for Minis</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-discover-the-top-6-phone-utilities-for-clean-image-cropping/"><u>2024 Approved Discover the Top 6 Phone Utilities for Clean Image Cropping</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-step-by-step-craft-your-viral-story-in-online-videos/"><u>2024 Approved Step by Step, Craft Your Viral Story in Online Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/clear-up-fuzzy-display-on-your-windows-11-screen-quick-fixes-inside/"><u>Clear Up Fuzzy Display on Your Windows 11 Screen - Quick Fixes Inside</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-a58-4g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo A58 4G FRP Locks</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-se-2022-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone SE (2022) If Youve Tried Everything</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-fn-keys-on-an-asus-notebook/"><u>How to Fix Unresponsive Fn Keys on an ASUS Notebook</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-poco-x6-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Poco X6 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-these-5-techniques-for-fixing-your-devices-touch-display-in-windows-11/"><u>Master These 5 Techniques for Fixing Your Device's Touch Display in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-file-explorer-on-windows-11-simple-solutions-for-quick-assistance/"><u>Mastering File Explorer on Windows 11: Simple Solutions for Quick Assistance</u></a></li>
-<li><a href="https://common-error.techidaily.com/monochrome-disruption-visual-anomaly/"><u>Monochrome Disruption: Visual Anomaly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-screen-recorder-tools-analysis-march-2023/"><u>New Screen Recorder Tools Analysis – March 2023</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-simple-guide-performing-a-fresh-installation-of-windows-11/"><u>Quick & Simple Guide: Performing a Fresh Installation of Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-aoc-display-problems-on-windows-10-easy-steps-for-users/"><u>Solve AOC Display Problems on Windows 10 - Easy Steps for Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211619581-winning-against-windows-update-challenge-solving-error-0x802n02e-successfully/"><u>Winning Against Windows Update Challenge: Solving Error 0X802n02e Successfully</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-cut-cost-and-clutter-together-top-45-best-free-apps-for-saving-videos-on-android/"><u>[New] Cut Cost and Clutter Together Top 45 Best Free Apps for Saving Videos on Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-meditative-harmony-the-top-10-legally-accessible-chants-and-tracks/"><u>[Updated] In 2024, Meditative Harmony – The Top 10 Legally Accessible Chants & Tracks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-future-awaits-elevate-your-fb-chronicles-for-free/"><u>[Updated] In 2024, The Future Awaits Elevate Your FB Chronicles for FREE</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/10-highest-performing-business-youtube-platforms-explained-for-2024/"><u>10 Highest Performing Business YouTube Platforms Explained for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unlock-6-figure-visibility-on-youtube-via-optimal-hashtags/"><u>2024 Approved Unlock 6-Figure Visibility on YouTube via Optimal Hashtags</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-permanent-windows-10-update-freeze-at-99-percent/"><u>Fixing the Permanent Windows 10 Update Freeze at 99 Percent</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hdr-vs-sdr-a-visual-spectrum-showdown-for-2024/"><u>HDR vs SDR A Visual Spectrum Showdown for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-camon-30-pro-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Camon 30 Pro 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-overwatch-server-connection-error-quickly-and-easily/"><u>How to Resolve the Overwatch Server Connection Error Quickly and Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-no-supported-devices-detected-fixes-and-tips-for-windows-7-setup/"><u>Resolve 'No Supported Devices Detected': Fixes & Tips for Windows 7 Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209897455-resolve-your-windows-10-bluetooth-disappearance-troubles-with-simple-fixes/"><u>Resolve Your Windows 10 Bluetooth Disappearance Troubles with Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-a-comprehensive-guide-on-overcoming-the-red-screen-error/"><u>Resolved: A Comprehensive Guide on Overcoming the Red Screen Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-webcam-functionality-on-hp-devices-with-windows-11/"><u>Step-by-Step Solution: Restoring Webcam Functionality on HP Devices with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-final-countdown-over-fortnite-launched/"><u>The Final Countdown Over - Fortnite Launched</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-xr-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone XR</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-the-error-dealing-with-non-compatible-entries-on-visual-outputs/"><u>Understanding the Error: Dealing with Non-Compatible Entries on Visual Outputs</u></a></li>
+<li><a href="https://common-error.techidaily.com/what-should-i-do-when-windows-10-hangs/"><u>What Should I Do when Windows 10 Hangs?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-and-system-event-notification-services-connection-problem-fixed/"><u>Windows & System Event Notification Services Connection Problem, Fixed!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/zoom-into-action-capturing-your-desktop-ezvide-style/"><u>Zoom Into Action Capturing Your Desktop, EZvide Style</u></a></li>
 </ul></div>
 

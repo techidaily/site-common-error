@@ -1,7 +1,7 @@
 ---
 title: Solutions to Resolve LiveKernelEvent Code 144 Issue
-date: 2024-10-23T16:36:19.909Z
-updated: 2024-10-30T18:14:50.372Z
+date: 2024-10-30T02:59:44.573Z
+updated: 2024-11-04T23:58:50.073Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 4. **[Check for Windows Updates](#d)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run the keyboard troubleshooter
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 
  If Windows fails to detect your problem, don’t worry. Move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Adjust your pointer speed
 
  The issue with the blinking cursor may happen when the pointer speed is set too high. If that’s the problem for you, you should adjust your pointer speed. Follow the instructions below to see how to do it:
@@ -75,33 +68,20 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-531.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Mouse** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-532-1024x753.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Adjust your pointer speed to a proper place, like in the very middle. Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-533.png)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Check to see if your mouse can work properly now.
 
@@ -139,6 +119,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of_all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-229.png)
@@ -148,10 +135,10 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Updates
@@ -165,6 +152,13 @@ OR
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer after the update is complete.
 
@@ -192,20 +186,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-pro-tips-for-the-best-pc-snipping-software-of-today/"><u>[New] In 2024, Pro Tips for the Best PC Snipping Software of Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206148291-fix-broken-device-drivers-in-no-time-easy-steps-inside/"><u>Fix Broken Device Drivers in No Time - Easy Steps Inside</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Lock Screen Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-camon-30-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Camon 30 Pro 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-elevate-your-content-with-these-top-5-youtube-marketing-methods/"><u>In 2024, Elevate Your Content with These Top 5 YouTube Marketing Methods</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-mastering-close-up-web-views-on-screen/"><u>In 2024, Mastering Close-Up Web Views on Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-zero-5g-2023-turbo-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Zero 5G 2023 Turbo Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/searching-for-gone-screen-adjustment-in-win-oses/"><u>Searching For Gone Screen Adjustment in Win OSes</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-broken-usb-connectivity-in-hp-notebooks/"><u>Step-by-Step Fix for Broken USB Connectivity in HP Notebooks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/superior-5-camera-background-modification-utilities-for-2024/"><u>Superior 5 Camera Background Modification Utilities for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-social-media-metamorphosis-from-facebook-to-meta/"><u>The Social Media Metamorphosis: From Facebook to Meta</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-youtube-broadcast-handbook-for-2024/"><u>The Ultimate YouTube Broadcast Handbook for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-cannot-launch-new-world-due-to-easy-anti-cheat-issues/"><u>Troubleshooting Guide: Resolving 'Cannot Launch New World' Due to Easy Anti-Cheat Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/verdict-no-drivers-advocating-for-opengl/"><u>Verdict: No Drivers Advocating for OpenGL</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207177279-windows-amozekioe11-not-working-heres-how-you-can-repair-it/"><u>Windows Amozekioe11 Not Working? Here's How You Can Repair It!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-crafting-an-engaging-film-teaser/"><u>[New] In 2024, Crafting an Engaging Film Teaser</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[Updated] Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-list-of-different-video-camera-types/"><u>[Updated] List of Different Video Camera Types</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-strategies-to-bypass-invisible-restrictions-on-tiktok/"><u>[Updated] Strategies to Bypass Invisible Restrictions on TikTok</u></a></li>
+<li><a href="https://common-error.techidaily.com/breaking-free-from-stuck-windows-updates-on-older-systems-expert-insights-and-latest-techniques-edition-guide-helpful-tips-and-step-by-step-guide/"><u>Breaking Free From Stuck Windows Updates on Older Systems – Expert Insights and Latest Techniques Edition! (Guide, Helpful Tips & Step by Step Guide.)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970462284-expert-techniques-for-downloading-and-installing-lenovo-thinkpad-drivers-without-any-worries/"><u>Expert Techniques for Downloading and Installing Lenovo ThinkPad Drivers Without Any Worries</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-not-your-cup-of-tea-discover-these-10-alternatives/"><u>FCPX Not Your Cup of Tea? Discover These 10 Alternatives</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-dell-webcam-issues-on-a-windows-pc-solutions-and-troubleshooting-tips/"><u>Fixing Dell Webcam Issues on a Windows PC - Solutions and Troubleshooting Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-the-function-fn-buttons-back-on-your-dell-device-lets-resolve-that-today/"><u>Getting the Function (Fn) Buttons Back on Your Dell Device? Let's Resolve That Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/google-chrome-stalling-heres-why-and-how-to-quickly-resolve/"><u>Google Chrome Stalling? Here's Why and How to Quickly Resolve</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-8-best-webcam-filters-for-streaming/"><u>In 2024, 8 Best Webcam Filters For Streaming</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-itel-p55-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Itel P55 Phone Network-Ready</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209951640-league-of-legends-update-dilemma-speed-up-your-game-install-process-now/"><u>League of Legends Update Dilemma? Speed Up Your Game Install Process Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-stuck-spacebar-problem-on-your-newly-installed-windows-11-pc/"><u>Solving the Stuck Spacebar Problem on Your Newly Installed Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-you-encounter-internet-explorer-not-responding/"><u>Troubleshooting Steps When You Encounter 'Internet Explorer Not Responding'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-ensuring-seamless-pairing-of-airpods-with-windows-1011-systems/"><u>Troubleshooting Tips: Ensuring Seamless Pairing of AirPods with Windows 10/11 Systems</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/windows-server-20083/"><u>Windows Server 2008における3種類のファイル復元手段</u></a></li>
 </ul></div>
 

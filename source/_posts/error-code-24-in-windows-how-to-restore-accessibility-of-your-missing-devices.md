@@ -1,7 +1,7 @@
 ---
 title: "Error Code 24 in Windows: How to Restore Accessibility of Your Missing Devices"
-date: 2024-10-29T16:53:15.564Z
-updated: 2024-10-30T18:30:28.902Z
+date: 2024-10-29T18:00:54.805Z
+updated: 2024-11-05T07:50:21.979Z
 tags:
   - win11
   - win10
@@ -58,25 +58,11 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6) Exit Internet Explorer and run Command Prompt.
 
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -87,6 +73,19 @@ Find and click to open Command Prompt from Start menu.
  c) Type **net start wuauserv**  and hit **Enter** .
 
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3\. Change DNS Servers
 
@@ -107,16 +106,10 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Locate Use the following DNS server addresses.
@@ -130,10 +123,10 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
@@ -154,11 +147,31 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
@@ -179,13 +192,6 @@ If the fixes above didn’t serve you, try this one.
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -208,16 +214,22 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-apeaks-leap-forward-in-screen-capture-review-and-results/"><u>[Updated] 2024 Approved Apeak’s Leap Forward in Screen Capture – Review and Results</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-all-you-need-to-know-about-bandicam-updated-for-2024/"><u>[Updated] All You Need to Know About Bandicam (Updated ) for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-best-free-downloaders-for-facebook-links-for-2024/"><u>[Updated] The Best Free Downloaders for Facebook Links for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-compilation-of-ios-compatible-ps2-games-for-2024/"><u>[Updated] Ultimate Compilation of iOS-Compatible PS2 Games for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-nikon-j5-in-4k-the-ultimate-camera-review/"><u>2024 Approved Nikon J5 in 4K The Ultimate Camera Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-address-unavailable-librarymodule-issues-in-python/"><u>Effective Strategies to Address Unavailable Library/Module Issues in Python</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-mpow-bluetooth-driver-version-now-perfect-for-windows-1187-systems/"><u>Get the Newest MPOW Bluetooth Driver Version Now – Perfect for Windows 11/8/7 Systems!</u></a></li>
-<li><a href="https://common-error.techidaily.com/halo-4-ultraedit-engineers-guide-fixing-the-2024-ue4-crash-issue/"><u>Halo 4 UltraEdit Engineer's Guide: Fixing the 2024 UE4 Crash Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-encrypted-drives-problems-with-windows-11/"><u>Resolving Encrypted Drives Problems with Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-problems-with-your-windows-store-cache/"><u>Troubleshooting and Solving Problems with Your Windows Store Cache</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unleash-the-power-of-visuals-with-top-free-slideshow-designs/"><u>[New] Unleash the Power of Visuals with Top Free Slideshow Designs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-crafting-content-that-wins-on-ig-unboxing-edition/"><u>2024 Approved Crafting Content That Wins on IG Unboxing Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/breaking-free-from-infinite-loading-on-valorant-expert-solutions-applied/"><u>Breaking Free From Infinite Loading on Valorant: Expert Solutions Applied</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-hdmi-connectivity-issues-on-your-windows-11-pc-with-a-tv/"><u>Diagnosing and Fixing HDMI Connectivity Issues on Your Windows 11 PC with a TV</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-rdr2-memory-crashes-a-step-by-step-guide-to-upping-your-pagefile-size/"><u>Eliminate RDR2 Memory Crashes: A Step-by-Step Guide to Upping Your Pagefile Size</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/five-effective-solutions-when-your-pdfs-wont-load-on-google-chrome/"><u>Five Effective Solutions When Your PDFs Won't Load on Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-self-activating-power-cycles-in-windows-11-pcs-a-step-by-step-guide/"><u>Fixing Self-Activating Power Cycles in Windows 11 PCs: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oneplus-ace-2-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From OnePlus Ace 2 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-repair-a-black-display-in-google-chrome-browser/"><u>How to Troubleshoot and Repair a Black Display in Google Chrome Browser</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-future-proofing-in-the-metaverse-essential-device-lineup/"><u>In 2024, Future-Proofing in the Metaverse Essential Device Lineup</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211458304--reclaiming-your-inner-child/"><u>Reclaiming Your Inner Child | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-detection-of-possible-windows-update-db-fault-on-windows-11-systems/"><u>Resolved: Detection of Possible Windows Update DB Fault on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-missing-desktop-icons-on-windows-11/"><u>Resolved: Fixing Missing Desktop Icons on Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/safe-techniques-for-eliminating-audio-interference-in-videos/"><u>Safe Techniques for Eliminating Audio Interference in Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-silent-problem-ensuring-your-facebook-videos-play-with-audio-on-windows-computers/"><u>Solve the Silent Problem: Ensuring Your Facebook Videos Play with Audio on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-overcoming-windows-11-screen-mirroring-problems/"><u>Troubleshooting: Overcoming Windows 11 Screen Mirroring Problems</u></a></li>
+<li><a href="https://discover-able.techidaily.com/vobmjpeg/"><u>VOBファイルをMJPEG形式に自由に変換: 簡単なオンラインツール</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Computer Won’t Shut Down Windows 10 [SOLVED]
-date: 2024-10-27T16:11:05.041Z
-updated: 2024-10-30T18:10:06.393Z
+date: 2024-10-31T20:14:35.090Z
+updated: 2024-11-04T17:24:14.052Z
 tags:
   - win11
   - win10
@@ -60,6 +60,19 @@ thumbnail: https://thmb.techidaily.com/6a865e452463a91a0991eeba9d7367cf47a6e9f95
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Clear your computer’s temp files
 
  If Windows doesn’t have enough space to store temp files, it can slow down or even freeze. So you should clear them regularly.
@@ -67,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/6a865e452463a91a0991eeba9d7367cf47a6e9f95
  1) On your keyboard, press**Windows key** and**R** at the same time, then in the Run form, type**temp** and hit**Enter** . This will invoke Windows Explorer with your Temp folder open,  showing you all the temp files on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a4d089b3e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Select all the files in the Temp folder and delete them.
 
@@ -99,29 +105,9 @@ thumbnail: https://thmb.techidaily.com/6a865e452463a91a0991eeba9d7367cf47a6e9f95
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d6d0a83c.png)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376da7f418e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Select your windows drive (the hard drive or partition that has Windows installed on it – usually **C:** )**,** and enter an Initial size and Maximum size for your virtual memory:
 
@@ -135,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/6a865e452463a91a0991eeba9d7367cf47a6e9f95
  If you’re still having problems with Windows 10 hanging after adjusting your virtual memory, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Repair your system files**
 
@@ -183,13 +176,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940aa0c3690c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows will scan your system for corrupted files, and attempt to fix any it finds. The results will display in this window, so please leave it open until the operation is complete.
 
  If the scan finds no problems, you know your system files aren’t the cause of Windows 10 randomly freezing, and you can move on to the next fix.
@@ -212,16 +198,16 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb698e7b6b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t see any errors here, your memory card probably isn’t the problem, and you should try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 6: Run Disk Check**
 
@@ -233,30 +219,37 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a917ba7f6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate the hard drive you’d like to check, right-click on it and choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9834949e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to the **Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9a940e55.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) If your hard disk drive is problem-free, you’ll see this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb70907dd5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This suggests your hard disk is NOT the problem, and you can move on to the next fix below.
@@ -279,15 +272,22 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d3311bb92d6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Both **C1E Function** and**Intel(R) C-STATE tech** should be **Disabled** . If they’re not, use your keyboard up and down arrows to navigate the list of options, highlight the setting you want to change, press Enter on your keyboard, then press the up or down arrow on your keyboard to change the value to Disabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/intelr-c-state-tech.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After changing these settings, save and exit the BIOS settings as per the instructions on your screen, then restart your computer again.
@@ -339,20 +339,18 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solution-steps-addressing-persistent-boot-issues-on-your-pc-with-windows-10/"><u>[Solution Steps] Addressing Persistent Boot Issues on Your PC with Windows 10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-reddit-trophy-case-top-ten-threads/"><u>[Updated] 2024 Approved The Ultimate Reddit Trophy Case - Top Ten Threads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-cash-flow-management-for-youtubers/"><u>[Updated] In 2024, Channel Cash Flow Management for YouTubers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-tips-for-kinemaster-dominance-plus-best-digital-platforms-on-the-web/"><u>[Updated] Pro Tips for KineMaster Dominance + Best Digital Platforms on the Web</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-c22-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia C22 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-screen-recordings-add-audio-to-snipping-tool-features-max-156/"><u>Enhancing Screen Recordings: Add Audio to Snipping Tool Features (Max 156)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-a-misnamed-folder-and-solve-access-issues-quickly/"><u>How to Correct a Misnamed Folder and Solve Access Issues Quickly</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-srt-conversion-simplified-subtitles-transformation/"><u>In 2024, SRT Conversion Simplified Subtitles Transformation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quick-tips-to-resurrect-windows-photo-viewer-on-windows-11/"><u>Quick Tips to Resurrect Windows Photo Viewer on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-parties-chat-restrictions-how-your-router-affects-connectivity/"><u>Resolving Parties Chat Restrictions: How Your Router Affects Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-vanishing-mouse-pointer-issue-in-windows-11/"><u>Resolving the Vanishing Mouse Pointer Issue in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-lowering-microsoft-compatibility-telemetrys-disk-consumption-in-windows-10-operating-systems/"><u>Step-by-Step Solutions for Lowering Microsoft Compatibility Telemetry's Disk Consumption in Windows 10 Operating Systems</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile-for-2024/"><u>The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209839929-what-is-xinput13dll-and-what-to-do-when-its-missing/"><u>What Is XINPUT1_3.dll (and What to Do When It’s Missing)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-perfect-resolution-for-immersive-vr/"><u>[Updated] 2024 Approved The Perfect Resolution for Immersive VR</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos/"><u>[Updated] The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-screen-recording-software-compared-bandicam-vs-camtasia/"><u>2024 Approved Top Screen Recording Software Compared Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-narzo-n55-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-tecno-spark-10c-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Tecno Spark 10C Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-object-oriented-programming-for-complex-applications/"><u>Exploring Object-Oriented Programming for Complex Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/happy-gaming-with-battleye-solving-service-installer-problems-smoothly/"><u>Happy Gaming with BattlEye: Solving Service Installer Problems Smoothly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-advanced-audio-segmentation-made-simple-a-premiere-guide/"><u>In 2024, Advanced Audio Segmentation Made Simple A Premiere Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-left-and-right-click-discrepancies-on-windows-11-devices/"><u>Resolving Left and Right Click Discrepancies on Windows 11 Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/selling-giphy-off-the-impact-on-social-media-landscape-explored/"><u>Selling Giphy Off? The Impact on Social Media Landscape Explored</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-troubleshooting-and-enhancing-your-file-explorer-on-windows-11/"><u>Simple Solutions: Troubleshooting & Enhancing Your File Explorer on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-update-troubles-ensuring-the-update-service-runs-smoothly/"><u>Solving Windows Update Troubles: Ensuring the Update Service Runs Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-repairing-the-inactive-at-button/"><u>Step-by-Step Tutorial: Repairing the Inactive At ('@') Button</u></a></li>
 </ul></div>
 

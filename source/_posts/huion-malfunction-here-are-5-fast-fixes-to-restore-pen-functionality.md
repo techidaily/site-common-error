@@ -1,7 +1,7 @@
 ---
 title: Huion Malfunction? Here Are 5 Fast Fixes to Restore Pen Functionality
-date: 2024-10-29T16:35:53.317Z
-updated: 2024-10-30T17:09:53.381Z
+date: 2024-11-01T16:25:24.157Z
+updated: 2024-11-05T11:54:46.684Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
@@ -57,13 +57,6 @@ Here’s how:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -71,29 +64,37 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 1. On the keyboard of the target computer, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
-3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
-4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
+3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
+4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update the drivers for your USB devices
 
@@ -112,6 +113,13 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -142,18 +150,20 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-dynamic-duo-combining-multiple-photos-for-impactful-stories-for-2024/"><u>[New] Dynamic Duo Combining Multiple Photos for Impactful Stories for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlock-full-potential-using-polarrs-image-tools/"><u>[Updated] In 2024, Unlock Full Potential Using Polarr's Image Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-huawei-nova-y91-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Huawei Nova Y91</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722965870408-epson-l3150-driver-update-optimize-your-windows-10-8-or-7-experience-with-latest-version/"><u>Epson L3150 Driver Update: Optimize Your Windows 10, 8 or 7 Experience with Latest Version</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-audio-glitches-in-windows-7-and-10/"><u>How To Resolve Audio Glitches in Windows 7 & 10</u></a></li>
-<li><a href="https://games-able.techidaily.com/melody-mastermind-the-ultimate-audio-game-showdown/"><u>Melody Mastermind: The Ultimate Audio Game Showdown</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-through-livekernelevent-141-hw-faults-2024/"><u>Navigating Through LiveKernelEvent 141 HW Faults, 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-sign-of-sd-cards-lets-mend-that/"><u>No Sign of SD Cards? Let’s Mend That</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-the-ultimate-guide-to-pairing-an-xbox-one-controller-that-wont-sync/"><u>Solved! The Ultimate Guide to Pairing an Xbox One Controller That Won't Sync</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-burning-high-quality-copies-of-dvds-on-your-mac-computer/"><u>Step-By-Step Tutorial: Burning High-Quality Copies of DVDs on Your Mac Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212174837-troubleshoot-and-solve-windows-11-bluetooth-not-detected-issue-effectively/"><u>Troubleshoot and Solve Windows 11 Bluetooth Not Detected Issue Effectively!</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-touchpad-not-scrolling-properly-in-windows-11-solutions-inside/"><u>Why Is My Touchpad Not Scrolling Properly in Windows 11? Solutions Inside!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-initial-cinematic-composition-review/"><u>[Updated] 2024 Approved Initial Cinematic Composition Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-s23-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy S23</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mobile-battlefronts-the-best-mobas-on-android/"><u>2024 Approved Mobile Battlefronts The Best MOBAs on Android</u></a></li>
+<li><a href="https://common-error.techidaily.com/banishing-shadows-expert-tips-on-resolving-the-black-screen-dilemma-in-windows-11/"><u>Banishing Shadows: Expert Tips on Resolving the Black Screen Dilemma in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-for-accessing-espns-audible-app-via-mp3-players/"><u>Comprehensive Tutorial for Accessing ESPN’s Audible App via MP3 Players</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-mistyped-letters-on-your-keyboard-a-comprehensive-guide/"><u>Fixing Mistyped Letters on Your Keyboard - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-speaker-noise-interference-in-your-windows-laptop-or-desktop-windows-1/"><u>How to Stop Speaker Noise Interference in Your Windows Laptop or Desktop (Windows 1</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-s24-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy S24 to Roku | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-solution-for-windows-10-restart-problems-during-shutdown-process/"><u>Mastering the Solution for Windows 10 Restart Problems During Shutdown Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/quickly-restore-bluetooth-on-your-windows-tenth-system-effortless-steps-to-follow/"><u>Quickly Restore Bluetooth on Your Windows Tenth System – Effortless Steps to Follow</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-10/"><u>Resolving Excessive CPU Consumption Caused by wudfhost.exe on Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolving-issues-with-youtube-playback-fixing-pauses-and-freezes/"><u>Resolving Issues with YouTube Playback - Fixing Pauses and Freezes</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/transforming-white-backdrops-into-transparency-a-modern-how-to/"><u>Transforming White Backdrops Into Transparency: A Modern How-To</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-solutions-fixing-wacom-tablet-connectivity-problems/"><u>Troubleshooting Solutions: Fixing Wacom Tablet Connectivity Problems</u></a></li>
 </ul></div>
 

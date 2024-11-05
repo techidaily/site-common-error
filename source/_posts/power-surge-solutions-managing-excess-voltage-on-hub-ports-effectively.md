@@ -1,7 +1,7 @@
 ---
 title: "Power Surge Solutions: Managing Excess Voltage on Hub Ports Effectively"
-date: 2024-10-24T16:35:22.330Z
-updated: 2024-10-30T17:27:35.782Z
+date: 2024-11-01T04:22:58.864Z
+updated: 2024-11-05T06:26:14.422Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/d3785013298563f1830795a92fde8d1efce201ea3
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -50,6 +43,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -59,6 +59,13 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -74,19 +81,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -96,6 +90,13 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -115,18 +116,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -137,22 +138,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -169,13 +164,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -211,20 +199,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-from-beginner-to-pro-essential-steps-in-recording-with-logitech-cameras-for-2024/"><u>[New] From Beginner to Pro Essential Steps in Recording with Logitech Cameras for 2024</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/dvd-winx-dvd-ripper/"><u>最新無料 DVD リッピングツール WinX DVD Ripper 利用ガイド</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-network-dysfunction-ethernet-issues-on-windows-10-and-7-explained/"><u>Fixing Network Dysfunction: Ethernet Issues on Windows 10 and 7 Explained</u></a></li>
-<li><a href="https://discover-best.techidaily.com/high-performance-smartwatches-mastering-watchos-and-wear-os-at-60-fps-insights-from-the-abbyy-tech-team/"><u>High-Performance Smartwatches: Mastering WatchOS & Wear OS at 60 FPS - Insights From the ABBYY Tech Team</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-this-device-is-not-present-code-24-in-windows-11-8-and-7-systems/"><u>How to Fix 'This Device Is Not Present' (Code 24) in Windows 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-microphone-in-your-windows-n-tenth-setup/"><u>How to Repair a Broken Microphone in Your Windows N-Tenth Setup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-6s-plus-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 6s Plus Display? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-zoom-for-fb-live-broadcasts/"><u>In 2024, Mastering Zoom for FB Live Broadcasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/installation-issue-windows-10-update-version-1607-wont-install/"><u>Installation Issue: Windows 10 Update (Version 1607) Won't Install</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-monitor-repairs-the-definitive-guide-to-overcoming-black-screens-on-dell-devices/"><u>Mastering Monitor Repairs: The Definitive Guide to Overcoming Black Screens on Dell Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-rdr2-out-of-memory-how-to-expand-your-page-file-size/"><u>Resolving 'RDR2 Out of Memory' - How to Expand Your Page File Size</u></a></li>
-<li><a href="https://extra-information.techidaily.com/solo-scrutiny-an-examination-of-3dr-printers/"><u>Solo Scrutiny An Examination of '3DR' Printers</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-audio-device-isolation-feature-in-windows-for-optimal-performance/"><u>Troubleshooting the Audio Device Isolation Feature in Windows for Optimal Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncover-the-truth-about-your-privacy-detecting-a-covert-airtag-tracker/"><u>Uncover the Truth About Your Privacy - Detecting a Covert AirTag Tracker</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-aspect-ratio-rules-for-twitter-content/"><u>[New] 2024 Approved Mastering Aspect Ratio Rules for Twitter Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-full-review-for-bublcam-360-camera-for-2024/"><u>[Updated] Full Review for Bublcam 360 Camera for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-seeing-beyond-our-elite-rankings-of-camera-lenses-1-10/"><u>[Updated] Seeing Beyond Our Elite Rankings of Camera Lenses #1-10</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/cross-platform-move-adopting-microsofts-office-365-after-using-google-workspace/"><u>Cross-Platform Move: Adopting Microsoft's Office 365 After Using Google Workspace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-interface-error-with-steamuidll/"><u>Fixing Steam Interface Error with Steamui.dll</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-sound-back-restarting-audio-services-on-windows-7-explained/"><u>Get Your Sound Back! Restarting Audio Services on Windows 7 Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-effective-is-chatgpt-in-teaching-the-art-of-health-conscious-cooking/"><u>How Effective Is ChatGPT in Teaching the Art of Health-Conscious Cooking?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-redmi-13c-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi Redmi 13C to Mac? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204294201-kodi-continuous-playback-restored-no-more-buffering-issues/"><u>Kodi Continuous Playback Restored - No More Buffering Issues!</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-trackpad-not-responding-heres-how-to-repair-it-across-different-windows-versions/"><u>Lenovo Trackpad Not Responding? Here's How to Repair It Across Different Windows Versions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-dvd-ripper-comment-piratage-facile-et-gratuit-de-films-proteges-sur-dvd/"><u>MacX DVD Ripper : Comment Piratage Facile Et Gratuit De Films Protegés Sur DVD ?</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-top-tips-for-enhanced-gaming-performance-and-speed/"><u>Mastering Windows 11: Top Tips for Enhanced Gaming Performance and Speed</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202007587-resolved-incompatible-device-drivers-on-your-system-detected-solutions/"><u>Resolved: Incompatible Device Drivers on Your System Detected - Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-overcome-resolving-windows-update-issues/"><u>Successfully Overcome: Resolving Windows Update Issues</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/syncing-tunes-with-video-posts-on-facebook/"><u>Syncing Tunes with Video Posts on Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-update-error-code-0x802e402c/"><u>Ultimate Guide: Resolving the Windows Update Error Code 0X802e402C</u></a></li>
 </ul></div>
 

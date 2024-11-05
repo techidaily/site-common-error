@@ -1,7 +1,7 @@
 ---
 title: How to Unstick Your Windows Keyboard Buttons – A Complete Guide
-date: 2024-09-04T20:22:00.382Z
-updated: 2024-09-05T20:22:00.382Z
+date: 2024-11-01T11:50:15.951Z
+updated: 2024-11-04T22:05:48.452Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Keyboard backlight not working is a common problem which can happen on Windows o
 2. [Control the Key Backlighting manually](https://tools.techidaily.com/drivereasy/download/)
 3. [Contact customer service](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Adjust the light sensor
 
  Mac has a light sensor located on the top of your Macbook screen. In some situation, direct lighting, bright lights such as sunlight directly on the light sensor can cause the illumination indicator and controls become locked. This feature is aimed to disable the backlighting when it’s not needed.
@@ -47,55 +54,54 @@ Here’s how:
 2. Click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Snap841.jpg)
 3. Choose**Keyboard** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-1.jpg)
 4. Uncheck**Adjust keyboard brightness in low light** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/mackeyboard.jpg)
 5. Use the**F1** and**F2** keys to manually control the keyboard lighting level.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Contact customer service
 
  If the above methods can’t fix this issue, you’d better contact AppleCare for help. The problem may be caused by a hardware issue.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## For Windows
 
  There are different PC using the Windows system. The reason for the keyboard backlight not working may be various, but there are some common reason and common fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Common Method 1: Reboot your computer
 
  Reboot your computer normally can solve many common errors. Shutdown your computer, take out the battery, wait for few seconds then put it back and reboot your PC.  
@@ -162,18 +168,6 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/atk.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips for keyboard maintenance
 
  1\. Try not to eat, smoke or drink on top of the keyboard to keep it clean.
@@ -194,8 +188,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +195,21 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-asmr-gurus-recommend-best-microphones-reviewed/"><u>[Updated] 2024 Approved ASMR Gurus Recommend Best Microphones Reviewed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-digital-diary-keepers-securely-download-tweets-videos/"><u>[Updated] Digital Diary Keepers Securely Download Tweets' Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-7-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 7 with a Broken Screen?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-solutions-for-correcting-person-recognition-errors-in-apples-photo-library/"><u>Easy Solutions for Correcting Person Recognition Errors in Apple's Photo Library</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-fixing-lenovo-mouse-pad-problems-across-windows-versions/"><u>Effective Solutions for Fixing Lenovo Mouse Pad Problems Across Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-screen-tearing-in-valorant-a-step-by-step-guide/"><u>Fix Screen Tearing in Valorant: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-play-7t-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor Play 7T Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/panorama-video-donusturucusunu-mac-platforma-insa-eden-movavidaki-yeniden-bunyesinde-kullanabilirsiniz-cift-fiyka-onerisi-ucretsiz-birlesme-acisindan/"><u>Panorama Video Dönüştürücüsünü Mac Platforma İnşa Eden Movavi'daki Yeniden Bünyesinde Kullanabilirsiniz: [Çift Fiyka Önerisi] - Ücretsiz Birleşme Açısından</u></a></li>
+<li><a href="https://common-error.techidaily.com/repaired-enable-your-devices-local-authentication-feature-now/"><u>Repaired: Enable Your Device's Local Authentication Feature Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-sluggish-startup-problems-in-windows-7/"><u>Resolving Sluggish Startup Problems in Windows 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-operating-point-of-a-centrifugal-pump-within-a-system-is-where-the-pump-performance-curve-intersects-with-the-system-curve-dictating-actual-flow-rate-an242/"><u>The Operating Point of a Centrifugal Pump Within a System Is Where the Pump Performance Curve Intersects with the System Curve, Dictating Actual Flow Rate and Head.</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/voice-activated-tiktok-mastering-siri-on-your-iphone-for-2024/"><u>Voice-Activated TikTok Mastering Siri on Your iPhone for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-display-brightness-malfunction-solutions-and-tips/"><u>Windows 10 Display Brightness Malfunction - Solutions & Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-doesnt-turn-off-discover-these-expert-solutions/"><u>Windows 11 Doesn't Turn Off? Discover These Expert Solutions</u></a></li>
+</ul></div>
 

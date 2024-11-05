@@ -1,7 +1,7 @@
 ---
 title: Fix Lida.dll Gone, Restore Now!
-date: 2024-10-28T16:42:12.359Z
-updated: 2024-10-30T16:47:08.109Z
+date: 2024-11-01T11:33:20.971Z
+updated: 2024-11-04T21:26:05.545Z
 tags:
   - win11
   - win10
@@ -43,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/ef2d39454969b75baf5c215d0724710d89c3d8cc8
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your drivers
@@ -75,14 +69,14 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/graphic-chipset-1.jpg)
 4. Restart your computer and check if your game now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to the next method.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Method 3: Clear your temp files
 
@@ -92,13 +86,6 @@ OR
 2. Type**temp** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa66889b860.png)
 3. **Select** all files in the Temp folder and**delete** them.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa66cf0cc78.jpg)
 4. Relaunch your game and check if your problem is resolved. If not, try Method 4, below.
@@ -116,23 +103,16 @@ OR
 3. When Windows restarts, this screen will appear showing the progress of the check and the number of passes it’ll run on your memory card.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa89992510a.jpg)  
  If you don’t see any errors, your memory card probably isn’t causing your problem, and you can move on to Method 5, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Adjust the size of your virtual memory
 
@@ -147,26 +127,48 @@ OR
 3. From the**Advanced** tab, click**Change…**  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e0a6f204.jpg)
 4. De-select**Automatically manage paging file size for all drives** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e4d0df27.jpg)
 5. **Select** your system drive ( the hard drive or partition where you installed your system — usually**C:** ), and select**Custom size** , enter the**Initial size** and**Maximum size** for your virtual memory. Click**Set** , then**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **Initial size** — This value varies, depending on your computer. If you’re not sure what value to use, enter the**Recommended** size.  
    * **Maximum size** — Don’t set this value too high. It should be about**1.5 times** the size of your physical RAM. For example, a computer with 4 GB (4096 MB) of RAM should have no more than about 6,144 MB virtual memory (4,096 MB x 1.5).  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa72695eb05.jpg)
 6. Restart your game and check if your problem is resolved. If not, try Method 6, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -212,14 +214,20 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-retro-reality-on-snapchat-effortless-video-reversal-for-2024/"><u>[Updated] Retro Reality on Snapchat Effortless Video Reversal for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-creativity-how-to-convert-your-favorite-youtube-videos-to-gifs/"><u>[Updated] Unleashing Creativity How to Convert Your Favorite Youtube Videos To Gifs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/10-best-metaverse-games-you-can-play-with-friends-for-2024/"><u>10 Best Metaverse Games You Can Play with Friends for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/aoc-display-connectivity-problems-solving-non-responsive-screen-errors-in-windows-11/"><u>AOC Display Connectivity Problems: Solving Non-Responsive Screen Errors in Windows 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-strategic-backlink-building-for-enhanced-online-traction/"><u>In 2024, Strategic Backlink Building for Enhanced Online Traction</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207076829-resolve-video-playback-error-224003-quickly-and-get-back-to-watching/"><u>Resolve 'Video Playback Error 224003' Quickly and Get Back to Watching!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-minecraft-crash-fixing-error-code-5/"><u>Solve Your Minecraft Crash: Fixing Error Code 5</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-restoring-fn-keys-functionality-in-dell-laptops/"><u>Step-by-Step Troubleshooting: Restoring Fn Keys Functionality in Dell Laptops</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tomtom-gopro-alternative-a-2023-review/"><u>TomTom GoPro Alternative A 2023 Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-comprehensive-look-at-ig-reels-vs-stories/"><u>[New] 2024 Approved A Comprehensive Look at IG Reels Vs Stories</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-step-by-step-process-for-free-youtube-introend-making/"><u>[Updated] 2024 Approved Step-by-Step Process for Free YouTube Intro/End Making</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-conquering-screen-display-challenges-with-google-meet/"><u>[Updated] In 2024, Conquering Screen Display Challenges with Google Meet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-comprehensive-users-manual-on-using-ez-grabber/"><u>[Updated] In 2024, The Comprehensive User's Manual on Using EZ Grabber</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-pathway-to-vimeo-recording/"><u>[Updated] In 2024, The Ultimate Pathway to Vimeo Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-easy-guide-to-capturing-youtube-content/"><u>2024 Approved Easy Guide to Capturing YouTube Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-path-to-youtube-stardom-six-simple-steps-for-greater-visibility/"><u>2024 Approved Your Path to YouTube Stardom Six Simple Steps for Greater Visibility</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024200d-on-windows-diagnosis-and-successful-repair-techniques/"><u>Error 0X8024200d on Windows: Diagnosis and Successful Repair Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-total-war-rome-remastered-glitches-comprehensive-guide/"><u>Fixing Total War: Rome Remastered Glitches - Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-0x8024002e-on-your-windows-pc-a-complete-troubleshooting-manual/"><u>How to Fix Error 0X8024002E on Your Windows PC: A Complete Troubleshooting Manual</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-10-video-editing-online-makers-is-worth-your-attention-for-2024/"><u>New Top 10 Video Editing Online Makers Is Worth Your Attention for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-compatibility-issues-with-intel-serial-io-drivers-on-non-supported-systems/"><u>Overcoming Compatibility Issues with Intel Serial IO Drivers on Non-Supported Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-cyclic-redundancy-checks-prevent-data-corruption/"><u>Resolved: How Cyclic Redundancy Checks Prevent Data Corruption</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/revolutionizing-channel-openings-discover-free-high-quality-intra-makers-for-2024/"><u>Revolutionizing Channel Openings Discover Free, High-Quality Intra Makers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-your-nonfunctional-laptop-trackpad/"><u>Troubleshooting Tips: Fixing Your Nonfunctional Laptop Trackpad</u></a></li>
 </ul></div>
 

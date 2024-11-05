@@ -1,7 +1,7 @@
 ---
 title: "Resolving Dead Fn Buttons: A Comprehensive Guide with Effective Solutions"
-date: 2024-09-04T20:26:09.919Z
-updated: 2024-09-05T20:26:09.919Z
+date: 2024-10-31T02:15:38.944Z
+updated: 2024-11-04T18:57:58.197Z
 tags:
   - win11
   - win10
@@ -39,11 +39,12 @@ Otherwise, you need to take a few minutes to read this part.
  Then check to see if you can get into the Windows system as usual. If not, don’t worry, try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Way 2:[Enter safe mode](https://tools.techidaily.com/drivereasy/download/)
 
  Safe mode is a diagnostic mode of Windows. When the hard reset doesn’t work, you need to enter Safe mode to trigger the problem. Safe mode will be running with a minimal set of drivers and services which is easier for you to identify the problem.
@@ -53,18 +54,6 @@ Otherwise, you need to take a few minutes to read this part.
 1. **[Update your device drivers](#f4)**
 2. **[Revert your system from a restore point](#f7)**
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2: Try these fixes
 
  When you enter the Windows system, you can try these fixes. The aim of fixes is to prevent RSOD from happening again. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -77,18 +66,6 @@ Otherwise, you need to take a few minutes to read this part.
 6. [**Revert your system from a restore point**](#f7)
 7. [**Reset or reinstall Windows**](#7)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Stop overclocking
 
  Overclocking is a way to improve the performance of your equipment. Overclocking CPU or GPU could give you higher speed but this operation could also cause trouble. In the worst case, overclocking will cause harm to your hardware.
@@ -98,11 +75,12 @@ Otherwise, you need to take a few minutes to read this part.
  To do this, you need to[enter the BIOS system](https://tools.techidaily.com/drivereasy/download/) , then set settings back to default.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Check your hardware devices and temperature
 
  It’s possible that the RSOD problem is caused by your hardware issue or[computer overheating](https://tools.techidaily.com/drivereasy/download/) . You should take a look at your hardware devices to check for any hardware problems.
@@ -126,6 +104,14 @@ There are a few things you should do:
 3. Remove the **memory** from your computer. (Check out the screenshots below to see what memory looks like)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-502.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-503.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Rub the **golden contact** of your memory with an eraser. (This can clean the golden contact of your memory.)
 5. Install the memory back to your computer.
 6. Place the cover back to your computer.
@@ -137,11 +123,12 @@ Hopefully, this fix could help you get rid of this issue.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  The RSOD issue could also relate to wrong and outdated device drivers. If that’s the case for you, you should update your device drivers on your computer. It’s no harm to try.
@@ -174,15 +161,23 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -197,12 +192,6 @@ OR
 1. On your keyboard, press **the Windows logo key** and **R** at the same time, then copy & paste **msinfo32**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714e5d73e95.png)
 2. In **the information** in **BIOS Version/Date**  and go to the manufacturer’s official website.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Check out the **Support** (or **Download** ) section and search for the latest BIOS update.
 4. Download the file and install it properly.
 5. Restart your computer and check if this **red screen error** appears or not.
@@ -228,28 +217,18 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -259,6 +238,14 @@ OR
 2. Type**cmd** and press **Shift** +**Ctrl** +**Enter** together on your keyboard to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Restart your computer to check whether the blue screen issue is fixed or not.
@@ -279,12 +266,6 @@ OR
 3. Follow the on-screen instructions of the System Restore wizard to restore your system from a restore point.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-647.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ### Fix 7: Reset or reinstall Windows
@@ -305,8 +286,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -314,4 +293,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-smartphone-photography-with-iphones-hdr/"><u>[New] Transform Your Smartphone Photography with iPhone’s HDR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-youtubes-srt-files-three-easy-methods/"><u>[New] Unlocking YouTube’s SRT Files Three Easy Methods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-comprehensive-review-of-ios-free-video-editing-apps-for-2024/"><u>[Updated] Comprehensive Review of iOS Free Video Editing Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-pro-youtube-gamers-broadcasting-journey-for-2024/"><u>[Updated] From Novice to Pro YouTube Gamers' Broadcasting Journey for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-onestream-broadcasts-essential-strategies-explored/"><u>2024 Approved Perfecting OneStream Broadcasts Essential Strategies Explored</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-compreehers-guide-to-srt-file-flexibility/"><u>2024 Approved The Compreeher’s Guide to SRT File Flexibility</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-cannot-read-from-disk-issue-in-windows-operating-system/"><u>How to Fix 'Cannot Read From Disk' Issue in Windows Operating System</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-se-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone SE Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-digital-brushstrokes-essential-top-10-android-graphics-apps/"><u>In 2024, Masterful Digital Brushstrokes Essential Top 10 Android Graphics Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-persistent-directx-faults-addressing-unrecoverable-errors-successfully/"><u>Overcoming Persistent DirectX Faults: Addressing Unrecoverable Errors Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-startup-issues-confirm-your-games-data-is-correct-and-intact/"><u>Solving Startup Issues: Confirm Your Game's Data Is Correct and Intact</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-the-user-profile-service-failure-when-logging-into-windows-1011-systems/"><u>Step-by-Step Solutions to Overcome the User Profile Service Failure When Logging Into Windows 10/11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-launched-renderer-after-troubleshooting-new-solutions-as-of-query-what-is-the-meaning-of-initialization-in-computer-terms-and-how-does-it-relat52/"><u>Successfully Launched Renderer After Troubleshooting - New Solutions as of # Query: What Is the Meaning of Initialization in Computer Terms, and How Does It Relate to a Renderer?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-fixing-livekernel-event-code-144/"><u>Troubleshooting Steps for Fixing LiveKernel Event Code: 144</u></a></li>
+</ul></div>
 

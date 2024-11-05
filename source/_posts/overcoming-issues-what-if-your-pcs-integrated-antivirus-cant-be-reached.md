@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Issues: What If Your PC's Integrated Antivirus Can't Be Reached?"
-date: 2024-10-28T17:09:00.346Z
-updated: 2024-10-30T18:07:43.512Z
+date: 2024-11-04T09:29:37.075Z
+updated: 2024-11-05T07:23:39.614Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 3. After that, we can also prioritize PUBG. Click the**Details** tab, right-click on your**PUBG** and click**Set priority** \>**High** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Start a game in PUBG and see if the lag issues have been fixes. If the issue persists, please move on to**Fix 3** , below.
@@ -88,16 +88,16 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -118,27 +118,28 @@ So to tweak the settings:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
-3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
+3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
 4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -162,17 +163,24 @@ So to tweak the settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-navigating-global-reach-via-vimeo-links/"><u>[New] 2024 Approved Navigating Global Reach via Vimeo Links</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-serenade-supreme-top-10-tunes-for-a-forever-commitment/"><u>[New] Serenade Supreme Top 10 Tunes for a Forever Commitment</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-keywords-in-the-world-of-selling-monetized-youtube-channels/"><u>[Updated] Keywords in the World of Selling Monetized Youtube Channels</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convertir-un-fichier-vob-en-format-wmv-gratuit-sur-internet-movavi/"><u>Convertir Un Fichier VOB en Format WMV Gratuit Sur Internet - Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-effortless-solutions-to-stop-your-laptop-from-freezing-up/"><u>Expert Advice: Effortless Solutions to Stop Your Laptop From Freezing Up</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205128970-how-to-fix-lenovo-mouse-pad-issues-on-windows-11-8-and-7-solutions-included/"><u>How to Fix Lenovo Mouse Pad Issues on Windows 11, 8 & 7 - Solutions Included</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211027005-how-to-prevent-auto-sleep-on-pc-or-laptop-easy-steps-inside/"><u>How to Prevent Auto-Sleep on PC or Laptop - Easy Steps Inside!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 8 Plus to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-tecno-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Tecno Without Password?</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-with-creating-directx-devices-on-your-system/"><u>Resolved: Issue with Creating DirectX Devices on Your System</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-guide-transforming-various-audio-and-video-files-into-different-formats/"><u>Step-by-Step Guide: Transforming Various Audio and Video Files Into Different Formats</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-device-drivers-warnings-in-windows-7-setup-guide/"><u>Troubleshooting the Missing Device Drivers Warnings in Windows 7 Setup [Guide]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-youtube-audio-renderer-error-on-windows-10/"><u>[FIXED] Youtube Audio Renderer Error on Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-navigate-through-apples-best-in-class-virtual-reality-games/"><u>[New] Navigate Through Apple's Best-in-Class Virtual Reality Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-yuneec-typhoon-h-insights-drone-review-highlights-for-2024/"><u>[New] Yuneec Typhoon H Insights Drone Review Highlights for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-error-1067-the-process-terminated-unexpectedly-on-windows/"><u>[SOLVED] Error 1067: The Process Terminated Unexpectedly on Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-flip-your-video-frames-effortlessly-with-vlc/"><u>[Updated] In 2024, Flip Your Video Frames Effortlessly with VLC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-instant-screener-chromeos-edition/"><u>[Updated] Instant Screener ChromeOS Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210428029-beat-the-glitch-successfully-turn-off-your-computer-running-windows-11-now-solved/"><u>Beat the Glitch: Successfully Turn Off Your Computer Running Windows 11 – Now Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-pc-stability-issues-solved-release/"><u>Call of Duty: Black Ops Cold War PC Stability Issues Solved Release</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-selection-of-premier-gaming-machines-for-the-year-2024/"><u>Expert Selection of Premier Gaming Machines for the Year 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-vivid-skies-highlighted-hdr-web-platforms-for-2024/"><u>Explore Vivid Skies Highlighted HDR Web Platforms for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-non-functioning-logitech-scroll-wheel-made-simple/"><u>Fix Guide: Non-Functioning Logitech Scroll Wheel Made Simple</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-stuck-arrow-keys-on-the-keyboard-with-easy-tips/"><u>Fix Your Stuck Arrow Keys on the Keyboard with Easy Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-bluetooth-keyboard-that-wont-connect-to-your-computer/"><u>How to Fix a Bluetooth Keyboard That Won't Connect to Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-microsoft-antimalware-service-executable-causing-excessive-cpu-drain-in-windows-nk-solved/"><u>How to Fix Microsoft Antimalware Service Executable Causing Excessive CPU Drain in Windows nK [SOLVED]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-xr-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone XR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pinnacle-photo-narrative-directors-set/"><u>In 2024, Pinnacle Photo Narrative Director's Set</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-audio-output-device-not-installed-error-tips-and-tweaks-for-windows-users/"><u>Overcoming 'Audio Output Device Not Installed' Error: Tips and Tweaks for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-laptops-dead-touchpad-solutions-for-improved-functionality/"><u>Reviving Your Laptop's Dead Touchpad - Solutions for Improved Functionality</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-instructions-for-crafting-a-sony-vaio-system-repair-disc-with-windows-7/"><u>Step-by-Step Instructions for Crafting a Sony Vaio System Repair Disc with Windows 7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mending Pasting Malfunctions: Windows 10 Edition"
-date: 2024-10-26T18:03:09.462Z
-updated: 2024-10-30T16:11:28.999Z
+date: 2024-11-02T07:58:21.910Z
+updated: 2024-11-04T20:44:24.677Z
 tags:
   - win11
   - win10
@@ -57,10 +57,10 @@ The good news is, you can fix it easily!
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
@@ -76,15 +76,23 @@ To do so:
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
@@ -95,29 +103,37 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
- Click **Yes**   when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Click **Yes**   when prompted to confirm.
 
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -129,22 +145,8 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
@@ -170,20 +172,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-critique-gopro-hero4-silver-sensor/"><u>Complete Critique GoPro HERO4 Silver Sensor</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/effective-strategies-for-mastering-slug-line-formats-for-2024/"><u>Effective Strategies for Mastering Slug Line Formats for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-what-to-do-when-your-pc-runs-on-windows-11-and-crashes/"><u>Expert Advice: What to Do When Your PC Runs on Windows 11 and Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-d3dxtoolsdll-missing-error-on-windows-7/"><u>Fixing d3dxtools.dll Missing Error on Windows 7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-8-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 8</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-fix-persistent-edit-delay-in-fortnite-proven-strategies-and-tips/"><u>How to Fix Persistent Edit Delay in Fortnite: Proven Strategies & Tips</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-moto-g24-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Moto G24 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-revenue-adsense-tips-for-youtubers/"><u>In 2024, Streamlining Revenue AdSense Tips for YouTubers</u></a></li>
-<li><a href="https://common-error.techidaily.com/installation-error-windows-10-version-1607-upgrade-fails/"><u>Installation Error: Windows 10 Version 1607 Upgrade Fails</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-update-troubles-heres-the-ultimate-2024-fix-and-launch-tutorial/"><u>PUBG Update Troubles? Here's the Ultimate 2024 Fix & Launch Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-windows-explorer-issue/"><u>Revive Windows Explorer Issue</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001772917-stop-diablo-4-glitches-in-their-tracks-fix-your-console-and-pc-with-our-ultimate-troubleshooting-guide/"><u>Stop Diablo 4 Glitches in Their Tracks - Fix Your Console & PC with Our Ultimate Troubleshooting Guide!</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-addressing-your-pcs-system-idle-process-overuse-of-cpu-resources/"><u>Understanding and Addressing Your PC's System Idle Process Overuse of CPU Resources</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-you-need-to-know-when-encountering-issues-with-non-downloading-torrents/"><u>What You Need To Know When Encountering Issues With Non-Downloading Torrents</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-accelerate-your-photo-edits-expert-lunapic-techniques/"><u>[Updated] In 2024, Accelerate Your Photo Edits Expert LunaPic Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-revisiting-yesteryears-social-stories-on-fb-device-guide/"><u>[Updated] In 2024, Revisiting Yesteryear's Social Stories on FB Device Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-revealing-10-hidden-viewers-of-stories/"><u>2024 Approved Revealing 10 Hidden Viewers of Stories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-10-tech-tools-and-apps-every-student-needs-in-high-school/"><u>Best 10 Tech Tools and Apps Every Student Needs in High School</u></a></li>
+<li><a href="https://common-error.techidaily.com/cant-reach-windows-defender-smartscreen-here-are-some-possible-solutions/"><u>Can't Reach Windows Defender SmartScreen? Here Are Some Possible Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-correct-file-or-device-path-unavailable-on-pc-with-windows/"><u>Easy Steps to Correct File or Device Path Unavailable on PC With Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-quiet-down-your-bass-units-unwanted-hum/"><u>How to Quiet Down Your Bass Unit's Unwanted Hum</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-z-flip-5-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy Z Flip 5 FRP Bypass</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-device-not-migrated-errors-during-upgrades-to-windows-10-expert-advice-and-fixes/"><u>Overcoming 'Device Not Migrated' Errors During Upgrades to Windows 10: Expert Advice and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-with-stagnant-individual-configuration-options/"><u>Overcoming Issues with Stagnant Individual Configuration Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-amd-catalyst-control-center-wont-launch/"><u>Quick Solutions: How to Resolve 'AMD Catalyst Control Center Won't Launch'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-issue-of-non-detected-seagate-portable-hard-drive-in-windows-11-systems/"><u>Resolving the Issue of Non-Detected Seagate Portable Hard Drive in Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-installation-error-fixing-error-code-80240020-once-and-for-all/"><u>Resolving Windows 11 Installation Error: Fixing Error Code 80240020 Once and for All</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/soundbot-sb210-reviewed-a-trustworthy-device-that-provides-premium-audio-output-when-operational/"><u>Soundbot SB210 Reviewed - A Trustworthy Device That Provides Premium Audio Output When Operational</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-silent-netflix-episodes-without-hitches/"><u>Step-by-Step Guide to Fix Silent Netflix Episodes Without Hitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-havit-5-multi-fan-cooler-ultimate-reviews-for-stellar-gamers/"><u>The HAVIT 5 Multi-Fan Cooler: Ultimate Reviews for Stellar Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-windows-10s-lost-bluetooth-fast-solutions-inside/"><u>Troubleshoot Windows 10'S Lost Bluetooth: Fast Solutions Inside!</u></a></li>
 </ul></div>
 

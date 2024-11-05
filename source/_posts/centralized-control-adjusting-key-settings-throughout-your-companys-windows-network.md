@@ -1,7 +1,7 @@
 ---
 title: "Centralized Control: Adjusting Key Settings Throughout Your Company's Windows Network"
-date: 2024-09-04T20:26:26.700Z
-updated: 2024-09-05T20:26:26.700Z
+date: 2024-11-03T20:01:37.720Z
+updated: 2024-11-04T21:38:15.188Z
 tags:
   - win11
   - win10
@@ -48,16 +48,24 @@ Then click **Device Manager**  to open it.
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -71,11 +79,12 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -85,11 +94,12 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
  That’s all there is to it. Any questions please feel free to let us know by leaving comments below, thanks.
@@ -103,8 +113,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +120,20 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-skyrocket-traffic-the-ultimate-list-of-video-growth-techniques/"><u>[Updated] In 2024, Skyrocket Traffic The Ultimate List of Video Growth Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-best-game-video-recording-and-editing-software-for-beginners/"><u>[Updated] In 2024, The Best Game Video Recording and Editing Software for Beginners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-adventure-an-in-depth-gopro-model-review/"><u>2024 Approved Capturing Adventure An In-Depth GoPro Model Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-conversion-raw-to-tiff-image-format-by-movavi/"><u>Free Online Conversion - RAW to TIFF Image Format by Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-addressing-the-issue-of-limited-system-capacity-for-services/"><u>How to Fix: Addressing the Issue of Limited System Capacity for Services</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-tecno-pova-5-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Tecno Pova 5 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/initially-hesitant-now-impressed-the-top-3-apple-watch-series-10-innovations-that-secured-my-approval/"><u>Initially Hesitant, Now Impressed: The Top 3 Apple Watch Series 10 Innovations That Secured My Approval</u></a></li>
+<li><a href="https://common-error.techidaily.com/pioneering-the-solution-to-pubgs-dxgidll-hiccup/"><u>Pioneering the Solution to PUBG's Dxgi.dll Hiccup</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-overwatch-voice-chat-isnt-functioning/"><u>Quick Fixes for When Your Overwatch Voice Chat Isn't Functioning</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-mouseless-woes-windows-the-ultimate-troubleshooting-steps/"><u>Resolve Your Mouseless Woes: Windows The Ultimate Troubleshooting Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shutdown-playbook-avoiding-windows-11-activities/"><u>The Shutdown Playbook: Avoiding Windows 11 Activities</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-a-non-functional-dell-usb-port/"><u>Troubleshooting and Fixing a Non-Functional Dell USB Port</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-unresponsive-lenovo-mouse-pads-across-win1087/"><u>Troubleshooting Steps for Unresponsive Lenovo Mouse Pads Across Win10/8/7</u></a></li>
+</ul></div>
 

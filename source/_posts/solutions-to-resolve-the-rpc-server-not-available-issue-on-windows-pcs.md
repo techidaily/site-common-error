@@ -1,7 +1,7 @@
 ---
 title: Solutions to Resolve the 'RPC Server Not Available' Issue on Windows PCs
-date: 2024-10-23T16:32:23.644Z
-updated: 2024-10-30T18:20:39.279Z
+date: 2024-11-01T22:21:36.902Z
+updated: 2024-11-05T07:07:53.102Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Windows Update Troubleshooter
 
 **Windows Update Troubleshooter**   is a useful troubleshooting tool that helps us solve common Windows update issues. Here’s how to run Troubleshooter:
@@ -50,28 +43,35 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Windows Update**   \> **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a523037e9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Follow the on-screen instructions to troubleshoot.
 
 4) Restart your computer, try Windows Update again and hopefully this problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the SFC scan
 
@@ -86,6 +86,13 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 2) In the command prompt window, type **sfc /scannow**   and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. ?  
  3) Restart your computer and see if the error**0x80073712**   has been solved.
@@ -114,13 +121,6 @@ Wait for a while for the whole process to finishes.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Delete Windows Update Cache
 
  Deleting Windows Update Cache is another useful method to help us fix the **0x80073712** error code. Here’s how:
@@ -133,26 +133,13 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a89c68a29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
@@ -161,22 +148,29 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a98e3f0f6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) When asked to provide administrator permission, check**the box** before**Do this for all current items** and click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ab04cd2f7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Back to the**Services** window, right-click on**Windows Update** and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
 
  7) Restart your computer and try the Windows update again to see if the error code disappears.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Use **Media Creation Tool** to have a clean installation of Windows 10
 
@@ -187,10 +181,16 @@ Wait for a while for the whole process to finishes.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
@@ -218,20 +218,19 @@ Wait for a while for the whole process to finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-10-must-haves-to-optimize-and-enrich-your-discord-experience/"><u>[Updated] 10 Must-Haves to Optimize and Enrich Your Discord Experience</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-dialing-up-deliverables-a-comprehensive-guide-to-gainful-vlogging/"><u>[Updated] In 2024, Dialing Up Deliverables A Comprehensive Guide to Gainful Vlogging</u></a></li>
-<li><a href="https://common-error.techidaily.com/by-pass-elevation-prompts-enable-admin-control-for-seamless-windows-operation/"><u>By-Pass Elevation Prompts: Enable Admin Control for Seamless Windows Operation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/capturing-coziness-ideal-winter-scenes-for-yt-video/"><u>Capturing Coziness Ideal Winter Scenes for YT Video</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-analysis-top-picks-of-the-best-5-slow-motion-cams-for-2024/"><u>Expert Analysis Top Picks of the Best 5 Slow Motion Cams for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/ftdibus-sys-memory-integrity-off-due-to-incompatible-drivers/"><u>Ftdibus Sys: Memory Integrity Off Due to Incompatible Drivers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-asus-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Asus .</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210932567-how-to-resolve-the-persistent-windows-store-error-0x80072ee7-proven-solutions-unveiled/"><u>How to Resolve the Persistent Windows Store Error 0X80072EE7: Proven Solutions Unveiled!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-anker-roav-dashcam-c1-exceptional-all-rounder/"><u>In-Depth Analysis of the Anker Roav DashCam C1: Exceptional All-Rounder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/power-play-the-ultimate-guide-to-selecting-lipos-for-uavs/"><u>Power Play The Ultimate Guide to Selecting LiPos for UAVS</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/remnant-mastered-seamless-gaming-without-interruptions/"><u>Remnant Mastered: Seamless Gaming Without Interruptions</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208876144-svchostexe-overload-on-windows-11-heres-how-to-fix-it-and-reduce-cpu-usage/"><u>svchost.exe Overload on Windows 11? Here's How to Fix It and Reduce CPU Usage</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-strategies-to-reduce-svchostexe-netsvcs-impact-on-windows-computer-networking/"><u>Top Strategies to Reduce Svchost.exe NETSVCS Impact on Windows Computer Networking</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-image-display-problems-in-windows-1011-systems/"><u>Troubleshooting Image Display Problems in Windows 10/11 Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-iphone-motion-blur-effects-in-images/"><u>[Updated] Master iPhone Motion-Blur Effects in Images</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-transforming-youtube-video-to-animated-gif-user-friendly-tips-for-2024/"><u>[Updated] Transforming YouTube Video to Animated GIF User-Friendly Tips for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-selection-of-non-bandicamp-cam-apps-for-mac-for-2024/"><u>[Updated] Ultimate Selection of Non-Bandicamp Cam Apps for Mac for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-0x80072f8f-on-your-computer-heres-how-you-can-troubleshoot-windows-1110-issues-easily/"><u>Error Code 0X80072F8F on Your Computer? Here's How You Can Troubleshoot Windows 11/10 Issues Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-with-computer-and-headphone-connection-problems/"><u>Fixing Issues with Computer and Headphone Connection Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-cod-ww2-error-4220-issue-for-smoother-gaming-experience/"><u>Fixing the COD: WW2 Error 4220 Issue for Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-pratique-et-gratuit-pour-recuperer-les-contacts-supprimes-en-format-vcf-a-partir-de-votre-carte-sd/"><u>Guide Pratique Et Gratuit Pour Récupérer Les Contacts Supprimés en Format VCF À Partir De Votre Carte SD</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-11-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 11 Pro with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-how-to-enable-your-devices-wireless-connectivity/"><u>Resolving Issues: How to Enable Your Device's Wireless Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202167542-speedy-remedies-for-out-of-memory-crashes-in-red-dead-redemption-2-adjust-and-overcome/"><u>Speedy Remedies for Out of Memory Crashes in Red Dead Redemption 2 – Adjust and Overcome</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-asus-rog-phone-8-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Asus ROG Phone 8 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-narrative-expertise-a-guide-on-leveraging-chatgpt-for-superior-story-craft/"><u>Unlocking Narrative Expertise: A Guide on Leveraging ChatGPT for Superior Story Craft</u></a></li>
 </ul></div>
 

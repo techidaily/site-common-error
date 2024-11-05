@@ -1,7 +1,7 @@
 ---
 title: How to Reduce MsMpEng.exe's Impact on System Resources for Smoother Windows 10 Performance
-date: 2024-09-04T20:24:07.180Z
-updated: 2024-09-05T20:24:07.180Z
+date: 2024-10-29T17:49:55.542Z
+updated: 2024-11-05T05:18:28.356Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ The good news is that it can be fixed quickly and easily.
 
  If you find System interrupts keep taking up over 20% of CPU usage, it means there’s some error with your hardware or the driver. Go with the following solutions to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixes for System interrupts high CPU
 
 * [What is System interrupts?](#h-what-is-system-interrupts)
@@ -40,11 +47,12 @@ The good news is that it can be fixed quickly and easily.
  First of all, try to restart your Windows 10 computer. No kidding! A complete reboot can always fix a lot of weird issues. Thus be sure to try it at first as it’s easy enough to take.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 2: Update your device drivers
 
  If your device driver misbehaves, then the error may also occur. So you can update your drivers to try to fix the issue.
@@ -52,19 +60,14 @@ The good news is that it can be fixed quickly and easily.
 1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 2. Expand any dialog and**right-click** on your device to choose**Update driver** . Choose**Update driver** and click**Search automatically for updated driver software** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c88ea4cdfe.jpg)
 3. Then Windows will start to detect the update for your device.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After updating one device, check for updates on your other devices with the same steps.
@@ -83,11 +86,12 @@ The good news is that it can be fixed quickly and easily.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -101,42 +105,7 @@ The good news is that it can be fixed quickly and easily.
 1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 2. Expand the**Universal Serial Bus controllers** ccategory. Then right-click on each USB Root Hub**except** the ones for your keyboard and mouse. Choose**Disable device** .  
-![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
-3. After disabling your USB Root Hubs, check if the CPU usage comes down.
 
-To check which USB Root Hub is for your keyboard and mouse:
-
- Right-click on USB Root Hub to choose**Properties** . Then you can see the**Attached devices** on the**Power** pane.
-
-![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Solution 4\. Modify your network adapter properties
-
-1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
-![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
-2. Expand the**Network adapters** category. Right-click on your network adapter (it should be the one with a manufacturer brand name like Intel, Realtek, Ralink, Qualcomm, Broadcom, etc.) and choose**Properties** .  
-![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca7c0b78a4.jpg)
-3. Choose to view on the**Advanced** pane. Then scroll down to**Wake on Magic Packet** and**Wake on pattern match** . Set their Value to be**Disabled** from the drop-down menu one by one. Click**OK** to save your settings.  
-![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca8968c9bd.png)
-4. See if the system interrupts still consume a high CPU usage on your computer.
 <!-- affiliate ads begin -->
 <span id="1975648">
 					<video width="128" height="480" style="cursor:pointer"
@@ -150,12 +119,32 @@ To check which USB Root Hub is for your keyboard and mouse:
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
+3. After disabling your USB Root Hubs, check if the CPU usage comes down.
+
+To check which USB Root Hub is for your keyboard and mouse:
+
+ Right-click on USB Root Hub to choose**Properties** . Then you can see the**Attached devices** on the**Power** pane.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Solution 4\. Modify your network adapter properties
+
+1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
+![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
+2. Expand the**Network adapters** category. Right-click on your network adapter (it should be the one with a manufacturer brand name like Intel, Realtek, Ralink, Qualcomm, Broadcom, etc.) and choose**Properties** .  
+![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca7c0b78a4.jpg)
+3. Choose to view on the**Advanced** pane. Then scroll down to**Wake on Magic Packet** and**Wake on pattern match** . Set their Value to be**Disabled** from the drop-down menu one by one. Click**OK** to save your settings.  
+![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca8968c9bd.png)
+4. See if the system interrupts still consume a high CPU usage on your computer.
+
 ## Solution 5: Repair system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it’s possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that   **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -166,15 +155,16 @@ To check which USB Root Hub is for your keyboard and mouse:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 6: Consider a system reset
 
@@ -194,8 +184,6 @@ To check which USB Root Hub is for your keyboard and mouse:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +191,26 @@ To check which USB Root Hub is for your keyboard and mouse:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-snappyscreen-recording-suite/"><u>[Updated] 2024 Approved SnappyScreen Recording Suite</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-harmonize-body-and-mind-through-these-top-10-yogis-videos-for-2024/"><u>[Updated] Harmonize Body and Mind Through These Top 10 Yogis' Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-freewinrecorder-straightforward-pc-screens/"><u>[Updated] In 2024, FreeWinRecorder Straightforward PC Screens</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-multimedia-slides-with-speech-recordings-powerpoint/"><u>[Updated] In 2024, Mastering Multimedia Slides with Speech Recordings (PowerPoint)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-prime-hashtag-combo-for-6-figure-youtube-traffic-surge/"><u>[Updated] In 2024, Prime Hashtag Combo for 6-Figure Youtube Traffic Surge</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-visualize-humor-use-kapwing-for-making-memes/"><u>[Updated] In 2024, Visualize Humor - Use Kapwing for Making Memes</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-fixes-for-when-your-internal-webcam-wont-work-on-a-windows-machine/"><u>Common Fixes for When Your Internal Webcam Won't Work on a Windows Machine</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/convert-free-pdf-files-into-interactive-ppt-presentations-effortless-conversion-with-flipbuilder/"><u>Convert Free PDF Files Into Interactive PPT Presentations - Effortless Conversion with FlipBuilder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/efficiently-using-skypes-screen-share-feature-in-telecommuting/"><u>Efficiently Using Skype's Screen-Share Feature in Telecommuting</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-for-repairing-unresponsive-external-mouse-connections-on-laptops/"><u>Essential Tips for Repairing Unresponsive External Mouse Connections on Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-it-solutions-when-your-torrent-wont-download/"><u>How to Fix It: Solutions when Your Torrent Won't Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-video-input-errors-on-monitors-easily-detailed-steps/"><u>How to Fix Video Input Errors on Monitors Easily (Detailed Steps)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-light-functionality-on-a-malfunctioning-corsair-keyboard/"><u>How to Restore Light Functionality on a Malfunctioning Corsair Keyboard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-roborocks-latest-robotic-vacuum-collection-spotted-at-ces-zdnet-coverage/"><u>Introducing Roborock's Latest Robotic Vacuum Collection, Spotted at CES - ZDNet Coverage</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-no-device-found-error-on-your-pc/"><u>Resolved: How to Fix 'No Device Found' Error on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-boosting-your-life-quality-using-chatgpt/"><u>The Ultimate Strategy: Boosting Your Life Quality Using ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-connection-problems-how-to-solve-overwatch-server-error/"><u>Troubleshooting Connection Problems: How to Solve Overwatch Server Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-when-google-chrome-stops-responding-to-inputs/"><u>Troubleshooting Guide: When Google Chrome Stops Responding to Inputs</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-win32-app-crash-with-code-0xc0000005-on-windows/"><u>Ultimate Guide: Resolving the Win32 App Crash with Code 0xC0000005 on Windows</u></a></li>
+</ul></div>
 

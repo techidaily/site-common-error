@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solution for Class Registration Problems on Windows 10
-date: 2024-10-27T17:13:46.913Z
-updated: 2024-10-30T17:26:46.056Z
+date: 2024-11-01T20:24:30.669Z
+updated: 2024-11-05T08:23:30.372Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -64,30 +71,29 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
@@ -104,10 +110,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
@@ -133,10 +139,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -162,22 +168,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-hold-your-audiences-gaze-essential-6-video-formats/"><u>[New] Hold Your Audience's Gaze Essential 6 Video Formats</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-list-the-10-free-android-and-iphone-video-chat-apps/"><u>[Updated] 2024 Approved Essential List The 10 Free, Android & iPhone Video Chat Apps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-game-recording-unveiled/"><u>[Updated] In-Game Recording Unveiled</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-control-youtube-audio-mobiledesktop-approach/"><u>2024 Approved Control YouTube Audio Mobile/Desktop Approach</u></a></li>
-<li><a href="https://facebook.techidaily.com/bridges-and-barriers-in-a-facebook-era/"><u>Bridges and Barriers in a Facebook Era</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/elite-mac-graphic-preserver-for-2024/"><u>Elite Mac Graphic Preserver for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-cannot-print-pdf-issue-simple-techniques-that-work/"><u>Fixing the 'Cannot Print' PDF Issue: Simple Techniques That Work</u></a></li>
-<li><a href="https://common-error.techidaily.com/icue-solution-guide-correcting-undetected-hardware-issues/"><u>ICUE Solution Guide: Correcting Undetected Hardware Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-windows-11-registration-errors-for-system-classes/"><u>Overcome Windows 11 Registration Errors for System Classes</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203308230-physxloaderdll-error-at-game-launch-heres-how-you-can-repair-it-quickly/"><u>PhysXLoader.dll Error at Game Launch? Here’s How You Can Repair It Quickly!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/rehabilitation-dun-fichier-microsoft-outlook-pst-perdu-dans-windows-10-deux-methodes-efficaces/"><u>Réhabilitation D'un Fichier Microsoft Outlook PST Perdu Dans Windows 10: Deux Méthodes Efficaces</u></a></li>
-<li><a href="https://common-error.techidaily.com/requirement-your-pc-needs-a-d3d11-compatible-graphics-card-to-operate-our-software/"><u>Requirement: Your PC Needs a D3D11-Compatible Graphics Card to Operate Our Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/spacebar-malfunction-in-windows-10-solutions-and-tips-for-immediate-recovery/"><u>Spacebar Malfunction in Windows 10 - Solutions and Tips for Immediate Recovery</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ming-made-simple-convert-and-broadcast-mp3-songs-online/"><u>Streaming Made Simple Convert and Broadcast MP3 Songs Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-a-nonfunctional-wacom-pen-in-windows-1110/"><u>Troubleshooting Tips: Fixing a Nonfunctional Wacom Pen in Windows 11/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-struggling-with-constant-airplane-mode-heres-your-solution/"><u>Windows 10 Struggling with Constant Airplane Mode? Here's Your Solution</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1728487466274-windows-11/"><u>Windows 11の元々の状態にリセットするためのステップバイステップガイド</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-preventive-measures-for-smooth-streaming-with-obs/"><u>[New] 2024 Approved Preventive Measures for Smooth Streaming with OBS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-editing-excellence-sports-videos-that-stand-out/"><u>[Updated] 2024 Approved Editing Excellence Sports Videos That Stand Out</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-audiophiles-guide-download-and-review-sound-files/"><u>[Updated] In 2024, Audiophile's Guide Download & Review Sound Files</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/benefits-of-multilingualism-post-40-a-cultural-and-cognitive-boost/"><u>Benefits of Multilingualism Post-40: A Cultural & Cognitive Boost</u></a></li>
+<li><a href="https://common-error.techidaily.com/busting-the-code-comprehensive-guide-to-correcting-nba-2k21s-green-glitch/"><u>Busting the Code: Comprehensive Guide to Correcting NBA 2K21's Green Glitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-resource-protection-failed-error-solutions-and-steps/"><u>Fixing 'Windows Resource Protection Failed' Error: Solutions & Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-vision-driven-or-mechanical-solidarity/"><u>Gamer's Choice: Vision-Driven or Mechanical Solidarity</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-brightness-back-overcoming-windows-10s-screen-setting-glitches/"><u>Getting Brightness Back: Overcoming Windows 10'S Screen Setting Glitches</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23plus-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy S23+ Phone Without Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-htc-u23-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change HTC U23 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-navigate-hdri-windows-powered-editing-wonders/"><u>In 2024, Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tutorial-windows-movie-maker-for-effective-animation-designs/"><u>In 2024, Tutorial Windows Movie Maker for Effective Animation Designs</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-functionality-to-your-directional-keypad-proven-remedies-for-broken-arrows/"><u>Restore Functionality to Your Directional Keypad: Proven Remedies for Broken Arrows!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-strategies-for-diagnosing-and-repairing-driverpowerstatefailure-issues-on-computers/"><u>Step-by-Step Strategies for Diagnosing & Repairing DRIVER_POWER_STATE_FAILURE Issues on Computers</u></a></li>
 </ul></div>
 

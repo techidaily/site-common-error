@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Functionality to Stuck Keys on PC Keyboards for Windows Users"
-date: 2024-10-29T16:36:46.203Z
-updated: 2024-10-30T16:47:34.002Z
+date: 2024-11-01T19:15:11.069Z
+updated: 2024-11-04T19:44:30.126Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -51,10 +44,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -62,10 +55,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -88,6 +81,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -99,10 +99,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -129,19 +129,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -162,6 +149,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -205,24 +199,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-enhancing-your-viewing-experience-facebook-and-roku-synergy/"><u>[New] Enhancing Your Viewing Experience Facebook & Roku Synergy</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-high-dynamic-range-luminances-impact-review/"><u>[New] In 2024, High Dynamic Range Luminance's Impact Review</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-apple-iphone-13-pro-max-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the Apple iPhone 13 Pro Max iCloud Lock</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-twitchs-error-nigma-code-4000-with-these-simple-repair-techniques/"><u>Beat Twitch's Error Nigma Code 4000 with These Simple Repair Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-solution-to-overcome-the-pitch-black-display-problem-in-monster-hunter-game/"><u>Complete Solution To Overcome The Pitch-Black Display Problem In Monster Hunter Game</u></a></li>
-<li><a href="https://common-error.techidaily.com/definitive-answer-on-resolving-stalled-windows-pre-installation-process/"><u>Definitive Answer on Resolving Stalled Windows Pre-Installation Process</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-epson-workforce-ds30-printer-driver-on-windows-11/"><u>Download Epson WorkForce DS30 Printer Driver on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-refresh-options-for-microsofts-latest-operating-system-windows-11/"><u>Effortless Refresh Options for Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/gaming-enthusiasts-rejoice-in-depth-analysis-of-the-nvidia-shield-tv-pros-performance/"><u>Gaming Enthusiasts Rejoice: In-Depth Analysis of the Nvidia Shield TV Pro's Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-seamlessly-set-up-usb-tethering-in-windows-11/"><u>How to Seamlessly Set Up USB Tethering in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-find-n3-flip-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo Find N3 Flip for Free? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/la-herramienta-ideal-para-replaza-a-itunes-transfiere-y-administra-tu-iphone-sin-complicaciones-con-windows/"><u>La Herramienta Ideal Para Replaza a iTunes: Transfiere Y Administra Tu iPhone Sin Complicaciones Con Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/mending-non-existence-of-cldll-in-systems/"><u>Mending Non-Existence of ClDLL in Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/mitigating-complications-due-to-missing-xinput13dll-file/"><u>Mitigating Complications Due to Missing XINPUT1_3.dll File</u></a></li>
-<li><a href="https://common-error.techidaily.com/origin-gaming-fix-overcoming-common-setup-challenges-for-seamless-play/"><u>Origin Gaming Fix: Overcoming Common Setup Challenges for Seamless Play</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/saturation-perfection-tool-for-2024/"><u>Saturation Perfection Tool for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-8-no-cost-driver-update-utilities-latest-picks-august-2024/"><u>Top 8 No-Cost Driver Update Utilities - Latest Picks (August 2024)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-corrupted-files-with-windows-system-file-checker-and-deployment-image-service/"><u>Troubleshooting Tips: Fixing Corrupted Files with Windows System File Checker & Deployment Image Service</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-maximizing-revenue-average-income-from-youtubes-adsense-per-thousand-watchers/"><u>[Updated] In 2024, Maximizing Revenue Average Income From YouTube's AdSense Per Thousand Watchers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-mvps-of-frugal-filmmaking-tech/"><u>[Updated] In 2024, The MVPs of Frugal Filmmaking Tech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/42024windows11/"><u>4最も効果的な2024年のWindows11画面録画手段</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932779-9781855843066-astronomy-and-astrology/"><u>Astronomy and Astrology | Free Book</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-p55t-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel P55T Phones with/without a PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-selection-of-360-videography-tools-for-2024/"><u>Prime Selection of 360° Videography Tools for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/resolved-issue-installing-drives-on-intel-optane-memory-enabled-windows-recovery-section/"><u>Resolved Issue: Installing Drives on Intel Optane™ Memory-Enabled Windows Recovery Section</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-excessive-cpu-consumption-by-wudfhostexe-on-windows-11-systems/"><u>Resolving Excessive CPU Consumption by wudfhost.exe on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-printer-driver-issues-a-comprehve-solution-guide/"><u>Resolving Windows Printer Driver Issues: A Comprehve Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-vr-headset-expert-tips-for-repairing-oculus-devices/"><u>Troubleshooting Your VR Headset: Expert Tips for Repairing Oculus Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-solutions-for-when-your-steam-downloads-dont-work-as-expected/"><u>Unlocking Solutions for When Your Steam Downloads Don’t Work as Expected</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-8-plus-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 8 Plus is not listed when I run the software? | Stellar</u></a></li>
 </ul></div>
 

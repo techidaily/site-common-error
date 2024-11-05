@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solutions to Overcome 'Port Reset Error with Unknown USB Device' On Your Windows 10 Machine
-date: 2024-10-27T17:17:52.840Z
-updated: 2024-10-30T18:18:59.578Z
+date: 2024-11-02T19:17:50.648Z
+updated: 2024-11-05T00:31:50.998Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -59,13 +59,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
@@ -84,16 +77,16 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -102,10 +95,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
@@ -115,6 +108,14 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
@@ -146,17 +147,20 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-visionary-tiles-top-8-image-weaver/"><u>[New] 2024 Approved Visionary Tiles Top 8 Image Weaver</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-how-to-set-up-an-impromptu-zoom-meeting-with-your-android-smartphone-for-2024/"><u>[New] How to Set Up an Impromptu Zoom Meeting with Your Android Smartphone for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-ultimate-8k-showcase-cameras-at-the-forefront-for-2024/"><u>[New] Ultimate 8K Showcase Cameras at the Forefront for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-get-precise-audio-capturing-for-your-pc-with-x-recorder/"><u>2024 Approved Get Precise Audio Capturing for Your PC with X-Recorder</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-troubleshooting-masterclass-defeating-dev-error-6634-latest-techniques/"><u>Call of Duty Warzone Troubleshooting Masterclass: Defeating Dev Error 6634 – Latest Techniques!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-latency-problems-with-the-keyboard-on-a-windows-10-system/"><u>How to Overcome Latency Problems with the Keyboard on a Windows 10 System</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-compelling-narratives-with-strategic-youtube-banners/"><u>In 2024, Crafting Compelling Narratives with Strategic YouTube Banners</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/launch-macxdvd-from-the-applications-directory-or-spotlight-search/"><u>Launch MacXDVD From the Applications Directory or Spotlight Search.</u></a></li>
-<li><a href="https://common-error.techidaily.com/level-up-your-gaming-rig-how-to-achieve-peak-performance-in-windows-11-games/"><u>Level Up Your Gaming Rig: How to Achieve Peak Performance in Windows 11 Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fixes-for-persistent-error-code-0x800f0922-on-your-windows-10-machine/"><u>Master the Fixes for Persistent Error Code 0X800f0922 on Your Windows 10 Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/microsoft-compatibility-telemetry-eating-up-too-much-disk-space-on-windows-10-solutions-and-fixes-available-now/"><u>Microsoft Compatibility Telemetry Eating Up Too Much Disk Space on Windows 10 – Solutions and Fixes Available Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamlining-pasting-processes-in-windows-10-devices/"><u>Streamlining Pasting Processes in Windows 10 Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-valorant-thumbnail-geniuses-quick-skilled-and-professionally-done/"><u>[New] 2024 Approved Valorant Thumbnail Geniuses Quick, Skilled, and Professionally Done</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-digital-domination-diaries/"><u>[Updated] 2024 Approved Digital Domination Diaries</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ranked-5-excellent-webcams-with-professional-microphones/"><u>[Updated] 2024 Approved Ranked 5 Excellent Webcams With Professional Microphones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tips-to-share-pre-recorded-videos-live-on-facebook/"><u>[Updated] 2024 Approved Tips to Share Pre-Recorded Videos Live on Facebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-binary-boundaries-unveiling-metaverse-vs-multiverse/"><u>Beyond Binary Boundaries Unveiling Metaverse V/S Multiverse</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-debugging-and-repairing-opengl-errors-within-minecraft/"><u>Effective Techniques for Debugging and Repairing OpenGL Errors Within Minecraft</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970224568-effortless-installation-of-hp-envy-t-5660-driver-software-get-your-download-here/"><u>Effortless Installation of HP ENVY T 5660 Driver Software - Get Your Download Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-the-most-out-of-your-astro-a40-mic-common-issues-and-how-to-resolve-them/"><u>Getting the Most Out of Your Astro A40 Mic – Common Issues and How to Resolve Them</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-your-computers-speakers-after-windows-7-update/"><u>How to Reactivate Your Computer's Speakers After Windows 7 Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722851886902-imessage-compatibility-with-android-how-to-set-up-now/"><u>IMessage Compatibility with Android – How to Set Up Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-game-freezing-in-valorant-restart-advise/"><u>Overcome Game Freezing in Valorant: Restart Advise</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-11-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme 11 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-final-word-on-crc-a-guide-to-correcting-and-preventing-data-errors/"><u>The Final Word on CRC - A Guide to Correcting and Preventing Data Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-pc-reset-problem-on-windows-10-complete-solution/"><u>Troubleshooting and Fixing the PC Reset Problem on Windows 10 [Complete Solution]</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-msda80dll-importance-and-maintenance-tips/"><u>Understanding MSDA80.DLL: Importance and Maintenance Tips</u></a></li>
 </ul></div>
 

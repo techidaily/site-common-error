@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Windows Update Error Code 0X800705B4 on Windows 11 Systems
-date: 2024-10-26T17:00:04.309Z
-updated: 2024-10-30T16:54:53.138Z
+date: 2024-10-29T06:31:27.769Z
+updated: 2024-11-04T19:24:41.318Z
 tags:
   - win11
   - win10
@@ -58,10 +58,10 @@ To restore it:
  6) Reboot your Windows 8\. Then go to the Windows App Store to install the app again to see if it’s successful.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## For Windows 10/8.1 users: Restore AppReadiness directory in the Windows Folder
@@ -72,22 +72,15 @@ To restore it:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **E** at the same time to invoke the File Explorer window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to **This PC**  \> **Local Disk (C:)**  \> **Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9ed488157.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **3) Right-click on the blank area to click New, then Folder** .
@@ -95,10 +88,10 @@ To restore it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9f67c0fe4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Yes**  when prompted by User Account Control.
@@ -106,6 +99,13 @@ To restore it:
  5) Name the new folder:   **AppReadiness** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afa57cdd600.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Reboot your Windows 10/8.1\. Then go to the Windows App Store to install the app again to see if it’s successful.
 
@@ -126,18 +126,16 @@ To restore it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-immersive-gameplay-capture-roblox-and-macos-synergy-for-2024/"><u>[New] Immersive Gameplay Capture Roblox & macOS Synergy for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-best-8-online-hubs-for-downloading-free-3d-text-psdfiles/"><u>[Updated] 2024 Approved The Best 8 Online Hubs for Downloading Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-make-every-podcast-session-count-with-these-15-powerful-activities/"><u>[Updated] Make Every Podcast Session Count with These 15 Powerful Activities</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-effective-youtube-banners/"><u>[Updated] The Ultimate Guide to Effective YouTube Banners</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-plugins-list-after-effects-edition/"><u>2024 Approved Ultimate Plugins List After Effects Edition</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/ai-abbyy/"><u>AI搭載領収書自動処理技術 ABBYYで体験</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-restoring-audio-on-your-astro-a4tic-50-expert-mic-troubleshooting-advice/"><u>Diagnosing & Restoring Audio on Your Astro A4tic 50: Expert Mic Troubleshooting Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-trouble-shooting-techniques-for-a-defective-mic-in-your-steelseries-arctis-5-headset/"><u>Effective Trouble Shooting Techniques for a Defective Mic in Your SteelSeries Arctis 5 Headset</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-and-fix-the-fatal-error-1603-during-software-installation/"><u>How to Resolve and Fix the 'Fatal Error 1603' During Software Installation</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-11-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 11 in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-class-on-smudge-techniques-in-images-for-2024/"><u>Master Class on Smudge Techniques in Images for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unblocking-driven-print-screws/"><u>Unblocking Driven Print Screws</u></a></li>
-<li><a href="https://common-error.techidaily.com/uncover-hidden-networks-solutions-for-non-visible-wi-fi-in-windows-11/"><u>Uncover Hidden Networks: Solutions for Non-Visible Wi-Fi in Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-top-mp4-tools-for-mac-users-maximizing-youtube-productions/"><u>[New] 2024 Approved Top MP4 Tools For Mac Users Maximizing YouTube Productions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pro-mac-and-pc-screen-capture-experts/"><u>[New] In 2024, Pro Mac & PC Screen Capture Experts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-charting-the-path-to-previous-imagery-a-facebook-centric-guide/"><u>[Updated] 2024 Approved Charting the Path to Previous Imagery A Facebook-Centric Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-how-to-stay-ahead-of-the-curve-in-tiktok-world/"><u>2024 Approved How to Stay Ahead of the Curve in TikTok World</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-resolve-error-code-0x80n0f0922-in-windows-10-updates/"><u>Effective Strategies to Resolve Error Code 0X80n0f0922 in Windows 10 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-login-problems-the-user-profile-service-failure-on-windows-11-explained/"><u>Fixing Login Problems: The User Profile Service Failure on Windows 11 Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-mistaken-identities-improving-apples-people-album-feature/"><u>Fixing Mistaken Identities: Improving Apple's People Album Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-stability-advanced-fixes-for-persistent-lag-in-fallout-4-yearbook/"><u>Mastering Stability: Advanced Fixes for Persistent Lag in Fallout 4 [Yearbook]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-glitch-solved-how-to-overcome-the-notorious-exit-code-0-problem/"><u>Minecraft Glitch Solved! How to Overcome the Notorious 'Exit Code 0' Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-non-responsive-touchpad-solutions-and-tips/"><u>Troubleshooting a Non-Responsive Touchpad: Solutions & Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-update-fixing-the-issue-of-wudfhostexe-draining-your-processors-capacity/"><u>Windows 11 Update: Fixing the Issue of wudfhost.exe Draining Your Processor's Capacity</u></a></li>
 </ul></div>
 

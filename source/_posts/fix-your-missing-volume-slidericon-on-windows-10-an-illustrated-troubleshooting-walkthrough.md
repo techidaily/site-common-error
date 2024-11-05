@@ -1,7 +1,7 @@
 ---
 title: Fix Your Missing Volume Slider/Icon on Windows 10 - An Illustrated Troubleshooting Walkthrough
-date: 2024-10-28T17:10:10.142Z
-updated: 2024-10-30T17:21:32.966Z
+date: 2024-10-30T11:18:39.313Z
+updated: 2024-11-04T18:22:51.127Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ The good news is, you can fix it easily!
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your sound driver
 
  Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
@@ -52,6 +59,14 @@ The good news is, you can fix it easily!
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
@@ -64,6 +79,14 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
@@ -72,6 +95,13 @@ To do so:
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
 
@@ -83,42 +113,21 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -130,22 +139,21 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
@@ -171,22 +179,18 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-most-engaging-sandbox-gaming-titles/"><u>[New] 2024 Approved The Most Engaging Sandbox Gaming Titles</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unravel-the-mystery-of-scouring-exceptional-photos-on-pexels/"><u>[New] 2024 Approved Unravel the Mystery of Scouring Exceptional Photos on Pexels</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-path-to-success-utilizing-youtube-metrics-effectively/"><u>[New] The Path to Success Utilizing YouTube Metrics Effectively</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-how-to-make-better-facebook-video-ads/"><u>[Updated] 2024 Approved How to Make Better Facebook Video Ads</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-to-mp3-simple-recording-steps/"><u>2024 Approved YouTube to MP3 Simple Recording Steps</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehve-steps-to-revive-your-acers-audio-no-more-quiet-computers/"><u>Comprehve Steps to Revive Your Acer's Audio – No More Quiet Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/destiny-2-initialization-fixes-unstuck-from-the-boot-sequence-hurdle/"><u>Destiny 2 Initialization Fixes: Unstuck From the Boot Sequence Hurdle</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-the-windows-camera-error-code-0xa00f4292/"><u>Diagnosing and Repairing the Windows Camera Error Code 0xA00F4292</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-repairing-google-chromes-unwanted-black-display-problem/"><u>Expert Advice on Repairing Google Chrome's Unwanted Black Display Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-steelseries-arctis-5-microphone-issue-a-comprehensive-guide/"><u>How to Fix the SteelSeries Arctis 5 Microphone Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nokia-c32-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nokia C32 FRP Without Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-x100-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo X100 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-windows-7-failing-to-recognize-second-display-issue/"><u>Resolved: Windows 7 Failing to Recognize Second Display Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-frozen-tailored-settings-on-accounts/"><u>Troubleshooting Frozen Tailored Settings on Accounts</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-high-performance-gaming-in-windows-11-strategies-for-gamers/"><u>Unlocking High-Performance Gaming in Windows 11: Strategies for Gamers</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-pause-perfection-a-step-by-step-guide-to-freezing-frames-in-videos-for-2024/"><u>Updated Pause Perfection A Step-by-Step Guide to Freezing Frames in Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>[New] Tips for iPhone Users Converting Standard Speed to Slow Scenes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-investigating-prominently-displayed-youtube-comments-for-2024/"><u>[Updated] Investigating Prominently Displayed YouTube Comments for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-photos-at-a-click-top-captioning-software/"><u>2024 Approved Perfect Photos at a Click Top Captioning Software</u></a></li>
+<li><a href="https://fox-making.techidaily.com/3-cara-mengatur-dan-menyelesaikan-driver-yang-hapus-di-windows-10/"><u>3 Cara Mengatur Dan Menyelesaikan Driver Yang Hapus Di Windows 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/analyzing-the-hp-stream-14-navigating-trade-offs-for-economical-computing/"><u>Analyzing the HP Stream 14: Navigating Trade-Offs for Economical Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-dell-laptops-experiencing-a-black-display/"><u>Comprehensive Fixes for Dell Laptops Experiencing a Black Display</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-youtubes-potential-subscriber-triumph-tactics/"><u>In 2024, Unlocking YouTube's Potential Subscriber Triumph Tactics</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-high-cpu-issues-with-optimal-windows-drivers-foundation-configurations/"><u>Resolving High CPU Issues with Optimal Windows Drivers Foundation Configurations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-poco-f5-pro-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Poco F5 Pro 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-stabilizing-your-gameplay-for-monster-hunter-world-on-pc/"><u>Troubleshooting Guide: Stabilizing Your Gameplay for Monster Hunter World on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-overcome-the-unable-to-connect-issue-error-0x80072fed-in-windows-10/"><u>Troubleshooting Tips: How to Overcome the 'Unable To Connect' Issue (Error 0X80072FED) in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-behind-nvidias-rtx-series-cards/"><u>Unraveling the Mystery Behind Nvidia's RTX Series Cards</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/your-personal-igtv-channel-guide-for-inspiration-for-2024/"><u>Your Personal IGTV Channel Guide for Inspiration for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips to Resolve Nier: Automata's Stability Problems on PC Platform"
-date: 2024-10-28T17:32:01.689Z
-updated: 2024-10-30T17:29:12.641Z
+date: 2024-10-31T04:25:14.788Z
+updated: 2024-11-05T06:58:18.555Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
@@ -65,24 +65,18 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
-4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
+4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
@@ -104,15 +98,22 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -143,20 +144,24 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/astering-cost-effective-visual-integration-in-writing/"><u>[New] Mastering Cost-Effective Visual Integration in Writing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-enhancing-viewer-attention-igtv-cover-tips-for-2024/"><u>[Updated] Enhancing Viewer Attention IGTV Cover Tips for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers/"><u>[Updated] In 2024, Cutting-Edge Openings at No Cost The Best YouTube Intro Makers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/king-on-a-virtual-odyssey-through-yt-stories-for-2024/"><u>Embarking on a Virtual Odyssey Through YT Stories for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unrecognized-bluetooth-gadgets-in-windows-11/"><u>How to Fix Unrecognized Bluetooth Gadgets in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-navigating-partner-selection-for-youtube-joint-ventures/"><u>In 2024, Navigating Partner Selection for YouTube Joint Ventures</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-guide-key-drone-upgrades-and-supplies/"><u>In 2024, The Ultimate Guide Key Drone Upgrades & Supplies</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211785288-miracast-compatibility-issues-update-your-graphics-driver-now/"><u>Miracast Compatibility Issues? Update Your Graphics Driver Now!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/reaction-video-makers-top-picks-for-iphone-and-android-for-2024/"><u>Reaction Video Makers Top Picks for iPhone and Android for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-lols-persistent-sluggish-downloads/"><u>Resolved! Troubleshooting LoL's Persistent Sluggish Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/silent-partner-in-perfectly-configured-network/"><u>Silent Partner in Perfectly Configured Network</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-overcome-post-update-windows-10-booting-failures-with-these-fixes/"><u>Solved! Overcome Post-Update Windows 10 Booting Failures With These Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-to-try-when-torrents-arent-downloading-properly/"><u>What To Try When Torrents Aren't Downloading Properly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-5-easy-steps-for-altering-game-voices-in-pubg/"><u>[New] The 5 Easy Steps for Altering Game Voices in PUBG</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-economical-hardware-peak-performance-via-obs/"><u>[Updated] 2024 Approved Economical Hardware - Peak Performance via OBS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-inverted-intrigue-mastering-the-art-of-turning-photos-for-instagram-glory/"><u>[Updated] 2024 Approved Inverted Intrigue Mastering the Art of Turning Photos for Instagram Glory</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-professionally-speaking-the-top-5-drone-recommendations/"><u>[Updated] 2024 Approved Professionally Speaking The Top 5 Drone Recommendations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-expertise-in-editing-mastery-a-dive-into-filmoras-best-practices/"><u>[Updated] Expertise in Editing Mastery A Dive Into Filmora's Best Practices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-building-brand-voice-via-micro-business-videos/"><u>[Updated] In 2024, Building Brand Voice via Micro-Business Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capturing-your-mi-11-screens-step-by-step/"><u>2024 Approved Capturing Your Mi 11 Screens - Step by Step</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208152521-beat-the-change-rendering-api-glitch-dota-2-error-2024-with-this-quick-guide/"><u>Beat the Change Rendering API Glitch (Dota 2 Error 2024) with This Quick Guide!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhanced-conversion-rates-with-ai-driven-tracking-the-power-of-cookiebot/"><u>Enhanced Conversion Rates with AI-Driven Tracking: The Power of Cookiebot</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-action-sequence-showdown-hero5-black-versus-hero4-silver/"><u>In 2024, Action Sequence Showdown Hero5 Black Versus Hero4 Silver</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-web-browsing-how-to-turn-on-cookies-easily/"><u>Mastering Web Browsing: How to Turn On Cookies Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-high-cpu-drain-from-windows-audio-hardware-acceleration-feature/"><u>Resolve High CPU Drain From Windows Audio Hardware Acceleration Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-and-shielding-yourself-from-google-chrome-critical-error-scams-comprehensive-techniques-revealed/"><u>Resolving and Shielding Yourself From Google Chrome Critical Error Scams - Comprehensive Techniques Revealed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-minecraft-problems-on-windows-a-guide-to-updating-video-card-drivers/"><u>Solve Your Minecraft Problems on Windows: A Guide to Updating Video Card Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-troubleshooting-and-fixing-slow-shutdown-on-windows-10/"><u>Tips for Troubleshooting and Fixing Slow Shutdown on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-your-networks-dns-server-here-are-4-efficient-remedies/"><u>Trouble With Your Network's DNS Server? Here Are 4 Efficient Remedies!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-lenovo-mouse-pad-on-windows-11-8-and-7-complete-fix-guide/"><u>Troubleshoot Your Lenovo Mouse Pad on Windows 11, 8 & 7 – Complete Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-the-current-inaccessibility-of-your-pcs-windows-smartscreen-defense/"><u>Understanding the Current Inaccessibility of Your PC's Windows SmartScreen Defense</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-update-error-resolving-the-kb4056892-setbacks-solution/"><u>Windows 11 Update Error: Resolving the KB4056892 Setbacks (SOLUTION)</u></a></li>
 </ul></div>
 

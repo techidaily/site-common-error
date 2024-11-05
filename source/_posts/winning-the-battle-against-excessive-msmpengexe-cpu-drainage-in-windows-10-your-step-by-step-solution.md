@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against Excessive MsMpEng.exe CPU Drainage in Windows 10 - Your Step-by-Step Solution
-date: 2024-10-24T16:41:21.217Z
-updated: 2024-10-30T17:48:53.529Z
+date: 2024-10-30T21:10:01.760Z
+updated: 2024-11-04T23:00:11.918Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check the setting of System Event Notification Service on your computer
@@ -68,6 +68,19 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset your Winsock Catalog
 
  You very likely have the problem on your computer that joins in a domain network. You could have problem due to some interference of your Winsock Catalog setting.
@@ -78,6 +91,14 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
@@ -86,10 +107,16 @@ Follow these steps to reset your Winsock Catalog:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
@@ -107,29 +134,9 @@ Follow these steps to reset your Winsock Catalog:
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -140,28 +147,29 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart your computer to see if the error has gone.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -201,24 +209,24 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-first-footsteps-in-youtube-landscape-setting-up-shop-and-earning-profitably/"><u>[Updated] First Footsteps in YouTube Landscape Setting Up Shop and Earning Profitably</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-start-streaming-the-simple-method-for-mac-book-air-recording-for-2024/"><u>[Updated] Start Streaming The Simple Method for Mac Book Air Recording for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-x-media-library-manager-personal-computer-for-2024/"><u>[Updated] X-Media Library Manager, Personal Computer for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/eight-must-visit-websites-for-free-3d-text-psdfiles/"><u>Eight Must-Visit Websites for FREE 3D Text PSDFiles</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210243867-error-code-0x80072f8f-on-your-computer-heres-how-you-can-troubleshoot-windows-1110-issues-easily/"><u>Error Code 0X80072F8F on Your Computer? Here's How You Can Troubleshoot Windows 11/10 Issues Easily!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/guidelines-for-eliminating-obs-fullscreen-freeze/"><u>Guidelines for Eliminating OBS Fullscreen Freeze</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-laptops-touchpad-in-widows-os/"><u>How to Restore Functionality of Your Laptop's Touchpad in Widows OS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-advanced-features-in-google-photos/"><u>In 2024, Exploring Advanced Features in Google Photos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-row-organization-tips-for-efficiently-grouping-and-collapsing-in-excel/"><u>Mastering Row Organization: Tips for Efficiently Grouping & Collapsing in Excel</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/maximizing-engagement-avoiding-common-youtube-thumbnail-errors/"><u>Maximizing Engagement Avoiding Common YouTube Thumbnail Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-ghosts-in-the-machine-eradicate-minecrafts-error-5-now/"><u>No Ghosts in the Machine! Eradicate Minecraft's Error #5 Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimizing-images-with-ae-luts-step-by-step/"><u>Optimizing Images with AE LUTs Step-by-Step</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-compatibility-challenges-microsoft-wireless-screen-mirroring-in-windows-10-fixed/"><u>Overcoming Compatibility Challenges: Microsoft Wireless Screen Mirroring in Windows 10 [Fixed]</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-error-code-8007000e-on-windows-updates-fast-and-effective-solutions/"><u>Resolve Error Code 8007000E on Windows Updates: Fast and Effective Solutions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-persistent-double-click-glitch-on-your-computer-mouse/"><u>Resolving Persistent Double-Click Glitch on Your Computer Mouse</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-windows-10-font-clarity-issues-easy-steps-to-improve-text-sharpness/"><u>Solve Windows 10 Font Clarity Issues: Easy Steps to Improve Text Sharpness</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-touch-screen-woes-on-windows-11-with-these-5-easy-techniques/"><u>Solve Your Touch Screen Woes on Windows 11 with These 5 Easy Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tier-steadicam-options-for-drone-video-production-for-2024/"><u>Top-Tier Steadicam Options for Drone Video Production for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-twitchs-error-4000-issue-expert-advice/"><u>Troubleshooting and Repairing Twitch's Error 4000 Issue – Expert Advice</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-beginners-guide-to-interpreting-facebook-metrics-for-2024/"><u>[New] Beginner's Guide to Interpreting Facebook Metrics for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-instantaneous-change-from-srt-to-txt-with-our-proven-methods/"><u>[New] Instantaneous Change From SRT to TXT with Our Proven Methods</u></a></li>
+<li><a href="https://win-dash.techidaily.com/broadcom-netlink-ethernet-drivers-how-to-download-and-install-on-windows-10/"><u>Broadcom NetLink Ethernet Drivers: How to Download and Install on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-issue-of-svchostexe-hiking-up-cpu-load-in-windows-10-systems/"><u>Diagnosing and Fixing the Issue of svchost.exe Hiking Up CPU Load in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x80072f8f-on-your-pc-easy-fixes-for-windows-11-and-10/"><u>Error 0X80072F8F on Your PC? Easy Fixes for Windows 11 and 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-how-to-get-your-huion-tablet-pen-working-again-with-these-5-troubleshooting-steps/"><u>Expert Tips on How to Get Your Huion Tablet Pen Working Again with These 5 Troubleshooting Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-archived-websites-easily-the-ultimate-guide-to-navigating-the-wayback-machine/"><u>Explore Archived Websites Easily: The Ultimate Guide to Navigating the Wayback Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-rid-of-google-chromes-black-screen-blunder-with-these-effective-tips/"><u>Get Rid of Google Chrome's Black Screen Blunder with These Effective Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-network-functionality-for-ethernet-adapters-on-pc-windows-10-and-7/"><u>Guide to Restoring Network Functionality for Ethernet Adapters on PC (Windows 10 & 7)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmony-achieved-fallout-4-post-crash-glitches/"><u>Harmony Achieved: Fallout 4 Post-Crash Glitches</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-common-errors-when-installing-or-updating-on-steam-platform/"><u>How to Fix Common Errors When Installing or Updating on Steam Platform</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-samsung-galaxy-a14-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Samsung Galaxy A14 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-x9a-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor X9a to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-unable-to-charge-while-on-call-discover-8-solutions/"><u>IPhone Unable to Charge While On Call? Discover 8 Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-reactivate-a-malfunctioning-fn-key-on-lenovo-devices-step-by-step/"><u>Solved! How to Reactivate a Malfunctioning FN Key on Lenovo Devices - Step by Step</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208354017-troubleshoot-and-fix-missing-bluetooth-in-windows-10-a-quick-solution/"><u>Troubleshoot and Fix Missing Bluetooth in Windows 10: A Quick Solution!</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-constant-computer-mouse-connectivity-loss/"><u>Understanding and Fixing Constant Computer Mouse Connectivity Loss</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-generating-windows-11-keys-via-ai-chatbots-is-not-advised-learn-alternatives/"><u>Why Generating Windows 11 Keys via AI Chatbots Is Not Advised – Learn Alternatives</u></a></li>
 </ul></div>
 

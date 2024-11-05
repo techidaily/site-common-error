@@ -1,7 +1,7 @@
 ---
 title: "See Event [November 13, 1920]: Post-World War I Economic Turmoil Leads to a Surge in U.S. Interest Rates From 4%% to 6%%, Relating to 'Inflation' As It Demonstrates Government Action Impacting Market Conditions."
-date: 2024-10-27T18:28:40.662Z
-updated: 2024-10-30T17:38:49.189Z
+date: 2024-10-31T21:40:42.213Z
+updated: 2024-11-04T16:03:38.197Z
 tags:
   - win11
   - win10
@@ -39,6 +39,19 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279bde5ee8d.png)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**  If you cannot find gpedit.msc on your Windows 10,[here is the method to got it.](https://tools.techidaily.com/drivereasy/download/)
 `
 ` `
@@ -55,13 +68,6 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279c6c18122.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `
 ` `
 ` `
@@ -74,10 +80,10 @@ Does this look familiar?
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279cc82eec5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `
@@ -126,35 +132,22 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a22807d2e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **YES**  when prompted by User Account Control.
 
  4) Go to **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \>**Policies** \>**Microsoft** \>**Windows** \>**DataCollection.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a4ede532e.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Double-click**Allow** **Telemetry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a53baa7f6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **NOTE:** If you can’t find Allow Telemetry, create it manually: Right-click on DataCollection and choose**New** \>**DWORD (32-bit) Value** . Then name the new value **Allow** **Telemetry** .
 
@@ -165,25 +158,19 @@ Does this look familiar?
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a576ca320.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) On your keyboard, press **Ctrl**  \+ **Shift**  \+ **Esc**  keys (at the same time) to open your Task Manager, check to see if Microsoft Compatibility Telemetry takes up a normal disk usage.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Update your device drivers
@@ -202,6 +189,13 @@ Does this look familiar?
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae696a52856.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next toany flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
 
@@ -241,14 +235,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-googles-podcast-uploading-guide/"><u>[Updated] In 2024, Navigating Google's Podcast Uploading Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-update-amd-graphics-driver-on-windows-platforms-10-11-and-7/"><u>Comprehensive Guide to Update AMD Graphics Driver on Windows Platforms (10, 11 & 7)</u></a></li>
-<li><a href="https://common-error.techidaily.com/correcting-unintended-typographical-errors-while-keyboarding/"><u>Correcting Unintended Typographical Errors While Keyboarding</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/effective-techniques-for-resolving-pool-corruption-issues-on-windows-10/"><u>Effective Techniques for Resolving Pool Corruption Issues on Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212100379-keyboard-malfunctions-on-windows-1011-heres-how-to-get-it-working-again/"><u>Keyboard Malfunctions on Windows 10/11? Here's How to Get It Working Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-error-code-0x800f0831-utilize-windows-updates/"><u>Quick Fixes for Error Code 0X800f0831: Utilize Windows Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-ps4-noise-issues-understanding-causes-and-solutions/"><u>Resolving PS4 Noise Issues: Understanding Causes and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-errcachemiss-errors-on-chrome-browsers/"><u>Troubleshooting and Resolving ERR_CACHE_MISS Errors on Chrome Browsers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-vanguards-choice-top-7-fps-wonders/"><u>[New] 2024 Approved Vanguard's Choice Top 7 FPS Wonders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-unleash-your-inner-influencer-9-essential-instagram-steps/"><u>[New] In 2024, Unleash Your Inner Influencer 9 Essential Instagram Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi/"><u>AVI マナーで圧縮するたび - 初心者から始める方法</u></a></li>
+<li><a href="https://win-info.techidaily.com/comprehensive-review-of-testdisk-with-advanced-alternatives/"><u>Comprehensive Review of TestDisk with Advanced Alternatives</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-obstacles-during-a-windows-software-installation/"><u>Expert Advice: Overcoming Obstacles During a Windows Software Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-getting-your-wireless-mouse-working-smoothly-again-on-windows-11-or-10/"><u>Expert Tips for Getting Your Wireless Mouse Working Smoothly Again on Windows 11 or 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expressive-emojis-and-images-kinemaster-tips-for-2024/"><u>Expressive Emojis & Images KineMaster Tips for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-spark-interest-and-boost-views-on-instagram-videos-for-2024/"><u>How to Spark Interest & Boost Views on Instagram Videos for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/identifying-and-restoring-corrupted-email-messages-with-massmail-tech-tools/"><u>Identifying and Restoring Corrupted Email Messages with MassMail Tech Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/offscreen-window-woes-discover-effective-ways-to-restore-them/"><u>Offscreen Window Woes? Discover Effective Ways to Restore Them</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-how-to-stop-halo-4-ue4-from-crashing-permanently-year-2024-strategies/"><u>The Ultimate Fix: How to Stop Halo 4 UE4 From Crashing Permanently - Year 2024 Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-logitech-g930-steps-for-addressing-volume-interruptions/"><u>Troubleshooting Logitech G930: Steps for Addressing Volume Interruptions</u></a></li>
 </ul></div>
 

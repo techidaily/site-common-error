@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Slow Downloading Experience in League of Legends Quickly and Effortlessly
-date: 2024-09-04T20:21:59.823Z
-updated: 2024-09-05T20:21:59.823Z
+date: 2024-11-01T06:39:46.646Z
+updated: 2024-11-05T08:02:28.756Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -53,12 +60,6 @@ Downloading again to see if it works.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -66,28 +67,17 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Re-download to check.
 
 **Note** : If it doesn’t work, you must**turn on** Windows Firewall to protect your computer.  
@@ -95,12 +85,6 @@ Re-download to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Manually install .NET framework 3.5
 
  .NET Framework is a software that runs on Microsoft Windows. It is one of the key software which League of Legends relies on. If nothing wrong with the game, the issue might be related to Microsoft .NET Framework.
@@ -110,11 +94,12 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Bonus: Update your drivers
 
  Missing or outdated drivers can cause many issues. Updating If you want to have better gaming experience and prevent potential problems, you’re recommended to keep your drivers update to date.
@@ -143,12 +128,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
@@ -169,8 +156,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +163,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-spotlight-synthesis-blending-lights-for-video-excellence/"><u>[New] Spotlight Synthesis Blending Lights for Video Excellence</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elite-pace-setter-pc-titles-for-2024/"><u>[Updated] Elite Pace-Setter PC Titles for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-your-online-analytics-through-advanced-cookiebot-integration/"><u>Boost Your Online Analytics Through Advanced Cookiebot Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-techniques-for-fixing-windows-11-issues-using-sfc-and-dism/"><u>Expert Techniques for Fixing Windows 1#1 Issues Using SFC & DISM</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-reviving-computers-that-have-become-stuck-in-a-freeze-loop/"><u>Expert Tips for Reviving Computers That Have Become Stuck in a Freeze Loop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-acknowledgement-pack-free-and-paid-otus-ready/"><u>In 2024, Acknowledgement Pack Free & Paid OTUs Ready</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-securing-youtube-srt-files-a-threefold-procedure/"><u>In 2024, Securing YouTube SRT Files A Threefold Procedure</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-streamers-guide-sharing-your-twitch-channel-on-fb/"><u>In 2024, Streamer's Guide Sharing Your Twitch Channel on FB</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-xiaomi-mix-fold-3-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Xiaomi Mix Fold 3? Fixed | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-technique-restoring-unseen-hidden-windows-with-ease/"><u>Mastering the Technique: Restoring Unseen, Hidden Windows with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-remote-server-not-reachable-error-practical-steps-to-follow/"><u>Overcoming 'Remote Server Not Reachable' Error: Practical Steps to Follow</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-retrieving-accidentally-deleted-documents-from-windows-11-outside-the-recycle-bin/"><u>Step-by-Step Guide: Retrieving Accidentally Deleted Documents From Windows 11 Outside the Recycle Bin</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-the-windows-10-cant-be-installed-error-80240020/"><u>Troubleshoot and Resolve the 'Windows 10 Can't Be Installed - Error 80240020'</u></a></li>
+<li><a href="https://common-error.techidaily.com/what-to-do-when-your-display-lacks-hdcp-support-for-high-definition-content/"><u>What to Do When Your Display Lacks HDCP Support for High Definition Content</u></a></li>
+</ul></div>
 

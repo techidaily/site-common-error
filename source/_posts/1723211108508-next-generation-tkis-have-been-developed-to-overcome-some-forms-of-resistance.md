@@ -1,7 +1,7 @@
 ---
 title: Next-Generation TKIs Have Been Developed to Overcome some Forms of Resistance.
-date: 2024-10-25T16:19:47.778Z
-updated: 2024-10-30T18:21:18.879Z
+date: 2024-11-01T07:20:26.831Z
+updated: 2024-11-04T22:18:27.999Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Getting any error codes or messages during the gameplay could be quite frustrati
 
 ![how to fix Red Dead Redemption 2 ERR_MEM_VIRTUAL_OUT_OF_MEMORY error](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to increase the page file size
 
 To increase the page file size, take these steps:
@@ -46,6 +39,13 @@ To increase the page file size, take these steps:
  1) In the Search box, type**advanced system settings** . Then click**View advanced system settings** from the list of results.  
   
 ![increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/advanced-system-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the**Advanced** tab, click**Settings** .  
   
@@ -55,20 +55,33 @@ To increase the page file size, take these steps:
   
 ![fix Red Dead Redemption 2 ERR_MEM_VIRTUAL_OUT_OF_MEMORY how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/advanced-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Uncheck**Automatically manage paging file size for all drives** .  
   
 ![how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/uncheck-the-option-1.png)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select your C drive and then tick**Custom size** .  
   
 ![fix Red Dead Redemption 2 ERR_MEM_VIRTUAL_OUT_OF_MEMORY how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/custom-size.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Type in the values for**Initial size** and**Maximum size** . Then click**OK** to save the changes.  
  (Tips: Microsoft recommends that the virtual memory you set is**no less than 1.5 times and no more than 3 times** the size of your RAM. To check RAM on Windows, follow the instructions below. )
@@ -77,6 +90,13 @@ To increase the page file size, take these steps:
 * Type**msinfo32.exe** and press Enter.  
 
 ![check RAM](https://images.drivereasy.com/wp-content/uploads/2021/05/msinfor.exe_.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Scroll down and look for the**Installed Physical Memory (RAM)** entry.  
 
@@ -97,22 +117,15 @@ To increase the page file size, take these steps:
 
 ![run DirectX 12 red dead redemption 2 won't launch](https://images.drivereasy.com/wp-content/uploads/2020/09/Go-to-settings-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **GRAPHICS** .
 
 ![run DirectX 12 red dead redemption 2 won't launch](https://images.drivereasy.com/wp-content/uploads/2020/09/click-on-graphics.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Advanced Settings**  section and make sure the **Advanced Settings**  option is set to **Unlocked** .
@@ -120,22 +133,15 @@ To increase the page file size, take these steps:
 ![run DirectX 12 red dead redemption 2 won't launch](https://images.drivereasy.com/wp-content/uploads/2020/09/unlock-advanced-settings-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) In the **Graphics API**  section, change it to **DirectX 12**  by clicking on the arrow button.
 
 ![run DirectX 12 red dead redemption 2 won't launch](https://images.drivereasy.com/wp-content/uploads/2020/09/select-DirectX-12-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Press **Enter**  to apply the changes.
 
@@ -183,14 +189,22 @@ To increase the page file size, take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-find-the-best-value-top-6-budget-friendly-camera-options/"><u>[Updated] Find the Best Value Top 6 Budget-Friendly Camera Options</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-simplified-access-how-to-dive-into-youtube-comment-threads/"><u>[Updated] Simplified Access How to Dive Into YouTube Comment Threads</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day/"><u>2024 Approved Ultimate Collection 20 Chuckle-Inducing Detention Cell Photos for a Better Day</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-correcting-error-0x80072efd-a-complete-guide-for-windows-10-users/"><u>Expert Advice on Correcting Error 0X80072EFD - A Complete Guide for Windows 10 Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/obtain-and-upgrade-to-most-recent-wacom-drawing-tablet-device-drivers/"><u>Obtain and Upgrade to Most Recent Wacom Drawing Tablet Device Drivers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/pbm-jpg/"><u>PBM 이미지를 자동으로 JPG로 전환하는 것을 원하시면 무료 가용성의 모바일 사용자 친화적인 도구</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-the-common-update-failed-error-8007000e-on-windows-systems/"><u>Quick Fixes for the Common 'Update Failed' Error 8007000E on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-casting-issues-to-devices-in-windows-11/"><u>Troubleshooting: Fixing Casting Issues to Devices in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/unfreeze-your-laptops-trackpad-or-touchscreen-expert-tips-and-solutions/"><u>Unfreeze Your Laptop's Trackpad or Touchscreen: Expert Tips & Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-overcoming-obs-blank-screens-in-gaming-recording/"><u>2024 Approved Overcoming OBS Blank Screens in Gaming Recording</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-xiaomi-redmi-note-12-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Xiaomi Redmi Note 12 Pro 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-microsofts-commitment-to-long-term-support-of-windows-11/"><u>Decoding Microsoft's Commitment to Long-Term Support of Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolved-dealing-with-incompatible-user-inputs-on-screen-devices/"><u>Error Resolved: Dealing With Incompatible User Inputs on Screen Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/examining-the-no-nonsense-stylish-aukey-usb-3n-hub-comprehensive-user-feedback/"><u>Examining the No-Nonsense, Stylish Aukey USB 3.n Hub: Comprehensive User Feedback</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-eliminating-wow-gameplay-interruptions-and-delays/"><u>Expert Tips: Eliminating Wow Gameplay Interruptions and Delays</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-spectre-x360-overheating-troubleshooting-and-resolution-tips/"><u>HP Spectre X360 Overheating Troubleshooting and Resolution Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-security-defenses-restored-ensure-safe-operations-today/"><u>Local Security Defenses Restored – Ensure Safe Operations Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-errors-with-the-diagnostics-verification-service-a-complete-solution/"><u>Overcoming Errors with the Diagnostics Verification Service - A Complete Solution</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/panduan-mengenai-proses-restorasi-data-dari-solusi-penyimpanan-jaringan-ssd-yang-kehilangan-fungsi-startup/"><u>Panduan Mengenai Proses Restorasi Data Dari Solusi Penyimpanan Jaringan (SSD) Yang Kehilangan Fungsi Startup</u></a></li>
+<li><a href="https://techidaily.com/remove-honor-x7b-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Honor X7b unlock screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-fatal-errors-caused-by-dxgkrnl-during-video-loading/"><u>Step-by-Step Guide to Resolve Fatal Errors Caused by Dxgkrnl During Video Loading</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essence-of-claude-2-and-how-it-serves-you/"><u>The Essence of Claude 2 and How It Serves You</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-rated-free-mpeg-video-concatenators-for-2024/"><u>Top-Rated Free MPEG Video Concatenators for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-non-displaying-taskbar-alerts/"><u>Troubleshooting Non-Displaying Taskbar Alerts</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-fixing-monitor-not-connected-issue/"><u>Troubleshooting Steps for Fixing 'Monitor Not Connected' Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-d3derrnotavailable-error/"><u>Ultimate Guide: Resolving the 'D3DERR_NOT_AVAILABLE' Error</u></a></li>
 </ul></div>
 

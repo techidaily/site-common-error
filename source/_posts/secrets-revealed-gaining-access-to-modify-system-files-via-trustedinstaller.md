@@ -1,7 +1,7 @@
 ---
 title: "Secrets Revealed: Gaining Access to Modify System Files via TrustedInstaller"
-date: 2024-10-26T17:36:06.592Z
-updated: 2024-10-30T16:53:08.335Z
+date: 2024-11-03T17:16:48.216Z
+updated: 2024-11-05T00:23:09.487Z
 tags:
   - win11
   - win10
@@ -51,33 +51,12 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -86,19 +65,6 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -109,13 +75,6 @@ start explorer.exe
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -124,13 +83,44 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -139,6 +129,14 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
@@ -162,10 +160,16 @@ OR
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -191,24 +195,20 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-adapting-spotify-playlists-into-a-youtube-music-format/"><u>[New] 2024 Approved Adapting Spotify Playlists Into a YouTube Music Format</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-essential-guide-to-dslr-and-live-streaming-on-computers/"><u>[New] 2024 Approved Essential Guide to DSLR and Live Streaming on Computers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-intrigue-and-ingenuity-in-leading-escapade-centres-for-2024/"><u>[New] Intrigue and Ingenuity in Leading Escapade Centres for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-transforming-your-media-expertise-in-itunes-recordings/"><u>[Updated] In 2024, Transforming Your Media Expertise in iTunes Recordings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-top-10-innovative-gloves-for-virtual-immersion/"><u>[Updated] Top 10 Innovative Gloves for Virtual Immersion</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-solutions-restoring-functionality-to-a-malfunctioning-left-click-mouse-button/"><u>DIY Solutions: Restoring Functionality to a Malfunctioning Left-Click Mouse Button</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/driven-by-the-advanced-technology-of-cookiebot/"><u>Driven by the Advanced Technology of Cookiebot</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-play-fortnite-on-incompatible-graphics-cards-under-windows-solutions-revealed/"><u>How to Play Fortnite on Incompatible Graphics Cards Under Windows – Solutions Revealed</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-y200-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo Y200 FRP Bypass</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-hosted-network-setup-on-windows-11-from-difficulties-to-seamless-connectivity/"><u>Mastering Hosted Network Setup on Windows 11: From Difficulties to Seamless Connectivity</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/optimal-techniques-for-capturing-high-quality-voip-conversations/"><u>Optimal Techniques for Capturing High-Quality VoIP Conversations</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-usb-connection-challenges-fixing-device-descriptor-request-failure-easily/"><u>Overcoming USB Connection Challenges: Fixing 'Device Descriptor Request Failure' Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-high-cpu-usage-by-the-windows-sound-isolation-feature-easy-solutions/"><u>Resolving High CPU Usage by the Windows Sound Isolation Feature: Easy Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/revived-windows-audio-service-on-win-1110/"><u>Revived Windows Audio Service on WIN 11/10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/skyward-saga-with-gopro-karma-a-comprehensive-review-for-2024/"><u>Skyward Saga with GoPro Karma A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/smooth-playback-awaits-eradicate-buffering-in-your-kodi-media-experience/"><u>Smooth Playback Awaits: Eradicate Buffering in Your Kodi Media Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/synchronized-tasks-and-engaging-podcast-episodes-for-2024/"><u>Synchronized Tasks and Engaging Podcast Episodes for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-strategies-to-eliminate-fallout-4-game-lag/"><u>Top Strategies to Eliminate Fallout 4 Game Lag</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-store-cache-may-be-damaged-solved/"><u>Windows Store Cache May Be Damaged [SOLVED]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pinnacle-performance-comparison-hero5-black-and-hero4-silver/"><u>[New] Pinnacle Performance Comparison Hero5 Black and Hero4 Silver</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-directory-name-is-invalid-error/"><u>[SOLVED] The Directory Name Is Invalid Error</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-scriptwriting-secrets-for-a-captivating-and-authentic-storyline/"><u>[Updated] Scriptwriting Secrets for a Captivating and Authentic Storyline</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieve-video-excellence-learn-the-studio-editor-way/"><u>Achieve Video Excellence Learn the Studio Editor Way</u></a></li>
+<li><a href="https://common-error.techidaily.com/et3rminate-all-unnecessary-applications-running-in-the-background-that-might-be-hogging-system-resources-which-could-potentially-help-with-driver-installati143/"><u>e.t3rminate All Unnecessary Applications Running in the Background that Might Be Hogging System Resources, Which Could Potentially Help with Driver Installation Issues.</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-eradicating-google-chromes-unwanted-black-screens/"><u>Expert Guide: Eradicating Google Chrome's Unwanted Black Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unseen-troubles-making-western-digitals-my-passport-ultra-visible-again-on-a-windows-pc/"><u>Fixing Unseen Troubles: Making Western Digital's My Passport Ultra Visible Again on a Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-unrecognized-external-storage-a-guide-for-wd-my-passport-ultra-in-windows-1011/"><u>How to Resolve Unrecognized External Storage - A Guide for WD My Passport Ultra in Windows 10/11</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-trending-android-apps-on-google-play-this-month-for-2024/"><u>New Top-Trending Android Apps on Google Play This Month for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-m6-pro-4g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on M6 Pro 4G</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-your-usb-flash-drive-detectable-again/"><u>Troubleshooting Guide: Making Your USB Flash Drive Detectable Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-issues-with-the-at-sign-on-your-device/"><u>Troubleshooting Steps: Resolving Issues with the At Sign on Your Device</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-not-a-fan-of-final-cut-pro-x-here-are-10-alternative-video-editors-for-2024/"><u>Updated Not a Fan of Final Cut Pro X? Here Are 10 Alternative Video Editors for 2024</u></a></li>
 </ul></div>
 

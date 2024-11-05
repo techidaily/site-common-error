@@ -1,7 +1,7 @@
 ---
 title: "No Link: Blizzard Support Unavailable"
-date: 2024-10-23T18:05:29.888Z
-updated: 2024-10-30T16:34:34.418Z
+date: 2024-10-30T18:10:16.278Z
+updated: 2024-11-05T07:44:17.164Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 * [Fix 4 – Reset TCP/IP Configuration](#h-fix-4-reset-tcp-ip-configuration)
 * [Fix 5 – Disable IPv6 on your active connection](#h-fix-5-disable-ipv6-on-your-active-connection)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1 – Is it a driver issue?
 
  The network adapter driver, which works as an interpreter between your network adapter and your PC, is essential to the proper functioning of the network adapter. Depending on different situations, you may encounter the **Unable to Contact DHCP Server** error when your network driver is outdated or new and problematic (hence requiring a rollback). There are ways you can do it manually, but if you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -64,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Roll back your network driver
 
  If updating your network driver didn’t cut it, you can try restoring it to see if it resolves the error. Before you do that, make sure you do a back up of the driver first.
@@ -76,10 +76,16 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 3. Click**Driver Backup** , then tick the box for**Network Adapter** , then click**Start Backup** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Wait around until the backup is complete. Then click**OK** to close the window.  
@@ -89,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 6. Select the driver you’re going to restore, then click **Continue** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Wait until the restore is successful, and click**OK** .
@@ -107,16 +113,23 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 2. Locate the **DHCP Client**  service in the services list, then right-click on it and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/dchp.png)
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Set the **Startup type** menu to **Automatic** .
 5. Click the **Start** button.
 6. Click **Apply > OK**  to save changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 – Register your DNS
 
@@ -128,16 +141,16 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. Type **ipconfig /registerdns** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click Close to exit the window.
 4. Restart your PC.
 5. Check to see if the**Unable to Contact DHCP Server** error is solved. If yes, then great. If it still happens, please continue with**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4 – Reset TCP/IP Configuration
 
@@ -146,16 +159,10 @@ Here’s how:
 2. In the command promopt window, type the following commands and press**Enter** after each:  
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * Type **netsh winsock reset** and press**Enter** .  
@@ -197,17 +204,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-imovie-trimming-query-the-reason-behind-video-cropping/"><u>[New] IMovie Trimming Query The Reason Behind Video Cropping</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-grand-city-adventures-without-a-gta-tie/"><u>[Updated] 2024 Approved Grand City Adventures Without a GTA Tie</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-picture-perfect-presentation-software-for-impeccable-photo-framing/"><u>2024 Approved Picture Perfect Presentation Software for Impeccable Photo Framing</u></a></li>
-<li><a href="https://common-error.techidaily.com/astro-a40-microphone-malfunction-heres-how-you-can-fix-it-now/"><u>Astro A40 Microphone Malfunction? Here’s How You Can Fix It Now</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-enabling-icloud-keychain-on-your-pc-a-step-by-step-tutorial/"><u>Guide: Enabling iCloud Keychain on Your PC - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-f54-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy F54 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-honor-100-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Honor 100 by Name | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/origin-gaming-troubleshooting-steps-for-resolving-your-game-installation-issues/"><u>Origin Gaming: Troubleshooting Steps for Resolving Your Game Installation Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-wisdom-from-toms-hardware-experts/"><u>Pioneering Computer Wisdom From Tom's Hardware Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-connection-issues-with-microsoft-wireless-display-adapter-on-windows-11/"><u>Troubleshooting Guide: Fixing Connection Issues with Microsoft Wireless Display Adapter on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-rpc-server-unreachable-on-your-pc/"><u>Ultimate Guide: Resolving 'RPC Server Unreachable' On Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209519767-windows-10-file-explorer-scroll-bar-jumps-to-top-when-scrolling-solved/"><u>Windows 10 File Explorer – Scroll Bar Jumps to Top when Scrolling [Solved]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-reviving-airtunes-fixing-disrupted-transfer-between-iphone-ipad-and-mac-for-2024/"><u>[New] Reviving Airtunes Fixing Disrupted Transfer Between iPhone, iPad & Mac for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-editing-enhance-iphone-hdr-with-these-four-master-techniques-in-adobe-for-2024/"><u>[Premium Editing] Enhance iPhone HDR with These Four Master Techniques in Adobe for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-listenleaders-vision-beyond-dacast/"><u>[Updated] ListenLeaders Vision Beyond DaCast</u></a></li>
+<li><a href="https://common-error.techidaily.com/device-disconnection-amidst-accurate-configuration/"><u>Device Disconnection Amidst Accurate Configuration</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-strategies-to-correct-oculus-equipment-failures-in-the-new-year-2024-edition/"><u>DIY Repair Strategies to Correct Oculus Equipment Failures in the New Year, 2024 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-for-reviving-a-failing-laptop-battery-lightning-fast-results/"><u>Easy Steps for Reviving a Failing Laptop Battery – Lightning-Fast Results</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-restoring-your-lenovos-malfunctioning-camera-feature/"><u>Expert Advice on Restoring Your Lenovo's Malfunctioning Camera Feature</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-10-tips-for-teachers-creating-a-youtube-channel/"><u>In 2024, 10 Tips for Teachers Creating a YouTube Channel</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-guide-to-picking-best-free-online-srt-translation-providers/"><u>In 2024, Guide to Picking Best Free Online SRT Translation Providers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-no-expense-full-experience-the-fcp-way/"><u>In 2024, No Expense, Full Experience The FCP Way</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-corsair-icue-on-your-computer-free-downloads-for-win11win10-users/"><u>Install Corsair iCUE on Your Computer: Free Downloads for Win11/Win10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/make-western-digital-my-passport-ultra-visible-again-on-your-windows-system/"><u>Make Western Digital My Passport Ultra Visible Again on Your Windows System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tailored-titling-for-stellar-online-video-content/"><u>Tailored Titling for Stellar Online Video Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-dota-2-2024-rendering-api-mishap-efficiently/"><u>Troubleshooting the Dota 2 2024 Rendering API Mishap Efficiently</u></a></li>
 </ul></div>
 

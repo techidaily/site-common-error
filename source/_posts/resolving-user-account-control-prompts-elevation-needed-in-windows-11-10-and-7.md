@@ -1,7 +1,7 @@
 ---
 title: "Resolving User Account Control Prompts: Elevation Needed in Windows 11, 10 & 7"
-date: 2024-10-26T16:03:11.124Z
-updated: 2024-10-30T18:22:04.036Z
+date: 2024-11-01T00:38:13.399Z
+updated: 2024-11-05T01:59:05.778Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
  Unplugged the external devices you don’t need out of your PC, such as Logitech, Razer, PlayStation, Xbox etc. See if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ````   **2: Check screen saver settings**
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 ```` Faulty screen saver settings could render it unusable. To fix it:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0c511d9193.png) and click **Control Panel** .
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) View by**Category** , click **Appearance and Personalization** .
 
@@ -67,16 +60,16 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492d59e849d-600x332.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In this window, you can choose which screen saver you’d like to use, and then customize it and set the time before it appears. Click **Apply** and **OK** to make it work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584933b0e0509.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ````   **3: Update Windows and device drivers**
 
@@ -102,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a3ff32d61.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -109,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a40b981b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ````   **Other options**
@@ -139,20 +139,22 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-elite-digital-image-grabbers/"><u>[New] Elite Digital Image Grabbers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-5-ios-podcast-apps-selection/"><u>[Updated] Leading 5 iOS Podcast Apps Selection</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-automating-your-voice-a-comprehensive-audacity-autotune-installation-and-usage-manual/"><u>2024 Approved Automating Your Voice A Comprehensive Audacity Autotune Installation and Usage Manual</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-integrates-siri-with-bing-the-future-of-ai-and-search-optimization-zdnet-insights/"><u>Apple Integrates Siri with Bing: The Future of AI and Search Optimization | ZDNet Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/end-the-loop-effective-solutions-for-persistent-windows-10-automatic-repairs/"><u>End the Loop: Effective Solutions for Persistent Windows 10 Automatic Repairs</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-when-you-cant-start-minecraft-on-your-pc/"><u>Fixes for When You Can't Start Minecraft on Your PC</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-90-lite-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor 90 Lite Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/mobile-audio-speed-the-fastest-app-list/"><u>Mobile Audio Speed The Fastest App List</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-common-issues-with-windows-update-failures/"><u>Resolving Common Issues with Windows Update Failures</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-realtek-audio-issue-restoring-sounds-with-easy-fixes/"><u>Solved: Realtek Audio Issue - Restoring Sounds with Easy Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-complete-guide-overcoming-obs-game-capture-display-issues/"><u>Troubleshooting Complete Guide: Overcoming OBS Game Capture Display Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-print-to-pdf-functionality-problems-on-windows-11-by-microsoft/"><u>Troubleshooting Print to PDF Functionality Problems on Windows 11 by Microsoft</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-correcting-opengl-error-1281/"><u>Troubleshooting Tips for Correcting OpenGL Error 1281</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-the-warframe-update-failure-message/"><u>Troubleshooting Tips: Fixing the 'Warframe Update Failure' Message</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-the-art-of-instagram-to-mp4-conversion-expert-tips/"><u>[New] In 2024, Mastering the Art of Instagram to MP4 Conversion - Expert Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-overcoming-iphone-hd-video-overexposure-with-premiere-pro/"><u>[New] In 2024, Overcoming iPhone HD Video Overexposure with Premiere Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unleashing-the-power-of-preparedness-in-your-streams/"><u>[Updated] Unleashing the Power of Preparedness in Your Streams</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-unsticking-your-windows-10-updates-and-ensuring-smooth-installation/"><u>Complete Guide: Unsticking Your Windows 10 Updates and Ensuring Smooth Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1053-corrected-enhancing-system-response-time-for-services/"><u>Error 1053 Corrected: Enhancing System Response Time for Services</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-a2-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo A2 Is Unlocked</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207859938-how-to-connect-an-xbox-one-controller-when-its-not-syncing/"><u>How to Connect an Xbox One Controller (When It's Not Syncing)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-file-explorer-in-windows-10-resolved-guide/"><u>How to Fix Unresponsive File Explorer in Windows 10 - Resolved Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-resolve-the-chatgpt-body-stream-problem-a-step-by-step-guide/"><u>How to Resolve the ChatGPT 'Body Stream' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-advanced-editing-text-insertion-tips-on-images-in-microsofts-photos/"><u>In 2024, Unlock Advanced Editing Text Insertion Tips on Images in Microsoft's Photos</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-the-troublesome-win32-app-crash-error-code-0x80070652/"><u>Quick Solutions for the Troublesome Win32 App Crash (Error Code: 0X80070652)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/284783-9789240681248-research-on-reproductive-health-at-who/"><u>Research on reproductive Health at WHO | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-something-went-wrong-issue-when-restoring-or-refreshing-windows-10-a-comprehensive-guide/"><u>Resolving the 'Something Went Wrong' Issue When Restoring or Refreshing Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-when-your-geforce-experience-wont-load/"><u>Step-by-Step Solution for When Your GeForce Experience Won't Load</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-fixes-when-your-computer-mouse-keeps-going-offline/"><u>The Definitive Fixes When Your Computer Mouse Keeps Going Offline</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-future-of-stories-top-4-innovative-ai-narrators/"><u>Unveiling the Future of Stories: Top 4 Innovative AI Narrators</u></a></li>
 </ul></div>
 

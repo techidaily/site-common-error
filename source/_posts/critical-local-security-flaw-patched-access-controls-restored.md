@@ -1,7 +1,7 @@
 ---
 title: Critical Local Security Flaw Patched – Access Controls Restored
-date: 2024-09-04T20:21:56.610Z
-updated: 2024-09-05T20:21:56.610Z
+date: 2024-10-28T23:51:12.491Z
+updated: 2024-11-05T02:59:15.947Z
 tags:
   - win11
   - win10
@@ -78,8 +78,6 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,11 +85,24 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-4k-lg-display-assessment-the-ultimate-31mu97-b-for-2024/"><u>[New] 4K LG Display Assessment The Ultimate 31MU97-B for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-from-sound-to-storage-logging-online-broadcasts-efficiently-for-2024/"><u>[New] From Sound to Storage Logging Online Broadcasts Efficiently for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-iphones-easy-path-to-picture-softness-four-key-steps/"><u>[New] In 2024, IPhone's Easy Path to Picture Softness (Four Key Steps)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-benq-sw320-monitor-reveal-a-spectacle-in-4k-technology/"><u>2024 Approved BenQ SW320 Monitor Reveal A Spectacle in 4K Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-program-initialization-problem-error-code-0xc000007b/"><u>Comprehensive Fixes for Program Initialization Problem (Error Code 0Xc000007b)</u></a></li>
+<li><a href="https://common-error.techidaily.com/correct-approach-to-msvcp140dll-deficiency/"><u>Correct Approach to MSVCP140.dll Deficiency</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-brightness-slider-unresponsive-on-windows-11/"><u>Fixing the Issue: Brightness Slider Unresponsive on Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/interact-with-confidence-setting-up-and-using-arlos-residential-security-network/"><u>Interact with Confidence - Setting Up and Using Arlo's Residential Security Network</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macbook-showdown-deciding-between-pro-and-air-models-an-in-depth-analysis-for-your-next-purchase/"><u>MacBook Showdown: Deciding Between Pro and Air Models - An In-Depth Analysis for Your Next Purchase</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-tablets-typing-ability/"><u>Revive Your Tablet's Typing Ability</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

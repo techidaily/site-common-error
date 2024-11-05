@@ -1,7 +1,7 @@
 ---
 title: "ASUS Laptop Maintenerence Tips: Fixing Stuck or Broken Function Key Issues"
-date: 2024-10-23T18:31:02.391Z
-updated: 2024-10-30T17:04:56.999Z
+date: 2024-11-02T19:51:10.572Z
+updated: 2024-11-05T03:06:00.642Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
 4. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Delete Manifest txt files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for network connection
 
  A poor network connection would certainly hold you back from loading into the game. Having a quick and simple check on your network connection should be your first fix to try.
@@ -54,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/f3da9d43f76b9f516093793d9516d9565ec88b780
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -90,16 +90,17 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com>.
 
@@ -112,35 +113,35 @@ If this doesn’t solve your problem, move on to the next fix.
 1. Press**Windows + I** key to open Windows Settings and then click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-settings-apps.jpg)
 2. Find**Valorant** from the Apps & features list and click on it.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Appsfeatures-1.jpg)
 3. Click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
 
@@ -152,6 +153,13 @@ If this doesn’t solve your problem, move on to the next fix.
 2. Right-click the**Manifest\_DebugFiles\_Win64** and**Manifest\_NonUFSFiles\_Win64** and select**Delete** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/delete-manifest1-3.jpg)
 3. Open Valorant to see if this fix helps you load in the game successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -175,18 +183,16 @@ If this doesn’t solve your problem, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-essential-chromes-leading-fb-video-grabs/"><u>[New] In 2024, Essential Chromes Leading FB Video Grabs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-investigating-user-experiences-with-free2x-webcam-tools/"><u>[New] In 2024, Investigating User Experiences with Free2X Webcam Tools</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-resolving-internal-system-crashes-from-video-memory-glitches/"><u>Diagnosing and Resolving Internal System Crashes From Video Memory Glitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-for-addressing-audio-output-not-recognized-errors-in-windows-11/"><u>Effective Strategies for Addressing 'Audio Output Not Recognized' Errors in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-steam-shop-connectivity-issues-with-these-expert-tips/"><u>Fix Your Steam Shop Connectivity Issues with These Expert Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maintenance-requirements-may-be-higher-due-to-mechanical-wear-in-some-displacement-pump-types/"><u>Maintenance Requirements May Be Higher Due to Mechanical Wear in some Displacement Pump Types</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-graphics-distortions-a-step-by-nstep-guide-to-fixing-warzone-issues/"><u>Overcoming Graphics Distortions: A Step-by-nStep Guide to Fixing Warzone Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-lag-and-connection-failures-in-minecrafts-lan-mode/"><u>Overcoming Lag and Connection Failures in Minecraft's LAN Mode</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-windows-7-pcs-faulty-usb-input-devices-problem/"><u>Solve Your Windows 7 PC's Faulty USB Input Devices Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-dll-file-issues-quickly-x3daudio17-strategies/"><u>Solving DLL File Issues Quickly: X3DAudio1_7 Strategies</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974224760-step-up-graphics-performance-update-intels-hd-3000-driver-in-windows-10/"><u>Step up Graphics Performance: Update Intel's HD 3000 Driver in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fix-print-screen-function-issues-on-windows-10-and-11/"><u>Troubleshooting Guide: Fix Print Screen Function Issues on Windows 10 & 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-evaluating-apples-m1-macbook-air-for-media-professionals/"><u>[New] 2024 Approved Evaluating Apple’s M1 MacBook Air for Media Professionals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-video-earnings-techno-gamers-guide-for-2024/"><u>[Updated] In-Video Earnings Techno Gamers' Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-virtual-reality-current-state-and-future-challenges-for-2024/"><u>[Updated] Virtual Reality Current State and Future Challenges for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-fixes-for-unsuccessful-installation-of-windows-11-update-1607/"><u>Common Fixes for Unsuccessful Installation of Windows 11 Update 1607</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tutorial-solve-your-dells-pitch-black-screen-problem-with-ease/"><u>Comprehensive Tutorial: Solve Your Dell's Pitch-Black Screen Problem with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-problematic-windows-installation-packages/"><u>How to Fix Problematic Windows Installation Packages?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/livestran-vs-screen-capture-titans-battle-of-software-giants-obs-and-bandicam/"><u>Livestran vs Screen Capture Titans Battle of Software Giants, OBS & Bandicam</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201495855-ultimate-guide-resolving-the-d3derrnotavailable-error/"><u>Ultimate Guide: Resolving the 'D3DERR_NOTAVAILABLE' Error</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-display-quality-at-a-bargain-premium-lightweight-laptop-sale-alert/"><u>Unbeatable Display Quality at a Bargain - Premium Lightweight Laptop Sale Alert!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fallout 4 Performance Tips - Say Goodbye to Lag
-date: 2024-09-04T20:26:51.680Z
-updated: 2024-09-05T20:26:51.680Z
+date: 2024-11-01T17:41:07.474Z
+updated: 2024-11-04T23:41:41.721Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your video card drivers
 
  Keep in mind to update your video card drivers at regular times; otherwise an out-dated or corrupt driver may end up lowering your FPS and even preventing the game from running smoothly.
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update your video card driver, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -82,11 +96,12 @@ To modify your video card settings, use the following procedure:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Now you’re able to modify the settings of this program.
 
  3) Pay attention to the list below**Specify the settings for this program:** . Scroll through the list to locate these items and make the tweaks accordingly:
@@ -98,30 +113,25 @@ Now you’re able to modify the settings of this program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-209.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust in-game settings
 
  This is also a quick-fix when you find yourself suffering from a lag issue in Fallout 4 – adjust the in-game settings.
@@ -132,18 +142,19 @@ Now you’re able to modify the settings of this program.
 
 ![This image has an empty alt attribute; its file name is image-215.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-215.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re not sure about the exact resolution of your monitor, you can right-click an empty area on your desktop and select**Display settings** from the context menu. In the pop-up window, take note of the recommended option under**Resolution** , the one that best suits your monitor size.
 
  Run the game to see if it goes smoothly this time. If not, move on and check out the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Uncap FPS limit
 
  You may seek to uncap the FPS limit of Fallout 4 by using Notepad to modify some certain values. Here’s how to do it:
@@ -158,12 +169,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-217.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you find out the line, change**iPresentInterval=1** to**iPresentInterval=0** .
 
 4) Save the file and exit Notepad.
@@ -205,8 +210,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +217,24 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-become-a-videographer-essentials-of-recording-with-logitech/"><u>[Updated] Become a Videographer Essentials of Recording with Logitech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-zoom-on-windows-10-a-step-by-step-guide/"><u>2024 Approved Mastering Zoom on Windows 10 A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieving-excellence-in-business-with-chatgpt-insights/"><u>Achieving Excellence in Business with ChatGPT Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-collection-for-collage-crafting/"><u>Comprehensive Collection for Collage Crafting</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210143755-9781596500396-conversations-in-apocalyptic-times/"><u>Conversations in Apocalyptic Times | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-your-vanishing-bluetooth-icons-on-a-windows-11-system/"><u>How to Recover Your Vanishing Bluetooth Icons on a Windows 11 System</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-seamless-screen-sequences-cycle-youtube-on-your-television/"><u>In 2024, Seamless Screen Sequences Cycle YouTube on Your Television</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-the-art-of-video-optimal-mac-and-snapchat-fit/"><u>Mastering the Art of Video Optimal Mac & Snapchat Fit</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-whatsapps-icloud-sync-problem-effective-tips-for-reliable-cloud-backup/"><u>Overcome WhatsApp's iCloud Sync Problem: Effective Tips for Reliable Cloud Backup</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-glitches-in-your-steam-game-setup-and-updates/"><u>Overcoming Glitches in Your Steam Game Setup and Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-the-windows-10-blue-screen-error/"><u>Resolved: How to Fix the Windows 10 Blue Screen Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-eternal-wait-times-during-skyrim-launch-sequence/"><u>Resolving Eternal Wait Times During Skyrim Launch Sequence</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-youtube-audio-issues-troubleshooting-the-sound-renderer-conflict-in-windows-10/"><u>Resolving YouTube Audio Issues: Troubleshooting the Sound Renderer Conflict in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-overcoming-failures-in-directx-graphics-driver-setup/"><u>Solution Found: Overcoming Failures in DirectX Graphics Driver Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-pcs-auto-snooze-problem-quick-fixes-inside/"><u>Solve Your PC's Auto-Snooze Problem: Quick Fixes Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-nonfunctional-lenovo-keyboard-solutions-inside/"><u>Troubleshooting a Nonfunctional Lenovo Keyboard – Solutions Inside</u></a></li>
+</ul></div>
 

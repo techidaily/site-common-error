@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Solving the Problem: USB Connectivity with HDMI Devices"
-date: 2024-09-04T20:25:53.464Z
-updated: 2024-09-05T20:25:53.464Z
+date: 2024-10-29T19:52:35.807Z
+updated: 2024-11-04T20:54:29.397Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Did you have this experience? You open your computer ready to work or entertain,
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reconnect your device
 
  When your mouse stops responding, the first option always reconnect the device. Normally you can reconnect by turn off and turn on the mouse, unplugging and plugging the dongle for the receiver or reboot your computer to reconnect the Bluetooth mouse with your computer.  
@@ -44,6 +51,14 @@ Did you have this experience? You open your computer ready to work or entertain,
 5. Choose**Devices and Printers** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_14-39-28.jpg)
 6. Choose**Add a device** and press**Enter** . Your computer will start to detect your Bluetooth mouse.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_17-57-35.jpg)
 7. Choose your Bluetooth mouse and press Enter. Follow the on-screen instructions to finish the process.
 
@@ -59,35 +74,26 @@ Did you have this experience? You open your computer ready to work or entertain,
 3. Choose**Troubleshoot** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-59-52.jpg)
 4. Select**Bluetooth** . Activate**Run the troubleshooter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-01-06.jpg)
 5. Follow the instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable Bluetooth mouse Power Management
 
  It’s possible that your computer is managing the power for Bluetooth devices so that the connection is dropped. To solve it, you need to disable your Bluetooth mouse power management.
@@ -95,29 +101,18 @@ Did you have this experience? You open your computer ready to work or entertain,
 1. Press the**Windows logo key + X** to open the menu. Use the**down arrow key** to choose**Device Manager** then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-31-48.jpg)
 2. Press**Tab** key to choose**Bluetooth** . Press the**right arrow** key to open the folder.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Choose the Bluetooth and press Enter. Go to the**Power Management** tab. Make sure**Allow the computer to turn off this device to save power** is**unchecked** . If it’s not, activate the checkbox (using the tab key) and press the**Space bar** . Move to OK and save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-48-38.jpg)
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your driver
 
  If there’s something wrong with your Bluetooth adapter driver or mouse driver, you may encounter this Bluetooth mouse not working problem. There are two ways you can get drivers: manually or automatically.
@@ -135,12 +130,6 @@ Did you have this experience? You open your computer ready to work or entertain,
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -156,8 +145,6 @@ Did you have this experience? You open your computer ready to work or entertain,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +152,24 @@ Did you have this experience? You open your computer ready to work or entertain,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-comprehensive-guide-to-integrating-skype-with-obs/"><u>[New] In 2024, Comprehensive Guide to Integrating Skype with OBS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-perfectly-crafted-windows-simulators-for-ps3-games-for-2024/"><u>[New] Perfectly Crafted Windows Simulators for PS3 Games for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-streamlined-online-gif-conversion-for-videos-top-5-for-2024/"><u>[New] Streamlined Online GIF Conversion for Videos (Top 5) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-extracting-youtube-music-three-secure-ways-without-financial-burden/"><u>[Updated] Extracting YouTube Music Three Secure Ways Without Financial Burden</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/action-sequels-the-best-games-like-grand-theft-auto/"><u>Action Sequels The Best Games Like Grand Theft Auto</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-your-steam-network-communication-problems/"><u>Diagnosing and Repairing Your Steam Network Communication Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-non-responsive-clipboard-in-windows-10/"><u>Diagnosing Non-Responsive Clipboard in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-to-overcome-fatal-video-errors-caused-by-dxgkrnl-on-windows/"><u>Essential Tips to Overcome Fatal Video Errors Caused by Dxgkrnl on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-windows-installation-issues-solve-could-not-complete-installation-in-minutes/"><u>Fix Your Windows Installation Issues: Solve 'Could Not Complete Installation' In Minutes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-semaphore-time-out-problems-for-error-code-0x80070x/"><u>How To Correct 'Semaphore Time Out' Problems for Error Code 0X80070^X</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-lava-blaze-2-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Lava Blaze 2 Face Lock?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-listeners-language-decoded-without-the-charge/"><u>In 2024, Listeners' Language Decoded, Without the Charge</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-mastering-the-art-of-keyboard-reset/"><u>Step-by-Step Guide: Mastering the Art of Keyboard Reset</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-non-responsive-hard-drive-in-windows-10-solutions-at-hand/"><u>Troubleshooting a Non-Responsive Hard Drive in Windows 10 - Solutions at Hand</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-rpc-errors-successful-strategies-and-solutions/"><u>Troubleshooting RPC Errors: Successful Strategies and Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-adobe-photoshop-on-windows-11-and-11/"><u>Unlock Adobe Photoshop on Windows 11 & 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Oppo A59 5G? | Dr.fone</u></a></li>
+</ul></div>
 

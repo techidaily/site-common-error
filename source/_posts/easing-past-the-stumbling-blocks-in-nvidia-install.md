@@ -1,7 +1,7 @@
 ---
 title: Easing Past the Stumbling Blocks in NVIDIA Install
-date: 2024-10-28T17:55:09.607Z
-updated: 2024-10-30T16:10:05.559Z
+date: 2024-11-01T01:23:08.392Z
+updated: 2024-11-05T03:33:34.926Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ Then click **Device Manager**  to open it.
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
@@ -65,10 +65,10 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
@@ -84,10 +84,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -99,10 +99,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -127,17 +127,21 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-detailed-study-of-easy-high-dynamic-range-photography/"><u>[New] 2024 Approved Detailed Study of Easy High-Dynamic Range Photography</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-youtubes-elite-annual-showcases-post-vidcon/"><u>[New] In 2024, YouTube's Elite Annual Showcases (Post-VidCon)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-smoothrec-video-log-analysis/"><u>[Updated] SmoothRec Video Log Analysis</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-motorola-razr-40-ultra-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Motorola Razr 40 Ultra.</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-connectivity-errors-with-your-microsoft-wireless-display-on-the-latest-windows-11-update/"><u>Bypass Connectivity Errors with Your Microsoft Wireless Display on the Latest Windows 11 Update</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720673443488-efficient-mac-hard-disk-management-in-minutes-thanks-to-video/"><u>Efficient Mac Hard Disk Management in Minutes, Thanks to Video</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-free-updates-your-ultimate-fix-for-the-notorious-0x80240017-windows-problem/"><u>Error-Free Updates: Your Ultimate Fix for the Notorious 0X80240017 Windows Problem</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-your-lenovo-keyboard-when-it-stops-responding/"><u>How To Repair Your Lenovo Keyboard When It Stops Responding</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-c53-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme C53 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-managing-anxiety-through-conversations-with-chatgpt/"><u>The Ultimate Guide to Managing Anxiety Through Conversations With ChatGPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-what-to-do-when-your-pc-cant-launch-windows/"><u>Troubleshooting Tips: What To Do When Your PC Can't Launch Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-captivating-edu-videos-essential-techniques-and-tips-for-youtube-success/"><u>[New] 2024 Approved Crafting Captivating Edu-Videos Essential Techniques and Tips for YouTube Success</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-game-streaming-tool-analysis-choose-obs-or-shadowplay/"><u>[New] 2024 Approved Game Streaming Tool Analysis Choose OBS or ShadowPlay?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-navigating-the-highest-rated-pixel-soundtracks-online/"><u>[New] Navigating the Highest-Rated Pixel Soundtracks Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-audience-expansion-strategies-that-honor-youtube-standards-for-2024/"><u>[Updated] Audience Expansion Strategies That Honor YouTube Standards for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-beyond-simplicity-exploring-the-intricacies-of-youtubes-view-count-algorithm/"><u>[Updated] Beyond Simplicity Exploring the Intricacies of YouTube’s View Count Algorithm</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-block-mastering-minecraft-error-code-5-solutions/"><u>Beat the Block! Mastering Minecraft Error Code 5 Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/directx-troubleshooting-successfully-addressing-unrecoverable-error-scenarios/"><u>DirectX Troubleshooting: Successfully Addressing Unrecoverable Error Scenarios</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-the-persistent-restart-problem-in-windows-11/"><u>Effortless Fixes for the Persistent Restart Problem in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-your-lenovo-mouse-pad-functionality-across-all-windows-versions/"><u>Guide to Restoring Your Lenovo Mouse Pad Functionality Across All Windows Versions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-tips-for-font-addition-in-after-effects/"><u>In 2024, Essential Tips for Font Addition in After Effects</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-14-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi 14 Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-market-top-picks-in-monitors-for-enhanced-experience-with-ps5-and-xbox-series-sx/"><u>Navigating the Market: Top Picks in Monitors for Enhanced Experience with PS5 & Xbox Series S/X</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-reviving-the-scroll-wheel-in-a-malfunctioning-logitech-mouse/"><u>Step-by-Step Guide: Reviving the Scroll Wheel in a Malfunctioning Logitech Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-11-update-error-code-0x80240034/"><u>Troubleshooting Guide: Resolving Windows 11 Update Error Code 0X80240034</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-cxfreeze-catastrophic-failures-with-ease/"><u>Troubleshooting Guide: Solving Cx_Freeze Catastrophic Failures with Ease</u></a></li>
 </ul></div>
 

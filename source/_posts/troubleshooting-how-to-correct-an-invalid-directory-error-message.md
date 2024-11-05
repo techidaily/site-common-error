@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Correct an Invalid Directory Error Message"
-date: 2024-10-25T16:32:02.633Z
-updated: 2024-10-30T17:05:47.380Z
+date: 2024-10-29T09:02:49.110Z
+updated: 2024-11-05T06:56:16.649Z
 tags:
   - win11
   - win10
@@ -41,6 +41,14 @@ Perhaps this error occurs because you’re having issues with your Windows syste
 1. Press the**Windows logo key** on your keyboard and type “_cmd_ “.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd68d188b6f7.png)
 2. Right click**Command Prompt** in the list of results, then select**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6a6691c908.jpg)
 3. (If you’re using**Windows 7** or an earlier version,**skip** this step.) Type the**following line of command** at Command Prompt and press**Enter** on your keyboard:  
 dism.exe /online /cleanup-image /restorehealth  
@@ -69,69 +77,64 @@ To do so:
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click**OK** .
 7. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Check to see if the error occurs. If not, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
-11. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+11. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 
 12. Check to see if the error occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
  If there’s any service that brings up the 0x80070426 error, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 16. Click**OK** and then click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
@@ -160,24 +163,14 @@ If you see a 0x80070426 error on Windows Update, you’re probably having an iss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-transform-yourfb-watchlist-with-easy-youtube-video-autoplay-configuration-for-2024/"><u>[New] Transform YourFB Watchlist with Easy Youtube Video Autoplay Configuration for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-fabricate-viral-gifs-via-giphy-portal/"><u>2024 Approved Fabricate Viral Gifs via Giphy Portal</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-finest-9-digital-places-for-harvesting-futuristic-3d-typefaces/"><u>2024 Approved The Finest 9 Digital Places for Harvesting Futuristic 3D Typefaces</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convert-image-files-from-pbm-to-bmp-for-free-on-the-web-with-movavis-tool/"><u>Convert Image Files From PBM to BMP for Free on the Web with Movavi's Tool</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-strategies-to-fix-delayed-start-up-response-addressing-error-1053/"><u>Efficient Strategies to Fix Delayed Start-Up Response - Addressing Error 1053</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-connectivity-between-a-nonfunctional-bluetooth-keyboard-and-pc/"><u>Expert Tips for Restoring Connectivity Between a Nonfunctional Bluetooth Keyboard and PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/express-your-gratitude-essential-phrases-for-travelers/"><u>Express Your Gratitude: Essential Phrases for Travelers</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-game-crashes-with-physxloader-dll-not-found-error/"><u>Fix Your Game Crashes with PhysXLoader DLL Not Found Error</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nubia-red-magic-8s-proplus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nubia Red Magic 8S Pro+ Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 15 Plus</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-realme-v30-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Realme V30 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-your-ps4-settings-a-detailed-walkthrough-to-correcting-failed-nat-types/"><u>Master Your PS4 Settings: A Detailed Walkthrough to Correcting Failed NAT Types</u></a></li>
-<li><a href="https://common-error.techidaily.com/print-to-pdf-malfunctioning-in-windows-11-here-are-the-fixes/"><u>Print to PDF Malfunctioning in Windows 11? Here Are the Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-repairing-malfunctioning-usb-input-devices-in-windows-7-environments/"><u>Quick Guide: Repairing Malfunctioning USB Input Devices in Windows 7 Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-cursor-solutions-for-windows-11-touchpad-troubles/"><u>Revive Your Cursor: Solutions for Windows 11 Touchpad Troubles</u></a></li>
-<li><a href="https://common-error.techidaily.com/stay-updated-seo-best-practices-evolve-over-time-so-it-is-essential-to-stay-updated-with-google-algorithm-changes-and-industry-trends-to-ensure-youre-optimi39/"><u>Stay Updated: SEO Best Practices Evolve over Time, so It Is Essential to Stay Updated with Google Algorithm Changes and Industry Trends to Ensure You're Optimizing Your Content Effectively.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-logitech-mouse-scroll-stops-turning/"><u>Troubleshooting Tips for When Your Logitech Mouse Scroll Stops Turning</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/windows-studio-options-beyond-moviemaker-for-2024/"><u>Windows Studio Options Beyond MovieMaker for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hannel-transformation-with-strategic-use-of-youtube-outros/"><u>[New] Channel Transformation with Strategic Use of YouTube Outros</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ideal-screen-capturing-solutions-for-igadgets/"><u>[New] In 2024, Ideal Screen Capturing Solutions for iGadgets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-binocular-vision-the-leading-digital-photo-enhancements/"><u>2024 Approved Binocular Vision The Leading Digital Photo Enhancements</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-wudfhostexe-from-using-too-much-processor-power-on-windows-11/"><u>How to Stop wudfhost.exe From Using Too Much Processor Power on Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/operational-guideline-verify-availability-of-a-supported-d3d11-gpu-before-installing-the-engine-software/"><u>Operational Guideline: Verify Availability of a Supported D3D11 GPU Before Installing the Engine Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207969157-overcoming-crc-faults-in-your-data-transmission-now-solved/"><u>Overcoming CRC Faults in Your Data Transmission - Now Solved</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-mesh-wireless-routers-and-setups/"><u>Top Rated Mesh Wireless Routers and Setups</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-invalid-directory-error-messages-quickly-and-effectively/"><u>Troubleshooting Invalid Directory Error Messages Quickly & Effectively</u></a></li>
 </ul></div>
 

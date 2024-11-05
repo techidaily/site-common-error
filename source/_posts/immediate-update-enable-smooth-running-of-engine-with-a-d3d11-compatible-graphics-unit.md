@@ -1,7 +1,7 @@
 ---
 title: "Immediate Update: Enable Smooth Running of Engine with a D3D11-Compatible Graphics Unit"
-date: 2024-10-26T18:02:20.752Z
-updated: 2024-10-30T16:10:30.564Z
+date: 2024-11-04T05:17:30.289Z
+updated: 2024-11-05T09:07:26.412Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Tweak your camera privacy settings
 
  Windows allows you to tweak the camera privacy settings to have a control over whether you allow access to camera on your HP laptop and which apps are allowed or denied. To make sure it’s enabled:
@@ -41,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 2. Make sure to toggle**On** **Allow apps to access your camera** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
@@ -52,20 +59,19 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff6254a550.jpg)
 4. Close the window, test the camera and see if it’s working properly. If it works, then congrats! But if it doesn’t, please move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your camera driver
@@ -82,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffcedce806.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0033072f1b.jpg)
@@ -100,6 +99,19 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 5) Check your laptop camera to see if the problem is resolved. If yes, then great! If the issue still remains, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your camera driver
 
@@ -113,15 +125,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00fd3e6f44.jpg)
 3. Right-click on**your camera device** and click**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01186337dc.jpg)
 4. Click **Yes**   to confirm the uninstall.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart**   your computer.
 6. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00c2cd78eb.png)
@@ -150,22 +163,17 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-5-must-have-mkv-tools-for-macos-for-2024/"><u>[Updated] 5 Must-Have MKV Tools for macOS for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-precision-and-performance-in-the-dell-p2715q-monitor-analysis/"><u>2024 Approved Precision and Performance in the Dell P2715Q Monitor Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/enabling-fortnite-on-non-compatible-graphics-cards-in-the-windows-environment-workarounds-and-tweaks/"><u>Enabling Fortnite on Non-Compatible Graphics Cards in the Windows Environment – Workarounds and Tweaks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhancing-the-mobile-experience-iphones-8-best-settings-for-visual-disabilities/"><u>Enhancing the Mobile Experience: IPhone's 8 Best Settings for Visual Disabilities</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-13-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-microsofts-print-to-pdf-issue-on-windows-10-and-11-a-comprehensive-guide/"><u>Fixing Microsoft's Print to PDF Issue on Windows 10 & 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95761104-9781612833798-fortune-telling-by-tarot-cards/"><u>Fortune Telling by Tarot Cards | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/hamachi-trouble-heres-how-you-can-fix-a-stopped-service-error/"><u>Hamachi Trouble? Here's How You Can Fix a Stopped Service Error</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-itel-p55-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Itel P55 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-day-blowout-secure-your-home-with-a-4-camera-setup-and-lighting-for-80-at-blink/"><u>Labor Day Blowout: Secure Your Home with a 4-Camera Setup and Lighting for $80 at Blink!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-windows-10-that-wont-properly-shut-down-and-reopens-instead/"><u>Resolving Issues with Windows 10 that Won't Properly Shut Down and Reopens Instead</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-code-28-issue-comprehensive-guide-for-windows-device-manager/"><u>Resolving the 'Code 28' Issue: Comprehensive Guide for Windows Device Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-addressing-challenges-in-directx-visual-processing-unit-creation-failures/"><u>Solution Guide: Addressing Challenges in DirectX Visual Processing Unit Creation Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/spontaneous-type-omission/"><u>Spontaneous Type Omission</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-laptop-mic-issues-a-comprehensive-guide/"><u>Troubleshooting and Repairing Laptop Mic Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-how-to-repair-a-non-responsive-spacebar-in-windows-10/"><u>Troubleshooting Fixes: How to Repair a Non-Responsive Spacebar in Windows 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-6-figure-success-starts-with-smart-hashtagging/"><u>[New] 2024 Approved 6-Figure Success Starts with Smart #Hashtagging</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-innovative-frame-tools-and-websites-image-editors/"><u>[New] In 2024, Innovative Frame Tools and Websites Image Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-live-show-recordings-the-modern-way/"><u>[New] Mastering Live Show Recordings The Modern Way</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-transforming-chat-dynamics-mastering-discords-text-styling-for-2024/"><u>[New] Transforming Chat Dynamics Mastering Discord's Text Styling for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-loom-lens-illuminating-your-recording-journey/"><u>[Updated] 2024 Approved Loom Lens Illuminating Your Recording Journey</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-glitch-video-editing-software-for-windows-and-mac-users/"><u>2024 Approved Top Glitch Video Editing Software for Windows and Mac Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/handling-failed-torrent-downloads-a-step-by-step-guide/"><u>Handling Failed Torrent Downloads: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-device-not-migrating-errors-on-windows-11-systems/"><u>How to Resolve Device Not Migrating Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-lava-storm-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Lava Storm 5G Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202017468-master-the-fix-for-windows-10s-persistent-0x80072efd-problem-with-these-proven-tips/"><u>Master the Fix for Windows 10'S Persistent 0X80072EFD Problem with These Proven Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-connection-issues-between-microsoft-display-adapters-and-windows-10-devices/"><u>Step-by-Step Guide to Fixing Connection Issues Between Microsoft Display Adapters & Windows 10 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-step-by-step-guide-to-mastering-file-explorer-on-windows-10-systems/"><u>Ultimate Step-by-Step Guide to Mastering File Explorer on Windows 10 Systems</u></a></li>
 </ul></div>
 

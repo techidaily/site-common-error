@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'No Connection' Errors Due to Unreachable DHCP Servers
-date: 2024-10-27T16:53:15.109Z
-updated: 2024-10-30T16:53:01.855Z
+date: 2024-10-29T22:59:08.096Z
+updated: 2024-11-05T11:21:51.895Z
 tags:
   - win11
   - win10
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 3. **[Set the Bluetooth support service to automatic](#c)**
 4. **[Update your Bluetooth driver](#d)**
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Remove all Bluetooth devices
 
  If you’ve connected multiple Bluetooth devices to your PC, chances are that one or more of your devices are preventing your PC from detecting other Bluetooth devices.
@@ -43,23 +56,9 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_15-06-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Under**View by** , select**Category** , then click**View devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-02-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Right-click your Bluetooth device and select**Remove device** .
 
@@ -72,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbda
 If your problem persists, then move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run the Bluetooth troubleshooter
@@ -85,6 +84,13 @@ If your problem persists, then move on and try the fix below.
 **1)** On your keyboard, press the**Windows logo key** and type**troubleshoot** . Then hit the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-35-46-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Select**Bluetooth** , then click**Run the troubleshooter** .
 
@@ -115,32 +121,31 @@ If your problem persists, then move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-59-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Set the**Startup Type** to **Automatic** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-02-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Try connecting your Bluetooth devices to test your problem.
 
 If your issue continues to occur, then try the next solution, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update Bluetooth driver
@@ -158,6 +163,13 @@ If your issue continues to occur, then try the next solution, below.
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-09-57.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -187,21 +199,14 @@ If your issue continues to occur, then try the next solution, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-high-quality-audio-excellence-with-these-mics/"><u>[New] In 2024, High-Quality Audio Excellence with These Mics</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-yearly-recording-runners-fb-live-sessions/"><u>[New] Yearly Recording Runners FB Live Sessions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-comprehensive-cheat-sheet-to-mastering-spotify-advertising/"><u>2024 Approved The Comprehensive Cheat Sheet to Mastering Spotify Advertising</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-understanding-and-leveraging-snapchat-spotlight/"><u>2024 Approved Understanding and Leveraging Snapchat Spotlight</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/embrace-laughter-and-sorrow-with-these-top-10-meme-igs/"><u>Embrace Laughter and Sorrow with These Top 10 Meme IGs</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-repair-a-broken-huion-pen-with-these-fast-and-easy-techniques/"><u>Expert Advice: Repair a Broken Huion Pen with These Fast and Easy Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/metaverse-mastery-rapidly-assemble-your-digital-self/"><u>Metaverse Mastery Rapidly Assemble Your Digital Self</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overuse-and-misuse-of-antibiotics-contribute-significantly-to-the-development-and-spread-of-resistant-strains/"><u>Overuse and Misuse of Antibiotics Contribute Significantly to the Development and Spread of Resistant Strains</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-construction-glitch-resolved-ensure-smooth-gameplay-with-these-tips/"><u>PUBG Construction Glitch Resolved – Ensure Smooth Gameplay with These Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-to-overcome-applicationexe-program-failure/"><u>Solutions to Overcome 'Application.exe' Program Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/tracking-down-msvcr71-missing-issue/"><u>Tracking Down MSVCR71 Missing Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-keys-that-wont-budge-solutions-inside/"><u>Troubleshooting Windows Keys That Won't Budge – Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-windows-source-loading-problems-in-multimedia-applications/"><u>Understanding and Fixing Windows Source Loading Problems in Multimedia Applications</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-free-image-heaven-top-10-public-domain-sites-for-2024/"><u>Updated Free Image Heaven Top 10 Public Domain Sites for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-restarting-saga-ends-here-your-ultimate-guide-to-fix-auto-repair-loop/"><u>Windows 10 Restarting Saga Ends Here: Your Ultimate Guide to Fix Auto Repair Loop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-animated-artistry-on-instagram-caption-creativity/"><u>[New] Animated Artistry on Instagram Caption Creativity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-clip-viewer-extractor-system/"><u>[New] Clip Viewer Extractor System</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-tablets-ranked-by-cpu-performance-a-comprehensive-review/"><u>Best Tablets Ranked by CPU Performance: A Comprehensive Review</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/illuminated-insights-visualizing-youtubes-17-data-story-for-2024/"><u>Illuminated Insights! Visualizing YouTube's '17 Data Story for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/matching-cameras-to-work-with-windows-hello/"><u>Matching Cameras to Work with Windows Hello</u></a></li>
+<li><a href="https://common-error.techidaily.com/reboot-surprise-from-pcs-on-win11/"><u>Reboot Surprise From PCs on Win11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-fifa-22s-pc-crash-issues-easily/"><u>Solution Guide: Overcoming FIFA 22'S PC Crash Issues Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-scroll-problems-on-your-synaptics-trackpad-after-upgrading-to-windows-11/"><u>Troubleshooting Scroll Problems on Your Synaptics Trackpad After Upgrading to Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-updates-successfully-restored-solutions-and-fixes/"><u>Windows Updates Successfully Restored: Solutions and Fixes</u></a></li>
 </ul></div>
 

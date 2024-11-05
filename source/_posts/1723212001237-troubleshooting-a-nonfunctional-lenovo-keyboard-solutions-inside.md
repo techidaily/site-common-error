@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Nonfunctional Lenovo Keyboard – Solutions Inside!
-date: 2024-10-28T18:25:29.370Z
-updated: 2024-10-30T17:27:26.606Z
+date: 2024-10-30T09:08:32.219Z
+updated: 2024-11-05T01:54:09.833Z
 tags:
   - win11
   - win10
@@ -28,35 +28,42 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 2. **[Try to press these keys](#f2)**
 3. **[Update your keyboard driver](#f3)**
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if the function keys are locked
 
  Sometimes the function keys on your keyboard could be locked by the F lock key. As a result, you can’t use function keys. Check if there was any key like**F Lock** ![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-2.png) or **F Mode** ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.png) key on your keyboard. If there is one key like that, press that key and then check if the Fn keys could work.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Try to press these keys
 
  As many users reported, they make their function keys work again by pressing the**F11** or**F12** key. You can give it a shot and see if it also helps you solve the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ```` ```` ``
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -70,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 To update your drivers with Driver Easy, just click the **Scan Now**  button, then when it lists the drivers you need to update, click **Update**  . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you update your keyboard driver, restart your computer and check if Fn keys work now.  
 ``
@@ -104,18 +104,22 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-no-marking-tiktok-mp4-downloader-for-high-quality-clips/"><u>[New] No Marking TikTok MP4 Downloader for High-Quality Clips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-youtube-to-high-definition-prime-downloader-choices/"><u>2024 Approved From YouTube to High Definition Prime Downloader Choices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unveiling-the-process-precision-recording-of-roblox-adventures-on-apple-devices/"><u>2024 Approved Unveiling the Process Precision Recording of Roblox Adventures on Apple Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-12r-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus 12R Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cartooncanvas-comprehensive-review-and-guidebook-24/"><u>CartoonCanvas Comprehensive Review & Guidebook '24</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-missing-desktop-icons-on-microsofts-latest-os/"><u>Comprehensive Fix for Missing Desktop Icons on Microsoft's Latest OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-reactivate-user-specific-adjustments-error-resolved/"><u>How to Reactivate User-Specific Adjustments (Error Resolved)</u></a></li>
-<li><a href="https://windows11.techidaily.com/identifying-and-correcting-incorrect-cpu-readouts-on-pc-monitor/"><u>Identifying and Correcting Incorrect CPU Readouts on PC Monitor</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-creative-chaos-top-video-dubbing-tools-for-humorous-edits-for-2024/"><u>New Creative Chaos Top Video Dubbing Tools for Humorous Edits for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/pioneering-techniques-for-cross-social-video-sharing/"><u>Pioneering Techniques for Cross-Social Video Sharing</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-vcruntime140dll-could-not-be-located-problem-today/"><u>Solve the 'VCRUNTIME140.dll Could Not Be Located' Problem Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-windows-11-bluetooth-connection-issues/"><u>Ultimate Guide: Resolving Windows 11 Bluetooth Connection Issues</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-insta-twist-techniques-crafting-compelling-content-with-camera-angles/"><u>[New] 2024 Approved Insta Twist Techniques Crafting Compelling Content with Camera Angles</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-maximize-your-inspiration-free-pinterest-video-downloaders/"><u>[New] In 2024, Maximize Your Inspiration Free Pinterest Video Downloaders</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-soundtrack-strategists-guide-to-youtube-playlists-for-2024/"><u>[New] The Soundtrack Strategist's Guide to YouTube Playlists for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-and-fixing-error-code-0x80240017-for-smooth-windows-updates-expert-tips-inside/"><u>Decoding and Fixing Error Code 0X80240017 for Smooth Windows Updates – Expert Tips Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/enabling-bluetooth-connectivity-in-windows-11-and-10-a-comprehensive-guide/"><u>Enabling Bluetooth Connectivity in Windows 11 & 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211471703-end-window-11s-non-stop-rebooting-cycle-easy-solutions-inside/"><u>End Window 11'S Non-Stop Rebooting Cycle - Easy Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-unidentified-external-hard-drive-error-solving-device-descriptor-request-failed/"><u>How to Fix an Unidentified External Hard Drive Error: Solving 'Device Descriptor Request Failed'</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-x-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone X and iPad</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nine-leading-iphone-image-watermarking-tools-analysis/"><u>In 2024, Nine Leading iPhone Image Watermarking Tools Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211130477-9781604736649-shadows-and-cypress/"><u>Shadows and Cypress | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-common-logitech-g933-mic-issues-and-how-to-avoid-them/"><u>Step-by-Step Fixes for Common Logitech G933 Mic Issues and How to Avoid Them</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-d3derr-not-available-issues/"><u>Step-by-Step Solutions to Overcome 'D3DERR Not Available' Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-restoring-access-to-your-geforce-experience/"><u>Successfully Restoring Access to Your GeForce Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-from-ces-2024-the-ultimate-guide-to-the-years-hottest-laptops/"><u>Top Picks From CES 2024: The Ultimate Guide to the Year's Hottest Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-windows-11-system-freezes-and-crashes/"><u>Troubleshooting Tips: Overcoming Windows 11 System Freezes and Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-stability-breakthroughs/"><u>Windows 11 Stability Breakthroughs</u></a></li>
 </ul></div>
 

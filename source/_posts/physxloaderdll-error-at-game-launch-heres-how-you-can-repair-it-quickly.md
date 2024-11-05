@@ -1,7 +1,7 @@
 ---
 title: PhysXLoader.dll Error at Game Launch? Here’s How You Can Repair It Quickly
-date: 2024-10-29T17:21:05.538Z
-updated: 2024-10-30T18:30:28.615Z
+date: 2024-11-01T00:47:49.842Z
+updated: 2024-11-04T22:41:34.921Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ Run PhysX and launch your game again to see if it works.
 
 **Note:** If your problem is still exists with the latest version of NVIDIA PhysX, you can download the legacy one in the same download page:![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc5535c7fd5e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Run the PhysX software in this particularway
 
  1) On your Windows, go to   **C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Dragon Age Ultimate Edition\\redist**
@@ -66,20 +73,13 @@ Here’s how you can check Windows type of a computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc4618cc9a83.jpg)
 3. You should then see the system type of the computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc461cb24500.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Part 2:**  Copy the physxloader.dll file from the working computer and then paste it to the problem computer.
@@ -91,14 +91,14 @@ Here’s how you can find the dll file:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc55648c21f8.jpg)
 3. Copy the physxloader.dll  file if found and paste it into the **same location**   as where you copy the file in your problem computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:**   Keep in mid that not every computer with the same system type has the dll file you want to restore, so this method is not always successful either.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pro Tip: Update your video driver
 
@@ -121,16 +121,10 @@ Here’s how you can find the dll file:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged NVIDIA driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
@@ -156,22 +150,22 @@ Reboot your Windows and launch your game to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-real-time-combination-of-screenwebcam-feed/"><u>[New] Real-Time Combination of Screen/Webcam Feed</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-logildadll-missing-issue-quickly-and-easily/"><u>[Solved] LogiLDA.dll Missing Issue | Quickly & Easily</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audio-visual-symphony-crafting-music-infused-instagram-videos/"><u>Audio-Visual Symphony Crafting Music-Infused Instagram Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-ntoskrnlexes-usage-spikes/"><u>Diagnosing and Resolving ntoskrnl.exe's Usage Spikes</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203791386-fix-and-troubleshoot-unresponsive-touchpad-scrolling-issues-resolved/"><u>Fix & Troubleshoot: Unresponsive Touchpad Scrolling Issues Resolved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-windows-10-update-issue-a-comprehensive-guide-to-resolving-error-code-0x800705b4/"><u>Fixing the Windows 10 Update Issue: A Comprehensive Guide to Resolving Error Code 0X800705b4</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/german-classrooms-revolutionized-by-mondlys-online-success/"><u>German Classrooms Revolutionized by Mondly's Online Success</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-choose-the-right-app-for-total-data-wipe-off-on-your-apple-devices-top-1-cups/"><u>How to Choose the Right App for Total Data Wipe-Off on Your Apple Devices: Top 1 Cups</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-download-and-update-your-wi-fi-6-ax200-drivers-for-optimal-use-with-microsofts-latest-operating-systems/"><u>How to Download and Update Your Wi-Fi 6 AX200 Drivers for Optimal Use with Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-when-windows-cant-reach-the-event-service-platform/"><u>How to Resolve When Windows Can't Reach the Event Service Platform</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-wipe-iphone-11-pro-max-data-permanently-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Wipe iPhone 11 Pro Max Data Permanently? | Stellar</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-best-10-emoji-apps-to-emoji-yourself-make-an-emoji-of-yourself/"><u>New In 2024, Best 10 Emoji Apps to Emoji Yourself-Make an Emoji of Yourself</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-lower-thirds-mastery-tips-and-tricks-for-fcpx-users/"><u>New In 2024, Lower Thirds Mastery Tips and Tricks for FCPX Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-issues-with-non-working-fn-keys-on-asus-notebook-devices/"><u>Overcoming Issues with Non-Working Fn Keys on Asus Notebook Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/reappearing-the-disappeared-sound-management-icon-in-windows-10-a-comprehensive-visual-guide/"><u>Reappearing the Disappeared Sound Management Icon in Windows 10: A Comprehensive Visual Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-wont-my-dvd-play-effective-remedies-for-common-windows-hiccups/"><u>Why Won't My DVD Play? Effective Remedies for Common Windows Hiccups</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/windows-11-ssdand/"><u>Windows 11 パフォーマンス向上：SSD切り替え&インストール不要クローニング技術</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-streaming-platforms-for-authors/"><u>[Updated] Ultimate Streaming Platforms for Authors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movdvd/"><u>「MOVビデオをDVDに変換する完全無料レシピ:高品質画像保持方法集紹介」</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-visual-editor-writes-guide-to-leveraging-luts-in-adobe-premiere-pro/"><u>2024 Approved A Visual Editor' Writes Guide to Leveraging LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-ryzen-processor-how-to-safely-install-latest-drivers/"><u>AMD Ryzen Processor: How To Safely Install Latest Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/code-blocked-process-halted/"><u>Code Blocked: Process Halted</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-dealing-with-unstable-system-bootups-stemming-from-driver-power-issues-in-windows-computers/"><u>Expert Advice on Dealing with Unstable System Bootups Stemming From Driver Power Issues in Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-speaker-distortion-issues-on-windows-11-and-7-a-comprehensive-guide/"><u>Fixing Speaker Distortion Issues on Windows 11 & 7 – A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/get-premium-recording-at-a-bargain-in-depth-look-at-pruveeo-fhd-dash-cam/"><u>Get Premium Recording at a Bargain: In-Depth Look at Pruveeo FHD Dash Cam</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-update-error-0x800f08/"><u>How to Resolve Windows Update Error 0X800f08</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-intelligent-volume-modulation-strategies/"><u>In 2024, Intelligent Volume Modulation Strategies</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/maitrisez-vos-taches-de-sauvegarde-avec-ces-strategies-simples-et-efficaces/"><u>Maîtrisez Vos Tâches De Sauvegarde Avec Ces Stratégies Simples Et Efficaces</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-wireless-display-adapter-not-connecting-problems-on-your-pc-with-windows-10/"><u>Resolving 'Wireless Display Adapter Not Connecting' Problems on Your PC with Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-noisy-audio-in-windows-operating-systems-10-and-7/"><u>Solution for Noisy Audio in Windows Operating Systems (10 and 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-minecraft-not-opening-in-windows-operating-system/"><u>Solution Steps for Minecraft Not Opening in Windows Operating System</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-intellectual-appeal-of-tcls-streamlined-smart-tv-a-deep-dive-into-the-roku-s325-model/"><u>The Intellectual Appeal of TCL's Streamlined Smart TV - A Deep Dive Into the Roku S325 Model</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-complimentary-language-apps-in-2-of-2024/"><u>Top 5 Complimentary Language Apps in 2# # of 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-nonfunctional-dell-wireless-keypad-solutions-inside/"><u>Troubleshooting a Nonfunctional Dell Wireless Keypad – Solutions Inside</u></a></li>
 </ul></div>
 

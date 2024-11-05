@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Shutdown Issues: How I Solved My Computer's Mysterious Power-Off Problem"
-date: 2024-10-29T16:30:17.727Z
-updated: 2024-10-30T16:14:22.086Z
+date: 2024-11-02T06:08:28.612Z
+updated: 2024-11-05T05:44:03.420Z
 tags:
   - win11
   - win10
@@ -50,26 +50,26 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78b71ef2a6.png)
 2. Click **Advanced system settings** \> **Settings…**  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78bc1c2002.jpg)
 3. Uncheck **Automatically restart** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78c0452d84.png)
 4. Use your computer for a while to see if it restarts randomly. If the problem remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Change advanced power settings
 
@@ -78,17 +78,26 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 1. Type **Power Options**  in the search box from Start. Then click**Edit power plan** or other items relates to power settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b79395b78b6.png)
 2. Click **Change advanced power settings** .  
-![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b7941bdec4c.png)
-3. In the**Balanced** section, click **Processor power management** \> **Minimum processor state** . Then set it to a small number, like**5%** or even**0%** . Click **Apply**  \> **OK** .  
-![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b79482efc69.png)
-4. Work on your computer for a while to see if it restarts randomly. If so, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b7941bdec4c.png)
+3. In the**Balanced** section, click **Processor power management** \> **Minimum processor state** . Then set it to a small number, like**5%** or even**0%** . Click **Apply**  \> **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b79482efc69.png)
+4. Work on your computer for a while to see if it restarts randomly. If so, please move on.
 
 ---
 
@@ -114,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Run a memory check
 
  The fact your computer randomly restarts could mean there’s a problem with its Random Access Memory (RAM). Fortunately, Windows comes with a tool that can test your RAM and let you know if there are any issues with it. Here’s how to use it:
@@ -128,32 +144,40 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-53-57.jpg)
 4. Windows will run diagnosis automatically, which can take a few minutes. When it’s finished, your PC will reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. The results will be shown on your desktop. If you don’t see any notification, right-click the **Start** menu then click **Event Viewer** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-54-28.jpg)
 6. Click **Windows Logs** \>> **System** \>> **Find** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-56-41.jpg)
 7. Type **memory diagnostic** , then click **Find Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-29-00.jpg)
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the Windows 10 computer randomly restarts problem. In that case, please move on to the next fix.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
 
@@ -166,29 +190,15 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Check power issue
@@ -228,19 +238,22 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rand-yourself-differently-strategies-for-finding-uncommon-names-for-2024/"><u>[New] Brand Yourself Differently Strategies for Finding Uncommon Names for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-securing-financial-stability-through-beauty-content/"><u>2024 Approved Securing Financial Stability Through Beauty Content</u></a></li>
-<li><a href="https://win-popular.techidaily.com/a-comprehensive-walkthrough-of-setting-up-drs-in-vmware-systems/"><u>A Comprehensive Walkthrough of Setting Up DRS in VMware Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/building-an-instagram-empire-in-just-nine-simple-steps-for-2024/"><u>Building an Instagram Empire in Just Nine Simple Steps for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-zte-blade-a73-5g-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from ZTE Blade A73 5G.</u></a></li>
-<li><a href="https://common-error.techidaily.com/end-windows-11s-constant-restart-cycle-a-comprehensive-guide/"><u>End Windows 11'S Constant Restart Cycle: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-the-0x800f0922-update-issue-on-your-windows-10-device/"><u>Expert Tips for Fixing the 0X800F0922 Update Issue on Your Windows 10 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-dvd-playback-errors-on-your-windows-computer/"><u>How to Overcome DVD Playback Errors on Your Windows Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-trackpad-malfunctions-on-windows-tips-and-tricks-for-laptops/"><u>How to Resolve TrackPad Malfunctions on Windows: Tips & Tricks for Laptops</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-intel-chipset-raid-driver-updates-compatible-with-windows-operating-systems-11-10-8-and-7/"><u>Latest Intel Chipset RAID Driver Updates Compatible with Windows Operating Systems: 11, 10, 8, and 7</u></a></li>
-<li><a href="https://fox-that.techidaily.com/recovering-your-disappearing-apple-memos-quickly-and-easily/"><u>Recovering Your Disappearing Apple Memos Quickly and Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revive-your-locked-ipad-methods-to-retrieve-or-reset-passcode/"><u>Revive Your Locked iPad: Methods to Retrieve or Reset Passcode</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-reactivate-backlight-settings-on-your-laptops-keyboard-across-macwindows-platforms/"><u>Step-by-Step Guide to Reactivate Backlight Settings on Your Laptop's Keyboard Across Mac/Windows Platforms</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-launchpad-for-novice-gopro-owners-must-have-gear-guide/"><u>[New] 2024 Approved Launchpad for Novice GoPro Owners - Must-Have Gear Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-optimize-your-viewing-experience-on-youtube-with-speed-settings/"><u>[New] In 2024, Optimize Your Viewing Experience on YouTube with Speed Settings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-innovative-methods-for-effectful-tiktok-videos/"><u>[New] Innovative Methods for Effectful TikTok Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-discover-the-evolution-of-video-technology-with-mycams-review/"><u>[Updated] In 2024, Discover the Evolution of Video Technology with MyCam's Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-execution-issues-in-windows-media-players-server-functionality/"><u>Expert Tips for Fixing Execution Issues in Windows Media Player's Server Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-excessive-gpu-usage-in-windows-1n-a-guide-to-optimizing-the-desktop-window-manager/"><u>Fixing Excessive GPU Usage in Windows 1N: A Guide to Optimizing the Desktop Window Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-windows-10-microphone-working-again-expert-tips-and-tricks/"><u>How to Get Your Windows 10 Microphone Working Again – Expert Tips and Tricks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y78plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y78+ by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubers-dream-gear-top-cameras-unveiled/"><u>In 2024, YouTubers' Dream Gear Top Cameras Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-repair-of-oculus-gear-expert-solutions-for-common-hardware-glitches/"><u>Mastering Repair of Oculus Gear: Expert Solutions for Common Hardware Glitches</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-ai-pixel-art-generator/"><u>New 2024 Approved What Is AI Pixel Art Generator?</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-hurdle-successfully-running-payday-2-on-windowspc/"><u>Overcome the Hurdle: Successfully Running Payday 2 on Windows/PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-streaming-woes-permanent-fix-for-kodi-stutter-and-buffering/"><u>Solve Your Streaming Woes: Permanent Fix for Kodi Stutter & Buffering</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-repair-for-semaphore-timeout-period-has-expired-error/"><u>Step-by-Step Repair for 'Semaphore Timeout Period Has Expired' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-the-windows-ebx-11-copy-p-paste-problem/"><u>Step-by-Step Solutions for the Windows Ebx 11 Copy-P Paste Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-corrective-measures-for-windows-file-repair-service-sfc-malfunction/"><u>Troubleshooting Guide: Corrective Measures for Windows File Repair Service (SFC) Malfunction</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-secrets-of-process-mining-exploring-its-limits-and-alternatives/"><u>Unveiling the Secrets of Process Mining: Exploring Its Limits & Alternatives</u></a></li>
 </ul></div>
 

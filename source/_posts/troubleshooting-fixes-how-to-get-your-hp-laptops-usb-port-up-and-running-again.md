@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: How To Get Your HP Laptop's USB Port Up and Running Again"
-date: 2024-10-25T17:07:12.282Z
-updated: 2024-10-30T17:45:17.365Z
+date: 2024-11-03T12:03:44.746Z
+updated: 2024-11-05T04:28:11.334Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ Before you start:
 3. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable Microphone in Windows Settings
@@ -62,32 +62,32 @@ Before you start:
 2. Click**Microphone** in the left panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click**Change** , then make sure the **Microphone access for this device** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.2-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Make sure **Allow apps to access your microphone** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.3.jpg)
 5. Try your Corsair HS50 mic and see if the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Change the audio settings on your PC**
 
@@ -98,10 +98,10 @@ Before you start:
 2. Click the**Recording** tab, and check if your microphone is set as default. (There will be a green checkmark next to it and the Set Default button is grayed out.) If your mic is not the default device, click**Set Default** to set it as default.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** The device name might not be Microphone and the icon might not be the shape of a Microphone in your computer.
@@ -155,24 +155,20 @@ Before you start:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-navigating-the-process-of-avi-to-gif-conversion-using-filmora-software/"><u>[New] In 2024, Navigating the Process of AVI-to-GIF Conversion Using Filmora Software</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-securely-and-swiftly-acquiring-your-youtube-watch-lists/"><u>[New] In 2024, Securely and Swiftly Acquiring Your YouTube Watch Lists</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-streaming-mastery-record-hulu-playback-on-multiple-systems/"><u>[Updated] 2024 Approved Streaming Mastery Record Hulu Playback on Multiple Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-creative-constructions-mcs-finest-houses/"><u>[Updated] In 2024, Creative Constructions MC's Finest Houses</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-the-windows-update-hurdle-easy-fixes-for-error-code-0x80070643-on-your-pc/"><u>Bypass the Windows Update Hurdle - Easy Fixes for Error Code 0X80070643 on Your PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversione-libera-online-dei-filmati-webm-al-formato-ogg-con-lutilita-converting-webm-to-ogg-da-movavi/"><u>Conversione Libera Online Dei Filmati Webm Al Formato Ogg Con L'utilità Converting Webm to Ogg Da Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/crack-the-code-to-a-smooth-windows-11-setup-fixing-error-80240020-easily-solved/"><u>Crack the Code to a Smooth Windows 11 Setup: Fixing Error 80240020 Easily [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/demystifying-msdia80dll-a-guide-to-its-importance-in-your-computers-performance/"><u>Demystifying msdia80.dll: A Guide to Its Importance in Your Computer’s Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-rectified-windows-1011-explorer/"><u>Error Rectified: Windows 10/11 Explorer</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-on-avoiding-and-repairing-the-critical-error-1603-during-setup-procedures/"><u>Expert Tips on Avoiding and Repairing the Critical 'Error 1603' During Setup Procedures</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/explore-the-ultimate-guide-to-virtual-webcams-and-real-time-broadcast-tools-discover-more-than-just-manycam/"><u>Explore the Ultimate Guide to Virtual Webcams & Real-Time Broadcast Tools - Discover More than Just ManyCam!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-itel-p55-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Itel P55 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-spotifys-ad-landscape-a-comprehensive-guide/"><u>Mastering Spotify's Ad Landscape A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-incompatible-device-driver-detected-on-your-system-fixes-and-solutions/"><u>Resolved: Incompatible Device Driver Detected on Your System - Fixes and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-walkthrough-fixing-no-disk-found-on-nvidia-devices/"><u>Step-by-Step Walkthrough: Fixing 'No Disk Found' On NVIDIA Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/swift-screen-tape-with-sound-included-for-2024/"><u>Swift Screen Tape with Sound Included for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-absent-cpu-accelerator-driver-on-your-windows-10-machine-solved/"><u>Troubleshooting and Fixing the Absent CPU Accelerator Driver on Your Windows 10 Machine [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-installing-device-drivers-on-windows-7-solved/"><u>Troubleshooting Guide: Installing Device Drivers on Windows 7 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-pubg-launch-glitches-in-the-2024-version-step-by-step/"><u>Ultimate Guide: Fixing PUBG Launch Glitches in the 2024 Version - Step by Step</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-dive-deep-into-the-digital-world-adding-panoramic-photos-to-your-feed/"><u>[New] Dive Deep Into the Digital World Adding Panoramic Photos to Your Feed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionary-video-editor-top-tier-clarity/"><u>[New] Revolutionary Video Editor Top-Tier Clarity</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-insiders-secret-to-viral-tiktok-edits/"><u>[Updated] 2024 Approved The Insider's Secret to Viral TikTok Edits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-comprehensive-manual-mastering-mobizen-recorders/"><u>2024 Approved Comprehensive Manual Mastering Mobizen Recorders</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-reasons-behind-a-non-responsive-keyboard-on-your-dell-computer/"><u>Common Reasons Behind a Non-Responsive Keyboard on Your Dell Computer</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210320929-9781667401638-criando-o-tarot-visconti-sforza/"><u>Criando o Tarot Visconti-Sforza | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-stuttered-screens-easy-fixes-at-hand/"><u>End Stuttered Screens - Easy Fixes at Hand</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209112557-error-0x887a0006-dissected-your-blueprint-to-a-rapid-and-straightforward-repair/"><u>Error 0X887A0006 Dissected - Your Blueprint to a Rapid and Straightforward Repair</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-plus-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus Passcode Screen?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-visionaries-choice-top-10-graphics-creation-apps/"><u>In 2024, Innovative Visionaries' Choice Top 10 Graphics Creation Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-guide-resolving-steam-disk-write-error-without-a-hitch/"><u>Quick Guide: Resolving Steam 'Disk Write Error' Without a Hitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/rectifying-invalid-value-for-registry-errors-on-windows-10-to-restore-functionality-of-photo-viewer/"><u>Rectifying 'Invalid Value for Registry' Errors on Windows 10 to Restore Functionality of Photo Viewer</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-access-to-your-favorite-ms-store-games-and-tools/"><u>Regaining Access to Your Favorite MS Store Games & Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-message-print-driver-host-stopped-running-on-32-bit-software/"><u>Resolved: Error Message - 'Print Driver Host Stopped Running' On 32-Bit Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-platform-prowess-twitch-vs-youtube-comparison/"><u>The Platform Prowess Twitch vs YouTube Comparison</u></a></li>
 </ul></div>
 

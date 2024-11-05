@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Sign-In Issues Caused by 'User Profile Service' In Windows 11
-date: 2024-10-24T18:09:51.007Z
-updated: 2024-10-30T16:45:37.773Z
+date: 2024-10-28T18:21:29.648Z
+updated: 2024-11-05T08:30:53.753Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ The good news is, you can fix it easily!
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your sound driver
 
  Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
@@ -63,6 +56,13 @@ The good news is, you can fix it easily!
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
  Another reason for this volume control not responding problem is the glitches with the Windows Audio and Windows Audio Endpoint Builder services. If that’s the case, we can re-enable them to see if it works.
@@ -73,21 +73,14 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 2. Locate and double-click on**Windows Audio** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
@@ -97,10 +90,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
@@ -111,7 +104,23 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click **Yes**   when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -120,10 +129,10 @@ To run SFC:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
@@ -134,13 +143,6 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
@@ -169,19 +171,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-professional-audio-recording-strategies-for-windows-10/"><u>[New] Professional Audio Recording Strategies for Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-expert-strategies-for-swift-and-smooth-media-navigation/"><u>[Updated] Expert Strategies for Swift and Smooth Media Navigation</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-digital-domination-how-videos-rule-twitter/"><u>[Updated] In 2024, Digital Domination How Videos Rule Twitter</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-solved-accessing-cwindowssystem32configsystemprofiledesktop-errors-corrected/"><u>Error Solved: Accessing C: Windows system32 config systemprofile Desktop Errors Corrected</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-strategies-repair-and-restore-your-windows-11-pc-using-sfcdism/"><u>Expert Strategies: Repair & Restore Your Windows 11 PC Using SFC/DISM</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-honor-magic-5-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Honor Magic 5 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-y78-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo Y78 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-positive-persuasion-techniques-for-listener-loyalty/"><u>In 2024, Positive Persuasion Techniques for Listener Loyalty</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-wont-work-on-startup-heres-how-to-get-it-working-again/"><u>Keyboard Won't Work on Startup? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-technology-tips-and-tricks-from-toms-world-of-hardware/"><u>Navigating New Technology: Tips and Tricks From Tom's World of Hardware</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/srt-and-mp4-synergy-expert-advice-edition/"><u>SRT & MP4 Synergy Expert Advice Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-malfunctioning-usb-ports-in-hp-notebooks/"><u>Troubleshooting and Repairing Malfunctioning USB Ports in HP Notebooks</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-lowering-gpu-consumption-by-desktop-window-manager-in-windows-11/"><u>Troubleshooting Techniques: Lowering GPU Consumption by Desktop Window Manager in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-get-your-windows-update-back-on-track/"><u>Troubleshooting: How to Get Your Windows Update Back on Track</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ut-to-the-chase-strategies-top-20-youtube-tips-for-growth-for-2024/"><u>[New] Cut-to-the-Chase Strategies Top 20 YouTube Tips for Growth for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-miniature-film-script-sketch/"><u>[Updated] Miniature Film Script Sketch</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-ending-vertical-scrolling-glitches-in-windows-10/"><u>Diagnosing and Ending Vertical Scrolling Glitches in Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-gt-neo-5-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme GT Neo 5 Device SIM</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-resolve-monitor-errors-with-no-image-or-video-output/"><u>Easy Steps to Resolve Monitor Errors with No Image or Video Output</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x887a0006-unraveled-effortless-fixes-inside/"><u>Error 0X887A0006 Unraveled: Effortless Fixes Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ethical-concerns-with-ai-derived-windows-11-codes/"><u>Ethical Concerns with AI-Derived Windows 11 Codes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-personalized-configuration-options-that-wont-respond/"><u>How to Reactivate Personalized Configuration Options That Won’t Respond</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-laptop-camera-issues-in-windows-11-heres-how-to-get-it-working-again/"><u>HP Laptop Camera Issues in Windows 11? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-optimal-6-crafted-urban-home-concepts/"><u>In 2024, Optimal 6 Crafted Urban Home Concepts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlimited-free-face-creation-top-online-resources-for-2024/"><u>New Unlimited Free Face Creation Top Online Resources for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211977815-overcome-windows-update-challenge-clear-error-8007000e-effortlessly/"><u>Overcome Windows Update Challenge: Clear Error 8007000E Effortlessly</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/safari-bookmark-recovery-a-step-by-step-guide/"><u>Safari Bookmark Recovery: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-resolution-to-your-olive-obstacle-in-nba-2k21-solving-steps-unpacked/"><u>The Resolution to Your Olive Obstacle in NBA 2K21 - Solving Steps Unpacked!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-adjust-display-dimensions/"><u>Win11: Adjust Display Dimensions</u></a></li>
 </ul></div>
 

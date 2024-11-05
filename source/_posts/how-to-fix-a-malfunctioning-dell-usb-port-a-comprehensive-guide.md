@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Malfunctioning Dell USB Port - A Comprehensive Guide
-date: 2024-10-23T17:08:59.619Z
-updated: 2024-10-30T16:16:58.171Z
+date: 2024-11-04T04:10:20.442Z
+updated: 2024-11-05T06:53:35.325Z
 tags:
   - win11
   - win10
@@ -81,10 +81,10 @@ In another version of BIOS, the procedure may go like this:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Roll back Lenovo PM Driver
@@ -95,44 +95,24 @@ In another version of BIOS, the procedure may go like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In Device Manager, double-click on the**System devices** node to expand its drop-down list. Next, locate**Lenovo PM Device** and right-click on it. From the context menu, select**Properties** .
 
 ![This image has an empty alt attribute; its file name is image-128.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
 
  3) Go to the**Driver** tab and click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-142.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the option appears dimmed, that means there’s no previous driver for you to roll back to. In this case, you should try out the next method instead.
 
@@ -143,10 +123,10 @@ In another version of BIOS, the procedure may go like this:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your chipset/keyboard drivers
@@ -189,6 +169,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
@@ -196,6 +183,13 @@ OR
  7) Right-click on each of these devices and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Repeat**Step3 through Step 4** to update your chipset driver.
 
@@ -224,10 +218,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -255,18 +249,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ode-commanders-elite-females-on-yt-for-2024/"><u>[New] Code Commanders Elite Females on YT for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/action-screen-recorder-review/"><u>Action Screen Recorder Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bringing-back-the-battle-cries-a-guide-to-solving-valheims-audio-problems-for-pc-players/"><u>Bringing Back the Battle Cries: A Guide to Solving Valheim's Audio Problems for PC Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-fix-installing-the-necessary-missing-audiovideo-hardware-driver-on-your-pc/"><u>Essential Fix: Installing the Necessary Missing Audio/Video Hardware Driver on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-blue-screen-error-0xc00000e9-on-windows-computers/"><u>Expert Tips for Repairing Blue Screen Error 0Xc00000e9 on Windows Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-x3daudio17dll-error-play-games-smoothly/"><u>Fix X3DAudio1_7.dll Error, Play Games Smoothly</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-iphone-usb-device-driver-problems-successful-guidance/"><u>Fixing iPhone USB Device Driver Problems - Successful Guidance</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-premier-collection-top-10-audio-capturers-on-spotify/"><u>In 2024, Premier Collection Top 10 Audio Capturers on Spotify</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-the-edit-a-comprehensive-look-at-title-and-description-for-igtv-for-2024/"><u>Mastering the Edit A Comprehensive Look at Title & Description for IGTV for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-unidentified-usb-complications-with-port-resets-failures-on-windows-10/"><u>Overcoming Unidentified USB Complications with Port Resets Failures on Windows 10</u></a></li>
-<li><a href="https://facebook.techidaily.com/trumps-online-presence-under-review/"><u>Trumps Online Presence Under Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/usb-woes-no-more-fix-your-unknown-device-port-reset-failed-on-windows-11-with-these-expert-tips/"><u>USB Woes No More! Fix Your 'Unknown Device (Port Reset Failed)' On Windows 11 with These Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-bluetooth-not-detecting-devices-on-windows-11/"><u>[Fixed] Bluetooth Not Detecting Devices on Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-a-straightforward-path-to-iphone-screen-capture-for-2024/"><u>[New] A Straightforward Path to iPhone Screen Capture for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-google-chats-mastery-key-elements-4-ways/"><u>[New] Google Chats Mastery Key Elements, #4 Ways</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-the-monetary-mechanics-of-t-series-youtube-channel/"><u>[New] In 2024, Exploring the Monetary Mechanics of T-Series Youtube Channel</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-innovating-for-impact-your-profile-video-guide/"><u>[Updated] Innovating for Impact Your Profile Video Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-map-masterpieces-excellent-quests-for-gold/"><u>[Updated] Map Masterpieces Excellent Quests for Gold</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-asmrs-secrets-for-optimal-wellness/"><u>[Updated] Unlocking ASMR's Secrets for Optimal Wellness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/all-in-one-roborock-s8-pro-vacuum-mastery-comprehensive-test-and-evaluation-techdigest/"><u>All-in-One Roborock S8 Pro Vacuum Mastery: Comprehensive Test & Evaluation - TechDigest</u></a></li>
+<li><a href="https://common-error.techidaily.com/automatic-repeat-request-arq/"><u>Automatic Repeat Request (ARQ):</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-top-extension-pad-models-to-upgrade-your-workspace/"><u>Comprehensive Review: Top Extension Pad Models to Upgrade Your Workspace</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-could-not-find-requested-module-step-by-step-tips/"><u>Fixing 'Could Not Find Requested Module' - Step-by-Step Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-stuck-or-unresponsive-function-fn-keys-on-an-asus-device/"><u>How to Fix Stuck or Unresponsive Function (Fn) Keys on an ASUS Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-problem-of-the-discontinued-print-driver-service-for-legacy-apps/"><u>How to Fix the Problem of the Discontinued Print Driver Service for Legacy Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-disappeared-taskbar-icons-on-windows-11-4-essential-troubleshooting-steps/"><u>How To Restore Disappeared Taskbar Icons On Windows 11: 4 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-live-stream-on-twitter/"><u>In 2024, How to Live Stream on Twitter</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-setup-ensuring-your-microsoft-wireless-display-adapter-works-on-windows-11/"><u>Mastering the Setup: Ensuring Your Microsoft Wireless Display Adapter Works on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-itel-p40plus-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Itel P40+</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-memory-issues-in-rdr2-with-simple-system-tweaks/"><u>Troubleshoot Memory Issues in RDR2 with Simple System Tweaks</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-persistent-computer-mouse-connection-issues/"><u>Ultimate Guide: Resolving Persistent Computer Mouse Connection Issues</u></a></li>
 </ul></div>
 

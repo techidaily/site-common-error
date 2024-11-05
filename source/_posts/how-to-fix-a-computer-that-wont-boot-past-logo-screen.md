@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Computer That Won't Boot Past Logo Screen
-date: 2024-10-27T18:22:16.887Z
-updated: 2024-10-30T16:08:52.339Z
+date: 2024-11-03T08:28:16.968Z
+updated: 2024-11-04T16:14:10.345Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your battery in Device Manager
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Double-click**Batteries,** and then check if your battery is disabled.
 
  If you see a**down arrow** next to your battery, that means your battery is disabled. You need to right-click your battery and select**Enable device** .
@@ -74,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  If this didn’t help, don’t fret. There are still 3 more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run the power troubleshooter
@@ -96,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**System and Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-37.jpg)
@@ -111,16 +111,16 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for the process to be complete. If your computer fails to fix your problem, check **[fix 4](https://tools.techidaily.com/drivereasy/download/)**  to see if it can help.  
 
@@ -130,11 +130,25 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Power,** and then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-11.jpg)
 
  Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your battery driver
 
@@ -154,27 +168,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Update your BIOS
 
@@ -190,16 +184,16 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Go to your BIOS manufacturer’s support website and download the latest update.
 
@@ -231,24 +225,22 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-seamless-podcast-journey-from-creation-to-google-submission/"><u>[New] Seamless Podcast Journey From Creation to Google Submission</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-chefs-roadmap-creating-culinary-content/"><u>[Updated] In 2024, The Chef's Roadmap Creating Culinary Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-webcam-selection-guide-the-10-best-picks-unveiled-for-2024/"><u>[Updated] Webcam Selection Guide The 10 Best Picks Unveiled for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-quintessential-14-text-motion-design-examples/"><u>2024 Approved Quintessential 14 Text Motion Design Examples</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/boost-your-brand-visibility-mastering-instagram-hashtags-for-2024/"><u>Boost Your Brand Visibility – Mastering Instagram Hashtags for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/comprehensive-iphone-software-suite-solving-all-your-ios-challenges/"><u>Comprehensive iPhone Software Suite – Solving All Your iOS Challenges</u></a></li>
-<li><a href="https://common-error.techidaily.com/customization-options-not-working-troubleshooting-guide/"><u>Customization Options Not Working – Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-toms-comprehensive-computer-hardware-reviews-and-insights/"><u>Discover Tom's Comprehensive Computer Hardware Reviews & Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-windows-10-error-0x80070541-during-updates/"><u>Effective Solutions for Overcoming Windows 10 Error 0X80070541 During Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixation-techniques-overcoming-the-configuring-windows-hurdle/"><u>Fixation Techniques: Overcoming the 'Configuring Windows' Hurdle</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-review-capturing-every-angle-in-one-device-samsung-for-2024/"><u>Full Review Capturing Every Angle in One Device - Samsung for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-top-12-best-idle-games-you-can-find-on-pc/"><u>In 2024, Top 12 Best Idle Games You Can Find on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-11-updates-avoid-error-code-0x800f0922-pitfalls/"><u>Mastering Windows 11 Updates: Avoid Error Code 0X800F0922 Pitfalls</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-minecraft-slow-performance-a-comprehensive-guide/"><u>Resolve Your Minecraft Slow Performance: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fix-guide-for-windows-11-update-error-code-0xc1900208/"><u>Resolved: Fix Guide for Windows 11 Update Error Code 0xC1900208</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamline-your-tasks-essential-tips-for-using-file-explorer-in-windows-1ntegrated-applications-sync-with-google-photos-or-icloud-you-can-access-your-photos78/"><u>Streamline Your Tasks: Essential Tips for Using File Explorer in Windows 1Ntegrated Applications | Sync with Google Photos or iCloud, You Can Access Your Photos From Anywhere and on Any Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-the-at-sign-on-your-device/"><u>Troubleshooting Tips: Resolving Issues with the At Sign (@) on Your Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207794567-win-update-woes-eliminate-error-8007000e-with-these-easy-tips/"><u>Win Update Woes? Eliminate Error 8007000E with These Easy Tips!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-crafting-wide-angle-photos-with-a-fisheye-effect/"><u>[New] Crafting Wide-Angle Photos with a Fisheye Effect</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-collection-of-dynamic-text-for-ae-projects/"><u>[New] Ultimate Collection of Dynamic Text for AE Projects</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-youtube-ad-expense-calculation-guide/"><u>[Updated] 2024 Approved Youtube Ad Expense Calculation Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-usb-device-not-detected-effective-strategies-to-resolve-the-problem-once-and-for-all/"><u>Dealing with 'USB Device Not Detected': Effective Strategies to Resolve the Problem Once and For All</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-continuous-unintentional-mouse-double-click-issue/"><u>Fixes for Continuous Unintentional Mouse Double-Click Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-reducing-microsoft-compatibility-telemetrys-impact-on-disk-usage-in-windows-10-systems/"><u>Guide: Reducing Microsoft Compatibility Telemetry's Impact on Disk Usage in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-vanished-desktop-shortcuts-in-windows-10-solution-inside/"><u>How To Restore Vanished Desktop Shortcuts in Windows 10 (Solution Inside)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/leading-5-high-quality-webcams-with-audio-support/"><u>Leading 5 High-Quality Webcams with Audio Support</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620257938-maxed-out-memory-on-your-iphone-heres-how-you-can-free-up-space-in-14-ways/"><u>Maxed Out Memory on Your iPhone? Here's How You Can Free Up Space in 14 Ways</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-your-entertainment-with-the-sony-xbr65x850f-a-budget-friendly-4k-television-review/"><u>Maximizing Your Entertainment with the Sony XBR65X850F: A Budget-Friendly 4K Television Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfect-posts-every-time-mastering-instagram-video-uploads-on-desktop-for-2024/"><u>Perfect Posts Every Time Mastering Instagram Video Uploads on Desktop for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/probing-the-digital-core-acquiring-sids-on-win11-systems/"><u>Probing the Digital Core: Acquiring SIDs on Win11 Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/safaris-picture-in-picture-on-ios-and-ipad-how-to-use/"><u>Safari's Picture-in-Picture on iOS & iPad How to Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/triumph-over-tech-fixing-windows-inability-to-locate-matching-printer-drivers/"><u>Triumph Over Tech: Fixing Windows' Inability to Locate Matching Printer Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-sound-device-issue-in-windows-11-step-by-step-fixes/"><u>Troubleshooting the Missing Sound Device Issue in Windows 11 - Step-by-Step Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-non-detectable-usb-drives-effortlessly/"><u>Troubleshooting Tips: Fixing Non-Detectable USB Drives Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-how-and-why-your-windows-11-pc-automatically-boots-up/"><u>Unraveling the Mystery: How & Why Your Windows 11 PC Automatically Boots Up</u></a></li>
 </ul></div>
 

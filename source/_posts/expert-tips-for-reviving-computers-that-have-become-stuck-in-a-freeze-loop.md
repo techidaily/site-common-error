@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Reviving Computers That Have Become Stuck in a Freeze Loop
-date: 2024-10-23T16:43:09.121Z
-updated: 2024-10-30T18:04:00.557Z
+date: 2024-11-03T17:26:19.623Z
+updated: 2024-11-04T19:49:51.089Z
 tags:
   - win11
   - win10
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/00b577597c6ed0b7b4c19ecd66f01c2d9945d3270
 If your computer still can’t boot correctly, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the RAM
@@ -71,6 +71,19 @@ If your computer still can’t boot correctly, try the fix below.
 RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
@@ -95,10 +108,16 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
@@ -117,6 +136,13 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-11-44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Open System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
@@ -125,16 +151,16 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Follow the on-screen instructions to finish the restore.
 
  If you don’t have a restore point in System Restore, move on and try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 5: Repair Corrupted System Files
 
@@ -170,13 +196,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
@@ -186,17 +205,10 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
@@ -220,18 +232,21 @@ The CMOS battery looks like this
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-explore-and-download-50-free-youtube-banners-for-2024/"><u>[New] Explore & Download 50 FREE YouTube Banners for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-guide-capturing-your-desktop-using-ezvide-software/"><u>[New] In 2024, Guide Capturing Your Desktop, Using EZvide Software</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-ace-your-videos-essential-editors-for-youtube/"><u>[Updated] Ace Your Videos Essential Editors for YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-the-finest-8-no-cost-open-source-video-communication-apps/"><u>[Updated] Exploring the Finest 8 No-Cost, Open Source Video Communication Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-guide-restoring-functionality-of-non-working-webcam-on-a-lenovo-laptop/"><u>DIY Guide: Restoring Functionality of Non-Working Webcam on a Lenovo Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-it-tips-for-resolving-issues-with-a-broken-hdmi-connector-through-usb-ports/"><u>Fix It! Tips for Resolving Issues with a Broken HDMI Connector Through USB Ports</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-10t-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme 10T 5G Bootloader Easily</u></a></li>
-<li><a href="https://article-files.techidaily.com/revolutionize-your-memories-old-photos-new-video-life/"><u>Revolutionize Your Memories Old Photos, New Video Life</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-nonfunctional-at-sign-keyboard-problems/"><u>Step-by-Step Solution for Nonfunctional 'At Sign' Keyboard Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-improve-scanner-printer-conversation-epson/"><u>Steps to Improve Scanner-Printer Conversation (Epson)</u></a></li>
-<li><a href="https://common-error.techidaily.com/total-war-enthusiasts-rejoice-uncrash-your-rome-remastered-experience-here/"><u>Total War Enthusiasts Rejoice: Uncrash Your Rome Remastered Experience Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/zap-freezes-quickly-enjoy-flawless-games/"><u>Zap Freezes Quickly - Enjoy Flawless Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-achieving-professional-level-youtube-streams-using-wirecast/"><u>[Updated] Achieving Professional-Level Youtube Streams Using WireCast</u></a></li>
+<li><a href="https://fox-info.techidaily.com/5-best-slow-motion-cameras-for-2024/"><u>5 Best Slow Motion Cameras for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-werfaultexe-errors-a-comprehensive-guide-for-windows-users/"><u>Bypassing WerFault.exe Errors: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-gone-touchpad-arrow-in-windows-11-a-step-by-step-tutorial/"><u>Fixing the Gone Touchpad Arrow in Windows 11 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-lenovo-thinkphone-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Lenovo ThinkPhone Quickly? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-oppo-k11x-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Oppo K11x.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-approach-how-trainers-can-implement-chatgpt-in-designing-customized-workouts/"><u>Innovative Approach: How Trainers Can Implement ChatGPT in Designing Customized Workouts</u></a></li>
+<li><a href="https://common-error.techidaily.com/instant-remedy-for-laggy-online-play/"><u>Instant Remedy for Laggy Online Play</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-high-end-sophisticated-google-pixel-fold-the-epitome-of-folding-phones/"><u>Introducing the High-End, Sophisticated Google Pixel Fold - The Epitome of Folding Phones.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-persistent-problem-of-frequent-reboots-on-windows-e-os-with-simple-steps/"><u>Solving the Persistent Problem of Frequent Reboots on Windows E-OS with Simple Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-correct-the-livekernel-event-error-117/"><u>Troubleshooting Tips to Correct the LiveKernel Event Error #117</u></a></li>
+<li><a href="https://common-error.techidaily.com/video-not-showing-follow-these-simple-steps-to-solve-the-problem/"><u>Video Not Showing? Follow These Simple Steps to Solve the Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac59n-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a4eymu3x-dsp-plus-midi-synthesader-plus-codec-and-25cubt-lite-in-december-2011/"><u>YAC59N - Yamaha'aturboSound II Sound Module Based on the YMF7A4E/YMU^3X (DSP + MIDI Synthesader + Codec) and 25cuBT-Lite in December 2011</u></a></li>
 </ul></div>
 

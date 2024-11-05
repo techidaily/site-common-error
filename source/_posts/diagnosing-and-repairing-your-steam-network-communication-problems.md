@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Your Steam Network Communication Problems
-date: 2024-10-29T17:48:03.487Z
-updated: 2024-10-30T18:14:21.607Z
+date: 2024-11-01T17:56:14.262Z
+updated: 2024-11-05T01:37:40.388Z
 tags:
   - win11
   - win10
@@ -51,25 +51,34 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 2. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
@@ -107,10 +116,10 @@ Follow these steps to reset your Winsock Catalog:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.  
@@ -121,10 +130,10 @@ Follow these steps to reset your Winsock Catalog:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
@@ -135,25 +144,19 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your computer to see if the error has gone.
 
@@ -197,21 +200,21 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-direct-guide-to-modifying-macs-default-snapshots/"><u>[New] 2024 Approved Direct Guide to Modifying Mac's Default Snapshots</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-explore-and-review-free-powerful-and-user-friendly-ios-edits/"><u>[New] 2024 Approved Explore & Review Free, Powerful, and User-Friendly iOS Edits</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-auditory-capture-techniques-for-professional-note-takers-for-2024/"><u>[New] Auditory Capture Techniques for Professional Note-Takers for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-critical-assessment-of-wirecast-and-competitors/"><u>2024 Approved Critical Assessment of WireCast and Competitors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-basics-tablet-stand-review-toss-a-tablet-stand-in-your-pocket/"><u>Amazon Basics Tablet Stand Review: Toss A Tablet Stand In Your Pocket</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comparing-features-apple-watch-with-gps-vs-cellular-capabilities/"><u>Comparing Features: Apple Watch with GPS Vs. Cellular Capabilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-resolving-steam-game-installation-or-updater-malfunctions/"><u>Effective Solutions for Resolving Steam Game Installation or Updater Malfunctions</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-steps-to-address-service-did-not-respond-error-code-1053/"><u>Immediate Steps to Address 'Service Did Not Respond' Error Code 1053</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-honor-90-lite-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Honor 90 Lite for Parents | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-realtek-hd-audio-resource-hog-fixing-high-cpu-drain-from-ravbg64exe/"><u>Resolving Realtek HD Audio Resource Hog: Fixing High CPU Drain From Ravbg64.exe</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-wacom-tablet-driver-unavailability-problems-in-windows-10-systems/"><u>Resolving Wacom Tablet Driver Unavailability Problems in Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208085477-steam-store-loading-problems-heres-how-to-fix-them-easily/"><u>Steam Store Loading Problems? Here's How to Fix Them Easily!</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ultimate-step-by-step-tutorial-how-to-boot-your-pc-using-an-external-hard-drive-on-windows-1011/"><u>Ultimate Step-by-Step Tutorial: How to Boot Your PC Using an External Hard Drive on Windows 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/unpredictable-keys/"><u>Unpredictable Keys</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-5-easy-methods-to-troubleshoot-and-restore-your-touchscreen-functionality/"><u>Windows 10: 5 Easy Methods to Troubleshoot and Restore Your Touchscreen Functionality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-your-creativity-convert-youtube-clips-into-dynamic-gifs/"><u>[Updated] In 2024, Channel Your Creativity Convert YouTube Clips Into Dynamic Gifs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-record-cameras-and-monitors-together-efficiently/"><u>[Updated] In 2024, How to Record Cameras & Monitors Together Efficiently</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-tackling-blurred-images-in-online-meetings-with-zoom-techniques/"><u>[Updated] In 2024, Tackling Blurred Images in Online Meetings with Zoom Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-80s-visual-tricks-for-elevated-editing/"><u>[Updated] Top-Tier 80S Visual Tricks for Elevated Editing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-enhancing-your-instagram-presence-with-long-videos/"><u>2024 Approved Enhancing Your Instagram Presence with Long Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/apex-legends-basic-anti-tamper-bug-effortless-solution-inside/"><u>Apex Legends Basic Anti-Tamper Bug - Effortless Solution Inside</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-the-screen-a-vr-odyssey-for-2024/"><u>Beyond the Screen A VR Odyssey for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/mystery-hangs-over-random-pc-restarts-on-windows-10/"><u>Mystery Hangs Over Random PC Restarts on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigate-past-phantom-hazards-removing-false-positives-from-your-google-chrome-experience/"><u>Navigate Past Phantom Hazards: Removing False Positives From Your Google Chrome Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-errors-during-system-initialization-pc-not-starting-right/"><u>Overcoming Errors During System Initialization: PC Not Starting Right?</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/perfecting-your-tiktok-videos-ideal-resolutions-and-sizes-for-maximum-impact/"><u>Perfecting Your TikTok Videos: Ideal Resolutions and Sizes for Maximum Impact</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/revealing-the-invisible-an-organized-exploration-of-youtubes-secrets-for-2024/"><u>Revealing the Invisible An Organized Exploration of YouTube's Secrets for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-eradicating-the-white-screen-issue-in-windows/"><u>Step-by-Step Tutorial: Eradicating the White Screen Issue in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-dragging-shutdown-experience-on-windows-10-machines/"><u>Troubleshooting a Dragging Shutdown Experience on Windows 10 Machines</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-quickly-solving-non-detected-usb-drives-problems/"><u>Troubleshooting Guide: Quickly Solving Non-Detected USB Drives Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-how-to-restore-steam-server-connections/"><u>Troubleshooting Success: How to Restore Steam Server Connections</u></a></li>
 </ul></div>
 

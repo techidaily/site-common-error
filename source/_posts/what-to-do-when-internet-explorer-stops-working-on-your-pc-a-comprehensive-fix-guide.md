@@ -1,7 +1,7 @@
 ---
 title: What to Do When Internet Explorer Stops Working on Your PC – A Comprehensive Fix Guide
-date: 2024-10-27T16:14:02.581Z
-updated: 2024-10-30T16:41:09.585Z
+date: 2024-10-30T18:38:21.637Z
+updated: 2024-11-05T05:36:52.995Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/dd77f8cbbec8ed8ce40dfd9ce55bda6a399ba6919
 2. **[Repair your registry](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Restart the WLAN AutoConfig service
 
  This error could happen if the WLAN AutoConfig service isn’t correctly configured on your computer. In this case, you can try to restart the service to solve your problem.
@@ -43,15 +50,22 @@ See how to do it:
 4. **Double-click** WLAN AutoConfig.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Set the Startup type to**Automatic** . Then**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c6c3c4eb5.jpg)
 
  Reboot your Windows computer and the error should disappear. If you’re prompted the error again, there’re something else you can try…
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Repair your registry
 
@@ -63,38 +77,33 @@ Here’s how you can do it:
 2. Type**regedit** , then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca32dcfd4.png)
 3. Click**Yes** when prompted by User Account Control.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca123ce81.jpg)
 4. Go to**HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca74d28b3.jpg)
 5. Right-click**Dhcp** under the Services section to select**Export** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Give a name for the backup file, say Dhcp backup. Then select a backup address and click**Save** . You can restore the file from this backup if any error occurs during the process below.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cae624a92.jpg)
 6. **Double-click** DependOnService on the right pane of Dhcp. Select all the words**except “Afd”** , then**delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc0dde1d6.jpg)
 7. Right-click**Eaphost** under the Services section to select**Export** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Give a name for the backup file, say Eaphost backup.Then select a backup address and click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc80aaff0.jpg)
 8. **Double-click** DependOnService on the right pane of Eaphost. Select all the words and **delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cd67d4334.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Close the Registry Editor window and reboot your Windows computer. Check if the error disappears. If you still see the error, don’t give up hope. Simply move onto next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 3: Update your network adapter driver
 
@@ -114,13 +123,6 @@ You can update your network driver either manually or automatically.
 
  You can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the Pro version which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b891580f3aca.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You’re done. Feel free to comment below if you have any question.
 
@@ -142,17 +144,14 @@ You’re done. Feel free to comment below if you have any question.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-building-a-brand-in-the-metaverse-ecosystem/"><u>[New] Building a Brand in the Metaverse Ecosystem</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-cheerful-footage-extractor-analysis/"><u>[New] Cheerful Footage Extractor Analysis</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-seamlessly-capture-igtv-5-windows-and-mac-downloading-tips/"><u>[Updated] 2024 Approved How to Seamlessly Capture IGTV 5 Windows & Mac Downloading Tips</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-efficiency-discover-the-leading-speech-to-text-apps-for-macos/"><u>2024 Approved Maximizing Efficiency Discover the Leading Speech-to-Text Apps for MacOS</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-windows-troublesome-error-8007000e-during-updates-swiftly/"><u>Bypassing Window's Troublesome Error 8007000E During Updates Swiftly</u></a></li>
-<li><a href="https://common-error.techidaily.com/curb-high-performance-impacts-combatting-the-svchostexe-cpu-drain-on-your-latest-windows-operating-system/"><u>Curb High Performance Impacts: Combatting the svchost.exe CPU Drain on Your Latest Windows Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-vanishing-taskbar-top-4-solutions-when-your-windows-10-icon-buttons-disappear/"><u>Fix the Vanishing Taskbar: Top 4 Solutions When Your Windows 10 Icon Buttons Disappear</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Galaxy S21 FE 5G (2023).</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202375904-resolving-the-critical-installer-crash-how-to-fix-error-code-1603/"><u>Resolving the Critical Installer Crash - How to Fix Error Code 1603</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-windows-11s-persistent-error-0xc1900208/"><u>Step-by-Step Fix for Windows 11'S Persistent Error 0Xc1900208</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-value-guide-to-sound-exploration-with-paww-wavesound-3/"><u>The Ultimate Value Guide to Sound Exploration with Paww Wavesound 3</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-edition-expert-advice-on-creating-compelling-video-edits/"><u>[New] In 2024, Youtube Edition Expert Advice on Creating Compelling Video Edits</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ultimate-chart-watcher-rank-tracking-of-youtube-videos/"><u>[Updated] In 2024, Ultimate Chart Watcher Rank Tracking of YouTube Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-panopticam-review-breakdown/"><u>[Updated] PanoptiCam Review Breakdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/astro-a40-microphone-failure-heres-how-to-get-it-working-again-with-simple-hacks/"><u>Astro A40 Microphone Failure? Here's How to Get It Working Again with Simple Hacks</u></a></li>
+<li><a href="https://common-error.techidaily.com/discord-sound-is-back-online/"><u>Discord Sound Is Back Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722961796139-fixing-logitech-c615-drivers-simple-solutions-inside/"><u>Fixing Logitech C615 Drivers: Simple Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-mouses-right-click-button-when-it-wont-work-in-windows-aturate-environment-and-the-user-should-seek-advice-from-relevant-legal-or-medical38/"><u>How to Repair Your Mouse's Right Click Button When It Won't Work in Windows Aturate Environment, and the User Should Seek Advice From Relevant Legal or Medical Professionals if Needed.</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-invalid-value-for-registry-issue-during-photo-access-in-windows-11/"><u>Solving 'Invalid Value for Registry' Issue During Photo Access in Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transform-videos-affordable-high-quality-effs-for-2024/"><u>Transform Videos - Affordable, High-Quality Effs for 2024</u></a></li>
 </ul></div>
 

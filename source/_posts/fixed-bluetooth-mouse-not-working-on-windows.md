@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Bluetooth Mouse Not Working on Windows"
-date: 2024-10-26T17:04:35.030Z
-updated: 2024-10-30T18:36:56.926Z
+date: 2024-10-31T21:00:37.446Z
+updated: 2024-11-05T05:19:49.741Z
 tags:
   - win11
   - win10
@@ -65,15 +65,22 @@ thumbnail: https://thmb.techidaily.com/6e45c104b16be74e2d714cd2f33b3c56eb416bf62
 4. Right-click on the AOC USB monitor and click**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
 5. Follow the on-screen instructions to uninstall it.
 6. Reboot your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Download AOC USB monitor driver
 
@@ -93,18 +100,26 @@ OR
 2. Search for the monitor on the webpage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbf95967fd.jpg)
 3. Click **Support** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfce1bef4.jpg)
 4. Scroll down and click **Driver** in the **Drivers and Software** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfda9b0ca.png)
 5. Click the downloaded file and follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **Option 2 – Automatically update AOC USB monitor drivers**
 
@@ -119,23 +134,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfffb0e24.jpg)
 3. Click the Update button next to your **AOC monitor** to automatically download and install the correct version of this driver (you can do this with the **FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdc1306ec3e.jpg)
 4. Reboot your computer and check the issue is solved or not.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -156,20 +157,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-conveniently-record-and-preserve-your-online-gatherings/"><u>[New] Conveniently Record and Preserve Your Online Gatherings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-getting-acquainted-the-basics-of-ez-grabber-utilization/"><u>[New] Getting Acquainted The Basics of EZ Grabber Utilization</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-error-code-0x80072f8f-windows-1110/"><u>[SOLVED] How to Fix Error Code 0X80072f8f Windows 11/10</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-essential-tips-for-mac-based-tiktok-video-edits/"><u>[Updated] Essential Tips for Mac-Based TikTok Video Edits</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-microsoft-wireless-display-adapter-not-recognized-by-windows-11-systems/"><u>Comprehensive Fixes for Microsoft Wireless Display Adapter Not Recognized by Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-problem-of-stopped-applicationexe/"><u>Diagnosing and Fixing the Problem of Stopped 'Application.exe'</u></a></li>
-<li><a href="https://common-error.techidaily.com/event-id-1000-explained-resolving-issues-in-windows-7-8-and-10-platforms/"><u>Event ID 1000 Explained: Resolving Issues in Windows 7, 8 & 10 Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-it-fast-quick-solutions-when-your-dell-laptops-keyboard-fails-to-function/"><u>Fix It Fast: Quick Solutions When Your Dell Laptop's Keyboard Fails to Function</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-non-responsive-service-delay-understanding-and-correcting-error-1053/"><u>Fixing the Non-Responsive Service Delay - Understanding and Correcting Error 1053</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-repairing-network-adapter-errors-on-windows-11-and-7-systems/"><u>Guide to Repairing Network Adapter Errors on Windows 11 & 7 Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Poco Bootloader Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigate-to-the-top-10-most-advanced-photo-changer-apps/"><u>In 2024, Navigate to the Top 10 Most Advanced Photo Changer Apps</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-x-fold-2-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo X Fold 2 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-and-solve-not-available-itbm-driver-error-instantly/"><u>Troubleshoot and Solve 'Not Available' ITBM Driver Error Instantly!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-choices-no-fee-versatile-live-streaming-tools-for-every-device/"><u>[New] Leading Choices No-Fee, Versatile Live Streaming Tools for Every Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211671450-airpods-wont-pair-with-windows-11-master-the-fixes-you-need/"><u>AirPods Won't Pair with Windows 11? Master the Fixes You Need</u></a></li>
+<li><a href="https://common-error.techidaily.com/battleye-setup-successfully-resolved-ensure-smooth-integration-in-games/"><u>BattlEye Setup Successfully Resolved – Ensure Smooth Integration in Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-hurdle-detailed-instructions-to-fix-error-0x800f081f-on-net-framework-v35-installation/"><u>Bypassing the Hurdle: Detailed Instructions to Fix Error 0X800F081F on .NET Framework v3.5 Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-walkthrough-for-enabling-your-windows-update-service-when-it-stops-working/"><u>Complete Walkthrough for Enabling Your Windows Update Service When It Stops Working</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-analysis-of-mingda-magician-pro2-powerful-performance-in-stealth-mode/"><u>Comprehensive Analysis of Mingda Magician Pro2: Powerful Performance in Stealth Mode</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-cyclic-redundancy-check-failures-in-your-system/"><u>How to Resolve Cyclic Redundancy Check Failures in Your System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-moto-g23-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-11-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 11 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mixed-messages-and-monotonous-battles-the-underwhelming-debut-of-ps5-exclusive-godfall/"><u>Mixed Messages and Monotonous Battles: The Underwhelming Debut of PS5 Exclusive, Godfall</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-learn-how-to-install-newest-lenovo-docking-station-driver/"><u>Quick Fix: Learn How to Install Newest Lenovo Docking Station Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/reset-display-settings-if-all-else-fails-revert-back-to-default-settings-via-settings-)-system-)-reset-pc/"><u>Reset Display Settings: If All Else Fails, Revert Back to Default Settings via 'Settings' > 'System' > 'Reset PC.'</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-system-errors-with-this-critical-media-driver-update/"><u>Resolve Your System Errors with This Critical Media Driver Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-overcome-the-configuring-windows-hangaroo-scenario-easily/"><u>Solution Found: Overcome the 'Configuring Windows' Hangaroo Scenario Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-effective-tips-for-resolving-windows-11s-black-display-problem/"><u>Solving the Dilemma: Effective Tips for Resolving Windows 11'S Black Display Problem</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-movies-without-breaking-the-bank-10-essential-low-budget-tools/"><u>Updated Make Movies Without Breaking the Bank 10 Essential Low-Budget Tools</u></a></li>
 </ul></div>
 

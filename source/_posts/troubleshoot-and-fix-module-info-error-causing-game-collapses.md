@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Fix 'Module Info Error' Causing Game Collapses
-date: 2024-10-27T18:03:50.376Z
-updated: 2024-10-30T17:26:22.033Z
+date: 2024-10-30T10:31:59.864Z
+updated: 2024-11-05T03:57:39.032Z
 tags:
   - win11
   - win10
@@ -69,10 +69,10 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -80,10 +80,10 @@ If this issue persists, don’t worry. Try the next fix, below.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Modify your graphics card settings
@@ -100,13 +100,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
@@ -118,15 +111,16 @@ If this issue persists, don’t worry. Try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
-3. Select your **AMD Radeon Settings** to open it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
+3. Select your **AMD Radeon Settings** to open it.
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
@@ -138,8 +132,24 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. View the Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
@@ -148,10 +158,10 @@ If this issue persists, don’t worry. Try the next fix, below.
 7. Click **Apply** to save the settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
@@ -179,29 +189,16 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Notepad-save-file-1.png)
 4. Save the file as_fix.reg_ to the desktop. Please make sure you select the Save type as “**All Files** ” and the encoding as “**ANSI** “. Then close Notepad.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/save-as-fix-reg.png)
 5. **Double-click** the .reg file you saved. Click**Yes** when the UAC prompts. Then a prompt from Registry Editor will pop up. Click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor.png)
 6. Click**OK** when Windows tells you the keys and values have been successfully added to the registry.  
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
@@ -226,14 +223,14 @@ If this fix doesn’t work for you, try the next fix, below.
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
- See if Error 0x887A0006 reappears after you installed the latest Windows update. If this issue persists, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ See if Error 0x887A0006 reappears after you installed the latest Windows update. If this issue persists, try the next fix, below.
 
 ### Fix 6: Change the power plan of your PC
 
@@ -282,22 +279,19 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-gpu-narrative-radeons-recent-revolution-for-2024/"><u>[New] GPU Narrative Radeon's Recent Revolution for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-maximizing-ram-for-enhanced-minecraft-experience/"><u>[New] In 2024, Maximizing RAM for Enhanced Minecraft Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-effortless-steps-to-obtain-free-audio-for-videos/"><u>[Updated] 2024 Approved Effortless Steps to Obtain Free Audio for Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-effortless-preservation-of-your-loved-instagram-reels/"><u>[Updated] In 2024, Effortless Preservation of Your Loved Instagram Reels</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/abbyy-at-cebit-conference-2017-showcasing-innovative-software-solutions/"><u>ABBYY at Cebit Conference 2017 - Showcasing Innovative Software Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-when-experiencing-audio-interruptions-in-logitech-g930-headset/"><u>Effective Fixes When Experiencing Audio Interruptions in Logitech G930 Headset</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-for-resolving-spacebar-malfunctions-in-microsofts-latest-operating-system-windows-11/"><u>Expert Advice for Resolving Spacebar Malfunctions in Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-lenovo-network-woes-dealing-with-missing-wireless-adapter-drivers/"><u>Fix Your Lenovo Network Woes: Dealing with Missing Wireless Adapter Drivers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-2022-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE (2022) Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-future-what-chatgpt-and-whisper-api-access-means-for-enterprise-success/"><u>Navigating the Future: What ChatGPT and Whisper API Access Means for Enterprise Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-writable-obstacle-of-0x-pointed-out-memory-slot/"><u>Overcoming the Writable Obstacle of 0X Pointed-Out Memory Slot</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-game-update-all-structures-now-function-correctly-no-more-missing-buildings/"><u>PUBG Game Update: All Structures Now Function Correctly – No More Missing Buildings!</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-a-faster-computer-proven-strategies-to-improve-system-performance/"><u>Quick Fixes for a Faster Computer: Proven Strategies to Improve System Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-msmpengexe-high-cpu-usage-on-windows-11-complete-guide/"><u>Resolved: MsMpEng.exe High CPU Usage on Windows 11 - Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-laptop-touchpad-issues-on-windows-10-8-and-7-solutions-inside/"><u>Troubleshooting Laptop Touchpad Issues on Windows 10, 8 & 7 - Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-tricks-to-decrease-gpu-load-caused-by-the-desktop-window-manager-in-windows-1011/"><u>Ultimate Tricks to Decrease GPU Load Caused by the Desktop Window Manager in Windows 10/11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fuse-rhythms-into-powerpoint-layouts/"><u>[New] Fuse Rhythms Into PowerPoint Layouts</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209408483-solved-laptop-battery-not-charging-quickly-and-easily/"><u>[SOLVED] | Laptop Battery Not Charging | Quickly & Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-warp-footage-with-phantom-lens-expertise/"><u>2024 Approved Time Warp Footage with Phantom Lens Expertise</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cheap-but-effective-the-1-to-10-free-desktop-recorders-for-2024/"><u>Cheap but Effective The #1 to #10 Free Desktop Recorders for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206686906-easily-restore-charging-on-your-laptop-solutions-at-hand/"><u>Easily Restore Charging on Your Laptop - Solutions at Hand!</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-the-hurdle-of-error-0x800f0831-quickly-with-built-in-windows-update-features/"><u>Eliminate the Hurdle of 'Error 0X800F0831' Quickly with Built-In Windows Update Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-video-clarity-on-android-comprehensive-steps/"><u>Enhancing Video Clarity on Android – Comprehensive Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-conversations-in-spanish-dialects/"><u>Global Conversations in Spanish Dialects</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-key-not-working/"><u>How to Fix @ Key Not Working</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-a54-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy A54 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-15-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 15 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-opengl-problem-solving-a-comprehensive-fix-it-manual/"><u>Minecraft OpenGL Problem Solving: A Comprehensive Fix-It Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-windows-update-error-code-0x802n4002e/"><u>Resolved: Fixing the Windows Update Error Code 0X802n4002E</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-solutions-for-common-final-cut-pro-x-crash-problems-for-2024/"><u>Updated Solutions for Common Final Cut Pro X Crash Problems for 2024</u></a></li>
 </ul></div>
 

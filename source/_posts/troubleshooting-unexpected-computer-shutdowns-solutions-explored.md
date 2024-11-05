@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Unexpected Computer Shutdowns: Solutions Explored"
-date: 2024-10-27T18:11:11.797Z
-updated: 2024-10-30T16:03:44.541Z
+date: 2024-11-02T07:15:04.120Z
+updated: 2024-11-05T02:19:04.620Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
@@ -58,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -92,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
@@ -100,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -110,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 1. On your keyboard, press the**Windows logo key + Ctrl + O** at the same time to turn on the**On-Screen Keyboard** .
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
 
@@ -131,23 +138,16 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -159,10 +159,16 @@ If this method didn’t work for you, check out the last fix.
 4. Click on the**Run** button next to Keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -186,17 +192,19 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dynamic-arrangement-of-your-youtube-selections/"><u>[New] In 2024, Dynamic Arrangement of Your YouTube Selections</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-guide-to-youtube-editing-in-imovie-software/"><u>[New] In 2024, The Ultimate Guide to YouTube Editing in iMovie Software</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-potential-with-facebooks-live-a-comprehensive-guide-for-creators-for-2024/"><u>[New] Unlocking Potential with Facebook’s LIVE A Comprehensive Guide for Creators for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-prime-fb-videos-deciding-on-the-best-ten/"><u>[Updated] Prime FB Videos Deciding on the Best Ten</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1mp4avihevch265-windows/"><u>1.【無料版】簡単動画変換ツールランキングMP4/AVI/HEVC(H265)用 | Windows上で利用するソフトをまとめたガイド</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhancing-stability-actions-against-nvidia-glitches/"><u>Enhancing Stability: Actions Against Nvidia Glitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unexpected-when-wd-my-passport-ultra-goes-undetected-by-windows-systems/"><u>Fixing 'Unexpected': When WD My Passport Ultra Goes Undetected by Windows Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/reclaiming-your-online-identity-on-facebook-unpredictably/"><u>Reclaiming Your Online Identity on Facebook Unpredictably</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210914953-resolve-error-code-0x887a0006-with-these-easy-fixes/"><u>Resolve Error Code 0X887A0006 with These Easy Fixes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-nonfunctional-usb-ports-on-your-pc-running-windows-11/"><u>Troubleshooting Nonfunctional USB Ports on Your PC Running Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-unidentified-usb-devices-and-port-resets-on-windows-10/"><u>Troubleshooting Tips for Fixing Unidentified USB Devices and Port Resets on Windows 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mp3-to-video-stream-mp3-to-youtube-in-3-easy-steps/"><u>[Updated] MP3 to Video Stream MP3 to YouTube in 3 Easy Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-practices-for-perfecting-figmas-background-removal/"><u>2024 Approved Precision Practices for Perfecting Figma's Background Removal</u></a></li>
+<li><a href="https://article-tips.techidaily.com/achieve-peaceful-nights-with-expert-recommended-asmr/"><u>Achieve Peaceful Nights with Expert-Recommended ASMR</u></a></li>
+<li><a href="https://common-error.techidaily.com/achieving-stable-battleye-anti-cheat-configuration-after-previous-failures-solved/"><u>Achieving Stable BattlEye Anti-Cheat Configuration After Previous Failures [SOLVED]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-gratuita-de-video-en-formato-mp4-sin-perdida-de-calidad-linea-directa/"><u>Conversión Gratuita De Video en Formato MP4 Sin Pérdida De Calidad - Línea Directa</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-0x800f0922-on-windows-11-updates/"><u>How to Fix Error Code 0X800F0922 on Windows 11 Updates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-dynamic-public-speaker-review-v8/"><u>In 2024, Dynamic Public Speaker Review V8</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-reviews-top-5-high-performance-video-devices/"><u>In 2024, Expert Reviews Top 5 High-Performance Video Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-motion-blur-effect-to-photos-in-photoshop/"><u>In 2024, How to Add Motion Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-error-code-0x80072fde-on-windows-10-a-step-by-step-guide/"><u>Resolving the 'Error Code 0X80072FDE' On Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-no-audio-devices-found-issue-on-windows-11/"><u>Resolving the 'No Audio Devices Found' Issue on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-wireless-experience-top-tips-for-resolving-bluetooth-compatibility-issues-on-windows-11/"><u>Seamless Wireless Experience: Top Tips for Resolving Bluetooth Compatibility Issues on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-recover-corrupt-system-files-in-windows-10-11-edition/"><u>Troubleshooting Tips: How to Recover Corrupt System Files in Windows 10, 11 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-geforce-error-how-to-correct-failed-scans/"><u>Windows GeForce Error: How to Correct Failed Scans</u></a></li>
 </ul></div>
 

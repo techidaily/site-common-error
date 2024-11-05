@@ -1,7 +1,7 @@
 ---
 title: "Lost in No-Sense: Fix Your SD Card"
-date: 2024-10-25T18:19:26.655Z
-updated: 2024-10-30T18:36:49.388Z
+date: 2024-11-02T02:26:21.985Z
+updated: 2024-11-04T18:23:11.578Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/414457a7bef8541a22e0759e005db32e7bc53d10e
 5. _[**Things you should do after trying these methods**](#Fix5)_
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why does the error occur?
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/414457a7bef8541a22e0759e005db32e7bc53d10e
 * **The ISO file problem**
 
  You can actually fix the**A media driver your computer needs is missing** error easily and quickly with the solutions below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Re-plug the USB drive
 
@@ -81,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/414457a7bef8541a22e0759e005db32e7bc53d10e
 
 4) Try to install Windows again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Try another USB port
 
  If re-plugging the USB drive doesn’t work, you can try another USB port:
@@ -88,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/414457a7bef8541a22e0759e005db32e7bc53d10e
  1) When you see the error message popping up, click**Cancel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
@@ -132,6 +125,19 @@ thumbnail: https://thmb.techidaily.com/414457a7bef8541a22e0759e005db32e7bc53d10e
 
  Double check the**extracted setup** from the ISO file. If it is in**NTFS format** , extract the ISO file in**FAT32 format** and use the setup to install Windows again.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Things you should do after trying these methods
 
  As the error message indicated, the media driver is missing in your computer, so you can try to**install the missing drivers** , and**update the outdated drivers** in your computer, in order to improve the computer performance and reduce the chances of the similar issues.
@@ -149,10 +155,16 @@ thumbnail: https://thmb.techidaily.com/414457a7bef8541a22e0759e005db32e7bc53d10e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a741854f33af.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
@@ -183,22 +195,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-a-detailed-guide-youtubes-most-engaging-storytellers-in-23/"><u>[New] A Detailed Guide YouTube's Most Engaging Storytellers in '23</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-err-too-many-redirects-quickly-and-easily/"><u>[Solved] | ERR TOO MANY REDIRECTS | Quickly & Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-11-wont-shut-down-restarts-instead/"><u>[Solved] Windows 11 Won't Shut Down, Restarts Instead</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-master-the-art-of-podcast-writing-with-expert-guidance/"><u>[Updated] 2024 Approved Master the Art of Podcast Writing with Expert Guidance</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-and-fixing-the-persistent-windows-update-error-code-0x80244022/"><u>Decoding and Fixing the Persistent Windows Update Error Code: 0X802#44022</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-restoring-functionality-of-unresponsive-keyboard-at-logon/"><u>Easy Fixes: Restoring Functionality of Unresponsive Keyboard at Logon</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 14 Plus Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your hardware drivers in Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208891226-how-we-overcame-the-windows-updates-issues-solutions-applied/"><u>How We Overcame the Windows Updates Issues – Solutions Applied!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-hot-40-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Hot 40 Pro Phone When You Forget the Password</u></a></li>
-<li><a href="https://common-error.techidaily.com/personalized-treatment-plans-based-on-genomic-profiling-are-becoming-the-standard-in-lung-cancer-care/"><u>Personalized Treatment Plans Based on Genomic Profiling Are Becoming the Standard in Lung Cancer Care</u></a></li>
-<li><a href="https://fox-place.techidaily.com/sony-xperiasd/"><u>Sony Xperiaで早速SDメモリーからデータ回復：迷わず手順ガイド</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-overcoming-fatal-error-during-installation-error-1603/"><u>Troubleshooting Guide for Overcoming 'Fatal Error During Installation' (Error 1603)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-oculus-tech-issues/"><u>Troubleshooting Oculus Tech Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-swtors-launch-failures-solutions-inside/"><u>Troubleshooting SWTOR's Launch Failures - Solutions Inside</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-behind-viral-meme-culture/"><u>Unveiling the Secrets Behind Viral Meme Culture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-complete-users-manual-to-youtube-editing-via-finalcut-pro/"><u>[Updated] In 2024, The Complete User's Manual to YouTube Editing via FinalCut Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-leveraging-frameworks-like-bootstrap-for-rapid-prototyping-for-2024/"><u>[Updated] Leveraging Frameworks Like Bootstrap for Rapid Prototyping for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-repair-the-defective-trackpad-of-your-hp-notebook/"><u>Expert Tips to Repair the Defective TrackPad of Your HP Notebook</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-built-in-speakers-a-comprehensive-guide-to-restoring-audio/"><u>Fixing Laptop Built-In Speakers: A Comprehensive Guide to Restoring Audio</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-solving-the-problem-of-dysfunctional-usb-mouse-and-keyboard-under-windows-vistawindows-7/"><u>Guide: Solving the Problem of Dysfunctional USB Mouse and Keyboard Under Windows Vista/Windows 7</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-spark-20c-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Spark 20C Is Unlocked</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-11-update-error-code-0x80240034/"><u>How To Fix The Windows 11 Update Error Code: 0X80240034</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-non-functional-usb-input-devices-on-windows-7-operating-system/"><u>How to Resolve Non-Functional USB Input Devices on Windows 7 Operating System</u></a></li>
+<li><a href="https://blog-min.techidaily.com/no-cost-converter-transform-your-mkv-videos-into-ogg-streams-on-the-web/"><u>No-Cost Converter: Transform Your MKV Videos Into Ogg Streams on the Web</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-the-barrier-to-upgrade-your-complete-guide-to-fixing-error-code-80240020-on-windows-11/"><u>Overcome the Barrier to Upgrade - Your Complete Guide to Fixing Error Code 80240020 on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208486593-resolving-problems-during-feature-update-rollout-for-windows-11-v1607-edition/"><u>Resolving Problems During Feature Update Rollout for Windows 11, v1607 Edition.</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y78plus-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y78+ Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-methods-to-repair-a-malfunctioning-touchscreen-on-windows-11/"><u>Top 5 Methods to Repair a Malfunctioning Touchscreen on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-potential-the-impact-of-ai-on-digital-playgrounds/"><u>Unleashing Potential: The Impact of AI on Digital Playgrounds</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Fixing Bungie Destiny 2 Server Connectivity Issues
-date: 2024-09-04T20:22:49.323Z
-updated: 2024-09-05T20:22:49.323Z
+date: 2024-10-29T01:33:25.686Z
+updated: 2024-11-04T22:29:29.146Z
 tags:
   - win11
   - win10
@@ -31,17 +31,12 @@ You may not have to try them all; just work your way down the list until you fin
 To fix your game graphics issue, you can make your game load the building texture before landing. To do so, when your parachute is pulled out, press the**Tab**key on your keyboard to bring up the inventory screen. Your game may freeze for a while, as it’s loading the texture. After that, check to see if this fixes your texture issues. Hopefully it does. But if not, there are still three fixes for you to try…
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Move your game files to your SSD (if you have one)
 
 If you’re using an solid-state drive (SSD), you should try moving your games file there to speed up the loading process. To move your game files to your SSD:**1)** On your Steam client, click**Steam**, then click**Settings**.
@@ -53,47 +48,31 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb536f27d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click**ADD LIBRARY FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdcc73a052.png)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Choose a folder on your SSD where you want to save your PUBG files. (If you want to create a new one, click **NEW FOLDER**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdd923b057.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Click**CLOSE**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdde86db67.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Click**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdfe387754.jpg)
@@ -106,25 +85,27 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe31f23cb3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Select the**LOCAL FILES**tab, then click**MOVE INSTALL FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe45ed95b1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **10)** Select the new folder you’ve created, then click**MOVE FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe4dad26a2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Steam will move your PUBG files to that new folder. You can then check to see if this fixes your building texture issues.
 
@@ -134,16 +115,17 @@ Your game may not be able to load the building texture properly if you’re not 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed68ebd56d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b600778ced76.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issues with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
@@ -160,8 +142,6 @@ Your PUBG files may have been corrupted so you are having the texture loading is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +149,24 @@ Your PUBG files may have been corrupted so you are having the texture loading is
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-decoding-the-art-of-successful-fb-cover-videos/"><u>[Updated] 2024 Approved Decoding the Art of Successful FB Cover Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-dont-miss-these-youtube-seo-tools-to-boost-your-video/"><u>[Updated] 2024 Approved Don't Miss These YouTube SEO Tools to Boost Your Video</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-formula-for-fast-tracking-to-a-thousand-subscribers/"><u>[Updated] In 2024, The Formula for Fast-Tracking to a Thousand Subscribers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-youtubes-mechanism-post-upload-for-2024/"><u>[Updated] Unveiling YouTube's Mechanism Post-Upload for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-12plus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme 12+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-windows-store-cache-corruption-expert-advice/"><u>Comprehensive Fixes for Windows Store Cache Corruption: Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-to-recover-and-repair-corrupted-file-issues-on-windows-11/"><u>Easy Fixes to Recover and Repair Corrupted File Issues on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/ensure-seamless-gameplay-solving-crashes-in-nier-automata-for-pc-users/"><u>Ensure Seamless Gameplay: Solving Crashes in Nier: Automata for PC Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-confidentiality-with-chatgpt-strategies-for-secure-professional-use/"><u>Ensuring Confidentiality with ChatGPT: Strategies for Secure Professional Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratis-mpeg-video-naar-swf-konverteren-onlinereklame-van-movavi/"><u>Gratis MPEG-Video Naar SWF Konverteren - Onlinereklame Van Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-connectivity-issues-expert-advice-for-pairing-airpods-on-your-windows-11-device/"><u>Overcome Connectivity Issues: Expert Advice for Pairing AirPods on Your Windows 11 Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-slow-download-challenges-in-utorrent-a-step-by-step-guide/"><u>Overcoming Slow Download Challenges in uTorrent: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-0x80amake-sure-to-use-relevant-keywords-like-windows-11-system-restore-error-and-error-0x80070091-in-each-title-as-it-helps-with-seo-rankings91/"><u>Overcoming the 0X80amake Sure to Use Relevant Keywords Like Windows 11, System Restore Error, and Error 0X80070091 in Each Title, as It Helps with SEO Rankings by Making the Content More Discoverable for Those Specific Terms.</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connection-issues-how-to-troubleshoot-your-airpods-on-windows-11/"><u>Resolving Connection Issues: How to Troubleshoot Your AirPods on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-puzzle-effective-strategies-to-resolve-error-code-31-on-your-pc/"><u>Solving the Puzzle: Effective Strategies to Resolve Error Code 31 on Your PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlined-playback-import-tunes-into-inshot/"><u>Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-disk-use-from-microsofts-telemetry-feature-on-windows-11-systems/"><u>Troubleshooting Elevated Disk Use From Microsoft's Telemetry Feature on Windows 11 Systems</u></a></li>
+</ul></div>
 

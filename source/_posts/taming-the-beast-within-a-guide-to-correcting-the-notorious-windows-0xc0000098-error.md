@@ -1,7 +1,7 @@
 ---
 title: "Taming the Beast Within: A Guide to Correcting the Notorious Windows 0xC0000098 Error"
-date: 2024-10-26T16:49:57.187Z
-updated: 2024-10-30T17:04:04.045Z
+date: 2024-10-30T23:35:30.825Z
+updated: 2024-11-05T04:28:14.971Z
 tags:
   - win11
   - win10
@@ -45,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
 5. **[Use a Windows Reimage Tool](#fix-reimage)**
 6. **[Perform a clean install of Windows](#f5)**
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Rebuild BCD manually
 
  Since this is a BSOD error, you won’t be able to access your PC normally. To repair your PC, you’ll need to use a Windows recovery drive: an installation USB media or a CD/DVD.
@@ -58,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
  1) Go to **[Windows 10 download](https://www.microsoft.com/en-us/software-download/windows10)**  page. (Or **[Windows 11](https://www.microsoft.com/software-download/windows11) ,** [Windows 8](https://www.microsoft.com/en-us/software-download/windows8ISO) ,[**Windows 7**](https://www.microsoft.com/en-us/software-download/windows7) )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Download the installation media and save it on your computer.
 
@@ -90,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
 
 **Note:** The key to access BIOS can vary from**Esc** ,**Delete** to**F2** ,**F8** ,**F12** , depending on your manufacturer and computer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
 
@@ -140,16 +139,16 @@ bootrec /rebuildbcd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: CHKDSK
 
@@ -169,6 +168,13 @@ chkdsk C: /f /r /x
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: System File Checker
 
  The error 0xc0000098 can also be caused by missing or corrupt system files. System File Checker (SFC) can help you to restore the missing files and repair any problematic ones.
@@ -181,6 +187,19 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -191,16 +210,16 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
 
@@ -238,6 +257,13 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
 ##### 3\. Download from the manufacturer’s website
@@ -260,23 +286,9 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
 
@@ -302,20 +314,20 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-avoid-the-void-strategies-for-non-black-screens-in-obs-recordings/"><u>[New] In 2024, Avoid the Void Strategies for Non-Black Screens in OBS Recordings</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-achieve-uninterrupted-youtube-experience-across-os-platforms/"><u>[Updated] In 2024, Achieve Uninterrupted YouTube Experience Across OS Platforms</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-guide-to-smart-video-money-making-on-platforms/"><u>[Updated] The Guide to Smart Video Money-Making on Platforms</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-vsdc-screen-recorder-review-and-best-alternative/"><u>2024 Approved VSDC Screen Recorder Review and Best Alternative</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/abspielen-von-dvds-auf-einem-hp-notebook-anleitung-ohne-und-mit-eingebautem-laufwerk/"><u>Abspielen Von DVDs Auf Einem HP-Notebook: Anleitung Ohne Und Mit Eingebautem Laufwerk</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-resolve-your-windows-10-audio-settings-glitches-easily/"><u>DIY: Resolve Your Windows 10 Audio Settings Glitches Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-for-when-windows-wont-progress-past-configuring-your-pc/"><u>Easy Solutions for When Windows Won't Progress Past 'Configuring Your PC'</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-failed-office-activation-setbacks/"><u>Navigating Through Failed Office Activation Setbacks</u></a></li>
-<li><a href="https://common-error.techidaily.com/prophetsrishis/"><u>Prophets/Rishis</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-windows-smartscreen-currently-unavailable-notification/"><u>Solutions for 'Windows SmartScreen Currently Unavailable' Notification</u></a></li>
-<li><a href="https://common-error.techidaily.com/steelseries-arctis-5-microphone-fixes-issue-solved-expert-advice-included/"><u>SteelSeries Arctis 5 Microphone Fixes: [ISSUE SOLVED] - Expert Advice Included</u></a></li>
-<li><a href="https://article-files.techidaily.com/step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard/"><u>Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-surprise-shutdowns-solutions-for-windows-10s-sudden-restart-issues/"><u>Stop Surprise Shutdowns! Solutions for Windows 10'S Sudden Restart Issues</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-x-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone X</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-wow-server-lags-essential-steps-to-smooth-gameplay/"><u>Troubleshooting WoW Server Lags: Essential Steps to Smooth Gameplay</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-enhancements-in-windows-11-unveiled/"><u>[New] 2024 Approved The Enhancements in Windows 11 Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-saving-your-whatsapp-chat-history-with-confidence/"><u>[New] Saving Your WhatsApp Chat History with Confidence</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-15-premium-free-music-websites-every-videographer-needs/"><u>[Updated] 15 Premium, Free Music Websites Every Videographer Needs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-icy-images-cozier-cinematics-best-bgs-selection/"><u>2024 Approved Icy Images, Cozier Cinematics Best Bgs Selection</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-xbox-elite-controller-padlock-problems-unlock-the-secrets-to-reviving-your-pen-in-depth-guide/"><u>DIY Xbox Elite Controller Padlock Problems: Unlock the Secrets to Reviving Your Pen (In-Depth Guide)</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-why-isnt-your-airdrop-working/"><u>Effortless Solutions: Why Isn't Your AirDrop Working?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-cross-social-video-broadcasting-from-twitter-to-snapchat/"><u>In 2024, Cross-Social Video Broadcasting From Twitter, To Snapchat</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/leading-8-android-calling-apps-more-than-four-people/"><u>Leading 8 Android Calling Apps More Than Four People</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-advanced-editing-techniques-for-immersive-video-in-premiere-pro-for-2024/"><u>Navigating Advanced Editing Techniques for Immersive Video in Premiere Pro for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-wireless-connectivity-overcoming-off-status-alerts-on-devices/"><u>Restoring Wireless Connectivity: Overcoming Off Status Alerts on Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-the-crimson-display-malfunction/"><u>Step-by-Step Guide: Overcoming The Crimson Display Malfunction</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-enabling-a-disabled-bluetooth-connection/"><u>Step-by-Step Solution for Enabling a Disabled Bluetooth Connection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-guide-igniting-video-visionaries-in-your-channel-for-2024/"><u>Ultimate Guide Igniting Video Visionaries in Your Channel for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-correcting-the-recurring-windows-update-issue-error-0x80240017/"><u>Ultimate Guide to Correcting the Recurring Windows Update Issue (Error 0X80240017)</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-from-microsoft-store-problems-heres-how-to-open-it-successfully/"><u>Unstuck From Microsoft Store Problems? Here's How to Open It Successfully!</u></a></li>
 </ul></div>
 

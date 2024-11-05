@@ -1,7 +1,7 @@
 ---
 title: Mouse Not Responding? Fix It Fast!
-date: 2024-10-28T18:05:03.712Z
-updated: 2024-10-30T17:27:15.631Z
+date: 2024-11-04T09:48:33.300Z
+updated: 2024-11-05T06:10:56.238Z
 tags:
   - win11
   - win10
@@ -44,22 +44,23 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
-3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -74,23 +75,24 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 3. Click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
-**![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
-5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
+5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 6. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
@@ -99,19 +101,6 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -125,14 +114,22 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -158,16 +155,22 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-framefinesse-optimizing-visuals-on-instagram/"><u>[New] 2024 Approved FrameFinesse Optimizing Visuals on Instagram</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-streamlined-recording-procedures-for-snapchat-ready-videos/"><u>[Updated] In 2024, Streamlined Recording Procedures for Snapchat-Ready Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-editors-edge-advanced-strategies-to-master-in-vimeo-trimming-for-2024/"><u>[Updated] The Editor's Edge Advanced Strategies to Master in Vimeo Trimming for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-solutions-for-windows-based-hydro-series-h100i-v2-driver-errors/"><u>Effective Solutions for Windows-Based Hydro Series H100i v2 Driver Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-a-broken-or-dead-laptop-trackpad-step-by-step-instructions/"><u>How to Resolve a Broken or Dead Laptop Trackpad - Step by Step Instructions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/meme-crafters-den-for-2024/"><u>Meme Crafter's Den for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/microsofts-50m-strategic-investment-boosts-lanzajets-green-aviation-fuels-for-eco-friendly-data-centers/"><u>Microsoft's $50M Strategic Investment Boosts LanzaJet’s Green Aviation Fuels for Eco-Friendly Data Centers</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-startup-issues-a-complete-guide-to-resolving-error-code-0xc000007b/"><u>Overcoming Startup Issues: A Complete Guide to Resolving Error Code 0Xc000007b</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-netflix-silence-problems-easy-steps/"><u>Troubleshooting Netflix Silence Problems - Easy Steps!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-make-a-non-detectable-usb-drive-functional-again/"><u>Troubleshooting Steps to Make a Non-Detectable USB Drive Functional Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-camera-issues-decoded-understanding-and-fixing-error-0xa00f4292/"><u>Windows Camera Issues Decoded: Understanding and Fixing Error 0xA00F4292</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-floating-frames-the-ultimate-guide-to-pip-with-netflix/"><u>[New] In 2024, Floating Frames The Ultimate Guide to PIP with Netflix</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-speaking-with-impact-in-google-meet-the-guidebook/"><u>[New] In 2024, Speaking with Impact in Google Meet The Guidebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-black-screen-on-startup-in-monster-hunter-world/"><u>[Solved] Black Screen on Startup in Monster Hunter: World</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-free-photos-for-every-project-an-exclusive-list-of-top-12-online-sources/"><u>[Updated] 2024 Approved Free Photos for Every Project - An Exclusive List of Top 12 Online Sources</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-past-reverse-video-on-ios-devices/"><u>[Updated] Explore the Past Reverse Video on iOS Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-resolve-usb-not-detected-issues-with-your-flash-drive/"><u>Easy Steps to Resolve 'USB Not Detected' Issues with Your Flash Drive</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11-audio-issues-when-no-output-device-is-recognized/"><u>Fixing Windows 11 Audio Issues – When No Output Device Is Recognized</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-video-file-unplayable-resolve-code-224003-issue/"><u>How to Fix 'Video File Unplayable' - Resolve Code 224003 Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-t2-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo T2 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-memories-above-ground-top-tier-cloud-options-reviewed/"><u>In 2024, Unleashing Memories Above Ground Top-Tier Cloud Options Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-new-tech-trends-with-toms-hardware-experts/"><u>Navigating New Tech Trends with Tom's Hardware Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-device-connection-errors-in-windows-10-complete-fix/"><u>Overcoming Device Connection Errors in Windows 10 [Complete Fix]</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-secured-browsing-on-firefox-after-failures/"><u>Step-by-Step Guide: Restoring Secured Browsing on Firefox After Failures</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-functional-corsair-hs50-headset-microphone/"><u>Troubleshooting Guide: Fixing a Non-Functional Corsair HS50 Headset Microphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-cursor-anomaly-on-your-windows-11-devices-touchpad/"><u>Troubleshooting the Missing Cursor Anomaly on Your Windows 11 Device's Touchpad</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enabling Miracast Functionality with Proper Graphics Driver Configuration
-date: 2024-10-24T16:19:35.114Z
-updated: 2024-10-30T17:08:02.158Z
+date: 2024-10-30T16:04:41.012Z
+updated: 2024-11-04T19:26:18.858Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ All the fixes below work both in**Windows 10**and**8**. You may not have to try 
 3. **[Update your Miracast adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Roll back your graphics card driver to a previous version
@@ -45,10 +45,10 @@ Some graphics cards manufacturers have cut support for **Miracast**. So we might
 2. Locate and double-click on **Display adapters**  (aka. **graphics card** , **video card** ) to expand it.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e2baf0279.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click the**Driver** tab >**Roll Back Driver** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e27a083b7.jpg)
@@ -64,10 +64,10 @@ It’s also possible that the device you’re streaming content to doesn’t sup
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be94122c9d87.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check if Miracast works properly as should right now. If yes, then congrats! But if the problem still persists, then move on to**Fix 3**, below.
@@ -75,10 +75,10 @@ Check if Miracast works properly as should right now. If yes, then congrats! But
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your **Miracast adapter** driver
@@ -112,22 +112,16 @@ That’s it  – 3 tried and tested methods to help fix your**Miracast: not supp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-quick-guide-to-mac-screen-taking-techniques-for-2024/"><u>[Updated] Quick Guide to MAC Screen Taking Techniques for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-perfect-process-iphones-podcast-downloading-technique-for-2024/"><u>[Updated] Unveiling the Perfect Process IPhone's Podcast Downloading Technique for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminating-iphones-low-light-footage-easy-steps/"><u>2024 Approved Illuminating iPhone's Low-Light Footage Easy Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solution-guide-to-restore-brightness-overcome-black-screens-on-dell-computers/"><u>Comprehensive Solution Guide to Restore Brightness - Overcome Black Screens on Dell Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/cyclic-redundancy-check-solutions-to-common-data-validation-problems/"><u>Cyclic Redundancy Check – Solutions to Common Data Validation Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-blinking-woes-continuous-solutions-for-unresponsive-wireless-mice-in-modern-windows-os/"><u>Fix Blinking Woes: Continuous Solutions for Unresponsive Wireless Mice in Modern Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-slow-keyboard-lag-in-minutes-with-these-easy-techniques/"><u>Fixing Slow Keyboard Lag in Minutes with These Easy Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/from-ordinary-to-extraordinary-creating-hdr-in-lightroom-for-2024/"><u>From Ordinary to Extraordinary Creating HDR in Lightroom for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207362435-hosted-network-not-working-fix-your-connection-issues-in-windows-10/"><u>Hosted Network Not Working? Fix Your Connection Issues in Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-does-an-ipad-stand-out-from-regular-tablets/"><u>How Does an iPad Stand Out From Regular Tablets?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-how-to-produce-eye-catching-and-informative-videos-for-education-channels/"><u>In 2024, How to Produce Eye-Catching and Informative Videos for Education Channels</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/meilleur-logiciel-de-telechargement-video-gratuite-pour-mac-avec-des-fonctionnalites-4khd-et-mp4/"><u>Meilleur Logiciel De Téléchargement Vidéo Gratuite Pour Mac Avec Des Fonctionnalités 4K/HD Et MP4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-optimization-techniques-for-a-smooth-run-of-age-of-ashes-by-century/"><u>PC Optimization Techniques for a Smooth Run of 'Age of Ashes' By Century</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pushing-boundaries-a-roundup-of-the-best-nft-generators-available/"><u>Pushing Boundaries A Roundup of the Best NFT Generators Available</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-windows-1-grokinit-file-explorer-vertical-scrolling-trouble/"><u>Solution Steps for Windows 1 Grok_init File Explorer Vertical Scrolling Trouble</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-lost-desktop-symbols-in-windows-10-effective-strategies-applied/"><u>Winning Against Lost Desktop Symbols in Windows 10 – Effective Strategies Applied</u></a></li>
-<li><a href="https://common-error.techidaily.com/xbox-one-online-connectivity-issues-heres-your-comprehensive-solution/"><u>Xbox One Online Connectivity Issues? Here's Your Comprehensive Solution!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-your-guide-to-premium-metaverse-goggles-and-headsets/"><u>[New] In 2024, Your Guide to Premium Metaverse Goggles & Headsets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-inshot-pro-advanced-features-showcase/"><u>[New] InShot Pro Advanced Features Showcase</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagrams-qanda-sticker-usage/"><u>[New] Mastering Instagram's Q&A Sticker Usage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-metaverse-memes-and-diy-humor-mastery-for-2024/"><u>[Updated] The Ultimate Guide to Metaverse Memes and DIY Humor Mastery for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-registry-error-while-accessing-images-on-your-windows-10-pc/"><u>How to Fix 'Registry Error' While Accessing Images on Your Windows 10 PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-paint-a-picture-of-perfection-chromatic-mastery-for-beauty/"><u>In 2024, Paint a Picture of Perfection Chromatic Mastery for Beauty</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-scarcity-lifted-anticipated-price-slashes/"><u>PlayStation 5 Scarcity Lifted: Anticipated Price Slashes?</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-the-loading-player-error-on-your-windows-pc-now-available/"><u>Step-by-Step Guide to Fix the Loading Player Error on Your Windows PC - Now Available!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-the-semaphore-timed-out-error-code-0x80070079/"><u>Troubleshooting Guide: Resolving the 'Semaphore Timed Out' Error Code 0X80070079</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210105917-troubleshooting-missing-desktop-icons-on-windows-11-solved/"><u>Troubleshooting Missing Desktop Icons on Windows 11 – Solved!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unraveling-the-mystery-what-prevents-your-icloud-photo-recovery-and-how-to-fix-it/"><u>Unraveling the Mystery: What Prevents Your iCloud Photo Recovery and How to Fix It</u></a></li>
 </ul></div>
 

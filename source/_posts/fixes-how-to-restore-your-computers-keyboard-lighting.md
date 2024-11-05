@@ -1,7 +1,7 @@
 ---
 title: "Fixes: How to Restore Your Computer's Keyboard Lighting"
-date: 2024-09-04T20:21:57.543Z
-updated: 2024-09-05T20:21:57.543Z
+date: 2024-10-29T17:46:35.761Z
+updated: 2024-11-04T23:24:08.513Z
 tags:
   - win11
   - win10
@@ -48,18 +48,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update the Corsair keyboard driver
 
  This lighting problem may occur if you are using**the wrong keyboard driver or it’s out of date** . So you should check if there’s any updated version of your Corsair keyboard driver and upgrade to it to see if the backlight problem can be fixed.
@@ -71,19 +59,21 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Update and configure the iCUE software
 
  iCUE is a software that allows you to control the performance of Corsair’s devices. Updating the iCUE software may help you deal with bugs that relate to your backlight problem. Here is how:
@@ -93,40 +83,25 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
+
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -142,8 +117,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +124,21 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-on-achieving-fluidity-in-inshot-cuts/"><u>[Updated] Expert Tips on Achieving Fluidity in Inshot Cuts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-simplifying-textual-enhancement-for-ae-professionals/"><u>[Updated] Simplifying Textual Enhancement for AE Professionals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/busting-the-blue-light-myth-how-amazons-alexa-boosted-our-home-office-efficiency-read-on-zdnet/"><u>Busting the Blue Light Myth: How Amazon's Alexa Boosted Our Home Office Efficiency | Read on ZDNET</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/complete-guide-to-restoring-lost-powerpoint-presentations-on-pcmac/"><u>Complete Guide to Restoring Lost PowerPoint Presentations on PC/Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-hidden-gems-why-the-affordable-349-ipad-stole-the-spotlight-at-apples-dynamic-let-loose-event-as-analyzed/"><u>Discovering Hidden Gems: Why the Affordable $349 iPad Stole the Spotlight at Apple's Dynamic 'Let Loose' Event, as Analyzed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-3-stability-improvement-tips-for-gaming-enthusiasts/"><u>Hitman 3 Stability Improvement Tips for Gaming Enthusiasts</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-itel-a60s-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Itel A60s? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-creating-d3d-device-error-with-effective-techniques/"><u>How to Fix Creating D3D Device Error with Effective Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-tackle-and-fix-error-code-0x8024200d-in-windows-update-systems/"><u>How to Successfully Tackle and Fix Error Code 0X8024200d in Windows Update Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-freezing-pc-with-these-proven-tips-and-tricks/"><u>Revive Your Freezing PC with These Proven Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-functionality-to-stuck-keys-on-pc-keyboards-for-windows-users/"><u>Step-by-Step Guide: Restoring Functionality to Stuck Keys on PC Keyboards for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tactics-for-overcoming-net-framework-eb-35-installation-error-code-0x800f081f/"><u>Troubleshooting Tactics for Overcoming .NET Framework Eb 3.5 Installation Error Code 0X800F081F</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-broken-usb-connectivity-on-your-hp-laptop-fixed/"><u>Troubleshooting the Broken USB Connectivity on Your HP Laptop (FIXED)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/writers-who-defined-genres-through-exceptional-works/"><u>Writers Who Defined Genres Through Exceptional Works</u></a></li>
+</ul></div>
 

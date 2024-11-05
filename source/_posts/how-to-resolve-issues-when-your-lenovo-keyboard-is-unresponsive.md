@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues When Your Lenovo Keyboard Is Unresponsive
-date: 2024-10-26T17:27:24.235Z
-updated: 2024-10-30T17:37:52.429Z
+date: 2024-11-04T09:57:21.842Z
+updated: 2024-11-05T11:25:48.559Z
 tags:
   - win11
   - win10
@@ -65,16 +65,10 @@ If you’re a laptop user, you could follow these steps:
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
@@ -86,13 +80,6 @@ If you’re a laptop user, you could follow these steps:
  If cleaning the keyboard didn’t work for you, you need to[boot to BIOS](https://tools.techidaily.com/drivereasy/download/) .  
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -123,19 +110,27 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -155,10 +150,10 @@ OR
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
@@ -188,20 +183,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/"><u>[New] In 2024, Evolutionary Tools Redefining the Art of Game Capture Beyond FBX</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-maximizing-your-marketing-mettle-on-youtube/"><u>[New] Maximizing Your Marketing Mettle on Youtube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-your-youtube-content-for-financial-rewards-for-2024/"><u>[Updated] Harnessing Your YouTube Content for Financial Rewards for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essential-guide-to-tracking-your-youtube-progress/"><u>[Updated] In 2024, The Essential Guide to Tracking Your YouTube Progress</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-end-to-end-walkthrough-of-videoshows-24-upgrade/"><u>2024 Approved End-to-End Walkthrough of VideoShow's '24 Upgrade</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-for-resolving-steam-server-not-found-errors-and-connectivity-problems/"><u>Effective Strategies for Resolving Steam Server Not Found Errors and Connectivity Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-disk-space-consumption-caused-by-windows-11s-compatibility-telemetry/"><u>How to Fix Elevated Disk Space Consumption Caused by Windows 11'S Compatibility Telemetry</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-mouse-right-click-not-working-in-windows-11/"><u>How To Solve Mouse Right Click Not Working in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-bad-video-card-drivers-from-causing-crashes-in-minecraft-on-pc/"><u>How to Stop Bad Video Card Drivers From Causing Crashes in Minecraft on PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-integration-how-to-get-and-run-msibundle-and-appxappxbundles/"><u>Seamless Integration: How to Get & Run MsiBundle & Appx/Appxbundles</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-how-to-access-and-drag-windows-that-are-not-visible-on-monitor-edge/"><u>Solution: How to Access and Drag Windows That Are Not Visible on Monitor Edge</u></a></li>
-<li><a href="https://win-info.techidaily.com/1728505175610-ssdwindows-10/"><u>SSDにおけるWindows 10起動時間短縮の効果的解決策</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-windows-n64-class-registration-failures/"><u>Step-by-Step Guide: Resolving Windows N64 Class Registration Failures</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-creative-vision-with-lunapics-tutorial-for-2024/"><u>Unlock Creative Vision with LunaPic's Tutorial for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/igital-deck-of-cards-youtubes-milestone-challenges-for-2024/"><u>[New] Digital Deck of Cards YouTube's Milestone Challenges for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-schematic-designing-stopwatches-for-streaming-software/"><u>[Updated] 2024 Approved Expert Schematic Designing Stopwatches for Streaming Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-leading-budget-friendly-record-software-showdown-in-games/"><u>[Updated] Leading Budget-Friendly Record Software Showdown in Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-simplified-approach-to-overhauling-facebook-photo-background/"><u>[Updated] Simplified Approach to Overhauling Facebook Photo Background</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-powered-bots-unveiled-grasp-why-theyre-the-talk-of-the-tech-world/"><u>AI-Powered Bots Unveiled: Grasp Why They’re the Talk of the Tech World</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/crafted-elegance-and-innovation-the-nixplay-iris-story/"><u>Crafted Elegance & Innovation - The Nixplay Iris Story</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-data-consolidation-essentials-uniting-various-tables-with-ease/"><u>Excel Data Consolidation Essentials: Uniting Various Tables with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206482260-geforce-experience-setup-glitch-solved-retrieve-your-custom-configurations-now/"><u>GeForce Experience Setup Glitch Solved - Retrieve Your Custom Configurations Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-the-recently-resolved-database-glitch-in-windows-10-updates/"><u>How to Address the Recently Resolved Database Glitch in Windows 10 Updates</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-y78plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y78+ Safely | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterclass-solving-technical-glitches-in-yakuza-6-on-your-computer/"><u>Masterclass: Solving Technical Glitches in Yakuza 6 on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206650968-sd-invisible-no-more-find-the-answer-here/"><u>SD Invisible No More, Find the Answer Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207936743-solution-found-compatibility-issues-with-display-input-timing-fixed/"><u>Solution Found: Compatibility Issues with Display Input Timing Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-win32-app-crash-code-0x00000005/"><u>Step-by-Step Guide: Resolving the Win32 App Crash - Code 0X00000005</u></a></li>
+<li><a href="https://common-error.techidaily.com/success-story-restoring-communication-with-a-non-responsive-dhcp-server/"><u>Success Story: Restoring Communication With a Non-Responsive DHCP Server</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-selection-of-text-from-speech-applications-202/"><u>The Ultimate Selection of Text-From-Speech Applications, 202</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-high-wudfhostexe-process-load-in-windows-10-systems/"><u>Troubleshooting High WUDFHost.exe Process Load in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-correcting-entry-point-misses-in-microsoft-windows/"><u>Understanding and Correcting Entry Point Misses in Microsoft Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-common-dll-errors-fix-and-prevention-tips/"><u>Winning Against Windows Common Dll Errors: Fix and Prevention Tips</u></a></li>
 </ul></div>
 

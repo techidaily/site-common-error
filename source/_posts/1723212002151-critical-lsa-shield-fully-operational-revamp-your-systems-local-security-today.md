@@ -1,7 +1,7 @@
 ---
 title: "Critical LSA Shield Fully Operational: Revamp Your System's Local Security Today"
-date: 2024-10-23T17:19:38.893Z
-updated: 2024-10-30T16:18:08.445Z
+date: 2024-10-30T10:52:02.716Z
+updated: 2024-11-05T02:23:19.414Z
 tags:
   - win11
   - win10
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
@@ -52,6 +58,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
@@ -59,13 +72,6 @@ Here’s how to do it:
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -81,9 +87,24 @@ Here’s how to do it:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -96,10 +117,10 @@ To do so:
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
@@ -110,23 +131,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -159,19 +166,16 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-a-guide-to-peak-performance-posting-times-for-insta-success-for-2024/"><u>[New] A Guide to Peak Performance Posting Times for Insta Success for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-snap-up-humor-kapwings-meme-mastery-tool/"><u>[New] In 2024, Snap Up Humor - Kapwing’s Meme Mastery Tool</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-live-stream-scenery-ideas-2023/"><u>[New] In 2024, Top Live Stream Scenery Ideas 2023</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-backtrack-with-your-iphone-films/"><u>2024 Approved Backtrack with Your iPhone Films</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-step-by-step-guide-to-structuring-chatgpt-conversations/"><u>A Step-by-Step Guide to Structuring ChatGPT Conversations</u></a></li>
-<li><a href="https://common-error.techidaily.com/cursor-no-more-solutions-for-halting-persistent-blinking-issues/"><u>Cursor No More! Solutions for Halting Persistent Blinking Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fix-for-troublesome-error-0x800f0831-using-windows-update-features/"><u>Effortless Fix for Troublesome Error 0X800F0831 Using Windows Update Features</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-airplay-back-on-track-a-comprehensive-fix-when-it-fails/"><u>Getting AirPlay Back on Track: A Comprehensive Fix when It Fails</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-break-down-top-7-video-streaming-tools-that-revolutionize-youtube-broadcasts-iphonesandroid/"><u>In 2024, Break Down Top 7 Video Streaming Tools that Revolutionize YouTube Broadcasts (iPhones/Android)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-no-disk-dilemma-in-nvidia-web-helper-proven-error-resolution-techniques/"><u>Overcome the 'No Disk' Dilemma in Nvidia Web Helper - Proven Error Resolution Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-launch-hurdles-a-guide-to-running-oddworld-soulstorm-without-crashes/"><u>Overcoming Launch Hurdles: A Guide to Running Oddworld: Soulstorm Without Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-non-detected-hdmi-devices-in-a-windows-10-setup/"><u>Overcoming the Challenge of Non-Detected HDMI Devices in a Windows 10 Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/silent-streaming-fix-the-lack-of-sound-on-netflix-with-these-steady-steps/"><u>Silent Streaming? Fix the Lack of Sound on Netflix with These Steady Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-youtube-movie-binge-guides-for-2024/"><u>[Updated] Essential YouTube Movie Binge Guides for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-skills-editing-blurring-and-background-removal/"><u>2024 Approved The Essential Skills Editing, Blurring, and Background Removal</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-enabling-standard-printing-and-scanning-capabilities-in-windows-10/"><u>How To: Enabling Standard Printing and Scanning Capabilities in Windows 10</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-13-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 13 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/live-streaming-guide-how-to-access-samsung-unpacked-events/"><u>Live Streaming Guide: How To Access Samsung Unpacked Events</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/macbook-showdown-in-depth-analysis-of-macbook-pro-versus-macbook-air-to-find-your-perfect-match-gadgetflow/"><u>MacBook Showdown: In-Depth Analysis of MacBook Pro versus MacBook Air to Find Your Perfect Match | GadgetFlow</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-prevent-your-computer-from-crashing-while-playing-games-windows-11-10-7-81-and-8/"><u>Resolved: How to Prevent Your Computer From Crashing While Playing Games (Windows 11, 10, 7, 8.1 & 8)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-1011-issues-tips-when-usb-ports-fail-to-work/"><u>Solving Windows 10/11 Issues: Tips When USB Ports Fail to Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-rdr2-memory-errors-with-simple-pagefile-enhancement-techniques/"><u>Troubleshoot RDR2 Memory Errors with Simple Pagefile Enhancement Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-error-code-5-in-minecraft/"><u>Troubleshooting Guide: Fixing Error Code #5 in Minecraft</u></a></li>
+<li><a href="https://common-error.techidaily.com/wireless-mouse-stops-and-restarts-on-windows-1110-heres-how-to-fix-it/"><u>Wireless Mouse Stops & Restarts on Windows 11/10? Here's How to Fix It</u></a></li>
 </ul></div>
 

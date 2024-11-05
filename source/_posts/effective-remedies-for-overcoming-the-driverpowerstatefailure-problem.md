@@ -1,7 +1,7 @@
 ---
 title: Effective Remedies for Overcoming the DRIVER_POWER_STATE_FAILURE Problem
-date: 2024-10-28T16:38:27.254Z
-updated: 2024-10-30T16:48:04.343Z
+date: 2024-10-30T09:54:23.006Z
+updated: 2024-11-04T20:08:53.530Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -57,19 +50,26 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -86,15 +86,22 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -111,13 +118,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Type **the following command** and press **Enter** :  
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -147,24 +147,18 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-affordable-aethervault-substantial-file-safekeeping/"><u>[New] Affordable AetherVault Substantial File Safekeeping</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-comparing-mp4-recorders-the-latest-edition/"><u>[Updated] Comparing MP4 Recorders - The Latest Edition</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-video-shape-dimensions/"><u>[Updated] Facebook Video Shape Dimensions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-content-discovery-the-tubebuddy-way/"><u>2024 Approved Elevate Content Discovery The TubeBuddy Way</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-solution-for-the-missing-coprocessor-driver-error-in-windows-10/"><u>Comprehensive Solution for the 'Missing Coprocessor Driver' Error in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-updates-for-amd-radeon-rx-graphics-cards-with-ease/"><u>Download & Install Updates for AMD Radeon RX Graphics Cards With Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/exploring-user-restrictions-and-organization-policies-on-windows-platforms/"><u>Exploring User Restrictions and Organization Policies on Windows Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-restoring-access-after-encountering-no-boot-disk-errors/"><u>Guide to Restoring Access After Encountering No Boot Disk Errors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p1606dn-update-to-the-latest-printer-software-and-drivers-on-your-windows-machine/"><u>HP LaserJet P1606dn - Update to the Latest Printer Software and Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/masterfb-mp4-hacking-facebook-videos-with-ease-for-2024/"><u>MasterFB-MP4 Hacking Facebook Videos with Ease for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimiser-votre-site-via-des-liens-personnalises-profonds-partenariat-affilies-movavi/"><u>Optimiser Votre Site via Des Liens Personnalisés Profonds - Partenariat Affiliés Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-lag-expert-advice-to-speed-up-ubisoft-connect-file-downloads/"><u>Overcoming Lag: Expert Advice to Speed Up Ubisoft Connect File Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/rectifying-pc-charging-problems-overcoming-the-plugged-in-but-not-charging-hurdle-in-windows-systems/"><u>Rectifying PC Charging Problems: Overcoming the 'Plugged In but Not Charging' Hurdle in Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-restore-vanished-desktop-icons-in-windows-1-system/"><u>Solved: How to Restore Vanished Desktop Icons in Windows 1^ System</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-overcome-sign-in-problems-due-to-user-profile-service-failure-in-windows/"><u>Step-by-Step Guide to Overcome Sign-In Problems Due to User Profile Service Failure in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-the-dilemma-of-disconnected-airpods-on-windows-11/"><u>Troubleshooting Guide: Solving the Dilemma of Disconnected AirPods on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-msmpengexe-reducing-its-impact-on-system-performance-in-windows-11/"><u>Troubleshooting MsMpEng.exe: Reducing Its Impact on System Performance in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-tricks-and-tips-to-resolve-minecraft-slowdowns-and-lags/"><u>Ultimate Tricks & Tips to Resolve Minecraft Slowdowns and Lags</u></a></li>
-<li><a href="https://common-error.techidaily.com/usb-port-issues-on-dell-diagnosis-and-fixing-techniques-revealed/"><u>USB Port Issues on Dell: Diagnosis & Fixing Techniques Revealed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/smr-audio-excellence-high-quality-mic-recommendations-for-2024/"><u>[New] ASMR Audio Excellence High-Quality Mic Recommendations for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommendations-for-limitless-data-holding/"><u>2024 Approved Expert Recommendations for Limitless Data Holding</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-your-virtual-participation-with-increased-zooming-for-2024/"><u>Boost Your Virtual Participation with Increased Zooming for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-arctic-liquid-freezer-iii-with-aio-an-honest-review-of-its-disappointments/"><u>Evaluating the Arctic Liquid Freezer III with AIO - An Honest Review of Its Disappointments</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guia-facil-para-transferir-el-sistema-operativo-de-un-ssd-a-un-hdd-usando-software-libre-y-gratis/"><u>Guía Fácil Para Transferir El Sistema Operativo De Un SSD a Un HDD Usando Software Libre Y Gratis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/halt-your-ipads-buzz-tips-for-avoiding-interruptions-when-your-iphone-is-calling/"><u>Halt Your iPad's Buzz: Tips for Avoiding Interruptions When Your iPhone Is Calling</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-challenges-opening-applications-via-internal-admin-accounts-successfully/"><u>Overcoming Challenges: Opening Applications via Internal Admin Accounts Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-0x800705b4-hurdle-a-users-guide-to-seamless-updates-on-windows-1nk/"><u>Overcoming the 0X800705b4 Hurdle: A User's Guide to Seamless Updates on Windows 1Nk</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-lol-downloading-problem-fix-your-slow-riot-client/"><u>Solving the LoL Downloading Problem: Fix Your Slow Riot Client</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-load-by-the-desktop-window-manager-on-win10win11/"><u>Top 5 Solutions for Reducing GPU Load by the Desktop Window Manager on Win10/Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-what-to-do-when-your-computer-mouse-keeps-dropping-out/"><u>Troubleshooting: What to Do When Your Computer Mouse Keeps Dropping Out?</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-resolving-non-responsive-volume-buttons-on-windows-10/"><u>Ultimate Guide to Resolving Non-Responsive Volume Buttons on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/xboxs-next-gen-vr-headset-projected-price-release-schedule-and-specs-revealed/"><u>Xbox's Next-Gen VR Headset: Projected Price, Release Schedule & Specs Revealed!</u></a></li>
 </ul></div>
 

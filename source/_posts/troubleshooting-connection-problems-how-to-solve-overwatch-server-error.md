@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Connection Problems: How to Solve Overwatch Server Error"
-date: 2024-10-27T16:13:04.358Z
-updated: 2024-10-30T16:49:00.788Z
+date: 2024-10-31T17:28:07.334Z
+updated: 2024-11-04T16:40:55.548Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
@@ -74,23 +67,31 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -103,31 +104,32 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -162,18 +164,20 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-expansion-at-wallet-friendly-costs/"><u>[New] 2024 Approved Channel Expansion at Wallet-Friendly Costs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-10plus-free-video-intro-makers-for-youtubers/"><u>[Updated] Top 10+ Free Video Intro Makers for Youtubers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-swiftly-find-and-access-lost-reddit-discussions/"><u>2024 Approved How to Swiftly Find and Access Lost Reddit Discussions</u></a></li>
-<li><a href="https://common-error.techidaily.com/beating-the-freeze-effective-strategies-for-dealing-with-windows-11-lag-and-pauses/"><u>Beating the Freeze: Effective Strategies for Dealing with Windows 11 Lag and Pauses</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-steps-to-activate-bluetooth-in-windows-7-solution-guide/"><u>Easy Steps to Activate Bluetooth in Windows 7 - Solution Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-audio-device-not-installed-error-effectively-for-windows-users/"><u>Fix the 'Audio Device Not Installed' Error Effectively for Windows Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-enroll-and-utilize-microsofts-ai-enhanced-bing-search-platform/"><u>Guide: Enroll and Utilize Microsoft's AI-Enhanced Bing Search Platform</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-save-high-definition-videos-1080p-from-youtube-efficiently/"><u>How to Save High-Definition Videos (1080P) From YouTube Efficiently</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-dji-x20-drone-vision-wear-review/"><u>In 2024, The DJI X20 Drone Vision Wear Review</u></a></li>
-<li><a href="https://win-help.techidaily.com/les-5-facons-efficaces-de-restaurer-une-carte-sd-dysfonctionnelle/"><u>Les 5 Façons Efficaces De Restaurer Une Carte SD Dysfonctionnelle</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-lameencdll-file-challenges-in-audacity-expert-tips-and-solutions/"><u>Overcoming lame_enc.dll File Challenges in Audacity - Expert Tips and Solutions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/unravel-the-power-of-live-streaming-with-obs-on-youtube-and-twitch-for-2024/"><u>Unravel the Power of Live Streaming with OBS on YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-update-failed-to-install-solved/"><u>Windows 11 Update Failed to Install [SOLVED]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-selective-alarm-tunes-elite-download-spots/"><u>[Updated] 2024 Approved Selective Alarm Tunes Elite Download Spots</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-streamline-split-and-save-going-beyond-xsplit/"><u>[Updated] In 2024, Streamline, Split & Save Going Beyond XSplit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-podcast-utilities-for-windows-top-8-picks/"><u>2024 Approved Premium Podcast Utilities for Windows (Top 8 Picks)</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-the-vcruntime140dll-not-located-problem-in-your-pc-expert-advice/"><u>Bypass the VCRUNTIME140.dll Not Located Problem in Your PC - Expert Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-virtual-film-critic-harnessing-ai-insights-to-decide-your-upcoming-tv-shows-and-movies/"><u>ChatGPT as Your Virtual Film Critic: Harnessing AI Insights to Decide Your Upcoming TV Shows and Movies</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/enhance-user-engagement-how-to-embed-links-into-flipbook-pages-with-ease-flipbuilder-guide/"><u>Enhance User Engagement: How To Embed Links Into FlipBook Pages With Ease [FlipBuilder Guide]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-crackling-speakers-on-your-pc-solutions-for-windows-10-and-11/"><u>Fixing Crackling Speakers on Your PC - Solutions for Windows 10 and 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/humor-by-chatgpt-is-giggle-fuel-for-ai-driven-hilarity-possible/"><u>Humor by ChatGPT: Is Giggle Fuel for AI-Driven Hilarity Possible?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-15-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 15 - 4 Easy Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-restore-error-0x80070091-on-windows-10-solved/"><u>System Restore Error 0X80070091 on Windows 10 [Solved]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-7-nft-generating-marvels-for-modern-digital-artists-needs-for-2024/"><u>Top 7 NFT-Generating Marvels for Modern Digital Artists' Needs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-action-cam-battle-max-360-vs-hero-11-review/"><u>Top Action Cam Battle Max 360 vs Hero 11 Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-a-non-responsive-mouse-on-your-pc/"><u>Ultimate Guide: Resolving a Non-Responsive Mouse on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-freezing-glitches-on-windows-11-during-boot-sequence/"><u>Understanding and Resolving Freezing Glitches on Windows 11 During Boot Sequence</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-keyboard-responsiveness-issue-how-to-fix-it/"><u>Windows 11 Keyboard Responsiveness Issue - How to Fix It</u></a></li>
 </ul></div>
 

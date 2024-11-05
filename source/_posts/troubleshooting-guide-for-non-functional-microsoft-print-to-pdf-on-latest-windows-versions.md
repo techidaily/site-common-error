@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Non-Functional Microsoft Print to PDF on Latest Windows Versions
-date: 2024-09-04T20:25:00.000Z
-updated: 2024-09-05T20:25:00.000Z
+date: 2024-11-02T18:40:04.526Z
+updated: 2024-11-04T22:07:51.576Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Both fixes below work in Windows 10, 8 and 7.
 1. [**Enable touchpad in settings**](#F1)
 2. [**Update your touchpad driver**](#F2)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable touchpad in settings
 
  You laptop-mouse-pad-not-responding issue sometimes happens only because you’ve disabled it unknowingly. To turn it back on:
@@ -39,17 +46,19 @@ Both fixes below work in Windows 10, 8 and 7.
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your touchpad driver
 
  Another major culprit for a **not-working-lenovo-touchpad**   is your outdated/corrupt/wrong/missing touchpad driver. You might need to **update your touchpad driver**   to get your touchpad up and running again.
@@ -69,18 +78,21 @@ Both fixes below work in Windows 10, 8 and 7.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](http://wp.easeware.net/wp-content/uploads/2018/04/img_5ac1a01192ca4.png)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Check and see if your Lenovo touchpad is back to life again. ?
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -99,8 +111,6 @@ Both fixes below work in Windows 10, 8 and 7.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +118,22 @@ Both fixes below work in Windows 10, 8 and 7.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-combining-zoom-and-facebook-live-a-step-by-step-guide/"><u>[New] Combining Zoom & Facebook Live A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-discover-the-5-superior-videophoto-artists-that-compose-for-2024/"><u>[Updated] Discover the 5 Superior Video/Photo Artists That Compose for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-audiot-services-failure-on-your-pc-windows-10/"><u>Expert Tips for Repairing Audiot Services Failure on Your PC (Windows 10)</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-set-user-settings-mishap-causes-driver-errors-on-your-device/"><u>Fixing 'Set User Settings' Mishap Causes Driver Errors on Your Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-devices-to-desktops-proven-file-transfer-ways-for-2024/"><u>From Devices to Desktops Proven File Transfer Ways for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-ace-2-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change OnePlus Ace 2 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-gt-5-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme GT 5 Phone?</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-missing-d3dx939-dll-in-windows-11-pcs/"><u>Rectifying Missing D3DX9_39 DLL in Windows 11 PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-twitch-issue-a-step-by-step-guide-on-how-to-correctly-address-error-code-4000/"><u>Resolving the Twitch Issue: A Step-by-Step Guide on How to Correctly Address Error Code 4000</u></a></li>
+<li><a href="https://common-error.techidaily.com/stay-updated-seo-best-practices-evolve-over-time-so-it-is-essential-to-stay-updated-with-google-algorithm-changes-and-industry-trends-to-ensure-youre-optimi100/"><u>Stay Updated: SEO Best Practices Evolve over Time, so It Is Essential to Stay Updated with Google Algorithm Changes and Industry Trends to Ensure You're Optimizing Your Content Effectively</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-find-x6-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo Find X6 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-word-lengthiest-language-entity/"><u>The Ultimate Word: Lengthiest Language Entity</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-your-graphics-driver-the-key-to-fixing-unsupported-miracast/"><u>Update Your Graphics Driver: The Key to Fixing Unsupported Miracast</u></a></li>
+<li><a href="https://common-error.techidaily.com/wacom-troubleshooting-101-overcoming-connectivity-and-performance-hurdles/"><u>Wacom Troubleshooting 101: Overcoming Connectivity and Performance Hurdles</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-self-start-issues-explained-causes-and-solutions-for-unexpected-ones/"><u>Windows 10 Self-Start Issues Explained: Causes and Solutions for Unexpected Ones</u></a></li>
+</ul></div>
 

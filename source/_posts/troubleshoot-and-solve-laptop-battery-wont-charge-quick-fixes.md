@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot & Solve: Laptop Battery Won't Charge - Quick Fixes"
-date: 2024-10-26T17:18:27.783Z
-updated: 2024-10-30T16:40:23.811Z
+date: 2024-11-01T08:48:24.254Z
+updated: 2024-11-04T23:58:18.461Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Troubleshoot hardware issues
 
  When you find your battery is not charging, you need to troubleshoot hardware issues first. Follow the steps below to troubleshoot hardware issues:
@@ -59,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Turn off the battery charge threshold
@@ -79,25 +78,18 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you turn off the battery charge threshold feature, your battery should be charging.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Perform a power reset on your laptop
 
@@ -109,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 4. Turn on your laptop.
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
@@ -132,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
  3) Click**Uninstall** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Shut down your laptop and **disconnect the AC adapter** .
 
@@ -150,6 +142,19 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update the driver for your battery management device
 
@@ -170,6 +175,13 @@ thumbnail: https://thmb.techidaily.com/6300778dc08ca1fabf45e37fea6b55cfeffea9a7e
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
@@ -205,24 +217,18 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-insiders-guide-to-instagram-stories-magic/"><u>[Updated] 2024 Approved The Ultimate Insider's Guide to Instagram Stories Magic</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-srt-education-and-resources/"><u>2024 Approved Comprehensive SRT Education and Resources</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-defective-keyboard-letters-solutions-for-windows-1011-devices/"><u>Addressing Defective Keyboard Letters - Solutions for Windows 10/11 Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-virtual-auditoriums/"><u>Elite Virtual Auditoriums</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/essential-steps-to-a-successful-vlog-for-2024/"><u>Essential Steps to a Successful Vlog for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-re-enable-bluetooth-in-windows-11-swift-solutions-unveiled/"><u>How To Re-Enable Bluetooth in Windows 11: Swift Solutions Unveiled</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-fixes-for-the-0x80070643-problem-ensuring-smooth-windows-update-processes/"><u>Mastering Fixes for the 0X80070643 Problem: Ensuring Smooth Windows Update Processes</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-fixing-windows-11-using-sfc-and-dism-commands/"><u>Mastering the Art of Fixing Windows 11 Using SFC and DISM Commands</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-touchscreen-repair-in-windows-11-discover-these-5-techniques/"><u>Mastering the Art of Touchscreen Repair in Windows 11: Discover These 5 Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-asus-laptops-special-key-combinations-repair-tips-for-malfunctioning-function-keys/"><u>Revive Your ASUS Laptop's Special Key Combinations: Repair Tips for Malfunctioning Function Keys</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/scarica-converti-ritratto-orf-su-jpg-senza-costi-con-moviesnap/"><u>Scarica Converti Ritratto Orf Su JPG Senza Costi Con MovieSnap</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-wd-my-passport-ultra-not-appearing-in-windows-explorer/"><u>Step-by-Step Solution to WD My Passport Ultra Not Appearing in Windows Explorer</u></a></li>
-<li><a href="https://windows11.techidaily.com/transitioning-qbittorrent-to-another-system-step-by-step-guide/"><u>Transitioning qBittorrent to Another System: Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-skype-microphone-malfunctions-successful-fixes-and-tips/"><u>Troubleshooting Skype Microphone Malfunctions – Successful Fixes and Tips!</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-fixed-why-your-screen-may-not-accept-current-video-signals/"><u>Understanding [FIXED]: Why Your Screen May Not Accept Current Video Signals</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-rokus-potential-engaging-with-facebook-live/"><u>[New] In 2024, Unveiling Roku's Potential Engaging with Facebook Live</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigating-spotifys-ad-landscape-a-beginners-guide-for-2024/"><u>[New] Navigating Spotify's Ad Landscape A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tips-for-creating-a-viral-buzz-on-facebook-that-you-should-know-for-2024/"><u>[New] Tips for Creating a Viral Buzz on Facebook that You Should Know for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-text-tactics-top-10-best-practices/"><u>[Updated] Text Tactics Top 10 Best Practices</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-print-to-pdf-not-working-in-microsoft-windows-1011/"><u>Easy Fixes for 'Print to PDF Not Working' In Microsoft Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-broken-backspace-button-solutions-and-tips-inside/"><u>Fix the Broken Backspace Button – Solutions and Tips Inside!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y200e-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y200e 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/optimal-online-sound-snatching-for-2024/"><u>Optimal Online Sound Snatching for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/reinstating-your-windows-11-start-menu-a-step-by-step-guide-techsolutions/"><u>Reinstating Your Windows 11 Start Menu: A Step-by-Step Guide | TechSolutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/tank-geometry-must-be-designed-to-ensure-even-flow-distribution-with-gentle-introduction-of-wastewater-at-the-inlet-and-strategic-outlet-positioning-to-mini126/"><u>Tank Geometry Must Be Designed to Ensure Even Flow Distribution, with Gentle Introduction of Wastewater at the Inlet and Strategic Outlet Positioning to Minimize Resuspension.</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-correcting-the-driver-power-management-failures-in-windows-systems/"><u>Troubleshooting Tips: Correcting the Driver Power Management Failures in Windows Systems</u></a></li>
 </ul></div>
 

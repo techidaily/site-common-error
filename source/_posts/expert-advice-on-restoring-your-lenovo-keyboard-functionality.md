@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Restoring Your Lenovo Keyboard Functionality
-date: 2024-10-28T16:20:19.330Z
-updated: 2024-10-30T16:54:12.375Z
+date: 2024-10-28T23:52:59.042Z
+updated: 2024-11-04T19:25:50.043Z
 tags:
   - win11
   - win10
@@ -47,19 +47,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -84,24 +71,18 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -121,13 +102,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -135,10 +109,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -149,6 +123,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -162,20 +143,33 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -211,24 +205,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-sideways-instagram-videos-an-enigma-or-bug-in-2024/"><u>[Updated] Sideways Instagram Videos An Enigma or Bug, In 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-high-quality-virtual-console-imitation-software-for-pc/"><u>2024 Approved High-Quality Virtual Console Imitation Software for PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-peaceful-playback-practices-for-pcos-users/"><u>2024 Approved Peaceful Playback Practices for PC/OS Users</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-for-dealing-with-error-code-1000-on-different-windows-platforms/"><u>Comprehensive Guide for Dealing with Error Code 1000 on Different Windows Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-to-follow-techniques-and-strategies-for-beginners-in-pokemon-go/"><u>Easy-to-Follow Techniques and Strategies for Beginners in 'Pokémon Go'</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/easygamerecording-by-nvidia/"><u>EasyGameRecording by NVIDIA</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-free-uninstallation-overcoming-hp-client-security-managers-stubborn-error-code-1325-in-windows-7/"><u>Error-Free Uninstallation: Overcoming HP Client Security Manager's Stubborn Error Code 1325 in Windows 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-rid-of-your-keyboards-unresponsive-keys-on-a-windows-pc-easily/"><u>Get Rid of Your Keyboard's Unresponsive Keys on a Windows PC Easily!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-apple-store-experience-evaluating-the-difference-of-next-gen-sleek-ipad-pro-at-just-008-inches/"><u>Inside Apple Store Experience: Evaluating the Difference of Next-Gen Sleek iPad Pro at Just 0.08 Inches!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-windows-installation-hurdles-simple-steps-to-success/"><u>Overcome Windows Installation Hurdles – Simple Steps to Success!</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-functionality-resolving-non-responsive-alphabet-keys-in-microsoft-windows-1011/"><u>Restore Functionality: Resolving Non-Responsive Alphabet Keys in Microsoft Windows 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-repairing-your-lenovos-malfunctioning-fingerprint-scanner/"><u>Simple Solutions: Repairing Your Lenovo's Malfunctioning Fingerprint Scanner</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-handling-failed-logons-in-group-policy-clients/"><u>Solution Steps for Handling Failed Logons in Group Policy Clients</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailoring-and-downloading-instagram-alerts-independently-for-2024/"><u>Tailoring & Downloading Instagram Alerts Independently for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-this-device-is-not-present-error-code-24-on-windows-1187/"><u>Troubleshooting 'This Device Is Not Present' Error Code 24 on Windows 11/8/7</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-repair-your-lenovos-nonfunctional-function-fn-key/"><u>Troubleshooting: How to Repair Your Lenovo's Nonfunctional Function (Fn) Key</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrading-your-display-amd-driver-revision-for-microsoft-windows-platforms/"><u>Upgrading Your Display: AMD Driver Revision for Microsoft Windows Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-file-explorer-scroll-bar-jumps-to-top-when-scrolling-solved/"><u>Windows 10 File Explorer - Scroll Bar Jumps to Top when Scrolling [Solved]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-streamlining-social-media-facebook-video-auto-play/"><u>[New] In 2024, Streamlining Social Media Facebook Video Auto-Play</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solution-eliminate-unwanted-cursor-blind-spots-for-a-smoother-experience/"><u>Effective Solution: Eliminate Unwanted Cursor Blind Spots for a Smoother Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-hardware-a-comprehensive-guide/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-smooth-gaming-experience-tackling-fallout-4s-lag-problems-with-2022-insights/"><u>Get Smooth Gaming Experience: Tackling Fallout 4'S Lag Problems with 2022 Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-failed-status-on-your-latest-warframe-game-upgrade/"><u>How to Fix 'Failed' Status on Your Latest Warframe Game Upgrade</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-itel-a60-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Itel A60 and Browser | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/leveraging-live-tweets-strategies-unveiled/"><u>Leveraging Live Tweets Strategies Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-cost-web-based-aiffaac-audio-format-changeover-movavi-converter/"><u>No-Cost Web-Based Aiff/Aac Audio Format Changeover - Movavi Converter</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolve-the-windows-update-error-code-0x80070652/"><u>Quick Solutions: Resolve the Window's Update Error Code 0X80070652</u></a></li>
+<li><a href="https://common-error.techidaily.com/success-story-restoring-functionality-to-your-igfxem-module/"><u>Success Story: Restoring Functionality to Your igfxEM Module</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-shadowplay-setup-failures-on-nvidia-gpus/"><u>Troubleshooting Tips for Fixing ShadowPlay Setup Failures on Nvidia GPUs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps for Fixing LiveKernel Event Code: 144"
-date: 2024-10-27T16:09:57.002Z
-updated: 2024-10-30T18:30:01.543Z
+date: 2024-10-31T00:20:17.073Z
+updated: 2024-11-04T19:22:46.645Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/a11de87af1b4d2d34686675787cceb79fcb33f463
 5. **[Run the Command Prompt](#e)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -71,31 +71,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-104.png)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-105.png)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check for Windows Updates
 
@@ -106,6 +93,19 @@ OR
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -162,16 +162,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-109.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-112.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Click the**Startup tab.**
 
@@ -183,29 +183,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-114.png)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **9)** Click**Restart** and wait for your computer to restart.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-120.png)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After your PC restarts, check if the issue has been resolved. If yes, you may need to re-enable important startups and services one by one to see which one is conflicting so you can keep it disabled.
 
@@ -217,16 +197,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-88.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
 
@@ -274,6 +254,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-148.png)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the**Services tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-150.png)
@@ -282,16 +269,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-145.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-146.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
 
@@ -306,6 +293,19 @@ OR
 **2)**  Type **cmd,** then press the **Ctrl, Shift**  and **Enter** keys at the same time to run the Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Type **sfc.exe /scannow** , then press the **Enter**  key on your keyboard.
 
@@ -345,24 +345,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-digital-delights-top-15-comical-creations-on-youtube-bars/"><u>[New] In 2024, Digital Delights Top 15 Comical Creations on YouTube Bars</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-dvd-wont-play-on-windows/"><u>[SOLVED] DVD Won't Play on Windows</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-snapchat-savants-handbook-perfecting-every-boomerang/"><u>[Updated] 2024 Approved The Snapchat Savant's Handbook Perfecting Every Boomerang</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-crucial-picks-the-most-influential-6-networking-websites-for-biz/"><u>[Updated] In 2024, Crucial Picks The Most Influential 6 Networking Websites for Biz</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-mystery-of-slug-line-formats/"><u>[Updated] Unveiling the Mystery of Slug Line Formats</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212365734-astro-a40-microphone-not-working-heres-how-you-can-get-it-up-and-running-again/"><u>Astro A40 Microphone Not Working? Here's How You Can Get It Up and Running Again</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1126901-9781612831787-beyond-the-secret/"><u>Beyond the Secret | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-repair-techniques-for-malfunctioning-dell-cameras-in-windows-environments/"><u>DIY Repair Techniques for Malfunctioning Dell Cameras in Windows Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-cannot-launch-errors-for-your-amd-catalyst-control-center-easily/"><u>Fixing 'Cannot Launch' Errors for Your AMD Catalyst Control Center Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-overcome-the-issue-of-iastordatasvc-causing-high-cpu-usage-in-a-32-bit-windows-10-environment-fixed/"><u>Guide to Overcome the Issue of IAStorDataSvc Causing High CPU Usage in a 32-Bit Windows 10 Environment (Fixed)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-x-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone X? Learn All 4 Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/logitech-scroll-wheel-stuck-heres-how-you-can-repair-it/"><u>Logitech Scroll Wheel Stuck? Here's How You Can Repair It!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-issues-with-individual-settings-that-are-not-responding/"><u>Overcome Issues with Individual Settings That Are Not Responding</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-downloads-of-wacom-device-drivers/"><u>Quick & Easy Downloads of Wacom Device Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-black-screen-issue-effective-solutions-for-google-chrome/"><u>Resolving the Black Screen Issue: Effective Solutions for Google Chrome</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-note-12-pro-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi Note 12 Pro 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/by-step-validating-your-online-identity-on-youtube-for-2024/"><u>Step by Step Validating Your Online Identity on YouTube for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-repairing-a-non-functional-camera-on-your-lenovo-laptop/"><u>Troubleshooting Steps: Repairing a Non-Functional Camera on Your Lenovo Laptop</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-do-youtube-channels-get-paid-regularly-for-2024/"><u>[New] How Do YouTube Channels Get Paid Regularly for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-seamlessly-add-snap-camera-to-microsoft-chats-for-2024/"><u>[New] How To Seamlessly Add Snap Camera to Microsoft Chats for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-your-typing-remedy-slow-keyboard-lags-with-these-fixes/"><u>Accelerate Your Typing: Remedy Slow Keyboard Lags with These Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-network-performance-effortless-download-of-linksys-ae2500-driver-software/"><u>Boost Your Network Performance: Effortless Download of Linksys AE2500 Driver Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultural-bridges-and-linguistic-skills-why-you-should-learn-a-language-in-your-forties/"><u>Cultural Bridges and Linguistic Skills: Why You Should Learn a Language in Your Forties</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-gaming-experience-a-step-by-step-origin-setup-guide/"><u>Error-Free Gaming Experience: A Step-by-Step Origin Setup Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-computer-from-constantly-turning-on-and-off/"><u>How to Stop Your Computer From Constantly Turning On and Off</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208101350-how-to-tackle-excessive-cpu-consumption-by-runtime-broker-on-your-windows-11-pc-solutions-included/"><u>How to Tackle Excessive CPU Consumption by Runtime Broker on Your Windows 11 PC – Solutions Included</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-itel-p55t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Itel P55T to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-shutdown-procedures-troubleshooting-tips-for-a-smooth-exit-in-windows-11-devices/"><u>Mastering Shutdown Procedures: Troubleshooting Tips for a Smooth Exit in Windows 11 Devices</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-make-a-flv-photo-slideshow-with-music/"><u>New In 2024, How to Make a FLV Photo Slideshow with Music</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-error-loading-player-issue-with-unavailable-content-on-windows-systems/"><u>Resolving the ‘Error Loading Player’ Issue with Unavailable Content on Windows Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-your-youtube-audience-the-detailed-guide/"><u>Tailoring Your YouTube Audience - The Detailed Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-fixing-windows-11-update-error-0xc1900208/"><u>Ultimate Troubleshooting Tips for Fixing Windows 11 Update Error 0Xc1900208</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving Ethernet Connectivity Issues: A Guide for Users of Windows 10 and 7"
-date: 2024-10-27T17:42:42.035Z
-updated: 2024-10-30T16:06:04.391Z
+date: 2024-11-03T17:37:32.231Z
+updated: 2024-11-05T06:56:13.507Z
 tags:
   - win11
   - win10
@@ -43,7 +43,21 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
 
@@ -54,21 +68,14 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 3. Select the icons you want to show on desktop, then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -88,6 +95,13 @@ start explorer.exe
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -97,36 +111,22 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -135,17 +135,18 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -187,20 +188,20 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/est-8-mirrorless-cameras-to-elevate-your-vlogging-game-for-2024/"><u>[New] Best 8 Mirrorless Cameras to Elevate Your Vlogging Game for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-novice-to-master-the-ultimate-periscope-handbook/"><u>[New] In 2024, From Novice to Master The Ultimate Periscope Handbook</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-screen-time-for-peaceful-phone-puzzles/"><u>[Updated] In 2024, Best Screen-Time for Peaceful Phone Puzzles</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-removing-advertisements-from-youtube-videos-on-chromefirefox/"><u>[Updated] Removing Advertisements From YouTube Videos on Chrome/Firefox</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-selfies-with-top-android-and-ios-face-modifiers/"><u>[Updated] Revolutionize Selfies with Top Android & iOS Face Modifiers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/connect-the-app-engine-url-back-in-the-google-apps-routines-interface-add-a-new-or-existing-action-then-enter-the-generated-app-engine-url-from-step-4-into-548/"><u>Connect the App Engine URL: Back in the Google App's Routines Interface, Add a New or Existing Action, Then Enter the Generated App Engine URL From Step 4 Into the URL Field. Save and Name Your Routine Accordingly.</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-for-when-your-pc-wont-pair-with-bluetooth-gadgets-in-windows-11/"><u>Easy Solutions for When Your PC Won't Pair with Bluetooth Gadgets in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-remedies-rectifying-non-functional-touchpad-scrolling-on-laptopspcs/"><u>Effective Remedies: Rectifying Non-Functional Touchpad Scrolling on Laptops/PCs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhancing-pc-gaming-experience-solutions-to-frame-rate-decreases-in-f1-2021-racing-simulator/"><u>Enhancing PC Gaming Experience - Solutions to Frame Rate Decreases in F1 2021 Racing Simulator</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-hp-laptops-webcam-malfunctions-in-windows-10-a-comprehensive-guide/"><u>Fixing Your HP Laptop's Webcam Malfunctions in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-a2-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo A2 to PC? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208233587-lenovo-fn-key-malfunction-heres-how-to-restore-it/"><u>Lenovo Fn Key Malfunction? Here's How to Restore It!</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-red-screen-dilemma-expert-tips-and-tricks-unveiled/"><u>Mastering the Red Screen Dilemma: Expert Tips and Tricks Unveiled!</u></a></li>
-<li><a href="https://common-error.techidaily.com/swift-tips-and-techniques-to-correct-the-steam-disk-writing-problem/"><u>Swift Tips & Techniques to Correct the Steam Disk Writing Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-total-war-rome-remastered-crashes-easily/"><u>Troubleshoot and Resolve Total War: Rome Remastered Crashes Easily</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-maximizing-viewability-and-engagement-understanding-facebook-video-ratios/"><u>[New] Maximizing Viewability & Engagement Understanding Facebook Video Ratios</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elevate-your-online-presence-mastering-the-art-of-adding-times-on-youtube/"><u>[Updated] Elevate Your Online Presence Mastering the Art of Adding Times on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-family-bonding-through-film-the-ultimate-classics-list/"><u>2024 Approved Family Bonding Through Film The Ultimate Classics List</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-diagnose-and-fix-windows-or-mac-computers-that-just-wont-stop-freezing/"><u>Expert Tips to Diagnose & Fix Windows or Mac Computers That Just Won't Stop Freezing</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-windows-10-screen-brightness-working-again/"><u>How to Get Your Windows 10 Screen Brightness Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-speed-up-your-league-of-legends-game-files-fixed-download-issues-revealed/"><u>How to Speed Up Your League of Legends Game Files: Fixed Download Issues Revealed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-fix-aoc-monitor-issues-compatible-with-windows-11/"><u>How to Troubleshoot and Fix AOC Monitor Issues Compatible with Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-lava-blaze-2-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Lava Blaze 2 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-keyboard-troubleshooting-a-comprehensive-walkthrough-on-hardware-resets/"><u>Mastering Keyboard Troubleshooting: A Comprehensive Walkthrough on Hardware Resets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-ipad-output-discover-key-apps-to-enhance-productivity-and-workflow-as-recommended-experts/"><u>Maximizing iPad Output? Discover Key Apps to Enhance Productivity and Workflow as Recommended Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/starting-windows-terminal-with-quake-effects/"><u>Starting Windows Terminal with Quake Effects</u></a></li>
+<li><a href="https://common-error.techidaily.com/typing-accuracy-addressing-the-challenge-of-pressing-incorrect-keys/"><u>Typing Accuracy: Addressing the Challenge of Pressing Incorrect Keys</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/k-the-secrets-of-smooth-and-seamless-keying-in-videography-for-2024/"><u>Unlock the Secrets of Smooth and Seamless Keying in Videography for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Starting Up Your AMD Catalyst Control Center Effortlessly"
-date: 2024-10-23T17:43:09.604Z
-updated: 2024-10-30T17:18:01.801Z
+date: 2024-11-04T10:27:29.204Z
+updated: 2024-11-05T06:58:32.631Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -56,9 +49,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -75,22 +82,15 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -104,10 +104,10 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
@@ -117,10 +117,10 @@ To do so:
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
@@ -162,22 +162,21 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-hit-the-airwaves-with-instagram-lives/"><u>[Updated] 2024 Approved How to Hit the Airwaves with Instagram Lives</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-uncharted-territories-virtual-realitys-role-in-leisure/"><u>[Updated] Uncharted Territories Virtual Reality's Role in Leisure</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/202-4/"><u>發現202 4年的好用免費音樂製作工具: 入門者上位選擇列表</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-lagging-chrome-a-guide-to-refresh-and-continue-browsing-seamlessly/"><u>Dealing with Lagging Chrome: A Guide to Refresh & Continue Browsing Seamlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-fixes-for-applicationexe-has-stopped-complaints/"><u>Essential Fixes for 'Application.exe Has Stopped' Complaints</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262312086-how-much-is-the-eurozone-worth-french-distributor-sets-price-for-amd-ryzen-9-9900x-at-close-to-680/"><u>How Much Is the Eurozone Worth? French Distributor Sets Price for AMD Ryzen 9 9900X at Close to €680</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-a-detailed-guide-to-stream-to-instagram-with-an-rtmp/"><u>In 2024, A Detailed Guide To Stream to Instagram With an RTMP</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/ps4-connection-woes-follow-this-step-by-step-fixers-guide-for-nat-types/"><u>PS4 Connection Woes? Follow This Step by Step Fixer's Guide for NAT Types!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-bad-image-errors-a-guide-to-correcting-side-by-side-configuration-issues-on-windows-10/"><u>Resolving ‘Bad Image’ Errors: A Guide to Correcting Side-By-Side Configuration Issues on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-gain-admin-privileges-needed-for-successful-operations-on-windows-11-10-and-7/"><u>Solution: Gain Admin Privileges Needed for Successful Operations on Windows 11, 10 & 7</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-strategy-for-recovering-a-forgotten-fb-password-without-contact-details/"><u>The Ultimate Strategy for Recovering a Forgotten FB Password without Contact Details</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-corsair-keyboards-that-wont-illuminate-properly/"><u>Troubleshooting Tips for Corsair Keyboards That Won't Illuminate Properly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-fix-persistent-reboot-cycles-in-windows-10/"><u>Troubleshooting Tips: How To Fix Persistent Reboot Cycles in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-google-chrome-not-responding-issue/"><u>Troubleshooting: Fixing the 'Google Chrome Not Responding' Issue</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/utilize-picture-in-picture-mode-efficiently-in-safari-for-2024/"><u>Utilize Picture In Picture Mode Efficiently in Safari for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-engrossing-12-pc-clicker-games-that-keep-you-hooked-for-2024/"><u>[New] Engrossing 12 PC Clicker Games That Keep You Hooked for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-infinite-loading-screen-on-valorant-a-guide-to-getting-you-back-into-action/"><u>[Solved] Infinite Loading Screen on Valorant: A Guide to Getting You Back Into Action</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-your-channels-traffic-and-value-with-innovative-hashtags-for-2024/"><u>[Updated] Boost Your Channels' Traffic & Value with Innovative Hashtags for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-edge-editing-solutions-just-for-vimeo/"><u>[Updated] Cutting-Edge Editing Solutions Just for Vimeo</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-fine-tuning-film-views-through-zoom-adjustment/"><u>[Updated] In 2024, Fine-Tuning Film Views Through Zoom Adjustment</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-extraordinary-top-ranked-vr-game-perks/"><u>2024 Approved Extraordinary Top-Ranked VR Game Perks</u></a></li>
+<li><a href="https://common-error.techidaily.com/activating-bluetooth-on-a-windows-7-machine-a-comprehensive-tutorial/"><u>Activating Bluetooth on a Windows 7 Machine - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/all-systems-checked-yet-one-component-idles/"><u>All Systems Checked, Yet One Component Idles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/easyscreen-videotaker-analysis-plus-other-apps/"><u>EasyScreen Videotaker Analysis + Other Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-driverpowerstatefailure-errors/"><u>Effective Solutions for Overcoming DRIVER_POWER_STATE_FAILURE Errors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-safely-download-facebook-media-on-windowsmac/"><u>In 2024, Safely Download Facebook Media on Windows/Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210391878-keyboard-navigation-failure-revitalize-those-arrow-buttons-here/"><u>Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/into-song-savvy-youtube-playlist-excellence/"><u>Step Into Song Savvy YouTube Playlist Excellence</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-functionality-for-the-windows-key-combo-shiftpluss-in-windows-operating-systems/"><u>Step-by-Step Guide to Restoring Functionality for the Windows Key Combo (Shift+S) in WIndows Operating Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-13-free-disk-analysis-utilities-july-2024-edition/"><u>Top 13 Free Disk Analysis Utilities - July 2024 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-wow-performance-sluggishness/"><u>Ultimate Guide: Solving 'WoW' Performance Sluggishness</u></a></li>
 </ul></div>
 

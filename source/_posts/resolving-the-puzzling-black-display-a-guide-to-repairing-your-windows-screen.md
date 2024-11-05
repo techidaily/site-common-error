@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Puzzling Black Display: A Guide to Repairing Your Windows Screen"
-date: 2024-10-24T16:10:13.198Z
-updated: 2024-10-30T17:10:02.730Z
+date: 2024-10-31T21:33:33.281Z
+updated: 2024-11-05T07:55:58.068Z
 tags:
   - win11
   - win10
@@ -62,13 +62,6 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 **7)** After the Startup Repair complete, restart your computer and see if it resolves your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Run system checks
 
  Your Windows 10 computer may get stuck on the welcome screen when there are corrupted system files on your computer. You can run some checks on your computer to see if it is the corrupted files that cause your problem.
@@ -79,13 +72,6 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
@@ -94,9 +80,23 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Select**Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596884143a289.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**  Type the following lines in Command Prompt and press **Enter** on your computer after each.
 
@@ -109,15 +109,22 @@ _**bootrec /scanos**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968863896808.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)**  Wait for the scans to complete. Then exit Command Prompt.
 
 **8)** Restart your computer and see if it fixes the issue. If you still get stuck, check**method 3** to reset your Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Reset your Windows 10
@@ -131,13 +138,6 @@ _**bootrec /scanos**_
 **2)** Select the language and region.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Boot your computer from your Windows 10 installation media. After selecting the language and region, click on**Install now** .
 
@@ -162,22 +162,20 @@ _**bootrec /scanos**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>[New] In 2024, Pushing Boundaries of Editing How to Erase Image Borders on Canva</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-10-igtv-channels-shaping-content-trends/"><u>[New] The 10 IGTV Channels Shaping Content Trends</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-8-choices-affordable-open-source-videoconferencing-apps-for-2024/"><u>[New] Top 8 Choices Affordable, Open Source Videoconferencing Apps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-finding-perfect-dronescopic-stability-a-gimbal-guide/"><u>[Updated] Finding Perfect Dronescopic Stability A Gimbal Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/common-fixes-for-launching-minecraft-successfully-on-a-window-os/"><u>Common Fixes for Launching Minecraft Successfully on a Window OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210502992-corsair-keyboard-malfunction-heres-how-to-make-it-glow-again/"><u>Corsair Keyboard Malfunction? Here's How to Make It Glow Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-sims-4-game-wont-start-correctly/"><u>Effective Fixes for When Your Sims 4 Game Won't Start Correctly</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-resolving-the-persistent-restart-problem-in-windows-10/"><u>Effortless Fixes for Resolving the Persistent Restart Problem in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-win11s-troublesome-0x80072efd-error-a-step-by-step-guide/"><u>Fixing Win11's Troublesome 0X80072EFD Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/imageclarity-converter-high-res-for-all-systems/"><u>ImageClarity Converter - High Res for All Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-note-30i-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Note 30i Fingerprint Lock</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/offline-no-access-to-blizzard-services/"><u>Offline - No Access To Blizzard Services</u></a></li>
-<li><a href="https://facebook.techidaily.com/pictorial-prompting-leads-to-stylistic-textual-transformation-facebook-ai/"><u>Pictorial Prompting Leads to Stylistic Textual Transformation - Facebook AI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/returning-students-rejoice-save-big-with-samsung-deals-on-tech-gear-for-class/"><u>Returning Students Rejoice: Save Big with Samsung Deals on Tech Gear for Class!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-errors-encountered-while-installing-or-updating-on-steam/"><u>Step-by-Step Fixes for Errors Encountered While Installing or Updating on Steam</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-techniques-utilizing-system-file-checker-sfc-and-deployment-image-service-and-management-dism-for-resolving-windows-11-problems/"><u>Top Techniques: Utilizing System File Checker (SFC) and Deployment Image Service and Management (DISM) for Resolving Windows 11 Problems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-crafting-excellent-micro-photography-videos-step-by-step/"><u>[New] 2024 Approved Crafting Excellent Micro Photography Videos Step by Step</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-melody-mix-up-how-to-tune-your-facebook-videos-with-songs/"><u>[New] 2024 Approved Melody Mix-Up How to Tune Your Facebook Videos with Songs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-virtual-swordplay-showdown-find-your-match-in-these-games-for-2024/"><u>[New] Virtual Swordplay Showdown Find Your Match in These Games for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-ue4s-halo-4-2024-fatal-crash-a-step-by-step-fix-manual/"><u>Bypassing UE4's Halo 4 2024 Fatal Crash - A Step-by-Step Fix Manual</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/exploring-youtubes-operations-after-video-upload/"><u>Exploring YouTube's Operations After Video Upload</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-70-lite-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor 70 Lite 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/icue-fixes-at-hand-tackling-the-device-not-detected-problem-easily/"><u>ICUE Fixes at Hand: Tackling the 'Device Not Detected' Problem Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ranking-apples-most-valuable-gif-tools/"><u>In 2024, Ranking Apple's Most Valuable GIF Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-your-battleye-setup-woes-effective-solutions-for-smooth-functionality/"><u>Overcome Your BattlEye Setup Woes – Effective Solutions for Smooth Functionality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-gaming-lag-in-first-person-shooters-fps-drop-frames-and-smoothness-enhancements/"><u>Resolved: Fixes for Gaming Lag in First-Person Shooters (FPS) – Drop Frames and Smoothness Enhancements</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/secret-tips-for-stunning-sketches-and-scans-for-2024/"><u>Secret Tips for Stunning Sketches & Scans for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-repair-tips-correcting-windows-1110-error-code-0x80ebase-f/"><u>Step-by-Step Repair Tips: Correcting Windows 11/10 Error Code 0X80ebase F</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unearthing-the-hidden-an-orderly-guide-to-covert-youtube-videos/"><u>Unearthing the Hidden An Orderly Guide to Covert YouTube Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-power-of-file-explorer-on-windows-10-a-beginners-guide/"><u>Unlocking the Power of File Explorer on Windows 10: A Beginner's Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-printer-problems-a-detailed-guide-to-resolve-xerox-update-error-0x800f020b-in-windows/"><u>Winning Against Printer Problems: A Detailed Guide to Resolve Xerox Update Error 0X800f020b in Windows</u></a></li>
 </ul></div>
 

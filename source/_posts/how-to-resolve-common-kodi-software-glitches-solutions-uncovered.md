@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Common Kodi Software Glitches - Solutions Uncovered
-date: 2024-09-04T20:21:58.117Z
-updated: 2024-09-05T20:21:58.117Z
+date: 2024-11-02T02:12:36.902Z
+updated: 2024-11-05T04:21:12.387Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 5. **[Run hardware and devices troubleshooter](#s5)**
 6. **[Boot your PC into Safe Mode](#s6)**
 7. **[Use a different keyboard](#s7)**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 1 – Try on-screen keyboard
 
@@ -68,16 +75,31 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cee85a5cb2.jpg)
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cf7e7c521d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3 – Uninstall and reinstall your keyboard driver
 
@@ -85,44 +107,35 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 
 1. Press the **Windows![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png)**  
  key  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  and  
 **R**  to invoke the Run box.
 2. Type**devmgmt.msc** and click**OK**  to access Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d013077561.png)
 3. Expand the**Keyboards** category.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Right-click on your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d02c6cb5ba.jpg)
 5. When prompted for confirmation, click**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d031b9c5f0.jpg)
 6. Save any open files and close all programs, then click**Yes** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d03560715f.jpg)
 7. When your PC restarts, check if you can type**@** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 4 – Change language in Control Panel
 
@@ -133,34 +146,17 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 2. Under**Country or Region** , make sure an English-speaking country or region is selected. If you cannot find any, then you can click the**Add a Language** button to add one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdd1e9fccd.jpg)
 3. Under**Languages** , click**Windows display language** and select**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdfb50cdf8.jpg)
 4. Under**Keyboards** , check what keyboard is selected and verify the input language is English.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8ce010368bc.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Can you type**@** now? If not, try the next solution.
 
 ---
@@ -176,12 +172,6 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 3. If you see something like the screenshot below, you can then continue with the next solution.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cfb0f5ec3d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ### Solution 6 – Boot your PC into Safe Mode
@@ -192,27 +182,30 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 2. Type **msconfig**  and click **OK.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0bd09c388.png)
 3. At the top of the **System Configuration**  window, click on the **Boot**  tab, **check**  the box next to **Safe boot** , select **Network**  and click   **OK.**  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0c0263d34.jpg)  
 **Note:** If you want to start Windows in**Normal Mode** , ensure the**Safe boot** box is**unchecked** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Make sure all the currently open files are saved and click   **Restart.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0c41804c9.png)
 5. Check if the @ key is working.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    * If the @ key is working, you can download an antivirus to scan your PC in Safe Mode. Then, go back to step 3),**uncheck** Safe boot, click**OK** and restart your PC to check if the @ key not working problem is resolved in Normal Mode.  
    * If the @ key is not working, you can go back to step 3) and uncheck Safe boot to restart your PC normally. Then continue the troubleshooting with the last solution.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 7 – Use a different keyboard
 
@@ -226,8 +219,6 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +226,26 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-10-best-no-cost-video-calls-for-remote-collaboration/"><u>[New] In 2024, 10 Best No-Cost Video Calls for Remote Collaboration</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-foodies-framebook-stepwise-filming-for-2024/"><u>[New] The Foodie's Framebook Stepwise Filming for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-boosting-audio-quality-in-social-media-recordings/"><u>[Updated] Boosting Audio Quality in Social Media Recordings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-your-journey-begins-here-vlogging-essentials/"><u>[Updated] In 2024, Your Journey Begins Here Vlogging Essentials</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-harness-the-power-of-mematic-for-notes/"><u>2024 Approved Harness the Power of Mematic for Notes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-free-guide-to-conducting-flawless-google-meet-sessions/"><u>2024 Approved The Free Guide to Conducting Flawless Google Meet Sessions</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-your-racing-experience-by-correcting-audio-issues-in-forza-horizon-4/"><u>Boost Your Racing Experience by Correcting Audio Issues in Forza Horizon 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-the-dreaded-werfaultexe-bug-a-guide-with-six-foolproof-fixes-for-a-smoother-windows-experience/"><u>Defeat the Dreaded WerFault.exe Bug - A Guide with Six Foolproof Fixes for a Smoother Windows Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-stuck-windows-10-taskbar-with-proven-solutions/"><u>Fixing Your Stuck Windows 10 Taskbar with Proven Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-x-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone X Activation Lock</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-a-detailed-comparison-vsdc-vs-other-recorders/"><u>In 2024, A Detailed Comparison VSDC vs Other Recorders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cinematic-perfection-mastering-the-top-5-techniques/"><u>In 2024, Cinematic Perfection Mastering the Top 5 Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-equipment-choices-with-toms-hardware-expertise/"><u>Mastering Equipment Choices with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-error-0x80004005-essential-tips-to-diagnose-and-repair-this-common-issue/"><u>Overcoming Error 0X80004005: Essential Tips to Diagnose and Repair This Common Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-error-of-failure-in-creating-a-directx-graphics-device/"><u>Resolved: Fixing the Error of Failure in Creating a DirectX Graphics Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-flickering-effective-fixes-for-continuous-cursor-blinking-problems/"><u>Say Goodbye to Flickering: Effective Fixes for Continuous Cursor Blinking Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-walkthrough-activating-usb-tethering-in-windows-10-made-easy/"><u>Step-by-Step Walkthrough: Activating USB Tethering in Windows 10 Made Easy</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-the-problem-of-continuous-boot-loops-effective-fixes-for-your-computer/"><u>Tackling the Problem of Continuous Boot Loops: Effective Fixes for Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-back-your-lost-scroll-wheel-control-on-a-windows-10-pc/"><u>Winning Back Your Lost Scroll Wheel Control on a Windows 10 PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide to Restoring Connection: Microsoft Wireless Display Adapter in Windows 11"
-date: 2024-10-26T16:38:26.229Z
-updated: 2024-10-30T17:20:35.333Z
+date: 2024-11-03T10:51:10.736Z
+updated: 2024-11-05T10:21:50.741Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/7bf87c712048fd1b5c49af691f0f5b92a0d10753a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
  This problem could be also caused by a wrong battery driver. You can solve it through reinstalling your battery driver.
@@ -66,27 +59,28 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
@@ -95,10 +89,16 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
@@ -110,6 +110,13 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -128,20 +135,19 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-thriving-on-youtube-the-guide-to-affiliates/"><u>[New] 2024 Approved Thriving on YouTube The Guide to Affiliates</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-exclusive-environmentally-safe-recording-tools-for-2024/"><u>[Updated] Exclusive Environmentally Safe Recording Tools for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/aviutl-dvd-dvd/"><u>Aviutl プログラムを使って簡単にDVDを書き込む手引き - DVD作成のためのステップバイステップガイド</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-high-cpu-error-caused-by-runtime-broker-in-windows-10-solution/"><u>Dealing with High CPU Error Caused by Runtime Broker in Windows 10 [Solution]</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-motorola-g54-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Motorola G54 5G? Try These Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/geforce-experience-not-starting-heres-the-solution-youve-been-looking-for/"><u>GeForce Experience Not Starting? Here's the Solution You've Been Looking For</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-fixing-silent-hp-toner-units/"><u>Guide to Fixing Silent HP Toner Units</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-add-videos-to-youtube-playlist/"><u>How to Add Videos to YouTube Playlist?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-unlock-iphone-photography-top-angles-for-stunning-images/"><u>In 2024, Unlock iPhone Photography Top Angles for Stunning Images</u></a></li>
-<li><a href="https://common-error.techidaily.com/smooth-gameplay-on-demand-no-trouble/"><u>Smooth Gameplay on Demand, No Trouble!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-7-must-try-iphone-vr-experiences-you-cant-miss/"><u>Top 7 Must-Try iPhone VR Experiences You Can’t Miss</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-keyboard-arrow-buttons-discover-quick-and-effective-solutions-here/"><u>Trouble With Keyboard Arrow Buttons? Discover Quick and Effective Solutions Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-the-0xc19amo16-error-during-windows-11-updates/"><u>Troubleshooting and Resolving the 0xC19amo16 Error During Windows 11 Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-unresponsive-laptops-touchpad-tips-and-tricks/"><u>Troubleshooting Your Unresponsive Laptop's Touchpad – Tips & Tricks</u></a></li>
+<li><a href="https://facebook.techidaily.com/evergreen-or-fading-away-debunking-facebooks-status/"><u>'Evergreen' Or 'Fading Away': Debunking Facebook's Status</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-inshot-guide-successfully-load-tracks-into-videos/"><u>[New] 2024 Approved InShot Guide Successfully Load Tracks Into Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/clearing-up-monster-mishaps-solutions-for-the-resident-evil-village-black-screen-problem-on-computers/"><u>Clearing Up Monster Mishaps: Solutions for the Resident Evil Village Black Screen Problem on Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-realtek-bluetooth-drivers-compatible-with-windows-11-and-windows-10/"><u>Download Updated RealTek Bluetooth Drivers - Compatible with Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/easy-ways-to-transform-bik-videos-into-popular-file-types-such-as-mp4-avi-and-mkv-for-universal-playback-compatibility/"><u>Easy Ways to Transform BIK Videos Into Popular File Types Such as MP4, AVI & MKV for Universal Playback Compatibility</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-lack-of-sound-devices-message-on-windows-10-and-11-systems/"><u>Fixing Lack of Sound Devices Message on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-oculus-hardware-problems-expert-tips/"><u>Fixing Your Oculus Hardware Problems - Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-common-netflix-connectivity-problems-when-things-dont-work/"><u>How to Resolve Common Netflix Connectivity Problems When Things Don't Work</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-7-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-vlcs-network-live-stream-capabilities/"><u>In 2024, Unveiling VLC's Network Live Stream Capabilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/obs-game-streaming-flawlessness-solving-the-elusive-black-screen-hurdle/"><u>OBS Game Streaming Flawlessness: Solving the Elusive Black Screen Hurdle</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-disappeared-desktop-icon-issues-in-windows-10-made-easy/"><u>Restoring Disappeared Desktop Icon Issues in Windows 10 Made Easy</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solution-unlike-traditional-methods-that-focus-on-meeting-minimum-code-criteria-pbsd-aims-for-specific-performance-targets-eg-operational-or-life-safety-and199/"><u>Solution: Unlike Traditional Methods that Focus on Meeting Minimum Code Criteria, PBSD Aims for Specific Performance Targets (E.g., Operational or Life Safety) and Uses Advanced Analysis to Ensure These Goals Are Met Under Different Seismic Scenarios</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-reboots-without-warning/"><u>Windows Reboots without Warning</u></a></li>
 </ul></div>
 

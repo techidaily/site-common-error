@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing a Broken Laptop Keyboard – A Step-by-Step Guide
-date: 2024-10-24T18:13:15.850Z
-updated: 2024-10-30T16:31:29.902Z
+date: 2024-11-03T23:23:32.103Z
+updated: 2024-11-05T10:06:44.097Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -85,16 +85,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -122,10 +116,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -149,26 +143,26 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -205,18 +199,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-prime-gold-toned-text-interactive-3d-sites-reviewed/"><u>[New] 2024 Approved Prime Gold-Toned Text Interactive 3D Sites Reviewed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-exploring-the-best-of-android-does-pickup-lead-photo-editing-tools-in-2024/"><u>[New] Exploring the Best of Android Does PickUp Lead Photo Editing Tools, In 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/augmenting-user-interface-windows-embellished-by-portables/"><u>Augmenting User Interface: Windows, Embellished by Portables</u></a></li>
-<li><a href="https://common-error.techidaily.com/battling-high-cpu-drain-by-wudhostexe-tips-to-enhance-system-efficiency-in-windows-11/"><u>Battling High CPU Drain by WUDHost.exe - Tips to Enhance System Efficiency in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-phantom-v-fold-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Phantom V Fold Face Lock?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-s18-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo S18 Pro FRP Bypass</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-m34-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy M34 5G Phone that is Locked?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-guide-to-installing-microsofts-movie-maker-for-2024/"><u>In-Depth Guide to Installing Microsoft's Movie Maker for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-hack-a-step-by-nstep-solution-for-correcting-black-screen-on-google-chrome/"><u>Master the Hack: A Step-by-nStep Solution for Correcting Black Screen on Google Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-visibility-controls-on-the-windows-11-taskbar-tips-and-tricks-revealed/"><u>Mastering Visibility Controls on the Windows 11 Taskbar: Tips & Tricks Revealed!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/transforming-imovie-projects-into-youtube-shows/"><u>Transforming iMovie Projects Into YouTube Shows</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstick-the-gears-ultimate-guide-to-fixing-ps4-controller-charging-woes/"><u>Unstick the Gears: Ultimate Guide to Fixing PS4 Controller Charging Woes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-alternative-to-obs-innovative-livestream-tools/"><u>[New] In 2024, Alternative to OBS Innovative Livestream Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-exclusive-ranking-of-advanced-online-tutorial-providers-excluding-udemy-for-2024/"><u>[Updated] Exclusive Ranking of Advanced Online Tutorial Providers (Excluding Udemy) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-fixes-for-ps4-network-errors-a-detailed-walkthrough/"><u>Complete Fixes for PS4 Network Errors: A Detailed Walkthrough</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-moto-e13-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Moto E13 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210984997-discords-silent-mic-no-more/"><u>Discord's Silent Mic: No More!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-download-canon-scanner-drivers-and-support/"><u>Easy Download: Canon Scanner Drivers & Support</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-muting-issues-a-step-by-step-guide/"><u>How to Fix Windows 11 Muting Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-forcefully-close-windows-11-when-your-computer-fails-to-turn-off/"><u>How to Forcefully Close Windows 11 When Your Computer Fails to Turn Off</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-malfunctioning-shift-key-a-step-by-step-guide/"><u>How to Repair a Malfunctioning Shift Key: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6s Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-10-best-radio-sound-effects-most-popular/"><u>New In 2024, 10 Best Radio Sound Effects Most Popular</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-imovie-alternatives-expert-approved-video-editing-options/"><u>No-Cost iMovie Alternatives Expert-Approved Video Editing Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-error-1053-non-responsive-service-launch-failure/"><u>Resolving Error 1053: Non-Responsive Service Launch Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-minecraft-crashes-due-to-faulty-graphics-driver-issues-in-windows-solutions/"><u>Resolving Minecraft Crashes Due to Faulty Graphics Driver Issues in Windows - Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revitalize-your-aging-pc-with-these-5-cost-effective-methods-for-microsoft-windows-11-users-many-at-no-charge-techadvice/"><u>Revitalize Your Aging PC with These 5 Cost-Effective Methods for Microsoft Windows 11 Users - Many at No Charge! | TechAdvice</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-media-conversion-from-avis-to-striking-gif-images-via-filmora-software-windowsmacos-for-2024/"><u>Seamless Media Conversion From AVIs to Striking GIF Images via Filmora Software (Windows/macOS) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-microphone-problems-on-steelseries-arctis-5-for-optimal-performance/"><u>Solving Microphone Problems on SteelSeries Arctis 5 for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-pc-connection-issues-with-bluetooth-input-devices/"><u>Step-by-Step Solution for PC Connection Issues with Bluetooth Input Devices</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/effektivnoe-ispolzovanie-rsync-v-windows-10-podrobnoe-rukovodstvo-i-alternativnye-varianty/"><u>Эффективное Использование Rsync В Windows 10: Подробное Руководство И Альтернативные Варианты</u></a></li>
 </ul></div>
 

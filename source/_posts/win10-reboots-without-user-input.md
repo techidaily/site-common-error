@@ -1,7 +1,7 @@
 ---
 title: Win10 Reboots Without User Input
-date: 2024-09-04T20:21:57.607Z
-updated: 2024-09-05T20:21:57.607Z
+date: 2024-11-04T01:46:46.890Z
+updated: 2024-11-05T00:00:56.889Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 
 **Note** : The screenshots below are shown on Windows 10, but the fixes apply to Windows 8, Windows 7, Windows Vista and Windows XP.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Solution 1: Restart your computer to fix Code 31**
 
  Sometimes this error occurs because of the temporary hardware problem, so you can simply try to restart your computer and see if it fixes the issue.
@@ -37,11 +44,12 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
  If it’s the connected hardware that has the driver issue, you can also try to reconnect the hardware device to your computer, then restart the computer again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Solution 2: Update the driver to fix Code 31**
 
  As the error message said, Windows cannot load the drivers required for this device. So there may be something wrong with the device driver. The missing or outdated drivers can cause the problem. You can try to update the drivers to fix Code 31 in your computer, no matter if it’s Nvidia card drivers or AMD drivers.
@@ -63,11 +71,12 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ad4d9d7044.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update**   button next to the flagged driver to automatically install the correct driver. (You can do this with the FREE version)
 
  Or click **Update All**   to automatically install the correct version of all drivers that are missing or outdated (You can do this with the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – You’ll be prompted to upgrade after clicking Update All).
@@ -75,17 +84,12 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ad50b355c3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) After updating drivers, restart your computer, and reconnect your device to see if the issue is resolved.
 
  These are the best solutions to fix Code 31 in Device Manager. If you have any questions, feel free to comment below and we’ll see what more we can do to help.
@@ -99,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +110,20 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-navigating-your-digital-past-with-fbs-preview-feature/"><u>[New] 2024 Approved Navigating Your Digital Past with FB's Preview Feature</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-ranked-hd-screen-capturing-tools/"><u>[Updated] 2024 Approved Top-Ranked HD Screen Capturing Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-addressing-encryption-problems-in-mozilla-firefox/"><u>Comprehensive Solutions for Addressing Encryption Problems in Mozilla Firefox</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-resolve-windows-10s-repeated-restart-issue-quickly/"><u>Effective Strategies to Resolve Windows 10'S Repeated Restart Issue Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209973318-error-80240020-on-your-pc-heres-how-to-successfully-install-windows-10/"><u>Error 80240020 on Your PC? Here's How to Successfully Install Windows 10!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-why-is-my-destiny-2-voice-communication-failing/"><u>Fixing Issues: Why Is My Destiny 2 Voice Communication Failing?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-13-proplus-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 13 Pro+ 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-improving-professional-collaboration-with-strategic-office-planning/"><u>In 2024, Improving Professional Collaboration with Strategic Office Planning</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-online-video-advertising-maker-platforms-for-2024/"><u>New Online Video Advertising Maker Platforms for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-11-start-menu-errors-and-restore-full-functionality-solved/"><u>Overcome Windows 11 Start Menu Errors and Restore Full Functionality [SOLVED]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-the-missingnot-detected-error-for-d3dx9e34dll/"><u>Resolve The Missing/Not Detected Error for d3dx9_e34.dll</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-overcoming-copy-and-paste-hurdles/"><u>Windows 10: Overcoming Copy & Paste Hurdles</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Past Chrome's Site Cannot Be Reached Challenge
-date: 2024-10-28T17:58:09.067Z
-updated: 2024-10-30T18:02:56.866Z
+date: 2024-11-02T16:44:21.845Z
+updated: 2024-11-05T04:37:12.280Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -69,13 +62,6 @@ the picture was taken by: Article\_86
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -88,16 +74,10 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
@@ -113,26 +93,26 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -145,10 +125,25 @@ the picture was taken by: Article\_86
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -185,16 +180,24 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops/"><u>[New] 2024 Approved Dive Into Digital Green Magic Top 4 YouTube Sources for No-Cost Background Workshops</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-halo-4-ue4-fatal-error-crash-2024/"><u>[SOLVED] Halo 4 UE4 Fatal Error Crash 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-15-funny-jokes-on-tiktok-for-giggles/"><u>[Updated] 15 Funny Jokes on TikTok for Giggles</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-navigating-previewed-fb-activity-is-it-safe-or-not/"><u>[Updated] In 2024, Navigating Previewed FB Activity Is It Safe or Not?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-prime-line-up-the-best-9-free-youtube-logo-makers-reviewed/"><u>[Updated] Prime Line-Up The Best 9 Free YouTube Logo Makers Reviewed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvd-handbrake/"><u>DVD/動画ファイルの変換と圧縮: HandBrakeで高画質を実現します</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-enable-intel-rst-services-on-your-windows-10-pc-step-by-step-recovery-tips/"><u>How to Enable Intel RST Services on Your Windows 10 PC – Step-by-Step Recovery Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edge-40-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge 40 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-the-startup-failure-issue-code-0xc000007b-step-by-step-guide/"><u>How To Successfully Overcome The Startup Failure Issue (Code 0Xc000007b) - Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-bridal-collection-premium-wedding-cinematography-on-youtube-and-vimeo/"><u>In 2024, The Ultimate Bridal Collection Premium Wedding Cinematography on YouTube & Vimeo</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-persistent-keyboard-delays-in-windows-10/"><u>Resolved: Fixing Persistent Keyboard Delays in Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-behind-the-scenes-discord-streaming-basics/"><u>[New] 2024 Approved Behind-the-Scenes Discord Streaming Basics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-realities-redefined-the-metaverse-vs-omniverse-showdown-explained-for-2024/"><u>[New] Realities Redefined The Metaverse Vs. Omniverse Showdown Explained for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-and-fix-error-0x80004005-expert-tips-to-restore-your-outlook-functionality/"><u>Decode and Fix 'Error 0X80004005': Expert Tips to Restore Your Outlook Functionality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/effortlessly-learn-korean-a-guide-to-the-leading-6-resources/"><u>Effortlessly Learn Korean: A Guide to the Leading 6 Resources</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-movie-night-the-best-15-dolby-atmos-movies-curated-for-home-cinema-enthusiasts/"><u>Elevate Your Movie Night: The Best 15 Dolby Atmos Movies Curated for Home Cinema Enthusiasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0xc000007b-strikes-again-heres-how-to-successfully-launch-your-app/"><u>Error 0Xc000007b Strikes Again? Here's How to Successfully Launch Your App!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-upgraded-features-of-the-new-generation-google-nest-hub-why-a-camera-would-have-been-perfect/"><u>Exploring the Upgraded Features of the New Generation Google Nest Hub - Why A Camera Would Have Been Perfect!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finding-your-lost-footage-no-vids-on-a6400-for-2024/"><u>Finding Your Lost Footage No Vids On A6400 for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-error-0x887a0006-instantly-effortless-fix-techniques-unveiled/"><u>Fix Error 0X887A0006 Instantly: Effortless Fix Techniques Unveiled!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11-boot-issues-a-step-by-step-solution/"><u>Fixing Windows 11 Boot Issues - A Step by Step Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-11-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 11 Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-hot-40-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Infinix Hot 40 Users</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/is-it-possible-to-use-samsung-data-migration-tool-for-cloning-non-samsung-ssds/"><u>Is It Possible to Use Samsung Data Migration Tool for Cloning Non-Samsung SSDs?</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-pc-settings-disable-your-laptops-touchpad-when-a-mouse-is-plugged-into-win11-systems/"><u>Mastering PC Settings: Disable Your Laptop's Touchpad when a Mouse Is Plugged Into Win11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206461369-step-by-step-fix-for-common-dll-has-stopped-working-in-windows-bid-error-goodbye/"><u>Step-by-Step Fix for 'Common DLL Has Stopped Working' In Windows: Bid Error Goodbye!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microsoft-screen-mirroring-issues-windows-11-fixes/"><u>Troubleshooting Microsoft Screen Mirroring Issues: Windows 11 Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-the-solution-connecting-wd-my-passport-ultra-to-windows-successfully/"><u>Unlock the Solution: Connecting WD My Passport Ultra to Windows Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-code-0x80070643-your-ultimate-fix-guide-for-windows-updates-and-installation-hiccups/"><u>Unraveling Code 0X80070643: Your Ultimate Fix Guide for Windows Updates and Installation Hiccups</u></a></li>
 </ul></div>
 

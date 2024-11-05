@@ -1,7 +1,7 @@
 ---
 title: How To Get Your Laptop's Touchpad Working Again - Easy Fixes!
-date: 2024-10-29T17:12:15.727Z
-updated: 2024-10-30T16:49:05.567Z
+date: 2024-10-31T20:41:24.636Z
+updated: 2024-11-04T16:45:53.548Z
 tags:
   - win11
   - win10
@@ -43,29 +43,22 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -81,16 +74,22 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -122,6 +121,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -135,13 +141,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -150,26 +149,27 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,24 +205,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-downloader-apps-youtube-videos-on-android-compared/"><u>[New] 2024 Approved Top Downloader Apps YouTube Videos on Android Compared</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-scanning-and-repairing-drive-stuck-issue-in-windows-11/"><u>[Solved] Scanning and Repairing Drive Stuck Issue in Windows 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-perfect-your-profile-easy-guide-for-instagram-videos-from-desktop/"><u>[Updated] 2024 Approved Perfect Your Profile Easy Guide for Instagram Videos From Desktop</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-articulating-emotion-on-stage-through-words/"><u>2024 Approved Articulating Emotion on Stage Through Words</u></a></li>
-<li><a href="https://common-error.techidaily.com/battleye-setup-issues-resolved-successful-configuration-guide/"><u>BattlEye Setup Issues Resolved: Successful Configuration Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-that-annoying-bright-crimson-hue-solutions-for-windows-11-users/"><u>Fixing That Annoying Bright Crimson Hue: Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-microsoft-wireless-display-adapter-connection-issues-in-windows-10/"><u>How to Fix Microsoft Wireless Display Adapter Connection Issues in Windows 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s17t-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S17t To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-sony-xperia-1-v-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Sony Xperia 1 V to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-say-goodbye-to-upside-down-videos-easy-flipping-hacks/"><u>New Say Goodbye to Upside-Down Videos Easy Flipping Hacks</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-windows-update-not-progressing-past-0/"><u>Quick Solutions for Windows Update Not Progressing Past 0%</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamlessly-accessing-vids-the-top-5-free-online-video-extractors/"><u>Seamlessly Accessing Vids The Top 5 Free Online Video Extractors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-your-mobile-identity-prevent-android-number-sharing-online/"><u>Secure Your Mobile Identity: Prevent Android Number Sharing Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-solving-bluetooth-pairing-issues-under-windows-11/"><u>The Ultimate Guide to Solving Bluetooth Pairing Issues Under Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-nonfunctional-laptop-mousepads-in-windows-operating-systems-solved/"><u>Troubleshooting Nonfunctional Laptop Mousepads in Windows Operating Systems (Solved)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-connecting-external-displays-to-a-mac/"><u>Troubleshooting Steps for Connecting External Displays to a Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-dealing-with-non-operational-gpu-integrated-modules/"><u>Troubleshooting Tips for Dealing With Non-Operational GPU Integrated Modules</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-pc-windows-11-compatible-rtx-2060-super-gpu-drivers/"><u>Update Your PC: Windows 11 Compatible RTX 2060 Super GPU Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/warframe-download-errors-demystified-successfully-updating-your-game/"><u>Warframe Download Errors Demystified – Successfully Updating Your Game</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-captivating-customer-revelation-for-2024/"><u>[New] Captivating Customer Revelation for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-decoding-srt-a-detailed-guide-for-file-format-conversions-for-2024/"><u>[Updated] Decoding SRT A Detailed Guide for File Format Conversions for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-approaches-to-efficiently-capture-and-save-your-screens-with-mobizen/"><u>[Updated] Innovative Approaches to Efficiently Capture and Save Your Screens with Mobizen</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-the-xerox-update-issue-causing-error-0x800f020b-in-windows/"><u>How to Correctly Address the Xerox Update Issue Causing Error 0X800F020B in Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-smart-8-hd-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Smart 8 HD FRP?</u></a></li>
+<li><a href="https://article-files.techidaily.com/jokejumper-generate-share-worthy-images-quickly-for-2024/"><u>JokeJumper Generate Share-Worthy Images Quickly for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-display-dilemma-effective-tactics-for-sharpening-blurry-text-on-windows-10/"><u>Resolve Your Display Dilemma: Effective Tactics for Sharpening Blurry Text on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-to-restore-internet-explorer-functionality/"><u>Step-by-Step Instructions to Restore Internet Explorer Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-runtime-brokers-high-cpu-problem-in-windows-11-effective-strategies-for-a-smooth-operation/"><u>Troubleshoot Runtime Broker's High CPU Problem in Windows 11: Effective Strategies for a Smooth Operation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-next-breakthrough-the-quest-for-an-ultimate-5g-app-beyond-just-speed-and-connection-zdnet/"><u>Uncovering the Next Breakthrough: The Quest for an Ultimate 5G App Beyond Just Speed and Connection | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-oppo-f23-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Oppo F23 5G fingerprint</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vlc-versus-mx-video-choice-showdown/"><u>VLC Versus MX Video Choice Showdown</u></a></li>
 </ul></div>
 

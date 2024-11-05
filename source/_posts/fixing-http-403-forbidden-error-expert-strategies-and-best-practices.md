@@ -1,7 +1,7 @@
 ---
 title: "Fixing HTTP 403 Forbidden Error: Expert Strategies and Best Practices"
-date: 2024-09-04T20:22:00.574Z
-updated: 2024-09-05T20:22:00.574Z
+date: 2024-10-31T21:55:45.887Z
+updated: 2024-11-05T08:57:27.509Z
 tags:
   - win11
   - win10
@@ -73,6 +73,19 @@ For details of system requirements of other games:
 
  Game developers always keep releasing patches to improve their games and fix any issues, so you should check for updates of your game in Steam or from the official website. Then install the latest patch to keep it up to date. This can fix your DirectX error.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics card driver
 
  A missing or outdated graphics card driver can cause your**DirectX encountered an unrecoverable error** . To rule it out as the cause for your problem, you should update your graphics card driver to the latest version.
@@ -91,14 +104,16 @@ For details of system requirements of other games:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c188ed304dbc.jpg)
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version for their driver (you can do this with the**FREE** version), then install it in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c188ef639182.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when your click**Update All** ).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -109,11 +124,12 @@ Now launch your game again to see if it fixes your problem.
  Still no changes? Don’t give up hope. There is something else you can do.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Upgrade DirectX version
 
  As this is an error about DirectX, it’s necessary to check whether the DirectX version meets the DirectX requirement for your game.
@@ -130,14 +146,16 @@ Now launch your game again to see if it fixes your problem.
 2. Type**dxdiag** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6d1c42af90.jpg)
 3. In the**System** tab of the**DirectX** **Dianostic** **Tool** , you can see the**DirectX** information in your computer.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c18c7dc5dff8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c18c7dc5dff8.jpg)
+
  Then see if the DirectX meets the DirectX requirement for the game. If not, you’ll need to upgrade the DirectX version on your computer.
 
 #### Step 3: Upgrade DirectX on your computer
@@ -148,12 +166,6 @@ Now launch your game again to see if it fixes your problem.
 
  After installing the latest Windows update or update package, restart your computer and try the game again to see if the error disappears.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Change the Display Scaling settings
 
  You can adjust the Display Scaling settings in your computer to fix your DirectX encountered an unrecoverable error.
@@ -166,18 +178,14 @@ Here’s what you need to do:
 2. Click**System** in the**Settings** pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc28f1e4f.jpg)
 3. In the**Display** section, ensure to select**100** % for**Scale** **and layout** .  
+
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
 4. Then Windows will apply the changes. Open the game again and see if your problem has been fixed.
 
@@ -187,6 +195,14 @@ Here’s what you need to do:
  Click**Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 2. Choose**100%** or**Smaller** for the size of text and other items on your screen, then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 3. Restart your computer to take effect.
 
@@ -196,12 +212,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -214,12 +224,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  So there you have it – the four effective methods to fix**DirectX encountered an unrecoverable error** . If you have any questions or suggestions, feel free to leave a comment below.
 
 * [Application Errors](https://tools.techidaily.com/drivereasy/download/)
@@ -231,8 +235,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +242,22 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-elevate-your-yi-4k-experience-with-key-add-ons/"><u>[New] In 2024, Elevate Your YI 4K Experience with Key Add-Ons</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-taste-titans-must-follow-culinary-creators-online/"><u>[Updated] Taste Titans Must-Follow Culinary Creators Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-advancing-photo-quality-on-snapchat-via-zoom/"><u>2024 Approved Advancing Photo Quality on Snapchat via Zoom</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>2024 Approved How to Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-visualize-freely-premium-no-cost-screen-capture-tools/"><u>2024 Approved Visualize Freely Premium No-Cost Screen Capture Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-common-setup-hurdles-in-directx-with-simple-corrections/"><u>Bypassing Common Setup Hurdles in DirectX with Simple Corrections</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/directive-approach-to-prevent-fake-outputs-in-machine-learning/"><u>Directive Approach to Prevent Fake Outputs in Machine Learning</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-resolving-freezing-issues-in-computers-and-mobile-devices/"><u>Expert Advice on Resolving Freezing Issues in Computers and Mobile Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-streamlined-video-download-from-linkedin-using-this-top-6-app-selection/"><u>In 2024, Streamlined Video Download From LinkedIn Using This Top 6 App Selection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-x-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone X in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208731117-microsoft-wireless-display-not-working-on-windows-11-heres-how-you-can-solve-it/"><u>Microsoft Wireless Display Not Working on Windows 11? Here’s How You Can Solve It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-10-audio-dysfunction-a-comprehensive-fix-guide/"><u>Overcoming Windows 10 Audio Dysfunction: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-user32dll-is-missing-dilemma-a-comprehensive-guide/"><u>Solving the 'User32.dll Is Missing' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tips-to-fix-your-pcs-update-error-code-0x8007001f-explained/"><u>Step-by-Step Tips to Fix Your PC's Update Error: Code 0X8007001f Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-support-expert-tips-to-get-your-hosted-network-running-smoothly/"><u>Windows 10 Support: Expert Tips to Get Your Hosted Network Running Smoothly</u></a></li>
+</ul></div>
 

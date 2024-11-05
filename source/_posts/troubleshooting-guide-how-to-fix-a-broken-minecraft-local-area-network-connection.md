@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix a Broken Minecraft Local Area Network Connection"
-date: 2024-10-25T16:33:15.236Z
-updated: 2024-10-30T16:56:00.413Z
+date: 2024-11-04T00:42:23.280Z
+updated: 2024-11-05T00:12:26.574Z
 tags:
   - win11
   - win10
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disable antivirus software
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
  Some antivirus software may block some features in Minecraft so that you can run into the LAN not working issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Update the network drivers
 
@@ -104,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Ensure every computer is connected to the same network
@@ -119,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/178e67f42d6ae355b4752027c9ad22197720cab14
 If this method doesn’t work for you, try other solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Ensure everyone is running the same version of Minecraft
 
@@ -140,19 +140,6 @@ If this method doesn’t work for you, try other solutions.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Ensure everyone has a single IP address
 
  If the computer is connected to the wired and wireless at the same time, it’ll have more than one IP address. This can cause the LAN not to work. So**ensure everyone has a single IP address** . It means everyone is connected to the wired or wireless.
@@ -160,6 +147,13 @@ If this method doesn’t work for you, try other solutions.
 If this method doesn’t work for you, try other methods.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Try a direct connect
 
@@ -173,16 +167,16 @@ If this method doesn’t work for you, try other methods.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260a9e41a12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Type ipconfig and press the Enter key on your keyboard** . Then you’ll get a list of information about the network.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260ad5f1c53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4)**Find the IPv4 Address** which usually means the IP address for that computer.
 
@@ -194,22 +188,16 @@ If this method doesn’t work for you, try other methods.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b667f112.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you see a screen like the one below, click the**Direct Connect** button then enter the IP address and the game port number.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b918466d.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this method doesn’t work for you, try other methods.
 
@@ -255,22 +243,17 @@ You also like…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-surface-book-pro-4-camera-not-working-on-windows-10/"><u>[Solved] Surface Book (Pro 4) Camera Not Working on Windows 10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bsplayer-9-pro-top-choice-for-streaming/"><u>[Updated] BSPlayer 9 Pro Top Choice for Streaming</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-hero5-black-meets-hero5-session-a-visual-verdict/"><u>[Updated] Hero5 Black Meets Hero5 Session – A Visual Verdict</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-reno-10-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo Reno 10 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-the-error-message-applicationexe-has-stopped-working/"><u>Effective Solutions for the Error Message 'Application.exe Has Stopped Working'</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-boot-problems-when-trying-to-reset-your-pc-on-windows-tenth-generation/"><u>How to Fix Boot Problems When Trying to Reset Your PC on Windows Tenth Generation</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-14-plus-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 14 Plus? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-shadows-and-highlights-for-text-depth-in-illustrator/"><u>In 2024, Shadows & Highlights for Text Depth in Illustrator</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-guide-for-windows-update-issue-error-0x800f0831/"><u>Quick Fix Guide for Windows Update Issue - Error 0X800f0831</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-repairing-damaged-device-drivers-instantly/"><u>Quick Solutions: Repairing Damaged Device Drivers Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-methods-to-restore-functionality-in-a-malfunctioning-dell-keyboard/"><u>Resolved: Methods to Restore Functionality in a Malfunctioning Dell Keyboard</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-bsod-issue-fixing-wdf01000sys-error-on-your-pc/"><u>Solving the BSOD Issue: Fixing 'WDF01000.SYS' Error on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-errcachemiss-in-chrome/"><u>Step-by-Step Guide to Fixing ERR_CACHE_MISS in Chrome</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/tailored-thumbnails-elevating-your-video-visibility-on-youtube/"><u>Tailored Thumbnails Elevating Your Video Visibility on YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transforming-trade-with-generative-ai-unveiling-5-key-strategies-revolutionizing-business-operations-zdnet/"><u>Transforming Trade with Generative AI: Unveiling 5 Key Strategies Revolutionizing Business Operations | ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/victory-vanished-sudden-crashes-during-gaming/"><u>Victory Vanished: Sudden Crashes During Gaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-optimization-tips-for-enhanced-gaming-experience/"><u>Windows 11 Optimization Tips for Enhanced Gaming Experience</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-depth-analysis-of-slomo-video-capture-tool/"><u>[New] In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elite-livestream-tools-and-solutions/"><u>2024 Approved Elite Livestream Tools & Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/digital-scribes-leading-screen-recorder-software-for-2024/"><u>Digital Scribes Leading Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-unfixable-tackling-alan-wake-expert-advice-players/"><u>Fixing the Unfixable? Tackling Alan Wake 지미클러스트 - Expert Advice Players</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-graphic-design-to-daily-use-ai-in-windows/"><u>From Graphic Design to Daily Use: AI in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-troubles-learn-to-resolve-inactive-letter-buttons-on-win-1011-systems/"><u>Keyboard Troubles? Learn to Resolve Inactive Letter Buttons on Win 10/11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-out-of-memory-in-red-dead-redemption-2-with-a-larger-page-file-solution/"><u>Overcome Out of Memory in Red Dead Redemption 2 with a Larger Page File Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dxgkrnl-fatal-error-in-videos-on-windows-a-step-by-step-guide/"><u>Solving the Dxgkrnl Fatal Error in Videos on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transferring-your-music-from-phone-to-cars-aux-using-a-usb-connection/"><u>Step-by-Step Guide: Transferring Your Music From Phone to Car's AUX Using a USB Connection</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-non-responsive-usb-mouse-solutions-for-laptops/"><u>Troubleshooting Your Non-Responsive USB Mouse: Solutions for Laptops!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-pioneers-bdr-xs06-blu-ray-disc-burner-a-balance-of-convenience-and-functionality/"><u>Ultimate Guide to Pioneer's BDR-XS06 Blu-Ray Disc Burner - A Balance of Convenience & Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac553-yamahaaturbosound-ii-sound-module-based-on-the-ymf794cymu794c-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of18/"><u>YAC553 - Yamaha'aturboSound II Sound Module Based on the YMF794C/YMU794C (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[WARN] Missing MSVCR120.dll on Windows 11/10"
-date: 2024-10-29T18:18:01.413Z
-updated: 2024-10-30T17:39:22.064Z
+date: 2024-11-01T21:48:30.151Z
+updated: 2024-11-05T05:19:46.296Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 5. [Convert video format](#f5)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Change the media player
@@ -60,22 +60,15 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 4. Click**Organize > Options…**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/media-3.jpg)
 5. Click the**Player** tab. Check**Download codecs automatically** under Automatic updates.
 6. Try to play the video again.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update the display adapter driver
 
@@ -98,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-uhd-630-graphics.jpg)
@@ -125,27 +125,41 @@ You can try it for free! And here’s how:
 4. Click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stellar-repair-for-video-3.jpg)
 5. Then you can click**Preview** to watch the repaired video. If you can see the preview, activate the software to save the repaired file.  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stellar-repair-for-video-4.jpg)
 6. If you can’t see the preview, click**Advance Repair** to repair the severely corrupted file.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stellar-repair-for-video-5.jpg)
 
  Once the video file is repaired and saved, open the video to watch, it should play perfectly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Convert video format
 
@@ -160,13 +174,6 @@ Follow these steps to convert videos quickly and easily:
 3. Click the **Video**  button and import your file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/1.png)
 4. Once the file is uploaded, choose **General Profiles** and choose the video format you want. Then click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/12.png)
 5. Choose the folder to save the file, then click **RUN** .  
@@ -191,22 +198,21 @@ Follow these steps to convert videos quickly and easily:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-reimagine-your-visuals-three-effective-techniques-for-backdrop-alteration-on-tiktok/"><u>[New] Reimagine Your Visuals Three Effective Techniques for Backdrop Alteration on TikTok</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-bring-your-library-to-life-in-inshot-app/"><u>[Updated] Bring Your Library to Life in InShot App</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-visual-perfection-through-quantum-hdr-techniques-for-2024/"><u>[Updated] Visual Perfection Through Quantum HDR Techniques for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a1x-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A1x 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-glitch-successfully-turn-off-your-computer-running-windows-11-now-solved/"><u>Beat the Glitch: Successfully Turn Off Your Computer Running Windows 11 – Now Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/decode-error-0x80072f8f-and-restore-your-system-with-these-fixes-for-windows-11-and-10/"><u>Decode Error 0X80072F8F and Restore Your System with These Fixes for Windows 11 & 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0x800f081f-troubleshooting-during-your-net-framework-35-installation-journey/"><u>Error Code 0X800F081F Troubleshooting During Your .NET Framework 3.5 Installation Journey</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-respond-when-google-chrome-becomes-non-responsive-quick-reload-options/"><u>How to Respond When Google Chrome Becomes Non-Responsive: Quick Reload Options</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-avi-to-gif-transformation-using-filmora-for-both-oses/"><u>In 2024, The Ultimate Guide to AVI-to-GIF Transformation Using Filmora for Both OSes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-success-stories-adopting-viral-techniques-from-tiktok-for-2024/"><u>Instagram Success Stories Adopting Viral Techniques From TikTok for 2024</u></a></li>
-<li><a href="https://techidaily.com/1723808074120-mastering-the-art-of-playing-minecraft-without-wifi-tips-and-steps-for-windows-11-users/"><u>Mastering the Art of Playing Minecraft Without WiFi: Tips and Steps for Windows 11 Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/samsung-gear-360-replacements-latest-innovations-in-camera-tech-for-2024/"><u>Samsung Gear 360 Replacements Latest Innovations in Camera Tech for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/seamless-guide-on-transferring-dvd-content-from-disc-to-portable-usb-player/"><u>Seamless Guide on Transferring DVD Content From Disc to Portable USB Player</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-windows-update-error-code-0x802e401c-on-windows-11-a-comprehensive-guide/"><u>Solving the Windows Update Error Code 0X802e401C on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-error-code-0xc0000098/"><u>Troubleshooting Guide: Resolving Windows Error Code 0xC0000098</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-the-fix-for-failed-teredo-network-support/"><u>Understanding the Fix for Failed Teredo Network Support</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207168446-update-complete-overcoming-the-halt-in-32-bit-applications-printer-connection/"><u>Update Complete: Overcoming the Halt in 32-Bit Application's Printer Connection!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-powerdirector-unveiled-in-depth-review-and-users-handbook/"><u>[New] PowerDirector Unveiled In-Depth Review & User's Handbook</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-kernel-power-41-critical-error-on-windows-1110/"><u>[Solved] Kernel Power 41 Critical Error on Windows 11/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-could-not-connect-to-the-system-event-notification-service-service/"><u>[SOLVED] Windows Could Not Connect to the System Event Notification Service Service</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-basic-screenshot-toolkit-for-windows-10/"><u>[Updated] Basic Screenshot Toolkit for Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-blitz-photograph-examiner-windows-edition/"><u>[Updated] Blitz Photograph Examiner - Windows Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-integrate-titles-and-descriptions-into-your-youtube-video/"><u>[Updated] In 2024, How to Integrate Titles and Descriptions Into Your YouTube Video</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unlock-the-power-of-periscope-your-complete-manual/"><u>2024 Approved Unlock the Power of Periscope Your Complete Manual</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analysis-of-sea-techs-exterior-usb-blu-ray-burner-reviewing-the-fluctuating-performance-levels/"><u>Analysis of Sea Tech's Exterior USB Blu-Ray Burner: Reviewing the Fluctuating Performance Levels</u></a></li>
+<li><a href="https://common-error.techidaily.com/cutdown-high-cpu-usage-in-windows-wmis/"><u>Cutdown High CPU Usage in Windows WMIs</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-aoc-computer-monitor-up-and-running-again-on-windows-11-devices/"><u>Getting Your AOC Computer Monitor Up and Running Again on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-and-prevent-disk-read-issues-on-windows-solved-guide/"><u>How to Successfully Resolve and Prevent Disk Read Issues on Windows ([Solved] Guide)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-google-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Google Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/in-depth-guide-to-restoring-response-in-stuck-l2r2-pads-a-gamers-resource/"><u>In-Depth Guide to Restoring Response in Stuck L2/R2 Pads: A Gamer’s Resource</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-at-claude-pro-versus-enhanced-chatgptplus/"><u>Inside Look at Claude Pro Versus Enhanced ChatGPT+</u></a></li>
+<li><a href="https://common-error.techidaily.com/win-11-and-chrome-woes-heres-how-you-can-overcome-the-plugin-loading-error-effortlessly/"><u>Win 11 and Chrome Woes? Here’s How You Can Overcome the Plugin Loading Error Effortlessly</u></a></li>
 </ul></div>
 

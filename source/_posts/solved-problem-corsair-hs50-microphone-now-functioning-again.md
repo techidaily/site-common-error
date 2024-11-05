@@ -1,7 +1,7 @@
 ---
 title: "Solved Problem: Corsair HS50 Microphone Now Functioning Again"
-date: 2024-10-24T16:13:21.675Z
-updated: 2024-10-30T17:44:11.805Z
+date: 2024-10-29T04:49:30.731Z
+updated: 2024-11-05T05:25:10.468Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f901
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -63,10 +70,10 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -86,23 +93,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -119,15 +112,28 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -161,24 +167,19 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-enhancing-speed-and-stability-more-ram-for-minecraft/"><u>[New] Enhancing Speed & Stability More RAM For Minecraft</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-evolution-of-video-from-sdr-to-the-era-of-high-dynamic-range/"><u>[New] The Evolution of Video From SDR to the Era of High Dynamic Range</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-cutting-edge-cameras-top-15-picks-innovation/"><u>[Updated] In 2024, Cutting-Edge Cameras Top 15 Picks Innovation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-go-beyond-basic-10-advanced-whatsapp-tips-and-tricks-you-must-try/"><u>[Updated] In 2024, Go Beyond Basic 10 Advanced WhatsApp Tips and Tricks You Must Try</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-step-by-step-aspect-ratio-guide-for-youtube-creators/"><u>2024 Approved A Step-by-Step Aspect Ratio Guide for YouTube Creators</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-and-correcting-the-cyclic-redundancy-check-error-in-datasets/"><u>Deciphering and Correcting the Cyclic Redundancy Check Error in Datasets</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-correcting-the-error-during-install-in-win-11-update-0x80240034/"><u>Expert Advice on Correcting the 'Error During Install' In Win 11 Update 0X80240034</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-handling-unavailable-dhcp-servers-get-connected-again/"><u>Expert Advice on Handling Unavailable DHCP Servers - Get Connected Again!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/free-amd-radeon-vega-3-2024-driver-download/"><u>Free AMD Radeon Vega 3 2024 Driver Download</u></a></li>
-<li><a href="https://fox-http.techidaily.com/fundamental-skills-for-creating-persuasive-client-centered-testimonials/"><u>Fundamental Skills for Creating Persuasive Client-Centered Testimonials</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-correct-audio-renderer-problems-on-youtube-with-windows-11/"><u>How to Troubleshoot and Correct Audio Renderer Problems on YouTube with Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-error-resolution-a-comprehensive-guide-on-windows-network-error-0x800704cf/"><u>Mastering Error Resolution: A Comprehensive Guide on Windows Network Error 0X800704cf</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-slow-motion-photography-techniques-for-instagram-posts/"><u>Mastering Slow Motion Photography Techniques for Instagram Posts</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-deformed-mp4-media-on-mobile-devices/"><u>Restoring Deformed MP4 Media on Mobile Devices</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-downloading-and-setting-up-hp-deskjet-2600-drivers-on-win-7-8-or-10/"><u>Step-by-Step Guide to Downloading and Setting Up HP Deskjet 2600 Drivers on Win 7, 8 or 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-the-persistent-error-0x8024401c-during-windows-updates-on-windows-11/"><u>Step-by-Step Solutions for the Persistent Error 0X8024401C During Windows Updates on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-restoring-windows-10-stability-using-sfc-and-dism-functions/"><u>The Ultimate Guide to Restoring Windows 10 Stability Using SFC and DISM Functions</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-cant-i-reach-my-fixed-windows-smartscreen-expert-advice-and-solutions/"><u>Why Can't I Reach My [FIXED] Windows SmartScreen? Expert Advice & Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-ps4-so-loud-diagnosing-and-resolving-the-issue-efficiently/"><u>Why Is My PS4 So Loud? Diagnosing & Resolving the Issue Efficiently</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-evaluating-color-accuracy-the-srgb-alternative-to-rgb-for-2024/"><u>[New] Evaluating Color Accuracy The Srgb Alternative to Rgb for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-virtual-ventures-top-tech-for-immersive-experiences-for-2024/"><u>[New] Virtual Ventures Top Tech for Immersive Experiences for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-tips-for-mastering-color-grading-via-3d-luts-in-photoshop/"><u>[Updated] Advanced Tips for Mastering Color Grading via 3D LUTs in Photoshop</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-smartphone-list-for-optimal-gear-vr-functionality-2-written-by-john-doe-mba-expert-in-strategic-business-planning-and-marketing/"><u>[Updated] The Ultimate Smartphone List for Optimal Gear VR Functionality (2 Written By John Doe, MBA | Expert in Strategic Business Planning and Marketing</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-ways-to-repair-and-resolve-error-0xc0000098-on-your-pc-running-windows/"><u>Easy Ways to Repair and Resolve Error 0xC0000098 on Your PC Running Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fix-for-system-error-0x887a0006-detailed-walkthrough/"><u>Effortless Fix for System Error 0X887A0006 Detailed Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-repairing-a-malfunctioning-logitech-mouse-wheel/"><u>Expert Tips on Repairing a Malfunctioning Logitech Mouse Wheel</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-common-issues-troubleshooting-a-non-functional-corsair-keyboard/"><u>Fixing Common Issues: Troubleshooting a Non-Functional Corsair Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-address-the-werfaultexe-application-failure-on-your-pc-6-methods-unveiled/"><u>How to Quickly Address the werFault.exe Application Failure on Your PC: 6 Methods Unveiled</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-fight-night-on-nintendo-switch-top-ten-picks/"><u>In 2024, Fight Night on Nintendo Switch - Top Ten Picks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-vector-editing-without-acid-pro/"><u>Mastering Vector Editing without ACID Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/professional-graphics-with-asus-pa32u-true-to-color/"><u>Professional Graphics with ASUS PA32U True to Color</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-nw-7s-audio-service-issues-a-step-by-step-guide/"><u>Resolving Windows Nw 7'S Audio Service Issues - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

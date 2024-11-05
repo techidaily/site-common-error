@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Resolve OBS Game Capture's Unwanted Black Display Problem"
-date: 2024-10-29T18:12:24.853Z
-updated: 2024-10-30T16:06:27.362Z
+date: 2024-10-29T09:47:39.275Z
+updated: 2024-11-05T04:17:32.619Z
 tags:
   - win11
   - win10
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
  If network connection is not where the problem is, try the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Run your game as administrator
@@ -63,16 +63,16 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
@@ -111,6 +111,13 @@ OR
 
 If this doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Reinstall Valorant
 
  Install files of Valorant may somehow become corrupted in your computer and could not function properly, leading to the infinite loading error. So to get new and intact Install files, you should uninstall the Valorant from your computer first and then reinstall it.
@@ -123,23 +130,23 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Delete Manifest txt files
@@ -150,19 +157,6 @@ If this doesn’t solve your problem, move on to the next fix.
 2. Right-click the**Manifest\_DebugFiles\_Win64** and**Manifest\_NonUFSFiles\_Win64** and select**Delete** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/delete-manifest1-3.jpg)
 3. Open Valorant to see if this fix helps you load in the game successfully.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -186,19 +180,15 @@ If this doesn’t solve your problem, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hiring-heroes-the-most-motivating-vids-of-the-year-1-10-for-2024/"><u>[Updated] Hiring Heroes The Most Motivating Vids of the Year #1-10 for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-winning-strategies-for-youtube-seo-titles-and-descriptions-for-2024/"><u>[Updated] Winning Strategies for YouTube SEO Titles & Descriptions for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-edge-advanced-photo-editing-strategies/"><u>2024 Approved Instagram Edge Advanced Photo Editing Strategies</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-cream-of-the-crop-best-5-sharp-edged-displays/"><u>2024 Approved The Cream of the Crop Best 5 Sharp-Edged Displays</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oneplus-11-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset OnePlus 11 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-repair-tips-overcoming-dxgkrnl-catastrophic-errors-on-windows-machines/"><u>DIY Repair Tips: Overcoming Dxgkrnl Catastrophic Errors on Windows Machines</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/estimating-a-20mb-videoclip-duration-for-2024/"><u>Estimating a 20MB Videoclip Duration for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-defy-2-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Motorola Defy 2</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-performance-fixing-excessive-disk-utilization-caused-by-compatibility-telemetry-in-windows-10/"><u>Optimizing Performance: Fixing Excessive Disk Utilization Caused by Compatibility Telemetry in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208830096-retrieve-and-repair-missing-steam-game-files-expert-solutions-now-available/"><u>Retrieve and Repair Missing Steam Game Files - Expert Solutions Now Available!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-typing-troubles-with-ease-fixing-a-broken-spacebar-on-windows-11-systems/"><u>Solve Typing Troubles with Ease: Fixing a Broken Spacebar on Windows 11 Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-steams-fatal-error-unable-to-communicate-with-client/"><u>Troubleshooting Guide for Steam’s 'Fatal Error': Unable to Communicate with Client</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-troubleshooting-using-system-file-checker-sfc-and-deployment-image-servicing-and-management-dism/"><u>Windows 10 Troubleshooting: Using System File Checker (SFC) and Deployment Image Servicing and Management (DISM)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlock-fb-lite-content-discover-the-best-video-downloader-apps-for-2024/"><u>[New] Unlock FB Lite Content Discover the Best Video Downloader Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cut-down-clutter-how-to-efficiently-handle-unwanted-youtube-content-pcmobile/"><u>[Updated] In 2024, Cut Down Clutter How to Efficiently Handle Unwanted YouTube Content (PC/Mobile)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-innovative-strategies-for-effective-live-webcam-recording/"><u>[Updated] Innovative Strategies for Effective Live Webcam Recording</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-hot-40i-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Hot 40i to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-4-variants-showdown-exploring-differences-between-gpt-4-turbo-and-o-models/"><u>GPT-4 Variants Showdown: Exploring Differences Between GPT-4, Turbo & O Models</u></a></li>
+<li><a href="https://common-error.techidaily.com/integrating-windows-hello-with-appropriate-camera/"><u>Integrating Windows Hello With Appropriate Camera</u></a></li>
+<li><a href="https://common-error.techidaily.com/reset-or-refresh-a-beginners-guide-to-reviving-windows-10/"><u>Reset or Refresh - A Beginner's Guide to Reviving Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-initialization-issue-with-renderer-updated-solution-2021/"><u>Resolved: Initialization Issue with Renderer (Updated Solution, 2021)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210198728-9781631598432-the-magical-writing-grimoire/"><u>The Magical Writing Grimoire | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203614301-trouble-with-camera-on-windows-overcome-error-0xa00f4292-here/"><u>Trouble with Camera on Windows? Overcome Error 0xA00F4292 Here!</u></a></li>
 </ul></div>
 

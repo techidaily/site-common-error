@@ -1,7 +1,7 @@
 ---
 title: "Corsair HS50 Headset Mic Fault: Troubleshooting & Fixes"
-date: 2024-10-27T16:23:20.503Z
-updated: 2024-10-30T17:33:45.366Z
+date: 2024-11-02T17:58:53.435Z
+updated: 2024-11-05T03:27:19.659Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/a964a317c56bb2fa6b9be32620f4927922fc956f5
 
  If network connection is not where the problem is, try the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Run your game as administrator
 
  In some cases, the game can’t be opened properly because it lacks higher permission from your PC, so try running Valorant as administrator is a possible method to solve the infinite loading problem.
@@ -52,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/a964a317c56bb2fa6b9be32620f4927922fc956f5
 1. Right-click the**VALORANT icon** and select**Properties** at the button of the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-open-file-location.jpg)
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
@@ -92,13 +92,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
@@ -108,10 +101,10 @@ OR
 If this doesn’t solve your problem, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Reinstall Valorant
@@ -122,29 +115,42 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-settings-apps.jpg)
 2. Find**Valorant** from the Apps & features list and click on it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Appsfeatures-1.jpg)
 3. Click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Delete Manifest txt files
 
@@ -177,24 +183,17 @@ If this doesn’t solve your problem, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-idevice-based-youtube-content-sharing/"><u>[New] 2024 Approved Guide to iDevice-Based YouTube Content Sharing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-expert-tips-for-efficient-use-of-movie-maker-in-windows-8/"><u>[New] Expert Tips for Efficient Use of Movie Maker in Windows 8</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-leading-5-goggles-for-optimal-drone-pilot-viewing-for-2024/"><u>[New] Leading 5 Goggles for Optimal Drone Pilot Viewing for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-revenue-how-to-profit-from-youtube-short-videos/"><u>[Updated] 2024 Approved Unlocking Revenue How to Profit From YouTube Short Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-gifify-it-free-method-for-twitter-videos/"><u>[Updated] Gifify It Free Method for Twitter Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-level-action-recording-on-a-students-budget/"><u>2024 Approved Professional-Level Action Recording on a Student's Budget</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/aligning-screen-borders-uniformly/"><u>Aligning Screen Borders Uniformly</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/how-to-fix-windows-11-update-stuck-on-99-a-comprehensive-troubleshooting-manual/"><u>How to Fix Windows 11 Update Stuck on 99% - A Comprehensive Troubleshooting Manual</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-lenovos-function-key-fn-operability-quickly-and-effortlessly/"><u>How to Restore Lenovo's Function Key (Fn) Operability Quickly & Effortlessly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-premiere-smart-goggles-craftsmen/"><u>In 2024, Premiere Smart Goggles Craftsmen</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-server-is-unavailable-top-4-dns-troubleshooting-steps/"><u>Resolving 'Server Is Unavailable': Top 4 DNS Troubleshooting Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-network-issue-code-0x80n0704cf-a-step-by-step-guide/"><u>Solving Windows Network Issue Code 0X80n0704CF: A Step-by-Step Guide</u></a></li>
-<li><a href="https://solve-info.techidaily.com/step-by-step-tutorial-installing-windows-11-on-an-nvme-ssd/"><u>Step-by-Step Tutorial: Installing Windows 11 on an NVMe SSD</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-volume-is-dirty-issue-overcoming-error-0x80071ac3/"><u>Troubleshooting 'Volume Is Dirty' Issue – Overcoming Error 0X80071AC3</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-microsoft-compatibility-telemetry-tackling-skyrocketing-disk-space-use-in-windows-11/"><u>Troubleshooting Microsoft Compatibility Telemetry: Tackling Skyrocketing Disk Space Use in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-right-click-issue-on-your-mouse-in-windows-11/"><u>Troubleshooting the Right-Click Issue on Your Mouse in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-windows-10-device-automatically-starting-troubleshooting-tips/"><u>Why Is My Windows 10 Device Automatically Starting? Troubleshooting Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-system-preferences-now-managed-corporately-issue-fixed/"><u>Windows System Preferences Now Managed Corporately - Issue Fixed</u></a></li>
-<li><a href="https://common-error.techidaily.com/xbox-one-headset-malfunction-heres-your-ultimate-fix-guide/"><u>Xbox One Headset Malfunction? Here's Your Ultimate Fix Guide!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-simple-routines-for-capturing-and-saving-vimeo-videos/"><u>[New] 2024 Approved Simple Routines for Capturing and Saving Vimeo Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-choices-high-quality-free-screen-recorder-software/"><u>[Updated] Premier Choices High-Quality Free Screen Recorder Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-to-overcome-incomplete-windows-updates/"><u>Easy Solutions to Overcome Incomplete Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-troubleshooting-steps-for-repairing-your-lenovos-malfunctioning-fingerprint-scanner/"><u>Easy Troubleshooting Steps for Repairing Your Lenovo's Malfunctioning Fingerprint Scanner</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208725532-google-chrome-blackout-heres-how-to-restore-your-browsers-display/"><u>Google Chrome Blackout? Here's How to Restore Your Browser's Display!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-correcting-malfunction-in-realteks-rtl8811au-drivers/"><u>Guide to Correcting Malfunction in Realtek's RTL8811AU Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-honor-90-lite-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor 90 Lite in Minutes | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/identifying-and-rectifying-self-starting-behavior-on-your-windows-10-device/"><u>Identifying & Rectifying Self-Starting Behavior on Your Windows 10 Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-your-streams-youtube-buffer-in-chromesafari/"><u>In 2024, Master Your Streams YouTube Buffer in Chrome/Safari</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msda80dll-in-your-system-do-you-need-to-retain-it/"><u>The Role of MSDA80.DLL in Your System - Do You Need to Retain It?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-picks-unleash-creativity-with-free-text-visualizers-online/"><u>Top Picks Unleash Creativity with Free Text Visualizers Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/whatsapp-functionalities-stay-unaltered-with-policy-non-compliance/"><u>WhatsApp Functionalities Stay Unaltered with Policy Non-Compliance</u></a></li>
 </ul></div>
 

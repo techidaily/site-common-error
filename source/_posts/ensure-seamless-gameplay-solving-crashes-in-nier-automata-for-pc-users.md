@@ -1,7 +1,7 @@
 ---
 title: "Ensure Seamless Gameplay: Solving Crashes in Nier: Automata for PC Users"
-date: 2024-10-28T18:12:24.580Z
-updated: 2024-10-30T17:03:44.954Z
+date: 2024-10-29T16:10:13.283Z
+updated: 2024-11-05T09:14:15.598Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of**Nier Automata** will keep releasing game patches to fix bugs. You can install the latest patch which may have triggered this issue.
@@ -75,13 +82,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
  After installing the latest game patch, run Nier Automata to see if the issue has been resolved. If this issue still there, or there’s no new game patch released, move to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update or reinstall your drivers**
 
@@ -103,10 +103,16 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 4. Restart your computer, and see if the problem is fixed or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Option 2–Manually**
@@ -116,13 +122,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
@@ -136,6 +135,14 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “devmgmt.msc” and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 5. Restart your computer, and see if the problem is fixed or not.
@@ -150,6 +157,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -158,23 +172,16 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -198,15 +205,24 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-decoding-the-realm-key-dichotomies-in-mr-ar-and-vr/"><u>[Updated] 2024 Approved Decoding the Realm Key Dichotomies in MR, AR, & VR</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-become-a-youtube-gif-wizard-your-complete-online-transformation-tutorial/"><u>[Updated] Become a Youtube Gif Wizard Your Complete Online Transformation Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206670426-audio-problem-on-youtube-for-windows-11-heres-how-you-can-solve-it/"><u>Audio Problem on YouTube for Windows 11? Here’s How You Can Solve It</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-civi-3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Civi 3 FRP Bypass</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-undercover-instagram-story-experience-top-5-tools/"><u>In 2024, Undercover Instagram Story Experience, Top 5 Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Zero 5G 2023 Turbo</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-game-inactivity-pc-breaks-during-playtime/"><u>In-Game Inactivity: PC Breaks During Playtime</u></a></li>
-<li><a href="https://common-error.techidaily.com/proven-methods-for-overcoming-internet-explorer-has-stopped-working-glitches/"><u>Proven Methods for Overcoming 'Internet Explorer Has Stopped Working' Glitches</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/reformat-and-rename-macs-image-file-transformation/"><u>Reformat and Rename Mac's Image File Transformation</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206513015-revive-windows-1011-acer-laptop-keys-please/"><u>Revive Windows 10/11 Acer Laptop Keys, Please</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-low-cost-high-impact-spherical-videography-devices-for-2024/"><u>[New] Low Cost, High Impact Spherical Videography Devices for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premier-live-chat-platforms-for-virtual-gatherings/"><u>[New] Premier Live-Chat Platforms for Virtual Gatherings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-role-and-function-of-slug-lines/"><u>[New] The Role and Function of Slug Lines</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-art-of-clearing-youtubes-stored-videos/"><u>[Updated] Mastering the Art of Clearing YouTube's Stored Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-audio-adjustment-on-youtube-devices/"><u>2024 Approved Mastering Audio Adjustment on YouTube Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-smartphone-browser-showdown-youtube-app-analysis/"><u>2024 Approved Smartphone Browser Showdown YouTube App Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-versions-of-windows-cuttingediting-programs/"><u>2024 Approved Versions of Windows Cutting/Editing Programs</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-fixes-for-no-such-interface-supported-error/"><u>5 Fixes for No Such Interface Supported Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-the-reason-behind-spontaneous-windows-11-bootups-a-comprehensive-guide/"><u>Deciphering the Reason Behind Spontaneous Windows 11 Bootups - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-651-on-windows-heres-how-to-easily-correct-it/"><u>Error 651 on Windows? Here's How to Easily Correct It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-system-refreshes-on-windows-11-strategies-to-correct-the-there-was-a-problem-message/"><u>Error-Free System Refreshes on Windows 11: Strategies to Correct the 'There Was a Problem' Message</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-oddworld-soulstorm-game-on-pc-troubleshooting-tips-for-a-smooth-experience/"><u>Fix Your Oddworld: Soulstorm Game on PC - Troubleshooting Tips for a Smooth Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/liberate-your-files-top-picks-for-20-free-cloud-storage-options-up-to-1tb-for-2024/"><u>Liberate Your Files Top Picks for 20 FREE Cloud Storage Options (Up To 1TB) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-master-the-art-of-keyboard-resets-and-troubleshooting/"><u>Quick Fixes: Master the Art of Keyboard Resets and Troubleshooting</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-driver-power-state-errors-a-comprehensive-guide/"><u>Resolving Windows Driver Power State Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roller-champs-multiplayer-mastery-2024-pc-adventure-top-tactics-and-insider-secrets-revealed/"><u>Roller Champs Multiplayer Mastery: 2024 PC Adventure - Top Tactics and Insider Secrets Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-repairing-your-amd-hd-audio-connection-issues/"><u>Troubleshooting Guide: Repairing Your AMD HD Audio Connection Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-steelseries-x70-keyboard-solving-pen-not-responding-issues-comprehensive-guide/"><u>Ultimate Troubleshooting SteelSeries X70 Keyboard: Solving 'Pen Not Responding' Issues (Comprehensive Guide)</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-to-prevent-frequent-reboots-in-your-windows-11-system/"><u>Ultimate Troubleshooting Tips to Prevent Frequent Reboots in Your Windows 11 System</u></a></li>
 </ul></div>
 

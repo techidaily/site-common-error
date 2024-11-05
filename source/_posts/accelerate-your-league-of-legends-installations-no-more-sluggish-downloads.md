@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your League of Legends Installations: No More Sluggish Downloads"
-date: 2024-10-28T16:17:23.712Z
-updated: 2024-10-30T16:35:31.382Z
+date: 2024-11-01T11:04:03.128Z
+updated: 2024-11-05T11:34:36.377Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ League of Legends is a world popular game, but the slow download speed can easil
 3. In the file, find the**LOL Launcher.exe** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Right-click on it and click**Run as administrator** .
@@ -75,15 +75,22 @@ Downloading again to see if it works.
 2. Click**Turn Windows Defender Firewall on or off** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -92,13 +99,6 @@ Re-download to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Manually install .NET framework 3.5
 
  .NET Framework is a software that runs on Microsoft Windows. It is one of the key software which League of Legends relies on. If nothing wrong with the game, the issue might be related to Microsoft .NET Framework.
@@ -106,6 +106,13 @@ Re-download to check.
  So you can[download](https://www.microsoft.com/en-sg/download/details.aspx?id=21) and install the framework to solve the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
 
@@ -138,13 +145,6 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -171,22 +171,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-perfecting-picture-in-picture-setup-with-youtube-on-ios/"><u>[New] Perfecting Picture-in-Picture Setup with YouTube on iOS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-digital-divide-demystifying-virtualitys-kin-mr-ar-and-vr/"><u>[Updated] In 2024, The Digital Divide Demystifying Virtuality's Kin (MR, AR, & VR)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/clearing-out-custom-suggestions-for-you-on-your-instagram-profile/"><u>Clearing Out Custom 'Suggestions for You' On Your Instagram Profile</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-to-overcoming-stop-error-0x0000005-on-your-pc-solutions-and-prevention/"><u>Complete Guide to Overcoming STOP Error 0X0000005 on Your PC: Solutions & Prevention</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-solved-how-to-overcome-problem-224003-video-playback-failure-issues/"><u>Error Solved: How to Overcome Problem 224003 - Video Playback Failure Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-repairing-the-error-that-prevents-microsoft-store-from-launching-correctly/"><u>Expert Advice on Repairing the Error That Prevents Microsoft Store From Launching Correctly</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/glow-up-your-studio-with-aggressive-limokit/"><u>Glow Up Your Studio with Aggressive LimoKit</u></a></li>
-<li><a href="https://blog-min.techidaily.com/halloween-celebration-winxdvds-spooky-prize-contest-2023/"><u>Halloween Celebration: WinXDVD's Spooky Prize Contest 2023</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-ensure-smooth-sailing-through-city-skylines-dealing-with-crashes-and-bugs/"><u>How to Ensure Smooth Sailing Through City Skylines - Dealing with Crashes and Bugs</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207483951-how-to-tackle-dota-2s-modify-graphics-api-error-message-2024-in-minutes/"><u>How to Tackle Dota 2'S 'Modify Graphics API' Error Message 2024 in Minutes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-windows-graphics-the-top-9-tools-for-capturing-animation-gifs/"><u>Mastering Windows Graphics The Top 9 Tools for Capturing Animation GIFs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-3gp-avi/"><u>Movavi: 무료 3GP, AVI 바이트 제거로 인터넷에서 비동기 영상 직물을 변환하기 - 전통적인 방법보다</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210857183-resolve-windows-file-access-issues-no-more-errors/"><u>Resolve Windows File Access Issues: No More Errors!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-non-functioning-night-light-on-windows-10-and-11-operating-systems/"><u>Solution Steps for Non-Functioning 'Night Light' On Windows 10 and 11 Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-sticky-keyboard-keys-in-windows-pcs/"><u>Troubleshooting and Fixing Sticky Keyboard Keys in Windows PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-windows-0xc0000005-system-errors/"><u>Troubleshooting and Solutions for Windows 0Xc0000005 System Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-iphone-mtp-connection-problems-and-solving-usb-driver-issues/"><u>Troubleshooting iPhone MTP Connection Problems and Solving USB Driver Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-crafting-the-ideal-drone-lipo-energy-allies/"><u>[New] 2024 Approved Crafting the Ideal Drone - LiPo Energy Allies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-melodic-content-and-legalities-on-insta-for-2024/"><u>[New] Melodic Content and Legalities on Insta for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-full-guide-mastery-of-adobe-cloud-services-with-alternatives-analysis-for-2024/"><u>[Updated] Full Guide Mastery of Adobe Cloud Services with Alternatives Analysis for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtube-live-pro-tips-outfitting-with-excellent-webcams/"><u>2024 Approved YouTube Live Pro Tips Outfitting with Excellent Webcams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/advanced-techniques-for-using-live-photos-in-mobile-devices-for-2024/"><u>Advanced Techniques for Using Live Photos in Mobile Devices for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/conclusion-drivers-dont-support-opengl/"><u>Conclusion: Drivers Don't Support OpenGL</u></a></li>
+<li><a href="https://common-error.techidaily.com/endgame-interruptions-fixing-pc-pauses-on-the-go/"><u>Endgame Interruptions: Fixing PC Pauses On-the-Go</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unavailable-steamapi64-dll-in-game/"><u>Fixing Unavailable Steam_api64 DLL in Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-diagnose-and-fix-screen-fluctuations-in-windows-10-environment/"><u>Guide to Diagnose and Fix Screen Fluctuations in Windows 10 Environment</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Ace 2 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-video-posting-on-twitter-and-tumblr-connection/"><u>In 2024, Video Posting on Twitter and Tumblr Connection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-itel-s23plus-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Itel S23+ Phone? Unlock It Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-how-to-successfully-power-off-your-computer-running-windows-11/"><u>Quick Fix: How to Successfully Power Off Your Computer Running Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-airpods-microphone-problems-in-windows-11/"><u>Solve Your AirPods Microphone Problems in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-windows-update-failed-with-code-0x80070643/"><u>Step-by-Step Fix for Windows Update Failed with Code 0X80070643</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-fixing-disconnected-remote-servers/"><u>Step-by-Step Solutions for Fixing Disconnected Remote Servers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-rapid-ascension-of-scroll-bars-in-windows-11s-file-explorer-a-complete-guide/"><u>Troubleshooting the Rapid Ascension of Scroll Bars in Windows 11'S File Explorer: A Complete Guide</u></a></li>
 </ul></div>
 

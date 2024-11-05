@@ -1,7 +1,7 @@
 ---
 title: Navigating the Approval Process with TrustedInstaller for File Alterations
-date: 2024-09-04T20:21:57.446Z
-updated: 2024-09-05T20:21:57.446Z
+date: 2024-10-29T02:20:32.591Z
+updated: 2024-11-05T09:24:24.318Z
 tags:
   - win11
   - win10
@@ -39,15 +39,16 @@ Are you trying to install an application but receive an error message? Or are yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Navigate to the file location, right-click on them and choose**Run as administrator** .
 
  4) After installation, reboot your computer to take effect. Then check your problem is fixed or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Remove the file location
 
@@ -59,32 +60,21 @@ Are you trying to install an application but receive an error message? Or are yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Copy and paste**C:\\Program Files\\Common Files\\Microsoft Shared\\VC** into the address bar and press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/path.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) In this folder, right-click on the empty space and click**Paste** . Click**Continue** when you were asked for permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/permission.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Press the**Windows logo** key**\+ R** together on your keyboard to open the Run box.
 
  6) Type**cmd** and press the**Ctrl + Shift + Enter** key on your keyboard to**run as administrator** .
@@ -92,17 +82,12 @@ Are you trying to install an application but receive an error message? Or are yo
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  7) Type or copy and paste the following command into the Command Prompt.  
 **Note** : make sure you’ve included the**double-quotes** .
 
@@ -111,11 +96,12 @@ regsvr32 "C:\Program Files\Common Files\Microsoft Shared\VC\msdia80.dll"
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  8) Restart your computer to take effect. Then check if your problem is solved or not.
 
 ---
@@ -130,8 +116,6 @@ regsvr32 "C:\Program Files\Common Files\Microsoft Shared\VC\msdia80.dll"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +123,19 @@ regsvr32 "C:\Program Files\Common Files\Microsoft Shared\VC\msdia80.dll"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-compreranly-insightful-study-on-vtubers-and-beyond/"><u>[New] 2024 Approved Compreranly Insightful Study on VTubers and Beyond</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-az-vision-recorder-complete-application-audits-and-substitutes/"><u>[New] In 2024, AZ Vision Recorder Complete Application Audits & Substitutes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-smart-buyers-guide-to-drones-crucial-info-upfront/"><u>[Updated] The Smart Buyer's Guide to Drones Crucial Info Upfront</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-what-is-the-best-video-format-for-youtube/"><u>[Updated] What Is the Best Video Format for YouTube?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-basic-understanding-of-e-story-crafting/"><u>2024 Approved Basic Understanding of E-Story Crafting</u></a></li>
+<li><a href="https://common-error.techidaily.com/elevate-your-windows-11-gaming-performance-with-these-proven-strategies/"><u>Elevate Your Windows 11 Gaming Performance with These Proven Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-troublefree-gameplay-overcoming-halo-n-4-ue4-crashes-for-a-smoother-2024-experience/"><u>Mastering Troublefree Gameplay: Overcoming Halo N 4 UE4 Crashes for a Smoother 2024 Experience</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mini3-by-ddpai-a-unique-take-on-the-typical-dashcam-experience/"><u>Mini3 by Ddpai: A Unique Take on the Typical Dashcam Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/preserve-file-locations-during-startup-in-windows-10/"><u>Preserve File Locations During Startup in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-user-account-control-prompts-elevation-needed-in-windows-11-10-and-7/"><u>Resolving User Account Control Prompts: Elevation Needed in Windows 11, 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-netflix-loading-effective-ways-to-troubleshoot-and-restore-playback/"><u>Why Isn't Netflix Loading? Effective Ways to Troubleshoot and Restore Playback</u></a></li>
+</ul></div>
 

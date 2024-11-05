@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Restore Your Windows Store Cache When It's Actual Damage
-date: 2024-10-25T17:09:31.583Z
-updated: 2024-10-30T17:47:30.300Z
+date: 2024-11-04T10:28:44.673Z
+updated: 2024-11-04T17:51:33.719Z
 tags:
   - win11
   - win10
@@ -34,32 +34,26 @@ Your**Windows Store** has been acting up recently.
 2. **[Create a new Windows Store cache folder](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Microsoft store](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reset the Windows Store cache
 
  As the error message suggests, the problem often happens when the  Windows Store cache  is damaged. By**resetting the Windows Store cache** , we can clear the cache of the apps and hopefully solve the problem.
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type**R** at the same time, then type**wsreset.exe** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Wait until the whole Windows store cache reset process finishes.
@@ -70,13 +64,6 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Windows Store cache may be damaged error have been fixed. If yes, then great! If it remains, please try**Fix 2** , below.
@@ -84,10 +71,10 @@ Your**Windows Store** has been acting up recently.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Create a new Windows Store cache folder
@@ -121,13 +108,6 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
@@ -136,9 +116,23 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeace26d970e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer and check if the problem has been sorted out.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Want us to fix the problem for you?
 
@@ -163,20 +157,24 @@ Your**Windows Store** has been acting up recently.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-access-luxury-free-access-to-your-dreamset-of-50-banners/"><u>[New] 2024 Approved Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-streamlining-your-gaming-playback/"><u>[New] In 2024, Streamlining Your Gaming Playback</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-best-of-ice-artistry-2022-edition/"><u>[Updated] 2024 Approved The Best of Ice Artistry 2022 Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-faster-phonetic-playback-choose-from-these-10/"><u>2024 Approved Faster Phonetic Playback Choose From These 10</u></a></li>
-<li><a href="https://app-tips.techidaily.com/can-ai-innovation-challenge-expansion-in-the-cybersecurity-workforce-exploring-perspectives-with-zdnet/"><u>Can AI Innovation Challenge Expansion in the Cybersecurity Workforce? Exploring Perspectives with ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-the-key-startup-file-missing-error-on-windows-operating-systems/"><u>Diagnosing and Resolving the Key Startup File Missing Error on Windows Operating Systems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/effortless-methods-to-archive-slideshows/"><u>Effortless Methods to Archive Slideshows</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-overcome-usb-connectivity-issues-within-the-latest-windows-environments/"><u>Expert Tips to Overcome USB Connectivity Issues Within the Latest Windows Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-stop-the-disappearing-cursor-problem-on-your-windows-10-system/"><u>Guide: Stop the Disappearing Cursor Problem on Your Windows 10 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-handle-the-windows-update-failure-error-code-80070103/"><u>How to Correctly Handle the 'Windows Update Failure: Error Code 80070103'</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-turning-off-instagrams-igtv-in-a-nutshell/"><u>In 2024, Turning Off Instagram's IGTV in a Nutshell</u></a></li>
-<li><a href="https://facebook.techidaily.com/online-platforms-responsibility-in-the-fight-against-covid-19-misinformation/"><u>Online Platforms' Responsibility in the Fight Against COVID-19 Misinformation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/safe-installation-tips-for-your-canon-mg3620-driver-download-get-started-today/"><u>Safe Installation Tips for Your Canon MG3620 Driver Download - Get Started Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-ineteresourcenotfound-mistake-for-smoother-operations/"><u>Troubleshooting INET_E_RESOURCE_NOT_FOUND Mistake for Smoother Operations</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-and-turning-on-bluetooth-on-windows-7/"><u>Troubleshooting: Fixing and Turning On Bluetooth on Windows 7</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-supreme-display-quality-top-10-ranking-of-4k-screens/"><u>[New] 2024 Approved Supreme Display Quality #Top 10 Ranking of 4K Screens</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-crafting-a-unique-online-presence-youtube-edition/"><u>[New] In 2024, Crafting a Unique Online Presence YouTube Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategy-envelope-market-success-inside-out/"><u>[New] Strategy Envelope Market Success Inside Out</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-5-3d-intro-makers-for-youtube-videos/"><u>[New] Top 5 3D Intro Makers for YouTube Videos</u></a></li>
+<li><a href="https://fox-place.techidaily.com/choose-and-combine-ui-modules-interface/"><u>Choose and Combine UI Modules Interface</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-vos-fichiers-ogg-en-oga-gratuitement-sur-internet-avec-movavi/"><u>Convertissez Vos Fichiers Ogg en Oga Gratuitement Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/discovering-your-windows-10-start-button-essential-tips-and-tricks/"><u>Discovering Your Windows 10 Start Button: Essential Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-dealing-with-disruptions-in-hamachi-virtual-private-network-services/"><u>Effective Fixes: Dealing with Disruptions in Hamachi Virtual Private Network Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-iphone-call-alert-issues-top-tricks-to-get-notifications-working-again/"><u>Fixing iPhone Call Alert Issues: Top Tricks to Get Notifications Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-camera-back-to-work-on-surface-book-pro-4-after-upgrading-to-windows-11-a-solution-guide/"><u>Getting Your Camera Back to Work on Surface Book (Pro 4) After Upgrading to Windows 11 - A Solution Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-strategies-for-building-a-conversational-web-app-with-gpt-powered-tools/"><u>Innovative Strategies for Building a Conversational Web App with GPT-Powered Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/operation-denied-execution-stopped/"><u>Operation Denied: Execution Stopped</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-update-error-0x80070002-effective-fixes-for-hassle-free-updating/"><u>Overcome Windows Update Error 0X80070002: Effective Fixes for Hassle-Free Updating</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/shockwave-flash-issues-in-google-chrome-follow-our-updated-solution-guide/"><u>Shockwave Flash Issues in Google Chrome? Follow Our Updated Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-lenovo-special-characters-key-with-ease/"><u>Troubleshoot Lenovo Special Characters Key with Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-witchers-memory-issue-in-fortnite-pc-and-xbox-guide/"><u>Troubleshooting Witcher's Memory Issue in Fortnite [PC and Xbox Guide]</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-unintended-bootups-how-and-why-your-windows-10-machine-starts-alone/"><u>Understanding Unintended Bootups: How and Why Your Windows 10 Machine Starts Alone</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-solving-problems-with-your-spacebar-not-working-properly/"><u>Windows 11: Solving Problems with Your Spacebar Not Working Properly</u></a></li>
 </ul></div>
 

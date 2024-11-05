@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with Unresponsive User Preferences and Settings
-date: 2024-10-24T16:51:07.973Z
-updated: 2024-10-30T17:48:25.587Z
+date: 2024-11-01T21:02:19.963Z
+updated: 2024-11-05T04:33:23.328Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Switch the network connection
@@ -60,25 +60,31 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
 3. In the middle of your computer screen, click**Sign out** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Log in your computer and see if you get your desktop back this time. If the**Personalized Settings (Not Responding)** still lingers on, you should try **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Re-launch Windows explorer
 
@@ -88,43 +94,44 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 3. Click**File** \>**Run new task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
 4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
 
  Now you should have your desktop back.
 5. Restart your computer and login again to see if this**Personalized Settings (Not Responding)** issue has been solved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run SFC Command
 
 1. On your keyboard, press the **Windows logo key**  and type**cmd** . Then right click on**Command Prompt** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted to confirm.
 2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
 
 ---
@@ -146,6 +153,13 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 5. Restart your computer and see if your desktop comes back.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -172,22 +186,20 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-unleash-creativity-premier-vimeo-editors-deliver/"><u>[New] Unleash Creativity Premier Vimeo Editors Deliver</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726225659542-mp3-vob-movavi/"><u>无需付费：MP3 即时在线转换为 VOB格式 - 享受 Movavi 专业解决方案</u></a></li>
-<li><a href="https://common-error.techidaily.com/advanced-techniques-for-restoring-missing-msvcr1n-dll-files-in-windows-systems/"><u>Advanced Techniques for Restoring Missing MSVCR1n DLL Files in Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficient-ways-to-address-the-missing-haldll-error-in-windows-xp/"><u>Efficient Ways to Address the 'Missing hal.dll' Error in Windows XP</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-minimum-view-count-for-youtube-success-stories/"><u>In 2024, The Minimum View Count for YouTube Success Stories</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-stuck-keyboard-arrows-effective-troubleshooting-tips-inside/"><u>Overcome Stuck Keyboard Arrows - Effective Troubleshooting Tips Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/pc-boot-issues-heres-how-to-clear-up-getting-ready-for-windows-error-and-start-fresh/"><u>PC Boot Issues? Here's How to Clear Up 'Getting Ready for Windows' Error and Start Fresh</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-techniques-mix-up-and-shuffle-youtube-listings-for-2024/"><u>Rapid Techniques Mix Up and Shuffle YouTube Listings for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-perpetual-waiting-solutions-for-stuck-steam-updates/"><u>Resolving the Perpetual Waiting: Solutions for Stuck Steam Updates</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-your-macbook-air-m1-for-an-exceptional-low-price-of-649-now-shop/"><u>Secure Your MacBook Air M1 for an Exceptional Low Price of $649 - Now Shop!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simple-steps-for-quick-file-migration/"><u>Simple Steps for Quick File Migration</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-laptops-persistent-blackwhite-screen-problem/"><u>Solving the Laptop's Persistent Black/White Screen Problem</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210757063-9781088088814-the-corpus-germainius/"><u>The Corpus Germainius | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-driver-related-reboots-due-to-power-state-problems-in-windows-os/"><u>Troubleshooting and Repairing Driver-Related Reboots Due to Power State Problems in Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-persistent-0-windows-update-bug/"><u>Troubleshooting Guide for Persistent 0% Window's Update Bug</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-steps-to-overcome-pc-reset-errors-on-windows-10-expert-advice/"><u>Ultimate Troubleshooting Steps to Overcome PC Reset Errors on Windows 10 [Expert Advice]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-streams-switching-to-av1-in-youtubes-settings/"><u>[New] 2024 Approved Boosting Streams Switching to AV1 in YouTube's Settings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-reimagining-blockbuster-films-ranked-7-1/"><u>[New] 2024 Approved Reimagining Blockbuster Films, Ranked #7-1</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-spark-interest-10-innovative-highlight-ideas-to-try-now/"><u>[Updated] 2024 Approved Spark Interest 10 Innovative Highlight Ideas to Try Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204929300-easy-guide-stop-that-constant-cursor-fix-blink-issue-now/"><u>Easy Guide: Stop That Constant Cursor - Fix Blink Issue Now</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-tips-and-techniques-to-upload-share-and-send-email-invites-for-your-flash-flipbooks-using-flipbuilder-online-platform/"><u>Easy Tips & Techniques to Upload, Share, and Send Email Invites for Your Flash FlipBooks Using FlipBuilder Online Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-incompatible-drivers-can-cause-ftdi-memory-verification-failure/"><u>How Incompatible Drivers Can Cause FTDI Memory Verification Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211732304-how-to-resolve-issues-with-computer-not-powering-off-in-windows-11-fixed/"><u>How to Resolve Issues with Computer Not Powering Off in Windows 11 – FIXED</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-oddworld-soulstorms-startup-problems-on-a-personal-laptop-solution-included/"><u>How To Resolve Oddworld: Soulstorm's Startup Problems On A Personal Laptop (Solution Included)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6s-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 6s</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-from-start-to-finish-itunes-video-logging/"><u>In 2024, From Start to Finish ITunes Video Logging</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/must-try-titles-for-tranquil-touchscreen-time-for-2024/"><u>Must-Try Titles for Tranquil Touchscreen Time for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-windows-10-cant-be-installed-error-code-abo)80240020-issue-solved/"><u>Overcoming the 'Windows 10 Can't Be Installed (Error Code Abo>80240020)' Issue - Solved!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722986670555-pc-troubles-discover-how-to-stop-tower-of-fantasy-from-crashing-now/"><u>PC Troubles? Discover How to Stop Tower of Fantasy From Crashing Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-windows-7-boot-delays-improve-system-performance-now/"><u>Quick Fixes for Windows 7 Boot Delays – Improve System Performance Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-downloading-and-updating-razer-software-for-win-1087xpvista/"><u>Step-by-Step Guide: Downloading & Updating Razer Software for Win 10/8/7/XP/Vista</u></a></li>
 </ul></div>
 

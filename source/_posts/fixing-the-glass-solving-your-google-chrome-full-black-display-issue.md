@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Glass: Solving Your Google Chrome Full-Black Display Issue"
-date: 2024-10-24T16:08:37.714Z
-updated: 2024-10-30T17:47:47.687Z
+date: 2024-11-04T02:55:10.843Z
+updated: 2024-11-05T11:27:59.860Z
 tags:
   - win11
   - win10
@@ -45,14 +45,14 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-06_11-08-49.jpg)
 
- You should see the webpage again. Then you can adjust the edge of the window as you like. It’s a temporary fix, you might meet the issue again.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You should see the webpage again. Then you can adjust the edge of the window as you like. It’s a temporary fix, you might meet the issue again.
 
 ### Method 2: Remove browser extensions
 
@@ -64,6 +64,14 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart Chrome to check whether the issue is solved or not.
 5. If the issue is solved, you’ll know there is something wrong with at least one extension.
 6. Enable your installed extensions one by one to find which one is causing the problem. Then disable or remove it.
@@ -85,13 +93,6 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 6. Deselect “**Use hardware acceleration when available** .”![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom4.jpg)
 7. Run Google Chrome to check whether the issue is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ### Method 3: Run Chrome as Compatibility mode
@@ -103,13 +104,26 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 3. Click**OK** then run Google Chrome to check.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Update your Google Chrome
 
@@ -125,25 +139,25 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 2. Set Control Panel view by**Category** . Then click **Uninstall a program** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right-click on Google Chrome and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome7.jpg)
 4. Use another browser to download the latest version of Google Chrome from the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI0sLo0YH%5F4QIVksJkCh1jiw8SEAAYASAAEgIDF%5FD%5FBwE&gclsrc=aw.ds) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Install it manually and then check the issue is solved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: Update your graphics card driver
 
@@ -174,21 +188,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -215,22 +222,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-uncovering-untapped-territories-in-meme-culture/"><u>[New] In 2024, Uncovering Untapped Territories in Meme Culture</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-step-by-step-guide-solving-the-issue-of-malfunctioning-xps/"><u>Comprehensive Step-by-Step Guide: Solving the Issue of Malfunctioning XPS</u></a></li>
-<li><a href="https://article-files.techidaily.com/cutting-edge-livestream-software-selection/"><u>Cutting-Edge Livestream Software Selection</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dslr-and-mirrorless-excellence-with-ideal-gimbals/"><u>DSLR & Mirrorless Excellence with Ideal Gimbals</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-troubleshooting-accelerating-windows-10s-slow-shutdown-process/"><u>Efficient Troubleshooting: Accelerating Windows 10'S Slow Shutdown Process</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-the-issue-this-gadget-cant-receive-miracast-proven-fixes/"><u>Eliminating the Issue 'This Gadget Can’t Receive Miracast' - Proven Fixes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-zte-nubia-z60-ultra-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast ZTE Nubia Z60 Ultra to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-the-issue-when-applicationexe-halts-execution/"><u>How to Correct the Issue When 'Application.exe' Halts Execution</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-alt-tab-not-working-glitch-on-your-computer/"><u>How to Repair 'Alt Tab Not Working' Glitch on Your Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 14 Without Apple Password? | Stellar</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211620934-mastering-the-art-of-restoring-functionality-to-windows-keyboards-with-sticking-keys/"><u>Mastering the Art of Restoring Functionality to Windows Keyboards with Sticking Keys</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-handheld-powerhouse-enter-the-world-of-pdw4/"><u>Next Gen Handheld Powerhouse - Enter the World of PDW4</u></a></li>
-<li><a href="https://common-error.techidaily.com/resistance-to-targeted-agents-can-develop-necessitating-ongoing-research-and-new-drug-development/"><u>Resistance to Targeted Agents Can Develop, Necessitating Ongoing Research and New Drug Development</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-strategies-for-eliminating-latency-problems-in-fallout-4/"><u>Top Strategies for Eliminating Latency Problems in Fallout 4</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-infinix-smart-8-plus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Infinix Smart 8 Plus Phone Network-Ready</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-critical-look-at-zd-soft-recorder-capabilities/"><u>[New] A Critical Look at ZD Soft Recorder Capabilities</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-direct-video-tweet-to-twitter-apps-no-retweets-involved/"><u>[New] Direct Video Tweet to Twitter Apps, No Retweets Involved</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-practices-to-ensure-privacy-while-leveraging-chatgpt-technology-on-the-job/"><u>Best Practices to Ensure Privacy While Leveraging ChatGPT Technology on the Job</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-steam-failed-to-initialize-fixes-and-tips-for-successful-installation/"><u>Dealing with 'Steam Failed to Initialize': Fixes and Tips for Successful Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-boundaries-exclusive-steam-deck-upgrades-revealed/"><u>Pushing Boundaries: Exclusive Steam Deck Upgrades Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-issues-with-right-click-mouse-functionality/"><u>Resolving Windows 10 Issues with Right Click Mouse Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-issue-why-youre-missing-emails-in-yahoo-and-how-to-address-it/"><u>Solving the Issue: Why You're Missing Emails in Yahoo and How to Address It</u></a></li>
+<li><a href="https://facebook.techidaily.com/stop-unexpected-contact-suggestions-from-fb/"><u>Stop Unexpected Contact Suggestions From FB</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-resolving-continuous-mouse-disconnect-issues-efficiently/"><u>The Ultimate Guide: Resolving Continuous Mouse Disconnect Issues Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixes-for-entry-point-errors-not-found-in-windows-systems/"><u>Troubleshooting & Fixes for Entry Point Errors Not Found in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-dell-wireless-keyboards-that-arent-responding/"><u>Troubleshooting Guide for Dell Wireless Keyboards That Aren't Responding</u></a></li>
 </ul></div>
 

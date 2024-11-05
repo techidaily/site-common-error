@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Tackle and Fix Error Code 0X8024200d in Windows Update Systems
-date: 2024-10-28T17:34:14.431Z
-updated: 2024-10-30T17:21:20.562Z
+date: 2024-11-01T10:01:24.249Z
+updated: 2024-11-05T08:18:16.852Z
 tags:
   - win11
   - win10
@@ -76,16 +76,17 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-905.png)
 3. If prompted, click**Yes** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. On the Registry Editor, click**File** , then select**Export** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
@@ -93,15 +94,28 @@ net start cryptsvc
 8. Double click**DisableWindowsUpdateAccess** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
@@ -116,10 +130,10 @@ To do so:
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
@@ -128,22 +142,15 @@ To do so:
 6. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Run Windows Update and see if the “0x8024002e” error occurs. If not, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
@@ -152,28 +159,30 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if the update error occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there’s any service that brings up the 0x8024002e error, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
-15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
-16. Click**OK** and then click**Restart** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
-17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
+16. Click**OK** and then click**Restart** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
+17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
 
  If there’s any startup item that causes the 0x8024002e error, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 
@@ -198,20 +207,19 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-10-best-fitness-channels-for-yogis-for-2024/"><u>[New] 10 Best Fitness Channels for Yogis for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-androids-prime-portable-gba-simulators-ranked-for-2024/"><u>[Updated] Android's Prime Portable GBA Simulators Ranked for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-global-youtube-rich-list-pinnacle-for-2024/"><u>[Updated] Global YouTube Rich List Pinnacle for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-yogic-vistas-top-10-inspirational-yoga-videos/"><u>[Updated] Yogic Vistas Top 10 Inspirational Yoga Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-repairing-and-preventing-windows-error-0x80n04cf-network-failures/"><u>Expert Advice: Repairing and Preventing Windows Error 0X80n04CF Network Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unresponsive-touch-and-stylus-controls-on-displays/"><u>Fixing Unresponsive Touch and Stylus Controls on Displays</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-hp-universal-print-driver-on-windows-pcs-today/"><u>Get Your HP Universal Print Driver on Windows PCs Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-failed-feature-update-installations-for-windows-11-version-1607/"><u>How to Resolve Failed Feature Update Installations for Windows 11 Version 1607</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-with-your-realtek-mic-comprehensive-solutions/"><u>How to Resolve Issues with Your Realtek Mic - Comprehensive Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-from-scratch-to-stardom-making-reaction-videos-easy-with-filmora/"><u>New From Scratch to Stardom Making Reaction Videos Easy with Filmora</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-steams-missing-files-issue-gain-full-control/"><u>Resolving Steam's Missing Files Issue: Gain Full Control</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/romantic-charms-and-rogue-intelligence-7-ways-cybercriminals-harness-ai-for-love-frauds/"><u>Romantic Charms and Rogue Intelligence: 7 Ways Cybercriminals Harness AI for Love Frauds</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-your-pcs-freezing-issues/"><u>Step-by-Step Guide: Resolving Your PC's Freezing Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-possible-downtime-on-the-netflix-platform/"><u>Understanding and Fixing Possible Downtime on the Netflix Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-full-potential-of-tablet-mode-in-windows-11-for-enhanced-productivity/"><u>Unveiling the Full Potential of Tablet Mode in Windows 11 for Enhanced Productivity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionize-your-earning-game-with-top-13-strategies-for-novices-on-reddit/"><u>[New] Revolutionize Your Earning Game with Top 13 Strategies for Novices on Reddit</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-reverse-rotation-riddle-on-social-media-platforms/"><u>[New] The Reverse Rotation Riddle on Social Media Platforms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-professional-framing-methods-using-letterbox-and-black-bar-on-social-networks/"><u>[Updated] In 2024, Professional Framing Methods Using Letterbox & Black Bar on Social Networks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-tune-in-to-success-the-art-of-audio-amalgamation-for-fb-video-posts-for-2024/"><u>[Updated] Tune in to Success The Art of Audio Amalgamation for FB Video Posts for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ankers-roav-dashcam-c1-a-complete-review-for-secure-and-convenient-road-trips/"><u>Anker's Roav DashCam C1: A Complete Review for Secure and Convenient Road Trips</u></a></li>
+<li><a href="https://common-error.techidaily.com/drop-heavy-load-win10-wmi-optimization/"><u>Drop Heavy Load: Win10 WMI Optimization</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-shut-down-stuck-windows-11-computers-successfully/"><u>Effective Solutions to Shut Down Stuck Windows 11 Computers Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolution-ensuring-seamless-installation-despite-unsupported-os-warnings/"><u>Error Resolution: Ensuring Seamless Installation Despite Unsupported OS Warnings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-luts-application-in-movie-post-production-coloring/"><u>In 2024, Luts Application in Movie Post-Production Coloring</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-to-the-common-bootmgr-not-found-problem-visual-instructions-included/"><u>Simple Fixes to the Common BOOTMGR Not Found Problem: Visual Instructions Included</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-c50-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco C50 Phone Pattern Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-xiaomi-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Xiaomi Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208202455-troubleshooting-step-by-step-for-code-224003-unplayable-video-errors-resolved/"><u>Troubleshooting Step-by-Step for Code 224003: Unplayable Video Errors Resolved!</u></a></li>
 </ul></div>
 

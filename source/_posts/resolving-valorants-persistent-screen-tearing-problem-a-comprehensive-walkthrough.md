@@ -1,7 +1,7 @@
 ---
 title: Resolving Valorant's Persistent Screen Tearing Problem - A Comprehensive Walkthrough
-date: 2024-10-27T17:54:45.793Z
-updated: 2024-10-30T17:35:53.958Z
+date: 2024-10-30T04:25:59.463Z
+updated: 2024-11-05T08:52:15.949Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -47,13 +40,6 @@ Here’s how to do it:
  1) On your keyboard, press **the Windows logo key** and type microphone, then click on Microphone privacy settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
@@ -66,6 +52,13 @@ Here’s how to do it:
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -80,21 +73,14 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -110,6 +96,14 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
@@ -117,10 +111,10 @@ To do so:
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
@@ -128,6 +122,13 @@ To do so:
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -160,21 +161,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-sharexs-competitors-unveiled/"><u>[New] 2024 Approved ShareX's Competitors Unveiled</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamsavvy-beyond-the-dacast-boundary/"><u>[Updated] 2024 Approved StreamSavvy Beyond the DaCast Boundary</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-skyrocketing-popularity-youtube-visibility-techniques/"><u>[Updated] Skyrocketing Popularity YouTube Visibility Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-tips-for-effective-screen-broadcasts-on-fb-live-for-2024/"><u>[Updated] Tips for Effective Screen Broadcasts on FB Live for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-x50iplus-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor X50i+?</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquer-the-update-challenge-strategies-to-resolve-windows-11s-error-0x800f0922-quickly/"><u>Conquer the Update Challenge: Strategies to Resolve Windows 11'S Error 0X800f0922 Quickly!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-your-pdf-files-for-nothing-swift-transformation-to-word-powerpoint-flash-and-images-without-cost/"><u>Convert Your PDF Files for Nothing – Swift Transformation to Word, PowerPoint, Flash & Images without Cost!</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-for-diagnosing-and-repairing-a-dysfunctional-laptop-pointing-device/"><u>Effective Techniques for Diagnosing and Repairing a Dysfunctional Laptop Pointing Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-eliminating-the-dreaded-fatal-error-and-ensuring-stability-in-halo-4-ue4-throughout-2024/"><u>Expert Tips for Eliminating the Dreaded 'Fatal Error' & Ensuring Stability in Halo 4 UE4 Throughout 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209458596-fix-your-oddworld-soulstorm-pc-game-crash-issues-solutions-inside/"><u>Fix Your Oddworld: Soulstorm PC Game Crash Issues - Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-compatibility-issues-with-logitech-devices-in-windows-11/"><u>How to Resolve Compatibility Issues with Logitech Devices in Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-turn-your-videos-into-money-with-vimeo-expertise/"><u>In 2024, How to Turn Your Videos Into Money with Vimeo Expertise</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-iphone-privacy-essential-guides-on-securing-your-lock-screen-and-managing-locked-device-applications/"><u>Maximize iPhone Privacy: Essential Guides on Securing Your Lock Screen and Managing Locked Device Applications</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-troubleshooting-the-installation-incomplete-on-windows/"><u>Quick Guide: Troubleshooting the 'Installation Incomplete On Windows'</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-the-persistent-windows-update-error-0x8024200d/"><u>Troubleshoot and Solve the Persistent Windows Update Error 0X8024200D</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-superior-search-capabilities-with-perplexity-ai-the-ultimate-google-search-enhancer/"><u>Unlock Superior Search Capabilities with Perplexity AI - The Ultimate Google Search Enhancer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/evolutionizing-video-sharing-alternatives-to-youtube/"><u>[New] Revolutionizing Video Sharing Alternatives to YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-s23-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Itel S23</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-and-tips-for-resolving-the-ce-34878-code-on-your-ps4-console/"><u>Effective Fixes and Tips for Resolving the 'CE-34878' Code on Your PS4 Console</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-interface-with-three-column-widgets-in-win11/"><u>Elevate Your Interface with Three-Column Widgets in Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-cellular-data-issues-with-these-proven-methods-a-guide-to-10-quick-solutions/"><u>Fix Your iPhone's Cellular Data Issues with These Proven Methods: A Guide to 10 Quick Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/learn-to-speak-text-mastering-ms-words-recognition-capabilities-for-2024/"><u>Learn to Speak Text Mastering MS Word's Recognition Capabilities for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-class-unregistered-on-windows-11-error-tips-and-tricks-inside/"><u>Overcoming 'Class Unregistered on Windows 11' Error – Tips & Tricks Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/shift-key-failure-solved-tips-for-restoring-functionality/"><u>Shift Key Failure Solved: Tips for Restoring Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-downfall-critical-error-detected/"><u>System Downfall: Critical Error Detected</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-opencl-library-file-errors/"><u>Tackling OpenCL Library File Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-quick-way-to-highlight-every-message-on-gmail-for-easy-organization/"><u>The Quick Way to Highlight Every Message on Gmail for Easy Organization</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-consumption-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Solutions for Reducing GPU Consumption by the Desktop Window Manager on Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-code-0x80-windows-1110-expert-tips-and-solutions/"><u>Troubleshooting Error Code 0X80^ (Windows 11/10): Expert Tips & Solutions</u></a></li>
 </ul></div>
 

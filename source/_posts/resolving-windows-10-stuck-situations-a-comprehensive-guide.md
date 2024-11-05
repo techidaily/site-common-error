@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows 10 Stuck Situations: A Comprehensive Guide"
-date: 2024-10-24T16:24:12.094Z
-updated: 2024-10-30T17:24:51.179Z
+date: 2024-11-03T21:06:14.170Z
+updated: 2024-11-05T08:43:44.006Z
 tags:
   - win11
   - win10
@@ -80,35 +80,22 @@ net start cryptsvc
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
@@ -123,13 +110,21 @@ To do so:
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click**OK** .
@@ -138,16 +133,24 @@ To do so:
 8. Run Windows Update and see if the “0x8024002e” error occurs. If not, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 11. Click**Restart** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if the update error occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
  If there’s any service that brings up the 0x8024002e error, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
@@ -157,20 +160,20 @@ To do so:
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 16. Click**OK** and then click**Restart** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
@@ -197,21 +200,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-old-school-giggles-unpacking-goofy-movie/"><u>[New] Old School Giggles Unpacking 'Goofy Movie'</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-finalizing-your-linkedin-journey-steps-for-termination/"><u>[Updated] Finalizing Your LinkedIn Journey Steps for Termination</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-large-video-transfer-ios-to-macos-device-harmony/"><u>2024 Approved Mastering Large Video Transfer IOS to macOS Device Harmony</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-wattpad-stars-moments-on-snapchat/"><u>2024 Approved Wattpad Stars Moments on Snapchat</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-the-mystery-of-non-detectable-external-drives-fixing-unknown-usb-device-solution-steps/"><u>Decoding the Mystery of Non-Detectable External Drives – Fixing 'Unknown USB Device [Solution Steps]'</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/dissecting-youtube-copyright-vs-creative-commons-ethos/"><u>Dissecting YouTube Copyright Vs. Creative Commons Ethos</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-frustration-expert-tips-and-tricks-for-dealing-with-steam-error-code-80/"><u>Eliminating Frustration: Expert Tips and Tricks for Dealing with Steam Error Code 80</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-how-to-address-device-drivers-not-installed-on-windows-7/"><u>Fix: How to Address 'Device Drivers Not Installed on Windows 7</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-tecno-spark-go-2023-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-printscreen-feature-when-broken-in-win10-or-win11/"><u>How To Restore PrintScreen Feature When Broken In Win10 or Win11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-lava-blaze-pro-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Lava Blaze Pro 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-czech-fast-top-rated-online-language-apps/"><u>Learn Czech Fast: Top-Rated Online Language Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-error-code-1603-critical-failure-at-installation/"><u>Resolved! How To Fix Error Code 1603 – Critical Failure at Installation</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-making-your-computers-bluetooth-show-up-in-device-manager-again/"><u>Solution Guide: Making Your Computer's Bluetooth Show Up in Device Manager Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-nonfunctional-ethernet-networks-on-pc-windows-107/"><u>Step-by-Step Guide to Repairing Nonfunctional Ethernet Networks on PC (Windows 10/7)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-continuous-crashes-in-insurgency-sandstorm/"><u>Troubleshooting Guide: Fixing Continuous Crashes in 'Insurgency: Sandstorm'.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-voicing-freedom-how-to-modify-your-audio-on-instagram-posts-for-2024/"><u>[New] Voicing Freedom How to Modify Your Audio on Instagram Posts for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-thriving-on-youtube-11-secrets-to-boosting-video-search-rankings/"><u>[Updated] 2024 Approved Thriving on YouTube 11 Secrets to Boosting Video Search Rankings</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oppo-find-x6-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Oppo Find X6 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1728479106287-win11/"><u>即使未進行硬碟配置，也能順利修復Win11系统磁區劃分問題</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-lag-expert-ways-to-fix-high-ping-in-counter-strike-global-offensive/"><u>Beat the Lag - Expert Ways to Fix High Ping in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehvew-of-fixes-to-bring-back-sound-on-your-ps4s-chat-microphone/"><u>Comprehvew of Fixes to Bring Back Sound on Your PS4's Chat Microphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-the-new-world-launch-wont-start-anti-cheat-problem/"><u>Effective Solutions to the 'New World Launch Won't Start: Anti-Cheat Problem'</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-bluetooth-devices-showing-as-connected-but-inaccessible-in-windows-10/"><u>How to Fix Bluetooth Devices Showing as Connected but Inaccessible in Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-v27-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo V27 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://common-error.techidaily.com/quickly-restore-charging-functionality-to-your-laptop-expert-tips-inside/"><u>Quickly Restore Charging Functionality to Your Laptop: Expert Tips Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-wireless-headset-how-to-restore-microphone-functionality-successfully/"><u>SteelSeries Arctis 5 Wireless Headset: How to Restore Microphone Functionality Successfully</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-impact-of-advanced-chatbots-on-modernizing-patient-care-can-they-revolutionize-medicine/"><u>The Impact of Advanced Chatbots on Modernizing Patient Care: Can They Revolutionize Medicine?</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-are-governments-targeting-techs-colossal-entities/"><u>Why Are Governments Targeting Tech's Colossal Entities?</u></a></li>
 </ul></div>
 

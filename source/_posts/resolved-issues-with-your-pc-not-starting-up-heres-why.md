@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Issues with Your PC Not Starting Up – Here's Why"
-date: 2024-10-25T18:33:42.940Z
-updated: 2024-10-30T18:29:59.750Z
+date: 2024-10-29T22:47:01.661Z
+updated: 2024-11-05T02:04:10.947Z
 tags:
   - win11
   - win10
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/946eb20cab96390f79aadddebd59f08cdd8697ebf
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Repeat the same to remove the driver for your other display card if you have one.
@@ -84,10 +84,10 @@ To do so, first visit the website of your GPU manufacturer:
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically (Recommended)
@@ -102,16 +102,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -122,13 +116,6 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent with code 144 error still remains. If the problem still persists, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Check USB peripherals
 
@@ -144,18 +131,26 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Restart your computer afterward.
 9. Then plug the USB devices back into your computer one by one, preferably into the USB outputs on your computer rather than USB hubs or docks.
 10. Pay extra attention to any computer glitches you notice with your computer after plugging each USB device back in.
@@ -174,13 +169,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update your computer BIOS and system firmware
 
  Please note that wrongly updating BIOS could cause server computer problems, even brick the computer in some extreme cases. So please do not attempt the BIOS update if you’re not confident in doing it.
@@ -190,6 +178,13 @@ To do so, first visit the website of your GPU manufacturer:
  You can refer to this post we have on **[how to update the BIOS and firmware](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Repair damaged system files
 
@@ -210,10 +205,10 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Consider a system reinstall
@@ -255,17 +250,24 @@ Then see if the LiveKernelEvent 144 error is still seen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-auditory-anatomy-understanding-video-audio-for-ig-feeds/"><u>[New] In 2024, Auditory Anatomy Understanding Video Audio for IG Feeds</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-branding-beats-technicalities-focus-on-your-streams-signature-style/"><u>[Updated] 2024 Approved Branding Beats Technicalities Focus on Your Stream's Signature Style</u></a></li>
-<li><a href="https://win11.techidaily.com/6-ways-to-boot-into-safe-mode-in-windows-11/"><u>6 Ways to Boot Into Safe Mode in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-prompting-made-simple-for-chatgpt-enthusiasts/"><u>Effortless Prompting Made Simple for ChatGPT Enthusiasts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-tecno-spark-go-2024-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Tecno Spark Go (2024) Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-infinix-smart-8-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Infinix Smart 8</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-responsiveness-restored-a-guide-to-solving-lag-issues-in-windows-10/"><u>Keyboard Responsiveness Restored: A Guide to Solving Lag Issues in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/master-the-blue-screen-correct-ntfssys-system-error-and-stop-dtr-on-windows-11/"><u>Master the Blue Screen: Correct ntfs.sys System Error and Stop DTR on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-a2-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi A2 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-crc-data-integrity-problems-demystified/"><u>Resolved Issue: CRC Data Integrity Problems Demystified</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-lost-steam-file-privileges-a-comprehensive-solution/"><u>Restoring Lost Steam File Privileges - A Comprehensive Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-repairing-the-windows-installer-service-not-found-error/"><u>The Ultimate Guide to Repairing the 'Windows Installer Service Not Found' Error</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-gameplay-memories-preserved-unveiling-6-minecraft-tips/"><u>2024 Approved Gameplay Memories Preserved Unveiling 6 Minecraft Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-12-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 12</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-mysterious-process-abruptly-ended-error-code-1067-in-windows/"><u>Fixing the Mysterious 'Process Abruptly Ended' Error Code 1067 in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fix-lenovo-keyboard-issues-for-smooth-typing-experience/"><u>Guide to Fix Lenovo Keyboard Issues for Smooth Typing Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-and-successfully-deploying-the-battleye-cheating-detection-system/"><u>Guide to Fixing and Successfully Deploying the BattlEye Cheating Detection System</u></a></li>
+<li><a href="https://article-posts.techidaily.com/highlighted-screenplay-scenes-bundle/"><u>Highlighted Screenplay Scenes Bundle</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002465846-hp-monitor-troubles-discover-proven-strategies-for-a-swift-resolution/"><u>HP Monitor Troubles? Discover Proven Strategies for a Swift Resolution!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-4k-brilliance-top-tips-for-selecting-a-superior-monitor/"><u>In 2024, 4K Brilliance Top Tips for Selecting a Superior Monitor</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-tecno-spark-10-4g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Tecno Spark 10 4G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-premier-low-carbon-screen-recording-solutions/"><u>In 2024, Premier Low-Carbon Screen Recording Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tales-before-twilight-a-review-of-video-driven-narratives/"><u>In 2024, Tales Before Twilight A Review of Video-Driven Narratives</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-live-video-gaming-step-by-step-action-guidelines-for-hitbox-users/"><u>Mastering the Art of Live Video Gaming - Step by Step Action Guidelines for Hitbox Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-directory-not-recognized-mistake-quickly-and-easily/"><u>Resolving the 'Directory Not Recognized' Mistake Quickly and Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-the-muted-soundscape-of-windows-7-computers/"><u>Reviving the Muted Soundscape of Windows 7 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203241341-trouble-with-your-wireless-mouse-on-windows-heres-how-to-fix-it-in-w11w10/"><u>Trouble with Your Wireless Mouse on Windows? Here's How to Fix It in W11/W10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-fix-resolving-a-code-28-issue-on-windows-device-manager/"><u>Troubleshooting the Fix: Resolving a 'Code 28' Issue on Windows Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/upgrade-your-wheel-swipe-prowess/"><u>Upgrade Your Wheel Swipe Prowess</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208586031-windows-10-light-dimmer-malfunction-heres-the-solution/"><u>Windows 10 Light Dimmer Malfunction? Here's the Solution!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/windows-11-and-trustedinstaller-securing-the-right-to-modify-system-files/"><u>Windows 11 and TrustedInstaller: Securing the Right to Modify System Files</u></a></li>
 </ul></div>
 

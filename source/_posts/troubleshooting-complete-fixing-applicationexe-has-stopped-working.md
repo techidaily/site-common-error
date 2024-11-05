@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete: Fixing 'Application.exe Has Stopped Working'"
-date: 2024-10-25T16:21:56.708Z
-updated: 2024-10-30T17:35:43.864Z
+date: 2024-10-30T00:52:54.429Z
+updated: 2024-11-05T00:25:26.469Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Troubleshoot hardware issues
 
  When you find your battery is not charging, you need to troubleshoot hardware issues first. Follow the steps below to troubleshoot hardware issues:
@@ -58,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -78,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
  1) Open the**Lenovo Vantage** app.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
@@ -96,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -108,16 +108,16 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Uninstall** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Shut down your laptop and **disconnect the AC adapter** .
 
@@ -131,22 +131,15 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
@@ -174,6 +167,13 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -205,22 +205,17 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-strategic-advantages-in-business-with-vr-tech/"><u>[New] 2024 Approved Strategic Advantages in Business with VR Tech</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-2023s-best-screen-recorder-discover-with-camstudio/"><u>[Updated] In 2024, 2023'S Best Screen Recorder? Discover with CamStudio</u></a></li>
-<li><a href="https://win-blog.techidaily.com/converti-dati-vob-a-formato-m4v-online-gratuitamente-con-movavi/"><u>Converti Dati VOB a Formato M4V Online Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/dell-laptop-diy-fixes-making-your-non-responsive-fn-keys-operational-once-more/"><u>Dell Laptop DIY Fixes: Making Your Non-Responsive 'FN' Keys Operational Once More</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-power-of-gpt4all-and-its-working-mechanism/"><u>Discover the Power of GPT4All and Its Working Mechanism</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-started-with-the-engine-essential-hardware-requirement-a-compatible-d3d11-gpu-is-needed/"><u>Getting Started with the Engine: Essential Hardware Requirement – A Compatible D3D11 GPU Is Needed</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-wacom-pen-to-work-again-in-windows-11-and-10/"><u>How To Get Your Wacom Pen to Work Again in Windows 11 & 10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y100amirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y100AMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-insights-identifying-your-posts-audience/"><u>Instagram Insights Identifying Your Post's Audience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphones-quintet-of-best-podcast-aides/"><u>IPhone's Quintet of Best Podcast Aides</u></a></li>
-<li><a href="https://common-error.techidaily.com/managing-and-fixing-peak-cpu-consumption-in-windows-speaker-setup/"><u>Managing and Fixing Peak CPU Consumption in Windows Speaker Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-mic-troubles-quickly-expert-tips-for-the-oculus-quest-2-headset/"><u>Solve Mic Troubles Quickly: Expert Tips for the Oculus Quest 2 Headset</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207907025-solving-the-binkw32dll-file-not-found-issue-a-step-by-step-guide/"><u>Solving the binkw32.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-windows-11s-failed-pdf-printer-functionality/"><u>Troubleshoot and Solve Windows 11'S Failed PDF Printer Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-audio-devices-fix-no-sound-output-errors-on-windows-computers/"><u>Troubleshoot Audio Devices: Fix No Sound Output Errors on Windows Computers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-downloading-high-quality-4k-videos-from-youtube-without-losing-clarity/"><u>Ultimate Guide: Downloading High-Quality 4K Videos From YouTube Without Losing Clarity</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-optimization-complete-how-to-fix-your-laggy-keyboard-experience/"><u>Windows 11 Optimization Complete – How to Fix Your Laggy Keyboard Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-ultimate-iphone-x-animoji-blueprint-for-mastery/"><u>[New] 2024 Approved The Ultimate iPhone X Animoji Blueprint for Mastery</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mplify-viewership-with-these-top-10-youtube-reaction-strategies-for-2024/"><u>[New] Amplify Viewership with These Top 10 YouTube Reaction Strategies for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-seamless-film-documentation-on-windowsmacos-and-ios-gadgets/"><u>[New] In 2024, Seamless Film Documentation on Windows/MacOS & iOS Gadgets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-method-to-personalize-iphone-ringtones/"><u>[New] Step-By-Step Method to Personalize iPhone Ringtones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-speedy-explorer-windows-10-photography-interface/"><u>[Updated] In 2024, Speedy Explorer - Windows 10 Photography Interface</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-masters-building-marvels-virtual-horizons/"><u>2024 Approved Masters Building Marvel's Virtual Horizons</u></a></li>
+<li><a href="https://video-capture.techidaily.com/file-download-voice-track-analysis/"><u>File Download Voice Track Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-monitor-issues-overcoming-unrecognized-input-challenges/"><u>Fixing Monitor Issues: Overcoming Unrecognized Input Challenges</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-pc-running-smoothly-again-fixing-windows-11s-sluggish-shutdown-snags/"><u>Get Your PC Running Smoothly Again: Fixing Windows 11'S Sluggish Shutdown Snags</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-laptops-usb-mouse-working-again-step-by-step-fixes/"><u>How to Get Your Laptop's USB Mouse Working Again – Step by Step Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-non-scrolling-touchpad-problem-on-windows-11-computers/"><u>Solving the Non-Scrolling Touchpad Problem on Windows 11 Computers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-culminating-chapter-in-stealth-gaming-a-critical-look-at-hitman-3/"><u>The Culminating Chapter in Stealth Gaming: A Critical Look at Hitman 3</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: PS4 Control Deck Won't Charge? Discover Effective FIXES Now
-date: 2024-09-04T20:21:58.618Z
-updated: 2024-09-05T20:21:58.618Z
+date: 2024-11-02T18:28:27.484Z
+updated: 2024-11-04T23:16:26.320Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/0f4e3cdd6a3a2810d9be01f02401b08a8ee0a737d
 4. **[Check the charging port of your PS4 controller](#solution4)**
 5. **[Replace the batteries of your PS4 controller](#solution5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Reset your PS4 controller
 
  Generally, the PS4 controller not charging issue is caused by the malfunctioned controller itself. So, as the initial solution, we recommend you reset your PS4 controller.
@@ -39,11 +46,12 @@ You can easily reset your controller through these several steps:
 3. Your controller should then restart. Once it gets started, try to charge it again to see if successful.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 2: Charge your PS4 controller upside down
 
  Please charge your PS4 controller upside down when you encounter the not charging problem. Sounds wired? It helps a lot of PS4 players get their controller to charge again. You can give it a shot to see if it works.
@@ -51,29 +59,18 @@ You can easily reset your controller through these several steps:
 Just put your PS4 controller upside down and then charge it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 3: Check the charging cable of your PS4 controller
 
  Sometimes, your PS4 not charging problem could be due to the charging USB cable. Follow the steps below to check if there’s any problem with your USB cable.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a504e5686cb2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Charge your other controller if you have one with the same charging USB cable.
 2. If the other controller does charge, then the problem is on your cable’s side. Please skip to the following solution. If the other controller also does not charge, it seems there’s something wrong with your USB cable. Please go on with the next step.
 3. Try to use the official charging USB cable coming with your PS4 console to charge your controller.
@@ -82,11 +79,12 @@ Just put your PS4 controller upside down and then charge it.
  So please**use an official charging USB cable** to charge your controller. If you lost the USB cable coming with your PS4, you can buy an official one from Sony.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 4: Check the charging port of your PS4 controller
 
  Like the charging cable, a bad charging port on your PS4 controller could also prevent your controller from charging.
@@ -95,18 +93,6 @@ Just put your PS4 controller upside down and then charge it.
 
  Charge your other controller if you have one with the same charging USB cable. If the other controller does charge, there’s probably some problem with the charging port with your not charging controller. You then need to replace the charging port with a new one. If you’re not sure how to do it, you can ask for help from[the official PlayStation website](http://www.playstation.com/) .
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Replace the batteries of your PS4 controller
 
  If you’ve tried all the solutions above and your controller still cannot charge, do not be frustrated. Be sure to try this last but helpful solution.
@@ -117,14 +103,11 @@ Just put your PS4 controller upside down and then charge it.
 
 * [PlayStation 4 (PS4)](/tag-search/?tagId=180)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +116,21 @@ Just put your PS4 controller upside down and then charge it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-masterclass-in-adding-srt-overlay-on-mp4-file-playback/"><u>[Updated] 2024 Approved Masterclass in Adding SRT Overlay on MP4 File Playback</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-do-i-peruse-all-the-video-and-photo-files-shared-by-friends/"><u>[Updated] In 2024, How Do I Peruse All the Video and Photo Files Shared by Friends?</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-magic-6-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor Magic 6 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-geforce-rtx-2070-driver-for-multiple-winsrs-10-8-and-7-systems-supported/"><u>Download Updated Geforce RTX 2070 Driver for Multiple WinSrs: 10, 8, and 7 Systems Supported!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-website-with-cookiebots-advanced-traffic-tools/"><u>Enhance Your Website with Cookiebot's Advanced Traffic Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-resolved-issue-how-to-stop-windows-1110-continuous-reboot-cycle/"><u>Fix: Resolved Issue - How to Stop Windows 11/10 Continuous Reboot Cycle</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-restore-night-light-functionality-on-windows-10-and-11/"><u>Fixing the Issue: How to Restore Night Light Functionality on Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-windows-update-error-code-0x80070002-a-simple-guide/"><u>Fixing the Windows Update Error Code 0X80070002: A Simple Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-navigating-zoom-to-elevate-your-facebook-lives/"><u>In 2024, Navigating Zoom to Elevate Your Facebook Lives</u></a></li>
+<li><a href="https://common-error.techidaily.com/requirement-alert-your-pc-needs-a-d3d11-compatible-graphics-card-to-support-this-game-engine/"><u>Requirement Alert: Your PC Needs a D3D11-Compatible Graphics Card to Support This Game Engine</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-continuity-with-windows-11-preserved-file-positions-after-shutdowns-and-bootups/"><u>Seamless Continuity with Windows 11: Preserved File Positions After Shutdowns & Bootups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamlined-conversion-experience-superior-video-to-text-software-for-2024/"><u>Streamlined Conversion Experience Superior Video-to-Text Software for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-overcoming-black-screens-during-obs-captures/"><u>Troubleshooting Steps for Overcoming Black Screens During OBS Captures</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-guide-10-best-webm-to-mp4-converter-software/"><u>Updated 2024 Approved The Ultimate Guide 10 Best WebM to MP4 Converter Software</u></a></li>
+</ul></div>
 

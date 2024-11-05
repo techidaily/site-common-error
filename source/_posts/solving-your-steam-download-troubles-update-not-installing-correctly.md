@@ -1,7 +1,7 @@
 ---
 title: "Solving Your Steam Download Troubles: Update Not Installing Correctly"
-date: 2024-10-23T18:03:57.995Z
-updated: 2024-10-30T17:34:23.190Z
+date: 2024-11-02T21:18:26.751Z
+updated: 2024-11-04T20:01:22.833Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ net start cryptsvc
 
  If it is, then you’ve solved your problem. But if not, you may need to…
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Modify your Windows setting in the registry
 
  This issue can also be fixes by adjusting a Windows Update setting in the registry. Here is how:
@@ -76,39 +83,42 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-905.png)
 3. If prompted, click**Yes** .
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. On the Registry Editor, click**File** , then select**Export** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
-9. Change the**value data** to**0** , then click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
+9. Change the**value data** to**0** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
@@ -121,18 +131,33 @@ To do so:
 1. Press the**Windows log key** and**R** on your keyboard to invoke the Run dialog.
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Run Windows Update and see if the “0x8024002e” error occurs. If not, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
@@ -147,32 +172,18 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 16. Click**OK** and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If there’s any startup item that causes the 0x8024002e error, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 
@@ -197,24 +208,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-digital-storytelling-creating-compelling-gifs/"><u>[New] 2024 Approved Digital Storytelling Creating Compelling GIFs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capturing-the-spectrum-a-broad-overview-of-recorders/"><u>[New] In 2024, Capturing the Spectrum A Broad Overview of Recorders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-how-to-infuse-your-iphone-pics-with-movement/"><u>[New] In 2024, How to Infuse Your iPhone Pics with Movement</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/empower-your-site-with-cookiebot-the-secret-ingredient-for-success/"><u>Empower Your Site with Cookiebot: The Secret Ingredient for Success</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-6-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 6</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-mini-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 mini to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Get and Use Pokemon Go Promo Codes On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-90-lite-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 90 Lite Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/methods-for-converting-voc-audio-tracks-to-mp3-compatible-with-windows-macos-and-online-solutions/"><u>Methods for Converting VOC Audio Tracks to MP3: Compatible with Windows, macOS, and Online Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-limited-hardware-running-fortnite-on-discontinued-windows-graphics-drivers/"><u>Overcoming Limited Hardware: Running Fortnite on Discontinued Windows Graphics Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-unresponsive-google-chrome-issues/"><u>Resolved: Fixing Unresponsive Google Chrome Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/selecting-superior-desk-protective-matts/"><u>Selecting Superior Desk Protective Matts</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-setup-hanging-expert-advice-to-get-your-computer-running-smoothly-again/"><u>Solving 'Windows Setup Hanging': Expert Advice to Get Your Computer Running Smoothly Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-puzzle-escaping-the-endless-loop-of-windows-configuration/"><u>Solving the Puzzle: Escaping the Endless Loop of Windows Configuration</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-obtain-trustedinstaller-rights-for-file-modification/"><u>Steps to Obtain TrustedInstaller Rights for File Modification</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207886488-troubleshoot-windows-11s-disappearing-bluetooth-fast-fixes-for-seamless-connectivity/"><u>Troubleshoot Windows 11'S Disappearing Bluetooth: Fast Fixes for Seamless Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repair-techniques-for-critical-process-died-error-0xc00000e9-on-windows-systems/"><u>Troubleshooting and Repair Techniques for Critical Process Died (Error 0XC00000E9) on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-dolby-atmos-problem-on-your-pc-running-windows-10/"><u>Troubleshooting the Dolby Atmos Problem on Your PC Running Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-audio-problems-solved-mastering-system-volume-controls/"><u>Windows 11 Audio Problems Solved: Mastering System Volume Controls</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-journey-beyond-top-10-global-explorer-channels/"><u>[New] 2024 Approved A Journey Beyond Top 10 Global Explorer Channels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-visual-masterpieces-top-10-phones-with-excellent-4k-cameras-for-2024/"><u>[New] Visual Masterpieces Top 10 Phones with Excellent 4K Cameras for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1-windows-dvd-winx-dvd/"><u>1. [オンライン販売サイト推奨] Windows DVD作成プログラム WinX 無料ダウンロード - 安心できるDVD制作ツール</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/comment-resoudre-le-probleme-gpeditmsc-manquant-dans-windows-11-une-approche-en-trois-etapes/"><u>Comment Résoudre Le Problème gpedit.msc Manquant Dans Windows 11 : Une Approche en Trois Étapes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-apples-latest-titans-iphone-15-pro-vs-pro-max/"><u>Comparing Apple's Latest Titans: IPhone 15 Pro Vs. Pro Max</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-4220-in-call-of-duty-wwii-steps-for-a-successful-fixation/"><u>Error 4220 in Call of Duty WWII: Steps for a Successful Fixation</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/losungen-zum-problem-dein-gerat-hat-nicht-migriert-auf-externer-festplatte-entschlussele-die-grunde-und-nimm-massnahmen/"><u>Lösungen Zum Problem: Dein Gerät Hat Nicht Migriert, Auf Externer Festplatte – Entschlüssele Die Gründe Und Nimm Maßnahmen!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/745786-9781451665017-the-secret-language-of-your-name/"><u>The Secret Language of Your Name | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-rectify-non-functional-mic-on-corsair-hs50-gaming-headset/"><u>Troubleshoot and Rectify Non-Functional Mic on Corsair HS50 Gaming Headset</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-windows-update-error-0x802n200d-for-seamless-operations/"><u>Troubleshooting and Solving Windows Update Error 0X802n200d for Seamless Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-no-more-freezing-launching-windows-10-smoothly/"><u>Troubleshooting Guide: No More Freezing - Launching Windows 10 Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microsofts-wireless-screen-mirroring-accessory-for-seamless-connectivity-on-windows-10/"><u>Troubleshooting Microsoft's Wireless Screen Mirroring Accessory for Seamless Connectivity on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-your-disconnected-mouse-woes/"><u>Ultimate Guide: Solving Your Disconnected Mouse Woes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Error Message - Missing Devices in Windows Systems (Versions 11, 8 & 7)
-date: 2024-10-29T16:31:39.612Z
-updated: 2024-10-30T18:08:13.773Z
+date: 2024-10-31T03:09:08.587Z
+updated: 2024-11-04T22:18:37.824Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ When you fail to access another computer of the same network, or when you cannot
 
  The screenshot below comes from Windows 10, but the fixes also apply to Windows 7/8/11.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Change adapter options
 
  The network adapter enables your computer to transmit and receive data on a local area network. If you’re having the 0x800704cf error, try changing the adapter settings to see if that resolves the problem.
@@ -54,13 +61,6 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select**Status** . Then, click**Change adapter options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-3-2.jpg)
@@ -70,10 +70,10 @@ When you fail to access another computer of the same network, or when you cannot
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Uncheck**Client for Microsoft Networks** , and click**OK** .
@@ -108,13 +108,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now that the DNS cache is cleared, NetBIOS entries are refreshed, and both the IP settings and Winsock catalog is reset, you should reboot your computer for the changes to take effect. After that, check if the issue persists; if yes, head towards the last fix.
 
 ---
@@ -127,6 +120,19 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select the**View** tab, and click**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-8.jpg)
@@ -134,6 +140,13 @@ netsh int ip reset
 **3)** Double-click**Network adapters** to view all the devices under this category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Right-click a device and click**Uninstall device** .
 
@@ -159,6 +172,13 @@ netsh int ip reset
 2. **[Run the Windows troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reset the Microsoft Store](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Sign in with Microsoft account
 
  The 0x800704cf error can arise when you’re logged in using a local account. Try signing in to your Microsoft account and see if the issue is resolved.
@@ -166,13 +186,6 @@ netsh int ip reset
 **1)** Click the**Start** button and click the**Settings icon** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click**Accounts** .
 
@@ -192,13 +205,6 @@ netsh int ip reset
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Run the Windows troubleshooter
 
  If the 0x800704cf error keeps appearing when you’re using the Microsoft Store, the Windows built-in troubleshooter is an effective tool that may help you out.
@@ -211,29 +217,22 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select**All network adapters** , and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Wait for the troubleshooting process to complete, and close the troubleshooter.
 
 **5)** Click**troubleshoot** in the search box and click**Troubleshooting settings** to open the troubleshoot menu again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Scroll down to click**Windows Store Apps** and click**Run the troubleshooter** .
 
@@ -259,6 +258,13 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Scroll down and click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-4-1.jpg)
@@ -272,6 +278,13 @@ netsh int ip reset
  Network issue like 0x800704cf error is a common PC problem but it’s insufferable. There’s so much you can’t do without the Internet, and even worse, you can’t search a solution to fix it. If you’ve frequently run into this kind of issues such as no or slow Internet access, be sure to check our bonus tips below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus tips: Update your network driver
 
@@ -294,13 +307,6 @@ netsh int ip reset
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -331,19 +337,20 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unveil-the-subject-background-removal-techniques-in-photopea/"><u>[New] 2024 Approved Unveil the Subject Background Removal Techniques in Photopea</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-plain-screen-recorder-windows-10-edition/"><u>2024 Approved Plain Screen Recorder - Windows 10 Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/blending-beats-and-visuals-a-tutorial-on-youtube-music-addition/"><u>Blending Beats and Visuals A Tutorial on YouTube Music Addition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-unforeseen-thrills-of-yokus-island-express-an-immersive-review/"><u>Exploring the Unforeseen Thrills of Yoku's Island Express - An Immersive Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/extract-audio-from-mp4-the-best-mp4-to-mp3-converters-this-year-for-2024/"><u>Extract Audio From MP4 The Best MP4 to MP3 Converters This Year for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/les-15-meilleurs-logiciels-de-conversion-video-en-4k-sans-cout-pour-windows-et-mac/"><u>Les 15 Meilleurs Logiciels De Conversion Vidéo en 4K Sans Coût Pour Windows Et Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-11-audio-hurdles-effective-solutions-to-dead-volume-buttons/"><u>Overcoming Windows 11 Audio Hurdles – Effective Solutions to Dead Volume Buttons</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-guide-to-capturing-webcam-dialogues/"><u>Step-by-Step Guide to Capturing Webcam Dialogues</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-no-hardware-recognition-on-icue-platforms/"><u>Step-by-Step Solutions to Overcome 'No Hardware Recognition' On ICUE Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/student-friendly-guide-to-score-big-savings-on-apple-music-with-authorized-discounts/"><u>Student-Friendly Guide to Score Big Savings on Apple Music with Authorized Discounts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-compatible-file-types-for-unlimited-streaming-on-quicktime-audio-and-video/"><u>Top Compatible File Types for Unlimited Streaming on QuickTime: Audio & Video</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-ps4-ce-34878-0-error-a-comprehensive-tutorial/"><u>Troubleshooting and Fixing the PS4 CE-34878-0 Error - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210164187-troubleshooting-why-your-pc-wont-update-windows-easy-fixes-inside/"><u>Troubleshooting: Why Your PC Won't Update Windows – Easy Fixes Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-windows-10-update-failures-expert-tips-for-a-smooth-experience/"><u>Winning the Battle Against Windows 10 Update Failures: Expert Tips for a Smooth Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tips-for-extending-instagram-videos-beyond-limits/"><u>[New] Tips for Extending Instagram Videos Beyond Limits</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>[New] YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-role-of-competitive-intelligence-in-effective-market-research/"><u>[Updated] The Role of Competitive Intelligence in Effective Market Research</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unveiling-facetunes-potential-photo-editing-like-never-before/"><u>2024 Approved Unveiling Facetune's Potential Photo Editing Like Never Before</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/come-recuperare-informazioni-da-un-ssd-che-rifiuta-lavvio-passaggi-chiave-per-il-successo/"><u>Come Recuperare Informazioni Da Un SSD Che Rifiuta L'avvio: Passaggi Chiave per Il Successo</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-resolving-the-windows-11-reboot-cycle-dilemma/"><u>Effortlessly Resolving the Windows 11 Reboot Cycle Dilemma</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-enhancements-for-terria-pros/"><u>Essential Enhancements for Terria Pros</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-resolving-the-dilemma-of-a-unresponsive-charging-ps4-gamepad/"><u>Expert Guide: Resolving the Dilemma of a Unresponsive Charging PS4 Gamepad</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-persistent-reboot-loop-in-windows-11-and-10-systems/"><u>Fixes for Persistent Reboot Loop in Windows 11 & 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-there-was-an-error-setting-up-your-pc-bug-in-windows-11-fixed-now/"><u>How to Resolve 'There Was an Error Setting up Your PC' Bug in Windows 11 - Fixed Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-startup-hurdles-a-comprehaster-guide-for-origin-game-launches/"><u>Overcoming Startup Hurdles - A Comprehaster Guide for Origin Game Launches</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-your-mouses-right-click-in-windows-10/"><u>Step-by-Step Guide to Restoring Your Mouse's Right Click in Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-art-of-google-meet-modifications-using-masks-and-effects/"><u>The Art of Google Meet Modifications Using Masks & Effects</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-correcting-the-sxs-configuration-flaw-in-windows-11-a-detailed-fix-guide/"><u>Understanding and Correcting the SxS Configuration Flaw in Windows 11: A Detailed Fix Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/voltage-visions-more-than-electricity/"><u>Voltage Visions: More than Electricity</u></a></li>
 </ul></div>
 

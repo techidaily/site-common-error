@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Steps to Correct Error 0X80071AC3 - Faulty Disk Cleanup
-date: 2024-10-24T16:29:40.970Z
-updated: 2024-10-30T16:48:36.654Z
+date: 2024-11-01T18:13:27.619Z
+updated: 2024-11-05T04:51:14.029Z
 tags:
   - win11
   - win10
@@ -56,13 +56,6 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
@@ -74,10 +67,10 @@ To rule out this as a possibility:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
@@ -90,6 +83,13 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
@@ -97,6 +97,13 @@ To make sure you’ve this setting disabled:
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
@@ -114,38 +121,31 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -171,19 +171,22 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-cementing-climactic-conclusions/"><u>[New] 2024 Approved Cementing Climactic Conclusions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-streaming-mastery-with-obs-game-mode/"><u>[Updated] 2024 Approved Streaming Mastery with OBS Game Mode</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-budget-friendly-methods-for-youtube-card-creation/"><u>[Updated] In 2024, Budget-Friendly Methods for YouTube Card Creation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-ideal-dslrs-for-animation-filmmaking/"><u>[Updated] In 2024, Ideal DSLRs for Animation Filmmaking</u></a></li>
-<li><a href="https://common-error.techidaily.com/age-of-empires-3-startup-errors-overcoming-initialization-failure-effortlessly/"><u>Age of Empires 3 Startup Errors: Overcoming Initialization Failure Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-non-updating-windows-11-systems/"><u>Effective Fixes for Non-Updating Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ergonomic-revolution-how-a-week-of-using-a-split-keyboard-transformed-my-tech-habits/"><u>Ergonomic Revolution: How a Week of Using a Split Keyboard Transformed My Tech Habits</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-constant-crashes-while-playing-state-of-decay-2-2024-solutions/"><u>How to Prevent Constant Crashes While Playing State of Decay 2 (2024 Solutions)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-code-28-error-in-windows-device-manager-for-seamless-operation/"><u>How to Repair Code #28 Error in Windows Device Manager for Seamless Operation</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-your-bluetooth-connectivity-problems-in-windows-10-ultimate-fixes/"><u>How to Resolve Your Bluetooth Connectivity Problems in Windows 10 - Ultimate Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-errors-while-updating-or-installing-games-on-steam-platform/"><u>How to Successfully Overcome Errors While Updating or Installing Games on Steam Platform</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-12-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 12 online without jailbreak</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-xcover-6-pro-tactical-edition-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy XCover 6 Pro Tactical Edition Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-assessing-dji-phantom-3-professionals-performance/"><u>[New] Assessing DJI Phantom 3 Professional's Performance</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-optimal-downloaders-your-guide-to-superior-4k-content/"><u>[New] In 2024, Optimal Downloaders Your Guide to Superior 4K Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-and-leveraging-influencers-on-snapchat/"><u>2024 Approved Understanding and Leveraging Influencers on Snapchat</u></a></li>
+<li><a href="https://common-error.techidaily.com/effectively-managing-elevated-cpu-utilization-in-system-idle-tasks-a-solution-guide/"><u>Effectively Managing Elevated CPU Utilization in System Idle Tasks: A Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-to-speed-up-your-slow-responding-keyboard/"><u>Effortless Fixes to Speed Up Your Slow-Responding Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-gameplay-by-addressing-incompatible-device-drivers-a-fix-for-world-of-warcraft-users/"><u>Enhancing Gameplay by Addressing Incompatible Device Drivers – A Fix for World of Warcraft Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-experts/"><u>Exploring Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-invalid-directory-name-error-step-by-step-troubleshooting-guide/"><u>How to Fix 'Invalid Directory Name' Error: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-gionee-f3-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Gionee F3 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170382520-nvidia-drivers-the-solution-to-your-computer-glitches/"><u>Nvidia Drivers: The Solution to Your Computer Glitches.</u></a></li>
+<li><a href="https://common-error.techidaily.com/reestablishing-connection-between-pc-and-amd-hd-audio-equipment/"><u>Reestablishing Connection Between PC and AMD HD Audio Equipment</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-video-playback-error-224003-quickly-and-get-back-to-watching/"><u>Resolve 'Video Playback Error 224003' Quickly and Get Back to Watching</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/steps-for-unlocking-stuck-obs-fullscreen-mode/"><u>Steps for Unlocking Stuck OBS Fullscreen Mode</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210106262-troubleshoot-windows-10-bluetooth-not-detected-with-ease/"><u>Troubleshoot Windows 10 Bluetooth Not Detected with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-with-steam-apps-dll/"><u>Troubleshooting Error with Steam App's Dll</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-choosing-the-perfect-usb-c-cable/"><u>Ultimate Guide: Choosing the Perfect USB-C Cable</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-xs-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone XS i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

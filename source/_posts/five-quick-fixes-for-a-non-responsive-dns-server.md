@@ -1,7 +1,7 @@
 ---
 title: Five Quick Fixes for a Non-Responsive DNS Server
-date: 2024-10-29T18:00:53.887Z
-updated: 2024-10-30T17:22:22.363Z
+date: 2024-11-02T18:19:51.124Z
+updated: 2024-11-05T03:30:28.249Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042f
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -65,13 +52,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -98,10 +78,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -128,6 +108,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -137,15 +124,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -156,13 +150,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -170,6 +157,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,24 +199,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-perfect-ringtones-from-popular-tiktok-audio-tracks/"><u>[New] Crafting Perfect Ringtones From Popular TikTok Audio Tracks</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-acid-pro-a-deep-dive-and-competitive-matchups/"><u>[Updated] ACID Pro A Deep Dive & Competitive Matchups</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-charting-success-with-youtube-income-streams/"><u>[Updated] Charting Success with YouTube Income Streams</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mac-audio-sync-for-screen-captures/"><u>[Updated] In 2024, Mac Audio Sync for Screen Captures</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-easy-anti-cheat-troubles-for-a-smooth-new-world-game-launch/"><u>Bypassing Easy Anti-Cheat Troubles for a Smooth New World Game Launch</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-the-code-solutions-for-prevalent-rainmeter-errors/"><u>Deciphering the Code: Solutions for Prevalent Rainmeter Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fix-guide-tackling-failed-renderer-initialization-updates/"><u>Easy Fix Guide: Tackling Failed Renderer Initialization Updates</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/filmmaking-simplified-create-an-inviting-youtube-subscription-button-in-filmora-for-2024/"><u>Filmmaking Simplified Create an Inviting YouTube Subscription Button in Filmora for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-how-to-correctly-establish-a-directx-rendering-device/"><u>Fixed: How to Correctly Establish a DirectX Rendering Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/ftdi-bus-system-and-memory-safety-troubleshooting-driver-mismatches-for-optimal-performance/"><u>FTDI Bus System and Memory Safety: Troubleshooting Driver Mismatches for Optimal Performance</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-find-n3-flip-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Find N3 Flip Devices | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-dilemma-heres-how-to-get-your-backspace-working-again/"><u>Keyboard Dilemma? Here's How to Get Your Backspace Working Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-minecraft-multiplayer-essential-solutions-to-get-your-lan-up-and-running/"><u>Mastering Minecraft Multiplayer: Essential Solutions to Get Your LAN Up and Running</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-in-windows-11/"><u>Resolving Svchost.exe's Excessive CPU Consumption in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-honor-magic-5-lite-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor Magic 5 Lite ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-a-disappearing-bluetooth-icon-in-windows-10-solutions-unveiled/"><u>Troubleshooting a Disappearing Bluetooth Icon in Windows 10: Solutions Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-applicationexe-halted-errors/"><u>Troubleshooting Tips: Overcoming 'Application.Exe' Halted Errors</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-seamless-storytelling-3-transition-techniques-for-final-cut-pro/"><u>Updated 2024 Approved Seamless Storytelling 3 Transition Techniques for Final Cut Pro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-composing-accompaniment-for-film-scenes/"><u>Updated In 2024, Composing Accompaniment for Film Scenes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-advanced-tips-for-professionally-changing-image-hues/"><u>[New] 2024 Approved Advanced Tips for Professionally Changing Image Hues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-affordable-reliable-a-list-of-the-best-free-mobile-streamers/"><u>2024 Approved Affordable, Reliable A List of the Best Free Mobile Streamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-value-shooters-with-full-spherical-capture/"><u>2024 Approved Best Value Shooters with Full Spherical Capture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-art-of-avatar-design-in-the-metaverse-explained-simply/"><u>2024 Approved The Art of Avatar Design in the Metaverse Explained Simply</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-visionmaster-vs-screencapturer/"><u>2024 Approved VisionMaster vs ScreenCapturer</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-ways-to-fix-windows-10-sfc-and-dism-tools-unveiled/"><u>Exploring Ways to Fix Windows 10: SFC and DISM Tools Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-stuck-or-unresponsive-function-keys-a-comprehnse-guide-for-dell-users/"><u>Fixing Stuck or Unresponsive Function Keys: A Comprehnse Guide for Dell Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-of-your-computer-cutting-off-mid-game-in-windows-1110781-and-8/"><u>Fixing the Issue of Your Computer Cutting Off Mid-Game in Windows 11/10/7/8.1 & 8</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-and-restore-functionality-of-your-malfunctioning-corsair-keyboard/"><u>How to Repair and Restore Functionality of Your Malfunctioning Corsair Keyboard</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Identify some outdated drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigate-and-optimize-windows-11s-file-explorer-like-a-pro/"><u>Navigate and Optimize Windows 11'S File Explorer Like a Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-to-restore-functionality-of-lenovos-biometric-reader/"><u>Simple Solutions to Restore Functionality of Lenovo's Biometric Reader</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-fix-inaccessible-desktop-error-within-system-profile-folder-in-windows/"><u>Steps to Fix Inaccessible Desktop Error Within System Profile Folder in Windows.</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-obs-replacement-software-compared-best-mac-and-windows-options-by-allavsoft/"><u>Top OBS Replacement Software Compared: Best Mac & Windows Options by Allavsoft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turning-off-the-text-overlays-for-movies-and-shows-on-amazons-prime-video-platform/"><u>Turning Off The Text Overlays for Movies and Shows on Amazon's Prime Video Platform</u></a></li>
 </ul></div>
 

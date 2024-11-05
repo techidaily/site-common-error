@@ -1,7 +1,7 @@
 ---
 title: Undetected Hard Drives? Find Out Why and How You Can Fix It
-date: 2024-10-28T18:27:33.124Z
-updated: 2024-10-30T16:55:32.294Z
+date: 2024-11-02T16:12:29.246Z
+updated: 2024-11-04T17:59:04.311Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ When you connect a hard drive to your computer but you can’t find it in File E
 5. **[Check if your data cable is damaged or unplugged](https://tools.techidaily.com/drivereasy/download/)**
 **NOTE:**The screenshots below are from Windows 10, but all the methods applies to other operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Initialize your hard drive
 
 If your hard drive is a raw drive or corrupted, then you may not find it in Windows Explorer. You can solve it through initializing your hard drive. See how to do it:
@@ -48,7 +41,22 @@ If your hard drive is a raw drive or corrupted, then you may not find it in Wind
 2. Type**diskmgmt.msc** and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b768a9bae76d.png)
 3. You may probably find you hard drive at the bottom of the open window with the status**Unallocated** . Right-click on your hard drive to select**New Simple Volume…** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b768bb5805ec.jpg)
 4. Go on to follow the **New Simple Volume wizard** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once you finish all the steps, press the Windows logo key and E at the same time to open File Explorer to see if your hard driver is detected. If you see your hard drive, so great! If your hard drive is still not detected, don’t worry, move onto Solution 2.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Change your hard drive letter and path
 
@@ -59,26 +67,19 @@ If your hard drive has not been set for a proper drive letter and path, it could
 3. Right-click on your hard drive, then select **Change Letters and Paths…** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b768f4188c15.jpg)
 4. Click**Add** or**Change** whichever is available according to the windows on your computer.![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7691205ad6a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Choose a letter for your hard drive from the drop down menu. Then click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7691111a8ff.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your computer and press the Windows logo key and E at the same time to open Windows Explorer to see if your hard drive is detected.
@@ -93,17 +94,10 @@ If your**motherboard driver**is out-of-date, your hard drive may not be detected
 Restart your computer. Once your computer boots, press the Windows logo key and E at the same time to open File explorer to see if your hard drive is detected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 4: Check if your hard drive is enabled in BIOS
@@ -114,6 +108,13 @@ You hard drive is not detected could be also due to that it’s not enabled in y
 2. You can then check the status of your hard drive or its controller in the specific section. If your hard drive is off or not selected, set it to on or tick it.
 3. Press F10 to save your settings and exit BIOS.
 4. Your computer will then boot into Windows system. Press the Windows logo key and E at the same time to open File Explorer to see if your hard drive is detected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5: Check if your data cable is damaged or unplugged
 
@@ -141,20 +142,22 @@ If your**USB hard drive**isn’t detected, you can try to connect your USB drive
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-real-time-screen-replay-on-chrome-pcs/"><u>[New] 2024 Approved Real-Time Screen Replay on Chrome PCs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mc-community-living-best-residential-blueprints/"><u>[New] In 2024, MC Community Living Best Residential Blueprints</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nstant-access-weaving-youtube-songs-into-imovie-videos-for-2024/"><u>[New] Instant Access Weaving YouTube Songs Into iMovie Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-game-console-deals-under-100-for-2024/"><u>[New] Ultimate Game Console Deals Under 100$ for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-resolving-the-detected-errors-in-your-windows-10-update-database/"><u>Expert Guide: Resolving the Detected Errors in Your Windows 10 Update Database</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-annoying-screen-tremble-on-your-windows-11-pc/"><u>Fixing the Annoying Screen Tremble on Your Windows 11 PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-software-for-mac-users-transforming-dvd-content-into-imovie-mp4-seamlessly-with-macx-toolkit/"><u>Free Software for Mac Users: Transforming DVD Content Into iMovie MP4 Seamlessly with MacX Toolkit</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-change-rendering-api-issue-in-dota-2-error-2024/"><u>How to Resolve Change Rendering API Issue in Dota 2 (Error 2024)</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212249865-missing-vital-media-driver-find-and-install-the-necessary-components-now/"><u>Missing Vital Media Driver? Find and Install the Necessary Components Now!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-cherished-websites-presenting-fee-free-acoustic-guitar-lyrics-and-illustrations/"><u>New In 2024, Cherished Websites Presenting Fee-Free Acoustic Guitar Lyrics & Illustrations</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-the-issue-what-to-do-when-you-encounter-error-4013-on-ios-updaterestore/"><u>Resolving the Issue: What to Do When You Encounter Error 4013 on iOS Update/Restore</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211224389-9780762488360-the-little-encyclopedia-of-enchanted-woodland-creatures/"><u>The Little Encyclopedia of Enchanted Woodland Creatures | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-no-speakers-or-headphones-detected-by-windows-11-os/"><u>Troubleshooting No Speakers or Headphones Detected by Windows 11 OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206011673-windows-n-11-audio-troubles-heres-how-to-restore-your-mic-functionality/"><u>Windows N 11 Audio Troubles? Here's How to Restore Your Mic Functionality!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-overcoming-challenges-in-ppt-screen-capture-for-2024/"><u>[New] Overcoming Challenges in PPT Screen Capture for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chuckle-worthy-captures-for-iphones/"><u>[Updated] Chuckle-Worthy Captures for IPhones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-comprehensive-but-concise-guide-to-keyers-techniques-for-2024/"><u>[Updated] Comprehensive but Concise Guide to Keyers' Techniques for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/20-anker-charger-transforms-portability-woes-discover-how-at-zdnet/"><u>$20 Anker Charger Transforms Portability Woes - Discover How at ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-creating-dynamic-content-with-youtube-playlist-embedding/"><u>2024 Approved Creating Dynamic Content with YouTube Playlist Embedding</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-ntoskrnlexes-high-resource-consumption/"><u>Addressing Ntoskrnl.exe's High Resource Consumption</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-ftdi-interface-errors-resolving-memory-compromise-due-to-driver-mismatches/"><u>Dealing with FTDI Interface Errors: Resolving Memory Compromise Due to Driver Mismatches</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-meaning-and-necessity-of-games-meta/"><u>Deciphering the Meaning and Necessity of Game's 'Meta'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-leading-indoor-gardens-curated-by-zdnet/"><u>Discover the Ultimate Selection: Leading Indoor Gardens Curated by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solutions-to-restore-video-input-on-displays-guide/"><u>DIY Solutions to Restore Video Input on Displays (Guide)</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-get-your-alt-plus-tab-functionality-back/"><u>Fixing the Issue: How to Get Your Alt + Tab Functionality Back</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restart-and-solve-audio-problems-in-windows-solved/"><u>How to Restart and Solve Audio Problems in Windows ([Solved])</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-y17s-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo Y17s Through Google Earth?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-realtek-alc887-driver-challenges-on-windows-systems/"><u>Overcoming Realtek ALC887 Driver Challenges on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-video-playback-failed-error-224003-a-comprehensive-guide/"><u>Resolving 'Video Playback Failed: Error 224003' - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-fixing-the-sudden-stop-of-applicationexe/"><u>Troubleshooting Success: Fixing the Sudden Stop of 'Application.exe'</u></a></li>
+<li><a href="https://common-error.techidaily.com/win-update-error-8007000e-masterful-techniques-to-solve-it-quickly/"><u>Win Update Error 8007000E - Masterful Techniques to Solve It Quickly!</u></a></li>
 </ul></div>
 

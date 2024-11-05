@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Eliminating Lag in Your Minecraft Adventures
-date: 2024-10-25T16:56:04.262Z
-updated: 2024-10-30T17:55:20.600Z
+date: 2024-10-30T22:17:59.654Z
+updated: 2024-11-04T23:54:47.941Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 | **Memory**           | 4 GB RAM                  |
 | **Graphics Card**    | Intel HD 4000             |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that works for you.
@@ -50,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Adjust the display resolution and refresh rate
 
  If screen tearing keeps occurring, it’s possible that your display resolution is configured to a higher point than what your monitor can handle. Adjusting it might help you fix the issue.
@@ -65,20 +65,28 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/search-box-resolution.jpg)
 2. Scroll down to the end and select**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-display-settings.jpg)
 3. Select**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-dis-settings.jpg)
 4. On the Adapter tab, click**List All Modes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/display-adapter.jpg)
 5. A list of different resolutions will show on the screen. Select one according to your hardware specifications.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/list-all-modes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your PC after each time you change the settings and see if screen tearing still appears.
 
@@ -95,21 +103,28 @@ If the problem persists, move on to the next fix.
 3. On your screen or the folder where you put your game, right click the game icon and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-right-click.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **If the problem persists, you can also disable fullscreen optimizations:**
 
 1. Click the Compatibility tab. Under the settings section, check**Disable fullscreen optimizations** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-properties.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Restart your PC and launch Valorant again to see if the problem is fixed.
 
 if it is not helping, simply move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Change power settings**
 
@@ -118,14 +133,21 @@ if it is not helping, simply move on to the next fix.
 1. On your keyboard, press**Win** +**R** (the Windows logo key and the R key) to open the Run box. Then type**powercfg.cpl** in the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/runcommand-power.jpg)
 2. In the Power Options menu, click the**Show additional plans** arrow and select**High performance** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/power-high-perform.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/power-high-perform.jpg)
 
 Restart your PC and check if anything changes.
 
@@ -143,6 +165,14 @@ If nothing changes, you might need to check your graphic drivers.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-scan-now-11.jpg)
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro** **version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -152,13 +182,6 @@ If nothing changes, you might need to check your graphic drivers.
  After updating your drivers, restart your PC and check if the problem is solved.
 
 If it doesn’t do the trick, simply move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5:**Turn on VSync**
 
@@ -178,21 +201,16 @@ If it doesn’t do the trick, simply move on to the next fix.
 1. At the bottom left of the screen, click the search box and type**amd** . Then click**AMD Radeon Software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. At the top right corner of the menu, click the settings icon. Then select the**Graphics** tab and navigate to**Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
-3. Click**Always on** .  
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
+3. Click**Always on** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
@@ -208,13 +226,6 @@ If it doesn’t do the trick, simply move on to the next fix.
 
 No luck with that? Keep reading.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6:**Apply optimized Valorant Settings**
 
  No player is playing on a perfect computer. So we do have some suggestions on in-game settings to boost your PC’s display performance. They are personal experiences from enthusiastic players. You could try and see if it fix your problem:
@@ -227,13 +238,6 @@ No luck with that? Keep reading.
 Launch your game again and check for any changes.
 
 If it doesn’t help, move on to the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7:**Cap Valorant’s frame rate manually**
 
@@ -282,21 +286,22 @@ For AMD users:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-cutting-edge-simulators-for-sonys-playstation-3-games-pc/"><u>[New] 2024 Approved Cutting-Edge Simulators for Sony's PlayStation 3 Games (PC)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-experts-choice-the-10-best-movie-making-cameras/"><u>[New] 2024 Approved Expert's Choice The 10 Best Movie Making Cameras</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elites-free-guide-to-10-caption-download-tools/"><u>[Updated] In 2024, Elite's Free Guide to 10 Caption Download Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-essential-audio-tools-free-superior-dj-templates-online/"><u>[Updated] In 2024, Essential Audio Tools Free, Superior DJ Templates Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfect-360-rotation-visual-exploration/"><u>[Updated] Perfect 360° Rotation Visual Exploration</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725288683990-winxvideo-ai4k8k10k/"><u>利用Winxvideo AI提升圖像品質，完美變身4K/8K/10K超高畫質影片</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211210099-9798890438836-a-daily-quest-for-any-year/"><u>A DAILY QUEST FOR ANY YEAR | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-overcome-in-game-lag-in-world-of-warcraft/"><u>Effective Strategies to Overcome In-Game Lag in World of Warcraft</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-update-error-code-0x80070002-step-by-step-guide/"><u>Fix Windows Update Error Code 0X80070002 - Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-in-building-a-d3d-rendering-pipeline/"><u>How to Fix the Error in Building a D3D Rendering Pipeline</u></a></li>
-<li><a href="https://common-error.techidaily.com/masterclass-eliminating-driver-power-disruptions-in-windows-systems/"><u>Masterclass: Eliminating Driver Power Disruptions in Windows Systems</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-list-the-best-slow-motion-video-editors-available/"><u>New 2024 Approved Top List The Best Slow Motion Video Editors Available</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-4k-displays-top-ten-elite-selections/"><u>Premium 4K Displays Top Ten Elite Selections</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-hdcp-compatible-displays-for-high-definition-streams/"><u>Troubleshooting Non-HDCP Compatible Displays for High Definition Streams</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-repairing-critical-process-died-error-0xc0000005/"><u>Troubleshooting Tips for Repairing Critical Process Died Error (0XC0000005)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-microsoft-wireless-display-adapter-for-windows-11-a-step-by-step-guide/"><u>Troubleshooting Your Microsoft Wireless Display Adapter for Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-achieve-profitability-with-powerful-facebook-video-marketing-tips/"><u>[Updated] 2024 Approved Achieve Profitability with Powerful Facebook Video Marketing Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-ps3-gaming-capture-step-by-step-guide/"><u>[Updated] Mastering PS3 Gaming Capture Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-unresponsive-headphone-connections-on-your-desktop-or-laptop/"><u>Correcting Unresponsive Headphone Connections on Your Desktop or Laptop</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-watch-hd-media-on-displays-lacking-hdcp-protection/"><u>How to Watch HD Media on Displays Lacking HDCP Protection</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-savvy-top-5-methods-for-building-a-thriving-influencer-profile-for-2024/"><u>Instagram Savvy Top 5 Methods for Building a Thriving Influencer Profile for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/la-semaine-francaise-comprendre-les-mots/"><u>La Semaine Française: Comprendre Les Mots</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsoft-silently-ends-hopes-for-windows-11-prolonged-support-devastates-fans-techspot/"><u>Microsoft Silently Ends Hopes for Windows 11 Prolonged Support, Devastates Fans | TechSpot</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-dota-2s-critical-gameplay-error-2024-update-your-rendering-settings-now/"><u>Resolve Dota 2'S Critical Gameplay Error 2024 - Update Your Rendering Settings Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-geforce-experience-launch-problem-a-comprehensive-fix-guide/"><u>Resolving the GeForce Experience Launch Problem: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211302903-resolving-windows-7-sound-driver-issues-quickly/"><u>Resolving Windows 7 Sound Driver Issues Quickly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-windowss-persistent-network-error-0x800704cf-now-resolved/"><u>Step-by-Step Solution for Windows's Persistent Network Error: 0X800704cf - Now Resolved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-resolving-the-hp-accelerometer-malfunction-under-windows-operating-system/"><u>Step-by-Step Solutions for Resolving the HP Accelerometer Malfunction Under Windows Operating System</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/superior-mkv-reader-laptoptablet-edition-for-2024/"><u>Superior MKV Reader (Laptop/Tablet Edition) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ethernet-network-errors-for-windows-117-users-effective-solutions-unveiled/"><u>Troubleshooting Ethernet Network Errors for Windows 11/7 Users: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-how-well-chatgpt-mixes-up-a-great-cocktail-recipe/"><u>Unveiling How Well ChatGPT Mixes Up a Great Cocktail Recipe</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-online-webm-video-compressors/"><u>Updated 2024 Approved Best Online WebM Video Compressors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for a Non-Functioning Windows Key on Your Windows 11 PC
-date: 2024-10-28T18:19:48.729Z
-updated: 2024-10-30T16:54:02.006Z
+date: 2024-11-03T17:05:15.314Z
+updated: 2024-11-04T18:25:06.063Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/f20754be61be25378c16e65b62ab87943c4b43cc2
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Tweak your camera privacy settings
 
  Windows allows you to tweak the camera privacy settings to have a control over whether you allow access to camera on your HP laptop and which apps are allowed or denied. To make sure it’s enabled:
@@ -47,22 +40,8 @@ thumbnail: https://thmb.techidaily.com/f20754be61be25378c16e65b62ab87943c4b43cc2
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff3b628678.png)
 2. Make sure to toggle**On** **Allow apps to access your camera** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
 3. Scroll down to**Choose which apps can access your camera** and toggle**On** ALL the apps you want access to camera.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff6254a550.jpg)
 4. Close the window, test the camera and see if it’s working properly. If it works, then congrats! But if it doesn’t, please move on to**Fix 2** , below.
@@ -70,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/f20754be61be25378c16e65b62ab87943c4b43cc2
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your camera driver
@@ -90,9 +69,29 @@ thumbnail: https://thmb.techidaily.com/f20754be61be25378c16e65b62ab87943c4b43cc2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffcedce806.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0033072f1b.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -111,18 +110,27 @@ To do so:
 1. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00c2cd78eb.png)
 2. Double-click on either   **Cameras** or**Imaging devices** to reveal your camera device.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00fd3e6f44.jpg)
 3. Right-click on**your camera device** and click**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01186337dc.jpg)
 4. Click **Yes**   to confirm the uninstall.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart**   your computer.
 6. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00c2cd78eb.png)
@@ -151,18 +159,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unveiling-google-meets-screen-alteration-techniques/"><u>[New] 2024 Approved Unveiling Google Meet's Screen Alteration Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-effortless-viewing-tackling-instagram-video-issues/"><u>[Updated] In 2024, Effortless Viewing Tackling Instagram Video Issues</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-navigating-wirecast-for-high-quality-youtube-broadcasts/"><u>[Updated] In 2024, Navigating WireCast for High-Quality YouTube Broadcasts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pure-capture-suite-ads-free-version/"><u>[Updated] In 2024, Pure Capture Suite Ads-Free Version</u></a></li>
-<li><a href="https://games-able.techidaily.com/1300-samsung-odyssey-vr-headset-now-available-in-major-retailers-like-walmart-and-target/"><u>$1,300 Samsung Odyssey VR Headset Now Available in Major Retailers Like Walmart and Target</u></a></li>
-<li><a href="https://common-error.techidaily.com/compatibility-check-required-a-graphics-processor-with-directx-11-support-is-mandatory/"><u>Compatibility Check Required: A Graphics Processor with DirectX 11 Support Is Mandatory</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-broken-usb-interface-problems-within-windows-11-environments/"><u>Effective Solutions for Broken USB Interface Problems Within Windows 11 Environments</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-c55-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme C55 to iPad | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/lose-not-the-tracking-of-your-sd-cards/"><u>Lose Not the Tracking of Your SD Cards!</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigate-with-ease-expert-tips-for-optimizing-file-explorer-in-windows-11/"><u>Navigate with Ease: Expert Tips for Optimizing File Explorer in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/random-reboots-on-windows-11-os/"><u>Random Reboots on Windows 11 OS</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210941925-9781912850839-the-spirit-of-life/"><u>The Spirit of Life | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-audio-troubles-how-to-repair-your-microphone/"><u>Windows 11 Audio Troubles: How to Repair Your Microphone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-boundaries-hps-z32x-4k-revelation/"><u>[New] Pushing Boundaries HP’s Z32X 4K Revelation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-step-by-step-telegram-web-setup-for-novices/"><u>2024 Approved Step-by-Step Telegram Web Setup for Novices</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-error-0x80780119-on-system-image/"><u>Addressing Windows Error 0X80780119 on System Image</u></a></li>
+<li><a href="https://common-error.techidaily.com/brightness-adjustment-missing-need-a-solution/"><u>Brightness Adjustment Missing, Need a Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboard-not-working-heres-what-you-need-to-know-and-how-to-get-it-fixed-quickly/"><u>Corsair Keyboard Not Working? Here's What You Need to Know & How to Get It Fixed Quickly!</u></a></li>
+<li><a href="https://facebook.techidaily.com/exclusive-free-application-review-maximizing-social-efficacy/"><u>Exclusive Free Application Review: Maximizing Social Efficacy</u></a></li>
+<li><a href="https://win-blog.techidaily.com/final-fix-for-obs-screen-record-bug-seamless-broadcasting-restored/"><u>Final Fix for OBS Screen Record Bug – Seamless Broadcasting Restored</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-seamlessly-install-battleye-troubleshooting-guide/"><u>How to Seamlessly Install BattlEye - Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-windows-videodxgkrnlcrash-issue/"><u>Step-by-Step Guide: Resolving Windows Video_Dxgkrnl_Crash Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-windows-cant-reset-your-pc-message-solved/"><u>Troubleshooting and Repairing 'Windows Can't Reset Your PC' Message – Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-restore-functionality-to-your-windows-11-start-menu/"><u>Troubleshooting Guide: How to Restore Functionality to Your Windows 11 Start Menu</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-the-ps4ps5-a-step-by-step-guide-to-overcoming-mkv-format-errors/"><u>Troubleshooting the PS4/PS5: A Step-by-Step Guide to Overcoming MKV Format Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7-guide-to-elevate-your-graphics-experience-with-hp/"><u>Win7 Guide to Elevate Your Graphics Experience with HP</u></a></li>
 </ul></div>
 

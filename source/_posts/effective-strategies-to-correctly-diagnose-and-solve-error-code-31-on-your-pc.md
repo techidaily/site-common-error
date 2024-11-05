@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Correctly Diagnose and Solve Error Code 31 on Your PC
-date: 2024-10-23T16:45:46.514Z
-updated: 2024-10-30T16:35:10.497Z
+date: 2024-11-01T21:03:22.256Z
+updated: 2024-11-05T02:02:51.220Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ net start cryptsvc
 
  If it is, then you’ve solved your problem. But if not, you may need to…
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Modify your Windows setting in the registry
 
  This issue can also be fixes by adjusting a Windows Update setting in the registry. Here is how:
@@ -81,24 +88,25 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
@@ -116,48 +124,28 @@ To do so:
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Run Windows Update and see if the “0x8024002e” error occurs. If not, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
@@ -170,17 +158,26 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 16. Click**OK** and then click**Restart** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s any startup item that causes the 0x8024002e error, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 
  Hopefully one of the fixes above helped you fix your 0x8024002e error on Windows Update. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
@@ -204,21 +201,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-exclusive-guide-to-top-youtube-to-webm-conversion-software/"><u>[New] 2024 Approved Exclusive Guide to Top YouTube-to-WebM Conversion Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-determining-view-counts-direct-effect-on-creator-revenue-for-2024/"><u>[New] Determining View Count's Direct Effect on Creator Revenue for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-step-by-step-process-of-setting-up-your-logitech-webcam-for-video-for-2024/"><u>[New] Step-by-Step Process of Setting Up Your Logitech Webcam for Video for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-free-pass-to-premium-video-editing-tools/"><u>[Updated] The Free Pass to Premium Video Editing Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-a-resume-that-shines-in-design-industry/"><u>Crafting a Resume that Shines in Design Industry</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-win32-rpc-server-unavailable-error-code-0xc0000098-fixes-that-work-for-windows-users/"><u>Decoding Win32 RPC Server Unavailable (Error Code 0Xc0000098): Fixes That Work for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-computer-unresponsive-to-headphones/"><u>Fixed: Computer Unresponsive To Headphones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/missing-charge-indicators-on-windows-11-easy-fixes-for-a-fully-functional-pc/"><u>Missing Charge Indicators on Windows 11 – Easy Fixes for a Fully Functional PC</u></a></li>
-<li><a href="https://howto.techidaily.com/poco-x5-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X5 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/professional-review-mastering-your-workspace-with-dell-display-noise-canceling-headset-and-ultrasharp-video-quality/"><u>Professional Review: Mastering Your Workspace with Dell Display, Noise-Canceling Headset and UltraSharp Video Quality</u></a></li>
-<li><a href="https://common-error.techidaily.com/say-goodbye-to-problems-handling-and-correcting-windows-camera-error-code-0xa00f4292/"><u>Say Goodbye to Problems: Handling and Correcting Windows Camera Error Code 0Xa00f4292</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-unwritable-0x-referenced-memory-situation-in-programming/"><u>Troubleshooting and Fixing the Unwritable 0X Referenced Memory Situation in Programming</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-successful-network-startup-problem-solved-in-dbfz/"><u>Troubleshooting Successful! Network Startup Problem Solved in DBFZ</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlocking-potential-how-cookiebot-transforms-digital-campaigns/"><u>Unlocking Potential: How Cookiebot Transforms Digital Campaigns</u></a></li>
-<li><a href="https://common-error.techidaily.com/unveiling-common-issues-and-fixes-for-a-dark-razer-keyboard-screen/"><u>Unveiling Common Issues and Fixes for a Dark Razer Keyboard Screen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uilding-a-sports-channel-via-macos-step-by-step-guide-for-2024/"><u>[New] Building a Sports Channel via macOS Step by Step Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-valorant-stuck-on-infinite-loading-screen/"><u>[Solved] Valorant Stuck on Infinite Loading Screen</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2023s-leading-facebook-film-extractors-top-picks/"><u>[Updated] 2023'S Leading Facebook Film Extractors - Top Picks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-compreran-exploration-of-giroptics-panorama/"><u>[Updated] Compreran Exploration of Giroptic's Panorama</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transform-your-videos-with-simple-inshot-techniques-for-2024/"><u>[Updated] Transform Your Videos with Simple Inshot Techniques for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/windows-11-windowsold/"><u>如何安全清理Windows 11 'Windows.old'目录：有效策略解析</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-3-ways-to-record-live-sports-streaming/"><u>Best 3 Ways to Record Live Sports Streaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-0x80n73cf9-explained-solutions-for-your-windows-10-microsoft-store-problems/"><u>Error Code 0X80n73Cf9 Explained: Solutions for Your Windows 10 Microsoft Store Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-persistent-latency-issues-on-a-windows-11-keyboard/"><u>Fixing Persistent Latency Issues on a Windows 11 Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-vanished-desktop-shortcuts-on-windows-10-a-step-by-step-solution/"><u>Fixing Vanished Desktop Shortcuts on Windows 10: A Step-by-Step Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-vcruntime140dll-missing-error-in-windows-applications/"><u>How To Resolve vcruntime140.dll Missing Error in Windows Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-a-guide-to-correcting-icue-device-detection-failures/"><u>Overcoming the Challenge: A Guide to Correcting 'ICUE' Device Detection Failures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/sifting-through-the-sands-of-youtube-conversations-for-2024/"><u>Sifting Through the Sands of YouTube Conversations for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-using-chatgpt-for-content-creation-freelancers/"><u>The Ultimate Guide to Using ChatGPT for Content Creation (Freelancers)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-constant-reboots-top-11-solutions-for-stable-windows-11-experience/"><u>Troubleshoot Constant Reboots: Top 11 Solutions for Stable Windows 11 Experience</u></a></li>
 </ul></div>
 

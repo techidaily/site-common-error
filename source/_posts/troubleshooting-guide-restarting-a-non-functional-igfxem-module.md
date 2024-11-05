@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Restarting a Non-Functional Igfxem Module"
-date: 2024-10-25T18:33:48.208Z
-updated: 2024-10-30T16:53:02.984Z
+date: 2024-10-29T22:30:59.307Z
+updated: 2024-11-05T05:08:17.178Z
 tags:
   - win11
   - win10
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
  You may not have to try them all; just work your way down the list until you find the one that works for you.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 1: Boot your PC without Peripherals
@@ -57,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Try turning on your computer again.
@@ -70,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 If your computer still can’t boot correctly, try the fix below.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the RAM
@@ -97,13 +85,6 @@ If your computer still can’t boot correctly, try the fix below.
 RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
@@ -147,26 +128,27 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Follow the on-screen instructions to finish the restore.
 
  If you don’t have a restore point in System Restore, move on and try the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 5: Repair Corrupted System Files
 
@@ -211,10 +193,10 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
@@ -238,24 +220,22 @@ The CMOS battery looks like this
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free/"><u>[New] 2024 Approved Unleash Creativity Unlimited Samples of 50 YouTube Banners for Free</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-phones-speed-up-sound-essential-app-listing/"><u>[New] Phones’ Speed Up Sound Essential App Listing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elite-gear-for-the-immersive-vr-journey-for-2024/"><u>[Updated] Elite Gear for the Immersive VR Journey for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-professional-tips-for-hd-streaming-success-on-social-media-fb-for-2024/"><u>[Updated] Professional Tips for HD Streaming Success on Social Media (FB) for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-spark-10-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-fixes-how-to-successfully-create-a-directx-rendering-device-after-failure/"><u>Expert Fixes: How to Successfully Create a DirectX Rendering Device After Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-easily-correct-the-boot-manager-missing-issue-visual-aid/"><u>How to Easily Correct the Boot Manager Missing Issue [Visual Aid]</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-harmonizing-content-and-sound-in-instagram-reels/"><u>In 2024, Harmonizing Content & Sound in Instagram Reels</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-mastering-3d-text-in-adobe-photoshop/"><u>In 2024, Mastering 3D Text in Adobe Photoshop</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-a56s-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo A56s 5G</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-zte-nubia-flip-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on ZTE Nubia Flip 5G FRP Bypass</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a38-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A38 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/pre-run-check-fails/"><u>Pre-Run Check Fails</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-no-hardware-devices-detected-a-step-by-step-guide-to-fix-during-windows-7-setup/"><u>Resolving 'No Hardware Devices Detected': A Step-by-Step Guide to Fix During Windows 7 Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-unrecoverable-error-issues-in-directx-how-to-fix-them/"><u>Resolving 'Unrecoverable Error' Issues in DirectX - How to Fix Them</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-access-issues-with-windows-security-feature-smartscreen/"><u>Solution Steps: Access Issues with Windows Security Feature SmartScreen</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-repairing-a-failing-lenovo-fingerprint-authentication-device/"><u>Step-by-Step Guide: Repairing a Failing Lenovo Fingerprint Authentication Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-mouse-pointer-vanishes-troubleshooting-steps-and-solutions/"><u>Windows 11 Mouse Pointer Vanishes: Troubleshooting Steps and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-hidden-mouse-pointers-in-windows-11-proven-remedies-shared-here/"><u>Winning the Battle Against Hidden Mouse Pointers in Windows 11 – Proven Remedies Shared Here!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-skip-the-slip-ups-the-8-must-avoid-mistakes-for-new-youtube-stars/"><u>[New] 2024 Approved How to Skip the Slip-Ups The 8 Must-Avoid Mistakes for New YouTube Stars</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-capturing-moments-to-sharing-them-editing-with-adobe-premiere-for-2024/"><u>[New] From Capturing Moments to Sharing Them Editing with Adobe Premiere for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-influencer-integration-amplifying-engagement-through-collaborations/"><u>[Updated] Influencer Integration Amplifying Engagement Through Collaborations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-selection-ranking-the-finest-6-head-mounted-gopros/"><u>2024 Approved Expert Selection Ranking the Finest 6 Head-Mounted GOPROs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-facebook-live-vs-youtube-live-vs-twitter-periscope/"><u>2024 Approved Facebook Live Vs YouTube Live Vs Twitter Periscope</u></a></li>
+<li><a href="https://common-error.techidaily.com/elevate-your-scroll-game-in-win-11/"><u>Elevate Your Scroll Game in Win 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-windows-update-rolling-again-on-legacy-operating-systems-like-win7-latest-solutions-for-users-seeking-assistance-this-year-with-help-guide-from-e124/"><u>How to Get Windows Update Rolling Again on Legacy Operating Systems Like Win7? - Latest Solutions for Users Seeking Assistance This Year, with Help Guide From Experts of the Field.(Guide & Expert Advice)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-assessment-of-microsoft-surface-keyboard-superior-ergonomics-tested/"><u>In-Depth Assessment of Microsoft Surface Keyboard - Superior Ergonomics Tested</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-through-the-ultimate-guide-to-top-9-free-logos/"><u>Navigating Through The Ultimate Guide to Top 9 Free Logos</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-stop-error-with-32-bit-software-the-end-of-print-driver-host/"><u>Solution Steps: Stop Error with 32-Bit Software - The End Of 'Print Driver Host'</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211227468-solve-your-laptops-usb-mouse-problem-with-these-effective-tips/"><u>Solve Your Laptop's USB Mouse Problem with These Effective Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-disappearing-volume-icon-issue-on-windows-11-an-illustrated-guide/"><u>Solving the Disappearing Volume Icon Issue on Windows 11 – An Illustrated Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-repair-windows-11-update-problems-code-0x80240034/"><u>Step-by-Step Solutions to Repair Windows 11 Update Problems: Code 0X80240034</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-reno-11f-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo Reno 11F 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-101-comprehensive-fixes-for-devices-showing-a-grey-screen-error/"><u>Troubleshooting 101: Comprehensive Fixes for Devices Showing a Grey Screen Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-invisible-wi-fi-configurations-in-windows-11/"><u>Troubleshooting Invisible Wi-Fi Configurations in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dead Backlit Keys: How-To for Mac and Windows Users"
-date: 2024-10-23T17:27:24.547Z
-updated: 2024-10-30T16:51:51.853Z
+date: 2024-11-02T02:55:27.436Z
+updated: 2024-11-05T00:03:02.986Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
@@ -53,13 +53,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
@@ -67,20 +60,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -98,15 +84,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -119,6 +112,14 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click **Change advanced power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -145,24 +146,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-infinity-sphere-shooting-accessories/"><u>[New] Infinity Sphere Shooting Accessories</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-chrome-not-saving-passwords-2024-tips/"><u>[SOLVED] Chrome Not Saving Passwords | 2024 Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solved-windows-10-black-and-white-screen/"><u>[SOLVED] Windows 10 Black and White Screen</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-shenanigans-a-treasury-of-hilarity-and-creative-memes/"><u>2024 Approved Metaverse Shenanigans A Treasury of Hilarity and Creative Memes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2019-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel 2019 VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-set-up-directx-and-overcome-startup-issues/"><u>How to Successfully Set Up DirectX and Overcome Startup Issues</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-poco-x6-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Poco X6 online without jailbreak</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastered-the-art-of-launching-fortnite/"><u>Mastered the Art of Launching Fortnite</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-unable-to-connect-to-microsoft-exchange-challenge-in-outlook/"><u>Overcoming the Unable to Connect to Microsoft Exchange Challenge in Outlook</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-common-problems-with-wacom-digital-graphic-tables/"><u>Resolving Common Problems with Wacom Digital Graphic Tables</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-network-troubles-overcoming-issues-connecting-to-a-dhcp-server/"><u>Resolving Network Troubles: Overcoming Issues Connecting to a DHCP Server</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-steps-for-rapid-recovery-from-no-detected-battery-error/"><u>Simple Steps for Rapid Recovery From 'No Detected Battery' Error</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-steps-to-secure-your-firestick-with-a-reliable-vpn-setup/"><u>Simple Steps to Secure Your Firestick with a Reliable VPN Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-function-key-issues-on-your-dell-device/"><u>Step-by-Step Guide to Resolve Function Key Issues on Your Dell Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/svchostexe-overload-on-windows-11-heres-how-to-fix-it-and-reduce-cpu-usage/"><u>svchost.exe Overload on Windows 11? Here's How to Fix It and Reduce CPU Usage!</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-and-comprehensive-analysis/"><u>Tom's Computer Insights and Comprehensive Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-must-have-gps-navigation-applications-for-your-ios-device/"><u>Top 5 Must-Have GPS Navigation Applications for Your iOS Device</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-hidden-techniques-for-full-ram-utilization-on-windows/"><u>Unveiling Hidden Techniques for Full RAM Utilization on Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-elevate-youtube-rankings-with-optimized-metadata/"><u>[New] How to Elevate YouTube Rankings with Optimized Metadata</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-mystery-of-off-facebook-activity-what-to-know-and-do/"><u>[New] The Mystery of Off-Facebook Activity What to Know & Do</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-magixs-acid-pro-critique-with-comparison-tools/"><u>2024 Approved Magix's ACID Pro Critique with Comparison Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-your-lenovo-mouse-pad-error-in-windows-7811-with-our-expert-troubleshooting-steps/"><u>DIY Repair Your Lenovo Mouse Pad Error in Windows 7/8/11 with Our Expert Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-plugged-in-but-not-charging-issue-on-pcs-running-windows-710/"><u>Fixing the 'Plugged In but Not Charging' Issue on PCs Running Windows 7/10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-xiaomi-civi-3-disney-100th-anniversary-edition-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Xiaomi Civi 3 Disney 100th Anniversary Edition Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-breakthrough-strategies-to-maximize-impact-on-snapchat/"><u>In 2024, Breakthrough Strategies to Maximize Impact on Snapchat</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-motorola-razr-40-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Motorola Razr 40 Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-listing-of-affordable-visual-content-sites-for-2024/"><u>Major Listing of Affordable Visual Content Sites for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-error-5-solutions-quick-fixes-for-gamers/"><u>Minecraft Error 5 Solutions - Quick Fixes for Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/msmpengexe-eating-up-too-much-cpu-windows-10-solved/"><u>MsMpEng.exe Eating up Too Much CPU Windows 10 [SOLVED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-issues-resolved-ensuring-your-bluetooth-headphones-produce-sound-after-connection/"><u>Noise Issues Resolved: Ensuring Your Bluetooth Headphones Produce Sound After Connection</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-shockwave-flash-no-longer-supported-by-google-chrome/"><u>Resolved: Shockwave Flash No Longer Supported by Google Chrome</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2003-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2003 Online with DigiSigner</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-asus-laptop-keyboard-issues-when-your-fn-keys-wont-work/"><u>Solving Asus Laptop Keyboard Issues: When Your Fn Keys Won't Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-responsive-issues-eliminate-lag-from-your-windows-1nkey/"><u>Tackling Responsive Issues: Eliminate Lag From Your Windows 1Nkey</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-fixes-for-livekernelevent-error-number-117-step-by-step-tutorial/"><u>Unlocking Fixes for LiveKernelEvent Error Number 117 – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-wont-my-aoc-display-work-on-windows-10-fix-it-now/"><u>Why Won't My AOC Display Work on Windows 10? Fix It Now</u></a></li>
 </ul></div>
 

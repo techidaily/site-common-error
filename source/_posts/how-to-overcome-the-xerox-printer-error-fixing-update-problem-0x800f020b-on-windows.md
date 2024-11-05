@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome the Xerox Printer Error: Fixing Update Problem 0X800f020b on Windows"
-date: 2024-10-28T16:24:11.916Z
-updated: 2024-10-30T17:56:41.803Z
+date: 2024-10-30T10:15:48.047Z
+updated: 2024-11-05T10:59:42.887Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ The error code 0xc00000e9 is generally a hardware error pretaining to your**BIOS
 If you have some**external devices**connected to your PC, such as the**external hard drive**or a**USB flash drive**,**disconnect**them all (leave your mouse and keyboard connected), then**restart**your computer. **If the error stops, plug your external devices back, only one at a time, then restart your PC**. If you get the error again after connecting certain device, you can identify the issue now. You can either replace this device completely from your PC, or update its driver as instructed in[solution 3](https://tools.techidaily.com/drivereasy/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Solution 2: Change your BIOS settings**
@@ -54,6 +54,13 @@ If you have some**external devices**connected to your PC, such as the**external 
 You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow the steps below: 1) Shut down your computer, then press the**Power button**to boot your computer. 2) Press and hold the button to enter the**BIOS setting**, generally the**ESC**,**F2**,**F12**or**Delete**key (please consult your PC manufacturer or go through your user manual).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab22ed990cd9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Once you’re in the**BIOS Setup Utility**screen, go to**Boot options**.
 
@@ -64,20 +71,13 @@ You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab23153b0892.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5)**Save**your changes, and reboot your computer. This should fix your problem.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 3: Update your drivers**
 
@@ -86,6 +86,13 @@ The driver problem can also cause the error 0xc00000e9, because the hardware can
 **Note** : Before updating drivers, you should boot your computer in**Safe Mode with Network** . (You can check this article for more information about **[how to enter Safe Mode](https://tools.techidaily.com/drivereasy/download/)**  .)
 
 **Manual driver update**– You can update your drivers manually by going to the**manufacturer’s website**and searching for the**most recent correct driver**. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Automatic driver update**– Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the**FREE**or the**Pro**version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a**30-day money back guarantee**): 1) **[Download](https://tools.techidaily.com/drivereasy/download/)** and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aaf6cdfc84d7.png)3) Click the**Update**button next to all flagged devices to automatically download and install the correct version of their driver (you can do this with the**FREE**version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All**).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab232d7385cf.jpg)
 
@@ -98,26 +105,13 @@ The error 0xc00000e9 can be caused by the disk problem. You should make sure tha
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab234158a472.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Type**chkdsk /f /r**, then press**Enter**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)4） Press**Y**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : Disk check will start the next time you boot your PC and it might take some time to complete. If you don’t have time to wait for the disk check to complete when restarting your computer, you can skip it or schedule it again.
 
@@ -147,22 +141,20 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-chorus-collective-recordings-downloads-and-evaluation/"><u>[New] 2024 Approved Chorus Collective Recordings, Downloads & Evaluation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-syncopated-sound-understanding-ip-rules-on-instagram/"><u>[New] Syncopated Sound Understanding IP Rules on Instagram</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-uncharted-mmo-adventures-ranking-the-10-best-free-games/"><u>[New] Uncharted MMO Adventures Ranking the 10 Best Free Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solution-to-resolve-ps4-nat-type-failures-guide-with-easy-steps/"><u>Comprehensive Solution to Resolve PS4 NAT Type Failures - Guide with Easy Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-fix-windows-activation-failure-0x803f700f/"><u>Essential Steps to Fix Windows Activation Failure 0X803F700f</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-functionality-of-your-hp-laptop-usb-ports/"><u>Expert Tips to Restore Functionality of Your HP Laptop USB Ports</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722116202419-how-a-counterfeit-chrome-app-puts-your-facebook-login-at-risk-stay-safe-online/"><u>How a Counterfeit Chrome App Puts Your Facebook Login at Risk – Stay Safe Online!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-a-malfunctioning-wacom-pen-on-windows-11-windows-10-devices/"><u>How To Resolve A Malfunctioning Wacom Pen On Windows 11 / Windows 10 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-144-livekernelevent-issue-on-your-pc/"><u>How to Resolve the 144 LiveKernelEvent Issue on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/hybrid-systems/"><u>Hybrid Systems:</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-realme-11x-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Realme 11X 5G Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-huawei-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Huawei FRP</u></a></li>
-<li><a href="https://common-error.techidaily.com/seamless-hdmi-setup-addressing-the-windows-11-television-connection-glitch/"><u>Seamless HDMI Setup: Addressing the Windows 11 Television Connection Glitch</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-ssltls-failures-on-the-firefox-browser/"><u>Step-by-Step Solutions for Overcoming SSL/TLS Failures on the Firefox Browser</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209663988-9781934336298-the-healing-power-of-empathy/"><u>The Healing Power of Empathy | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-resolving-failed-distributed-procedures-a-step-by-step-guide/"><u>Understanding and Resolving Failed Distributed Procedures: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-6-essential-video-dubbing-tools-for-pc-users-free-and-paid-for-2024/"><u>Updated 6 Essential Video Dubbing Tools for PC Users - Free and Paid for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boosting-video-playback-speed-on-instagram/"><u>[New] 2024 Approved Boosting Video Playback Speed on Instagram</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-discovering-the-best-5-web-based-title-artists-of-today/"><u>[New] 2024 Approved Discovering the Best 5 Web-Based Title Artists of Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-magnifying-youtube-visual-experience/"><u>[New] Magnifying YouTube Visual Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-broadcasts-made-simple-an-easy-to-follow-obs-guide/"><u>[Updated] 2024 Approved Youtube Broadcasts Made Simple An Easy-to-Follow OBS Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-make-my-video-perfectly-fit-instagram/"><u>[Updated] Make My Video Perfectly Fit Instagram?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-comprehensive-guide-to-creating-movies-not-just-youtube-for-2024/"><u>[Updated] The Comprehensive Guide to Creating Movies, Not Just YouTube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/2024-solutions-overcoming-the-device-unsupported-by-miracast-error/"><u>2024 Solutions: Overcoming the 'Device Unsupported by Miracast' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-on-xinput13dlls-functional-importance/"><u>Comprehensive Guide on XINPUT1_3.dll's Functional Importance</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-slow-booting-problems-in-windows-7-with-easy-troubleshooting-steps/"><u>Overcoming Slow Booting Problems in Windows 7 with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-persistent-windows-11-update-error-code-0x802/"><u>Resolved: Fixing the Persistent Windows 11 Update Error Code 0X802#</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202683042-revive-dead-keys-on-your-hp-laptop-effective-solutions-inside/"><u>Revive Dead Keys on Your HP Laptop: Effective Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-you-need-a-d3d11-supported-gpu-for-optimal-performance/"><u>Solution: You Need a D3D11 Supported GPU for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-restarts-uninvited/"><u>Windows 10 Restarts Uninvited</u></a></li>
 </ul></div>
 

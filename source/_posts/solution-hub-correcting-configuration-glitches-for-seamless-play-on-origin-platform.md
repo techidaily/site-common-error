@@ -1,7 +1,7 @@
 ---
 title: "Solution Hub: Correcting Configuration Glitches for Seamless Play on Origin Platform"
-date: 2024-09-04T20:24:19.898Z
-updated: 2024-09-05T20:24:19.898Z
+date: 2024-10-29T17:37:23.397Z
+updated: 2024-11-04T23:34:48.607Z
 tags:
   - win11
   - win10
@@ -26,50 +26,41 @@ You may not have to try them all; just work your way down the list until you fin
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Reinstall your game**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Press Tab when parachuting
 
 To fix your game graphics issue, you can make your game load the building texture before landing. To do so, when your parachute is pulled out, press the**Tab**key on your keyboard to bring up the inventory screen. Your game may freeze for a while, as it’s loading the texture. After that, check to see if this fixes your texture issues. Hopefully it does. But if not, there are still three fixes for you to try…
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Move your game files to your SSD (if you have one)
 
 If you’re using an solid-state drive (SSD), you should try moving your games file there to speed up the loading process. To move your game files to your SSD:**1)** On your Steam client, click**Steam**, then click**Settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fda9155da2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click**Downloads**, then click the**STEAM LIBRARY FOLDERS**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb536f27d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click**ADD LIBRARY FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdcc73a052.png)
@@ -86,45 +77,42 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdfe387754.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Click**LIBRARY**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe29b7bf54.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **8)** Right click **PLAYERUNKNOWN’S BATTLEGROUNDS** , then click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe31f23cb3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **9)** Select the**LOCAL FILES**tab, then click**MOVE INSTALL FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe45ed95b1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **10)** Select the new folder you’ve created, then click**MOVE FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe4dad26a2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Steam will move your PUBG files to that new folder. You can then check to see if this fixes your building texture issues.
 
@@ -138,12 +126,6 @@ Your game may not be able to load the building texture properly if you’re not 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b600778ced76.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issues with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
@@ -160,8 +142,6 @@ Your PUBG files may have been corrupted so you are having the texture loading is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +149,24 @@ Your PUBG files may have been corrupted so you are having the texture loading is
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-a-submission-that-works-on-apples-platform/"><u>[New] Crafting a Submission that Works on Apple's Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unleash-the-potential-of-video-marketing-on-facebook/"><u>[New] In 2024, Unleash the Potential of Video Marketing on Facebook</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-top-6-free-audio-apps-convert-youtube-hits-to-your-android-device/"><u>2024 Approved Top 6 Free Audio Apps - Convert YouTube Hits to Your Android Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-camcorder-tech-for-shooting-sports-for-2024/"><u>Best Camcorder Tech for Shooting Sports for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-controlling-svchostexes-netsvcs-network-overload-problems/"><u>Effective Remedies for Controlling Svchost.exe's (Netsvcs) Network Overload Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-address-and-resolve-the-troublesome-windows-update-error-0x8024402c/"><u>Effective Strategies to Address and Resolve the Troublesome Windows Update Error: 0X8024402c</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-solutions-to-overcome-severe-driver-problems-in-videos-dxgkrnl/"><u>Essential Solutions to Overcome Severe Driver Problems in Videos (Dxgkrnl)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-and-tricks-to-fix-not-found-errors-with-d3dx9s-d3dx924dll-file/"><u>Expert Tips and Tricks to Fix Not Found Errors with D3DX9's d3dx9_24.dll File</u></a></li>
+<li><a href="https://common-error.techidaily.com/handling-the-unwritable-exception-at-specific-0xreference-memory-address/"><u>Handling the 'Unwritable' Exception at Specific 0xReference Memory Address</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-optimize-your-pc-fixing-high-gpu-use-with-windows-11s-desktop-window-manager/"><u>How To Optimize Your PC: Fixing High GPU Use with Windows 11'S Desktop Window Manager</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-solution-stability-tweaks-for-resident-evil-village-on-windows-platform/"><u>Master the Solution: Stability Tweaks for Resident Evil Village on Windows Platform</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-obstacles-in-adding-new-printer-to-network/"><u>No Obstacles in Adding New Printer to Network</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-lenovo-mouse-pad-issues-on-windows-11-quick-fix-guide/"><u>Solving Lenovo Mouse Pad Issues on Windows 11: Quick Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-and-tricks-to-rectify-slow-typing-on-your-devices-keyboard/"><u>Tips and Tricks to Rectify Slow Typing on Your Device's Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-hdcp-compatible-displays-issues-resolved/"><u>Troubleshooting Non-HDCP Compatible Displays – Issues Resolved</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-enigma-of-fbs-secretive-users/"><u>Unraveling the Enigma of Fb's Secretive Users</u></a></li>
+</ul></div>
 

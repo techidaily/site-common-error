@@ -1,7 +1,7 @@
 ---
 title: Why Is My Computer Rebooting Automatically? Solutions for Windows 10
-date: 2024-10-25T16:08:55.401Z
-updated: 2024-10-30T16:15:57.164Z
+date: 2024-11-04T08:10:26.060Z
+updated: 2024-11-04T20:54:04.398Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 3. [**Reseat your laptop battery**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -46,19 +46,6 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 1. On your keyboard, press **the Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Keyboards** , then right-click on your keyboard and click **Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 3. Wait until the uninstall finishes and **Restart**   your computer so that your computer can auto-install the keyboard driver.
@@ -83,22 +70,30 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type on your keypad and test if the**laptop keypad not working** problem has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3:  Reseat your laptop battery
@@ -135,19 +130,20 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ultimate-list-10-costless-video-caption-extractors/"><u>[Updated] 2024 Approved Ultimate List 10 Costless Video Caption Extractors</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-farmers-fields-the-essential-10-agriculture-titles-for-playmates/"><u>[Updated] Farmers' Fields The Essential 10 Agriculture Titles for Playmates</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-covertly-crafted-covers-for-iphones-and-androids/"><u>[Updated] In 2024, Covertly Crafted Covers for iPhones & Androids</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-download-playback-streaming-youtube-videos-on-ios-securely-and-smoothly/"><u>[Updated] In 2024, Download Playback Streaming Youtube Videos on iOS Securely and Smoothly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-mobile-gif-apps-roundup-for-latest-phones-for-2024/"><u>Best Mobile GIF Apps Roundup for Latest Phones for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-non-responsive-usb-ports-on-hp-computers/"><u>Diagnosing and Fixing Non-Responsive USB Ports on HP Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-limited-system-resources-issues/"><u>Effective Solutions for Overcoming Limited System Resources Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-to-restoring-functionality-of-webcams-on-a-windows-computer/"><u>Expert Guide to Restoring Functionality of Webcams on a Windows Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-stubborn-usb-mouse-that-wont-work-on-your-laptop-expert-tips-inside/"><u>Fixing a Stubborn USB Mouse That Won't Work on Your Laptop – Expert Tips Inside</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-does-apple-safeguard-your-artificial-intelligence-data-in-the-cloud-understanding-their-security-approach-cyberguardian/"><u>How Does Apple Safeguard Your Artificial Intelligence Data in the Cloud? Understanding Their Security Approach | CyberGuardian</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-waiting-successful-fixes-for-the-preparing-to-configure-windows-issue/"><u>No More Waiting: Successful Fixes for the 'Preparing to Configure Windows' Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/simplified-steps-to-resolve-windows-cant-finish-installing/"><u>Simplified Steps to Resolve Windows Can't Finish Installing</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-compatibility-issues-on-ftdi-systems-ensuring-memory-reliability-with-proper-drivers/"><u>Troubleshooting Compatibility Issues on FTDI Systems: Ensuring Memory Reliability with Proper Drivers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-the-digital-landscape-an-app-by-app-analysis-with-tiktok-and-snap/"><u>[New] Navigating The Digital Landscape An App-by-App Analysis with TikTok & Snap</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-discover-the-best-10-audio-capturing-software-on-spotify/"><u>[Updated] 2024 Approved Discover the Best 10 Audio Capturing Software on Spotify</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-live-photo-complete-guide-how-to-use-it-on-iphone/"><u>[Updated] Live Photo Complete Guide How to Use It on iPhone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-mastering-the-art-of-tiktok-with-apple-and-windows-devices/"><u>[Updated] Mastering the Art of TikTok with Apple and Windows Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-paving-the-way-for-smooth-video-autoplay-on-social-media-platforms-for-2024/"><u>[Updated] Paving the Way for Smooth Video Autoplay on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solutions-eradicating-the-windows-error-code-entry-point-not-present/"><u>DIY Solutions: Eradicating the Windows Error Code - Entry Point Not Present</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/game-developer-declares-total-crash-rate-on-intel-cpus-faulty-13th-and-14th-gen-chips-sold-by-alderon-games/"><u>Game Developer Declares Total Crash Rate on Intel CPUs: Faulty 13Th and 14Th Gen Chips Sold by Alderon Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-reactivating-the-night-light-option-in-windows-operating-systems-10-and-11/"><u>Guide to Reactivating the Night Light Option in Windows Operating Systems - 10 & 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-edit-your-way-to-success-top-vlog-video-editing-software-free-and-paid/"><u>New In 2024, Edit Your Way to Success Top Vlog Video Editing Software Free & Paid</u></a></li>
+<li><a href="https://common-error.techidaily.com/noise-troubleshooting-a-comprehensive-guide-to-fixing-forza-horizon-4s-muted-gameplay/"><u>Noise Troubleshooting: A Comprehensive Guide to Fixing Forza Horizon 4'S Muted Gameplay</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-media-unresponsive-problem-in-windows-a-step-by-step-guide/"><u>Solve the 'Media Unresponsive' Problem in Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-seizure-irreparable-device-error/"><u>System Seizure: Irreparable Device Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-oculus-device-malfunctions-a-step-by-step-guide/"><u>Troubleshooting Oculus Device Malfunctions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-reactivating-your-windows-update-functionality-efficiently/"><u>Troubleshooting Tips: Reactivating Your Windows Update Functionality Efficiently</u></a></li>
 </ul></div>
 
