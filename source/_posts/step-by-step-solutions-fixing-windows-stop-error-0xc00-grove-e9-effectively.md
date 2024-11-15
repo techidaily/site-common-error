@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Fixing Windows Stop Error 0Xc00 Grove E9 Effectively"
-date: 2024-11-03T21:17:30.921Z
-updated: 2024-11-05T06:41:01.603Z
+date: 2024-11-09T16:29:42.279Z
+updated: 2024-11-15T17:45:21.997Z
 tags:
   - win11
   - win10
@@ -50,22 +50,22 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Open Network & Internet settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-8.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select**Status** . Then, click**Change adapter options** .
 
@@ -90,13 +90,6 @@ When you fail to access another computer of the same network, or when you cannot
 **1)** Type**cmd** in the search box. Then, right-click**Command Prompt** and click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-1-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click**Yes** when you’re prompted to continue.
 
@@ -130,6 +123,13 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Double-click**Network adapters** to view all the devices under this category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3-4.jpg)
@@ -158,13 +158,6 @@ netsh int ip reset
 2. **[Run the Windows troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reset the Microsoft Store](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Sign in with Microsoft account
 
  The 0x800704cf error can arise when you’re logged in using a local account. Try signing in to your Microsoft account and see if the issue is resolved.
@@ -177,35 +170,22 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Select**Your info** in the left pane. Then, click**Sign in with a Microsoft account instead** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-9.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Enter your**account** and**password** to sign in.
 
 **5)** Go back to**Your info** , and click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Follow the on-screen instruction to verify your identity. Then, open your Microsoft Store and see whether the 0x800704cf code still pops up or not. If this method isn’t helpful, don’t despair. Have a look at more fixes below.
 
@@ -219,15 +199,22 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Scroll down to click**Network Adapter** . Then, click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Select**All network adapters** , and click**Next** .
@@ -244,9 +231,29 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-4-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Follow the on-screen instruction to fix any detected issues. Then, launch the Microsoft Store and check if it works without error. If not, please try the Fix 3 below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Reset the Microsoft store
 
@@ -261,10 +268,10 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Select**Apps & features** . Then, scroll down to click**Microsoft Store** , and click**Advanced options** .
@@ -284,13 +291,6 @@ netsh int ip reset
  Network issue like 0x800704cf error is a common PC problem but it’s insufferable. There’s so much you can’t do without the Internet, and even worse, you can’t search a solution to fix it. If you’ve frequently run into this kind of issues such as no or slow Internet access, be sure to check our bonus tips below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tips: Update your network driver
 
@@ -343,18 +343,22 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/op-5-trimming-titles-tailored-to-your-youtube-needs/"><u>[New] Top 5 Trimming Titles Tailored to Your YouTube Needs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-youtube-universe-uproar-for-2024/"><u>[New] YouTube Universe Uproar for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-gecata-game-recorder-review/"><u>[Updated] Gecata Game Recorder Review</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exceptional-appraisal-and-other-choices/"><u>[Updated] In 2024, Exceptional Appraisal & Other Choices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-experts-pathway-transforming-sdr-footage-into-hdri/"><u>2024 Approved The Expert's Pathway Transforming SDR Footage Into HDRI</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unable-to-use-desktop-in-systemprofile-on-windows-pcs/"><u>How to Fix Unable to Use Desktop in SystemProfile on Windows PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-reset-your-pc-overcoming-errors-in-windows-10-guide/"><u>How to Successfully Reset Your PC: Overcoming Errors in Windows 10 [Guide]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-note-30-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Note 30 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-13-mini-5-ways-to-get-into-a-locked-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 13 mini? 5 Ways to get into a Locked Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://solve-info.techidaily.com/optimisez-votre-strategie-logistique-guide-de-la-liste-de-controle-pour-le-transports/"><u>Optimisez Votre Stratégie Logistique: Guide De La Liste De Contrôle Pour Le Transports</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-is-getting-ready-to-start-freeze-on-your-personal-computer/"><u>Overcoming 'Windows Is Getting Ready to Start' Freeze on Your Personal Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-stop-your-laptop-from-randomly-freezing-up/"><u>Step-by-Step Guide to Stop Your Laptop From Randomly Freezing Up</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-correcting-windows-driver-power-management-errors/"><u>Step-by-Step Tutorial: Correcting Windows Driver Power Management Errors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-transitioning-instagram-video-to-mp3-format/"><u>[New] 2024 Approved Transitioning Instagram Video to Mp3 Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-load-fixing-madden-nfl-22-stuck-on-loading-page/"><u>Beat the Load: Fixing Madden NFL 22 Stuck on Loading Page</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-update-for-ftdi-systems-avoid-compatibility-errors-and-preserve-memory-integrity/"><u>Critical Update for FTDI Systems: Avoid Compatibility Errors and Preserve Memory Integrity.</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-when-your-print-key-fails-on-windows-11-and-windows-10-devices/"><u>Effective Fixes When Your Print Key Fails on Windows 11 and Windows 10 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-glitch-windows-edition-geforce-x0001/"><u>Eradicating Glitch: Windows Edition, GeForce X0001</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/t-tips-for-embedding-time-stamp-data-on-youtube-videos-desktopmobile-for-2024/"><u>Expert Tips for Embedding Time Stamp Data on YouTube Videos (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-your-playstation-4s-microphone-functionality/"><u>Expert Tips for Restoring Your PlayStation 4'S Microphone Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-when-your-backspace-isnt-responding-correctly/"><u>How to Fix When Your 'Backspace' Isn't Responding Correctly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-obs-mastery-streaming-success-on-fb/"><u>In 2024, OBS Mastery Streaming Success on FB</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-msmpengexe-for-better-performance-reduce-high-cpu-consumption-in-windows-11-solution-guide/"><u>Optimize MsMpEng.exe for Better Performance: Reduce High CPU Consumption in Windows 11 [SOLUTION GUIDE]</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-your-ps4-dualshock-controller-charging-issues/"><u>Resolved: Fixing Your PS4 Dualshock Controller Charging Issues</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-monetization-matrix-how-maker-gains-from-shorter-videos/"><u>The Monetization Matrix How Maker Gains From Shorter Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-the-persistent-audio-glitch-in-youtube-videos-on-windows-10/"><u>Troubleshoot & Resolve the Persistent Audio Glitch in YouTube Videos on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-lenovos-innovative-fusion-tech-the-transforming-windows-pc-and-android-tab-revealed-on-zdnet/"><u>Unveiling Lenovo's Innovative Fusion Tech: The Transforming Windows PC and Android Tab Revealed on ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-10-not-working-fixed/"><u>Windows Update 10 Not Working [FIXED]</u></a></li>
 </ul></div>
 

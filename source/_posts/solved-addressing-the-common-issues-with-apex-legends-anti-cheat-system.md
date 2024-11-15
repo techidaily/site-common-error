@@ -1,7 +1,7 @@
 ---
 title: Solved! Addressing the Common Issues with Apex Legends' Anti-Cheat System
-date: 2024-10-29T08:55:12.626Z
-updated: 2024-11-04T17:14:30.422Z
+date: 2024-11-09T16:24:12.762Z
+updated: 2024-11-15T18:23:21.795Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
@@ -50,15 +50,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
-3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
+3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
@@ -67,13 +68,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -89,6 +83,14 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
@@ -102,10 +104,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Click the **High performance** option > **Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
@@ -113,15 +115,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -146,17 +149,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-10-premier-websites-for-mystery-box-shopping-delights/"><u>[New] 10 Premier Websites for Mystery Box Shopping Delights</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-invigorating-channel-content-best-video-concepts-to-inspire-viewers/"><u>[New] In 2024, Invigorating Channel Content Best Video Concepts to Inspire Viewers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagrams-top-25-leaders-in-digital-influence/"><u>[Updated] 2024 Approved Instagram's Top 25 Leaders in Digital Influence</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-synthesizing-best-canon-temporal-videography/"><u>[Updated] 2024 Approved Synthesizing Best Canon Temporal Videography</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-mastering-youtube-audio-uploads/"><u>2024 Approved Mastering YouTube Audio Uploads</u></a></li>
-<li><a href="https://common-error.techidaily.com/csgo-stability-solutions-fix-game-crashes-with-simple-techniques/"><u>CSGO Stability Solutions: Fix Game Crashes with Simple Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/definitive-answer-on-how-to-resolve-valorant-games-tearing-glitches/"><u>Definitive Answer on How to Resolve VALORANT Game's Tearing Glitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-the-hurdle-of-applicationexe-abrupt-shutdowns/"><u>Expert Tips: Overcoming the Hurdle of 'Application.exe' Abrupt Shutdowns</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-costs-fc-925000/"><u>Fixed Costs (FC) = $925,000</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-oneplus-ace-2v-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from OnePlus Ace 2V to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-12-common-problems-with-the-iphone-12-series-and-effective-solutions/"><u>Top 12 Common Problems with the iPhone 12 Series & Effective Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-wudfhostexe-tackling-overwhelming-cpu-usage-in-windows-11-environments/"><u>Winning the Battle Against WUDFHost.exe: Tackling Overwhelming CPU Usage in Windows 11 Environments</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-revisiting-old-memories-how-to-upload-them-on-snapchat/"><u>[New] Revisiting Old Memories How to Upload Them on Snapchat</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-shaping-imagery-the-most-innovative-vector-designers-ranked-for-2024/"><u>[New] Shaping Imagery The Most Innovative Vector Designers Ranked for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginning-anew-in-your-inbox-delete-all-emails-using-the-gmail-app-easily/"><u>Beginning Anew in Your Inbox - Delete All Emails Using the Gmail App Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-80240020-explained-a-step-by-step-solution-for-windows-11-installation-problems/"><u>Error Code 80240020 Explained - A Step-by-Step Solution for Windows 11 Installation Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-why-arent-my-function-keys-working/"><u>Expert Guide: Why Aren't My Function Keys Working?</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-restoring-functionality-to-a-broken-corsair-keyboard/"><u>Expert Tips on Restoring Functionality to a Broken Corsair Keyboard</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-13-pro-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 13 Pro Max or iPad?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-reviving-a-dead-steelseries-x70-optical-mouse-nub-in-depth-restoration-guide-for-windows-users/"><u>Master the Art of Reviving a Dead SteelSeries X70 Optical Mouse Nub: In-Depth Restoration Guide for Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-text-limit-errors-how-to-restore-full-typing-capacity/"><u>Overcome iPhone Text Limit Errors – How to Restore Full Typing Capacity</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-system-file-specified-not-found-errors-a-comprehve-solutions-guide/"><u>Overcoming System 'File Specified Not Found' Errors: A Comprehve Solutions Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-8-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone 8 and Android Phones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/transforming-vision-into-visual-storytelling-with-windows-11-techniques/"><u>Transforming Vision Into Visual Storytelling with Windows 11 Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sound-issues-resolve-windows-1011-audio-setup-errors-easily/"><u>Troubleshooting Sound Issues: Resolve Windows 10/11 Audio Setup Errors Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-stylus-and-touch-capabilities-for-non-reactive-displays/"><u>Unlock Stylus & Touch Capabilities for Non-Reactive Displays</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-file-explorer-made-easy-learn-how-with-our-help/"><u>Windows 10 File Explorer Made Easy – Learn How With Our Help</u></a></li>
 </ul></div>
 

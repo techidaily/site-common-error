@@ -1,7 +1,7 @@
 ---
 title: Google Chrome Lagging or Freezing? Restart Immediately!
-date: 2024-11-03T10:20:07.935Z
-updated: 2024-11-05T06:03:11.286Z
+date: 2024-11-10T16:38:08.333Z
+updated: 2024-11-15T17:39:37.934Z
 tags:
   - win11
   - win10
@@ -35,10 +35,16 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
@@ -75,13 +81,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 2: Install the latest game patch**
 
  The developers of**Nier Automata** will keep releasing game patches to fix bugs. You can install the latest patch which may have triggered this issue.
@@ -110,10 +109,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 4. Restart your computer, and see if the problem is fixed or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Option 2–Manually**
@@ -126,6 +125,20 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer, and see if the problem is fixed or not.
 
 #### B. Reinstall the previous driver
@@ -136,6 +149,14 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “devmgmt.msc” and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 5. Restart your computer, and see if the problem is fixed or not.
@@ -150,13 +171,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -166,15 +180,16 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
-5. Go back to the game, it should be running properly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
+5. Go back to the game, it should be running properly.
 
 ---
 
@@ -197,18 +212,21 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-vr-game-engines-2023-update/"><u>[New] In 2024, Top VR Game Engines -2023 Update</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-depth-analysis-freelens-webcam-recorder-app/"><u>[Updated] In-Depth Analysis Freelens Webcam Recorder App</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-internet-companion-fb-story-backup-tool/"><u>[Updated] Internet Companion FB Story Backup Tool</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/commanding-the-crowd-on-igtv-5-tips-to-gain-traction-for-2024/"><u>Commanding the Crowd on IGTV 5 Tips to Gain Traction for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-high-definition-entertainment-hitachis-4k-uhd-televisions-featuring-integrated-roku/"><u>Experience High-Definition Entertainment: Hitachi's 4K UHD Televisions Featuring Integrated Roku</u></a></li>
-<li><a href="https://common-error.techidaily.com/google-chrome-update-ends-support-for-shockwave-flash-heres-how-to-resolve-it/"><u>Google Chrome Update Ends Support for Shockwave Flash – Here's How to Resolve It</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-microsofts-wireless-display-adapter-connection-issues-in-windows-11-a-complete-guide/"><u>How to Fix Microsoft's Wireless Display Adapter Connection Issues in Windows 11 - A Complete Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-13-mini-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone 13 mini?</u></a></li>
-<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-pc-stability-problems-resolved-with-ease/"><u>Oddworld: Soulstorm PC Stability Problems Resolved With Ease</u></a></li>
-<li><a href="https://win-tips.techidaily.com/professional-pdf-esignature-maker-generate-secure-digital-signatures-easily/"><u>Professional PDF eSignature Maker - Generate Secure Digital Signatures Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamlining-wdf-operations-to-combat-high-cpu-consumption/"><u>Streamlining WDF Operations to Combat High CPU Consumption</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-file-changes-through-trustwise-permissions-on-your-pc/"><u>Unlocking File Changes Through TrustWise Permissions on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-system-settings-oversight-by-your-company-explained/"><u>Windows System Settings Oversight by Your Company - Explained</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-photographers-handbook-for-android-users/"><u>[New] In 2024, The Photographer's Handbook for Android Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-excellent-quality-hd-screen-recorders-for-2024/"><u>[Updated] Excellent Quality HD Screen Recorders for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-2023-emulators-top-ps3-games-for-pc-for-2024/"><u>[Updated] Leading 2023 Emulators Top PS3 Games for PC for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212220391-backspace-key-stuck-here-are-proven-methods-to-get-it-working-again/"><u>Backspace Key Stuck? Here Are Proven Methods to Get It Working Again</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-poco-x5-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Poco X5.</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-fixing-the-persistent-black-screen-problem-on-google-chrome/"><u>Expert Advice: Fixing the Persistent Black Screen Problem on Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-on-windows-10/"><u>How to Fix MsMpEng.exe High CPU Usage on Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ace-your-screens-the-premium-guide-to-androids-top-8-capture-apps/"><u>In 2024, Ace Your Screens The Premium Guide to Android’s Top 8 Capture Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-a25-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy A25 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mp4-vs-avi-files-which-format-wins-the-video-quality-showdown/"><u>MP4 Vs. AVI Files: Which Format Wins the Video Quality Showdown?</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solution-for-immediate-response-failure-overcoming-error-1053/"><u>Quick Solution for Immediate Response Failure - Overcoming Error 1053</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-compromised-microsoft-store-memory-bank/"><u>Solving the Problem of a Compromised Microsoft Store Memory Bank</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-11-usb-connectivity-issues-a-comprehensive-fix/"><u>Solving Windows 11 USB Connectivity Issues: A Comprehensive Fix</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/streamline-your-workflow-automating-the-conversion-of-numerous-soundtracks-at-once/"><u>Streamline Your Workflow: Automating the Conversion of Numerous Soundtracks at Once</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques-for-2024/"><u>Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-windows-stop-code-0xc00000e9/"><u>Troubleshooting and Solutions for Windows Stop Code 0xC00000E9</u></a></li>
 </ul></div>
 

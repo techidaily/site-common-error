@@ -1,7 +1,7 @@
 ---
 title: How To Fix CSGO Crashing. Quickly & Easily.
-date: 2024-11-01T05:17:47.644Z
-updated: 2024-11-04T18:41:21.933Z
+date: 2024-11-10T18:02:58.089Z
+updated: 2024-11-15T17:13:42.809Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ _**DXGI\_ERROR\_DEVICE\_HUNG** The application’s device failed due to badly fo
  If you’re overclocking your CPU or GPU, you need to set your CPU / GPU clock speed back to normal. Then restart your PC to see if this issue works for you.
 
 If this issue persists, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -105,8 +98,29 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. View the Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -121,10 +135,10 @@ If this issue persists, don’t worry. Try the next fix, below.
 5. Click **Scan** to add the game to the application list.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
@@ -132,32 +146,13 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch the application that crashed with Error 0x887A0006 to see if this fix works. If not, try the next fix, below.
@@ -182,8 +177,24 @@ If this issue persists, don’t worry. Try the next fix, below.
 3. Then click the**File** tab and select**Save As…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Notepad-save-file-1.png)
 4. Save the file as_fix.reg_ to the desktop. Please make sure you select the Save type as “**All Files** ” and the encoding as “**ANSI** “. Then close Notepad.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/save-as-fix-reg.png)
 5. **Double-click** the .reg file you saved. Click**Yes** when the UAC prompts. Then a prompt from Registry Editor will pop up. Click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor.png)
 6. Click**OK** when Windows tells you the keys and values have been successfully added to the registry.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
@@ -211,10 +222,10 @@ If this fix doesn’t work for you, try the next fix, below.
  See if Error 0x887A0006 reappears after you installed the latest Windows update. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Change the power plan of your PC
@@ -227,27 +238,7 @@ If this fix doesn’t work for you, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Adjust your Windows system for the best performance
 
@@ -259,14 +250,14 @@ If this fix doesn’t work for you, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run the game or application that crashed with Error 0x887A0006 again to see if this issue persists. If not, congratulations! You’ve fixed this issue. If this issue remains, try reinstalling the game or the problematic application.
 
@@ -293,21 +284,20 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-free-open-source-video-conferencing-solutions-the-ultimate-list-for-corporates-and-schools/"><u>[New] 2024 Approved Free, Open Source Video Conferencing Solutions The Ultimate List for Corporates & Schools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-game-changer-elevating-your-virtual-reality-film-quality/"><u>[Updated] 2024 Approved The Game Changer Elevating Your Virtual Reality Film Quality</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-android-sdk-update-essential-tools-for-fb-video-extraction-for-2024/"><u>[Updated] Android SDK Update Essential Tools for FB Video Extraction for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-professional-touch-youtube-video-image-crafting/"><u>Add a Professional Touch YouTube Video Image Crafting</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/conquering-image-search-a-pathway-to-stunning-pexels-visuals/"><u>Conquering Image Search A Pathway to Stunning Pexels Visuals</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-common-display-issues-how-to-deal-with-input-not-supported-warnings/"><u>Fixing Common Display Issues: How to Deal with 'Input Not Supported' Warnings</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-10-brightness-dysfunctionality-issues-efficiently/"><u>Fixing Windows 10 Brightness Dysfunctionality Issues Efficiently</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-your-disappeared-sound-levels-icon-in-windows-11-with-images/"><u>How to Restore Your Disappeared Sound Levels Icon in Windows 11 with Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-blending-audio-and-visuals-in-a-trailer/"><u>In 2024, The Art of Blending Audio and Visuals in a Trailer</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-fixing-msvcp140dll-missing/"><u>Mastering the Art of Fixing MSVCP140.dll Missing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-issue-after-windows-11-patch-quick-troubleshooting-steps-inside/"><u>No Audio Issue After Windows 11 Patch? Quick Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-laptop-mouse-locks-up-a-comprehensive-guide/"><u>Quick Fixes for When Your Laptop Mouse Locks Up – A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-video-file-cant-play-error-224003/"><u>Resolved: Fixing 'Video File Can't Play - Error 224003'</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-thermopro-tp67-an-economical-choice-with-reliability-concerns-explored/"><u>The ThermoPro TP67: An Economical Choice with Reliability Concerns Explored</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-windows-11-when-hosted-wi-fi-doesnt-activate/"><u>Troubleshooting Steps for Windows 11 When Hosted Wi-Fi Doesn't Activate</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-avchd-vs-mp4-formats-a-comprehensive-guide-with-movavi-converter/"><u>Understanding AVCHD vs MP4 Formats: A Comprehensive Guide with Movavi Converter</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-youtube-openers-aandb-methods/"><u>[New] In 2024, The Ultimate Guide to YouTube Openers A&B Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capturing-speech-iphone-memo-making-steps/"><u>[Updated] In 2024, Capturing Speech IPhone Memo-Making Steps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-engaging-students-the-power-of-youtube-in-education/"><u>2024 Approved Engaging Students The Power of YouTube in Education</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-your-first-steps-in-video-content-creation/"><u>2024 Approved Your First Steps in Video Content Creation</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-rapid-remedies-when-you-cant-print-to-pdf/"><u>5 Rapid Remedies When You Can't Print to PDF</u></a></li>
+<li><a href="https://common-error.techidaily.com/corrupt-system-drivers-master-swift-fix-techniques-today/"><u>Corrupt System Drivers? Master Swift Fix Techniques Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-game-starting-problem-when-physxloaderdll-is-absent/"><u>How to Overcome the Game-Starting Problem When PhysXloader.dll Is Absent</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-dealing-with-persistent-pc-freezing-issues-successfully/"><u>Master the Fix: Dealing with Persistent PC Freezing Issues Successfully</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-cut-mp4-videos-for-free-top-10-editor-recommendations/"><u>New In 2024, Cut MP4 Videos for Free Top 10 Editor Recommendations</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-laptop-bright-screen-dilemma-a-comprehensive-fix-guide/"><u>Overcoming Laptop Bright Screen Dilemma: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/platform-power-play-which-one-dominates-vimeo-youtubeplusdailymotion-for-2024/"><u>Platform Power Play Which One Dominates - Vimeo, YouTube+DailyMotion for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-aoc-monitor-errors-on-windows-10-step-by-step-guide-to-getting-it-working-again/"><u>Troubleshoot Your AOC Monitor Errors on Windows 10: Step-by-Step Guide to Getting It Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-printscreen-functionality-problems-in-windows-11-and-windows-10-systems/"><u>Troubleshooting PrintScreen Functionality Problems in Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlock-the-full-potential-of-your-gadgets-to-record-youtube-live/"><u>Unlock the Full Potential of Your Gadgets to Record YouTube Live</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Nokia C32? | Dr.fone</u></a></li>
 </ul></div>
 

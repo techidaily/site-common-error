@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing the Loop Where Windows 10 Reboots Instead of Shutting Down"
-date: 2024-10-29T18:09:44.416Z
-updated: 2024-11-05T10:20:57.816Z
+date: 2024-11-11T16:04:12.673Z
+updated: 2024-11-15T16:34:31.033Z
 tags:
   - win11
   - win10
@@ -39,46 +39,41 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Unmake recent changes
 
  If your touchpad cursor disappears all of a sudden, you’ll first need to recall if any recent changes to your computer caused the problem. For instance, recent Windows updates, touchpad-related driver updates, new software programs added, new hardware devices added, etc.
 
  If you don’t recall any recent changes made to your computer, the latest Windows update(s) and touchpad-related driver are always the first places you should be looking at. Here is how you can unmake the changes to see if it helps to bring back your touchpad cursor:
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1.1 Uninstall Windows Update(s)
 
 1. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Click **View installed updates** on the right pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-40.png)
 4. Click the **Uninstall**  button to remove the latest Windows update patch before the touchpad cursor disappears.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-41.png)
 5. Restart your computer afterward.
 
  See if your touchpad cursor is back after uninstalling the last Windows update. If the problem remains, please move on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1.2 Uninstall touchpad-related driver
 
@@ -87,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 2. Double-click to expand the**Mice and other pointing devices** category, then right-click your touchpad device and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-77.png)
@@ -111,19 +106,6 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-80.png)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-79.png)
 
  When the touchpad feature is turned off or on by the function key(s), there’s usually a notification that tells you such on your screen, like this:
@@ -131,15 +113,22 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-81.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t see such a message on your computer, and your touchpad cursor remains missing, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Uninstall conflicting software
 
@@ -152,21 +141,29 @@ To do so:
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Click your remote control or screen recording software, then **Uninstall** .  
-![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-77.png)
-4. Repeat the same until you uninstall all remote control and screen recording software programs.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-77.png)
+4. Repeat the same until you uninstall all remote control and screen recording software programs.
 
 5. Restart your computer afterward.
 
 Then see if your touchpad cursor still disappears. If so, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update touchpad driver
 
@@ -180,6 +177,14 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -204,19 +209,6 @@ Then see if your touchpad cursor still disappears. If so, please move on.
  In that case, you’ll have to consider resetting or reinstalling your computer for the touchpad cursor disappearing problem to be fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reset your computer
 
@@ -248,19 +240,24 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>[New] 2024 Approved Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/airdrop-not-connecting-heres-how-to-restore-it-easily/"><u>AirDrop Not Connecting? Here's How to Restore It Easily</u></a></li>
-<li><a href="https://article-files.techidaily.com/best-tablet-gear-beyond-the-hype-a-must-try-photo-editing-list-for-2024/"><u>Best Tablet Gear Beyond the Hype A Must-Try Photo Editing List for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-step-by-step-guide-resolving-the-dell-laptops-mysterious-black-screen-issue/"><u>Complete Step-by-Step Guide: Resolving the Dell Laptop's Mysterious Black Screen Issue</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-radpower-radcity-5plus-bike-analysis-strong-performance-but-weighs-more/"><u>Comprehensive RadPower RadCity 5+ Bike Analysis: Strong Performance, But Weighs More</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-restore-night-light-feature-in-windows-10-and-11/"><u>Fixing the Issue: How to Restore Night Light Feature in Windows 10 & 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-soundbank-freeness-central/"><u>In 2024, FB Soundbank Freeness Central</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-cell-consolidation-and-de-consolidation-in-excel-with-this-ultimate-guide/"><u>Mastering Cell Consolidation & De-Consolidation in Excel with This Ultimate Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-touchpad-glitches-how-to-restore-scrolling-functionality-effectively/"><u>Overcoming Touchpad Glitches: How to Restore Scrolling Functionality Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-corrupting-windows-10-update-error-0xc1900208/"><u>Step-by-Step Solution for Corrupting Windows 10 Update Error 0Xc1900208</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-lava-blaze-curve-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Lava Blaze Curve 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-unresponsive-lenovo-fn-keys-a-swift-guide/"><u>Troubleshooting Steps for Unresponsive Lenovo FN Keys: A Swift Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-sim/"><u>Updated In 2024, Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-yoga-top-10-youtube-resources-for-enlightened-living/"><u>[New] 2024 Approved Mastering Yoga Top 10 YouTube Resources for Enlightened Living</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-brief-methods-for-sending-iphone-media-to-pc/"><u>[Updated] Brief Methods for Sending iPhone Media to PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-professionals-picks-best-editors-for-online-streams/"><u>[Updated] Professionals' Picks Best Editors for Online Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>2024 Approved Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dying-light-review-a-co-op-first-person-parkour-survival-experience/"><u>Dying Light Review: A Co-Op, First-Person, Parkour Survival Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207765003-error-free-windows-updates-overcome-error-8007000e-effortlessly/"><u>Error-Free Windows Updates: Overcome Error 8007000E Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-resolving-microsoft-print-to-pdf-problems-across-windows-1011-systems/"><u>Expert Tips: Resolving Microsoft Print to PDF Problems Across Windows 10/11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-audio-control-problems-in-windows-11-a-step-by-step-guide-to-restoring-functionality/"><u>Fixing Audio Control Problems in Windows 11 – A Step-by-Step Guide to Restoring Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-muffled-to-clear-the-initial-use-of-fade-in-audition-for-2024/"><u>From Muffled to Clear The Initial Use of Fade in Audition for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210441599-how-to-resolve-there-was-an-error-setting-up-your-pc-bug-in-windows-11-fixed-now/"><u>How to Resolve 'There Was an Error Setting up Your PC' Bug in Windows 11 - Fixed Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-kinks-cleared-happy-hands/"><u>Keyboard Kinks Cleared - Happy Hands</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-your-pc-solve-msmpengexe-overloading-cpu-on-windows-11-systems/"><u>Optimize Your PC: Solve MsMpEng.exe Overloading CPU on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-bluetooth-issues-and-effortlessly-pair-devices-with-windows-11-latest-fixes/"><u>Overcome Bluetooth Issues & Effortlessly Pair Devices with Windows 11 - Latest Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-startup-delays-effective-solutions-for-speeding-up-windows-7-boots/"><u>Resolving Startup Delays: Effective Solutions for Speeding Up Windows 7 Boots</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-troubleshooting-and-solutions-for-persistent-usb-connection-issues/"><u>Ultimate Guide: Troubleshooting & Solutions for Persistent USB Connection Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-picture-sequence-architect-for-2024/"><u>Ultimate Picture Sequence Architect for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/vob/"><u>VOBファイルを完全無料でオンライン変換 - 動画魔童</u></a></li>
 </ul></div>
 

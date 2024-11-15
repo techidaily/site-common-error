@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: How to Restore Functionality of Function Key Shortcuts on Your ASUS Laptop"
-date: 2024-11-04T00:36:01.122Z
-updated: 2024-11-05T01:37:10.885Z
+date: 2024-11-13T16:00:20.997Z
+updated: 2024-11-15T18:29:38.829Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ Here’s how:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -70,10 +63,10 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
@@ -82,10 +75,10 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update the drivers for your USB devices
@@ -102,15 +95,22 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -142,16 +142,20 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists/"><u>[New] Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-comprerante-guide-to-sierras-cloud-file-accessibility/"><u>[Updated] 2024 Approved Comprerante Guide to Sierra's Cloud File Accessibility</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-perfect-your-audio-visual-journey-with-these-6-apps/"><u>[Updated] Perfect Your Audio Visual Journey with These 6 Apps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/5-simple-fixes-to-correct-your-microsoft-word-error-winwordexe/"><u>5 Simple Fixes to Correct Your Microsoft Word Error (WINWORD.EXE)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-role-in-crafting-the-next-generation-of-content/"><u>AI's Role in Crafting the Next Generation of Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-miracast-not-possible-on-this-device-top-tips-and-tricks/"><u>How to Resolve 'Miracast Not Possible on This Device' – Top Tips and Tricks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-gt-10-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix GT 10 Pro Without PUK Codes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-explore-2023-finding-out-what-youve-lately-watched-on-fb/"><u>In 2024, Explore 2023 Finding Out What You've Lately Watched on Fb</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-aoc-monitor-on-windows-11-comprehensive-guide-to-usb-fixes-and-tweaks/"><u>Reviving Your AOC Monitor on Windows 11: Comprehensive Guide to USB Fixes and Tweaks</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-making-an-unrecognized-flash-drive-function-again/"><u>Step-by-Step Guide: Making an Unrecognized Flash Drive Function Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-to-repair-your-windows-11-with-sfc-and-dism-commands/"><u>Ultimate Guide to Repair Your Windows 11 with SFC and DISM Commands</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-love-in-motion-youtube-and-vimeos-top-9-premium-marriage-films-for-2024/"><u>[Updated] Love in Motion YouTube & Vimeo's Top 9 Premium Marriage Films for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-the-potential-of-youtube-tv-services-for-2024/"><u>[Updated] Unlocking the Potential of YouTube TV Services for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-instructions-for-capturing-audio-from-your-join-with-me-webinar/"><u>Easy Instructions for Capturing Audio From Your 'Join With Me' Webinar</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-steps-how-to-grant-admin-rights-for-operations-in-windows-11-10-and-7/"><u>Essential Steps: How to Grant Admin Rights for Operations in Windows 11, 10 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206118065-google-chrome-stuck-heres-how-we-fixed-it-and-ensured-smooth-browsing/"><u>Google Chrome Stuck? Here's How We Fixed It and Ensured Smooth Browsing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oneplus-nord-3-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to OnePlus Nord 3 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-premiere-pro-pc-build-a-beginners-guide/"><u>In 2024, The Ultimate Premiere Pro PC Build A Beginners Guide</u></a></li>
+<li><a href="https://discover-data.techidaily.com/is-it-possible-to-modify-the-default-preloader-swf-for-customized-ebook-design-on-flipbuilder/"><u>Is It Possible to Modify the Default Preloader SWF for Customized eBook Design on FlipBuilder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/most-popular-firefox-screenshots-and-recorders/"><u>Most Popular Firefox Screenshots & Recorders</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-error-code-0x800f0831-a-step-by-step-guide/"><u>Quick Fixes for Error Code 0X800f0831: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/realms-converged-meta-quest-3-analysis/"><u>Realms Converged: Meta Quest 3 Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-recovering-missing-file-privileges-in-steam-fixed/"><u>The Ultimate Guide to Recovering Missing File Privileges in Steam [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-usage-from-wudfhostexe-under-windows-1-groovy-11/"><u>Troubleshooting Elevated CPU Usage From WUDFHost.exe Under Windows 1 Groovy 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-systemprofile-desktop-access-error-in-windows-cwindowsconfig/"><u>Troubleshooting: SystemProfile Desktop Access Error in Windows C: Windows Config</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-your-modern-home-network-hub-solutions-for-connectivity-issues/"><u>Understanding Your Modern Home Network Hub: Solutions for Connectivity Issues</u></a></li>
 </ul></div>
 

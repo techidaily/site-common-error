@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Failed to Enumerate Objects' Error During Windows 11 Installation – A Comprehensive Guide
-date: 2024-10-30T07:19:07.811Z
-updated: 2024-11-05T11:26:48.943Z
+date: 2024-11-09T16:45:02.554Z
+updated: 2024-11-15T17:00:57.623Z
 tags:
   - win11
   - win10
@@ -81,11 +81,25 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -97,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -112,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
@@ -119,10 +133,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
@@ -138,13 +152,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Open the app again to see if it goes fine.
 
 ``
@@ -154,13 +161,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -180,6 +180,13 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -197,13 +204,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -232,20 +232,19 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-optimal-conclusion-to-vr-journeys/"><u>[New] Optimal Conclusion to VR Journeys</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-serenity-through-stories-a-review-of-parent-driven-narrative-vids/"><u>[Updated] Serenity Through Stories A Review of Parent-Driven Narrative Vids</u></a></li>
-<li><a href="https://common-error.techidaily.com/adjusting-windows-preferences-under-company-managed-settings-restrictions/"><u>Adjusting Windows Preferences Under Company-Managed Settings Restrictions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725285672790-digiarty/"><u>Digiartyソフトウェアの公式ブログで詳細なディスクコピーガイドを発見</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-the-low-on-memory-problem-on-windows-10/"><u>Effective Solutions for the 'Low On Memory' Problem on Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fast-and-easy-filming-techniques-the-best-5-hacks-unveiled/"><u>Fast & Easy Filming Techniques – The Best 5 Hacks Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-silent-streets-solving-the-no-audio-issue-in-forza-horizon-4/"><u>Fixing the Silent Streets: Solving the 'No Audio' Issue in Forza Horizon 4</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-cannot-reset-pc-issue-on-windows-10-solution-included/"><u>How to Overcome the Cannot Reset PC Issue on Windows 10 (Solution Included)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-expert-tips-to-triumph-in-spotifys-ad-marketplace/"><u>In 2024, Expert Tips to Triumph in Spotify's Ad Marketplace</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-6s-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 6s Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-vivo-t2-pro-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo T2 Pro 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-critical-41-in-winkernel/"><u>Resolving CRITICAL #41 in WinKernel</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-when-your-windows-7-cant-grab-those-newest-updates/"><u>Solution Steps for When Your Windows 7 Can't Grab Those Newest Updates</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/steam-summer-event-annual-game-sales-begin/"><u>Steam Summer Event: Annual Game Sales Begin!</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-unregistered-classes-in-windows-11-guide/"><u>Winning the Battle Against Unregistered Classes in Windows 11 [Guide]</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-how-to-create-your-own-virtual-reality-gear-with-google-cards/"><u>[New] 2024 Approved How to Create Your Own Virtual Reality Gear with Google Cards</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-maximizing-earnings-with-youtube-studio-monetization-on-any-device/"><u>[New] 2024 Approved Maximizing Earnings with YouTube Studio Monetization on Any Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leveraging-filmora-insights-for-every-content-creator/"><u>[New] Leveraging Filmora Insights for Every Content Creator</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sprint-through-time-uncovering-discarded-reddit-content/"><u>[Updated] 2024 Approved Sprint Through Time Uncovering Discarded Reddit Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-annual-list-highest-rated-free-lut-sources-online/"><u>[Updated] Annual List Highest Rated FREE LUT Sources Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-the-secrets-of-irecorder/"><u>[Updated] Unlocking the Secrets of iRecorder</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209901727-breeze-through-fixing-windows-update-error-code-0x80070002-simple-solutions-for-smooth-operations/"><u>Breeze Through Fixing Windows Update Error Code 0X80070002: Simple Solutions for Smooth Operations!</u></a></li>
+<li><a href="https://common-error.techidaily.com/clearing-cache-failures-how-to-address-erroneous-caching-errcachemiss-errors-on-chrome/"><u>Clearing Cache Failures: How to Address Erroneous Caching (ERR_CACHE_MISS) Errors on Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-code-24-errors-for-missing-devices-in-windows-os/"><u>How To Fix Code 24 Errors for Missing Devices in Windows OS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-steps-to-prevent-youtube-channels-mobile-and-desktop-methods/"><u>In 2024, Steps to Prevent Youtube Channels Mobile and Desktop Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-infinix-zero-30-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Infinix Zero 30 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-the-missing-sound-device-error-in-windows-11/"><u>Step-by-Step Solution for the Missing Sound Device Error in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-responsive-function-fn-keys-on-your-lenovo-laptop/"><u>Troubleshooting Guide: Fixing Non-Responsive Function (Fn) Keys on Your Lenovo Laptop</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-video-editing-software-with-effects-for-mobile-devices/"><u>Updated The Best Free Video Editing Software with Effects for Mobile Devices</u></a></li>
 </ul></div>
 

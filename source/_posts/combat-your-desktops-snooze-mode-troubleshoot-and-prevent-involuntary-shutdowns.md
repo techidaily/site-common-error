@@ -1,7 +1,7 @@
 ---
 title: "Combat Your Desktop's Snooze Mode: Troubleshoot and Prevent Involuntary Shutdowns"
-date: 2024-08-27T13:53:30.828Z
-updated: 2024-08-28T13:53:30.828Z
+date: 2024-11-11T17:33:17.175Z
+updated: 2024-11-15T18:16:47.364Z
 tags:
   - win11
   - win10
@@ -50,17 +50,18 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 1. Type**troubleshoot** in the Windows search box, and click**Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-1.jpg)
 2. Click**Additional troubleshooters** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-3.jpg)
-3. Choose**Windows Update** and then**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-3.jpg)
+3. Choose**Windows Update** and then**Run the troubleshooter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-2.jpg)
+
  Wait for a while until Windows troubleshooters detect and fix the problems for you. After it finishes, check if the error code 0x800f0922 still persists. If it does, go ahead and try the next method.
 
 ## Fix 2 Check partition size
@@ -70,14 +71,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Type**disk partitions** in the search box and choose**Create and format hard disk partitions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-4.jpg)
 2. In the pop-up windows, check if your system reserved partition space meets the 500 MB requirement.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-16.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If it fits the requirement, skip this method and try[other methods](#fix-3) .
 
  If the space is not enough, use a**free partition tool** to extend the partition size. Most online partition tools support formatting, deleting, moving, resizing, splitting, and merging partitions. Just simply choose, download and install one like[MiniTool Partition Wizard](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&id=driveeasyen165827&url=https%3A%2F%2Fwww.minitool.com%2Fpartition-manager%2Fpartition-wizard-home.html) , and follow its instruction to resize your partition size.
@@ -92,9 +94,14 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. **Plug** the router back into the power supply. Wait for the network machine to fully boot up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/router-pixabay.jpg)
 3. Test your internet connection by browsing any website. If the browsing speed is slow, try to use a wired connection instead of Wi-Fi.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. **Turn off** your VPN software if you are using any. Then run your Microsoft Windows 10 upgrade again.
 
  If the upgrade runs successfully, restart your computer and turn VPN software back on. If the network and VPN aren’t accountable for the upgrade error, continue to have another try.
@@ -108,19 +115,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Check any box related to**.NET Framework** and click**OK** to save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-6.jpg)
 3. A pop-up Window appears and choose**Let Windows Update download the files for you** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-17.jpg)
 4. Windows will download the required files and install those features for you.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-18.jpg)
 5. Reboot your computer.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  After rebooting, try to run the upgrade again to see if error 0x800f0922 disappears. If not, try the next trick.
 
@@ -133,15 +131,8 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Click**Turn Windows Defender Firewall on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-8.jpg)
 3. Turn off Windows Defender Firewall temporarily for**domain** ,**private** and**public** network settings. Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-9.jpg)
 4. Try updating now.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
 **IMPORTANT** : Remember to**turn on** the firewalls after you finish the update. Be extra careful in using the Internet during this period as your security may be endangered.
 
@@ -164,15 +155,9 @@ To use Fortect to repair your system files:
 2. Launch Fortect and run a**free scan** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 4. To automatically fix all the issues, click**Start Repair** (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Restart your computer for the changes to take effect.
 
 #### Option 2: Deploy SFC & DISM scans
@@ -184,28 +169,40 @@ Restart your computer for the changes to take effect.
 2. Type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 3. The scan can take up to 15 minutes, so wait patiently and check if the problem is still there after the scan.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you fail to run an SFC scan or it doesn’t help the issue, run a**DISM** (Deployment Image Servicing and Management) tool prior to running SFC. DISM is a command-line tool that can be used to fix system problems.
 
 1. Type**cmd** in the search box and click**Run as administrator** to launch Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 2. Copy and paste**DISM /Online /Cleanup-Image /RestoreHealth** and hit**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-15.jpg)
 3. Type**sfc /scannow** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 4. Wait for the scan to finish and check for any improvement on the Windows update failure issue.
 
  If your problem hasn’t been solved yet, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 7 Run anti-virus
 
  If your computer is virus-infected, some of the tasks may be hard to perform successfully, such as Windows update. Therefore running a system scan to detect and remove viruses may help tackle the problem.
@@ -215,8 +212,24 @@ Restart your computer for the changes to take effect.
 1. Search for**Windows security** in the search box and click**Windows Security** to start the app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-10.jpg)
 2. Select**Virus & threat protection** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-12.jpg)
 3. Click**Scan options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-13.jpg)
 4. Select**Full scan** and**Scan now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-11.jpg)
@@ -232,6 +245,13 @@ Restart your computer for the changes to take effect.
  If all the above methods don’t work for you, consider asking an IT specialist. If you don’t want to bother by reaching a friend specializing in this field or going to stores, you can try to have**a live chat** with a verified expert on **[JustAnswer](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  JustAnswer provides 24/7 live support where you can get personalized instructions in minutes. Simply specify your computer issue and **[ask an expert](https://tools.techidaily.com/drivereasy/download/)**  for help.
 
@@ -249,8 +269,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -258,4 +276,22 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mp4-capture-and-analysis-toolkit/"><u>[Updated] MP4 Capture & Analysis Toolkit</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unwind-with-our-top-10-serene-games-for-2024/"><u>[Updated] Unwind With Our Top 10 Serene Games for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-12-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 12 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://common-error.techidaily.com/darkened-panel-uncharted-issue/"><u>Darkened Panel: Uncharted Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-random-pc-turn-offs-heres-how-to-fix-it/"><u>Dealing with Random PC Turn-Offs? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/easy-online-conversion-change-your-mka-file-to-a-high-quality-wav-using-movavi/"><u>Easy Online Conversion: Change Your MKA File to a High-Quality WAV Using Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-connect-microsoft-wireless-display-adapter-effortlessly-on-windows-11-systems/"><u>How to Connect Microsoft Wireless Display Adapter Effortlessly on Windows 11 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-investigating-freezing-moments-in-photobooth-recordings/"><u>In 2024, Investigating Freezing Moments in Photobooth Recordings</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-mousepad-wont-work-try-these-fixes-for-windows-1087-users/"><u>Lenovo Mousepad Won't Work? Try These Fixes for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204623668-overcome-google-chromes-hang-problem-easy-solutions-inside/"><u>Overcome Google Chrome's Hang Problem: Easy Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-lenovo-laptops-webcam-a-comprehensive-troubleshooting-guide/"><u>Reviving Your Lenovo Laptop's Webcam: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-effective-metaverse-engagement-tactics-for-2024/"><u>Unveiling Effective Metaverse Engagement Tactics for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-wont-my-game-of-valheim-start-diagnosing-and-fixing-common-launch-failures/"><u>Why Won't My Game of Valheim Start? Diagnosing and Fixing Common Launch Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-hello-camera-requirements-explored/"><u>Windows Hello Camera Requirements Explored</u></a></li>
+</ul></div>
 

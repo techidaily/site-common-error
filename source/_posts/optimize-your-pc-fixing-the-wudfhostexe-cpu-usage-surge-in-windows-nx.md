@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your PC: Fixing the WUDFHost.exe CPU Usage Surge in Windows nX"
-date: 2024-11-04T10:47:18.058Z
-updated: 2024-11-04T17:37:08.441Z
+date: 2024-11-12T16:33:30.629Z
+updated: 2024-11-15T17:14:17.654Z
 tags:
   - win11
   - win10
@@ -34,16 +34,16 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 2. **[Disable Real-Time Protection and reschedule your Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Use the Local Group Policy Editor to turn off Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Prevent Windows Defender from scanning its own folder**
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
 
@@ -51,53 +51,45 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484832a46a2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to the bottom and click**Add or remove exclusions** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4848b874e63.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Add an exclusion** \>**Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484924c3bad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Copy & paste **C:\\Program Files\\Windows Defender** into the box and click Select**Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4849bf2c80f.jpg)
 
- 6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
 
 ### **Fix 2: Disable Real-Time Protection and r** **eschedule your Windows Defender**
 
 1) On your keyboard, press **the**   **Windows logo key**  and**R** at the same time , then copy & paste **taskschd.msc** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
@@ -119,11 +111,32 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
 
@@ -137,29 +150,22 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Locate and double-click on**Windows Defender Antivirus** (aka. **Windows Defender** , same as below). Then double-click on **Turn off Windows Defender Antivirus** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
 5) Restart your computer and see if your computer runs normally now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Want us to fix the problem for you?
 
@@ -184,14 +190,21 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-efficient-techniques-for-adobe-presenter-capture/"><u>[New] 2024 Approved Efficient Techniques for Adobe Presenter Capture</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-pro-tips-for-capturing-360-degree-fisheye-photos/"><u>[New] In 2024, Pro Tips for Capturing 360-Degree Fisheye Photos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-microsoft-surface-go-assessment-navigating-its-unclear-role-in-the-market/"><u>Affordable Microsoft Surface Go Assessment: Navigating Its Unclear Role in the Market</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-non-functional-cameras-on-microsofts-surface-book-pro-n-with-windows-10-tips/"><u>Diagnosing and Repairing Non-Functional Cameras on Microsoft's Surface Book (Pro N) with Windows 10 Tips</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/fast-track-conversion-effortlessly-upload-iphones-prores-raw-media-onto-windowsmac-systems/"><u>Fast Track Conversion: Effortlessly Upload iPhone's ProRes RAW Media Onto Windows/Mac Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-guide-easily-correcting-battery-not-charging-problems/"><u>Quick Troubleshooting Guide: Easily Correcting 'Battery Not Charging' Problems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-netwtw10sys-bsod-blue-screen-windows-issue/"><u>Resolved: Fixing the Netwtw10.sys BSoD (Blue Screen) Windows Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-how-to-repair-unresponsive-corsair-keyboards/"><u>Solution Guide: How to Repair Unresponsive Corsair Keyboards</u></a></li>
-<li><a href="https://common-error.techidaily.com/twitch-error-4000-explained-effective-solutions-and-fixes/"><u>Twitch Error 4000 Explained: Effective Solutions and Fixes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-streamlined-processes-for-crafting-smooth-multi-snap-videos/"><u>[New] 2024 Approved Streamlined Processes for Crafting Smooth Multi-Snap Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation/"><u>[New] 2024 Approved The Ultimate Guide to Voice Changes Expert's Handbook for MorphVOX Transformation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-embarking-on-a-youtube-venture-user-setup-essentials/"><u>[New] In 2024, Embarking on a YouTube Venture User Setup Essentials</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-the-power-of-instagrams-visual-storytelling-covers-edition/"><u>[Updated] Unlocking the Power of Instagram's Visual Storytelling Covers Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audio-amplification-for-powerpoint-presentations/"><u>2024 Approved Audio Amplification for PowerPoint Presentations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebooks-2023-video-innovations-embracing-the-short-form-approach/"><u>Facebook’s 2023 Video Innovations Embracing the Short-Form Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-non-working-usb-mobile-hotspot-problems/"><u>How To Resolve Non-Working USB Mobile Hotspot Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-usb-port-functionality-on-your-windows-10-or-11-pc/"><u>How to Restore USB Port Functionality on Your Windows 10 or 11 PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-petsafe-automatic-feeder-your-partner-in-maintaining-a-healthy-pet-weight/"><u>In-Depth Review of PetSafe Automatic Feeder – Your Partner in Maintaining a Healthy Pet Weight</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-malfunctions-resolve-non-working-keys-in-windows-10-and-11-quickly/"><u>Keyboard Malfunctions? Resolve Non-Working Keys in Windows 10 and 11 Quickly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-mobile-hotspot-connectivity-using-usb-tethering-on-windows-11/"><u>Mastering Mobile Hotspot Connectivity Using USB Tethering on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-performance-how-to-fix-excessive-cpu-usage-from-wudfhostexe-in-windows-11/"><u>Optimizing Performance: How to Fix Excessive CPU Usage From WUDFHost.exe in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-stuck-on-configuration-issue-quick-guide-for-windows-setup/"><u>Solve Your Stuck on Configuration Issue - Quick Guide for Windows Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-compliance-gap-in-tactile-display-resolved/"><u>SOLVED: Compliance Gap in Tactile Display Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-wow-performance-problems-a-step-by-step-guide/"><u>Solving 'WoW' Performance Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/value-hunting-affordable-vr-gear-from-china-for-2024/"><u>Value Hunting Affordable VR Gear From China for 2024</u></a></li>
 </ul></div>
 

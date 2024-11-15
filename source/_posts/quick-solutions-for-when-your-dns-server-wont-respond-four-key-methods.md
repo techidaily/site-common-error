@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions for When Your DNS Server Won't Respond (Four Key Methods)
-date: 2024-08-27T13:53:38.822Z
-updated: 2024-08-28T13:53:38.822Z
+date: 2024-11-09T16:57:56.374Z
+updated: 2024-11-15T17:38:09.879Z
 tags:
   - win11
   - win10
@@ -27,22 +27,50 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 2. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Reseat your laptop battery**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  The incorrectly installed/ corrupted keyboard driver may account for this**keypad on laptop not working** issue. So we can try reinstalling the driver and see if the keys work properly again. Here’s a quick walk-through:
 
 1. On your keyboard, press **the Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Locate and double-click on **Keyboards** , then right-click on your keyboard and click **Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 3. Wait until the uninstall finishes and **Restart**   your computer so that your computer can auto-install the keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type on your laptop keyboard again and see if it works properly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your keyboard driver
 
  Your outdated keyboard driver may very well be another reason responsible for this **keys not working in laptop** problem if**Fix 1** didn’t help with the situation. We might have to update our keyboard driver to the latest version to make sure problems don’t exacerbate.
@@ -60,19 +88,10 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 4. Type on your keypad and test if the**laptop keypad not working** problem has been fixed.
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3:  Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot this**laptop** **keyboard not working** issue. To do so:
@@ -98,8 +117,6 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +124,16 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-google-pixel-8-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Google Pixel 8 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-color-correction-mastering-luts-in-after-effects/"><u>Advanced Color Correction Mastering LUTs in After Effects</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-lag-expert-fixes-and-optimizations-for-a-smoother-fallout-4-experience/"><u>Beat the Lag: Expert Fixes and Optimizations for a Smoother Fallout 4 Experience</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-guide-transferring-epub-files-to-your-amazon-kindle-easily/"><u>Effortless Guide: Transferring ePUB Files to Your Amazon Kindle Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/gain-approval-overcome-restricted-entry-challenges-here/"><u>Gain Approval? Overcome Restricted Entry Challenges Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-csgo-crashing-quickly-and-easily/"><u>How To Fix CSGO Crashing. Quickly & Easily.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-transform-mp4-videos-into-mp3-audio-files-top-converters/"><u>New In 2024, Transform MP4 Videos Into MP3 Audio Files Top Converters</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722998436924-pathfinder-wrath-of-the-righteous-launch-problems-heres-how-to-resolve-them/"><u>Pathfinder: Wrath of the Righteous Launch Problems? Here's How to Resolve Them!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-0x80240034-issue-on-your-windows-11-pc/"><u>Resolving the 0X80240034 Issue on Your Windows 11 PC</u></a></li>
+</ul></div>
 

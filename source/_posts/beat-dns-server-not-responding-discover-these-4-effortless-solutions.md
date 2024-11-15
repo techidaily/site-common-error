@@ -1,7 +1,7 @@
 ---
 title: "Beat 'DNS Server Not Responding': Discover These 4 Effortless Solutions"
-date: 2024-10-30T04:00:21.207Z
-updated: 2024-11-05T00:25:37.436Z
+date: 2024-11-11T16:23:13.684Z
+updated: 2024-11-15T16:35:39.230Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 3. **[Update your mouse and/or keyboard driver](#c)**
 4. **[Check for Windows Updates](#d)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the keyboard troubleshooter
 
  The keyboard troubleshooter is a built-in utility in Windows designed to identify and automatically rectify common keyboard or mouse errors. To use this troubleshooter, follow these steps:
@@ -49,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-534.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click **Keyboard** , then click**Run the troubleshooter** .
@@ -62,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 **3)**  Wait for Windows to detect and fix your issue automatically.
 
  If Windows fails to detect your problem, don’t worry. Move on to the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your pointer speed
 
@@ -80,25 +80,38 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-532-1024x753.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Adjust your pointer speed to a proper place, like in the very middle. Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-533.png)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Check to see if your mouse can work properly now.
 
 If your problem persists, try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your mouse and/or mouse driver
@@ -132,13 +145,6 @@ OR
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of_all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -186,24 +192,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unraveling-the-enigma-creating-hidden-snapstories/"><u>[New] 2024 Approved Unraveling the Enigma Creating Hidden Snapstories</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-digital-dreamscape-top-10-affordable-mac-drawing-programs/"><u>[Updated] In 2024, Digital Dreamscape Top 10 Affordable Mac Drawing Programs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-social-storytelling-revolutionized-for-no-charge/"><u>[Updated] In 2024, Social Storytelling Revolutionized for No Charge</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-smart-approach-for-posting-igtv-on-your-story-for-2024/"><u>[Updated] The Smart Approach for Posting IGTV on Your Story for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/boost-typing-responsiveness-practical-tips-for-addressing-delayed-keyboard-feedback/"><u>Boost Typing Responsiveness: Practical Tips for Addressing Delayed Keyboard Feedback</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a78-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo A78 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-microsofts-print-to-pdf-problem-in-windows-10-and-windows-11/"><u>How to Resolve Microsoft's Print-to-PDF Problem in Windows 10 and Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-u23-pro-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on U23 Pro and stops randomly</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212177660-pdf-print-problem-discover-fast-fixes-and-get-on-track/"><u>PDF Print Problem? Discover Fast Fixes and Get On Track</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-the-fn-key-on-your-lenovo-laptop-stops-working/"><u>Quick Fixes for When the Fn Key on Your Lenovo Laptop Stops Working</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-black-screen-problem-in-obs-recording/"><u>Resolved: Fixing the Black Screen Problem in OBS Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-10-security-focused-video-chat-apps-on-mobile-devices-for-2024/"><u>Top 10 Security-Focused Video Chat Apps on Mobile Devices for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-ps4-connectivity-effective-nat-type-solutions/"><u>Troubleshooting PS4 Connectivity: Effective NAT Type Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-a-required-module-is-missing/"><u>Troubleshooting Steps When a Required Module Is Missing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-tips-to-fix-high-demand-error-with-chatgpt-on-windows/"><u>Troubleshooting Tips to Fix High Demand Error with ChatGPT on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-mouse-cursor-not-visible-in-windows-11-and-how-to-fix-it/"><u>Why Is My Mouse Cursor Not Visible in Windows 11 and How to Fix It</u></a></li>
-<li><a href="https://win11.techidaily.com/win-troubleshooting-guide-for-non-starting-obs/"><u>Win Troubleshooting Guide for Non-Starting OBS</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-cursor-malfunction-solved-tips-to-bring-back-the-pointer/"><u>Windows 10 Cursor Malfunction Solved: Tips to Bring Back the Pointer</u></a></li>
-<li><a href="https://facebook.techidaily.com/your-privacy-at-risk-detecting-facebook-hacks-early/"><u>Your Privacy at Risk? Detecting Facebook Hacks Early</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-inside-the-world-of-zdsoft-video-capturing/"><u>[New] Inside the World of ZDSoft Video Capturing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-streamline-your-obs-on-economical-devices-for-2024/"><u>[New] Streamline Your OBS on Economical Devices for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-adding-panoramic-movement-a-camtasa-guide-to-ken-burns/"><u>[Updated] 2024 Approved Adding Panoramic Movement A Camtasa Guide to Ken Burns</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-cinematic-transformation-best-15-gopro-color-correction-look-ups-explored-for-2024/"><u>[Updated] Cinematic Transformation Best 15 GoPro Color Correction Look-Ups Explored for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/audioalert-essentials-downloading-and-editing-tamil-melodies/"><u>AudioAlert Essentials Downloading & Editing Tamil Melodies</u></a></li>
+<li><a href="https://common-error.techidaily.com/cracking-the-code-of-the-red-screen-mystery-essential-repair-tips/"><u>Cracking the Code of the Red Screen Mystery: Essential Repair Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-initialization-error-troubleshooting-network-connection-issues/"><u>Dragon Ball FighterZ Initialization Error: Troubleshooting Network Connection Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-6-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 6</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/m3-vs-m1-macbook-pro-is-it-time-to-switch-to-apples-newest-innovation-a-comprehebate-for-tech-enthusiasts-zdnet/"><u>M3 vs M1 MacBook Pro: Is It Time to Switch to Apple's Newest Innovation? A Comprehebate for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-manowar-mic-troubles-expert-tips-on-getting-it-working-again/"><u>Razer ManO'War Mic Troubles? Expert Tips on Getting It Working Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-fix-the-livekernelevent-error-117/"><u>Step-by-Step Solution to Fix the LiveKernelEvent Error #117</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-your-wacom-discover-proven-fixes-for-wacom-tablet-connectivity-issues/"><u>Trouble with Your Wacom? Discover Proven Fixes for Wacom Tablet Connectivity Issues</u></a></li>
 </ul></div>
 

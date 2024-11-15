@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Device Driver Unrecognized' Errors for a Smoother PC Experience
-date: 2024-10-30T04:31:47.914Z
-updated: 2024-11-05T01:44:39.255Z
+date: 2024-11-10T17:17:19.836Z
+updated: 2024-11-15T17:57:13.770Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/0cc7e321d1f451639d7bc59d3e2137f7bee3ef2e1
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Run the built-in Hardware and Devices troubleshooter
 
  The**built-in Hardware and Devices troubleshooter** can help you fix problems with devices connected to your computer. Run it to try to solve your USB device not recognized problem.
@@ -65,29 +58,17 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c8665b788.png)
 3. Click**Troubleshooting** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d76732d97.jpg)
 4. Select **Configure a device** under the**Hardware and sound** section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c946c14d2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c97b74c34.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The troubleshooter would then be running automatically to detect and repair problems.
 
@@ -113,6 +94,13 @@ See how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4: Update your USB device and motherboard chipset drivers
 
  If your**USB device** and**motherboard chipset drivers** are outdated or corrupted, you might also keep getting the error. We highly recommend you update your USB device driver (if your USB device has the driver) and motherboard chipset driver to make your USB device work well.
@@ -129,10 +117,10 @@ See how to do it:
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99dd433fd12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your computer to see if the error disappears.
@@ -149,24 +137,18 @@ Restart your computer to see if the error disappears.
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c8665b788.png)
 3. Click**Power Options** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7437b4c8.jpg)
-4. Select **Change plan settings** of**Balanced(recommended)** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7c4b1d80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Select **Change plan settings** of**Balanced(recommended)** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7c4b1d80.jpg)
 
 5. Click**Change advanced power settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7b2da294.jpg)
 6. Double-click**USB settings** \>**USB selective suspend setting** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d80c3c948.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
 **Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
@@ -175,18 +157,24 @@ Restart your computer to see if the error disappears.
 8. Click**Apply** \>**OK** to save your settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da698818c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Check if the error disappears.
 
  If till now, you don’t see the error message, congratulations! But if you’ve tried all the solutions above, you still see the annoying message, but your USB device works well, don’t give up hope, move on to the last solution here.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Adjust your system settings
 
@@ -201,6 +189,20 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e389af4af.jpg)
 3. Select USB, then un-check **Notify me if there are issues connecting to USB devices.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e3bbc5732.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **If you’re using Windows 7:**
 
 1. On your keyboard, press the**Windows logo key** , then press**Pause** .
@@ -210,10 +212,10 @@ See how to do it:
 5. Click **Advanced** , then tick on **Don’t tell me about USB errors** . Click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e4addd848.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Repeat Steps 4 & 5 for all your other USB controller drivers.
@@ -242,19 +244,20 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-elite-software-selection-top-editors-for-webcams/"><u>[New] 2024 Approved Elite Software Selection Top Editors for Webcams</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-sharex-exploration-reviews-and-contenders/"><u>[New] The ShareX Exploration Reviews & Contenders</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-reimagine-realities-unlocking-the-potential-of-youtubes-greenscreens/"><u>[Updated] Reimagine Realities Unlocking the Potential of YouTube's Greenscreens</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gifavi/"><u>「無劣化」ビデオ作成: GIFをAVIフォーマットに移行する方法</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-high-definition-monitors-top-pickup-list-of-4k-screens/"><u>Affordable High Definition Monitors: Top Pickup List of 4K Screens</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/experience-the-future-top-4k-video-demos-you-wont-want-to-miss-for-2024/"><u>Experience the Future Top 4K Video Demos You Wont Want to Miss for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-guide-to-addressing-xbox-pen-connection-problems-everything-you-need-to-know/"><u>In-Depth Guide to Addressing Xbox Pen Connection Problems - Everything You Need To Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203762665-laptop-microphone-malfunctions-heres-how-you-can-get-it-working-again/"><u>Laptop Microphone Malfunctions? Here's How You Can Get It Working Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/say-goodbye-to-lag-solving-windows-10-keyboard-responsiveness-problems/"><u>Say Goodbye to Lag: Solving Windows 10 Keyboard Responsiveness Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/systems-endgame-device-error-overload/"><u>System's Endgame: Device Error Overload</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-electronics-roundup-in-depth-hardware-evaluations/"><u>Tom's Electronics Roundup: In-Depth Hardware Evaluations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-creative-prompts-for-impressive-ai-art-with-dall-e-3/"><u>Top 8 Creative Prompts for Impressive AI Art with DALL-E 3</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-dota-2s-error-code-2024-via-easy-rendering-api-tweaks/"><u>Troubleshoot and Repair Dota 2'S Error Code 2024 via Easy Rendering API Tweaks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-demystifying-asuss-mg28uq-a-comprehensive-4k-review/"><u>[New] In 2024, Demystifying ASUS's MG28UQ - A Comprehensive 4K Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-twist-tactics-achieving-angles-that-stand-out-on-social-media-for-2024/"><u>[New] Twist Tactics Achieving Angles That Stand Out on Social Media for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-accidental-video-loadout-on-tiktok-find-again/"><u>[Updated] 2024 Approved Accidental Video Loadout on TikTok – Find Again?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-gt-neo-5-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme GT Neo 5 Fingerprint Lock</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effective-fixes-for-corsair-liquid-cpu-cooler-drivers-issues-on-windows-81011-platforms/"><u>Effective Fixes for Corsair Liquid CPU Cooler Drivers Issues on Windows 8/10/11 Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-224003-solved-enjoy-uninterrupted-video-viewing/"><u>Error Code 224003 Solved: Enjoy Uninterrupted Video Viewing</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-microsoft-print-to-pdf-issue-on-windows-11-a-comprehensive-guide/"><u>Fixing the 'Microsoft Print to PDF' Issue on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-your-destiny-2-beyond-light-pc-installation-issues-a-complete-guide/"><u>Fixing Your Destiny 2 Beyond Light PC Installation Issues – A Complete Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-recording-to-broadcast-masterful-podcast-editing-with-garageband-for-2024/"><u>From Recording to Broadcast Masterful Podcast Editing with GarageBand for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/pc-auf-mobilgerate-ubertragen-eine-anleitung-fur-den-datentransfer-ohne-itunes-unter-windows-und-macos/"><u>PC Auf Mobilgeräte Übertragen – Eine Anleitung Für Den Datentransfer Ohne iTunes Unter Windows Und macOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/resizing-and-moving-windows-beyond-the-display-edge-tips-and-tricks/"><u>Resizing and Moving Windows Beyond the Display Edge: Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-installing-latest-windows-11-feature-update-version-1607/"><u>Trouble Installing Latest Windows 11 Feature Update (Version 1607)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204983360-troubleshooting-video-files-resolve-playback-error-22403-now/"><u>Troubleshooting Video Files - Resolve Playback Error 22403 Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-sign-in-errors-with-user-profile-services/"><u>Troubleshooting Windows 11 Sign-In Errors with User Profile Services</u></a></li>
 </ul></div>
 

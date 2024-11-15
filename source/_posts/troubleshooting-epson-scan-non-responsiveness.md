@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Epson Scan Non-Responsiveness"
-date: 2024-11-02T22:36:16.172Z
-updated: 2024-11-05T03:35:55.071Z
+date: 2024-11-11T16:26:04.077Z
+updated: 2024-11-15T16:52:30.144Z
 tags:
   - win11
   - win10
@@ -45,15 +45,22 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Change function key behavior
 
@@ -65,26 +72,32 @@ Follow these steps:
 
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. View by Large icons and select**Windows Mobility Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dbd122ee9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. In the Windows Mobility Center window, locate Fn Key Behavior. Click the drop-down arrow and select**Function key** from the menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dae73bccf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4： Try Uninstalling and reinstalling the keyboard drivers**
@@ -98,13 +111,6 @@ Follow these steps:
  2\. Expand category**Keyboards** , Right-click on the keyboard device, and click**Uninstall device** from the pop-up menu. Then follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3de2f109fa.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. After uninstalling the driver, restart Windows then the driver will install automatically.
 
@@ -129,19 +135,22 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-fable-formulators-fellowship-top-7-titans/"><u>[New] 2024 Approved Fable Formulators Fellowship – Top 7 Titans</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-auditing-for-accuracy-youtube-monetization-compliance/"><u>[Updated] 2024 Approved Auditing for Accuracy YouTube Monetization Compliance</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-unique-14-motion-graphics-showcasing-text/"><u>[Updated] In 2024, Unique 14 Motion Graphics Showcasing Text</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-steps-to-restore-audio-on-your-playstation-4-microphone/"><u>Easy Steps to Restore Audio on Your PlayStation 4 Microphone</u></a></li>
-<li><a href="https://games-able.techidaily.com/empower-your-twitch-viewing-with-these-top-5-downloader-apps/"><u>Empower Your Twitch Viewing with These Top 5 Downloader Apps</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-it-worth-it-review-of-the-premium-priced-mophie-powerstation-ac-charger-practicality-vs-price-point/"><u>Is It Worth It? Review of the Premium-Priced Mophie Powerstation AC Charger - Practicality Vs. Price Point</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolution-no-opengl-backers-found/"><u>Resolution: No OpenGL Backers Found</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-for-endless-windows-update-progress-at-100/"><u>Solution for Endless Windows Update Progress at 100%</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-troubleshooting-your-encounter-with-the-crimson-display-issue/"><u>Solution Found! Troubleshooting Your Encounter with The Crimson Display Issue</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sound-senses-try-our-free-online-rhythm-analyzers-for-2024/"><u>Sound Senses Try Our FREE Online Rhythm Analyzers for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-accessing-games-on-a-disconnected-steam-server/"><u>Step-by-Step Solution: Accessing Games on a Disconnected Steam Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-step-by-step-for-error-1000-on-windows-os-versions-7-8-and-10/"><u>Troubleshooting Step-by-Step for Error 1000 on Windows OS Versions 7, 8 & 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-spontaneous-crashes-a-case-study/"><u>Windows 10 Spontaneous Crashes: A Case Study</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-10-screenshot-enhancers-ios-and-android-sticker-edition/"><u>[New] Top 10 Screenshot Enhancers IOS & Android Sticker Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlock-creativity-in-youtube-production-an-intro-to-wmm-for-2024/"><u>[New] Unlock Creativity in YouTube Production An Intro to WMM for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-perfecting-your-content-understanding-facebook-video-sizes-and-ratios/"><u>[Updated] 2024 Approved Perfecting Your Content Understanding Facebook Video Sizes and Ratios</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-adv-screen-recorder-full-review-for-2024/"><u>[Updated] ADV Screen Recorder Full Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-compilation-of-html5s-best-video-tools/"><u>[Updated] The Ultimate Compilation of HTML5's Best Video Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-error-code-0x800f081f-successful-setup-of-net-framework-groove-in-windows/"><u>Bypassing Error Code 0X800F081F - Successful Setup of .NET Framework Groove in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-restore-key-usage-on-computers-and-phones/"><u>Comprehensive Guide to Restore @ Key Usage on Computers and Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/curbing-high-gpu-usage-by-the-desktop-window-manager-5-effective-techniques-for-windows-11-users/"><u>Curbing High GPU Usage by the Desktop Window Manager: 5 Effective Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/decoding-your-eligibility-for-iphones-newest-model/"><u>Decoding Your Eligibility for iPhone's Newest Model</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-fixes-for-when-your-bluetooth-mouse-wont-pair-on-your-pc-running-windows/"><u>DIY Fixes for When Your Bluetooth Mouse Won't Pair on Your PC Running Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-wd-my-passport-ultra-connects-and-shows-up-in-your-windows-environment/"><u>How to Ensure WD My Passport Ultra Connects and Shows Up in Your Windows Environment</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/iphones-simple-guide-for-efficient-screen-recording-for-2024/"><u>IPhone's Simple Guide for Efficient Screen Recording for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/taking-coding-to-new-heights-maximizing-use-of-dev-drive-in-win11/"><u>Taking Coding to New Heights: Maximizing Use of Dev Drive in Win11</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-hidden-exodus-uncovering-facebooks-user-drop/"><u>The Hidden Exodus: Uncovering Facebook's User Drop</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-correctly-address-error-0x887a0006/"><u>Troubleshooting Guide: How to Correctly Address Error 0X887A0006</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-battle-royale-games-resolving-in-game-crashes/"><u>Troubleshooting Tips for Battle Royale Games - Resolving In-Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-windows-10-touchpad-responding-to-scroll-gestures/"><u>Why Isn't My Windows 10 Touchpad Responding to Scroll Gestures?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Correcting Peripheral Error Messages in Windows
-date: 2024-11-03T09:16:51.217Z
-updated: 2024-11-04T17:27:52.662Z
+date: 2024-11-09T17:44:38.083Z
+updated: 2024-11-15T18:30:27.910Z
 tags:
   - win11
   - win10
@@ -81,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -95,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -138,28 +131,15 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Open the app again to see if it goes fine.
 
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -176,6 +156,19 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -186,13 +179,6 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -200,6 +186,19 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -210,6 +209,13 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -238,19 +244,16 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>[Updated] 2024 Approved Elevate Your Channel Hit the 10,000 View Mark Fast</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pro-anglers-choice-the-top-5-cameras-for-fishing/"><u>2024 Approved Pro Angler's Choice The Top 5 Cameras For Fishing</u></a></li>
-<li><a href="https://common-error.techidaily.com/dormant-device-defiant-system-win1110-saga/"><u>Dormant Device, Defiant System - Win11/10 Saga</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-and-guide-resolving-file-explorer-freezing-issues-on-windows-11/"><u>Fix & Guide: Resolving File Explorer Freezing Issues on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-pcs-silent-problem-no-audio-device-installed-error-on-windows-11-explained/"><u>Fix Your PC's Silent Problem: No Audio Device Installed Error on Windows 11 Explained</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Motorola PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009341204-how-to-update-or-repair-oculus-vr-graphics-drivers-solved/"><u>How to Update or Repair Oculus VR Graphics Drivers – Solved!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-poco-m6-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Poco M6 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/july-2024-secure-guide-to-common-linksys-router-passwords/"><u>July 2024 Secure Guide to Common Linksys Router Passwords</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-functionality-restored-say-goodbye-to-non-typing-letters/"><u>Keyboard Functionality Restored: Say Goodbye to Non-Typing Letters</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-your-systems-diagnostics-policy-service-problem-today/"><u>Resolving Your System's Diagnostics Policy Service Problem Today</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/d-screen-craftsman/"><u>Second-Screen Craftsman</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-stardew-valley-pc-crash-issues-a-comprehensive-guide/"><u>Solving Stardew Valley PC Crash Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-insufficient-resources-for-task-completion-on-your-computer/"><u>Troubleshooting Insufficient Resources for Task Completion on Your Computer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-deciphering-the-language-of-haptic-interaction/"><u>[New] In 2024, Deciphering the Language of Haptic Interaction</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-to-cost-free-camera-screen-capture-tools/"><u>[New] The Ultimate Guide to Cost-Free Camera Screen Capture Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audience-wow-factor-how-to-create-spectacular-live-streams/"><u>Audience Wow Factor How to Create Spectacular Live Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/electronic-entertainment-unveiling-9-attractive-and-detrited-features/"><u>Electronic Entertainment: Unveiling 9 Attractive & Detrited Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-issue-unable-to-execute-file-in-the-temporary-directory-setup-aborted-error-5-access-is-denied/"><u>Fix Issue: “Unable to Execute File in the Temporary Directory. Setup Aborted. Error 5: Access Is Denied.”</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-power-to-a-non-charging-playstation-4-remote/"><u>How to Restore Power to a Non-Charging PlayStation 4 Remote</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oneplus-ace-2-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your OnePlus Ace 2 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-edge-network-raise-and-cabinets-a-buyers-handbook/"><u>Leading Edge Network Raise & Cabinets : A Buyer's Handbook</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-the-fix-for-error-0x800f0831-a-step-by-step-guide-using-windows-updates/"><u>Navigating the Fix for Error 0X800f0831 – A Step-by-Step Guide Using Windows Updates</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-criacr-fm-bluetooth-transmitter-model-cp24-small-design-notable-issues/"><u>Review of Criacr FM Bluetooth Transmitter Model CP24: Small Design, Notable Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-unplayable-dvds-in-microsoft-windows/"><u>Solving the Problem of Unplayable DVDs in Microsoft Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against svchost.exe's Overuse of CPU Resources in Windows 11 [Guide]
-date: 2024-11-03T11:08:59.102Z
-updated: 2024-11-04T23:02:10.441Z
+date: 2024-11-10T17:49:34.291Z
+updated: 2024-11-15T18:03:43.801Z
 tags:
   - win11
   - win10
@@ -62,29 +62,31 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
-3. Click **Change settings that are currently unavailable** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
-4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
+3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
+4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -93,16 +95,30 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -122,21 +138,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -161,21 +170,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-sierras-ultimate-guide-to-the-best-mac-video-editing-tools/"><u>[New] Sierra's Ultimate Guide to the Best Mac Video Editing Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-daily-movie-storage-gb-explained-for-2024/"><u>[Updated] Daily Movie Storage GB Explained for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/eradicating-input-lag-for-a-smoother-experience-with-windows-11-computers/"><u>Eradicating Input Lag for a Smoother Experience with Windows 11 Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-solutions-for-fixing-werfaultexe-errors-in-windows/"><u>Essential Solutions for Fixing werfault.exe Errors in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-this-platform-is-not-supported-while-installing-intel-serial-io-driver/"><u>Fix This Platform Is Not Supported. While Installing Intel Serial IO Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-streaming-despite-errors-a-step-by-step-guide/"><u>How to Enable Miracast Streaming Despite Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-wireless-mouse-that-stops-working-sporadically-on-computers-running-windows-1110/"><u>How to Fix a Wireless Mouse That Stops Working Sporadically on Computers Running Windows 11/10</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-ultimatevision-recorder-for-w10/"><u>In 2024, UltimateVision Recorder for W10</u></a></li>
-<li><a href="https://common-error.techidaily.com/missing-light-adjustment-feature-on-windows-surprise/"><u>Missing Light Adjustment Feature on Windows Surprise</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-10-best-vlog-editor-apps-ios-and-android/"><u>New In 2024, 10 Best Vlog Editor Apps iOS & Android</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-easy-guide-to-downloading-dell-sound-card-updates/"><u>Quick and Easy Guide to Downloading Dell Sound Card Updates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-audio-not-playing-on-mozilla-firefox/"><u>Resolved: Audio Not Playing on Mozilla Firefox</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/top-affordable-windows-laptop-picks-comparing-brands-like-acer-and-dell-expert-insights/"><u>Top Affordable Windows Laptop Picks: Comparing Brands Like Acer & Dell - Expert Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/touchpad-lag-or-no-response-heres-how-you-can-resolve-it/"><u>Touchpad Lag or No Response? Here's How You Can Resolve It</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716069268346-new-in-2024-top-tickles-for-young-game-fans/"><u>[New] In 2024, Top Tickles for Young Game Fans!</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-from-undiscovered-to-famous-the-seo-playbook-for-your-podcast/"><u>[Updated] In 2024, From Undiscovered to Famous The SEO Playbook for Your Podcast</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-insightful-advice-for-an-unhindered-instagram-experience/"><u>[Updated] In 2024, Insightful Advice for an Unhindered Instagram Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024200d-windows-update-failure-solved/"><u>Error 0X8024200d – Windows Update Failure [SOLVED]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guard-against-data-thieves-with-ai-literacy-and-caution/"><u>Guard Against Data Thieves with AI Literacy and Caution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-typing-the-wrong-keys-on-your-keyboard/"><u>How to Fix Typing the Wrong Keys on Your Keyboard</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-top-tips-for-maximizing-iphone-xs-cinematic-shots/"><u>In 2024, Top Tips for Maximizing iPhone X's Cinematic Shots</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/precision-in-storyboard-planning/"><u>Precision in Storyboard Planning</u></a></li>
+<li><a href="https://common-error.techidaily.com/strategies-for-preventing-system-conflict-over-shared-resources/"><u>Strategies for Preventing System Conflict Over Shared Resources</u></a></li>
+<li><a href="https://common-error.techidaily.com/taming-the-noise-effective-ways-to-quiet-a-boisterous-ps4/"><u>Taming the Noise: Effective Ways to Quiet a Boisterous PS4</u></a></li>
 </ul></div>
 

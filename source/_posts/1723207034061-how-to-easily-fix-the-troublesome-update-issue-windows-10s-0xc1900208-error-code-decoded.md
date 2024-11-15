@@ -1,7 +1,7 @@
 ---
 title: How to Easily Fix the Troublesome Update Issue - Windows 10'S 0Xc1900208 Error Code Decoded!
-date: 2024-11-03T06:55:07.049Z
-updated: 2024-11-05T02:51:36.902Z
+date: 2024-11-10T16:35:12.592Z
+updated: 2024-11-15T17:25:08.073Z
 tags:
   - win11
   - win10
@@ -82,10 +82,10 @@ net start cryptsvc
 6. Wait for the export process to be complete.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
@@ -93,16 +93,30 @@ net start cryptsvc
 8. Double click**DisableWindowsUpdateAccess** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
-
- Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
 ## Fix 3: Perform a clean boot
 
@@ -116,66 +130,62 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Run Windows Update and see if the “0x8024002e” error occurs. If not, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
-11. Click**Restart** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+11. Click**Restart** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if the update error occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If there’s any service that brings up the 0x8024002e error, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 16. Click**OK** and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
@@ -203,15 +213,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-enhancing-drones-techniques-in-video-post-production/"><u>[New] 2024 Approved Enhancing Drones Techniques in Video Post-Production</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-ultimate-guide-7-steps-for-stellar-cooking-films-for-2024/"><u>[New] The Ultimate Guide 7 Steps for Stellar Cooking Films for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-srt-text-conversion-a-modern-how-to/"><u>2024 Approved Quick SRT Text Conversion A Modern How-To</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-safariblocks-fixes-and-tips-to-open-webpages-effortlessly/"><u>Bypassing Safariblocks: Fixes and Tips to Open Webpages Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209100579-fixed-windows-resource-protection-could-not-start-the-repair-service-sfc-error/"><u>Fixed: Windows Resource Protection Could Not Start the Repair Service — Sfc Error</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/google-wireless-nest-doorbell-battery-version-detailed-assessment-and-review/"><u>Google Wireless Nest Doorbell (Battery Version) - Detailed Assessment & Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-valorants-persistent-infinite-loading-challenge/"><u>How to Overcome Valorant's Persistent Infinite Loading Challenge</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-battery-icon-on-your-windows-10-system-easily-solved/"><u>How to Restore Battery Icon on Your Windows 10 System Easily [Solved]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-haldll-troubleshooting-in-windows-versions-a-step-by-step-guide/"><u>Solving Hal.dll Troubleshooting in Windows Versions: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/winter-ready-soundbot-sb210-assessment-reliable-high-quality-acoustics-achieved/"><u>Winter-Ready Soundbot SB210 Assessment: Reliable High-Quality Acoustics Achieved</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-be-a-reddit-pro-the-13-best-ways-to-make-cash-fast-and-easy/"><u>[New] 2024 Approved Be a Reddit Pro The 13 Best Ways to Make Cash Fast & Easy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-tips-for-selecting-lenses-as-a-video-blogger/"><u>[New] 2024 Approved Expert Tips for Selecting Lenses as a Video Blogger</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-download-your-favorite-shows-anytime-everywhere-with-these-apps/"><u>[Updated] In 2024, Download Your Favorite Shows Anytime, Everywhere with These Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instagrams-guide-to-intellectual-property-in-music/"><u>[Updated] Instagram's Guide to Intellectual Property in Music</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-pioneering-platform-presence-innovative-square-video-methods/"><u>[Updated] Pioneering Platform Presence Innovative Square Video Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-blockade-your-ultimate-fix-guide-to-error-code-80240020-in-windows-11-installations/"><u>Beat the Blockade: Your Ultimate Fix Guide to Error Code 80240020 in Windows 11 Installations</u></a></li>
+<li><a href="https://common-error.techidaily.com/beating-the-puzzle-of-directxs-unrecoverable-error-with-effective-fixes/"><u>Beating the Puzzle of DirectX's Unrecoverable Error with Effective Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easily-overcome-response-incorrect-message/"><u>Easily Overcome Response Incorrect Message</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-to-get-your-overwatch-voice-chat-up-and-running-again/"><u>Effortless Fixes to Get Your Overwatch Voice Chat Up and Running Again</u></a></li>
+<li><a href="https://howto.techidaily.com/gionee-f3-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gionee F3 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-startup-failure-with-error-0xc000007b-step-by-step-solutions/"><u>How to Fix the Startup Failure with Error 0xC000007B: Step-by-Step Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-stuck-windows-11-login-page-simple-steps/"><u>How to Resolve 'Stuck' Windows 11 Login Page - Simple Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-review-of-audfreeplus-software/"><u>In 2024, In-Depth Review of AudFreePlus Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/introducing-a-next-level-faq-experience-with-mondly/"><u>Introducing a Next-Level FAQ Experience with Mondly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-unresponsive-logitech-keyboard-fast/"><u>Troubleshoot Your Unresponsive Logitech Keyboard Fast</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-guide-for-windows-network-error-0x800704cf/"><u>Ultimate Troubleshooting Guide for Windows Network Error 0X800704CF</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208385080-win-10-volume-dysfunction-heres-how-you-can-get-it-working-again/"><u>Win 10 Volume Dysfunction? Here's How You Can Get It Working Again</u></a></li>
 </ul></div>
 

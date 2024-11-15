@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Mysterious Problem: A Detailed Walkthrough of Error 0X80004005"
-date: 2024-11-03T21:28:04.198Z
-updated: 2024-11-05T03:45:00.433Z
+date: 2024-11-08T16:55:28.478Z
+updated: 2024-11-15T16:34:12.845Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098.jpg)
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -80,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
 
  6) Choose your preferred media. If you choose a USB flash drive, make sure you have a blank USB flash drive with at least 8GB of space.
@@ -120,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) In Command Prompt, type the following command lines and hit Enter after each command. (There’s a space between**bootrec** and**/** .)
 
 bootrec /scanos
@@ -150,13 +137,6 @@ bootrec /rebuildbcd
 
  4) If it fails, you can run Startup Repair again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: CHKDSK
 
  CHKDSK, short for “check disk”, aims to check disk and verify system files for any errors.
@@ -174,6 +154,13 @@ chkdsk C: /f /r /x
 3) CHKDSK will manage to fix the problems it finds.
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: System File Checker
 
@@ -201,21 +188,7 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
 
@@ -245,6 +218,13 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Type**Check for updates** in the Search box and press**Enter** .
 
 ##### 2\. Device Manager
@@ -252,10 +232,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
@@ -280,9 +260,23 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
 
@@ -308,21 +302,21 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ow-to-craft-engaging-trailers-that-drive-channels-sales/"><u>[New] How to Craft Engaging Trailers that Drive Channels' Sales</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-revolutionizing-live-streams-discover-top-5-innovations/"><u>[Updated] 2024 Approved Revolutionizing Live Streams Discover Top 5 Innovations</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-innovative-approaches-for-cross-social-media-broadcasting-fbwhatsapp/"><u>2024 Approved Innovative Approaches for Cross-Social Media Broadcasting (FB/WhatsApp)</u></a></li>
-<li><a href="https://common-error.techidaily.com/chrome-in-crisis-effective-ways-to-address-your-browsers-sudden-nightfall/"><u>Chrome in Crisis: Effective Ways to Address Your Browser’s Sudden Nightfall</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-on-major-networks-navigate-facebook-twitter-instagram-and-youtube-successfully/"><u>Engage on Major Networks: Navigate Facebook, Twitter, Instagram & Youtube Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/excel-tips-and-tricks-effortlessly-highlight-entire-rows-with-conditional-formatting-techniques/"><u>Excel Tips & Tricks: Effortlessly Highlight Entire Rows with Conditional Formatting Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-cannot-cast-to-device-issue-in-windows-10-comprehensive-guide/"><u>Fixing the 'Cannot Cast to Device' Issue in Windows 10 - Comprehensive Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-11-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-reels-borrow-tips-and-tricks-from-tiktok-to-go-viral/"><u>Instagram Reels Borrow Tips & Tricks From TikTok to Go Viral</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-pl2303-chipset-drivers-for-windows-pcs-download-and-update-instructions/"><u>Latest PL2303 Chipset Drivers for Windows PCs: Download & Update Instructions</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-hp-laptops-webcam-expert-fixes-compatible-with-windows-11-operating-system/"><u>Revive Your HP Laptop's Webcam: Expert Fixes Compatible with Windows 11 Operating System</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/step-by-step-guide-to-record-online-video-calls/"><u>Step-by-Step Guide to Record Online Video Calls</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-your-pcs-failure-to-boot-successfully/"><u>Step-by-Step Guide: Correcting Your PC’s Failure to Boot Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-ps4-nat-types-with-this-detailed-walkthrough/"><u>Troubleshoot and Fix PS4 NAT Types with This Detailed Walkthrough</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-dxgkrnl-fatal-crash-during-video-streaming-on-windows/"><u>Troubleshooting the Dxgkrnl Fatal Crash During Video Streaming on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstick-your-windows-10-update-dilemma-easy-repair-techniques-explained/"><u>Unstick Your Windows 10 Update Dilemma – Easy Repair Techniques Explained</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-auditory-logging-system-tones-and-voice-samples/"><u>[New] Auditory Logging System Tones & Voice Samples</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-average-revenue-what-every-view-contributes-to-creators/"><u>[New] In 2024, Average Revenue What Every View Contributes to Creators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-untold-story-of-instagram-story-consumers/"><u>[New] The Untold Story of Instagram Story Consumers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/efficiently-track-your-read-emails-with-these-gmail-tips-and-tricks/"><u>Efficiently Track Your Read Emails with These Gmail Tips & Tricks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/expertly-convert-videos-on-your-device-with-the-most-trusted-apps-8-for-2024/"><u>Expertly Convert Videos on Your Device with the Most Trusted Apps #8 for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/guidelines-for-securing-trustware-trustedinstaller-approval-for-file-modification/"><u>Guidelines for Securing TrustWare TrustedInstaller Approval for File Modification</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-fatal-error-1603-and-complete-software-installation-successfully/"><u>How to Resolve 'Fatal Error 1603' & Complete Software Installation Successfully</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-full-disclosure-gecata-gameplay-tracker-reviewed/"><u>In 2024, Full Disclosure Gecata Gameplay Tracker Reviewed</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-authority-security-patched-successfully-learn-more-inside/"><u>Local Authority Security Patched Successfully - Learn More Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-geforce-experience-launch-problem-a-complete-guide/"><u>Resolving the GeForce Experience Launch Problem - A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-rpc-server-unavailable-error-code-0xc0000098-in-windows-a-step-by-step-guide/"><u>Solving the RPC Server Unavailable (Error Code 0xC0000098) in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-network-adapter-failures-on-windows-117-pcs/"><u>Step-by-Step Guide: Resolving Network Adapter Failures on Windows 11/7 PCs</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-post-cloning-dark-monitor-dilemma-on-windows-pcs/"><u>Troubleshooting Post-Cloning Dark Monitor Dilemma on Windows PCs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultra-compact-and-efficient-hp-spectre-x360-touchscreen-review-for-on-the-go-productivity/"><u>Ultra-Compact and Efficient: HP Spectre X360 Touchscreen Review for On-the-Go Productivity</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 7? | Stellar</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac598-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a1cymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-r103/"><u>YAC598 - Yamaha'aturboSound II Sound Module Based on the YMF7A1C/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Lenovo's Unresponsive Keys: How to Fix a Non-Functioning Keyboard"
-date: 2024-11-01T02:52:05.300Z
-updated: 2024-11-04T19:10:01.908Z
+date: 2024-11-08T17:54:42.824Z
+updated: 2024-11-15T18:08:26.267Z
 tags:
   - win11
   - win10
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
@@ -82,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 5: Perform a system restore
 
  If the keyboard stopped working after you updated Windows or installed some software, performing a system restore would solve the problem. Note you need to have[restore points](https://tools.techidaily.com/drivereasy/download/) created.
@@ -104,10 +97,10 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**System protection** in left pane.
@@ -115,26 +108,26 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Click **System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
@@ -143,6 +136,13 @@ If you have no idea how to do a system restore, refer steps below:
  7) Click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Click**Yes** to confirm the restore.
 
@@ -170,19 +170,22 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-performers-top-10-innovative-4k-mirrorless-models/"><u>[New] 2024 Approved Best Performers Top 10 Innovative 4K Mirrorless Models</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-winter-wonderland-in-beijing-olympic-year-2022/"><u>[New] 2024 Approved Winter Wonderland in Beijing, Olympic Year 2022</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-highly-compensated-online-visionary-creator/"><u>[Updated] In 2024, Highly Compensated Online Visionary Creator</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-silence-the-reasons-behind-broken-car-speaker-systems/"><u>Diagnosing Silence: The Reasons Behind Broken Car Speaker Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-bluetooth-mouse-working-again-on-a-windows-machine/"><u>Expert Tips to Get Your Bluetooth Mouse Working Again on a Windows Machine</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/has-pope-francis-embraced-email-technology-for-vatican-communication/"><u>Has Pope Francis Embraced Email Technology for Vatican Communication?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-2022-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE (2022) to Roku? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installing-professional-drivers-surface-pro-4/"><u>Installing Professional Drivers: Surface Pro 4</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-dilemma-a-step-by-step-guide-to-correcting-error-0x800f081f-on-net-framework-35-setup/"><u>Resolving the Dilemma: A Step-by-Step Guide to Correcting Error 0X800F081F on .NET Framework 3.5 Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-notorious-0x80072efd-error-in-windows-10/"><u>Troubleshooting and Fixing the Notorious 0X80072EFD Error in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-disk-space-consumption-by-microsofts-telemetry-on-windows-11/"><u>Troubleshooting Excessive Disk Space Consumption by Microsoft's Telemetry on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-0x80072efd-issue-in-windows-11-expert-fixes-and-tips/"><u>Troubleshooting the 0X80072EFD Issue in Windows 11: Expert Fixes and Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-sudden-system-failures-while-playing-games-windows-users-guide/"><u>Understanding & Fixing Sudden System Failures While Playing Games: Windows Users Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/net-framework-35-installation-woes-heres-how-to-fix-error-code-0x800f081f/"><u>.NET Framework 3.5 Installation Woes? Here's How to Fix Error Code 0X800F081F</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highlights-the-5-most-advanced-low-speed-recorders/"><u>[New] Highlights The 5 Most Advanced Low-Speed Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-essential-guide-to-screencasting-with-google-meet/"><u>[New] In 2024, Essential Guide to Screencasting with Google Meet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unparalleled-top-5-agile-camcorders-guide/"><u>[Updated] In 2024, Unparalleled Top 5 Agile Camcorders Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pairing-youtube-sounds-with-visual-narratives/"><u>2024 Approved Pairing YouTube Sounds with Visual Narratives</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-overcome-the-plcncachewiper-error-0xc00000e9-on-your-windows-machine/"><u>Comprehensive Solutions to Overcome the PLCN_CACHE_WIPER (Error 0xC00000E9) on Your Windows Machine</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-y78-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo Y78 5G Location | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-tech-reviews-with-a-focus-on-alternatives/"><u>In 2024, Top Tech Reviews with a Focus on Alternatives</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-error-12-monster-quest-restored/"><u>Resolved Error 12 - Monster Quest Restored</u></a></li>
+<li><a href="https://common-error.techidaily.com/revitalize-your-huion-sketch-tool-5-fast-fixes-for-a-broken-pen/"><u>Revitalize Your Huion Sketch Tool - 5 Fast Fixes for a Broken Pen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oneplus-12-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock OnePlus 12 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201942469-troubleshoot-and-correct-windows-update-failure-0x80070002-fast/"><u>Troubleshoot and Correct Windows Update Failure 0X80070002 Fast!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-persistent-keyboard-keys-on-windows-systems/"><u>Troubleshooting and Repairing Persistent Keyboard Keys on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-miracast-unsupported-by-graphics-card-steps-for-resolution/"><u>Troubleshooting Miracast Unsupported by Graphics Card: Steps for Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/typing-anomaly-discovered/"><u>Typing Anomaly Discovered</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-failed-to-create-directx-graphics-device-error-message/"><u>Understanding & Fixing the 'Failed to Create DirectX Graphics Device' Error Message</u></a></li>
 </ul></div>
 

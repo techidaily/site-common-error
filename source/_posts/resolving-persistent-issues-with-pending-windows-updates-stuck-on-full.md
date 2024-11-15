@@ -1,7 +1,7 @@
 ---
 title: Resolving Persistent Issues with Pending Windows Updates Stuck on Full
-date: 2024-11-02T19:36:21.094Z
-updated: 2024-11-05T07:24:56.273Z
+date: 2024-11-13T17:02:59.720Z
+updated: 2024-11-15T18:03:01.478Z
 tags:
   - win11
   - win10
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 6. **[Pro tip: Want us to fix the problem for you?](#p)**
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Remove any USB peripherals and wait for the update process to finish
@@ -49,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
  If you temporarily don’t need to use your PC, you can just wait for 2 to 3 hours to see if the update process can be completed. If there are any USB devices (like printers, USB flash drives, etc.) connected to your PC, you can try removing them from your PC. Some Windows users reported that after they disconnect all the USB peripherals from their PCs, the update process completes quickly.
 
  See if this issue persists after you wait for 2 to 3 hours. If it persists, try the next fix below to force restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Force restart your PC
 
@@ -71,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
  If you still cannot access the desktop, you can try starting your PC in safe mode with the network. When you sign into your Windows system in safe mode with the network, try the next fix below to run the Windows Update troubleshooter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run Windows Update troubleshooter
@@ -91,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap467-1.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### If you’re using Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -105,15 +97,16 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Windows Update. Then wait for it to troubleshoot your issues.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
 
  Perform a Windows update again to see if you can install the update. If this issue reappears, try the next fix, below.
@@ -125,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the Run dialog. Type **cmd** and press **Ctrl** , **Shift** and **Enter** at the same time to **run Command Prompt as administrator** . You’ll be prompted for permission. Click **Yes** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468-1.png)
 2. In Command Prompt, type the command lines below and press Enter on your keyboard after typing each:  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  net stop bits  
  net stop wuauserv  
@@ -151,6 +151,13 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of the Windows operating system. You can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually to see if you can fix this issue.
@@ -161,14 +168,14 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap471-1.png)
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
@@ -179,16 +186,16 @@ Now, you can follow the steps below to download Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470-1.png)
 3. Visit **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Type the update number that you want to download. In this example, type KB3006137 and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473-1.png)
 5. In the list of search results, select the correct update for your operating system and click **Download** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 
@@ -225,21 +232,18 @@ Now, you can follow the steps below to download Windows updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/corrected-guide-to-addressing-the-issue-when-easy-anti-cheat-doesnt-launch-in-new-world/"><u>[CORRECTED] Guide to Addressing the Issue When Easy Anti-Cheat Doesn't Launch in New World</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-5-easy-free-methods-to-master-youtube-video-frames-for-2024/"><u>[New] 5 Easy, Free Methods to Master YouTube Video Frames for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-valheim-seeds-and-growth-techniques/"><u>[New] In 2024, Top Valheim Seeds & Growth Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unhacked-url-retrieving-lost-facebook-links-for-2024/"><u>[New] Unhacked URL Retrieving Lost Facebook Links for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-transform-your-youtube-videos-into-webm-easily-for-2024/"><u>[Updated] Transform Your YouTube Videos Into WebM Easily for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-masterclass-in-meme-template-selection/"><u>2024 Approved Masterclass in Meme Template Selection</u></a></li>
-<li><a href="https://common-error.techidaily.com/all-three-at-bedtime-to-minimize-interactions/"><u>All Three at Bedtime to Minimize Interactions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-to-get-the-steelseries-arctis-1-headset-mic-up-and-running-again/"><u>Effective Remedies to Get the SteelSeries Arctis 1 Headset Mic Up and Running Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-guide-when-your-laptop-mousepad-wont-work-on-windows-quick-fixes-for-win-10-8-and-7/"><u>Fix Guide: When Your Laptop Mousepad Won’t Work on Windows - Quick Fixes for Win 10, 8 & 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-dark-display-problem-in-windowss-fortnite-game/"><u>How to Overcome the Dark Display Problem in Windows's Fortnite Game</u></a></li>
-<li><a href="https://win-lab.techidaily.com/incremental-guide-for-moving-from-windows-server-201-update-process-to-2022-release/"><u>Incremental Guide for Moving From Windows Server 201([文章]) - Update Process to 2022 Release</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-7-update-issues-why-updates-arent-installing-and-how-to-fix-them/"><u>Mastering Windows 7 Update Issues: Why Updates Aren't Installing and How to Fix Them</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-data-recovery-recover-lost-data-from-motorola-moto-g34-5g-by-fonelab-android-recover-data/"><u>Motorola Data Recovery – recover lost data from Motorola Moto G34 5G</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211048300-quick-fix-guide-to-fast-league-of-legends-downloading-say-goodbye-to-delays/"><u>Quick-Fix Guide to Fast League of Legends Downloading: Say Goodbye to Delays</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-restoring-touchpad-scroll-functionality-in-windows-10-systems/"><u>Step-by-Step Solution for Restoring Touchpad Scroll Functionality in Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/update-brief-starcraft-ii-graphics-problem-corrected-successfully/"><u>Update Brief: StarCraft II Graphics Problem Corrected Successfully</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-shadowy-snapshots-skills-for-stunning-night-images/"><u>[New] 2024 Approved Shadowy Snapshots Skills for Stunning Night Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precise-participation-the-key-to-zooming-in-on-google-meet-talks/"><u>[New] Precise Participation The Key to Zooming in on Google Meet Talks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/upercharge-your-content-key-seo-elements-for-youtube-for-2024/"><u>[New] Supercharge Your Content Key SEO Elements for YouTube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unveiling-simple-techniques-for-amazing-slow-motion-footage-in-android/"><u>[New] Unveiling Simple Techniques for Amazing Slow-Motion Footage in Android</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-unsuccessful-update-to-windows-11-build-1607/"><u>Error: Unsuccessful Update to Windows 11 Build 1607</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-the-new-moto-g-with-stylus-top-tier-efficiency-and-satisfying-battery-life/"><u>Experience the New Moto G with Stylus - Top-Tier Efficiency & Satisfying Battery Life</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-non-functional-mic-issue-in-windows-11-troubleshooting-guide/"><u>Fixing a Non-Functional Mic Issue in Windows 11 - Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-persistent-screen-shimmer-on-windows-11/"><u>Fixing the Persistent Screen Shimmer on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v30-lite-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V30 Lite 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-keyboards-arrow-buttons-effective-solutions-inside/"><u>Reviving Your Keyboard's Arrow Buttons – Effective Solutions Inside!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-and-compressed-memory-high-disk-usage-on-windows-11-solved/"><u>System and Compressed Memory High Disk Usage on Windows 11 [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-for-errors-during-steam-game-installation-or-update-process/"><u>Troubleshooting: Fixes for Errors During Steam Game Installation or Update Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/us-caribbean/"><u>U.S. Caribbean</u></a></li>
 </ul></div>
 

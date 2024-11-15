@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing High Resource Demand From System Idle Functionality
-date: 2024-10-31T18:59:01.860Z
-updated: 2024-11-05T03:41:42.577Z
+date: 2024-11-13T16:17:36.608Z
+updated: 2024-11-15T17:21:04.222Z
 tags:
   - win11
   - win10
@@ -59,15 +59,22 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 3. Choose**Windows Update** and then**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-2.jpg)
 
  Wait for a while until Windows troubleshooters detect and fix the problems for you. After it finishes, check if the error code 0x800f0922 still persists. If it does, go ahead and try the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2 Check partition size
 
@@ -76,6 +83,14 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 1. Type**disk partitions** in the search box and choose**Create and format hard disk partitions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-4.jpg)
 2. In the pop-up windows, check if your system reserved partition space meets the 500 MB requirement.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-16.jpg)
 
  If it fits the requirement, skip this method and try[other methods](#fix-3) .
@@ -83,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
  If the space is not enough, use a**free partition tool** to extend the partition size. Most online partition tools support formatting, deleting, moving, resizing, splitting, and merging partitions. Just simply choose, download and install one like[MiniTool Partition Wizard](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&id=driveeasyen165827&url=https%3A%2F%2Fwww.minitool.com%2Fpartition-manager%2Fpartition-wizard-home.html) , and follow its instruction to resize your partition size.
 
  After resizing the system reserved partition, try to process the Windows update again. If the error code hasn’t been removed, scroll down and try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 Check network connection
 
@@ -102,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 4. **Turn off** your VPN software if you are using any. Then run your Microsoft Windows 10 upgrade again.
 
  If the upgrade runs successfully, restart your computer and turn VPN software back on. If the network and VPN aren’t accountable for the upgrade error, continue to have another try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 Check the .NET Framework
 
@@ -127,16 +128,10 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
  After rebooting, try to run the upgrade again to see if error 0x800f0922 disappears. If not, try the next trick.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5 Turn off firewall
@@ -146,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 1. Type**defender firewall** and select**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-7.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-8.jpg)
 3. Turn off Windows Defender Firewall temporarily for**domain** ,**private** and**public** network settings. Click**OK** .  
@@ -183,13 +171,6 @@ To use Fortect to repair your system files:
 4. To automatically fix all the issues, click**Start Repair** (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Restart your computer for the changes to take effect.
 
 #### Option 2: Deploy SFC & DISM scans
@@ -207,19 +188,27 @@ Restart your computer for the changes to take effect.
 1. Type**cmd** in the search box and click**Run as administrator** to launch Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 2. Copy and paste**DISM /Online /Cleanup-Image /RestoreHealth** and hit**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-15.jpg)
 3. Type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 4. Wait for the scan to finish and check for any improvement on the Windows update failure issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your problem hasn’t been solved yet, continue to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7 Run anti-virus
 
@@ -234,19 +223,21 @@ Restart your computer for the changes to take effect.
 3. Click**Scan options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-13.jpg)
 4. Select**Full scan** and**Scan now** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-11.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The scan will go through all the files on your computer and take a while to finish. After that, let this tool remove any threat on your computer and restart the machine. Then run Windows update again.
@@ -286,20 +277,16 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-adjust-your-video-feedback-control-in-youtube-for-2024/"><u>[Updated] Adjust Your Video Feedback Control in YouTube for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-craft-nfts-with-minimal-exertion/"><u>[Updated] How to Craft NFTs with Minimal Exertion</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlock-the-potential-of-autoplay-vids-on-fb-platform/"><u>[Updated] In 2024, Unlock the Potential of Autoplay Vids on FB Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-and-resolve-unity-graphics-error-during-launch-successfully-now/"><u>Bypass and Resolve Unity Graphics Error During Launch Successfully Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-tips-for-resolving-when-your-airpods-cant-be-located-in-find-my/"><u>Essential Tips for Resolving When Your AirPods Can’t Be Located in 'Find My'</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-semaphore-timeout-period-error-resolution-causes-for-0x80070079/"><u>Expert Advice on 'Semaphore Timeout Period' Error Resolution, Causes for 0X80070079</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-chrome-errsslprotocolerror-for-smooth-browsing/"><u>How to Correctly Address 'Chrome ERR_SSL_PROTOCOL_ERROR' For Smooth Browsing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-narzo-60-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme Narzo 60 Pro 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/moto-z2s-brainpower-examined-in-detail-for-2024/"><u>Moto Z2's Brainpower Examined in Detail for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-system-check-ensuring-your-computer-meets-premiere-pros-requirements/"><u>New 2024 Approved System Check Ensuring Your Computer Meets Premiere Pros Requirements</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ready-for-high-res-our-choice-of-best-screenshot-and-recorder-apps/"><u>Ready for High-Res Our Choice of Best Screenshot & Recorder Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-common-problems-with-windows-key-plus-shift-plus-s-on-windows-operating-systems-windows-11-and-10/"><u>Resolving Common Problems with Windows Key + Shift + S on Windows Operating Systems (Windows 11 and 10)</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-provided-trouble-in-establishing-connection-between-windows-and-sensvc/"><u>Solution Provided: Trouble in Establishing Connection Between Windows and SENSVC</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-miracast-compatible-with-your-system-driver/"><u>Troubleshooting Guide: Making Miracast Compatible With Your System Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolve-device-unprepared-alert/"><u>Troubleshooting Steps: Resolve 'Device Unprepared' Alert</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-learn-everything-about-3d-lut-creator-and-mobile-app/"><u>[Updated] Learn Everything About 3D LUT Creator & Mobile App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assessment-of-dji-phantom-3-aerial-tech/"><u>Assessment of DJI Phantom 3 Aerial Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquering-vr-lexicon-for-beginners/"><u>Conquering VR Lexicon for Beginners</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-error-cruntimel1-1-0-missing-from-system/"><u>Critical Error: CRuntimeL1-1-0 Missing From System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-high-disk-usage-caused-by-microsofts-telemetry-service-in-windows-11-systems/"><u>Fixing High Disk Usage Caused by Microsoft's Telemetry Service in Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-successfully-power-off-your-computer-running-windows-11/"><u>Fixing the Issue: How to Successfully Power Off Your Computer Running Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-0x0000000a-blue-screen-error/"><u>How to Fix 0X0000000A Blue Screen Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-overcome-the-preparing-to-configure-windows-issue/"><u>Resolved: Step-by-Step Guide to Overcome the 'Preparing to Configure Windows' Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-overcoming-the-errcachemiss-challenge-in-chrome/"><u>The Ultimate Guide to Overcoming the ERR_CACHE_MISS Challenge in Chrome</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-boom-microphones-a-comprehensive-guide/"><u>Top-Rated Boom Microphones : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-secrets-of-truthgpt-investigating-police-searches-in-mullvad-vpn-saga-and-discovering-top-free-pc-games-for-enthusiasts-and-the-ultimate-guide-to-66/"><u>Unlocking Secrets of TruthGPT, Investigating Police Searches in Mullvad VPN Saga & Discovering Top Free PC Games for Enthusiasts and The Ultimate Guide to Mechanical Keyboards</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing 'Minecraft Local Network Multiplayer' Issues"
-date: 2024-08-27T13:52:10.002Z
-updated: 2024-08-28T13:52:10.002Z
+date: 2024-11-13T17:08:14.077Z
+updated: 2024-11-15T16:09:32.275Z
 tags:
   - win11
   - win10
@@ -26,6 +26,19 @@ You may not have to try them all; just work your way down the list until you fin
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Reinstall your game**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Press Tab when parachuting
 
 To fix your game graphics issue, you can make your game load the building texture before landing. To do so, when your parachute is pulled out, press the**Tab**key on your keyboard to bring up the inventory screen. Your game may freeze for a while, as it’s loading the texture. After that, check to see if this fixes your texture issues. Hopefully it does. But if not, there are still three fixes for you to try…
@@ -40,9 +53,6 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb536f27d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click**ADD LIBRARY FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdcc73a052.png)
@@ -56,15 +66,16 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdde86db67.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **6)** Click**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdfe387754.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 **7)** Click**LIBRARY**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe29b7bf54.jpg)
@@ -74,20 +85,41 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe31f23cb3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **9)** Select the**LOCAL FILES**tab, then click**MOVE INSTALL FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe45ed95b1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **10)** Select the new folder you’ve created, then click**MOVE FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe4dad26a2.png)
 
 Steam will move your PUBG files to that new folder. You can then check to see if this fixes your building texture issues.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Update your graphics driver
 
@@ -100,15 +132,16 @@ Your game may not be able to load the building texture properly if you’re not 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b600778ced76.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issues with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Reinstall your game
 
 Your PUBG files may have been corrupted so you are having the texture loading issues. You can reinstall your game to repair the corrupted files. After that, run your game and, if this method helps you, you should see the texture of buildings is fully loaded. We hope one of these fixes works for you! If you have any questions, leave us a comment below.
@@ -121,8 +154,6 @@ Your PUBG files may have been corrupted so you are having the texture loading is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +161,20 @@ Your PUBG files may have been corrupted so you are having the texture loading is
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-replay-the-art-of-twitch-livestream-control/"><u>[New] Replay The Art of Twitch Livestream Control</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-secrets-to-producing-visually-appealing-fb-promos/"><u>[New] Secrets to Producing Visually Appealing FB Promos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-behind-the-scenes-unveiling-the-best-9-camera-additions-for-mobile-films/"><u>[Updated] In 2024, Behind the Scenes Unveiling the Best 9 Camera Additions for Mobile Films</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-complete-lowdown-navigating-creative-commons-licenses/"><u>[Updated] The Complete Lowdown Navigating Creative Commons Licenses</u></a></li>
+<li><a href="https://win-special.techidaily.com/5aac5l2v5zyo5aot57iu5b2x54mh5ykz5lu95pah5lu25lit5bcl5zue6kkr6yg65asx55qe5qqu5qgi/"><u>如何在壓縮影片備份文件中尋回被遺失的檔案</u></a></li>
+<li><a href="https://common-error.techidaily.com/application-stops-due-to-dll-absence/"><u>Application Stops Due to DLL Absence</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-the-binkw32dll-file-not-present-error/"><u>Comprehensive Fixes for The binkw32.dll File Not Present Error</u></a></li>
+<li><a href="https://article-helps.techidaily.com/embedding-yt-audio-into-film-formats/"><u>Embedding YT Audio Into Film Formats</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-it-tips-and-solutions-when-your-torrent-isnt-downloading-as-expected/"><u>How to Fix It: Tips and Solutions When Your Torrent Isn't Downloading as Expected</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-non-charging-difficulties-essential-tips-for-your-surface-device/"><u>Overcoming Non-Charging Difficulties: Essential Tips for Your Surface Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-dxgkrnl-fatal-error-in-videos-on-windows-systems/"><u>Resolving the DXGKRNL Fatal Error in Videos on Windows Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlock-room-efficiency-with-these-10-sms-tactics/"><u>Unlock Room Efficiency with These 10 SMS Tactics</u></a></li>
+</ul></div>
 

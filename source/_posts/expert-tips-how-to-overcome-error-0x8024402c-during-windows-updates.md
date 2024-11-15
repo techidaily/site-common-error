@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: How to Overcome Error 0X8024402c During Windows Updates"
-date: 2024-10-31T01:39:17.612Z
-updated: 2024-11-05T03:17:22.358Z
+date: 2024-11-08T17:07:54.588Z
+updated: 2024-11-15T18:02:27.452Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/063f04ddcc12d7ad0c40343a71ed623fbddb1ebfb
 
 Now try to install Windows Updates now.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
  Keep your proxy settings clean can prevent your system from navigating to many different and unresourceful servers. Go with the steps below to clean your proxy settings.
@@ -52,25 +59,11 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Clear Exceptions box if there were any content in it.
 
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Exit Internet Explorer and run Command Prompt.
 
@@ -87,6 +80,13 @@ Find and click to open Command Prompt from Start menu.
  c) Type **net start wuauserv**  and hit **Enter** .
 
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3\. Change DNS Servers
 
@@ -106,13 +106,6 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -123,14 +116,14 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
-Now try to install Windows Updates now.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Now try to install Windows Updates now.
 
 ## Fix 4\. Configure Updates Client
 
@@ -144,9 +137,29 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
@@ -174,13 +187,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now try to install Windows Updates now.
 
 After the fixes above, Windows Update should be good to go now.
@@ -202,19 +208,16 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-the-pinnacle-of-new-zooids-in-panzoids-for-2024/"><u>[New] The Pinnacle of New Zooids in Panzoids for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-using-claude-2/"><u>A Comprehensive Guide to Using Claude 2</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-errors-that-prevent-your-machine-from-booting-up/"><u>Diagnosing and Fixing Errors That Prevent Your Machine From Booting Up</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-privacy-in-chatgpt-engagements/"><u>Evaluating Privacy in ChatGPT Engagements</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-your-itel-p40-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Itel P40 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-discontinued-shockwave-flash-problem-on-google-chrome/"><u>How to Fix the Discontinued Shockwave Flash Problem on Google Chrome</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/hp-laptop-mastery-learn-effortless-screenshotting-methods/"><u>HP Laptop Mastery: Learn Effortless Screenshotting Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hidden-echoes-to-silence-audacitys-technique-guide/"><u>In 2024, Hidden Echoes to Silence Audacity's Technique Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-music-selections-for-movie-making/"><u>In 2024, Premier Music Selections for Movie Making</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ranking-the-best-budget-friendly-live-streaming-options-today/"><u>In 2024, Ranking the Best Budget-Friendly Live Streaming Options Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-gpt-chat-a-practical-api-overview/"><u>Integrating GPT-Chat: A Practical API Overview</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-10-update-freeze-expert-solutions-to-restart-your-system-effortlessly/"><u>Overcoming Windows 10 Update Freeze: Expert Solutions to Restart Your System Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-logitech-keyboard-malfunction/"><u>Quick Solutions: How To Resolve Logitech Keyboard Malfunction</u></a></li>
-<li><a href="https://common-error.techidaily.com/restarting-your-night-shift-feature-on-the-latest-windows-operating-system/"><u>Restarting Your Night Shift Feature on the Latest Windows Operating System</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-reverse-image-retrieval-in-social-media-fb-explained/"><u>[New] 2024 Approved Reverse-Image Retrieval in Social Media (FB) Explained</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimal-ppt-presentation-capture-methods/"><u>[Updated] Optimal PPT Presentation Capture Methods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-checklist-for-yt-creator-mastery/"><u>[Updated] The Essential Checklist for YT Creator Mastery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-iphone-14-max-unmatched-battery-endurance-and-more-features-that-make-it-a-favorite-insights-from-zdnet/"><u>Affordable iPhone 14 Max: Unmatched Battery Endurance & More Features That Make It a Favorite - Insights From ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/banishing-blue-screen-issues-expert-tips-to-fix-bsod-in-windows-10/"><u>Banishing Blue Screen Issues: Expert Tips to Fix BSOD in Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-webcams-for-peak-twitch-performance-for-2024/"><u>Essential Webcams for Peak Twitch Performance for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-your-wow-connection-tips-to-overcome-lag-issues-easily/"><u>Optimizing Your WoW Connection: Tips to Overcome Lag Issues Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-activating-your-bluetooth-device-on-windows-11-and-windows-10/"><u>Step-by-Step Tutorial: Activating Your Bluetooth Device on Windows 11 and Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-addressing-the-issues-of-windows-10s-april-2019-update-failure/"><u>Successfully Addressing the Issues of Windows 10'S April 2019 Update Failure</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-your-creativity-the-5-best-iphone-video-editing-apps/"><u>Updated In 2024, Unleash Your Creativity The 5 Best iPhone Video Editing Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-user-reports-curse-of-the-invisible-mouse-pointer-and-how-to-fix-it/"><u>Windows 11 User Reports: Curse of the Invisible Mouse Pointer and How to Fix It</u></a></li>
 </ul></div>
 

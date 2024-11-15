@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Error Code 0X80073CF9 & Successfully Use Windows 11 Store Again
-date: 2024-09-04T20:22:01.918Z
-updated: 2024-09-05T20:22:01.918Z
+date: 2024-11-10T16:45:31.421Z
+updated: 2024-11-15T18:15:25.872Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Here are the solutions for you to try. You don’t need to try them all; just wo
 
 **Note** : You’ll need to be logged into Windows on the problem computer to try[solution 3](https://tools.techidaily.com/drivereasy/download/) and[solution 4](https://tools.techidaily.com/drivereasy/download/) . If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and restart it in[Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try the solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why does 0xc00000e9 occur to my computer?
 
 The error code 0xc00000e9 is generally a hardware error pretaining to your**BIOS settings**. If you are seeing this error, generally it’s because your computer can’t communicate with the hard drive. Another cause is the**SSD (Solid-state drive) issue**when installing Windows.
@@ -47,24 +54,32 @@ You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab22ea821a18.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Once you’re in the Boot options, make sure the**first boot device**is your**hard drive**. You can press the arrow key to highlight the hard drive and move it to the top of the boot device list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab23153b0892.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5)**Save**your changes, and reboot your computer. This should fix your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 3: Update your drivers**
 
 The driver problem can also cause the error 0xc00000e9, because the hardware can’t communicate with the software if there’s something wrong with drivers. You should **verify that all your devices have the right and latest drivers and update those that don’t**.
@@ -75,53 +90,31 @@ The driver problem can also cause the error 0xc00000e9, because the hardware can
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab232d7385cf.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer and see if the error 0xc00000e9 disappears.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 4: Run a disk check**
 
 The error 0xc00000e9 can be caused by the disk problem. You should make sure that your disk works properly. 1) Boot your computer into**Safe Mode**. (You can check this article for more information about **[how to enter Safe Mode](https://tools.techidaily.com/drivereasy/download/)** .) 2) In the search box on your desktop, type**cmd**. Then right click**Command Prompt** (right click cmd if you’re using Windows 7) and click**Run as administrator**. Then click**Yes**to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab234158a472.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Type**chkdsk /f /r**, then press**Enter**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)4） Press**Y**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note** : Disk check will start the next time you boot your PC and it might take some time to complete. If you don’t have time to wait for the disk check to complete when restarting your computer, you can skip it or schedule it again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 5: Fix the MBR with Windows PE**
 
@@ -140,8 +133,6 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +140,17 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-insights-capturing-the-essence-of-online-meetings/"><u>[Updated] 2024 Approved Expert Insights Capturing the Essence of Online Meetings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-audio-tools-free-superior-dj-templates-online/"><u>[Updated] Essential Audio Tools Free, Superior DJ Templates Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/asus-laptop-support-resolving-malfunctioning-function-fn-button-problems/"><u>ASUS Laptop Support: Resolving Malfunctioning Function (Fn) Button Problems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/curating-the-best-mac-snipping-software-compilation/"><u>Curating the Best Mac Snipping Software Compilation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/entering-metaverse-ranked-best-virtual-reality-gear-for-2024/"><u>Entering Metaverse Ranked Best Virtual Reality Gear for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-diagnosing-and-resolving-windows-boot-up-failures/"><u>Expert Guide: Diagnosing and Resolving Windows Boot-Up Failures</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guide-exhaustif-restauration-des-donnees-dun-portable-sony-vaio-explique-etape-par-etape/"><u>Guide Exhaustif: Restauration Des Données D’un Portable Sony VAIO Expliqué Étape Par Étape</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bringing-your-vision-to-life-posting-photos-on-youtube/"><u>In 2024, Bringing Your Vision to Life Posting Photos on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-d3derrnotavailable-effective-fixes-and-tips-for-smooth-operation/"><u>Overcoming 'D3DERR_NOT_AVAILABLE' – Effective Fixes and Tips for Smooth Operation</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-for-resolving-error-code-0x80240017-during-windows-updates/"><u>The Ultimate Solution for Resolving Error Code 0X80240017 During Windows Updates</u></a></li>
+</ul></div>
 

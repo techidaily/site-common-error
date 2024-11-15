@@ -1,7 +1,7 @@
 ---
 title: USB Connection Woes on Windows 11? Here's How to Correct Unknown Device Errors
-date: 2024-11-04T09:55:31.028Z
-updated: 2024-11-05T02:55:40.742Z
+date: 2024-11-12T18:00:44.611Z
+updated: 2024-11-15T17:47:08.458Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
@@ -53,22 +53,22 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 5. Try the Cast to Device feature again to see if it succeeds.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -78,24 +78,18 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 6. Click **OK** .  
@@ -120,14 +114,22 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -151,20 +153,20 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-newest-qanda-arsenal-for-captivating-listeners/"><u>[New] In 2024, Newest Q&A Arsenal for Captivating Listeners</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-strategy-cradle-nurturing-market-gains/"><u>[New] Strategy Cradle Nurturing Market Gains</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-supercharge-your-content-consumption-these-best-free-online-video-downloaders-for-youtube-shorts-for-2024/"><u>[Updated] Supercharge Your Content Consumption These Best Free, Online Video Downloaders for YouTube Shorts for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-strategies-for-capturing-lol-matches-for-2024/"><u>[Updated] Top Strategies for Capturing LOL Matches for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-post-update-boot-errors-on-windows-11-a-step-by-step-guide/"><u>Addressing Post-Update Boot Errors on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/arrow-keys-not-working-check-out-these-effective-repair-strategies/"><u>Arrow Keys Not Working? Check Out These Effective Repair Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/curb-unwanted-restart-cycles-on-your-windows-10-device-common-causes-and-fixes/"><u>Curb Unwanted Restart Cycles on Your Windows 10 Device: Common Causes & Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/cure-kernel32dll-crashes-on-pcs/"><u>Cure Kernel32.dll Crashes on PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-cutting-edge-hardware-with-toms-technology-hub/"><u>Discovering Cutting-Edge Hardware with Tom's Technology Hub</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-dolby-digital-issues-for-optimal-home-cinema-experience-on-windows-11/"><u>How To Fix Dolby Digital Issues for Optimal Home Cinema Experience on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/nier-automata-pc-performance-optimized-no-more-game-crashes/"><u>Nier: Automata PC Performance Optimized: No More Game Crashes!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/premier-producer-a-choreography-of-colors-and-tones/"><u>Premier Producer A Choreography of Colors & Tones</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/snickerscribble-program-for-2024/"><u>SnickerScribble Program for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-playback-problems-with-videos-in-mozilla-firefox-expert-tips/"><u>Solve Playback Problems with Videos in Mozilla Firefox | Expert Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-overutilized-cpu-by-wudfhostexe-fix-guide-for-smooth-windows-11-experience/"><u>Tackling Overutilized CPU by wudfhost.exe: Fix Guide for Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212541975-net-framework-35-installation-woes-heres-how-to-fix-error-code-0x800f081f/"><u>.NET Framework 3.5 Installation Woes? Here's How to Fix Error Code 0X800F081F!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-10-recording-tips-for-recording-audio-with-high-quality-for-2024/"><u>[Updated] 10 Recording Tips for Recording Audio with High Quality for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-techniques-to-amplify-youtube-video-clarity/"><u>[Updated] 2024 Approved Techniques to Amplify YouTube Video Clarity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-story-stream-sequencer-app/"><u>[Updated] In 2024, Story Stream Sequencer App</u></a></li>
+<li><a href="https://common-error.techidaily.com/0x800705b4-error-in-windows-update-in-windows-11-solved/"><u>0X800705b4 Error in Windows Update in Windows 11 [Solved]</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ve-the-perfect-look-youtubes-guide-to-video-aspect-ratios/"><u>Achieve the Perfect Look YouTube's Guide to Video Aspect Ratios</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-strategies-for-winning-with-the-windows-11-bar/"><u>Essential Strategies for Winning with the Windows 11 Bar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/missing-sds-whisper-declare-them-visible/"><u>Missing SD's Whisper? Declare Them Visible</u></a></li>
+<li><a href="https://common-error.techidaily.com/regain-control-of-your-network-with-these-nce-strategies-for-unresponsive-dns-servers/"><u>Regain Control of Your Network with These Nce Strategies for Unresponsive DNS Servers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-laptop-not-charging-on-windows-7-and-10/"><u>Resolved: How to Fix Laptop Not Charging on Windows 7 & 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revealing-hidden-shortcuts-a-comprehensive-guide-to-using-the-concealed-path-panel/"><u>Revealing Hidden Shortcuts: A Comprehensive Guide to Using the Concealed Path Panel</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/transform-your-chromebook-how-to-install-linux-and-unlock-new-features-for-2024/"><u>Transform Your Chromebook How to Install Linux and Unlock New Features for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-unresponsive-night-light-feature-in-windows-10-and-11/"><u>Troubleshooting Guide: Fixing the Unresponsive Night Light Feature in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-issues-when-the-steam-store-wont-load/"><u>Troubleshooting Guide: Resolving Issues When The Steam Store Won't Load</u></a></li>
 </ul></div>
 

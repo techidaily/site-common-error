@@ -1,7 +1,7 @@
 ---
 title: "Beat the Update Blues: Fixing Critical Bug 0X8024401c in Windows 11 Devices"
-date: 2024-10-31T23:29:15.440Z
-updated: 2024-11-05T04:16:34.642Z
+date: 2024-11-08T18:06:34.003Z
+updated: 2024-11-15T17:51:26.388Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/8f746ea5ff5f235bd9550c0631527dab7bc233469
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
  Keep your proxy settings clean can prevent your system from navigating to many different and unresourceful servers. Go with the steps below to clean your proxy settings.
@@ -58,6 +51,13 @@ Now try to install Windows Updates now.
  4) Click**Advanced** while**Use a proxy server for you LAN** is ticked on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Clear Exceptions box if there were any content in it.
 
@@ -70,19 +70,6 @@ Now try to install Windows Updates now.
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -104,6 +91,13 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Now Internet Connection window is open.
 
 Double-click on your active Network Adapter.
@@ -122,6 +116,13 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
 
 ## Fix 4\. Configure Updates Client
@@ -137,10 +138,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
@@ -148,16 +149,16 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
@@ -186,19 +187,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now try to install Windows Updates now.
 
 After the fixes above, Windows Update should be good to go now.
@@ -220,18 +208,19 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-reviews.techidaily.com/authentic-basketball-action-awaits-in-nba-2k19/"><u>Authentic Basketball Action Awaits in NBA 2K19</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-with-better-fps-eliminating-freezing-issues-in-warzone/"><u>Boost Your Gameplay with Better FPS – Eliminating Freezing Issues in Warzone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/coming-soon-touchscreen-macbook-latest-updates-on-launch-dates-and-pricing-unveiled-features/"><u>Coming Soon Touchscreen MacBook: Latest Updates on Launch Dates & Pricing – Unveiled Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/freedom-in-meditation-tracks-for-2024/"><u>Freedom in Meditation Tracks for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-screencast-handbook-adept-techniques-and-tools/"><u>In 2024, Ultimate Screencast Handbook Adept Techniques & Tools</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-blur-videos-online-without-spending-a-dime-the-ultimate-tutorial/"><u>New Blur Videos Online Without Spending a Dime The Ultimate Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-the-fixes-for-the-windows-11-critical-error-displayed-on-a-red-screen/"><u>Resolved: The Fixes for the Windows 11 Critical Error Displayed on a Red Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-symbol-issue-a-step-by-step-guide/"><u>Solving the '@' Symbol Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-instructions-for-crafting-and-installing-whatsapp-alerts/"><u>Step-By-Step Instructions for Crafting & Installing WhatsApp Alerts</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-easy-way-out-expert-advice-on-mending-defective-usb-charging-points/"><u>The Easy Way Out: Expert Advice on Mending Defective USB Charging Points</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-an-mss32dll-not-found-warning/"><u>What To Do When You Encounter an mss32.dll Not Found Warning</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-pc-restart-issues-comprehensive-solution-to-avoid-reset-problems/"><u>Windows 11 PC Restart Issues – Comprehensive Solution to Avoid Reset Problems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-smart-strategies-for-utilizing-b-roll-footage-effectively/"><u>[New] 2024 Approved Smart Strategies for Utilizing B-Roll Footage Effectively</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-engaging-audiennas-a-captivate-presentation-guide/"><u>[Updated] Engaging Audiennas A Captivate Presentation Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-frontier-top-360-cameras-for-industry-pros-2023/"><u>[Updated] Exploring the Frontier Top 360° Cameras for Industry Pros, 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-new-insight-sony-s6500-bd-reader-update/"><u>[Updated] New Insight Sony S6500 BD Reader Update</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-revolutionary-audio-alteration-for-enhanced-pubg-experience-for-2024/"><u>[Updated] Revolutionary Audio Alteration for Enhanced PUBG Experience for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-your-pcs-potential-exciting-new-windows-10-games/"><u>[Updated] Unlock Your PC’s Potential Exciting New Windows 10 Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-internet-sharing-mastering-usb-tethering-on-windows-11/"><u>Effortless Internet Sharing: Mastering USB Tethering on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-p55t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P55T without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/pc-refuses-to-rise-snoozing-on-win1110/"><u>PC Refuses to Rise: Snoozing on Win11/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-exploring-the-causes-of-your-windows-10-machines-unexpected-boot-cycles/"><u>Resolved! Exploring the Causes of Your Windows 10 Machine's Unexpected Boot Cycles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superior-workplace-data-cloud-hubs/"><u>Superior Workplace Data Cloud Hubs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-releases-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated iPhone Releases - Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-efficient-wdf-drivers-to-lower-cpu-utilization/"><u>Troubleshooting Efficient WDF Drivers to Lower CPU Utilization</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-function-keys-solutions-for-your-asus-laptop/"><u>Troubleshooting Non-Functional Function Keys: Solutions for Your ASUS Laptop</u></a></li>
 </ul></div>
 

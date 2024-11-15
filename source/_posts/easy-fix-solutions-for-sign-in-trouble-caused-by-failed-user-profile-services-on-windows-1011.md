@@ -1,7 +1,7 @@
 ---
 title: Easy Fix Solutions for Sign-In Trouble Caused by Failed User Profile Services on Windows 10/11
-date: 2024-09-04T20:22:04.338Z
-updated: 2024-09-05T20:22:04.338Z
+date: 2024-11-12T16:52:29.961Z
+updated: 2024-11-15T17:28:07.644Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Does this look familiar?
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bafc786d58.png)**  and **R** at the same time to invoke a **Run** command.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Type **gpedit.msc**  and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279bde5ee8d.png)
@@ -50,6 +57,19 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279c6c18122.png)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `
 ` `
 ` `
@@ -60,6 +80,19 @@ Does this look familiar?
  4) Double-click**Allow Telemetry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279cc82eec5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 `
 ` `
@@ -99,12 +132,6 @@ Does this look familiar?
 ` `
 `
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Using Registry Editor
 
  1)On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bafc786d58.png)**  and **R** at the same time to invoke a **Run** command.
@@ -120,49 +147,33 @@ Does this look familiar?
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a4ede532e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Double-click**Allow** **Telemetry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a53baa7f6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **NOTE:** If you can’t find Allow Telemetry, create it manually: Right-click on DataCollection and choose**New** \>**DWORD (32-bit) Value** . Then name the new value **Allow** **Telemetry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  6) Set**Value date** to **0** (zero) and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a576ca320.jpg)
 
  7) On your keyboard, press **Ctrl**  \+ **Shift**  \+ **Esc**  keys (at the same time) to open your Task Manager, check to see if Microsoft Compatibility Telemetry takes up a normal disk usage.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Update your device drivers
 
  If, after trying the above, the issue still exists or your PC is still running slow, it’s time to update your device drivers.
@@ -180,23 +191,18 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae696a52856.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next toany flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae6a0c3f690.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 PC.
 
@@ -221,8 +227,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +234,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-sony-vegas-for-high-impact-video-editing-on-youtube/"><u>[Updated] Explore Sony Vegas for High-Impact Video Editing on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-step-up-your-speaking-game-access-free-user-friendly-audio-alteration-tools/"><u>[Updated] In 2024, Step Up Your Speaking Game - Access Free, User-Friendly Audio Alteration Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-holistic-motion-analysis-2023/"><u>2024 Approved Holistic Motion Analysis 2023</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-understanding-your-youtube-revenue-adsense-rates-per-1k-viewer/"><u>2024 Approved Understanding Your YouTube Revenue AdSense Rates Per 1K Viewer</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-mysterious-problem-a-detailed-walkthrough-of-error-0x80004005/"><u>Fixing the Mysterious Problem: A Detailed Walkthrough of Error 0X80004005</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-boost-your-iphones-performance-understanding-the-top-6-issues/"><u>How to Boost Your iPhone's Performance: Understanding the Top 6 Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-microsofts-wireless-display-adapter-when-it-fails-to-pair-with-windows-10/"><u>How to Fix Microsoft's Wireless Display Adapter When It Fails to Pair with Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-spark-20-proplus-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Spark 20 Pro+ to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximize-android-gaming-with-funimate-apk-download/"><u>In 2024, Maximize Android Gaming with Funimate APK Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-cwindowssystem32configsystemprofile-desktop-error-on-your-pc/"><u>Resolving C: Windows System32 Config SystemProfile Desktop Error on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-unresponsive-backspace-keys-a-comprehensive-guide/"><u>Resolving Issues with Unresponsive Backspace Keys: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-display-errors-restoring-disappearing-mouse-cursors/"><u>Troubleshooting Windows 10 Display Errors - Restoring Disappearing Mouse Cursors</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-users-how-to-repair-and-enable-scroll-feature-in-your-touchpad-device/"><u>Windows 10 Users! How to Repair and Enable Scroll Feature in Your Touchpad Device</u></a></li>
+</ul></div>
 

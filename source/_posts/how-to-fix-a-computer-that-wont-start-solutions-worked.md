@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Computer That Won't Start - Solutions Worked
-date: 2024-08-27T13:53:40.864Z
-updated: 2024-08-28T13:53:40.864Z
+date: 2024-11-09T17:58:43.568Z
+updated: 2024-11-15T16:17:17.480Z
 tags:
   - win11
   - win10
@@ -57,19 +57,26 @@ Whether you receive an error message saying “Your computer was unable to start
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -83,21 +90,22 @@ Whether you receive an error message saying “Your computer was unable to start
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
  3) Type **sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4) Restart your computer to check the issue is fixed or not.
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to [Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Launch Startup Repair
 
@@ -108,8 +116,12 @@ Whether you receive an error message saying “Your computer was unable to start
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click**Recovery** in the left pane and then click**Restart now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/recovery-1024x787.jpg)
@@ -122,14 +134,18 @@ Whether you receive an error message saying “Your computer was unable to start
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Click Startup Repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/repair.jpg)
 
 6) Wait for the tool to finish the process and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Restore your system
 
@@ -151,22 +167,14 @@ Whether you receive an error message saying “Your computer was unable to start
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap820-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Restart your computer to check the issue is solved or not.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5:**Reset or reinstall Windows**
 
  If all else fails, you may have to[reset Windows](https://tools.techidaily.com/drivereasy/download/) , or maybe even[reinstall it](https://tools.techidaily.com/drivereasy/download/) together. We all know reinstalling will delete all the data on your hard drive, you have to[back up all your important files](https://tools.techidaily.com/drivereasy/download/) before doing it.
@@ -182,6 +190,13 @@ Restart your computer to check the issue is solved or not.
 1. [Check your power supply](https://tools.techidaily.com/drivereasy/download/)
 2. [Corrupted system](https://tools.techidaily.com/drivereasy/download/)
 3. [Hardware issue](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your power supply
 
@@ -204,8 +219,12 @@ Restart your computer to check the issue is solved or not.
  When you encounter this situation, you’d better[boot to safe mode](https://tools.techidaily.com/drivereasy/download/) to troubleshoot the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Hardware issue
 
  If the above fixes don’t work, it’s probably a hardware issue. If one of the components inside is old or broken inside, your computer may be unable to start. In this situation, if your computer is still under warranty, you’d better contact customer service for help. But if your PC is out of warranty and you have certain knowledge to check the hardware, you could try to open the computer case to fix it.
@@ -222,8 +241,6 @@ Restart your computer to check the issue is solved or not.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +248,26 @@ Restart your computer to check the issue is solved or not.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-making-a-splash-how-to-improve-your-videos-with-instagram-edits/"><u>[New] In 2024, Making a Splash How to Improve Your Videos with Instagram Edits</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unleash-luxury-top-10-accessories-for-the-sj4000-for-2024/"><u>[New] Unleash Luxury Top 10 Accessories for the SJ4000 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-cost-effective-strategies-to-combine-videos-with-text/"><u>[Updated] 2024 Approved Cost-Effective Strategies to Combine Videos with Text</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>2024 Approved IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>2024 Approved Tutorial Triumphant Skyrocketing Your YouTube Presence</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-balancing-cost-against-performance-in-the-swagtron-swagboard-t1/"><u>Comprehensive Review: Balancing Cost Against Performance in the Swagtron Swagboard T1</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-skyrims-continuous-launch-delay-with-easy-fixes-and-tips/"><u>Conquer Skyrim’s Continuous Launch Delay with Easy Fixes and Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/epicenter-of-darkness-screen-shutdown/"><u>Epicenter of Darkness: Screen Shutdown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-when-your-computer-says-it-has-too-few-resources/"><u>Essential Fixes for When Your Computer Says It Has Too Few Resources</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-airdrop-working-again-swiftly-user-friendly-troubleshooting-techniques/"><u>Get Your AirDrop Working Again Swiftly: User-Friendly Troubleshooting Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-turn-off-touchpad-automatically-when-a-mouse-is-plugged-into-windows-10/"><u>How to Turn Off Touchpad Automatically When a Mouse Is Plugged Into Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/professional-movavi-ultimate-non-linear-video-editing-software/"><u>Professional Movavi - Ultimate Non-Linear Video Editing Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209542700-resolve-0xa00f4292-windows-camera-issue-with-easy-troubleshooting-steps/"><u>Resolve 0xA00F4292 Windows Camera Issue with Easy Troubleshooting Steps!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-renderer-not-initialized-error-tips-and-tricks-for-a-smooth-browser-experience/"><u>Solve 'Renderer Not Initialized' Error: Tips and Tricks for a Smooth Browser Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-camera-issues-on-lenovo-notebooks/"><u>Step-by-Step Guide to Fixing Camera Issues on Lenovo Notebooks</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-troubleshooting-of-the-generic-error-in-battleye-service-setup/"><u>Successful Troubleshooting of the 'Generic Error' In BattlEye Service Setup</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-small-form-factor-pc-cases-the-ultimate-list-for-2eetuy-2024/"><u>Top-Rated Small Form Factor PC Cases - The Ultimate List for 2Eetuy 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-boot-loops-on-your-computer-running-windows-10/"><u>Understanding & Fixing Boot Loops on Your Computer Running Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-unavailable-desktop-path-in-windows-system-profile/"><u>Understanding and Fixing the Unavailable Desktop Path in Windows System Profile</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Fake: A Step-by-Step Guide to Eliminating the 'Google Chrome Critical Error' Scam"
-date: 2024-11-01T23:31:35.804Z
-updated: 2024-11-04T23:18:50.192Z
+date: 2024-11-12T18:22:52.050Z
+updated: 2024-11-15T16:30:56.516Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
@@ -69,6 +62,13 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -79,15 +79,23 @@ the picture was taken by: Article\_86
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Relaunch Chrome to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
@@ -99,19 +107,19 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -122,33 +130,21 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -185,21 +181,20 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2022-olympic-highlights-in-short-track-racing-for-2024/"><u>[New] 2022 Olympic Highlights in Short Track Racing for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-4-ways-to-go-live-on-tiktok-on-computer-for-2024/"><u>[New] 4 Ways to Go Live on TikTok on Computer for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-premier-free-android-recording-apps-no-ads/"><u>[New] In 2024, Premier Free Android Recording Apps (No Ads)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/astering-engagement-a-compendium-of-the-top-20-youtube-hacks/"><u>[New] Mastering Engagement A Compendium of the Top 20 YouTube Hacks</u></a></li>
-<li><a href="https://common-error.techidaily.com/compatibility-check-needed-verify-if-you-have-an-appropriate-d3d11-ready-gpu/"><u>Compatibility Check Needed: Verify if You Have an Appropriate D3D11-Ready GPU</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-components-to-creativity-building-a-professional-4k-pc-for-2024/"><u>From Components to Creativity Building a Professional 4K PC for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-15-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 15 Plus without Password?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/lung-adenocarcinoma-is-the-most-common-type-of-lung-cancer-in-non-smokers/"><u>Lung Adenocarcinoma Is the Most Common Type of Lung Cancer in Non-Smokers.</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-infinite-loading-loop-in-valorant-effective-solutions-inside/"><u>Overcome Infinite Loading Loop in Valorant: Effective Solutions Inside.</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-troubleshooting-sims-4-failure-to-launch/"><u>Solving the Problem: Troubleshooting Sims 4 Failure to Launch</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-instructions-for-enabling-bluetooth-on-your-pc-windows-11-and-10/"><u>Step-by-Step Instructions for Enabling Bluetooth on Your PC (Windows 11 and 10)</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-svchostexe-netsvcs-how-to-address-excessive-network-activity/"><u>Understanding svchost.exe (Netsvcs): How to Address Excessive Network Activity</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-lava-blaze-2-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Lava Blaze 2 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/western-digital-my-passport-ultra-detection-fix-a-step-by-step-guide-for-windows-users/"><u>Western Digital My Passport Ultra Detection Fix - A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-excellence-in-detail-a-curated-list-of-8k-cameras/"><u>[New] 2024 Approved Excellence in Detail A Curated List of 8K Cameras</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-resurrecting-lost-confidential-snapshots/"><u>[Updated] 2024 Approved Resurrecting Lost, Confidential Snapshots</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-smooth-path-to-crafting-unique-video-shorts-thumbnail-credits/"><u>[Updated] Smooth Path to Crafting Unique Video Shorts Thumbnail Credits</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/devicenetworkbrowser-requirements-virbo-ai-live-stream-for-2024/"><u>Device/Network/Browser Requirements | Virbo AI Live Stream for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-fortnite-mic-back-to-life-with-these-simple-solutions/"><u>Get Your Fortnite Mic Back to Life with These Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209474783-how-to-fix-printer-driver-not-found-on-your-windows-computer-solution/"><u>How to Fix 'Printer Driver Not Found' On Your Windows Computer - SOLUTION!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-steam-shop-display-problems/"><u>How to Successfully Resolve Steam Shop Display Problems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ideal-steadicams-for-captivating-high-quality-shoots-on-your-dslr-camera/"><u>Ideal Steadicams for Captivating, High-Quality Shoots on Your DSLR Camera</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-tecno-phantom-v-fold-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Tecno Phantom V Fold Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-sluggish-startup-on-your-windows-7-pc/"><u>Quick Fixes: Resolving Sluggish Startup on Your Windows 7 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/reclaiming-lost-dll-msvcr71-restored/"><u>Reclaiming Lost DLL: MSVCR71 Restored</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-artisan-editor-refining-video-transitions-with-inshot/"><u>The Artisan Editor Refining Video Transitions with Inshot</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-the-vcruntime140dll-couldnt-be-loaded-error-easily/"><u>Troubleshoot and Fix the 'VCRUNTIME140.dll Couldn't Be Loaded' Error Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-class-not-registered-warnings-in-windows-11-solutions-provided/"><u>Troubleshooting Class Not Registered Warnings in Windows 11 – Solutions Provided</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsticking-destiny-2-expert-tips-for-fixing-initialization-delays-in-your-gameplay/"><u>Unsticking Destiny 2: Expert Tips for Fixing Initialization Delays in Your Gameplay</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excessive MsMpEngine.exe CPU Drain on Windows 11 [GUIDE]
-date: 2024-10-31T07:26:33.265Z
-updated: 2024-11-05T10:20:50.093Z
+date: 2024-11-12T16:31:29.731Z
+updated: 2024-11-15T16:13:12.664Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
  In simpler words, it’ s a legitimate Windows process when running certain Windows operations. But in certain cases, you may see the **svchost.exe**  process hogging the CPU or memory resources in **Task Manager**  without apparent reasons.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **How do I fix it?**
 
  Here are 4 solutions for you to try. You may not need to try them all; just work your way down until you find the one that works for you.
@@ -50,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 [**3: Empty event viewer log**](#3)
 
 [**4: Troubleshoot Windows Updates issues**](#4)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **1: Scan your computer for viruses**
 
@@ -65,38 +65,31 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Repeat the steps until you locate the faulty process.
 
@@ -109,15 +102,28 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9) See if the problem is resolved.
 
@@ -137,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer after this.
 
 ## **4: Troubleshoot Windows Updates issues**
@@ -147,13 +160,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click**Windows Update** and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
@@ -161,6 +167,13 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **PRO TIP**
 
@@ -184,13 +197,6 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -206,20 +212,20 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-efficiently-implementing-youtube-end-screens/"><u>[Updated] Efficiently Implementing Youtube End Screens</u></a></li>
-<li><a href="https://common-error.techidaily.com/easily-resolve-lenovo-function-fn-key-issues-with-these-tips/"><u>Easily Resolve Lenovo Function (Fn) Key Issues with These Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-message-0x80071ac3-decoded-steps-for-reparing-your-storage-device/"><u>Error Message 0X80071AC3 Decoded: Steps for Reparing Your Storage Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-to-restoring-windows-11-using-system-file-checker-sfc-and-deployment-image-servicing-and-management-dism/"><u>Expert Guide to Restoring Windows 11 Using System File Checker (SFC) and Deployment Image Servicing and Management (DISM)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-nubia-red-magic-9-proplus-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Nubia Red Magic 9 Pro+ Is Unlocked</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 11 Pro Max</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fixes-to-stop-me3-from-crashing-on-your-console-or-computer/"><u>Mastering the Fixes to Stop ME3 From Crashing on Your Console or Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-palworld-pc-game-crashes-a-step-by-step-guide/"><u>Resolving PalWorld PC Game Crashes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-your-windows-11-taskbar-icons-with-these-4-effective-tips/"><u>Restore Your Windows 11 Taskbar Icons with These 4 Effective Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-for-directx-device-initialization-error/"><u>Solution Found for 'DirectX Device Initialization Error'</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-resource-for-toms-computing-and-gear-tests/"><u>The Ultimate Resource for Tom's Computing and Gear Tests</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-restore-your-dell-laptop-from-a-black-screen-malfunction/"><u>Troubleshooting Tips: How to Restore Your Dell Laptop From a Black Screen Malfunction</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-damaged-registry-entries-in-windows-11/"><u>Ultimate Guide: Repairing Damaged Registry Entries in Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/unlock-accelerated-graphic-processing-with-windows-10-and-11-a-comprehensive-tutorial/"><u>Unlock Accelerated Graphic Processing with Windows 10 & 11: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-streamline-your-media-save-vimeo-to-mp4/"><u>[Updated] 2024 Approved Streamline Your Media Save Vimeo to MP4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adding-various-keyboards-on-gmails-web-interface-a-comprehensive-guide/"><u>Adding Various Keyboards on Gmail's Web Interface: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-disconnecting-usb-devices-comprehamo-guide-to-keeping-your-connections-secure/"><u>Dealing With Disconnecting USB Devices: Comprehamo Guide to Keeping Your Connections Secure</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Exploring the Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-issue-cannot-modify-memory-at-address-0x-when-referenced-from-instruction/"><u>Fixed Issue: Cannot Modify Memory at Address 0X When Referenced From Instruction</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-continuous-airplane-mode-glitch-solutions-explored/"><u>Fixing Windows 11'S Continuous Airplane Mode Glitch - Solutions Explored</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-a05-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy A05 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/imessage-tutorial-text-with-ease-using-your-ipad-device/"><u>IMessage Tutorial: Text with Ease Using Your iPad Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/journey-to-superior-audio-with-amazing-amazon-basic-soundbar/"><u>Journey to Superior Audio with Amazing Amazon Basic Soundbar</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-the-art-of-crafting-exclusive-cover-photos-on-instagram-for-2024/"><u>Mastering the Art of Crafting Exclusive Cover Photos on Instagram for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-handling-semaphore-timeout-error-code-0x80070079/"><u>Resolved: Handling 'Semaphore Timeout Error' Code 0X80070079</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-wi-fi-options-not-displayed-in-windows-11/"><u>Troubleshooting Guide: Fixing 'Wi-Fi Options Not Displayed' In Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-corsair-keyboard-wont-light-up/"><u>Troubleshooting Tips for When Your Corsair Keyboard Won't Light Up</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo V29e | Dr.fone</u></a></li>
 </ul></div>
 

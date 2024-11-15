@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Your Desktop or Laptop From Going to Sleep on Its Own
-date: 2024-08-31T17:45:07.078Z
-updated: 2024-09-01T17:45:07.078Z
+date: 2024-11-09T16:30:10.046Z
+updated: 2024-11-15T16:14:17.299Z
 tags:
   - win11
   - win10
@@ -37,11 +37,22 @@ thumbnail: https://thmb.techidaily.com/22d9fd7a65c91efdcc82425d640f28a9aea80bb6b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc4f94c310.jpg)
 2. On your keyboard, hold down**Ctrl** ,**Shift** and press the**Arrow** keys (Up, Down, Right, Left – one at a time) until you rotate the screen to the right display.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If the trick above doesn’t help you solve the **screen going upside down** issue, then your graphics driver is most likely at fault. So you should update your graphics driver to see if it fixes the issue. There’re two ways you can update your device drivers — manually or automatically.
@@ -54,16 +65,25 @@ thumbnail: https://thmb.techidaily.com/22d9fd7a65c91efdcc82425d640f28a9aea80bb6b
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
-4. Restart your computer and hopefully your screen displays normally again.
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
+4. Restart your computer and hopefully your screen displays normally again.
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the display settings
 
@@ -76,14 +96,8 @@ thumbnail: https://thmb.techidaily.com/22d9fd7a65c91efdcc82425d640f28a9aea80bb6b
 1. Right-click on the empty area of your desktop and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbc64a4a09.jpg)
 2. In**Orientation** , select**Landscape** from the drop-down list.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbce216c6e.jpg)
 3. Hopefully you have restored your screen back to normal this time.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
   I’m using Windows 7
 
@@ -92,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/22d9fd7a65c91efdcc82425d640f28a9aea80bb6b
 2. In**Orientation** , select**Landscape** from the drop-down list and click the **Tab** key >**Enter** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc13732354.jpg)
 3. Hopefully you have restored your screen back to normal this time.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -109,8 +119,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +126,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-amplify-your-channels-evading-synthetic-watchers/"><u>[New] In 2024, Amplify Your Channels Evading Synthetic Watchers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-peak-performance-fps-in-deliberate-movements-for-2024/"><u>[New] Peak Performance FPS in Deliberate Movements for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-windows-1011-grab-your-desk-view/"><u>[New] Windows 10/11 Grab Your Desk View</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-archive-hunt-accessing-yesteryears-facebook-stories/"><u>[Updated] 2024 Approved Archive Hunt Accessing Yesteryear's Facebook Stories</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-merriment-joining-and-leaving-rituals/"><u>[Updated] In 2024, Merriment Joining & Leaving Rituals</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/advancing-cognitive-capabilities-in-bots-with-abbyys-innovations-alongside-uipath-technologies/"><u>Advancing Cognitive Capabilities in Bots with ABBYY's Innovations Alongside UiPath Technologies</u></a></li>
+<li><a href="https://common-error.techidaily.com/darkened-panel-uncharted-issue/"><u>Darkened Panel: Uncharted Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-random-pc-turn-offs-heres-how-to-fix-it/"><u>Dealing with Random PC Turn-Offs? Here's How to Fix It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-connect-microsoft-wireless-display-adapter-effortlessly-on-windows-11-systems/"><u>How to Connect Microsoft Wireless Display Adapter Effortlessly on Windows 11 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-fix-d3dx9-library-errors-the-d3dx928dll-challenge/"><u>How to Successfully Fix D3DX9 Library Errors: The d3dx9_28.dll Challenge</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-mousepad-wont-work-try-these-fixes-for-windows-1087-users/"><u>Lenovo Mousepad Won't Work? Try These Fixes for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204623668-overcome-google-chromes-hang-problem-easy-solutions-inside/"><u>Overcome Google Chrome's Hang Problem: Easy Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-geforce-configuration-retrieval-problems-expert-advice-and-tips/"><u>Resolving GeForce Configuration Retrieval Problems - Expert Advice and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-lenovo-laptops-webcam-a-comprehensive-troubleshooting-guide/"><u>Reviving Your Lenovo Laptop's Webcam: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/safety-alert-risks-of-fake-and-non-certified-apple-charger-use-zdnet-insights/"><u>Safety Alert: Risks of Fake and Non-Certified Apple Charger Use - ZDNet Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-duality-of-pimax-crystal-headset-sharpness-vs-stability/"><u>The Duality of Pimax Crystal Headset: Sharpness vs Stability</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-ps4s-noisy-fans-understanding-and-solutions/"><u>Troubleshooting Your PS4's Noisy Fans – Understanding and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-hello-camera-requirements-explored/"><u>Windows Hello Camera Requirements Explored</u></a></li>
+<li><a href="https://howto.techidaily.com/zte-nubia-z60-ultra-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Nubia Z60 Ultra Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+</ul></div>
 

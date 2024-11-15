@@ -1,7 +1,7 @@
 ---
 title: Diagnosing & Fixing Intermittent Power State Malfunctions Caused by Drivers in Windows
-date: 2024-10-28T23:40:09.623Z
-updated: 2024-11-04T19:10:48.163Z
+date: 2024-11-11T16:06:29.994Z
+updated: 2024-11-15T18:15:10.297Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -57,10 +50,16 @@ the picture was taken by: Article\_86
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Get an ad-block extension
@@ -76,6 +75,13 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -88,13 +94,6 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 4. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 4: Clear Google Chrome cache
@@ -105,19 +104,28 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -136,10 +144,16 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
@@ -177,20 +191,22 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flickering-fonts-2-innovative-text-techniques/"><u>[Updated] 2024 Approved Flickering Fonts 2 Innovative Text Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-glimpsing-beyond-virtual-reality-the-pros-and-cons-spectrum/"><u>2024 Approved Glimpsing Beyond Virtual Reality The Pros & Cons Spectrum</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-ensuring-successful-bluetooth-pairing-on-your-windows-11-device/"><u>Expert Advice : Ensuring Successful Bluetooth Pairing on Your Windows 11 Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/explanation-for-not-here-status-on-app-chats/"><u>Explanation for 'Not Here' Status on App Chats</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guia-sencilla-para-respaldar-tu-correo-de-microsoft-outlook/"><u>Guía Sencilla Para Respaldar Tu Correo De Microsoft Outlook</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-12-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme 12 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlocking-full-potential-advanced-nvidia-recorder-tips/"><u>In 2024, Unlocking Full Potential Advanced NVIDIA Recorder Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-startup-problems-solutions-to-unstick-your-computer-during-windows-boot-up/"><u>Overcoming Startup Problems: Solutions to Unstick Your Computer During Windows Boot-Up</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-frustration-a-guide-to-deciphering-and-correcting-minecraft-error-code-5/"><u>Overcoming the Frustration: A Guide to Deciphering and Correcting Minecraft Error Code 5</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-non-operational-status-of-diagnostics-management-service/"><u>Resolving the Non-Operational Status of Diagnostics Management Service</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-essentials-of-msdia80dll-its-functions-and-importance-in-windows/"><u>The Essentials of msdia80.dll: Its Functions & Importance in Windows</u></a></li>
-<li><a href="https://win-guides.techidaily.com/transform-dailymotion-music-clips-into-crystal-clear-mp3-audio-using-this-powerful-downloader-tool/"><u>Transform DailyMotion Music Clips Into Crystal Clear MP3 Audio Using This Powerful Downloader Tool</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-your-dells-usb-connection/"><u>Troubleshooting Tips: Resolving Issues with Your Dell's USB Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-windows-1110-shortcut-mysteries-solving-windows-plus-shift-plus-s-not-working-dilemma/"><u>Unlocking Windows 11/10 Shortcut Mysteries: Solving 'Windows + Shift + S' Not Working Dilemma</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/whispered-wealth-the-silent-online-auction-for-secrecys-treasures-2023-for-2024/"><u>Whispered Wealth The Silent Online Auction for Secrecy's Treasures, 2023 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-navigating-the-apex-of-general-knowledge-trivia-channels-in-24/"><u>[New] 2024 Approved Navigating the Apex of General Knowledge Trivia Channels in '24</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creating-engaging-and-memorable-youtube-channel-graphics/"><u>[Updated] 2024 Approved Creating Engaging and Memorable YouTube Channel Graphics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-ultimate-hash-tracker-list-for-major-social-media-sites-fbtwitterinsta/"><u>[Updated] In 2024, Ultimate Hash Tracker List for Major Social Media Sites (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-premier-recommendations-best-iphone-tones-designers/"><u>2024 Approved Premier Recommendations Best iPhone Tones Designers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-tablets-of-the-year-amazon-fire-versus-samsung-decided/"><u>Best Tablets of the Year: Amazon Fire Versus Samsung, Decided!</u></a></li>
+<li><a href="https://common-error.techidaily.com/discover-why-and-how-to-prevent-automatic-startup-of-your-windows-10-computer/"><u>Discover Why and How to Prevent Automatic Startup of Your Windows 10 Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/easily-rectify-the-bluetooth-unavailable-issue-in-windows-10-instructions-included/"><u>Easily Rectify the 'Bluetooth Unavailable' Issue in Windows 10 - Instructions Included</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211775481-effective-fixes-for-total-war-rome-remastered-game-crashes-solutions-inside/"><u>Effective Fixes for Total War: Rome Remastered Game Crashes - Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-pcs-printer-woes-when-windows-cant-identify-the-correct-driver/"><u>Fix Your PC's Printer Woes – When Windows Can’t Identify the Correct Driver</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-dark-hurdle-fixing-hitman-3s-black-screen-glitch/"><u>How to Overcome the Dark Hurdle: Fixing Hitman #3'S Black Screen Glitch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/installation-issue-no-hardware-drivers-detected-on-windows-7-a-comprehensive-fix-guide/"><u>Installation Issue: No Hardware Drivers Detected on Windows 7 – A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revolutionize-your-computer-maintenance-using-revo-uninstaller-pro-5-software-suite/"><u>Revolutionize Your Computer Maintenance Using Revo Uninstaller Pro 5 Software Suite</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-remedies-to-address-failed-pc-resets-on-windows-11-expert-advice-shared/"><u>Step-by-Step Remedies to Address Failed PC Resets on Windows 11 – Expert Advice Shared</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-keyboard-backlit-diagnosing-and-repairing-on-macwindows-systems/"><u>Why Isn't My Keyboard Backlit? Diagnosing and Repairing on Mac/Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/wifi-network-not-showing-up-on-computer-best-fixes/"><u>WiFi Network Not Showing Up on Computer [Best Fixes]</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windows-73/"><u>Windows 7上のユーザー設定を移植するための3手法</u></a></li>
 </ul></div>
 

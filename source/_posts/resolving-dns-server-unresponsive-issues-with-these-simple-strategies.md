@@ -1,7 +1,7 @@
 ---
 title: Resolving 'DNS Server Unresponsive' Issues with These Simple Strategies
-date: 2024-11-02T17:19:30.746Z
-updated: 2024-11-05T02:20:09.864Z
+date: 2024-11-12T16:37:39.100Z
+updated: 2024-11-15T17:35:31.814Z
 tags:
   - win11
   - win10
@@ -34,18 +34,18 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
@@ -63,29 +63,9 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
@@ -95,6 +75,20 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -103,31 +97,31 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -143,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
  Alternatively, you can use a driver tool to help you. We highly recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to  automatically recognize your system and find the correct drivers for you. With its help, you can say goodbye to driver headaches and delays forever.
@@ -156,10 +157,10 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
@@ -174,13 +175,6 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -202,24 +196,16 @@ thumbnail: https://thmb.techidaily.com/1276dd3e47443d01d60ef92ceafe65883b1431cf0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastery-techniques-for-embedding-social-media-live-videos/"><u>[New] 2024 Approved Mastery Techniques for Embedding Social Media Live Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-decoding-androids-editing-elite-is-picku-the-ultimate-choice/"><u>[New] In 2024, Decoding Android's Editing Elite Is PickU the Ultimate Choice?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-and-fun-make-a-meme-with-kinemaster/"><u>2024 Approved Quick & Fun Make a Meme with KineMaster</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unmatched-document-enhancements/"><u>2024 Approved Unmatched Document Enhancements</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ver-the-power-of-10-second-beats-in-youtube-music-for-2024/"><u>Discover the Power of 10-Second Beats in YouTube Music for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-broken-shift-key-step-by-step-solution/"><u>Fixing the Broken Shift Key: Step-by-Step Solution</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs30-headset-microphone-up-and-running-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS30 Headset Microphone Up and Running on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-lava-blaze-2-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Lava Blaze 2 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-more-obsolete-windows-attributes/"><u>No More: Obsolete Windows Attributes</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-connectivity-problems-with-your-devices-in-built-protection-system/"><u>Overcoming Connectivity Problems with Your Device's In-Built Protection System</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-how-to-successfully-turn-on-bluetooth-for-windows-11-and-10-users/"><u>Quick Fixes: How to Successfully Turn On Bluetooth for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-a-computer-that-cant-power-off-in-windows-10/"><u>Solved: How to Fix a Computer That Can't Power Off in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-your-guide-to-diagnosing-and-fixing-faulty-usb-connections-easily/"><u>Solved! Your Guide to Diagnosing and Fixing Faulty USB Connections Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-laptop-doesnt-charge-despite-being-connected-windows-10/"><u>Solving the Problem: Laptop Doesn’t Charge Despite Being Connected (Windows 10)</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-restore-right-click-functionality-in-windows-11/"><u>Step-by-Step Solutions to Restore Right-Click Functionality in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-on-a-shoestring-discover-why-zdnet-hauls-these-amazing-3ergy-earbuds-at-35-only/"><u>Top Rated on a Shoestring? Discover Why ZDNET Hauls These Amazing $3Ergy Earbuds at 35$ Only!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tactics-for-resolving-critical-system-interruption-error-0xc00000e9-on-your-pc/"><u>Troubleshooting Tactics for Resolving Critical System Interruption (Error 0xC00000E9) on Your PC</u></a></li>
-<li><a href="https://discover-community.techidaily.com/windows-10qnap-nas-2/"><u>Windows 10データのQNAP NASへ安全圧縮: 2つの最適解法</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-typing-troubles-heres-how-you-can-eliminate-sticky-keys-and-improve-response-time/"><u>Windows 11 Typing Troubles? Here's How You Can Eliminate Sticky Keys and Improve Response Time!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-from-raw-footage-to-riveting-content-the-ultimate-guide-to-yt-video-edits/"><u>[New] In 2024, From Raw Footage to Riveting Content The Ultimate Guide to YT Video Edits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-instas-trendy-filters/"><u>[Updated] In 2024, The Ultimate Guide to Insta's Trendy Filters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cut-to-the-chase-comparing-gopro-and-drift-ghosts/"><u>Cut to the Chase Comparing GoPro and Drift Ghosts</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-runtime-broker-cpu-crunch-on-windows-11-with-these-proven-fixes-get-started-now/"><u>End the Runtime Broker CPU Crunch on Windows 11 with These Proven Fixes – Get Started Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-word-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a Word document online</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-d3derr-not-available-errors-on-your-windows-pc-step-by-step-guide/"><u>Resolving D3DERR Not Available Errors on Your Windows PC – Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-problem-no-download-from-steam-updates/"><u>Resolving the Problem: No Download From Steam Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-remote-procedure-call-failed-solved/"><u>The Remote Procedure Call Failed [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-windows-10-bluetooth-connectivity-issues/"><u>Ultimate Guide: Solving Windows 10 Bluetooth Connectivity Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: CD & DVD Device Failures Decoded - Fixing Error Code 39 with Ease
-date: 2024-10-31T18:25:33.837Z
-updated: 2024-11-04T16:04:42.478Z
+date: 2024-11-09T18:35:33.403Z
+updated: 2024-11-15T17:04:54.718Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/9841b29c6cea5f5f780b6eadf9d0ee4bcbe0f046f
 
 3\. Restart the PC and connect the device to the USB port.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 2: Uninstall the USB Driver in Device Manager**
 
 Follow these steps:
@@ -60,27 +67,7 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdbac0739e5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3 : Update the USB Driver**
 
@@ -98,15 +85,22 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4: Disable Fast Startup**
@@ -123,13 +117,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde31f1a636.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Select**Choose what the power buttons do** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde37b21df1.jpg)
@@ -138,9 +125,23 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde3ce2afe1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6\. Under**Shutdown settings** , uncheck the box next to**Turn on fast startup (recommended)** . Then click on the**Save changes** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde41b1e60a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7\. Restart your PC and see if the problem resolves. Note your PC will boot a little slower.
 
@@ -152,13 +153,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde8af2b766.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb15c69d9.jpg)
@@ -166,6 +160,13 @@ Follow these steps:
  3\. Select **High performance** and click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb69c7e9e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Click on**Change advanced power settings** .
 
@@ -180,13 +181,6 @@ Follow these steps:
  7\. Expand**USB selective suspend setting** . Disable both**On battery** and**Plugged in** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdec39ba7fd.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8\. Click the**Apply** button and restart your computer.
 
@@ -207,17 +201,20 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-masterful-fb-marketing-essential-tips-for-every-business-level/"><u>[New] 2024 Approved Masterful FB Marketing Essential Tips for Every Business Level</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-echo-chamber-best-online-spots-for-free-skype-music/"><u>[New] Echo Chamber Best Online Spots for Free Skype Music</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-elite-gamers-showcase-premium-setups-unveiled/"><u>[New] Elite Gamers' Showcase – Premium Setups Unveiled</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-tactics-for-android-video-capture-for-2024/"><u>[New] Essential Tactics for Android Video Capture for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-mp3-capture-skype-calls-no-cost/"><u>[Updated] In 2024, Mastering MP3 Capture Skype Calls, No Cost</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862736363-copilotplus-showcases-cutting-edge-snapdragon-notebooks-join-our-live-testing-event/"><u>Copilot+ Showcases Cutting-Edge Snapdragon Notebooks: Join Our Live Testing Event</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205974664-error-651-on-windows-heres-how-to-easily-correct-it/"><u>Error 651 on Windows? Here's How to Easily Correct It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-your-deactivated-key-on-win11/"><u>How to Reactivate Your Deactivated Key on Win11</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-permission-for-code-activation/"><u>No Permission for Code Activation</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-device-recognition-errors-with-ease-your-ultimate-fix-guide-to-usb-problems/"><u>Overcoming Device Recognition Errors with Ease: Your Ultimate Fix Guide to USB Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-errnamenotresolved-issue-on-chrome/"><u>Quick Solutions: How to Resolve ERR_NAME_NOT_RESOLVED Issue on Chrome</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-instagram-influencer-blueprint-from-few-to-a-thousand-fans-for-2024/"><u>The Instagram Influencer Blueprint From Few to a Thousand Fans for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-masterclass-crafting-cinematic-youtube-videos-with-adobe-premiere/"><u>[New] 2024 Approved Masterclass Crafting Cinematic YouTube Videos with Adobe Premiere</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-select-a-premium-360-camera-today/"><u>[New] How to Select a Premium 360 Camera Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-plus-shift-plus-s-not-working-on-windows-1110/"><u>[SOLVED] Windows + Shift + S Not Working on Windows 11/10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-free-vs-paid-youtubes-exclusive-picks-for-superior-opening-tutorials/"><u>2024 Approved Free vs Paid YouTube's Exclusive Picks for Superior Opening Tutorials</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-navigating-spotify-advertising-successfully/"><u>2024 Approved Navigating Spotify Advertising Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-computer-and-headphone-compatibility-issues-expert-tips-and-tricks/"><u>Fixing Computer and Headphone Compatibility Issues: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-rtl81ee-bgn-wi-fi-driver-for-your-pc-running-on-windows-os/"><u>Get the Latest RTL81eE B/G/N Wi-Fi Driver for Your PC Running on Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-hp-laptops-webcam-back-to-work-in-windows-10-easy-fixes-you-can-do-today/"><u>Getting Your HP Laptop's Webcam Back to Work in Windows 10: Easy Fixes You Can Do Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-steelseries-arctis-5-microphone-issues-a-comprehensive-guide/"><u>How to Fix the SteelSeries Arctis 5 Microphone Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/optimal-system-transition-the-win7-win10-journey/"><u>Optimal System Transition: The Win7-Win10 Journey</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-non-functioning-at-sign-tips-and-tricks/"><u>Troubleshooting the Non-Functioning 'At Sign': Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ubisoft-connect-malfunction-expert-tips-and-fixes-for-the-year-2024/"><u>Ubisoft Connect Malfunction: Expert Tips and Fixes for the Year 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-start-button-not-visible-heres-how-to-find-it/"><u>Windows 10 Start Button Not Visible? Here's How to Find It</u></a></li>
 </ul></div>
 

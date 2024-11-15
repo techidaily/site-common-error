@@ -1,7 +1,7 @@
 ---
 title: "Immediate Action Required: Local Security Authority Guardrails Engaged Once More"
-date: 2024-09-04T20:22:04.200Z
-updated: 2024-09-05T20:22:04.200Z
+date: 2024-11-11T17:27:43.797Z
+updated: 2024-11-15T16:45:39.247Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ To do so:
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then see if the Local Security Authority Protection is still off.
 
  If so, please download the installation file for KB5007651 from[here](https://www.catalog.update.microsoft.com/Search.aspx?q=KB5007651) , then double-click the installation file to get it installed.
@@ -56,11 +63,18 @@ Then see if the Local Security Authority Protection is still off.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Modify Registry Editor
 
  If you’re still seeing the Local Security Authority protection off message even when you’ve turned it ON, please do the following to modify your Registry Editor:
@@ -71,12 +85,14 @@ Then see if the Local Security Authority Protection is still off.
 2. On your keyboard, press the**Windows** key and the**R** key together. Type**regedit** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location:`**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa**`  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
@@ -89,11 +105,12 @@ Then see if the Local Security Authority Protection is still off.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Configure Group Policy Editor
 
  You can also try to modify your Group Policy Editor for the Local Security Authority protection to be turned on again. To do so:
@@ -102,27 +119,30 @@ Then see if the Local Security Authority Protection is still off.
 2. On your keyboard, press the**Windows** key and the**R** key at the same time. Type**gpedit.msc** and hit**Enter** . (If you see “ _Windows cannot find ‘gpedit.msc’. Make sure you typed the name correctly, and then try again._ “, please refer to this post first:[ **\[Fixed\] gpedit.msc Not Found on Windows Home** ](https://tools.techidaily.com/drivereasy/download/)  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-30.png)
 3. Go to **Computer Configuration\\Administrative Templates\\System\\Local Security Authority** . Double-click**Configure LSASS to run as a protected process** on the right side.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-32.png)
 4. Click**Enable** , then select**Enabled with UEFI Lock** from the drop-down menu. Then click**Apply** and**OK** to save and exit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
 5. Restart your computer for the change to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then see if your Local Security Authority protection can be toggled back on.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus tip
 
  If turning on the Local Security Authority protection doesn’t help to fix your computer problems, you can always try to repair any damaged or corrupted system files, as**the integrity of Windows system files is** essential for proper operation and stability for your computer.
@@ -133,20 +153,8 @@ Then see if the Local Security Authority Protection is still off.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
@@ -163,8 +171,6 @@ Then see if the Local Security Authority Protection is still off.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +178,24 @@ Then see if the Local Security Authority Protection is still off.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breakthrough-ideas-to-amplify-brand-impact-on-reddit/"><u>2024 Approved Breakthrough Ideas to Amplify Brand Impact on Reddit</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-update-blues-fixing-critical-bug-0x8024401c-in-windows-11-devices/"><u>Beat the Update Blues: Fixing Critical Bug 0X8024401c in Windows 11 Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chrome-users-explore-our-curated-list-of-voice-modification-apps/"><u>Chrome Users, Explore Our Curated List of Voice Modification Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-user-profile-service-failure-during-windows-authentication/"><u>Effective Solutions for User Profile Service Failure During Windows Authentication</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-stuck-keys-on-windows-laptops-and-desktops/"><u>Expert Tips for Repairing Stuck Keys on Windows Laptops and Desktops</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-sfc-and-dism-tools-for-fixing-windows-10-issues/"><u>Exploring SFC & DISM Tools for Fixing Windows 10 Issues</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-y02t-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo Y02T FRP In 3 Different Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-handle-missing-classes-on-your-windows-11-system-solution/"><u>How to Handle Missing Classes on Your Windows 11 System [Solution]</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-sketch-to-screen-10-best-cartoon-animation-apps-for-mobile/"><u>In 2024, From Sketch to Screen 10 Best Cartoon Animation Apps for Mobile</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-troubleshooting-immediate-csgo-stability-restored/"><u>Master the Art of Troubleshooting: Immediate CSGO Stability Restored</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-issues-actions-to-perform-when-a-torrent-wont-download-properly/"><u>Overcoming Common Issues: Actions to Perform When a Torrent Won't Download Properly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/revive-playstation-classics-the-5-best-android-emulation-software/"><u>Revive PlayStation Classics The 5 Best Android Emulation Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-to-enhance-your-experience-with-windows-10-file-explorer/"><u>Simple Solutions to Enhance Your Experience with Windows 10 File Explorer</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-persistent-crashing-problems-in-call-of-duty-modern-warfare-3-for-pc-players/"><u>Solve Persistent Crashing Problems in Call of Duty: Modern Warfare 3 for PC Players</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/spotlight-on-10-youtube-channels-with-swift-popularity-boosts/"><u>Spotlight on 10 YouTube Channels With Swift Popularity Boosts</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-address-and-rectify-windows-app-error-0x800700c6/"><u>Steps to Address and Rectify Windows App Error 0X800700c6</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mline-your-youtube-shorts-thumbnail-process/"><u>Streamline Your YouTube Shorts Thumbnail Process</u></a></li>
+</ul></div>
 

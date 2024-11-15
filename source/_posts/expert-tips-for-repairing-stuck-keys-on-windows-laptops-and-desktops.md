@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Repairing Stuck Keys on Windows Laptops and Desktops
-date: 2024-10-31T07:25:33.665Z
-updated: 2024-11-05T10:48:46.095Z
+date: 2024-11-12T17:27:50.666Z
+updated: 2024-11-15T17:26:40.145Z
 tags:
   - win11
   - win10
@@ -40,18 +40,18 @@ Your**Windows Store** has been acting up recently.
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type**R** at the same time, then type**wsreset.exe** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Once completed, Windows Store will pop open.
 
@@ -64,10 +64,16 @@ Your**Windows Store** has been acting up recently.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Create a new Windows Store cache folder
@@ -79,10 +85,16 @@ Your**Windows Store** has been acting up recently.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae96c7d1dc08.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Copy & paste **windowsstore** into the search box and double-click on **Microsoft.WindowsStore\_8wekyb3d8bbwe** .
@@ -98,6 +110,13 @@ Your**Windows Store** has been acting up recently.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall Microsoft Store
 
  If the problem still persists, then you might have to**reinstall Windows Store** to give it a clean slate.
@@ -112,27 +131,20 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Reset** , and you’ll receive a confirmation button. Click **Reset** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeace26d970e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Restart your computer and check if the problem has been sorted out.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Want us to fix the problem for you?
 
@@ -157,19 +169,18 @@ Your**Windows Store** has been acting up recently.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-perfecting-inshot-transitions-techniques-for-2024/"><u>[New] Perfecting Inshot Transitions Techniques for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unlock-your-farming-potential-with-top-valheim-seeds-for-2024/"><u>[New] Unlock Your Farming Potential with Top Valheim Seeds for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-tips-to-overcome-your-livekernelevent-117-dilemma/"><u>Comprehensive Tips to Overcome Your LiveKernelEvent 117 Dilemma</u></a></li>
-<li><a href="https://common-error.techidaily.com/correctly-resolving-the-program-cant-start-error-code-is-0xc000007b-a-comprehensive-fixer/"><u>Correctly Resolving 'The Program Can’t Start, Error Code Is 0xC000007B' - A Comprehensive Fixer</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-rectifying-failed-graphics-device-setup-in-directx/"><u>Effective Solutions for Rectifying Failed Graphics Device Setup in DirectX</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-changefake-your-xiaomi-redmi-note-12-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi Note 12 Pro 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-broken-spacebar-on-your-windows-11-laptop-or-pc/"><u>How to Fix a Broken Spacebar on Your Windows 11 Laptop or PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-t2-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo T2 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-motion-in-4k-with-nikon-d500/"><u>In 2024, Capturing Motion in 4K with Nikon D500</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-blaze-curve-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Blaze Curve 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-win11-crashes-guide-to-solve/"><u>No More Win11 Crashes: Guide to Solve</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-an-unresponsive-aoc-display-unit-on-a-windows-10-computer/"><u>Reviving an Unresponsive AOC Display Unit on a Windows 10 Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-rated-gaming-desktops-comprehensive-reviews-by-experts-zdnet/"><u>Top-Rated Gaming Desktops : Comprehensive Reviews by Experts | ZDNet</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-realme-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Realme FRP Bypass</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unified-media-experience-for-teams-via-microsoft/"><u>[New] 2024 Approved Unified Media Experience for Teams via Microsoft</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xpert-tips-for-crafting-top-notch-video-hashtags/"><u>[New] Expert Tips for Crafting Top-Notch Video Hashtags</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-copyright-landscape-decoded-a-complete-analysis/"><u>[New] YouTube's Copyright Landscape Decoded A Complete Analysis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-flawless-filming-ipad-timelapse-techniques/"><u>2024 Approved Flawless Filming IPad Timelapse Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-inspiring-movies-to-ignite-your-inner-strength/"><u>2024 Approved Inspiring Movies to Ignite Your Inner Strength</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-amplification-for-online-photo-archiving-for-2024/"><u>Audio Amplification for Online Photo Archiving for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-execution-errors-on-your-windows-media-player-server/"><u>How to Successfully Overcome Execution Errors on Your Windows Media Player Server</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-repairing-steam-disk-write-failures-a-comprehensive-guide-for-smooth-installations/"><u>Master the Art of Repairing Steam Disk Write Failures - A Comprehensive Guide for Smooth Installations</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/qnap-netbackup-alternatives-para-una-copia-de-seguridad-rapida-y-facil-descarga-gratuita/"><u>QNAP NetBackup Alternatives Para Una Copia De Seguridad Rápida Y Fácil - Descarga Gratuita</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-party-chat-features-may-be-blocked-by-your-home-wifi-setup/"><u>Solved: Why Party Chat Features May Be Blocked by Your Home WiFi Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-inert-tailored-settings-on-your-device/"><u>Solving the Problem of Inert Tailored Settings on Your Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-language-diversity-using-chatgpt-as-a-translation-workhorse/"><u>Unlock Language Diversity: Using ChatGPT as a Translation Workhorse</u></a></li>
+<li><a href="https://common-error.techidaily.com/wmi-optimization-strategies-for-enhanced-win11-speed/"><u>WMI Optimization Strategies for Enhanced Win11 Speed</u></a></li>
 </ul></div>
 

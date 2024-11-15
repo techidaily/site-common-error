@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your PS4's Noisy Fans – Understanding and Solutions
-date: 2024-11-02T16:33:39.343Z
-updated: 2024-11-05T12:11:30.853Z
+date: 2024-11-08T16:38:11.676Z
+updated: 2024-11-15T17:20:30.460Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
 3. **[Scan for malware on your computer](#c)**
 4. **[Perform a clean boot](#d)**
 5. **[Run the Command Prompt](#e)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -76,10 +69,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-105.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -116,16 +109,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-98-1024x641.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Wait for the process to be complete. If there is any malware on your computer, follow the on-screen instructions to remove it.
 
  If no malware is detected, that means your problem is not caused by malware. Try the fix below.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -145,10 +144,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-116.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
@@ -162,13 +161,6 @@ OR
 **5)** Click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-109.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Click**Apply** .
 
@@ -198,6 +190,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-88.png)
@@ -218,6 +217,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-115.png)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Click the**Startup tab** , then click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-94.png)
@@ -229,10 +241,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-724.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **9)** Restart your computer and check if this has resolved your problem.
@@ -246,13 +258,6 @@ OR
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Type**msconfig** and click**OK** .
 
@@ -276,6 +281,13 @@ OR
 
  Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Run the Command Prompt
 
  Corrupted or damaged system files may also cause this issue. If that’s the problem for you, running the Command Prompt can help. Follow the instructions below:
@@ -288,13 +300,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Type **sfc.exe /scannow** , then press the **Enter**  key on your keyboard.
 
  This process could take several minutes. Please wait for it to be complete.
@@ -304,6 +309,13 @@ OR
 **4)** Type **dism.exe /online /cleanup-image /startcomponentcleanup** , then press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Type **dism.exe /online /cleanup-image /restorehealth** , then press the **Enter** key on your keyboard.
 
@@ -333,21 +345,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-visionarys-handbook-for-twit-reaction-videos/"><u>[New] 2024 Approved The Visionary's Handbook for Twit-Reaction Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-new-horizons-in-media-grasping-the-fundamentals-of-screen-resolution/"><u>[New] In 2024, New Horizons in Media Grasping the Fundamentals of Screen Resolution</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-ranked-best-voice-change-software-echo-magic-edition-for-2024/"><u>[Updated] Ranked Best Voice Change Software Echo Magic Edition for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208786262-chromecast-wont-pair-discover-quick-solutions-for-better-connectivity/"><u>Chromecast Won't Pair? Discover Quick Solutions for Better Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206476731-computer-freezes-at-startup-heres-what-you-need-to-know/"><u>Computer Freezes at Startup? Here's What You Need to Know</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-video-techniques-for-windows-11-users/"><u>Cutting-Edge Video Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/explore-unrestricted-stock-content-in-key-4-video-channels/"><u>Explore Unrestricted Stock Content in Key 4 Video Channels</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-pc-writes-on-kernel32/"><u>Fix Your PC' Writes on Kernel32</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-error-0x8024401c-during-updates-on-windows-11/"><u>How To Overcome The Error 0X8024401C During Updates On Windows 11</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-humorous-harmonics-optimal-ringtone-sites/"><u>In 2024, Humorous Harmonics Optimal Ringtone Sites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-soundscapes-into-your-social-media-masterpieces/"><u>In 2024, Incorporating Soundscapes Into Your Social Media Masterpieces</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210296563-9781645153252-live/"><u>Live | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-technique-efficiently-restarting-your-malfunctioning-keyboard/"><u>Master the Technique: Efficiently Restarting Your Malfunctioning Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-select-proper-boot-device-glitch-on-your-pc-effective-fixes-unveiled/"><u>Overcome 'Select Proper Boot Device' Glitch on Your PC: Effective Fixes Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-airpods-connection-issues-on-windows-1011-top-tips-for-2-cufflinks/"><u>Solving the AirPods Connection Issues on Windows 10/11: Top Tips for 2 Cufflinks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-screen-logger-az-audits-and-diversions/"><u>Ultimate Screen Logger - AZ Audits & Diversions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-beginners-path-to-filming-with-macbook-webcam/"><u>[Updated] Beginner's Path to Filming with MacBook Webcam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-remedy-guide-eight-tactics/"><u>Essential Windows Remedy Guide - Eight Tactics</u></a></li>
+<li><a href="https://common-error.techidaily.com/fight-the-wmi-energy-drain-in-win1011/"><u>Fight the WMI Energy Drain in Win10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-minecraft-mojang-error-code-5/"><u>How to Resolve Minecraft Mojang Error Code 5</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/klare-instruktionen-fur-die-saubere-behandlung-von-updates-in-windows-11-funf-einfache-losungen-aufgezeigt/"><u>Klare Instruktionen Für Die Saubere Behandlung Von Updates in Windows 11 - Fünf Einfache Lösungen Aufgezeigt</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pros-masterpieces-10-must-watch-movies-for-2024/"><u>New Final Cut Pros Masterpieces 10 Must-Watch Movies for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-initial-boot-challenges-in-monster-hunter-world-the-black-screen-fix/"><u>Overcoming Initial Boot Challenges in Monster Hunter: World - The Black Screen Fix</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/quik-on-windowsmac-best-options-for-editing-gopro-footage/"><u>Quik on Windows/Mac Best Options for Editing GoPro Footage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplify-images-remove-the-environmental-elements-for-2024/"><u>Simplify Images Remove the Environmental Elements for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-problem-of-malfunctioning-navigation-keys-on-your-keyboard/"><u>Solve the Problem of Malfunctioning Navigation Keys on Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-repair-for-applicationexe-stop-error-in-windows/"><u>Step-by-Step Repair for Application.exe Stop Error in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-update-required-crtdll-missing/"><u>System Update Required: crt.dll Missing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/omplete-manual-to-perfect-proportions-in-youtube-videosshortsads/"><u>The Complete Manual to Perfect Proportions in YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/trasforma-i-tuoi-gif-in-formato-ogv-gratuitamente-online-con-movavi/"><u>Trasforma I Tuoi GIF in Formato OGV Gratuitamente - Online Con Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-4220-in-call-of-duty-world-war-ii-gameplay/"><u>Troubleshooting Error 4220 in Call of Duty World War II Gameplay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-ac1st16dll-missing-on-your-computer/"><u>Troubleshooting Guide: ac1st16.dll Missing on Your Computer</u></a></li>
 </ul></div>
 

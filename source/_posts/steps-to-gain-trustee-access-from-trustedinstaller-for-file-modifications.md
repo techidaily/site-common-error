@@ -1,7 +1,7 @@
 ---
 title: Steps to Gain Trustee Access From TrustedInstaller for File Modifications
-date: 2024-10-28T19:18:05.481Z
-updated: 2024-11-04T19:14:43.103Z
+date: 2024-11-14T18:00:38.269Z
+updated: 2024-11-15T18:08:43.495Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 * [Solution 4: Kill all NVIDIA processes and delete related Files](#h-solution-4-kill-all-nvidia-processes-and-delete-related-files)
 * [Solution 5: Try a clean installation with DDU](#h-solution-5-try-a-clean-installation-with-ddu)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Some quick fixes
 
  If the driver software installation fails, try to reboot your computer and try the driver installation again. If that falls short, try explicitly uninstalling the previous version (if any), rebooting, and then reinstalling. If it fails again, make sure that you select “**Custom** ” and check “**Perform a clean installation** ” during the driver installation.
@@ -40,26 +47,6 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 ![](https://www.drivereasy.com/wp-content/uploads/2016/01/nvidia-custom-install.png)
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/01/nvidian-clean-installation.png)
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 1: Update the Nvidia Driver Automatically
 
@@ -75,15 +62,22 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 2: Uninstall the NVIDIA app if you have it
 
@@ -94,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 ![](https://www.drivereasy.com/wp-content/uploads/2016/01/uninstall-nvidia-app.png)
 
 If this still doesn’t help, please move on.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 3: Temporarily turn off any antivirus software or firewall
 
@@ -113,14 +100,15 @@ If this still doesn’t help, please move on.
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**taskmgr** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 2. Select**Processes** . Then right-click on the antivirus processes that are related to your antivirus program(s) and select**End task** .  
-![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-End-task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-End-task.jpg)
 
 To disable Windows firewall:
 
@@ -128,22 +116,15 @@ To disable Windows firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-box-firewall.jpg)
 2. From the left menu, select**Turn Windows Defender Firewall on or off** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-firewall-2.jpg)
 3. Select**Turn off Windows Defender Firewall (not recommended)** for Domain network, Private Network and Public network. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-firewall-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, try installing the NVIDIA driver again. Make sure you select “**Custom** ” and check the box for “**perform clean installation** ” while installing the driver still.
@@ -163,6 +144,13 @@ This is to make sure that your system state is fully reset:
    * C:\\Program Files (x86)\\NVIDIA Corporation\\
 3. Reboot the system, then install the driver again.Make sure you select **Custom** and check **Perform a clean installation** as you install the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 5: Try a clean installation with DDU
 
  Another very common reason for NVIDIA Installer failed error is an outdated or faulty graphics card driver files in your computer. In this case, it’s recommended that you do a clean reinstallation of the Nvidia display card driver. To do so, DDU (Display Driver Uninstaller) is usually recommended, as it can do a pretty good job removing all the older or faulty display driver files on your computer.
@@ -173,6 +161,14 @@ To do a clean reinstallation of the display card driver with DDU:
 2. Download DDU from the[**official download page**](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) . Then unzip the folder, and double-click the**DDU** file to further extract the execution file.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-3.png)
 3. Boot your computer into Safe Mode as instructed here:[**Start Safe Mode using the System Configuration tool**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. When in Safe Mode, go to the folder where you unzip the DDU execution file. Double-click to run**Display Driver Uninstaller** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-2.png)
 5. Select **GPU** and **your GPU manufacturer** on the right side. Then click **Clean and restart** .  
@@ -204,18 +200,19 @@ To do a clean reinstallation of the display card driver with DDU:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-5-techniques-for-capturing-games-and-live-feeds/"><u>2024 Approved Top 5 Techniques for Capturing Games & Live Feeds</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-hs50-headset-mic-problems-heres-how-to-fix-them/"><u>Corsair HS50 Headset Mic Problems? Here's How to Fix Them</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-updated-nvidia-1080-graphics-drivers-for-windows-10/"><u>Easy Download: Updated NVIDIA 1080 Graphics Drivers for Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-and-forge-ahead-resolving-bluetooth-not-pairing-errors-on-your-windows-11-system-tips/"><u>Fix and Forge Ahead: Resolving Bluetooth Not Pairing Errors on Your Windows 11 System (Tips )</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-malfunction-of-special-function-keys-in-dell-laptop-models/"><u>Fixing the Malfunction of Special Function Keys in Dell Laptop Models</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-fn-key-not-working/"><u>How To Fix Fn Key Not Working</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-from-basics-to-expertise-the-quantum-hdr-journey/"><u>In 2024, From Basics to Expertise The Quantum HDR Journey</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-f5-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco F5 Pro 5G Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-xiaomi-13t-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Xiaomi 13T Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-proving-the-top-5-mac-clipping-software/"><u>In 2024, Proving the Top 5 Mac Clipping Software</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-assessment-of-the-hp-zbook-firefly-15-g8-your-go-to-travel-companion/"><u>In-Depth Assessment of the HP ZBook Firefly 15 G8: Your Go-To Travel Companion</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-lenovo-keyboard-malfunctions-a-comprehve-guide-to-solutions/"><u>Overcoming Lenovo Keyboard Malfunctions: A Comprehve Guide to Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/usb-to-hdmi-connection-issues-heres-how-you-can-resolve-them/"><u>USB to HDMI Connection Issues? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ntegrating-existing-video-files-in-your-powerpoint-decks/"><u>[New] Integrating Existing Video Files in Your PowerPoint Decks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-vocal-transformations-high-ranked-app-options/"><u>[New] Mastering Vocal Transformations High-Ranked App Options</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy/"><u>[Updated] 2024 Approved Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-a-wandering-computer-mouse/"><u>Effortless Fixes for a Wandering Computer Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-resolving-issues-with-your-lenovos-fingerprint-sensor/"><u>Effortless Solutions: Resolving Issues with Your Lenovo's Fingerprint Sensor</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-dealing-with-malfunctioning-delete-keys-on-computers-and-phones/"><u>Expert Advice: Dealing with Malfunctioning Delete Keys on Computers and Phones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-decoding-the-art-of-youtube-playlist-recalibration/"><u>In 2024, Decoding the Art of YouTube Playlist Recalibration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/obs-vs-twitch-studio-which-one-is-better-for-2024/"><u>OBS Vs Twitch Studio Which One Is Better for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210710746-ps4-controller-power-problems-heres-how-to-solve-them/"><u>PS4 Controller Power Problems? Here's How to Solve Them!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204182212-resolving-your-systems-diagnostics-policy-service-problem-today/"><u>Resolving Your System's Diagnostics Policy Service Problem Today!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-world-through-different-lenses-3-strategies-for-successful-pov-reactions-on-youtube/"><u>See the World Through Different Lenses 3 Strategies for Successful POV Reactions on YouTube</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-solutions-for-re-enabling-a-disabled-ios-device/"><u>Step-by-Step Solutions for Re-Enabling a Disabled iOS Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-sudden-system-resets-a-guide-for-windows-11-users/"><u>Tackling Sudden System Resets – A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-error-code-39-in-optical-drives-easy-fixes-for-a-smooth-run/"><u>Troubleshooting and Resolving 'Error Code 39' In Optical Drives – Easy Fixes for a Smooth Run</u></a></li>
 </ul></div>
 

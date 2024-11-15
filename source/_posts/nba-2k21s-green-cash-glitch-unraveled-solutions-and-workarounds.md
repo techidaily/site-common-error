@@ -1,7 +1,7 @@
 ---
 title: NBA 2K21's Green Cash Glitch Unraveled - Solutions and Workarounds!
-date: 2024-10-29T16:21:37.971Z
-updated: 2024-11-04T21:18:17.864Z
+date: 2024-11-10T17:47:05.709Z
+updated: 2024-11-15T18:10:34.376Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
    * [Steam](https://tools.techidaily.com/drivereasy/download/)  
    * [Xbox One](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Make sure your PC meets the specs
 
  In order to play NBA 2K21, you need to make sure that your PC meets the minimum system requirements. If you want to have a better gaming experience, then it’s supposed to meet the recommended system requirements.
@@ -72,10 +65,16 @@ Recommended System Requirements
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Turn off Shot Feedback
@@ -85,13 +84,6 @@ Recommended System Requirements
  1) Click on the**Options/Quit** tab. Under the tab, click**SETTINGS** .
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
@@ -115,21 +107,28 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  4) Restart your computer and start the game again to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fixes on different gaming platforms
 
@@ -139,11 +138,37 @@ Here’s how to update drivers with Driver Easy:
 [Steam](https://tools.techidaily.com/drivereasy/download/)
 [Xbox One](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### PlayStation: download files from MyCAREER
 
  1) Go to **Settings > Application Saved Data Management > Saved Data in System Storage** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Upload to Online Storage** and upload all your data for 2K21 to the cloud.
 
@@ -166,10 +191,16 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the**GENERAL** section, uncheck**Enable the Steam Overlay while in-game** .
@@ -189,28 +220,15 @@ To do this, simply follow the instructions below:
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-your-game-files-Steam-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) When the process is completed, restart Steam and launch your game again.
 
@@ -248,14 +266,20 @@ To do this, simply follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-humor-pay-nothing-easymeme-tools-guide/"><u>2024 Approved Unlock Humor, Pay Nothing EasyMeme Tools Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/after-the-iphone-13-and-15-pro-top-alternatives-to-consider-now-insights-from-tech-analysts-at-zdnet/"><u>After the iPhone 13 and 15 Pro: Top Alternatives to Consider Now - Insights From Tech Analysts at ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-error-0x80072efd-a-comprehensive-guide-for-windows-11-users/"><u>Diagnosing and Fixing Error 0X80072EFD - A Comprehensive Guide for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-implemented-overcome-your-keyboards-typewriting-malfunctions/"><u>Fix Implemented: Overcome Your Keyboard's Typewriting Malfunctions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-laptop-that-wont-finish-setting-up-windows-expert-solutions/"><u>How to Fix a Laptop That Won't Finish Setting Up Windows - Expert Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/slicing-through-long-videos-the-quickest-methods-for-mac-editing-for-2024/"><u>Slicing Through Long Videos The Quickest Methods for Mac Editing for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-cutting-out-issues-with-your-logitech-g930-speakers/"><u>Step-by-Step Solution for 'Cutting Out' Issues with Your Logitech G930 Speakers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-worlds-fastest-supercomputer-is-almost-here-hpe-releases-new-el-capitan-with-amd-instinct-mi3nk/"><u>The World’s Fastest Supercomputer Is Almost Here: HPE Releases New El Capitan with AMD Instinct MI3nk</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-innovative-14-examples-of-moving-text-art/"><u>[New] In 2024, Innovative 14 Examples of Moving Text Art</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-photographic-magic-the-best-grid-tools-ranked/"><u>[New] In 2024, Photographic Magic - The Best Grid Tools Ranked</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-visualize-your-vision-access-no-cost-templates-for-youtube-creators/"><u>[New] Visualize Your Vision – Access No-Cost Templates for YouTube Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-effortless-preservation-of-your-loved-instagram-reels/"><u>[Updated] 2024 Approved Effortless Preservation of Your Loved Instagram Reels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-dissecting-the-prospects-of-active-presenter-for-techies/"><u>2024 Approved Dissecting the Prospects of Active Presenter for Techies</u></a></li>
+<li><a href="https://common-error.techidaily.com/6-effective-remedies-to-fix-werfaultexe-error-and-boost-system-stability/"><u>6 Effective Remedies to Fix werFault.exe Error and Boost System Stability</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-explained-fixing-long-wait-times-for-semaphore-signals-0x80070079/"><u>Error Code Explained: Fixing Long Wait Times for Semaphore Signals (0X80070079)</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-non-functional-sound-driver-in-windows-7/"><u>Fixing the Non-Functional Sound Driver in Windows 7</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-g2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo G2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/organizational-oversight-in-windows-setup-configured-system-parameters/"><u>Organizational Oversight in Windows Setup - Configured System Parameters</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-lenovo-keyboard-solutions-for-unresponsive-keys/"><u>Reviving Your Lenovo Keyboard: Solutions for Unresponsive Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-to-get-your-lenovo-fingerprint-reader-working-again/"><u>Simple Fixes to Get Your Lenovo Fingerprint Reader Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-ethernet-connectivity-issues-in-windows-117/"><u>Step-by-Step Solutions to Ethernet Connectivity Issues in Windows 11/7</u></a></li>
 </ul></div>
 

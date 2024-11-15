@@ -1,7 +1,7 @@
 ---
 title: "Blackout Phenomenon: Screen Quest"
-date: 2024-09-04T20:22:03.562Z
-updated: 2024-09-05T20:22:03.562Z
+date: 2024-11-14T17:22:12.461Z
+updated: 2024-11-15T16:51:26.860Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 6. [**Run System File Checker**](#m6)
 7. [**Check for viruses and malware**](#m7)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Lower in-game settings
 
  Some games have specific minimum system requirements for your system to be able to play them seamlessly. If your computer has met the minimum system requirements of the game, you can try lowering in-game settings and see if this helps unfreeze your computer. If not, try Method 2, below.
@@ -38,17 +45,18 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 ---
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Update your drivers
 
  A missing or outdated device driver may also stop your game from running. You should update your device drivers, especially your graphics card and chipset drivers, and see if this is causing your game to freeze.
@@ -65,24 +73,19 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/graphic-chipset-1.jpg)
 4. Restart your computer and check if your game now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Clear your temp files
 
  If your system doesn’t have enough space to store temp files, it may slow down or freeze. To see if this is the cause of your problem:
@@ -91,16 +94,32 @@ OR
 2. Type**temp** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa66889b860.png)
 3. **Select** all files in the Temp folder and**delete** them.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa66cf0cc78.jpg)
 4. Relaunch your game and check if your problem is resolved. If not, try Method 4, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Run a memory check
 
@@ -113,12 +132,6 @@ OR
 3. When Windows restarts, this screen will appear showing the progress of the check and the number of passes it’ll run on your memory card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa89992510a.jpg)  
  If you don’t see any errors, your memory card probably isn’t causing your problem, and you can move on to Method 5, below.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -131,61 +144,27 @@ OR
 1. Press the**Windows** key and**Pause** /**Break** key at the same time. Then click**Advanced System Settings** on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6b4c54aa9.jpg)
 2. Click the**Advanced** tab, then click the**Settings** button in the Performance section.  
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6db7a7b90.jpg)
 3. From the**Advanced** tab, click**Change…**  
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e0a6f204.jpg)
 4. De-select**Automatically manage paging file size for all drives** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e4d0df27.jpg)
 5. **Select** your system drive ( the hard drive or partition where you installed your system — usually**C:** ), and select**Custom size** , enter the**Initial size** and**Maximum size** for your virtual memory. Click**Set** , then**OK** .  
    * **Initial size** — This value varies, depending on your computer. If you’re not sure what value to use, enter the**Recommended** size.  
    * **Maximum size** — Don’t set this value too high. It should be about**1.5 times** the size of your physical RAM. For example, a computer with 4 GB (4096 MB) of RAM should have no more than about 6,144 MB virtual memory (4,096 MB x 1.5).  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa72695eb05.jpg)
 6. Restart your game and check if your problem is resolved. If not, try Method 6, below.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Run System File Checker
 
  Your “computer freezes during gameplay” issue may also be caused by system file corruption. You can run System File Checker and see if there are any system files missing or corrupted. If there are any, the**sfc /scannow** command (System File Checker) will repair them.
@@ -193,18 +172,6 @@ OR
 1. **Run** Command Prompt **as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa7486e289d.jpg)
 2. Type **sfc /scannow** and press **Enter** .  
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa7493ccb0a.jpg)
 3. It should begin running a system scan and will take some time. When it finishes, restart your computer and check if it has fixed your problem. If not, try the next method.
 
@@ -230,8 +197,6 @@ Enjoy your game!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +204,24 @@ Enjoy your game!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-filmoras-peer-level-alternatives-the-top-10-background-changers/"><u>[New] Filmora's Peer-Level Alternatives The Top 10 Background Changers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-end-excessive-heat-and-reduce-cpu-pressure-the-complete-guide-on-dealing-with-high-load-due-to-shell-infrastructures/"><u>[Resolved] End Excessive Heat & Reduce CPU Pressure - The Complete Guide on Dealing with High Load Due To Shell Infrastructures.</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-essential-free-web-converters-top-10-jpeg-to-gif-changers/"><u>[Updated] 2024 Approved Essential Free Web Converters Top 10 JPEG-to-GIF Changers</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-80072ee2-windows-update-error/"><u>Easy to Fix 80072EE2 Windows Update Error</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-13-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 13 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-record-and-edit-an-animoji-or-memoji-karaoke-music-video-for-2024/"><u>How to Record and Edit an Animoji or Memoji Karaoke Music Video for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-achieving-expert-control-the-steam-switch-controllers-guide/"><u>In 2024, Achieving Expert Control The Steam Switch Controllers Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-decoding-the-copyright-code-for-insta-musicians/"><u>In 2024, Decoding the Copyright Code for Insta Musicians</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-dns-server-unresponsive-issues-with-these-simple-strategies/"><u>Resolving 'DNS Server Unresponsive' Issues with These Simple Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-connecting-your-airpods-to-windows-os/"><u>Step-by-Step Solution for Connecting Your AirPods to Windows OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/telechargement-gratuit-transformez-vos-fichiers-wav-en-format-aiff-via-le-convertisseur-en-ligne-de-movavi/"><u>Téléchargement Gratuit : Transformez Vos Fichiers WAV en Format AIFF via Le Convertisseur en Ligne De Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-emudeck-experience-for-your-steam-deck/"><u>The Ultimate EmuDeck Experience for Your Steam Deck</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-strategies-for-enabling-miracast-on-incompatible-devices-2atur3-troubleshooting-guide/"><u>Top Strategies for Enabling Miracast on Incompatible Devices - 2Atur3 Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-epson-scan-non-responsiveness/"><u>Troubleshooting: Epson Scan Non-Responsiveness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-leading-vpn-services-of-202eplusy-testing-and-reviews-expert-analysis-by-zdnet/"><u>Ultimate Guide to the Leading VPN Services of 202E+y Testing & Reviews | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-solution-for-critical-process-died-blue-screen-bsod-error-code-c00000e9-in-windows/"><u>Ultimate Solution for Critical Process Died Blue Screen (BSoD) Error Code C00000e9 in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/urgent-question-will-unreal-survive-without-d3d-devices/"><u>Urgent Question: Will Unreal Survive Without D3D Devices?</u></a></li>
+</ul></div>
 

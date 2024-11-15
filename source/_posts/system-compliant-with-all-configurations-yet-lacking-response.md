@@ -1,7 +1,7 @@
 ---
 title: System Compliant with All Configurations Yet Lacking Response
-date: 2024-09-04T20:22:03.008Z
-updated: 2024-09-05T20:22:03.008Z
+date: 2024-11-14T17:26:57.188Z
+updated: 2024-11-15T16:55:13.594Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-110.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click on**Airplane mode** (when it is on, it’s colored) to turn it off (when it is off, it’s greyed out) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-112.png)
@@ -66,6 +73,13 @@ Here is how to do it:
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type**airplane mode** . Then click on**Airplane mode** as it pops up as a match.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-108.png)
 
  2) Make sure to switch_off_ the toggle for Airplane mode.
@@ -76,6 +90,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable power saving
 
  Your computer may get stuck in airplane mode if the power saving mode is enabled. Make sure to turn it off to see if it fixes the issue.
@@ -85,29 +106,25 @@ Here is how to do it:
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type**devmgmt.msc** and press**Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-86.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Double-click on the**Network adapters** category and then**your wireless adapter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-88.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the**Power Management** tab and_un-tick_ **the box** for**Allow the computer to turn off this device to save power** . Then click**OK** to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-89.png)
@@ -117,6 +134,13 @@ Here is how to do it:
 5) Check to see if you can get back online on your computer. If yes, then great! If it’s not working, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Enable Radio Management Service
 
@@ -129,43 +153,26 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-193.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Locate**Radio Management Service** and double-click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-91.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In**Startup type** , select Disabled. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer.
 
 5) Check to see if the computer stuck on airplane mode problem is solved. If yes, then congrats! If the issue persists, please try**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Flush DNS cache
 
  Flushing DNS cache, as many users reported it, has been another helpful way out the computer stuck in airplane mode issue.
@@ -175,6 +182,13 @@ Here is how to flush DNS cache:
  1) On your keyboard, press the **Windows logo key** and type**cmd** . Right click on **Command Prompt** in the result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-106.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type the following command lines.  
  (Press **Enter** after each line of code and wait for the completion of each process, and then type the next line.)
@@ -195,12 +209,6 @@ Here is how to flush DNS cache:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Update your WiFi driver
 
  Your Windows 10 stuck on airplane mode problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -227,12 +235,6 @@ Here is a step-by-step walk-through:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-175.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click **Browse…** , then choose a destination folder in your computer to save the offline scan file. After that, click **Offline Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-176.png)
@@ -257,12 +259,6 @@ Here is a step-by-step walk-through:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-179.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  12) Click the **Download** button next to your WiFi driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-181.png)
@@ -288,8 +284,6 @@ Here is a step-by-step walk-through:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,4 +291,26 @@ Here is a step-by-step walk-through:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-iphone-sound-capturing-101-voice-memo-processing/"><u>[New] 2024 Approved IPhone Sound Capturing 101 – Voice Memo Processing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-comedy-gold-twitters-hottest-jokes/"><u>[New] In 2024, Comedy Gold Twitter's Hottest Jokes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-leading-minds-in-online-creation/"><u>[Updated] Leading Minds in Online Creation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-10-visionary-beauty-experts-leading-online-trends/"><u>2024 Approved 10 Visionary Beauty Experts Leading Online Trends</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-update-hurdles-a-comprehensive-guide-to-solving-error-0x80240017-in-windows-systems/"><u>Bypassing Update Hurdles: A Comprehensive Guide to Solving Error 0X80240017 in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-correcting-peripheral-error-messages-in-windows/"><u>Effective Solutions for Correcting Peripheral Error Messages in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-valorant-crashes-restart-method/"><u>Eliminating Valorant Crashes: Restart Method</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-asus-rog-phone-8-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Asus ROG Phone 8 FRP Locks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-conveniently-connect-friends-across-os-platforms-using-skype-chats/"><u>In 2024, Conveniently Connect Friends Across OS Platforms Using Skype Chats</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Infinix Phone without PIN</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connectivity-hurdles-solving-hamachi-service-disruption/"><u>Overcoming Connectivity Hurdles: Solving Hamachi Service Disruption</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-1110-error-0x80072f8f-a-step-by-step-guide/"><u>Resolving Windows 11/10 Error 0X80072F8F: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/secure-xbox-controller-use-on-pc-platform/"><u>Secure Xbox Controller Use on PC Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-overcoming-airpod-windows-sync-problems/"><u>The Ultimate Fix: Overcoming AirPod-Windows Sync Problems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-recording-playbook-your-roblox-adventures-transformed-for-2024/"><u>The Ultimate Recording Playbook Your Roblox Adventures, Transformed for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207115576-troubleshooting-steps-for-unshutdown-windows-10-on-your-pc-solution/"><u>Troubleshooting Steps for Unshutdown Windows 10 on Your PC - SOLUTION!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-failures-during-windows-1903-feature-upgrade/"><u>Troubleshooting Tips: Fixing Failures During Windows 1903 Feature Upgrade</u></a></li>
+</ul></div>
 

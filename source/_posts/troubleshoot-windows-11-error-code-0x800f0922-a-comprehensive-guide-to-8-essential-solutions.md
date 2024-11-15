@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Windows 11 Error CODE 0X800f0922: A Comprehensive Guide to 8 Essential Solutions"
-date: 2024-08-27T13:52:31.462Z
-updated: 2024-08-28T13:52:31.462Z
+date: 2024-11-13T16:42:41.890Z
+updated: 2024-11-15T17:15:02.054Z
 tags:
   - win11
   - win10
@@ -38,27 +38,39 @@ The error code 0xc00000e9 is generally a hardware error pretaining to your**BIOS
 If you have some**external devices**connected to your PC, such as the**external hard drive**or a**USB flash drive**,**disconnect**them all (leave your mouse and keyboard connected), then**restart**your computer. **If the error stops, plug your external devices back, only one at a time, then restart your PC**. If you get the error again after connecting certain device, you can identify the issue now. You can either replace this device completely from your PC, or update its driver as instructed in[solution 3](https://tools.techidaily.com/drivereasy/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Solution 2: Change your BIOS settings**
 
 You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow the steps below: 1) Shut down your computer, then press the**Power button**to boot your computer. 2) Press and hold the button to enter the**BIOS setting**, generally the**ESC**,**F2**,**F12**or**Delete**key (please consult your PC manufacturer or go through your user manual).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab22ed990cd9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3) Once you’re in the**BIOS Setup Utility**screen, go to**Boot options**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab22ea821a18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Once you’re in the Boot options, make sure the**first boot device**is your**hard drive**. You can press the arrow key to highlight the hard drive and move it to the top of the boot device list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab23153b0892.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5)**Save**your changes, and reboot your computer. This should fix your problem.
 
@@ -70,14 +82,15 @@ The driver problem can also cause the error 0xc00000e9, because the hardware can
 
 **Manual driver update**– You can update your drivers manually by going to the**manufacturer’s website**and searching for the**most recent correct driver**. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Automatic driver update**– Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the**FREE**or the**Pro**version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a**30-day money back guarantee**): 1) **[Download](https://tools.techidaily.com/drivereasy/download/)** and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aaf6cdfc84d7.png)3) Click the**Update**button next to all flagged devices to automatically download and install the correct version of their driver (you can do this with the**FREE**version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All**).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab232d7385cf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer and see if the error 0xc00000e9 disappears.
 
 ## **Solution 4: Run a disk check**
@@ -87,8 +100,12 @@ The error 0xc00000e9 can be caused by the disk problem. You should make sure tha
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab234158a472.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Type**chkdsk /f /r**, then press**Enter**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)4） Press**Y**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
 **Note** : Disk check will start the next time you boot your PC and it might take some time to complete. If you don’t have time to wait for the disk check to complete when restarting your computer, you can skip it or schedule it again.
@@ -110,8 +127,6 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +134,16 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-youtube-financial-framework-for-content-creators/"><u>[New] The Ultimate YouTube Financial Framework for Content Creators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-creating-depth-in-shots-iphoneandroid-blurrers/"><u>[Updated] In 2024, Creating Depth in Shots IPhone/Android Blurrers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamline-your-workflow-essential-tips-to-record-on-hp-laptop/"><u>2024 Approved Streamline Your Workflow Essential Tips to Record on HP Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-to-initialize-battleye-service-generic-error-fixed/"><u>Failed to Initialize BattlEye Service: Generic Error [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-issues-is-the-service-down-and-what-can-you-do-about-it/"><u>Netflix Issues: Is the Service Down, and What Can You Do About It?</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-influencer-in-2024/"><u>New What Is AI Influencer, In 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solution-resolving-the-steam-disk-writes-failed-issue-without-hassle/"><u>Simple Solution: Resolving the 'Steam Disk Writes Failed' Issue Without Hassle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-to-tackle-and-correct-windows-code-28-error-messages/"><u>Step-by-Step Solutions to Tackle and Correct Windows Code 28 Error Messages</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206026261-troubleshoot-the-windows-11-bluetooth-not-detected-problem-fast-solutions/"><u>Troubleshoot the Windows 11 Bluetooth Not Detected Problem - Fast Solutions</u></a></li>
+</ul></div>
 

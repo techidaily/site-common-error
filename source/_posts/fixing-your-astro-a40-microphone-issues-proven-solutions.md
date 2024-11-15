@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Astro A40 Microphone Issues: Proven Solutions"
-date: 2024-11-01T21:45:59.474Z
-updated: 2024-11-05T08:07:36.209Z
+date: 2024-11-08T17:33:48.332Z
+updated: 2024-11-15T18:06:26.686Z
 tags:
   - win11
   - win10
@@ -41,30 +41,38 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -78,15 +86,22 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
- You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
@@ -102,22 +117,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
@@ -129,10 +130,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -168,22 +169,21 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-novices-to-pros-the-journey-of-learning-magix-maker/"><u>[New] 2024 Approved From Novices to Pros The Journey of Learning Magix Maker</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-syncing-zoom-to-your-calendar-on-iphoneandroiddesktop-for-2024/"><u>[New] Syncing Zoom to Your Calendar on iPhone/Android/Desktop for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-engaging-tactics-for-increased-subscriber-count/"><u>[Updated] In 2024, Engaging Tactics for Increased Subscriber Count</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quickening-media-display-on-ppt/"><u>[Updated] Quickening Media Display on PPT</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-easy-way-to-edit-youtube-videos-in-imovie/"><u>2024 Approved Easy Way to Edit YouTube Videos in iMovie</u></a></li>
-<li><a href="https://common-error.techidaily.com/accelerate-window-11-closure-time-with-these-expert-tips-and-tricks/"><u>Accelerate Window 11 Closure Time with These Expert Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/easily-repair-unresponsive-buttons-on-your-hp-laptop-step-by-step-guide/"><u>Easily Repair Unresponsive Buttons on Your HP Laptop - Step-by-Step Guide!</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-historical-directx-games-through-dxvk-technology/"><u>Elevating Historical DirectX Games Through DXVK Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-resolved-unsupported-inputs-no-longer-display-issues-on-screen/"><u>Error Resolved: Unsupported Inputs No Longer Display Issues on Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-10-kb40240034-update-issue/"><u>How to Fix the Windows 10 KB40240034 Update Issue</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 8 Plus</u></a></li>
-<li><a href="https://common-error.techidaily.com/lower-your-pcs-cpu-load-by-correcting-audio-device-isolation-issues-in-windows/"><u>Lower Your PC's CPU Load by Correcting Audio Device Isolation Issues in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fix-for-unknown-usb-device-and-port-issues-under-windows-11/"><u>Master the Fix for 'Unknown USB Device' And Port Issues Under Windows 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/perfect-sources-for-dj-template-video-downloads-for-2024/"><u>Perfect Sources for DJ Template Video Downloads for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/revitalize-your-system-with-sfcdism-in-windows-11/"><u>Revitalize Your System with SFC/DISM in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-the-fatal-exception-error-in-windows-code-0xc00000e9/"><u>Step-by-Step Solutions for Overcoming the Fatal Exception Error in Windows (Code 0XC00000E9)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-11-pro-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 11 Pro from iCloud</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-resolving-blackout-errors-on-playback-devices/"><u>[New] Resolving Blackout Errors on Playback Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-video-editor-battle-is-inshot-reigning-supreme/"><u>[New] Top Video Editor Battle Is InShot Reigning Supreme?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unveiling-the-best-macbook-air-or-pro-with-m1/"><u>[Updated] In 2024, Unveiling the Best MacBook Air or Pro with M1</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-tailored-tv-experience-via-social-media-content/"><u>2024 Approved Tailored TV Experience via Social Media Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-successfully-pair-your-bluetooth-keyboard-with-a-windows-or-mac-computer-again/"><u>Expert Advice: Successfully Pair Your Bluetooth Keyboard with a Windows or Mac Computer Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-the-noentrypointfound-error-on-your-computers-operating-system/"><u>How To Repair The ‘NoEntryPointFound’ Error on Your Computer's Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-computers-unresponsive-shift-key-easily/"><u>How To Repair Your Computer's Unresponsive Shift Key Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-reno-10-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo Reno 10 5G</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-journey-through-history-similar-themed-video-games-to-ghost-of-tsushima/"><u>In 2024, Journey Through History Similar Themed Video Games to Ghost of Tsushima</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-timecode-calculators-a-comprehensive-review/"><u>New The Best Timecode Calculators A Comprehensive Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-audio-hurdles-restoring-dolby-entertainment-features-on-windows-11-systems/"><u>Overcoming Audio Hurdles: Restoring Dolby Entertainment Features on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-reducing-msmpengexes-high-resource-drain-on-windows-10-pc/"><u>Solution for Reducing MsMpEng.exe's High Resource Drain on Windows 10 PC</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-8-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 8 Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-stuck-keyboard-arrows-effective-solutions/"><u>Troubleshoot Your Stuck Keyboard Arrows – Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-windows-10-store-error-message-0x80073cf9/"><u>Troubleshooting and Correcting Windows 10 Store Error Message 0X80073CF9</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316764-9781401929480-waking-from-sleep/"><u>Waking From Sleep | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows Update Troubleshooting: A Step-by-Step Fix to Error 80244019"
-date: 2024-11-01T03:03:20.544Z
-updated: 2024-11-05T02:35:58.109Z
+date: 2024-11-08T18:29:09.441Z
+updated: 2024-11-15T16:03:29.766Z
 tags:
   - win11
   - win10
@@ -45,37 +45,39 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -91,16 +93,10 @@ You can update your drivers automatically with either the [**Free**](https://too
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
@@ -131,24 +127,24 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-xerox-update-error-0x800f020b-in-windows/"><u>[FIXED] Xerox Update Error 0X800f020b in Windows</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-100-hysterical-moments-on-tiktok/"><u>[New] 2024 Approved 100 Hysterical Moments on TikTok</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-key-to-effective-instagram-chats-a-comprehensive-guide/"><u>[New] In 2024, The Key to Effective Instagram Chats A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/tech-insight-fix-windows-dll-issue/"><u>[Tech Insight] Fix Windows DLL Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206749452-breeze-through-troubleshooting-fixing-windows-update-error-0x80070002-easily/"><u>Breeze Through Troubleshooting: Fixing Windows Update Error 0X80070002 Easily!</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-8007000e-on-windows-updates-ace-the-solution-in-no-time-with-this-guide/"><u>Error 8007000E on Windows Updates? Ace The Solution in No Time With This Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-the-microsoft-surface-laptop-go-redefines-affordable-portability-in-ultrabooks/"><u>How the Microsoft Surface Laptop Go Redefines Affordable Portability in Ultrabooks</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-to-create-a-flash-flipping-book-from-individual-web-pages-using-flipbuilder/"><u>How to Create a Flash Flipping Book From Individual Web Pages Using FlipBuilder</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-smooth-out-freezing-frames-and-hiccups-in-pc-fortnite-battles/"><u>How to Smooth Out Freezing Frames and Hiccups in PC Fortnite Battles</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mac-video-editing-made-easy-install-lumafusion-or-choose-an-alternative-for-2024/"><u>Mac Video Editing Made Easy Install Lumafusion or Choose an Alternative for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/multi-lens-modifiers-for-creative-video-effects/"><u>Multi-Lens Modifiers for Creative Video Effects</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-early-morning-glitches-how-to-stop-your-windows-10-from-hanging-at-startup/"><u>Overcome Early Morning Glitches: How To Stop Your Windows 10 From Hanging at Startup</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolution-guide-accessing-steam-when-their-content-services-are-out-of-reach/"><u>Resolution Guide: Accessing Steam When Their Content Services Are Out of Reach</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-smooth-scrolling-expert-advice-for-a-broken-logitech-mouse-wheel/"><u>Restoring Smooth Scrolling: Expert Advice for a Broken Logitech Mouse Wheel</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-audio-not-detected-issue-in-windows-operating-systems/"><u>Step-by-Step Solution for Fixing 'Audio Not Detected' Issue in Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-video-output-issues-with-easy-steps/"><u>Troubleshooting Tips: Fixing Video Output Issues with Easy Steps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-apples-audio-world-a-download-guide-for-ios-users/"><u>Unlocking Apple's Audio World A Download Guide for iOS Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-transform-your-ideas-into-films-a-beginners-handbook-for-2024/"><u>Updated Transform Your Ideas Into Films A Beginners Handbook for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-achieve-peaceful-nights-with-expert-recommended-asmr-for-2024/"><u>[New] Achieve Peaceful Nights with Expert-Recommended ASMR for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-images-with-freepaid-lut-bundles-for-canon/"><u>[New] Transform Your Images with Free/Paid LUT Bundles for Canon</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtubes-adsense-income-strategy-calculating-per-thousand-viewers/"><u>[Updated] Youtube's AdSense Income Strategy Calculating Per Thousand Viewers</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-for-the-persistent-0x80070490-error-on-windows-update/"><u>Comprehensive Troubleshooting for the Persistent 0X80070490 Error on Windows Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-the-frustration-of-a-dead-usb-mouse-in-windows-and-macos-with-easy-fixes/"><u>Defeat the Frustration of a Dead USB Mouse in Windows and MacOS with Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-non-recognition-of-logitech-peripherals-on-a-windows-10-pc/"><u>Expert Tips for Resolving Non-Recognition of Logitech Peripherals on a Windows 10 PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 14</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-insights-top-insta-management-tools-reviewed/"><u>In 2024, Expert Insights Top Insta Management Tools Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-your-online-identity-unlocked-establishing-a-new-youtube-chanel-today/"><u>In 2024, Your Online Identity Unlocked Establishing a New YouTube Chanel Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/livekernelevent-bug-fix-overcoming-error-144-challenges/"><u>LiveKernelEvent Bug Fix: Overcoming Error 144 Challenges</u></a></li>
+<li><a href="https://common-error.techidaily.com/msdia80dll-explained-why-its-essential-for-your-pc/"><u>MSDIA80.DLL Explained: Why It's Essential for Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/problem-solved-troubleshooting-techniques-for-when-windows-wont-install/"><u>Problem Solved: Troubleshooting Techniques for When Windows Won't Install</u></a></li>
+<li><a href="https://driver-download.techidaily.com/revive-your-audio-technica-experience-with-our-driver-update-guide/"><u>Revive Your Audio-Technica Experience with Our Driver Update Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-laptop-trackpad-step-by-step-solutions-for-windows-1187-users/"><u>Reviving Your Laptop Trackpad: Step-by-Step Solutions for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/spectral-silence-monitor-quandary/"><u>Spectral Silence: Monitor Quandary</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-lava-blaze-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Lava Blaze Pro 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/transform-storytelling-crafting-ig-questions-for-impact/"><u>Transform Storytelling Crafting IG Questions for Impact</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-solving-the-problem-usb-connectivity-with-hdmi-devices/"><u>Understanding and Solving the Problem: USB Connectivity with HDMI Devices</u></a></li>
 </ul></div>
 

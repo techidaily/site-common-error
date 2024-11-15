@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions for Overcoming the Troublesome DRIVER_POWER_STATE_FAILURE Error
-date: 2024-11-02T10:50:49.293Z
-updated: 2024-11-04T19:44:49.293Z
+date: 2024-11-14T17:13:55.254Z
+updated: 2024-11-15T18:12:36.527Z
 tags:
   - win11
   - win10
@@ -43,18 +43,34 @@ But don’t worry, it’s not hard to fix at all…
 2. Right-click on**Microsoft Store Install Service** and click**Start** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b515a7b35011.jpg)
 3. Scroll down to the bottom and double-click on**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51623b61cf7.jpg)
 4. Select**Manual** in**Startup type** , click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51629aa2ad6.jpg)
 5. Launch your Windows Store again and see if the problem has been solved.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run the DISM tool
@@ -69,23 +85,22 @@ But don’t worry, it’s not hard to fix at all…
  Wait a while for the whole process to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Type **sfc /scannow**  and press **Enter** .
 4. Restart your computer, run Windows Store again and see if it works properly this time.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -105,21 +120,14 @@ But don’t worry, it’s not hard to fix at all…
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hope everything goes off without a hitch on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the problem still lingers on after trying Driver Easy, feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** for more expedient and efficient guidance. ?
 
@@ -135,31 +143,31 @@ But don’t worry, it’s not hard to fix at all…
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2935c0967f.jpg)**
 3. Right-click on**the network adpater** (Ethernet in my case) and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b22081a8ea67.jpg)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)**  and then click **Properties** .  
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2228b800796.jpg)
 5. Click option **Use the following DNS server addreses** ,
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  for **Preferred DNS server** , enter **8.8.8.8** ;
 
@@ -167,13 +175,6 @@ But don’t worry, it’s not hard to fix at all…
 
  Then click **OK** .  
  ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2229e75f892.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Restart your computer and re-launch your Windows Store to see if it works fine now.
 
@@ -186,6 +187,14 @@ But don’t worry, it’s not hard to fix at all…
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Copy & paste**the following command** into the window and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **PowerShell -ExecutionPolicy Unrestricted -Command “& {$manifest = (Get-AppxPackage Microsoft.WindowsStore).InstallLocation + ‘\AppxManifest.xml’ ; Add-AppxPackage -DisableDevelopmentMode -Register $manifest}”**
 3. Once it finishes, close the command prompt window.
 4. Restart your computer, open Windows Store again and see if the error code has been fixed.
@@ -211,18 +220,24 @@ But don’t worry, it’s not hard to fix at all…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-tips-extracting-audio-from-youtube-video-playback/"><u>[New] In 2024, Expert Tips Extracting Audio From YouTube Video Playback</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-non-conventional-windows-tools-for-filmmaking/"><u>[Updated] In 2024, Non-Conventional Windows Tools for Filmmaking</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/boost-traffic-with-cookiebot-advanced-marketing-automation-solutions/"><u>Boost Traffic with Cookiebot: Advanced Marketing Automation Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-newfound-windows-11-update-data-glitch-with-easy-fixes-for-users/"><u>Bypassing the Newfound Windows 11 Update Data Glitch with Easy Fixes for Users</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-pc-problems-a-detailed-walkthrough-for-forest-sons-crashes/"><u>Fixing Pc Problems: A Detailed Walkthrough for 'Forest Sons' Crashes</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-se-2020-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/lonicera-periclymenum-european-honeysuckle-or-woodbine-native-to-europe-it-features-twining-stems-and-fragrant-tubular-flowers-that-bloom-in-the-summer/"><u>Lonicera Periclymenum (European Honeysuckle or Woodbine): Native to Europe, It Features Twining Stems and Fragrant Tubular Flowers that Bloom in the Summer.</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-touchscreen-repair-top-5-techniques-for-windows-10-users/"><u>Mastering the Art of Touchscreen Repair: Top 5 Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-your-windows-1nstallation-hurdles-quick-fix-guide-for-error-0x800f0922/"><u>Overcome Your Windows 1Nstallation Hurdles: Quick Fix Guide for Error 0X800f0922</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-kb5003176-installation-error-0xc1900101-0x20017-a-comprehensive-fix-guide/"><u>Resolving Windows 11 KB5003176 Installation Error (0xC1900101-0x20017) – A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-window-11-slow-to-shutdown-dilemma/"><u>Troubleshooting the Window 11 Slow-to-Shutdown Dilemma</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-harmonious-repository-for-free-guitar-tunes-and-companion-photos/"><u>Updated Harmonious Repository for Free Guitar Tunes & Companion Photos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-choosing-your-recording-champion-pick-obs-or-bandicam/"><u>[New] 2024 Approved Choosing Your Recording Champion Pick OBS or Bandicam?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-magix-vpx-the-ultimate-software-showdown/"><u>[New] Magix VPX The Ultimate Software Showdown</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-youtube-hidden-videos/"><u>[Updated] 2024 Approved How to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-payout-patterns-adsense-earnings-from-youtube-for-every-thousand-viewers/"><u>2024 Approved Payout Patterns AdSense Earnings From YouTube for Every Thousand Viewers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-copy-file-and-folder-paths-in-windows-11/"><u>6 Ways to Copy File and Folder Paths in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-official-fixes-overcoming-frame-rate-stutters-and-latency-issues-on-the-pc-platform/"><u>Battlefield # Official Fixes: Overcoming Frame Rate Stutters & Latency Issues on the PC Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-restricted-input-settings-for-touchscreens-and-pen-devices/"><u>Bypassing the Restricted Input Settings for Touchscreens and Pen Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-repair-windows-media-players-fatal-dxgkrnl-error-for-uninterrupted-video-experience/"><u>Comprehensive Guide to Repair Windows Media Player's Fatal Dxgkrnl Error for Uninterrupted Video Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-dvd-playback-problems-on-windows-machines/"><u>Diagnosing and Repairing DVD Playback Problems on Windows Machines</u></a></li>
+<li><a href="https://windows11.techidaily.com/embarking-on-wintoys-journey-your-comprehensive-guide-to-windows-mastery/"><u>Embarking on WinToys Journey: Your Comprehensive Guide to Windows Mastery</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-800020-during-windows-11-installation-understanding-and-solutions-for-a-smooth-update/"><u>Error 80#0020 During Windows 11 Installation: Understanding and Solutions for a Smooth Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-fixing-unresponsive-integrated-cameras-in-windows-environments/"><u>Expert Advice: Fixing Unresponsive Integrated Cameras in Windows Environments</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-14-pro-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 14 Pro with a Broken Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-realme-gt-5-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Realme GT 5 Pro Phone Screen?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-mastering-funimate/"><u>In 2024, The Art of Mastering Funimate</u></a></li>
+<li><a href="https://common-error.techidaily.com/mouse-malaise-cured-logitech-back-online/"><u>Mouse Malaise Cured: Logitech Back Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-energy-flow-in-data-hub-connectors/"><u>Troubleshooting Excessive Energy Flow in Data Hub Connectors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-the-internet-explorer-has-stopped-working-problem/"><u>Troubleshooting Tips for the 'Internet Explorer Has Stopped Working' Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210139298-winning-against-windows-10-disk-read-errors-easy-solutions-inside/"><u>Winning Against Windows 10 Disk Read Errors: Easy Solutions Inside!</u></a></li>
 </ul></div>
 

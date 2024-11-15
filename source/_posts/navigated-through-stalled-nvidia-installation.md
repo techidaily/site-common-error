@@ -1,7 +1,7 @@
 ---
 title: Navigated Through Stalled NVIDIA Installation
-date: 2024-09-04T20:22:03.213Z
-updated: 2024-09-05T20:22:03.213Z
+date: 2024-11-08T18:03:10.467Z
+updated: 2024-11-15T16:26:35.688Z
 tags:
   - win11
   - win10
@@ -55,37 +55,28 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch Chrome and test if the video content loads without fail this time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
 This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics  driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -98,24 +89,19 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then keep track of your Chrome to see if everything runs smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update or re-install Google Chrome
 
@@ -129,17 +115,12 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
+
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
@@ -160,8 +141,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +148,21 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-tips-and-tricks-for-professional-minecraft-videos/"><u>[Updated] 2024 Approved Tips and Tricks for Professional Minecraft Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-navigating-complex-projects-on-magix-video-pro-x/"><u>[Updated] In 2024, Navigating Complex Projects on Magix Video Pro X</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-media-files-with-freeaudextractor-2024-review/"><u>[Updated] Mastering Media Files with FreeAudExtractor 2024 Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-resolving-issues-with-your-windows-computers-optical-drives/"><u>Easy Solutions: Resolving Issues with Your Windows Computer's Optical Drives</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-non-responsive-scroll-wheel-on-logitech-mice-a-step-by-step-guide/"><u>Fixing the Non-Responsive Scroll Wheel on Logitech Mice – A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-fast-fortnite-icons-in-minutes/"><u>In 2024, Crafting Fast Fortnite Icons in Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-microsoft-excels-scenario-manager-a-step-by-step-guide/"><u>Mastering Microsoft Excel's Scenario Manager: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-editing-troubleshooting-final-cut-pro-x/"><u>New Effortless Editing Troubleshooting Final Cut Pro X</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restore-bluetooth-on-your-windows-11-pc-fast-fixes/"><u>Step-by-Step Guide to Restore Bluetooth on Your Windows 11 PC - Fast Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-fix-code-0xc0000098-on-your-windows-system/"><u>Step-by-Step Solutions to Fix Code 0Xc0000098 on Your Windows System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-secret-to-obtaining-fcp-for-free/"><u>The Secret to Obtaining FCP for Free</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-improve-your-file-explorer-experience-on-windows-11/"><u>Troubleshoot and Improve Your File Explorer Experience on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-premium-apple-watch-straps-in-depth-analysis-and-ratings-cnet/"><u>Ultimate Selection of Premium Apple Watch Straps : In-Depth Analysis and Ratings | CNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-repairing-catastrophic-directx-runtime-failures/"><u>Understanding and Repairing Catastrophic DirectX Runtime Failures</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Conquering Connection Woes: Tips for Microsoft Wireless Adapter and Windows Groovy"
-date: 2024-08-27T13:53:50.465Z
-updated: 2024-08-28T13:53:50.465Z
+date: 2024-11-09T17:00:35.279Z
+updated: 2024-11-15T16:49:21.725Z
 tags:
   - win11
   - win10
@@ -40,31 +40,31 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
 This problem may occur if you are using the wrong or outdated drivers. So you should update your device drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
@@ -77,14 +77,24 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -102,8 +112,6 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +119,24 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-maintaining-memories-on-androidmac-through-snaps-for-2024/"><u>[New] Maintaining Memories on Android/Mac Through Snaps for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-tactics-for-snagging-free-visual-frame-content/"><u>[New] Tactics for Snagging Free Visual Frame Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooler-master-sets-record-straight-on-cryofuze-5-no-artificial-intelligence-just-advanced-thermal-tech/"><u>Cooler Master Sets Record Straight on CryoFuze 5 - No Artificial Intelligence, Just Advanced Thermal Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solutions-for-overcoming-the-troublesome-driverpowerstatefailure-error/"><u>DIY Solutions for Overcoming the Troublesome DRIVER_POWER_STATE_FAILURE Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-the-0x80240034-windows-11-update-obstacle/"><u>Expert Tips for Overcoming the 0X80240034 Windows 11 Update Obstacle</u></a></li>
+<li><a href="https://common-error.techidaily.com/google-chrome-lagging-or-freezing-restart-immediately/"><u>Google Chrome Lagging or Freezing? Restart Immediately!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-device-driver-unrecognized-errors-for-a-smoother-pc-experience/"><u>How to Fix 'Device Driver Unrecognized' Errors for a Smoother PC Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-malfunctioning-lenovo-laptop-keyboard-a-step-by-step-guide/"><u>How to Repair a Malfunctioning Lenovo Laptop Keyboard - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-unblock-a-malfunctioning-google-hangouts-microphone-with-ease/"><u>How To Unblock a Malfunctioning Google Hangouts Microphone With Ease</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-essential-guide-windows-movie-maker-in-animation-production/"><u>In 2024, Essential Guide Windows Movie Maker in Animation Production</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-unlock-premium-quality-streaming-on-the-worlds-largest-network/"><u>In 2024, Unlock Premium Quality Streaming on the World's Largest Network</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-text-input-hurdles-repair-strategies-for-non-functional-keys/"><u>Overcoming Text Input Hurdles: Repair Strategies for Non-Functional '@' Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207584743-pubg-will-not-open-discover-the-best-fixes-for-a-smooth-launch/"><u>PUBG Will Not Open? Discover the Best Fixes for a Smooth Launch !</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-windows-11s-update-error-code-0x800705b4-successfully/"><u>Troubleshooting and Fixing Windows 11'S Update Error Code 0X800705b4 Successfully</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/universal-iptv-access-model/"><u>Universal IPTV Access Model</u></a></li>
+<li><a href="https://video-capture.techidaily.com/videocapture-with-vlc-appraisal-for-2024/"><u>Videocapture with VLC Appraisal for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-s23-tactical-edition-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy S23 Tactical Edition? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

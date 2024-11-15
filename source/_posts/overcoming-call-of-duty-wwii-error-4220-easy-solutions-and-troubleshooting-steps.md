@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Call of Duty: WWII Error 4220 – Easy Solutions & Troubleshooting Steps"
-date: 2024-08-27T13:53:34.538Z
-updated: 2024-08-28T13:53:34.538Z
+date: 2024-11-08T17:35:42.904Z
+updated: 2024-11-15T17:44:15.831Z
 tags:
   - win11
   - win10
@@ -60,9 +60,6 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
  If your computer starts without one or more of the RAMs, then it could be an issue with your RAM modules. Or in some cases, it is possible that your RAM module is fine, but one or more memory slots on your motherboard are defective. You may want to try removing the modules and placing them in different slots to find if one of the slots is faulty.
@@ -70,8 +67,12 @@ RAM looks like this:
  If your computer still can’t boot properly, don’t worry. Check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 3: Reset BIOS Settings
 
  When you’re booting up your computer, BIOS instructs it on how to boot up the operating system. And improper BIOS settings can cause computer boot issues.
@@ -89,11 +90,22 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4: Restore your System to the Previous State
 
@@ -111,16 +123,17 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Follow the on-screen instructions to finish the restore.
 
  If you don’t have a restore point in System Restore, move on and try the next fix below.
@@ -150,6 +163,13 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -159,20 +179,21 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 6: Perform a Fresh Install
 
  If none of the solutions works for you, you may have to[**do a clean reinstallation of Windows 10**](https://tools.techidaily.com/drivereasy/download/) . Note that this will wipe all files and data that you’ve stored on the computer.
@@ -185,8 +206,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +213,22 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-decoding-the-art-of-capturing-live-streaming-windowsmaciosandroid/"><u>[New] Decoding the Art of Capturing Live Streaming - Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-engaging-audiences-seamlessly-zoom-plus-youtube-and-fb-live-integration/"><u>[New] In 2024, Engaging Audiences Seamlessly ZOOM + YouTube & FB LIVE Integration</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-vr-tools-for-drones/"><u>[Updated] Cutting-Edge VR Tools for Drones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-perfect-your-macs-microphone-usage-with-this-guide-to-audacity-for-2024/"><u>[Updated] Perfect Your Mac's Microphone Usage with This Guide to Audacity for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-dynamic-duo-photography-and-musical-composition/"><u>2024 Approved Dynamic Duo Photography & Musical Composition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-understanding-and-optimizing-your-social-media-videos-on-fb/"><u>2024 Approved Understanding & Optimizing Your Social Media Videos on FB</u></a></li>
+<li><a href="https://common-error.techidaily.com/amd-hd-audio-fix-problem-with-device-connection-resolved/"><u>AMD HD Audio Fix: Problem with Device Connection Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-11s-persistent-troubleshooting-loop-with-easy-fixes/"><u>Overcome Windows 11'S Persistent Troubleshooting Loop with Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-why-teredo-pe-is-not-connecting-solutions-and-fixes/"><u>Resolved: Why Teredo PE Is Not Connecting - Solutions and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-problem-why-is-my-laptops-webcam-not-working-and-how-to-fix-it/"><u>Solve the Problem: Why Is My Laptop's Webcam Not Working and How to Fix It?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stabilized-gimbal-selection-iphoneandroiddslr-experts-choice-1-10/"><u>Stabilized Gimbal Selection IPhone/Android/DSLR Experts Choice #1-#10</u></a></li>
+<li><a href="https://common-error.techidaily.com/systemprofile-desktop-access-denied-solutions-for-the-common-error/"><u>SystemProfile Desktop Access Denied: Solutions for the Common Error</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tips-for-a-pristine-image-canvas-background-technique/"><u>Tips for a Pristine Image Canva's Background Technique</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-repair-the-nonfunctioning-windows-11-start-menu/"><u>Troubleshooting Guide: How to Repair the Nonfunctioning Windows 11 Start Menu</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unresolved-error-fix-guide-when-headphones-arent-detected-by-windows-10-media-devices/"><u>Unresolved Error: Fix Guide When Headphones Aren't Detected by Windows 10 Media Devices</u></a></li>
+</ul></div>
 

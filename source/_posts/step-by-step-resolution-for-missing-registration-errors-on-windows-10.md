@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Resolution for Missing Registration Errors on Windows 지급 10
-date: 2024-10-31T19:41:26.640Z
-updated: 2024-11-04T17:53:13.546Z
+date: 2024-11-13T18:24:05.761Z
+updated: 2024-11-15T16:05:06.314Z
 tags:
   - win11
   - win10
@@ -97,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -105,18 +112,18 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
@@ -125,16 +132,16 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -144,16 +151,16 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -162,10 +169,10 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -175,13 +182,6 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -238,22 +238,22 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-frame-rate-selection-made-simple-pros-and-cons-of-30fps-and-60hz-for-2024/"><u>[New] Frame Rate Selection Made Simple Pros and Cons of 30Fps and 60Hz for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-reviving-the-reluctant-connection-of-your-obs-capture-device/"><u>[New] In 2024, Reviving the Reluctant Connection of Your OBS Capture Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-selecting-the-ultimate-business-vault/"><u>[New] Selecting the Ultimate Business Vault</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-drone-racing-mastery-basic-knowledge-and-quintessential-fpv-models/"><u>[Updated] 2024 Approved Drone Racing Mastery Basic Knowledge & Quintessential FPV Models</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-productivity-playlist-podcast-inspired-tasks/"><u>[Updated] In 2024, The Ultimate Productivity Playlist Podcast-Inspired Tasks</u></a></li>
-<li><a href="https://common-error.techidaily.com/cure-for-the-invisible-mouse-icon-on-windows-10-step-by-step-solution/"><u>Cure for the Invisible Mouse Icon on Windows 10: Step-by-Step Solution</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-realme-c53-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Realme C53.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-x-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone X i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-analysis-of-teredo-networking-issues-affecting-compliance/"><u>In-Depth Analysis of Teredo Networking Issues Affecting Compliance</u></a></li>
-<li><a href="https://common-error.techidaily.com/managing-sudden-windows-system-stops-on-overheated-cpus/"><u>Managing Sudden Windows System Stops on Overheated CPUs</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-to-accelerating-your-computer-by-cleaning-it-up/"><u>Quick Guide to Accelerating Your Computer by Cleaning It Up</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-to-activate-new-emojis-on-windows-11/"><u>Step-by-Step to Activate New Emojis on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-msmpengexes-excessive-cpu-drain-on-your-windows-11-pc-solutions-and-strategies/"><u>Troubleshooting MsMpEng.exe's Excessive CPU Drain on Your Windows 11 PC: Solutions and Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-repair-your-windows-10-os-using-sfc-and-dism-utilities/"><u>Ultimate Guide: Repair Your Windows 10 OS Using SFC and DISM Utilities</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deals-alert-snag-an-8tb-samsung-t5-ssd-for-up-to-36-off-at-amazon-following-prime-day-check-out-what-zdnet-has-found/"><u>Unbeatable Deals Alert! Snag an 8TB Samsung T5 SSD for Up to 36% Off at Amazon Following Prime Day - Check Out What ZDNet Has Found!</u></a></li>
-<li><a href="https://common-error.techidaily.com/upgrade-mouse-skills-boost-performance/"><u>Upgrade Mouse Skills, Boost Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-the-0x80070643-snag-effective-solutions-for-windows-upgrade-failures/"><u>Winning Against the 0X80070643 Snag: Effective Solutions for Windows Upgrade Failures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-sprinkle-new-colors-into-your-past-media-with-instagram/"><u>[New] 2024 Approved How to Sprinkle New Colors Into Your Past Media with Instagram</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-record-hulu-on-all-platforms-winmacmobile/"><u>[New] In 2024, How To Record Hulu On All Platforms - Win/Mac/Mobile</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-precision-sculpting-perfect-circles-spheres-in-minecraft-world/"><u>[Updated] 2024 Approved Precision Sculpting Perfect Circles, Spheres in Minecraft World</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inshot-free-pc-video-editing-solutions/"><u>[Updated] Inshot-Free PC Video Editing Solutions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-sleek-design-and-exceptional-features-of-oneplus-9-pro/"><u>Comprehensive Evaluation of the Sleek Design & Exceptional Features of OnePlus ^9 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895111916-do-you-really-need-a-dac-for-superior-sound-quality-find-out-here/"><u>Do You Really Need a DAC for Superior Sound Quality? Find Out Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-correcting-the-0x80070490-error-in-windows-updates/"><u>Expert Solutions for Correcting the 0X80070490 Error in Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-a-frozen-internet-explorer-window/"><u>Expert Tips for Fixing a Frozen Internet Explorer Window</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-correct-the-fatal-exception-error-0xc0000005-on-windows-operating-system/"><u>Expert Tips to Correct the Fatal Exception Error (0xC0000005) on Windows Operating System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-sas-driver-versions-for-windows-10-8-and-7-get-them-now/"><u>Latest SAS Driver Versions for Windows 10, 8 & 7 - Get Them Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/remediate-your-unresponsive-keyboard-swiftly-expert-advice-for-faster-input/"><u>Remediate Your Unresponsive Keyboard Swiftly - Expert Advice for Faster Input</u></a></li>
+<li><a href="https://common-error.techidaily.com/sidestep-valorant-glitches-enforce-restarting/"><u>Sidestep Valorant Glitches: Enforce Restarting</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-fixing-the-compatibility-issue-with-your-device-drivers-in-wow/"><u>Solution: Fixing the Compatibility Issue with Your Device Drivers in WoW</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-shift-keys-fails-to-function/"><u>Solutions for When Your Shift Keys Fails to Function</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-motorola-g24-power-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Motorola G24 Power to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723200794078-troubleshooting-tips-for-windows-10-issues-with-the-duo-approach-system-file-checker-sfc-and-deployment-image-servicing-dism/"><u>Troubleshooting Tips for Windows 10 Issues with The Duo Approach: System File Checker (SFC) and Deployment Image Servicing (DISM)</u></a></li>
 </ul></div>
 

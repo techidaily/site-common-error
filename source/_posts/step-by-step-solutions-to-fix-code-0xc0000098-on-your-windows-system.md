@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Fix Code 0Xc0000098 on Your Windows System
-date: 2024-10-28T19:26:12.736Z
-updated: 2024-11-05T08:06:37.830Z
+date: 2024-11-13T17:45:32.320Z
+updated: 2024-11-15T17:09:52.273Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Download the installation media and save it on your computer.
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 4) Select the **Create installation media (USB flash drive, DVD, or ISO file) for another PC** option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
 
@@ -97,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 **Note:** The key to access BIOS can vary from**Esc** ,**Delete** to**F2** ,**F8** ,**F12** , depending on your manufacturer and computer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
 
@@ -163,10 +177,10 @@ chkdsk C: /f /r /x
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: System File Checker
@@ -194,6 +208,19 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
 
@@ -225,37 +252,11 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type**Check for updates** in the Search box and press**Enter** .
 
 ##### 2\. Device Manager
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
@@ -283,13 +284,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note: You can do it for free if you like, but it’s partly manual.
 
  If you need assistance or have any questions, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -314,22 +308,24 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-build-your-brands-success-on-top-business-youtube-channels/"><u>[New] Build Your Brand's Success on Top Business YouTube Channels</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-make-your-own-meme-for-2024/"><u>[Updated] Make Your Own Meme for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastery-over-your-memories-fetching-facebook-status-videos-for-2024/"><u>[Updated] Mastery Over Your Memories Fetching Facebook Status Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-slow-motions-camera-edition/"><u>2024 Approved Leading Slow-Motions Camera Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-help-with-file-explorer-in-windows-11-easily/"><u>Get Help with File Explorer in Windows 11, Easily!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-advapi32dll-is-missing-or-not-found-errors/"><u>How to Fix Advapi32.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/performance-problems-gaming-disruptions-on-os/"><u>Performance Problems: Gaming Disruptions on OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/persistent-mouse-disappearance-in-windows-10-how-to-resolve-it-once-and-for-all/"><u>Persistent Mouse Disappearance in Windows 10 - How to Resolve It Once and For All</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/rectify-malfunctioning-keyboard-arrow-presses-top-recommended-fixes/"><u>Rectify Malfunctioning Keyboard Arrow Presses – Top Recommended Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-email-addressing-problems-with-key-malfunctions/"><u>Resolve Your Email Addressing Problems with @ Key Malfunctions</u></a></li>
-<li><a href="https://common-error.techidaily.com/shopping-guide-cameras-and-windows-hello/"><u>Shopping Guide: Cameras & Windows Hello</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-instructions-addressing-the-unknown-usb-device-and-port-reset-complications-in-your-windows-10-system/"><u>Step-by-Step Instructions: Addressing the 'Unknown USB Device' And Port Reset Complications in Your Windows 10 System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-downloading-and-setting-up-nvidias-3d-vision-on-your-pc/"><u>Step-by-Step: Downloading and Setting Up NVIDIA's 3D Vision on Your PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-vpn-providers-comprehensive-evaluation-by-industry-experts-insights-from-zdnet/"><u>Top-Ranking VPN Providers : Comprehensive Evaluation by Industry Experts - Insights From ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202969172-troubleshooting-windows-amo-touchscreen-issues-top-five-solutions-you-need-to-try/"><u>Troubleshooting Windows Amo-Touchscreen Issues: Top Five Solutions You Need to Try!</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-isnt-my-razer-keyboard-lighting-up-solutions-inside/"><u>Why Isn't My Razer Keyboard Lighting Up? Solutions Inside!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-contrast-and-depth-in-hdr-portraits/"><u>[New] Crafting Contrast and Depth in HDR Portraits</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-streamlining-content-delivery-on-discord-platform-for-2024/"><u>[New] Streamlining Content Delivery on Discord Platform for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-essential-tags-for-tiktok-fame-and-viral-potential/"><u>[Updated] Essential Tags for TikTok Fame and Viral Potential</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-learn-to-speed-up-videos-on-snapchat/"><u>2024 Approved Quick Learn to Speed Up Videos on Snapchat</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209575556-bluetooth-mouse-troubles-restore-functionality-for-windows-users-now/"><u>Bluetooth Mouse Troubles? Restore Functionality for Windows Users Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-windows-werfaultexe-program-failure-with-these-6-steps/"><u>Bypass Windows werFault.exe Program Failure with These 6 Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-restore-bluetooth-detection-functionality-in-windows-11/"><u>Effective Solutions to Restore Bluetooth Detection Functionality in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-a-stuck-dns-a-step-by-step-approach-with-5-proven-solutions/"><u>Fix a Stuck DNS: A Step-by-Step Approach with 5 Proven Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/from-amateur-to-expert-iphones-audio-recording-journey/"><u>From Amateur to Expert IPhone's Audio Recording Journey</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-f14-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy F14 5G Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-easy-anti-cheat-setup-problem-in-the-new-world-update/"><u>How to Overcome the Easy Anti-Cheat Setup Problem in the New World Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-from-a-missing-openal32dll-file-effective-fixes-and-tips/"><u>How to Recover From a Missing openal32.dll File - Effective Fixes & Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-overcoming-windows-update-mishap-resolving-error-code-0x80240017/"><u>Successfully Overcoming Windows Update Mishap: Resolving Error Code 0X80240017</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-wifi-signal-boosters-in-2/"><u>Top Rated WiFi Signal Boosters in 2</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-non-functional-usb-mouse-and-keyboard-on-windows-7/"><u>Troubleshooting: Resolving Non-Functional USB Mouse & Keyboard on Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-to-hdmi-transmitter-issues-resolved-how-to-get-them-up-and-running/"><u>USB to HDMI Transmitter Issues Resolved - How to Get Them Up and Running</u></a></li>
 </ul></div>
 

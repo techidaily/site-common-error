@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Reviving Your Unresponsive Mouse & Keyboard for Windows 7 Users"
-date: 2024-11-02T11:02:10.642Z
-updated: 2024-11-04T18:45:27.129Z
+date: 2024-11-13T17:23:20.118Z
+updated: 2024-11-15T16:50:50.690Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 2. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Reseat your laptop battery**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  The incorrectly installed/ corrupted keyboard driver may account for this**keypad on laptop not working** issue. So we can try reinstalling the driver and see if the keys work properly again. Here’s a quick walk-through:
@@ -40,47 +47,33 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Locate and double-click on **Keyboards** , then right-click on your keyboard and click **Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 3. Wait until the uninstall finishes and **Restart**   your computer so that your computer can auto-install the keyboard driver.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Type on your laptop keyboard again and see if it works properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -99,6 +92,14 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type on your keypad and test if the**laptop keypad not working** problem has been fixed.
 
 ---
@@ -137,14 +138,24 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-into-the-next-era-with-2023s-enhanced-samsung-k850u/"><u>[Updated] 2024 Approved Into The Next Era with 2023'S Enhanced Samsung K850U</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-angled-artistry-elevating-youtube-video-editing-skills/"><u>[Updated] In 2024, Angled Artistry Elevating YouTube Video Editing Skills</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-tecno-pova-5-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Tecno Pova 5 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-revolutionize-your-teams-productivity-with-these-tools/"><u>In 2024, Revolutionize Your Team's Productivity with These Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-browser-errors-correcting-render-fails-to-initialize-issue-effectively/"><u>Mastering Browser Errors: Correcting 'Render Fails To Initialize' Issue Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-ps4-nat-type-failures-a-detailed-step-by-step-problem-solving-guide/"><u>Overcoming PS4 NAT Type Failures: A Detailed, Step-By-Step Problem Solving Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-tech-hiccups-comprehensive-guide-on-the-driver-failure-user-settings-error-fix/"><u>Resolving Tech Hiccups: Comprehensive Guide on the 'Driver Failure - User Settings Error' Fix</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/simple-tips-for-capturing-google-voice-conversations-for-2024/"><u>Simple Tips for Capturing Google Voice Conversations for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-functionality-to-windows-11s-malfunctioning-start-menu/"><u>Troubleshooting Tips: Restoring Functionality to Windows 11'S Malfunctioning Start Menu</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-call-of-duty-ww2-error-code-4220/"><u>[FIXED] Call of Duty WW2 Error Code 4220</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-digital-dialogue-preservation-guide/"><u>[New] 2024 Approved Digital Dialogue Preservation Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-fives-finest-time-lapse-capture-apps-reviewed/"><u>[New] 2024 Approved Five's Finest Time-Lapse Capture Apps Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ideal-methods-for-streaming-and-archiving-sports-events/"><u>[New] 2024 Approved Ideal Methods for Streaming and Archiving Sports Events</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-footage-a-complete-youtube-studio-editing-course/"><u>[Updated] Transform Your Footage A Complete YouTube Studio Editing Course</u></a></li>
+<li><a href="https://common-error.techidaily.com/best-practices-to-handle-competing-demands-on-system-infrastructure/"><u>Best Practices to Handle Competing Demands on System Infrastructure</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fix-for-xerox-software-update-failure-error-id-0x800f020b-on-windows-systems/"><u>Easy Fix for Xerox Software Update Failure (Error ID 0X800F020B) on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-to-get-your-bluetooth-mouse-functional-again-on-windows-systems/"><u>Effective Fixes to Get Your Bluetooth Mouse Functional Again on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-failed-to-load-configuration-error-in-windows-11-comprehensive-guide/"><u>How to Fix 'Failed to Load Configuration' Error in Windows 11 - Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-steam-servers-not-reachable-error-and-enjoy-gaming-again/"><u>How to Fix 'Steam Servers Not Reachable' Error and Enjoy Gaming Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210744015-how-to-resolve-persistent-cursor-blink-a-detailed-tutorial/"><u>How To Resolve Persistent Cursor Blink - A Detailed Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-s24-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy S24 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unveiling-the-full-potential-complete-review-of-powerdirector-pro-suite/"><u>In 2024, Unveiling the Full Potential Complete Review of PowerDirector Pro Suite</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/lg-flat-screen-revisited-the-2023-update-deep-dive-for-2024/"><u>LG Flat-Screen Revisited The 2023 Update Deep Dive for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-the-functionality-of-your-windows-11-start-menu-expert-advice/"><u>Restoring the Functionality of Your Windows 11 Start Menu: Expert Advice</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revealing-the-strength-of-ankers-super-bright-defense-lamp-for-wilderness-adventures/"><u>Revealing the Strength of Anker's Super Bright Defense Lamp for Wilderness Adventures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamlessly-change-your-dvd-format-a-step-by-step-guide-on-converting-pal-to-ntsc-using-handbrake/"><u>Seamlessly Change Your DVD Format: A Step-by-Step Guide on Converting PAL to NTSC Using Handbrake</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microsoft-defenders-high-cpu-usage-msmpengexe-in-windows-10-easy-fixes/"><u>Troubleshooting Microsoft Defender's High CPU Usage (MsMpEng.exe) in Windows 10 - Easy Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimize Mouse Wheel for PC Gains
-date: 2024-11-01T22:05:32.413Z
-updated: 2024-11-04T18:10:17.923Z
+date: 2024-11-14T17:40:43.516Z
+updated: 2024-11-15T17:09:01.753Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ## Method 1: Disable Windows Search service
@@ -66,46 +73,34 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/computer-management.png)
 2. Expand**Services and Applications** and click**Services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/services-and-applications.jpg)
 3. Double-click**Windows Search** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/windwos-search-6101.jpg)
 4. In the**General** tab, click **Stop** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/stop-button.jpg)
 5. Wait for the service to stop, then press**OK** to save the change and exit.  
-![](https://www.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change-6104.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change-6104.jpg)
 
 ## Method 2: Check incompatible programs
 
  Some users say that this only happens when they use certain programs. Especially when they have antivirus software running in the background. The antivirus software might have some conflicts with certain programs. The next time you encounter this situation, try to pay extra attention to see if you can find the program that is messing with your system. If such a program can be located, try reinstallingit or uninstalling it completely.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Run SFC and DISM
 
@@ -116,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
  1) On your keyboard, press the**Windows** logo key and**R** at the same time. Type**cmd** and press**Ctrl+Shift+Enter** at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -128,10 +130,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3.2\. Run dism.exe
@@ -141,10 +143,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
@@ -167,13 +169,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  When these tests are done, see if the ntoskrnl.exe high CPU or disk usage problem remains. If the problem still persists, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 4: Disable Runtime Broker
 
  Normally, the runtime broker process should only use a very low CPU resource, but if things go wrong, it could take up to 100% CPU and disk usage, making your Windows run slowly and buggy. In this case, you can try to disable it to see if it helps. To do so:
@@ -184,6 +179,14 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. On your keyboard, press the **Windows** key and the **R** key together. Type **regedit** and hit **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TimeBroker`  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker.png)
 4. On the right side, double-click**Start** , and change its value to**4** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker-4.png)
@@ -206,21 +209,20 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-premier-sky-depot-for-enterprise-files-for-2024/"><u>[New] Premier Sky Depot for Enterprise Files for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-your-computer-appears-to-be-correctly-configured-but-the-device-or-resource-is-not-responding/"><u>[SOLVED] Your Computer Appears to Be Correctly Configured, but the Device or Resource Is Not Responding</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-current-meta-vr-bargain-unbeatable-price-on-the-512gb-quest-3-insider-tips/"><u>Best Current Meta VR Bargain: Unbeatable Price on the 512GB Quest 3 - Insider Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/breaking-free-from-frozen-updates-on-outdated-windows-version-expert-advice-solutions-and-step-by-step-guide-for-better-user-experience-in-the-year-of-our-l102/"><u>Breaking Free From Frozen Updates on Outdated Windows Version – Expert Advice, Solutions & Step-by-Step Guide for Better User Experience in the Year of Our Lord Two Thousand And Twenty Four (Guide, Helpful Tips and Troubleshooting Steps)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solution-for-corsair-hs60-microphone-failure-and-restoration-steps/"><u>DIY Solution for Corsair HS60 Microphone Failure and Restoration Steps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725288807167-dvd/"><u>DVD再生中の動画と音声の同期誤差を修正する対策</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-undetectable-bluetooth-devices-in-windows-11-setup/"><u>Effective Solutions for Undetectable Bluetooth Devices in Windows 11 Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-unsticking-a-frozen-google-chrome-browser/"><u>Expert Tips for Unsticking a Frozen Google Chrome Browser</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-red-dead-redemption-2-memory-crash-increase-pagefile-guide/"><u>Fix Red Dead Redemption 2 Memory Crash - Increase Pagefile Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/full-reset-guide-how-to-thoroughly-clear-your-iphone-data-using-windowsmac/"><u>Full Reset Guide: How to Thoroughly Clear Your iPhone Data Using Windows/Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-destiny-2-servers-not-available-issues/"><u>How to Fix Destiny 2 Servers Not Available Issues</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-insta-followers-footprints-trail-blazing-techniques/"><u>In 2024, Insta Followers Footprints Trail-Blazing Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-journeying-together-on-the-big-screen-top-10-family-movies/"><u>In 2024, Journeying Together on the Big Screen Top 10 Family Movies</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-update-windows-11-despite-error-0xc1900208-guide/"><u>Successfully Update Windows 11 Despite Error 0Xc1900208 [GUIDE]</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-editing-made-easy-shortening-video-lengths-for-2024/"><u>YouTube Editing Made Easy Shortening Video Lengths for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-gaining-clarity-on-your-youtube-audiences-behavior-for-2024/"><u>[Updated] Gaining Clarity on Your YouTube Audience's Behavior for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-written-by-john-smith-phd/"><u>2024 Approved Step-By Written by John Smith, PhD</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-troubleshooting-techniques-for-hub-port-voltage-overloads/"><u>Effective Troubleshooting Techniques for Hub Port Voltage Overloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-error-0x80070426-on-windows-10/"><u>Fix Error 0X80070426 on Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratuitous-sound-solutions-years-best-lut-downloads/"><u>Gratuitous Sound Solutions - Year's Best LUT Downloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-openal32dll-missing-error/"><u>How to Fix OpenAL32.dll Missing Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-optimize-windows-11-for-gaming/"><u>How to Optimize Windows 11 for Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-boot-delays-solutions-for-persistent-windows-11-freezes/"><u>Overcoming Boot Delays: Solutions for Persistent Windows 11 Freezes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-bluetooth-not-found-error-on-windows-10-with-simple-fixes/"><u>Resolve the 'Bluetooth Not Found' Error on Windows 10 with Simple Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unregistered-class-issues-in-windows-11-a-comprehensive-guide/"><u>Resolving Unregistered Class Issues in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/toutes-les-etapes-pour-transformer-votre-image-ou-video-en-jpeg-a-laide-de-movavi-convertisseur/"><u>Toutes Les Étapes Pour Transformer Votre Image Ou Vidéo en JPEG À L'aide De Movavi Convertisseur</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/transforming-e-book-creation-will-your-innovations-lead-us-to-a-new-era-in-online-reading-through-flipbuildercom/"><u>Transforming E-Book Creation – Will Your Innovations Lead Us to a New Era in Online Reading Through FlipBuilder.com?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-accidental-letter-inputs-on-computer-keys/"><u>Troubleshooting Accidental Letter Inputs on Computer Keys</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-issues-when-is-blizzards-battlenet-unavailable/"><u>Troubleshooting Issues: When Is Blizzard's Battle.net Unavailable?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/al-vanguard-over-a-hundred-games-galore-for-2024/"><u>Virtual Vanguard Over a Hundred Games Galore for 2024</u></a></li>
 </ul></div>
 

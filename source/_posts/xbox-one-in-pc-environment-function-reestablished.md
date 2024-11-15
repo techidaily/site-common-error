@@ -1,7 +1,7 @@
 ---
 title: "Xbox One in PC Environment: Function Reestablished"
-date: 2024-10-29T23:00:14.729Z
-updated: 2024-11-05T03:26:19.288Z
+date: 2024-11-11T16:04:50.566Z
+updated: 2024-11-15T16:46:09.510Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
@@ -66,26 +59,27 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -98,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
@@ -106,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -125,19 +119,19 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -160,6 +154,20 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
@@ -184,20 +192,15 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-the-art-of-asmr-filmmaking-techniques/"><u>[New] In 2024, Decoding the Art of ASMR Filmmaking Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-slow-motion-journey-for-aspiring-ig-video-makers-for-2024/"><u>[New] The Slow-Motion Journey for Aspiring IG Video Makers for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/download-movavi-official-app-pro-video-editor-with-advanced-features-online/"><u>Download Movavi Official App: Pro Video Editor with Advanced Features Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-guide-how-to-successfully-resolve-loadlibrary-failure-with-error-code-87/"><u>Fix Guide: How To Successfully Resolve 'LoadLibrary Failure with Error Code 87'</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-it-common-issues-and-fixes-for-non-working-arrow-key-functionality/"><u>Fixed It! Common Issues and Fixes for Non-Working Arrow Key Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-freezing-issues-during-system-start-up/"><u>Fixing Windows 11 Freezing Issues During System Start-Up</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-c67-4g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme C67 4G</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unmarked-eyes-facebook-story-viewer/"><u>In 2024, Unmarked Eyes Facebook Story Viewer</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-common-problems-with-device-casting-on-windows-10-and-how-to-fix-them/"><u>Resolved: Common Problems with Device Casting on Windows 10 and How to Fix Them</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-laptop-black-or-white-screen-problems-step-by-step-fix-guide/"><u>Resolving Laptop Black or White Screen Problems: Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-a-non-existent-touchpad-icon/"><u>Solutions for a Non-Existent Touchpad Icon?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-essential-guide-to-top-11-free-updater-utilities-for-effortless-app-maintenance/"><u>The Essential Guide to Top 11 Free Updater Utilities for Effortless App Maintenance</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-the-missing-d3dx939dll-file-problem/"><u>The Ultimate Fix for the Missing d3dx9_39.dll File Problem</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/tips-and-tricks-for-professional-logitech-webcam-recordings-for-2024/"><u>Tips & Tricks for Professional Logitech Webcam Recordings for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-a70-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Itel A70 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-expert-level-workshop-programming-timer-functions-for-obs-productions/"><u>[New] 2024 Approved Expert-Level Workshop Programming Timer Functions for OBS Productions</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/ensuring-successful-system-tasks-with-admin-access-in-windows-11-10-and-nversions/"><u>Ensuring Successful System Tasks with Admin Access in Windows 11, 10 & Nversions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-panasonic-g435-earbuds-when-theyre-muted/"><u>How to Restore Audio on Your Panasonic G435 Earbuds When They're Muted</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme GT Neo 5</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-free-avi-video-rotators-for-windows-mac-android-and-iphone-users-for-2024/"><u>New Best Free AVI Video Rotators for Windows, MAC, Android, and iPhone Users for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-biggest-risk-for-stock-markets-now-is-that-central-banks-are-forced-to-tighten-policy-sooner-than-expected-which-could-spark-higher-borrowing-costs-and-45/"><u>The Biggest Risk for Stock Markets Now Is that Central Banks Are Forced to Tighten Policy Sooner than Expected, Which Could Spark Higher Borrowing Costs and Make Equities Less Attractive.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-evaluation-of-samsungs-image-editing-software/"><u>The Ultimate Evaluation of Samsung's Image Editing Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-non-functional-brightness-in-windows-11/"><u>Troubleshooting and Solving Non-Functional Brightness in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-and-intel-storage-solutions-getting-rst-services-up-and-running-again/"><u>Windows 11 and Intel Storage Solutions: Getting RST Services Up & Running Again</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Initialization Issues in Destiny 2 for Smooth Gameplay
-date: 2024-08-27T13:53:39.837Z
-updated: 2024-08-28T13:53:39.837Z
+date: 2024-11-12T17:06:14.651Z
+updated: 2024-11-15T18:00:00.390Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/2e909ca12d5d0ef3819e924e4b2acc53554680366
 * [Solution 4: Kill all NVIDIA processes and delete related Files](#h-solution-4-kill-all-nvidia-processes-and-delete-related-files)
 * [Solution 5: Try a clean installation with DDU](#h-solution-5-try-a-clean-installation-with-ddu)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Some quick fixes
 
  If the driver software installation fails, try to reboot your computer and try the driver installation again. If that falls short, try explicitly uninstalling the previous version (if any), rebooting, and then reinstalling. If it fails again, make sure that you select “**Custom** ” and check “**Perform a clean installation** ” during the driver installation.
@@ -35,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/2e909ca12d5d0ef3819e924e4b2acc53554680366
 ![](https://www.drivereasy.com/wp-content/uploads/2016/01/nvidia-custom-install.png)
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/01/nvidian-clean-installation.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 1: Update the Nvidia Driver Automatically
 
@@ -52,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/2e909ca12d5d0ef3819e924e4b2acc53554680366
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 2: Uninstall the NVIDIA app if you have it
 
@@ -65,15 +76,14 @@ thumbnail: https://thmb.techidaily.com/2e909ca12d5d0ef3819e924e4b2acc53554680366
 ![](https://www.drivereasy.com/wp-content/uploads/2016/01/uninstall-nvidia-app.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 If this still doesn’t help, please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Solution 3: Temporarily turn off any antivirus software or firewall
 
  Some antivirus software would block certain files, which prevents you from successfully completing your installation. For example many “Comodo” antivirus users have reported that it causes NVIDIA driver updates to fail. So if you’re running antivirus software or a firewall, your might need to turn them off during your installation. You’ll also need to make sure all their processes are turned off. You can check and kill all processes via your Task Manager.
@@ -92,23 +102,30 @@ To disable Windows firewall:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then Type or paste**control firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-box-firewall.jpg)
 2. From the left menu, select**Turn Windows Defender Firewall on or off** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-firewall-2.jpg)
-3. Select**Turn off Windows Defender Firewall (not recommended)** for Domain network, Private Network and Public network. Then click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-firewall-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-firewall-2.jpg)
+3. Select**Turn off Windows Defender Firewall (not recommended)** for Domain network, Private Network and Public network. Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-firewall-3.jpg)
+
  After that, try installing the NVIDIA driver again. Make sure you select “**Custom** ” and check the box for “**perform clean installation** ” while installing the driver still.
 
  If the NVIDIA Installer failed error remains, please enable your antivirus program and Windows firewall, then move on to the next step below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 4: Kill all NVIDIA processes and delete related Files
 
 This is to make sure that your system state is fully reset:
@@ -122,9 +139,6 @@ This is to make sure that your system state is fully reset:
    * C:\\Program Files (x86)\\NVIDIA Corporation\\
 3. Reboot the system, then install the driver again.Make sure you select **Custom** and check **Perform a clean installation** as you install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 5: Try a clean installation with DDU
 
  Another very common reason for NVIDIA Installer failed error is an outdated or faulty graphics card driver files in your computer. In this case, it’s recommended that you do a clean reinstallation of the Nvidia display card driver. To do so, DDU (Display Driver Uninstaller) is usually recommended, as it can do a pretty good job removing all the older or faulty display driver files on your computer.
@@ -135,14 +149,27 @@ To do a clean reinstallation of the display card driver with DDU:
 2. Download DDU from the[**official download page**](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) . Then unzip the folder, and double-click the**DDU** file to further extract the execution file.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-3.png)
 3. Boot your computer into Safe Mode as instructed here:[**Start Safe Mode using the System Configuration tool**](https://tools.techidaily.com/drivereasy/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. When in Safe Mode, go to the folder where you unzip the DDU execution file. Double-click to run**Display Driver Uninstaller** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-2.png)
 5. Select **GPU** and **your GPU manufacturer** on the right side. Then click **Clean and restart** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-1.png)
 6. Your computer should restart when the old driver files for your graphics card are cleaned.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Double-click the setup file for the display card driver you’ve downloaded from step 1 to run the driver installation.
 8. Restart your computer afterward.
 
@@ -160,8 +187,6 @@ To do a clean reinstallation of the display card driver with DDU:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +194,17 @@ To do a clean reinstallation of the display card driver with DDU:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-steam-recordings-with-team-fortress-2s-latest-update/"><u>[New] Easy Steam Recordings with Team Fortress 2'S Latest Update</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora/"><u>[New] In 2024, How to Make Your YouTube Animated Subscribe Button Easily With Filmora</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-identify-10-shadowy-instagram-story-observers/"><u>[Updated] In 2024, Identify 10 Shadowy Instagram Story Observers</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-windows-driver-efficiency-lowering-high-cpu-impact/"><u>Enhancing Windows Driver Efficiency: Lowering High CPU Impact</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-non-responsive-arrow-keys-on-your-keyboard-expert-solutions/"><u>Fixing Non-Responsive Arrow Keys on Your Keyboard - Expert Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-non-syncing-gmail-expert-advice/"><u>How To Fix Non-Syncing Gmail: Expert Advice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-gt-5-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme GT 5 Phone that is Locked?</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-airdrop-in-no-time-effective-fixes-for-common-connectivity-errors/"><u>Revive AirDrop in No Time: Effective Fixes for Common Connectivity Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165156100-step-up-your-arcade-game-with-massive-fronts/"><u>Step Up Your Arcade Game with Massive Fronts!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-the-complete-fix-for-the-notorious-windows-update-error-0x8024002e/"><u>Troubleshoot & Repair: The Complete Fix for the Notorious Windows Update Error 0X8024002E</u></a></li>
+</ul></div>
 

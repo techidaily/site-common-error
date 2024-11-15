@@ -1,7 +1,7 @@
 ---
 title: Overcome Windows 11'S Persistent Troubleshooting Loop with Easy Fixes
-date: 2024-10-28T21:25:03.567Z
-updated: 2024-11-04T18:33:39.521Z
+date: 2024-11-09T16:57:20.881Z
+updated: 2024-11-15T17:42:14.324Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 2: Update the graphics card driver
 
  The computer keeps going to sleep issue can be caused by the faulty or outdated graphics card driver, especially if you have a high-end graphics card installed. To fix the problem, you can try to update the graphics card driver.
@@ -77,20 +70,13 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Disable the screen saver
@@ -105,10 +91,25 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 2. Type**lock screen settings** in the search bar and select**Lock screen settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For Windows 7:**
 
@@ -140,16 +141,24 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Exit the Registry Editor.
@@ -165,23 +174,16 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 4. Click on**Change advanced power settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
 
@@ -206,24 +208,22 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-efficiently-shortening-youtube-content/"><u>[Updated] In 2024, Efficiently Shortening YouTube Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-netizen-chucklers-aid/"><u>[Updated] In 2024, Netizen Chuckler's Aid</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-why-instagram-story-highlights-matter-a-primer/"><u>[Updated] Why Instagram Story Highlights Matter A Primer</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apple-mac-mini-m1-2020-review/"><u>Apple Mac Mini (M1, 2020) Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-error-code-80240020-a-troubleshooters-guide-to-successfully-installing-windows-10/"><u>Bypassing Error Code 80240020: A Troubleshooter's Guide to Successfully Installing Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-restoring-corrupted-data-on-your-windows-11-pc/"><u>Comprehensive Solutions for Restoring Corrupted Data on Your Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/cracking-down-on-distorted-sounds-fix-your-windows-107-speaker-problems/"><u>Cracking Down on Distorted Sounds: Fix Your Windows 10/7 Speaker Problems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-hp-deskjet-ink-advantage-2652-driver-compatible-with-windows-11-10-8-and-7/"><u>Download the Latest HP Deskjet Ink Advantage 2652 Driver Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/emotional-intelligence-bots-safe-counseling-guidelines/"><u>Emotional Intelligence Bots: Safe Counseling Guidelines</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-prevent-and-solve-oddworld-soulstorm-freezing-on-desktop-pc/"><u>Expert Tips to Prevent and Solve Oddworld: Soulstorm Freezing on Desktop PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-unexpected-shutdowns-with-error-code-167-in-windows-systems/"><u>How to Resolve Unexpected Shutdowns with Error Code 1#67 in Windows Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-f34-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy F34 5G Phone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic-vs-2-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-the-bluetooth-not-detected-on-windows-11-fast-fix-guide/"><u>Resolve the Bluetooth Not Detected on Windows 11 - Fast Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-windows-sign-in-issues-fixing-user-profile-service-failures/"><u>Resolve Your Windows Sign-In Issues: Fixing User Profile Service Failures</u></a></li>
-<li><a href="https://win-net.techidaily.com/resolving-gaming-glitches-in-windows-11-top-6-strategies-explained/"><u>Resolving Gaming Glitches in Windows 11: Top 6 Strategies Explained</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-csgo-issues-fast-fixes-for-no-more-game-crashes/"><u>Troubleshoot CSGO Issues - Fast Fixes for No More Game Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-when-file-explorer-wont-respond-in-windows-10/"><u>Troubleshooting Guide: When File Explorer Won't Respond in Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-boring-to-buzzing-three-tactics-for-youtube-reaction-mastery-for-2024/"><u>[New] From Boring to Buzzing Three Tactics for YouTube Reaction Mastery for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-screen-only-silence-a6400-dilemma/"><u>2024 Approved No Screen, Only Silence A6400 Dilemma</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assistants-showdown-why-pick-myai-over-chatgpt/"><u>AI Assistants Showdown: Why Pick MyAI Over ChatGPT?</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-and-repairing-the-persistent-ce-34878-0-code-issue-on-sony-playstation-4/"><u>Bypassing and Repairing the Persistent CE-34878-0 Code Issue on Sony PlayStation 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-your-worries-6-powerful-remedies-for-werfaultexe-issues-on-windows/"><u>Eliminate Your Worries: 6 Powerful Remedies for werFault.exe Issues on Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhance-info-blocks-templates-for-youtube-titles-for-2024/"><u>Enhance Info Blocks Templates for YouTube Titles for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/explorerexe-stabilized-on-win-oses/"><u>Explorer.exe Stabilized on Win OSes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-back-those-missing-windows-on-your-desktop-screen/"><u>How To Get Back Those Missing Windows On Your Desktop Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy A05 Phone with Broken Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-pop-7-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Pop 7 Prowith/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f54-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F54 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-laptops-mouse-wont-respond-a-comprehensive-fix/"><u>Solutions for When Your Laptop's Mouse Won’t Respond: A Comprehensive Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-fixing-windows-update-failed-with-code-0x80070643/"><u>Step-by-Step Solutions for Fixing 'Windows Update Failed' With Code 0X80070643</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-windows-11-start-menu-issues-get-back-on-track-today/"><u>Ultimate Fixes for Windows 11 Start Menu Issues – Get Back on Track Today!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-effortless-video-trimming-on-mac-the-ultimate-guide-for-2024/"><u>Updated Effortless Video Trimming on Mac The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-stubborn-file-explorer-hitches-on-windows-10-effective-strategies-and-solutions/"><u>Winning the Battle Against Stubborn File Explorer Hitches on Windows 10: Effective Strategies and Solutions</u></a></li>
 </ul></div>
 

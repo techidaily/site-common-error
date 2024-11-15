@@ -1,7 +1,7 @@
 ---
 title: "Guide: Restoring Audio Output in a Malfunctioning Windows System"
-date: 2024-11-03T11:59:13.484Z
-updated: 2024-11-04T20:03:06.834Z
+date: 2024-11-11T17:02:42.482Z
+updated: 2024-11-15T16:41:23.625Z
 tags:
   - win11
   - win10
@@ -62,22 +62,21 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -90,10 +89,10 @@ Follow these:
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
@@ -101,16 +100,10 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
@@ -137,6 +130,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -156,18 +156,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-virtual-jogging-meets-reality-treadmill-evaluations/"><u>[Updated] 2024 Approved Virtual Jogging Meets Reality Treadmill Evaluations</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-securely-capture-web-series-every-time-you-watch/"><u>[Updated] In 2024, How to Securely Capture Web Series Every Time You Watch</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-miniscreen-tape-snapshot-assessment-and-substitutes/"><u>[Updated] In 2024, MiniScreen Tape Snapshot Assessment & Substitutes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-recmaster-screen-recorder-review/"><u>[Updated] In 2024, Recmaster Screen Recorder Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/backspace-failure-diagnosing-the-problems-and-correcting-them-effectively/"><u>Backspace Failure: Diagnosing the Problems and Correcting Them Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-enhancing-non-working-windows-batch-files/"><u>Deciphering and Enhancing Non-Working Windows Batch Files</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-play-8t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Play 8T Location Settings | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-clearer-zoomed-snapshots-on-snapchat/"><u>In 2024, Expert Tips for Clearer Zoomed Snapshots on Snapchat</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-lenovo-keyboard-malfunction-issues-and-resolutions/"><u>Solved! Lenovo Keyboard Malfunction Issues and Resolutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-semaphore-timeout-expiration-error-code-0x80070079/"><u>Troubleshooting Guide: Dealing with Semaphore Timeout Expiration (Error Code 0X80070079)</u></a></li>
-<li><a href="https://common-error.techidaily.com/user-friendly-steps-to-fix-the-notorious-http-503-service-interruption-issue/"><u>User-Friendly Steps to Fix the Notorious HTTP 503 Service Interruption Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209305785-windows-10-blurry-text-heres-how-to-fix-it/"><u>Windows 10 Blurry Text? Here's How to Fix It</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-review-the-ultimate-nomad-case-for-your-apple-iphone-13-superior-drop-proof-design-with-stunning-appeal/"><u>Zdnet Review: The Ultimate Nomad Case For Your Apple iPhone 13 - Superior Drop-Proof Design with Stunning Appeal!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-prevent-gaps-in-live-obs-broadcasting/"><u>[New] In 2024, How To Prevent Gaps In Live OBS Broadcasting</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-10-game-changing-ways-for-designing-cover-art/"><u>[Updated] 10 Game-Changing Ways for Designing Cover Art</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-journey-to-optimal-health-the-top-10-online-yoga-masters-for-2024/"><u>[Updated] Journey to Optimal Health - The Top 10 Online Yoga Masters for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-bio-essentials-the-ultimate-guide-to-crafting-impactful-social-media-profiles/"><u>2024 Approved Bio Essentials The Ultimate Guide to Crafting Impactful Social Media Profiles</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-a56s-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-edge-40-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Edge 40 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-elevated-disk-activity-from-compatibility-telemetry-on-windows-11/"><u>How to Fix Elevated Disk Activity From Compatibility Telemetry on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-apply-recent-windows-1asterns-10-version-1803-features-fixed/"><u>How to Successfully Apply Recent Windows 1Asterns 10 Version 1803 Features [FIXED]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown/"><u>In 2024, Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/itel-a60s-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Itel A60s ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-steam-service-disruptions-a-guide-to-restoring-access/"><u>Overcoming Steam Service Disruptions: A Guide to Restoring Access</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-persistent-0x80240017-issue-with-windows-updates-a-step-by-step-guide/"><u>Resolving the Persistent 0X80240017 Issue with Windows Updates - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-correcting-logon-failures-in-group-policy-clients-solved/"><u>Troubleshooting Steps for Correcting Logon Failures in Group Policy Clients [SOLVED]</u></a></li>
 </ul></div>
 

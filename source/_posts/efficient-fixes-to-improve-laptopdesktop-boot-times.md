@@ -1,7 +1,7 @@
 ---
 title: Efficient Fixes to Improve Laptop/Desktop Boot Times
-date: 2024-11-02T11:41:42.126Z
-updated: 2024-11-05T09:36:08.232Z
+date: 2024-11-11T16:07:17.408Z
+updated: 2024-11-15T17:59:30.538Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 4. **[Change the power option](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for hardware issues](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Enter Safe Mode with Networking
 
  1) Make sure your computer is **off** .
@@ -46,43 +53,30 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Wait for Windows to finish diagnosing your PC, and click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click **Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Click **Startup settings** .
@@ -102,10 +96,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable auto-restart
@@ -115,26 +109,26 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612ab2f0c2c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Settings…** under the **Startup and Recovery** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612b02ca5c0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check**the box** before **Write an event to the system log** and uncheck**the box** before**Automatically restart** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612bede01ba.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Now check if your**computer keeps restarting** problem has been resolved. If yes, then great! But if it still restarts for no reason, please move on to**Fix 3** , below.
 
@@ -158,13 +152,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update**   to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and hopefully the annoying auto-restart problem has gone by now. If the problem still persists, please move on to**Fix 4** , below.
@@ -182,15 +169,22 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Double-click on **Processor power management** \> **Minimum processor state** . Type**5** in**Setting (%)** . Then click**Apply** \>**OK** .
 
@@ -235,16 +229,20 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-complete-beginners-roadmap-for-audacity-audio-capture/"><u>[Updated] In 2024, The Complete Beginner's Roadmap for Audacity Audio Capture</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-your-hdmi-experience-with-updated-usb-to-hdmi-drivers-get-yours-here/"><u>Enhance Your HDMI Experience with Updated USB-to-HDMI Drivers - Get Yours Here</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/facile-et-gratuit-convertissez-des-fichiers-jpeg-en-images-gifs-animees-en-ligne-via-movavi/"><u>Facile Et Gratuit : Convertissez Des Fichiers JPEG en Images Gifs Animées en Ligne via Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-fix-intermittent-screen-freezes-in-windows-os/"><u>How to Diagnose and Fix Intermittent Screen Freezes in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-turn-off-windows-update-interruptions/"><u>How to Turn Off Windows Update Interruptions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-the-art-of-video-discovery-on-facebook/"><u>In 2024, Mastering the Art of Video Discovery on Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-stream-your-podcast-with-one-move-only/"><u>In 2024, Stream Your Podcast with One Move Only</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-hp-laptops-webcam-issue-on-windows-11-a-step-by-step-guide/"><u>Solving Your HP Laptop's Webcam Issue on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tomtom-gopro-alternative-a-2023-review/"><u>TomTom GoPro Alternative A 2023 Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-sound-problems-on-your-pc-fixing-no-audio-output-device-installed-error-in-windows/"><u>Troubleshoot Sound Problems on Your PC: Fixing 'No Audio Output Device Installed' Error in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-when-microsofts-wireless-display-stick-fails-to-link-up-with-windows-10-systems/"><u>Troubleshooting Guide: When Microsoft's Wireless Display Stick Fails to Link Up With Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-devices-fail-to-sync-on-windows-11/"><u>Effective Fixes for When Your Devices Fail to Sync on Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/effortless-video-trimming-on-mac-the-ultimate-guide-for-2024/"><u>Effortless Video Trimming on Mac The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhanced-local-safeguards-activated-for-improved-security-measures/"><u>Enhanced Local Safeguards Activated for Improved Security Measures</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-movement-in-frozen-mouse-buttons-and-scroll-wheel/"><u>Expert Tips to Restore Movement in Frozen Mouse Buttons and Scroll Wheel</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/watcher-to-writer-how-to-set-up-a-sports-channel-on-macos/"><u>From Watcher to Writer How to Set Up a Sports Channel on macOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-class-not-registered-errors-on-windows-11-solved/"><u>How to Fix 'Class Not Registered' Errors on Windows 11 – Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-hp-wireless-keyboard-malfunctions-quickly-and-easily/"><u>How to Resolve HP Wireless Keyboard Malfunctions Quickly and Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-g42-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Nokia G42 5G Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-content-sharing-between-pc-and-iphone/"><u>In 2024, Streamlining Content Sharing Between PC and iPhone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/perfecting-pc-soundscape-how-to-quickly-and-safely-get-the-new-microsoft-audio-drivers-for-windows-systems/"><u>Perfecting PC Soundscape – How to Quickly and Safely Get the New Microsoft Audio Drivers for Windows Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/razer-blade-stealth-13-assessment-unprecedented-advancements-in-portable-powerhouse-tech/"><u>Razer Blade Stealth 13 Assessment: Unprecedented Advancements in Portable Powerhouse Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-media-format-rejection-by-vlc/"><u>Remedying Windows Media Format Rejection by VLC</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209954364-solving-your-logitech-keyboard-malfunction-in-minutes/"><u>Solving Your Logitech Keyboard Malfunction in Minutes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-play-8t-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor Play 8T Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205992205-troubleshooting-guide-for-non-working-mic-on-steelseries-arctis-5-a-step-by-step-solution/"><u>Troubleshooting Guide for Non-Working Mic on SteelSeries Arctis 5: A Step-by-Step Solution!</u></a></li>
 </ul></div>
 

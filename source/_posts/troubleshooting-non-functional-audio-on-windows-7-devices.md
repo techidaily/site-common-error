@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Functional Audio on Windows 7 Devices
-date: 2024-08-27T13:53:49.231Z
-updated: 2024-08-28T13:53:49.231Z
+date: 2024-11-14T17:06:01.468Z
+updated: 2024-11-15T16:00:14.276Z
 tags:
   - win11
   - win10
@@ -57,23 +57,34 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
@@ -83,11 +94,12 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## **Method 4: Check your USB device drivers**
 
  Your USB ports not working problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -108,12 +120,16 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## **Method 5: Check your USB ports**
 
  If none of the above methods resolve your problem, your USB ports might be damaged. To find out, you can take your PC to a repair store and ask them to check. If your USB ports are damaged, the repairer should be able to replace them fairly inexpensively.
@@ -126,8 +142,6 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +149,22 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-overcoming-handheld-vibration-secure-your-gopro-movies/"><u>[Updated] 2024 Approved Overcoming Handheld Vibration Secure Your GoPro Movies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-quick-zoomers-guide-to-clearer-instagram-narratives/"><u>[Updated] 2024 Approved The Quick-Zoomer's Guide to Clearer Instagram Narratives</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-a-guide-to-writing-successful-vlogging-scripts/"><u>[Updated] A Guide to Writing Successful Vlogging Scripts</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-minecraft-crashes-on-pc-tackling-the-root-cause-of-faulty-graphics-drivers/"><u>Banish Minecraft Crashes on PC: Tackling the Root Cause of Faulty Graphics Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-high-iastordatasvc-cpu-and-memory-usage-in-32-bit-windows-10-problem-solved/"><u>Beat High IAStorDataSvc CPU and Memory Usage in 32-Bit Windows 10 - Problem Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-the-troublesome-error-code-0x80070652-in-windows-update-system/"><u>Comprehensive Fix for the Troublesome Error Code 0X80070652 in Windows Update System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-8-apps-for-seamless-travel-arrangements/"><u>Discover the Ultimate 8 Apps for Seamless Travel Arrangements</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/engaging-article-leader/"><u>Engaging Article Leader</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/htenment-in-education-top-10-history-youtube-channels-for-2024/"><u>Enlightenment in Education Top 10 History YouTube Channels for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-for-managing-and-fixing-high-graphics-card-use-by-the-desktop-window-manager-on-windows-1011/"><u>Essential Tips for Managing and Fixing High Graphics Card Use by the Desktop Window Manager on Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-dark-to-light-wows-3d-rendering-revolution/"><u>From Dark to Light: WoW's 3D Rendering Revolution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-magic-vs-2-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor Magic Vs 2 Unlock Without Password</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-reviving-your-unresponsive-mouse-and-keyboard-for-windows-7-users/"><u>Solution Guide: Reviving Your Unresponsive Mouse & Keyboard for Windows 7 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-data-management-how-gpt-boosts-productivity-in-google-sheets-and-docs/"><u>Transform Your Data Management: How GPT Boosts Productivity in Google Sheets and Docs</u></a></li>
+</ul></div>
 

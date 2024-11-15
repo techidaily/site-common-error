@@ -1,7 +1,7 @@
 ---
 title: What to Do When Your PC Runs on Windows 11 & Stalls? Comprehensive Fix Guide
-date: 2024-10-28T18:15:07.643Z
-updated: 2024-11-05T03:52:00.861Z
+date: 2024-11-11T17:26:36.119Z
+updated: 2024-11-15T18:00:52.243Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Close unnecessary programs
 
  The first fix you can try is to close the programs running in the background. When you have many apps running at the same time, they may interfere with each other and cause random system bugs. For example, some users reported that they were able to fix the copy-and-paste feature after they turned off or restarted their video players or graphics design software.
@@ -56,14 +49,14 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this fix didn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Repair corrupted system files
 
@@ -77,15 +70,31 @@ If this fix didn’t help, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
@@ -96,14 +105,14 @@ If this fix didn’t help, try the next fix.
 2. Click**Clear all** to delete the clipboard history.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-09-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this fix didn’t help, try the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Restart the Windows Explorer process
 
@@ -114,10 +123,10 @@ If this fix didn’t help, try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your problem persists, try the next fix.
@@ -141,13 +150,6 @@ If your problem persists, try the next fix.
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
@@ -176,20 +178,19 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-comprehensive-approach-to-adding-text-overlays-vimeo/"><u>[New] 2024 Approved A Comprehensive Approach to Adding Text Overlays (Vimeo)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-deciphering-your-pathway-to-youtubes-maker-land/"><u>[Updated] Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-prolific-profits-from-youtube-universal-strategies-unveiled/"><u>[Updated] Prolific Profits From YouTube Universal Strategies Unveiled</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/building-brands-and-bonds-on-instagram-steps-to-reach-a-thousand-followers/"><u>Building Brands and Bonds on Instagram Steps to Reach a Thousand Followers</u></a></li>
-<li><a href="https://common-error.techidaily.com/configuring-windows-10-to-disconnect-touchpad-with-usb-mouse-connection/"><u>Configuring Windows 10 to Disconnect Touchpad with USB Mouse Connection</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-z-fold-5-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy Z Fold 5 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-the-0x800705b4-error-on-windows-update-in-windows-10/"><u>How to Successfully Overcome the 0X800705B4 Error on Windows Update in Windows 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/huion-digital-pen-issues-heres-how-to-restore-functionality-asap/"><u>Huion Digital Pen Issues? Here's How to Restore Functionality ASAP</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-typing-troubles-a-step-by-step-guide-for-a-non-responsive-backspace/"><u>Resolving Typing Troubles: A Step-by-Step Guide for a Non-Responsive Backspace</u></a></li>
-<li><a href="https://common-error.techidaily.com/resources-not-acknowledging-proper-configurations/"><u>Resources Not Acknowledging Proper Configurations</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-reviving-the-backlit-functionality-of-your-corsair-board/"><u>Solved! Reviving the Backlit Functionality of Your Corsair Board</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-illusion-of-influence-user-interface-tactics/"><u>The Illusion of Influence: User Interface Tactics</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212245154-trouble-with-your-origin-game-setup-heres-how-you-can-fix-it/"><u>Trouble with Your Origin Game Setup? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-setup-via-vmware-workstation-17-a-step-by-step-guide/"><u>Win11 Setup via VMware Workstation 17: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-7-cameras-unbeatable-in-underwater-shooting/"><u>[New] Prime 7 Cameras Unbeatable In Underwater Shooting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-step-by-step-audio-addition-for-impactful-instagram-visuals/"><u>[New] Step-by-Step Audio Addition for Impactful Instagram Visuals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290371237-dvd-dvd/"><u>DVDリッピングテクニックとその正当性 - 無害なDVDコピー方法のステップバイステップマニュアル</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-asus-rog-phone-7-ultimate-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-wi-fi-drivers-compatible-with-windows-7-download-here/"><u>Fresh Wi-Fi Drivers: Compatible with Windows 7 – Download Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-windows-11-computer-from-randomly-powering-on-by-itself/"><u>How to Stop Your Windows 11 Computer From Randomly Powering On by Itself</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-in-windows-11107-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers in Windows 11/10/7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-hd-action-recorder-brands-under-100/"><u>In 2024, Best HD Action Recorder Brands Under $100</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nocturnal-nexus-versus-daylight-dominion/"><u>In 2024, Nocturnal Nexus Versus Daylight Dominion</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-11-how-to-fix-insufficient-memory-warnings/"><u>Optimizing Windows 11 - How to Fix Insufficient Memory Warnings</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-troubleshooting-unresponsive-usb-external-drives/"><u>Quick Solutions for Troubleshooting Unresponsive USB External Drives</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-fixing-black-ops-cold-war-silent-issue-in-pc-game/"><u>Solution Found: Fixing Black Ops Cold War Silent Issue in PC Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-easy-errors-with-apex-legends-anti-cheat-system/"><u>Troubleshooting Easy Errors with Apex Legends Anti-Cheat System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-elevation-requests-during-operations-in-windows-11-10-and-7/"><u>Troubleshooting Elevation Requests During Operations in Windows 11, 10 & 7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Getting Around the 'Device Can't Receive Miracast' Problem with Simple Fixes
-date: 2024-08-31T17:44:58.034Z
-updated: 2024-09-01T17:44:58.034Z
+date: 2024-11-13T17:58:59.833Z
+updated: 2024-11-15T17:43:53.980Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ If you have an Acer laptop but there’s no sound when you’re playing a game o
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Set your speakers as the default device
 
  You may already check the sound volume and restart your laptop. If you didn’t mute the sound, then let’s check the sound settings. It’s possible that you didn’t set your speakers or headphones as the default device.
@@ -50,14 +57,8 @@ If you have an Acer laptop but there’s no sound when you’re playing a game o
 1. Right-click on the**Sound** icon on your taskbar. Then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 2. Choose the speakers you’re using and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
 3. Click**OK** to save the change.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you couldn’t find your speakers on the Playback device list, it might be disabled.
 
@@ -66,22 +67,22 @@ Follow the below steps to enable your disabled device.
 1. On the Playback window, right-click on the blank area and click**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 2. When your device shows up, right-click on it and choose Enable.  
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 3. Then you can set it as the default device.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Reinstall your sound card driver
@@ -92,19 +93,16 @@ Follow the below steps to enable your disabled device.
 2. Type **devmgmt.msc** . Then click **OK**  to open **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Expand **Sound, video and game controllers** . Then right-click on your sound card’s name and click **Uninstall** **device** .  
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall.jpg)
 4. Tick on **Delete the driver software for this device.**  Then click **Uninstall**  to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall1.jpg)
 5. Restart your PC to make the change take effect. Windows will automatically reinstall the sound driver for you now.
 6. Check if speakers work on your laptop now.
@@ -121,8 +119,6 @@ Follow the below steps to enable your disabled device.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +126,16 @@ Follow the below steps to enable your disabled device.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-strategic-wordplay-crafting-engaging-blurbs-for-2024/"><u>[New] Strategic Wordplay Crafting Engaging Blurbs for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-novice-to-maestro-professional-photography-and-cinematography-techniques/"><u>[Updated] From Novice to Maestro Professional Photography & Cinematography Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-update-attempt-for-microsofts-windows-10-version-1607-what-went-wrong/"><u>Failed Update Attempt for Microsoft's Windows 10 Version 1607 - What Went Wrong?</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-correcting-error-code-0x80n7001f-during-windows-updates/"><u>Guide to Correcting Error Code 0X80n7001f During Windows Updates</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-ps4-network-setup-effective-solutions-for-resolving-failed-nat-types/"><u>Master PS4 Network Setup: Effective Solutions for Resolving Failed NAT Types</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-the-body-stream-hiccup-on-chatgpt-learn-about-these-nine-strategies-for-resolution/"><u>Overcoming the 'Body Stream' Hiccup on ChatGPT: Learn About These Nine Strategies for Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/wireless-whispers-ended-laptopplusheadsets-reunited/"><u>Wireless Whispers Ended: Laptop+Headsets Reunited</u></a></li>
+</ul></div>
 

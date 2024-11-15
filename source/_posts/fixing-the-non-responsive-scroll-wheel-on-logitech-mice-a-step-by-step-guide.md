@@ -1,7 +1,7 @@
 ---
 title: Fixing the Non-Responsive Scroll Wheel on Logitech Mice – A Step-by-Step Guide
-date: 2024-10-31T09:41:35.220Z
-updated: 2024-11-05T00:42:08.917Z
+date: 2024-11-09T16:56:04.687Z
+updated: 2024-11-15T16:04:59.874Z
 tags:
   - win11
   - win10
@@ -53,13 +53,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -84,6 +77,13 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -103,10 +103,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -114,6 +114,19 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -128,13 +141,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -144,10 +150,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
@@ -159,10 +165,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -199,20 +205,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-facebooks-fabulous-video-showcase/"><u>[New] Facebook's Fabulous Video Showcase</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-your-android-and-iphone-companion-to-igtv-downloads-for-2024/"><u>[Updated] Your Android & iPhone Companion to IGTV Downloads for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/enhanced-user-experience-with-advanced-data-driven-technology/"><u>Enhanced User Experience with Advanced Data-Driven Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-strategies-to-correct-opengl-glitches-in-your-minecraft-gameplay/"><u>Expert Strategies to Correct OpenGL Glitches in Your Minecraft Gameplay</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-the-impact-of-ipad-pros-tandem-oled-on-upcoming-display-technology-insights-and-predictions-techcrunch/"><u>Exploring the Impact of iPad Pro's Tandem OLED on Upcoming Display Technology: Insights and Predictions | TechCrunch</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-machine-that-gets-stuck-on-its-boot-interface-expert-advice/"><u>How To Fix A Machine That Gets Stuck On Its Boot Interface: Expert Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-microphone-on-your-laptop-a-step-by-step-guide/"><u>How to Fix a Non-Responsive Microphone on Your Laptop: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-casting-issues-to-devices-from-your-windows-11-pc/"><u>How to Fix Casting Issues to Devices From Your Windows 11 PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-struggling-with-texts-discover-10-quick-fixes/"><u>IPhone Struggling with Texts? Discover 10 Quick Fixes</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/pasos-para-cambiar-del-viejo-sistema-bios-al-nuevo-uefi-una-guia-completa/"><u>Pasos Para Cambiar Del Viejo Sistema BIOS Al Nuevo UEFI: Una Guía Completa</u></a></li>
-<li><a href="https://common-error.techidaily.com/tango-evdo-rev-a-6-mbits-download/"><u>Tango – EVDO Rev A, 6 Mbit/S Download</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-secrets-a-deep-dive-into-tesla-robots-release-timeline-cost-projections-and-cutting-edge-features-what-we-know-so-far/"><u>Unlocking Secrets: A Deep Dive Into Tesla Robot's Release Timeline, Cost Projections and Cutting-Edge Features – What We Know So Far</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-guide-tackling-intense-cpu-drains-attributed-to-wudfhostexe/"><u>Windows 10 Guide: Tackling Intense CPU Drains Attributed to WUDFHost.exe</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/winning-at-love-one-swipe-at-a-time-top-tips-for-bold-biographies/"><u>Winning at Love, One Swipe at a Time Top Tips for Bold Biographies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-gifs-a-step-by-step-snapchat-guide/"><u>2024 Approved Mastering GIFs A Step-by-Step Snapchat Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/concealing-activities-deactivate-windows-eye-on-users/"><u>Concealing Activities: Deactivate Windows' Eye on Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnose-and-correct-bluetooth-connectivity-issues-between-your-keyboard-and-pc/"><u>Diagnose & Correct Bluetooth Connectivity Issues Between Your Keyboard and PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-asus-rog-phone-7-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Asus ROG Phone 7 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-live-streaming-elite-9-edition/"><u>In 2024, Live Streaming Elite #9 Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-thumbnail-extraction-from-youtube-on-multiple-platforms/"><u>In 2024, Mastering Thumbnail Extraction From Youtube on Multiple Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/reactivating-the-photography-capability-of-your-dell-system-under-a-windows-environment/"><u>Reactivating the Photography Capability of Your Dell System Under a Windows Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-unstable-usb-connections-on-your-computer/"><u>Step-by-Step Fixes for Unstable USB Connections on Your Computer</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/step-by-step-guide-seamlessly-transferring-your-system-from-hard-drive-to-bootable-patriot-ssd/"><u>Step-by-Step Guide: Seamlessly Transferring Your System From Hard Drive to Bootable Patriot SSD</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-on-creating-a-highly-available-virtual-server-cluster-with-hyper-v/"><u>Step-by-Step Tutorial on Creating a Highly Available Virtual Server Cluster with Hyper-V</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-visual-quality-choose-aspect-ratios-wisely-for-2024/"><u>Tailoring Visual Quality Choose Aspect Ratios Wisely for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-solution-to-the-frustrating-0x800705b4-update-glitch-on-windows-11-devices/"><u>The Definitive Solution to the Frustrating 0X800705b4 Update Glitch on Windows 11 Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-vehicle-monitoring-cameras/"><u>Ultimate Guide to Vehicle Monitoring Cameras</u></a></li>
+<li><a href="https://common-error.techidaily.com/white/"><u>White</u></a></li>
 </ul></div>
 

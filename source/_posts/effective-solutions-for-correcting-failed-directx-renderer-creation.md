@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Correcting Failed DirectX Renderer Creation
-date: 2024-11-02T05:10:14.758Z
-updated: 2024-11-05T10:43:22.067Z
+date: 2024-11-09T16:52:09.308Z
+updated: 2024-11-15T18:03:55.209Z
 tags:
   - win11
   - win10
@@ -81,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -112,24 +105,31 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
 
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -138,22 +138,29 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -172,13 +179,6 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -199,10 +199,10 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
@@ -232,18 +232,18 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-video-quality-editing-tips-for-published-content-for-2024/"><u>[New] Enhancing Video Quality Editing Tips for Published Content for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-hunt-and-beat-top-10-games-inspired-by-ghost-of-tsushima/"><u>[Updated] Hunt & Beat Top 10 Games Inspired by Ghost of Tsushima</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-optimize-your-video-library-youtubes-to-dailymotion-directly/"><u>[Updated] Optimize Your Video Library YouTubes to Dailymotion Directly</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-studio-mastery-a-comprehensive-video-editing-guide/"><u>[Updated] YouTube Studio Mastery A Comprehensive Video Editing Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-sdr-to-super-hd-a-practical-guide-for-quality-improvement/"><u>2024 Approved SDR to Super HD A Practical Guide for Quality Improvement</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-15-pro-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 15 Pro screen turns black? | Stellar</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-you-encounter-a-missing-binkw32dll-error/"><u>Effective Solutions for When You Encounter a Missing binkw32.dll Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-cpu-utilization-by-iastordatasvc-on-your-32-bit-windows-11-machine-step-by-step-solution/"><u>How to Fix Elevated CPU Utilization by IAstorDataSvc on Your 32-Bit Windows 11 Machine - Step by Step Solution</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oneplus-open-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For OnePlus Open by Name | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y27-4g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo Y27 4G</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-delay-just-playtime-in-epic-battle-royale/"><u>No Delay, Just Playtime in Epic Battle Royale</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-cannot-start-this-hardware-device-in-windows-11-with-registry-issues-error-19/"><u>Troubleshooting 'Windows Cannot Start This Hardware Device' In Windows 11 with Registry Issues - Error 19</u></a></li>
-<li><a href="https://common-error.techidaily.com/wind-down-your-windows-11-without-disturbances/"><u>Wind Down Your Windows 11 Without Disturbances</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-master-class-appletv-facebook-and-you-for-2024/"><u>[Updated] Master Class AppleTV, Facebook & You for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-path-to-ethical-expansion-youtube-traffic-enhancement/"><u>[Updated] The Path to Ethical Expansion YouTube Traffic Enhancement</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlocking-mac-recording-capabilities/"><u>[Updated] Unlocking Mac Recording Capabilities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows101112/"><u>「Windows」で始める！10・11対応のベストフリー音声編集ソフトウェア12選をご紹介 - 検索最適化されたタイトル</u></a></li>
+<li><a href="https://common-error.techidaily.com/configuration-complete-response-deficiency-present/"><u>Configuration Complete; Response Deficiency Present</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-restore-volume-control-on-your-windows-11-pc-expert-tips/"><u>Effective Ways to Restore Volume Control on Your Windows 11 PC - Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-surface-device-troubleshooting-non-charging-issues/"><u>Fixing Surface Device: Troubleshooting Non-Charging Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-10-installation-error-code-80240020-a-step-by-step-guide/"><u>How to Fix the 'Windows 10 Installation Error (Code 80240020)' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-aerial-artistry-in-motion-examining-gopro-karma-performance/"><u>In 2024, Aerial Artistry in Motion Examining GoPro Karma Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-unresponsive-buttons-on-hp-laptops-troubleshoot-now/"><u>Quick Fixes for Unresponsive Buttons on HP Laptops - Troubleshoot Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-disappearing-mouse-cursor-on-a-touchpad-in-windows-11/"><u>Solution Steps for Disappearing Mouse Cursor on a Touchpad in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-realm-of-melodies-where-to-get-hearing-heroes-ringtones-for-2024/"><u>The Realm of Melodies Where to Get Hearing Heroes' Ringtones for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-role-of-output-impedance-in-audio-and-power-amplifiers-a-deep-dive/"><u>The Role of Output Impedance in Audio and Power Amplifiers: A Deep Dive</u></a></li>
 </ul></div>
 

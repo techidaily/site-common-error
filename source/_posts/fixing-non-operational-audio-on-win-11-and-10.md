@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Operational Audio on Win 11 & 10
-date: 2024-08-27T13:52:04.515Z
-updated: 2024-08-28T13:52:04.515Z
+date: 2024-11-08T16:55:00.261Z
+updated: 2024-11-15T17:13:47.105Z
 tags:
   - win11
   - win10
@@ -52,28 +52,37 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 1. On the keyboard of the target computer, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update the drivers for your USB devices
 
  This problem may occur if you’re using the wrong or outdated USB drivers. So you should update the drivers for your USB devices to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,15 +98,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -118,8 +128,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +135,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-music-live-streaming-services/"><u>[New] Best Music Live Streaming Services</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-passport-selfie-maker-top-quality-instant-access-for-desktoponline-use/"><u>[New] Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-net-top-tags-for-eye-catching-gamer-content/"><u>[Updated] Navigating the Net Top Tags for Eye-Catching Gamer Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bridging-virtuality-business-applications-in-vr/"><u>2024 Approved Bridging Virtuality Business Applications in VR</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-the-challenge-of-error-0x887a0006-speedy-solutions-unveiled-for-hassle-free-fixes/"><u>Conquer the Challenge of Error 0X887A0006: Speedy Solutions Unveiled for Hassle-Free Fixes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-honor-90-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Honor 90.</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-http-403-forbidden-error-expert-strategies-and-best-practices/"><u>Fixing HTTP 403 Forbidden Error: Expert Strategies and Best Practices</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-common-hamachi-disconnection-problems/"><u>Fixing The Common Hamachi Disconnection Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hear-better-with-m06-an-in-depth-wi-fi-review/"><u>Hear Better with M06: An In-Depth Wi-Fi Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-fixes-for-when-your-dns-server-is-down-no-stress-required/"><u>Immediate Fixes for When Your DNS Server Is Down - No Stress Required!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-proven-strategies-for-device-screening/"><u>In 2024, Proven Strategies for Device Screening</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-connection-ready-to-use-fixes-for-your-airpods-and-windows-pcs/"><u>Mastering the Connection: Ready-to-Use Fixes for Your AirPods and Windows PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-left-vs-right-click-discrepancy-solutions-for-windows-11-users/"><u>Overcoming the Left Vs. Right Click Discrepancy: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-guide-transforming-dall-e-3-webp-photos-into-jpg-and-png-images/"><u>Quick Guide: Transforming DALL-E 3 WebP Photos Into JPG and PNG Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-not-responding-errors-fix-oculus-air-link-issues-in-windows/"><u>Resolving 'Not Responding' Errors: Fix Oculus Air Link Issues in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-failed-to-connect-issue-in-overwatch-a-step-by-step-guide/"><u>Resolving the 'Failed to Connect' Issue in Overwatch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-corsair-keyboard-expert-tips-to-overcome-non-functionality-issues/"><u>Revive Your Corsair Keyboard: Expert Tips to Overcome Non-Functionality Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speeding-up-the-shutdown-process-on-windows-10-a-step-by-step-guide/"><u>Speeding Up the Shutdown Process on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-call-of-duty-wwii-error-4220-step-by-step-guide/"><u>Ultimate Fixes for Call of Duty: WWII Error 4220 - Step by Step Guide</u></a></li>
+</ul></div>
 

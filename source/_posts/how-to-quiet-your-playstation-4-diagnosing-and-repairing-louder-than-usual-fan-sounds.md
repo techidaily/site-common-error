@@ -1,7 +1,7 @@
 ---
 title: "How to Quiet Your PlayStation 4: Diagnosing and Repairing Louder-Than-Usual Fan Sounds"
-date: 2024-09-04T20:22:02.889Z
-updated: 2024-09-05T20:22:02.889Z
+date: 2024-11-08T16:12:38.513Z
+updated: 2024-11-15T17:06:48.523Z
 tags:
   - win11
   - win10
@@ -55,9 +55,23 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update your video card driver, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -67,18 +81,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Modify your video card settings
 
 To modify your video card settings, use the following procedure:
@@ -89,16 +91,17 @@ To modify your video card settings, use the following procedure:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-207.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, select**Manage 3D settings** from its left pane. Then, click**Add** to locate and choose the executable file of Fallout 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now you’re able to modify the settings of this program.
 
  3) Pay attention to the list below**Specify the settings for this program:** . Scroll through the list to locate these items and make the tweaks accordingly:
@@ -112,12 +115,6 @@ Now you’re able to modify the settings of this program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
 ---
@@ -133,23 +130,18 @@ Now you’re able to modify the settings of this program.
 ![This image has an empty alt attribute; its file name is image-215.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-215.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you’re not sure about the exact resolution of your monitor, you can right-click an empty area on your desktop and select**Display settings** from the context menu. In the pop-up window, take note of the recommended option under**Resolution** , the one that best suits your monitor size.
 
  Run the game to see if it goes smoothly this time. If not, move on and check out the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Uncap FPS limit
 
  You may seek to uncap the FPS limit of Fallout 4 by using Notepad to modify some certain values. Here’s how to do it:
@@ -174,12 +166,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Stop CPU/memory hogging applications
 
  If you have too many CPU/memory hogging applications running in the background, that may slow down the processing speed of your computer and lead to low FPS in Fallout 4\. Thus, you need to close these applications before you start to play the game. Here are the steps:
@@ -187,6 +173,13 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
  1) On your keyboard, press the**Windows logo key** and **R** at the same time to invoke the Run dialog box. Type in **taskmgr** and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-296.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select the**Processes** tab. Right-click on the CPU/memory hogging process such as Google Chrome to open its context menu. Then click **End task** .
 
@@ -211,8 +204,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +211,23 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-efficient-shortening-of-instagram-video-content-mac-for-2024/"><u>[New] Efficient Shortening of Instagram Video Content (Mac) for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-solo-streamer-to-global-content-powerhouse/"><u>[New] From Solo Streamer to Global Content Powerhouse</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-download-install-and-use-obs-on-mac/"><u>[New] In 2024, How to Download, Install and Use OBS on Mac</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-monetizing-your-youtube-channels-strategies-for-success/"><u>[Updated] Monetizing Your YouTube Channels Strategies for Success</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-delving-into-youtubes-functionality-after-upload/"><u>2024 Approved Delving Into YouTube's Functionality After Upload</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975864923-effortless-webcam-driver-setup-for-windows-7-users-get-started-now/"><u>Effortless Webcam Driver Setup for Windows 7 Users – Get Started Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-unstable-usb-link-expert-advice-on-restoring-reliable-connections/"><u>Fix Your Unstable USB Link - Expert Advice on Restoring Reliable Connections</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-restart-and-repair-windows-update-service-failures/"><u>How To Successfully Restart and Repair Windows Update Service Failures</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-2-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 2 Phone without Any Data Loss</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-full-potential-the-laptop-recording-manual/"><u>In 2024, Unlocking Full Potential The Laptop Recording Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-wont-let-you-sign-in-try-these-fixes/"><u>Microsoft Store Won’t Let You Sign In? Try These Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-startup-problems-solutions-for-unresponsive-computers/"><u>Overcoming Startup Problems: Solutions for Unresponsive Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-isnt-my-laptop-mic-working-expert-tips-for-diagnosis-and-repair/"><u>Solved! Why Isn't My Laptop Mic Working? Expert Tips for Diagnosis & Repair</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-non-functional-keyboard-during-system-login/"><u>Solving the Issue of Non-Functional Keyboard During System Login</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-update-error-0x800f0922-heres-how-to-get-it-up-and-running/"><u>Windows 10 Update Error 0X800f0922? Here's How to Get It Up and Running!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-users-say-goodbye-to-skype-video-problems-with-these-easy-fixes/"><u>Windows 11 Users, Say Goodbye to Skype Video Problems with These Easy Fixes</u></a></li>
+</ul></div>
 

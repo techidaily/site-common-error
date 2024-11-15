@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Fix Game Setup Errors for a Smooth Play on Origin Games
-date: 2024-10-29T01:16:17.073Z
-updated: 2024-11-04T17:08:48.874Z
+date: 2024-11-08T17:17:33.582Z
+updated: 2024-11-15T18:29:28.840Z
 tags:
   - win11
   - win10
@@ -46,13 +46,6 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 
 If that didn’t help, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Clear Origin game cache
 
  To be able to load faster, Origin stores data called cache files. But over time, these files accumulate out-of-date data and because of this, it’s best to delete them, especially if you’re having problems with your games. Here’s how to do this:
@@ -68,18 +61,18 @@ If that didn’t help, try the next fix below.
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  3) Type or paste**%ProgramData%/Origin** and press Enter.  
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
@@ -88,13 +81,6 @@ If that didn’t help, try the next fix below.
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
@@ -110,20 +96,34 @@ If that didn’t help, try the next fix below.
   
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 10) Restart your PC and log back into Origin.
 
 If this didn’t give you any luck, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update your device drivers
 
@@ -147,10 +147,10 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -167,13 +167,6 @@ Here’s how to update drivers with Driver Easy:
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to make Origin always run as administrator, take these steps:
 
 * Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Properties** .  
@@ -186,18 +179,18 @@ If you want to make Origin always run as administrator, take these steps:
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Install the latest visual C++ redistributable pack
 
  Microsoft Visual C++ Redistributable is a standard distributable package of shared code that comes as part of your Windows and enables apps to run on your PC. If it’s missing or your current one is out-of-date, some apps that rely on the redistributable will fail to start or run and it will result in a total mess. Therefore, we would suggest you install the latest Visual C++ from[Microsoft](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) , both the x64 and x86 versions (you’ll find them in the**Visual Studio 2015, 2017 and 2019** section. )
 
 If that didn’t help, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Download Media Feature Pack for Windows 10 N
 
@@ -206,10 +199,16 @@ If that didn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
@@ -221,6 +220,13 @@ If that didn’t help, move on to the next fix.
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -241,20 +247,14 @@ If that didn’t help, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-photo-framing-made-easy-leading-apps-and-sites-reviewed/"><u>[New] In 2024, Photo Framing Made Easy Leading Apps and Sites Reviewed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-filmoquery-your-guide-to-video-editing-insights/"><u>[Updated] 2024 Approved FilmoQuery Your Guide to Video Editing Insights</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-asmr-mastery-your-guide-to-nighttime-relaxation-for-2024/"><u>[Updated] ASMR Mastery Your Guide to Nighttime Relaxation for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-tasteful-tactics-elevating-culinary-channel-monikers/"><u>[Updated] Tasteful Tactics Elevating Culinary Channel Monikers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/are-paid-reviews-common-amongst-online-reviewers-in-2024/"><u>Are Paid Reviews Common Amongst Online Reviewers, In 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-how-to-fix-the-persistent-xerox-error-code-0x800f020b-on-windows-machines/"><u>Expert Advice: How to Fix the Persistent Xerox Error Code 0X800F020B on Windows Machines</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-errconnectionrefused-illustrated-fixes-for-a-smoother-browsing-experience/"><u>How to Overcome ERR_CONNECTION_REFUSED: Illustrated Fixes for a Smoother Browsing Experience</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6s-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6s Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tailor-your-insta-experience-no-more-suggestions/"><u>In 2024, Tailor Your Insta Experience No More Suggestions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsung-soundbar-resets-simplified-an-in-depth-instructional-guide/"><u>Samsung Soundbar Resets Simplified: An In-Depth Instructional Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-msmpengexe-high-cpu-usage-issue-on-windows-11-troubleshooting-guide/"><u>Solving the MsMpEng.exe High CPU Usage Issue on Windows 11 - Troubleshooting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-error-print-driver-host-crash-on-32-bit-software/"><u>Troubleshooting Error: 'Print Driver Host' Crash on 32-Bit Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-top-keyboard-picks-of-2024-professional-insights-and-ratings-cnet/"><u>Ultimate Guide to the Top Keyboard Picks of 2024 - Professional Insights & Ratings | CNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-wireless-features-how-to-enable-and-use-bluetooth-with-windows-111/"><u>Unlocking Wireless Features: How to Enable and Use Bluetooth with Windows 11/1지</u></a></li>
-<li><a href="https://common-error.techidaily.com/upside-down-laptop-screen-troubles-heres-how-to-set-it-right/"><u>Upside Down Laptop Screen Troubles? Here's How to Set It Right</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-expert-techniques-for-changing-your-instagram-sound/"><u>[New] Expert Techniques for Changing Your Instagram Sound</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gear-vr-compatibility-the-definitive-mobile-device-list-2023-edition/"><u>[New] Gear VR Compatibility The Definitive Mobile Device List - 2023 Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-seamless-slideshow-on-ig/"><u>[New] In 2024, Seamless SlideShow on IG</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-navigating-the-social-maze-tweets-plus-tumble-videos/"><u>[Updated] 2024 Approved Navigating the Social Maze Tweets + Tumble Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unspecified-error-understanding-and-solving-problem-0x800n4005/"><u>Fixing 'Unspecified Error': Understanding and Solving Problem 0X800n4005</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-red-screen-dilemma-a-comprehensive-solutions-overview/"><u>Fixing Windows 11'S Red Screen Dilemma - A Comprehensive Solutions Overview</u></a></li>
+<li><a href="https://common-error.techidaily.com/latest-guide-troubleshooting-miracast-connectivity/"><u>Latest Guide: Troubleshooting Miracast Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/microsoft-smartscreen-outage-why-the-security-feature-is-down/"><u>Microsoft SmartScreen Outage - Why the Security Feature Is Down</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-fixing-your-ps4-when-it-keeps-freezing-a-step-by-step-approach/"><u>Ultimate Guide: Fixing Your PS4 When It Keeps Freezing - A Step-by-Step Approach</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Overcome 'Device Not Detected' Problem - Fixing Error Code 24 on Windows OS
-date: 2024-09-04T20:22:02.768Z
-updated: 2024-09-05T20:22:02.768Z
+date: 2024-11-12T16:49:58.062Z
+updated: 2024-11-15T18:17:26.958Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
@@ -87,12 +94,6 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -104,11 +105,18 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
 
 ## Fix 4\. Configure Updates Client
@@ -128,23 +136,18 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
  a) Right-click on**Windows**  folder, then choose **New**  \> **Key** .
@@ -153,24 +156,19 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
@@ -178,31 +176,23 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
 
 After the fixes above, Windows Update should be good to go now.
 
 * [Windows Update](/tag-search/?tagId=62)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -211,4 +201,26 @@ After the fixes above, Windows Update should be good to go now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-proven-ways-to-create-engaging-intros-on-iphones-and-android/"><u>[New] 2024 Approved Proven Ways to Create Engaging Intros on iPhones & Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-are-vloggers-compensated-for-product-critiques/"><u>[New] In 2024, Are Vloggers Compensated for Product Critiques?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mp4-capture-and-analysis-toolkit/"><u>[New] MP4 Capture & Analysis Toolkit</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-common-issues-with-youtube-shorts-thumbnails-for-2024/"><u>[Updated] Common Issues with YouTube Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-exclusive-8-video-download-utilities-guide-for-2024/"><u>[Updated] Exclusive 8 Video Download Utilities Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-voice-transformation-top-7-innovative-mobile-apps-for-2024/"><u>[Updated] Voice Transformation Top 7 Innovative Mobile Apps for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-to-overcome-error-0x80070426-in-windows-11-environments/"><u>Comprehensive Solution to Overcome Error 0X80070426 in Windows 11 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-restoring-functionality-to-a-broken-lenovo-keyboard/"><u>Diagnosing and Restoring Functionality to a Broken Lenovo Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-rdr2-out-of-memory-error-quickly-by-boosting-your-pagefile/"><u>Fix 'RDR2 - Out Of Memory' Error Quickly by Boosting Your Pagefile</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-a-non-responsive-dns-quick-and-effective-4-strategies/"><u>Fix a Non-Responsive DNS: Quick & Effective 4 Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-lenovo-easy-camera-not-working-issue-on-windows-11/"><u>Fix Lenovo Easy Camera Not Working Issue on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-repair-the-configuration-failure-on-windows-11/"><u>How to Troubleshoot and Repair the Configuration Failure on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-color-correction-advanced-techniques-for-lut-applications/"><u>In 2024, Maximizing Color Correction Advanced Techniques for LUT Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-cheats-gone-wrong-deactivate-the-nba-2k21-emerald-hack-now/"><u>Master Cheats Gone Wrong? Deactivate the NBA 2K21 Emerald Hack Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-your-fortnite-experience-overcoming-windows-unsupported-graphics-cards/"><u>Optimizing Your Fortnite Experience: Overcoming Windows-Unsupported Graphics Cards</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-no-audio-output-device-found-issue-on-windows-1011/"><u>Solving the 'No Audio Output Device Found' Issue on Windows 10/11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/transforming-work-how-ai-agents-mark-a-new-era-of-innovation-and-permanent-shifts-in-employment-landscape/"><u>Transforming Work: How AI Agents Mark a New Era of Innovation and Permanent Shifts in Employment Landscape</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-dealing-with-the-persistent-windows-camera-error-0xa00f4292/"><u>Troubleshooting Tips for Dealing with the Persistent Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-resolving-windows-n-11-media-streaming-problems-cast-not-working/"><u>Ultimate Guide to Resolving Windows N 11 Media Streaming Problems (Cast Not Working)</u></a></li>
+</ul></div>
 

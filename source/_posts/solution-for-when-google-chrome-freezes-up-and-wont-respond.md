@@ -1,7 +1,7 @@
 ---
 title: Solution for When Google Chrome Freezes Up and Won’t Respond
-date: 2024-09-04T20:22:03.500Z
-updated: 2024-09-05T20:22:03.500Z
+date: 2024-11-10T16:26:38.686Z
+updated: 2024-11-15T18:25:15.241Z
 tags:
   - win11
   - win10
@@ -42,6 +42,19 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Turn off Chrome add-ons
 
  Add-ons are extensions to Chrome that allow you to do more things in your browser, or which improve your  user experience. For example, the AdBlock add-on blocks ads. Extensions are sometimes added manually and sometimes added by other programs on your computer (hopefully with your permission).
@@ -52,25 +65,27 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 2. In the top right, click on **the three vertical dots** button > **More tools** \> **Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. **Restart**  your computer and check if**Google Chrome**  now works:
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * If Google Chrome does respond after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Google Chrome still works. If it doesn’t, then you’ve found the cause of the problem. If Google Chrome works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.
 * If disabling your add-ons doesn’t solve the **Chrome not responding**  issue, please try **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -86,15 +101,16 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432efcb9088.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b1daa19ee7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -104,12 +120,6 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Allow Chrome**through Windows Defender Firewall**
 
  Sometimes the denied access to the Internet is another culprit for our**Chrome locked up** problem. To**allow Chrome through** **Windows Defender Firewall** :
@@ -122,25 +132,20 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4323083c3e7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Change settings** . Then make sure the 4 boxes for Google Chrome are ALL ticked and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4324732913f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Re-launch Google Chrome and check if the **Google Chrome not responding** issue has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update or reinstall Chrome
 
@@ -172,8 +177,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +184,23 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/est-yoga-series-online-stay-active-and-healthy/"><u>[New] Best Yoga Series Online - Stay Active & Healthy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-zoom-mastery-maximizing-communication-potential-in-remote-gatherings/"><u>[New] In 2024, Zoom Mastery Maximizing Communication Potential in Remote Gatherings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exclusive-photo-safekeeping-top-free-and-paid-cloud-storage-solutions/"><u>[Updated] 2024 Approved Exclusive Photo Safekeeping Top Free & Paid Cloud Storage Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-efficient-fortnite-imagery-design-quickly/"><u>[Updated] Efficient Fortnite Imagery Design Quickly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-snapshot-sharpening-affinitys-bg-exclusion-for-2024/"><u>[Updated] Snapshot Sharpening - Affinity's Bg Exclusion for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-error-802-cuidado-de-manejar-con-cuidado-los-componentes-electronicos-o-electricos-y-nunca-intentar-abrir-una-fuente-el-uso-del-kit-de-desmontaje-122/"><u>Bypassing Error 802 Cuidado De Manejar Con Cuidado Los Componentes Electrónicos O Eléctricos Y Nunca Intentar Abrir Una Fuente. El Uso Del Kit De Desmontaje Es Altamente Recomendable Para Evitar Daños.</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-and-solving-the-mystery-of-http-403-denials-on-your-site/"><u>Deciphering and Solving the Mystery of 'HTTP 403' Denials on Your Site</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elite-imagery-the-finest-8k-camera-selections/"><u>Elite Imagery The Finest 8K Camera Selections</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-get-the-space-bar-working-again-on-windows-11-devices/"><u>Expert Tips: Get the Space Bar Working Again on Windows 11 Devices</u></a></li>
+<li><a href="https://win-latest.techidaily.com/extract-nponl-videos-in-multiple-formats-get-mp4-wmv-mov-avi-flv-on-windows-and-macos/"><u>Extract npo.nl Videos in Multiple Formats: Get MP4, WMV, MOV, AVI, FLV on Windows and MacOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/googles-upcoming-pixel-watch-unveiling-potential-release-date-specs-and-price-rumors-you-need-to-know/"><u>Google's Upcoming Pixel Watch: Unveiling Potential Release Date, Specs & Price Rumors You Need to Know</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-laserjet-printer-drivers-free-download-for-windows-7/"><u>HP Laserjet Printer Drivers Free Download for Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-binkw32dll-error-a-step-by-step-repair-tutorial/"><u>Overcoming the Binkw32.dll Error: A Step-by-Step Repair Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-for-non-working-fn-keys-on-lenovo-laptops-best-practices/"><u>Quick Fix for Non-Working FN Keys on Lenovo Laptops: Best Practices</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-failed-steam-game-files-dll/"><u>Repairing Failed Steam Game Files (Dll)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204959242-windows-11-missing-bluetooth-problem-easy-steps-to-get-it-working-again/"><u>Windows 11 Missing Bluetooth Problem? Easy Steps to Get It Working Again</u></a></li>
+</ul></div>
 

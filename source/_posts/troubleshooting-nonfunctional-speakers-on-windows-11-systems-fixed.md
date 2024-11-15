@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Nonfunctional Speakers on Windows 11 Systems [FIXED]
-date: 2024-10-31T18:38:13.565Z
-updated: 2024-11-04T20:05:02.281Z
+date: 2024-11-11T16:24:47.179Z
+updated: 2024-11-15T16:59:46.609Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ You don’t have to try them all; just work your way down the list until you fin
 6. [**Bonus tip**](#t7)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 1: Enable Show desktop icons
@@ -52,28 +52,30 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -105,21 +107,20 @@ If your desktop icons still don’t show up, you can perform a system restore to
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
@@ -132,16 +133,24 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus tip
@@ -160,19 +169,6 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -197,18 +193,15 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitters-top-jokesters/"><u>[Updated] Twitter's Top Jokesters</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/art-and-proven-tactics-to-get-your-youtube-channel-noticed-for-2024/"><u>25 Smart & Proven Tactics to Get Your YouTube Channel Noticed for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2019-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2019 document with Electronic Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://common-error.techidaily.com/lsa-security-guardrails-back-online-boosting-device-protection-levels/"><u>LSA Security Guardrails Back Online, Boosting Device Protection Levels</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202056032-navigate-past-windows-11-update-blockages-solutions-that-work/"><u>Navigate Past Windows 11 Update Blockages – Solutions That Work!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ating-the-undisclosed-terrain-of-youtube-archives/"><u>Navigating the Undisclosed Terrain of YouTube Archives</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-your-way-through-w11s-print-control-max-50-chars/"><u>Navigating Your Way Through W11's Print Control (Max 50 Chars)</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-flip-your-videos-fast-a-beginners-guide-to-rotation/"><u>New 2024 Approved Flip Your Videos Fast A Beginners Guide to Rotation</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-guide-for-non-responsive-lenovo-fingerprint-scanner/"><u>Quick Troubleshooting Guide for Non-Responsive Lenovo Fingerprint Scanner</u></a></li>
-<li><a href="https://common-error.techidaily.com/reducing-cpu-strain-from-windows-audio-drivers-and-hardware-acceleration-issues/"><u>Reducing CPU Strain From Windows Audio Drivers and Hardware Acceleration Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-troubleshooting-app-launch-failures-with-administrative-user/"><u>Resolved Issue: Troubleshooting App Launch Failures With Administrative User</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-entry-point-missing-on-your-windows-system/"><u>Resolved: How to Fix 'Entry Point' Missing on Your Windows System</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-pro-level-video-editing-l-cuts-and-j-cuts-in-final-cut-pro-x-for-2024/"><u>Updated Pro-Level Video Editing L-Cuts and J-Cuts in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-10plus-proven-methods-to-enhance-zoom-session-captures-for-2024/"><u>[New] 10+ Proven Methods to Enhance Zoom Session Captures for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-pro-iphone-tricks-for-stunning-reflection-shots/"><u>[Updated] 2024 Approved Pro iPhone Tricks for Stunning Reflection Shots</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-streamlining-video-conferencing-combining-skype-and-zoom-effortlessly/"><u>2024 Approved Streamlining Video Conferencing Combining Skype & Zoom Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-addressing-video-drivers-restart-issues-successfully/"><u>Comprehensive Guide to Addressing Video Drivers Restart Issues Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-guide-to-resolving-limited-memory-on-your-windows-11-machine/"><u>Effortless Guide to Resolving Limited Memory on Your Windows 11 Machine</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/enhance-windows-11-mail-security-discover-our-top-2-strategies/"><u>Enhance Windows 11 Mail Security: Discover Our Top 2 Strategies!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-windows-1011-night-light-setting-a-step-by-step-guide/"><u>Expert Tips for Restoring Windows 10/11 Night Light Setting: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-voice-transformation-handbook-ranking-the-leading-11-speech-alteration-software-for-mobile-platforms-no-cost-for-2024/"><u>Updated The Ultimate Voice Transformation Handbook Ranking the Leading 11 Speech Alteration Software for Mobile Platforms, No Cost for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/wacom-pen-problems-resolved-solutions-for-windows-1110-users/"><u>Wacom Pen Problems Resolved: Solutions for Windows 11/10 Users</u></a></li>
 </ul></div>
 

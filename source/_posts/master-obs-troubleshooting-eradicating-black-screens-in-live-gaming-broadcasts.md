@@ -1,7 +1,7 @@
 ---
 title: "Master OBS Troubleshooting: Eradicating Black Screens in Live Gaming Broadcasts"
-date: 2024-08-27T13:53:19.090Z
-updated: 2024-08-28T13:53:19.090Z
+date: 2024-11-11T17:17:49.080Z
+updated: 2024-11-15T17:24:25.250Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 4. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Delete Manifest txt files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for network connection
 
  A poor network connection would certainly hold you back from loading into the game. Having a quick and simple check on your network connection should be your first fix to try.
@@ -41,8 +48,18 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  If network connection is not where the problem is, try the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Run your game as administrator
 
  In some cases, the game can’t be opened properly because it lacks higher permission from your PC, so try running Valorant as administrator is a possible method to solve the infinite loading problem.
@@ -52,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -84,12 +98,17 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com>.
 
@@ -102,33 +121,36 @@ If this doesn’t solve your problem, move on to the next fix.
 1. Press**Windows + I** key to open Windows Settings and then click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-settings-apps.jpg)
 2. Find**Valorant** from the Apps & features list and click on it.  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Appsfeatures-1.jpg)
 3. Click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Delete Manifest txt files
 
  Manifest files usually contain info about resources stored as well as settings for loading those resources. In this sense, the Manifest txt files in the Valorant install file may have something to do with the loading trouble. So we could try to delete those Manifest txt files to see if it helps with the problem.
@@ -151,8 +173,6 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +180,23 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-exclusive-android-3d-video-enthusiasts-choice/"><u>[Updated] Exclusive Android 3D Video Enthusiasts' Choice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-antitrust-troubles-european-union-orders-2-billion-fine-for-monopolistic-conduct-on-the-app-store-exclusive-analysis/"><u>Apple's Antitrust Troubles: European Union Orders $2 Billion Fine for Monopolistic Conduct on the App Store | Exclusive Analysis</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tial-strategies-for-professional-grade-video-editing-for-2024/"><u>Essential Strategies for Professional-Grade Video Editing for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-how-to-overcome-error-0x8024402c-during-windows-updates/"><u>Expert Tips: How to Overcome Error 0X8024402c During Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-logitech-keyboard-not-working-issue-easily/"><u>Fix Logitech Keyboard Not Working Issue. Easily!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-and-solutions-how-to-get-google-chrome-back-on-track-when-its-unresponsive/"><u>Fixes & Solutions: How To Get Google Chrome Back On Track When It's Unresponsive</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-more-bangs-from-lol-overcoming-sluggish-download-times-easily/"><u>Getting More Bangs From LoL: Overcoming Sluggish Download Times Easily</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-or-update-your-amd-rx-580-graphics-card-drivers-with-ease/"><u>How to Install or Update Your AMD RX 580 Graphics Card Drivers with Ease</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-free-online-video-production-tools/"><u>In 2024, Top-Rated Free Online Video Production Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-right-software-hp-officejet-pro-6968-driver-download-now/"><u>Install the Right Software - HP OfficeJet Pro 6968 Driver Download Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/maximizing-performance-by-streamlining-windows-driver-foundation-cpu-impact/"><u>Maximizing Performance by Streamlining Windows Driver Foundation CPU Impact</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oneplus-11r-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace OnePlus 11R Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-non-responsive-laptop-trackpad-a-comprehensive-guide/"><u>Troubleshooting a Non-Responsive Laptop Trackpad: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-efficiency-grouped-installs-with-winstall-on-windows-11/"><u>Unleashing Efficiency: Grouped Installs with Winstall on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/win1011-mitigate-resource-hungry-wmi/"><u>Win10/11: Mitigate Resource-Hungry WMI</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-empowerment-your-life-story-can-inspire-for-2024/"><u>Youth Empowerment Your Life Story Can Inspire for 2024</u></a></li>
+</ul></div>
 

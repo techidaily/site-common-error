@@ -1,7 +1,7 @@
 ---
 title: Successful Troubleshooting of the 'Generic Error' In BattlEye Service Setup
-date: 2024-11-01T06:07:24.865Z
-updated: 2024-11-05T11:39:16.847Z
+date: 2024-11-14T17:17:02.442Z
+updated: 2024-11-15T18:23:25.919Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. [**Reinstall Oddworld: Soulstorm and the launcher**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets the minimum specifications for Oddworld: Soulstorm
 
  Oddworld: Soulstorm has a set of hardware and system requirements in order for it to be played smoothly. If your copy of Oddworld: Soulstorm crashes a lot on your PC, it’s worth checking if your PC meets the requirements.
@@ -58,10 +65,10 @@ To check the specs of your PC:
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display.png)
@@ -84,23 +91,16 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-your-device-drivers.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 5. Launch Oddworld: Soulstorm and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run Epic Games Launcher as administrator
@@ -111,7 +111,22 @@ Here’s how:
 
 1. On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) , type**epic** , then right-click on**Epic Games Launcher** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/epic.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click**Yes** when UAC promots for permissions to proceed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, launch Oddworld: Soulstorm game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
 
@@ -120,13 +135,6 @@ Here’s how:
  To verify the integrity of Oddworld: Soulstorm, you should first navigate to**Library** in**Epic Game Launcher** . Then locate Oddworld: Soulstorm and click on the**cog icon** in the lower-right corner and click**Verify** .
 
  Wait a bit until the process finishes. After that, re-launch Oddworld: Soulstorm to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try**Fix 5** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Allow Epic Games Launcher through firewall
 
@@ -140,25 +148,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Run the game in the launcher and see if it still crashes. If it’s still on-going, please move on to**Fix 6** .
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
 
@@ -180,15 +182,15 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12-2.png)
 4. Restart your computer, then test to see if the game still crashes.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    * **If Oddworld: Soulstorm stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Oddworld: Soulstorm still crashes** , please continue to**Fix 8** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Oddworld: Soulstorm and the launcher
 
@@ -215,15 +217,24 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/arn-through-engagement-securing-youtube-partnership-membership-for-2024/"><u>[New] Earn Through Engagement Securing YouTube Partnership Membership for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/disneyplus-july-lineup-our-top-picks-for-kids-favorite-animated-adventures-july-2024/"><u>Disney+ July Lineup: Our Top Picks for Kids' Favorite Animated Adventures (July #2024)</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-ways-to-overcome-the-code-28-hurdle-in-your-windows-device-drivers/"><u>Effective Ways to Overcome the 'Code 28' Hurdle in Your Windows Device Drivers</u></a></li>
-<li><a href="https://win-docs.techidaily.com/instant-unlimited-backup-with-aomei-your-ultimate-free-hdd-cloning-tool/"><u>Instant, Unlimited Backup with AOMEI - Your Ultimate Free HDD Cloning Tool!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ios-16-a-step-by-step-guide-to-adding-songs-to-your-ipod-touch-without-using-itunes/"><u>IOS 16: A Step-by-Step Guide to Adding Songs to Your iPod Touch Without Using iTunes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/parallel-audio-stream-mapping-for-2024/"><u>Parallel Audio Stream Mapping for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-stop-the-mysterious-shutdowns-of-your-wireless-mouse-in-modern-windows-environments/"><u>Step-by-Step Solution to Stop the Mysterious Shutdowns of Your Wireless Mouse in Modern Windows Environments</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-fixing-persistent-zoom-issues-in-windows-operating-systems-windows-1011/"><u>Ultimate Guide: Fixing Persistent Zoom Issues in Windows Operating Systems (Windows 10/11)</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211502376-windows-10-start-button-not-visible-heres-how-to-find-it/"><u>Windows 10 Start Button Not Visible? Here's How to Find It!</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-gaming-woes-solved-keeping-your-pc-on-during-games-across-different-os-versions/"><u>Windows Gaming Woes Solved: Keeping Your PC On During Games Across Different OS Versions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonize-your-favorites-creating-custom-youtube-playlists/"><u>[New] 2024 Approved Harmonize Your Favorites Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-navigating-mac-preview-with-ease-ultimate-guide/"><u>[Updated] 2024 Approved Navigating Mac Preview with Ease Ultimate Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/circling-the-globe-in-one-shot-versus-layered-visuals/"><u>Circling the Globe in One Shot Versus Layered Visuals</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-windows-1s10-update-error-code-0x800f0922-with-these-8-expert-fixes/"><u>Defeat Windows 1ˈs10 Update Error Code 0X800F0922 with These 8 Expert Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-eliminating-crackling-sounds-from-native-windows-media-center-sound-system/"><u>Diagnosing and Eliminating Crackling Sounds From Native Windows Media Center Sound System</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-the-problem-of-steam-store-failing-to-load/"><u>Expert Tips: Overcoming the Problem of Steam Store Failing to Load</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-issues-when-steam-installs-or-updates-games/"><u>How to Fix Issues When Steam Installs or Updates Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-regain-access-to-lost-steam-game-files-complete-solution/"><u>How to Regain Access to Lost Steam Game Files - Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-issues-when-icloud-cant-detect-devices/"><u>How to Repair Issues When iCloud Can't Detect Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-top-notch-episodes-learn-podcast-editing-secrets-with-garageband/"><u>In 2024, Craft Top-Notch Episodes Learn Podcast Editing Secrets with GarageBand</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-11-pro-max-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 11 Pro Max Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-quick-fixes-for-windows-11-and-errorcode-0x80072f8f/"><u>Mastering Quick Fixes for Windows 11 and #ErrorCode 0X80072F8f</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-safe-shutdowns-on-a-windows-n-based-system-troubleshooting-tips-and-solutions/"><u>Mastering Safe Shutdowns on a Windows N-Based System – Troubleshooting Tips & Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-authentication-problems-user-profile-service-on-windows-10-and-11/"><u>Solving Authentication Problems: User Profile Service on Windows 10 & 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/step-by-step-guide-to-instagram-livestreaming-using-obs-for-2024/"><u>Step-by-Step Guide to Instagram Livestreaming Using OBS for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-of-26-free-system-optimizers-for-2-cufflinks-2024-compare-and-choose/"><u>The Ultimate Selection of 26 Free System Optimizers for 2 Cufflinks 2024 - Compare and Choose!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-picks-premium-webcams-for-quality-podcasting-for-2024/"><u>Top Picks Premium Webcams for Quality Podcasting for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unleash-vintage-ps3-adventures-on-pc-with-leading-tools/"><u>Unleash Vintage PS3 Adventures on PC with Leading Tools</u></a></li>
 </ul></div>
 

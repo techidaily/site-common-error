@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repair Your Lenovo's Malfunctioning Biometric Scanner
-date: 2024-08-27T13:52:05.760Z
-updated: 2024-08-28T13:52:05.760Z
+date: 2024-11-12T18:13:41.686Z
+updated: 2024-11-15T17:05:14.150Z
 tags:
   - win11
   - win10
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/b0d297df5c97f5c875c0d9e40013c911e8c4f3b18
 4. [Make sure your controller has fresh batteries](https://tools.techidaily.com/drivereasy/download/)
 5. [Try using a different controller or headset](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1\. Make sure the headset is not muted
 
  If the mute feature is enabled by accident, you can’s hear any sound then. When you find your Xbox One headset not working, the first thing is to check if it’s muted.
@@ -37,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/b0d297df5c97f5c875c0d9e40013c911e8c4f3b18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5991543d8fdf2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2\. Update Xbox One controller to make sure you have the latest software
 
  Your controller’s software should be up-to-date to enable the headset adapter works properly.
@@ -53,9 +63,6 @@ Follow the steps here to update your Xbox One controller software.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915a7941a9b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  2)  
 
  Find**Microsoft Xbox One controller** under catalog**Universal Serial Bus controllers** or**Microsoft Xbox One controller** .  
@@ -64,17 +71,18 @@ Follow the steps here to update your Xbox One controller software.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915be191b71.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3)  
 
  Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915bfa7e24c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  Now Windows will detect the update for your controller automatically.
 
  For some reasons, Microsoft cannot find the update for you. In order not to missing the update, you can try**Driver Easy** .
@@ -90,15 +98,23 @@ With Pro version: Click **Update All**  to automatically download and install th
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915e0fb9762.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3\. Check your device’s connection
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 4\. Make sure your controller has fresh batteries
 
  When the batteries of your controller become weak, your headset could not work properly, either. In such case, you can try replace with new batters for you controller to see if the headset works.
@@ -115,8 +131,6 @@ With Pro version: Click **Update All**  to automatically download and install th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +138,19 @@ With Pro version: Click **Update All**  to automatically download and install th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-cutting-edge-techniques-for-your-instagram-story-success/"><u>[New] 2024 Approved Cutting-Edge Techniques for Your Instagram Story Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-recording-made-easy-tips-for-youtube-vids/"><u>[New] In 2024, Recording Made Easy Tips for YouTube Vids</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-enhancing-engagement-share-tiktoks-on-twitter/"><u>[Updated] Enhancing Engagement Share TikToks on Twitter</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-guide-to-the-best-places-and-methods-for-cutting-tamil-ringtones/"><u>[Updated] Essential Guide to the Best Places & Methods for Cutting Tamil Ringtones</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-the-fixed-windows-11-update-error-code-0x8024401c/"><u>Comprehensive Fixes for the 'Fixed' Windows 11 Update Error (Code 0X8024401c)</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/effective-strategies-for-flipbook-security-mastering-protection-using-flipbuilder/"><u>Effective Strategies for Flipbook Security - Mastering Protection Using FlipBuilder</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-logitech-g930-microphone-sound-hole-issue-a-step-by-step-guide/"><u>Fixing the Logitech G930 Microphone Sound Hole Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209385132-how-to-fix-livekernelevent-141-hardware-error-2024/"><u>How to Fix LiveKernelEvent 141 Hardware Error – 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-the-failed-network-start-up-problem-in-dragon-ball-fighterz/"><u>Quick Fixes for the Failed Network Start-Up Problem in Dragon Ball FighterZ</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-exporting-your-music-from-ableton-live-as-mp3s/"><u>Step-by-Step Guide: Exporting Your Music From Ableton Live as MP3s</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-hitman-3-overcoming-network-errors-seamlessly/"><u>Troubleshooting Hitman 3: Overcoming Network Errors Seamlessly</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y27 4G | Dr.fone</u></a></li>
+</ul></div>
 

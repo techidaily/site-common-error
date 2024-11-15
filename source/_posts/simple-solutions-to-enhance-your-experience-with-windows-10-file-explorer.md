@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Enhance Your Experience with Windows 10 File Explorer
-date: 2024-11-03T21:36:35.147Z
-updated: 2024-11-04T16:04:47.958Z
+date: 2024-11-09T18:12:05.016Z
+updated: 2024-11-15T18:17:00.184Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
  This problem could be also caused by a wrong battery driver. You can solve it through reinstalling your battery driver.
@@ -66,16 +59,23 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
@@ -84,10 +84,10 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
@@ -105,10 +105,16 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -128,22 +134,17 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unveilingnextgencameratech/"><u>[New] In 2024, UnveilingNextGenCameraTech</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-premier-mp4-converter-for-smooth-fb-integration-for-2024/"><u>[New] Premier MP4 Converter for Smooth FB Integration for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-11-wont-boot-after-update/"><u>[Solved] Windows 11 Won't Boot After Update</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-exploring-video-threads-on-youtube-for-2024/"><u>[Updated] Exploring Video Threads on YouTube for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/accelerating-insights-optimal-chatgpt-utilization-in-macos/"><u>Accelerating Insights: Optimal ChatGPT Utilization in macOS</u></a></li>
-<li><a href="https://common-error.techidaily.com/battleye-service-installed-successfully-troubleshooting-guide-updated/"><u>BattlEye Service Installed Successfully - Troubleshooting Guide Updated</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-the-benefits-of-the-microsoft-sculpt-keyboard-premium-comfort-great-quality-and-best-buy-reviewed/"><u>Discovering the Benefits of the Microsoft Sculpt Keyboard: Premium Comfort, Great Quality & Best Buy Reviewed</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-missing-mouse-icon-on-your-windows-11-pc-expert-solutions/"><u>How to Fix a Missing Mouse Icon on Your Windows 11 PC – Expert Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-your-pc-from-falling-asleep-automatically-simple-fixes/"><u>How to Stop Your PC From Falling Asleep Automatically - Simple Fixes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-insiders-look-at-vidma-screen-recording/"><u>In 2024, The Insider's Look at Vidma Screen Recording</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-f23-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo F23 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211773409-no-luck-with-your-pdf-printer-let-us-guide-you-to-quick-fixes/"><u>No Luck with Your PDF Printer? Let Us Guide You to Quick Fixes.</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-development-woes-heres-how-you-can-speed-up-building-loading-times/"><u>PUBG Development Woes? Here's How You Can Speed Up Building Loading Times</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-4k-all-in-one-touch-screen-desktops/"><u>Top 4K All-in-One Touch Screen Desktops</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-consumption-by-the-dwm-on-windows-11/"><u>Top 5 Solutions for Reducing GPU Consumption by the DWM on Windows 11</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-achieve-deeper-sound-from-your-windows-system-three-easy-and-free-audio-enhancement-tricks/"><u>Updated In 2024, Achieve Deeper Sound From Your Windows System – Three Easy and Free Audio Enhancement Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723200620079-winning-the-battle-against-msmpengexe-reducing-cpu-usage-in-windows-11-effective-strategies-inside/"><u>Winning the Battle Against MsMpEng.exe: Reducing CPU Usage in Windows 11 – Effective Strategies Inside</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-convert-your-youtube-files-effortlessly-to-webm-for-2024/"><u>[Updated] Convert Your YouTube Files Effortlessly to WebM for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-ultimate-guide-to-enhancing-tiktok-videos-with-texts/"><u>[Updated] In 2024, Ultimate Guide to Enhancing TikTok Videos with Texts</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-youtube-sound-troubleshooting-on-pcs-running-windows-10-operating-system/"><u>Effective Solutions for YouTube Sound Troubleshooting on PC's Running Windows 10 Operating System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enduring-connection-techniques-for-tiktok-profiles/"><u>Enduring Connection Techniques for TikTok Profiles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/key-ml-breakthrough-propels-progress-in-driverless-car-technology-explained-by-zdnet-experts/"><u>Key ML Breakthrough Propels Progress in Driverless Car Technology, Explained by ZDNet Experts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-troubleshoot-invisible-hand-in-windows/"><u>Mouse Troubleshoot - Invisible Hand in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/scrolling-gains-for-the-modern-pc/"><u>Scrolling Gains for the Modern PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-keyboard-issues-including-spacebar-in-windows-11/"><u>Step-by-Step Guide to Repairing Keyboard Issues, Including Spacebar in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-poco-x6-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Poco X6 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-msda80dll-importance-and-necessity-in-windows-system/"><u>Understanding MSDA80.DLL: Importance and Necessity in Windows System</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsuccessful-windows-10-build-1607-update-troubleshooting-guide/"><u>Unsuccessful Windows 10 Build 1607 Update: Troubleshooting Guide</u></a></li>
 </ul></div>
 

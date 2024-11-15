@@ -1,7 +1,7 @@
 ---
 title: "Fix Successful: Addressing the Unresponsive Keyboard Issue on Startup"
-date: 2024-11-01T10:40:16.345Z
-updated: 2024-11-05T07:09:05.859Z
+date: 2024-11-12T18:02:22.247Z
+updated: 2024-11-15T16:16:26.460Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 4. **[Disable the filter key](#filter)**
 5. **[Try Surface Diagnostic Toolkit](#toolkit)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Some quick fixes to try first
 
  Here are some quick fixes that you can try when your Surface keyboard is not working properly.
@@ -49,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 3. Make sure your Windows system is updated to the latest version.
 
  If these methods don’t help to bring back your keyboard, please move on to the other fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2: Perform a two-button shutdown
 
@@ -89,18 +89,18 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/surface-type-cover.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ## 4: Disable the filter key
 
 **Filter Keys** is a feature that makes your keyboard ignore brief or repeated keystrokes. It sometimes leads to the issue of the keyboard not working on Surface. For some users, **disabling Filter Keys** helps to fix the keyboard problem for them. To see if this does wonders for you as well:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Windows 10
 
@@ -115,23 +115,10 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -140,15 +127,22 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 2. Go to **Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle **Off**  Filter keys.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5: Try the Surface Diagnostic Toolkit
 
@@ -175,17 +169,20 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlocking-windows-10-indispensable-hacks-and-fixes/"><u>[New] 2024 Approved Unlocking Windows 10 Indispensable Hacks & Fixes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-maximum-video-stowage-on-a-single-64gb-unit/"><u>[Updated] Maximum Video Stowage on a Single 64Gb Unit</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-arlo-video-doorbell-analysis-your-complete-guide-to-an-integrated-security-solution/"><u>Comprehensive Arlo Video Doorbell Analysis - Your Complete Guide To An Integrated Security Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/dna-damage-and-mutations/"><u>DNA Damage and Mutations</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208316634-expert-tips-to-get-overwatch-voice-chat-working-again-no-hassle/"><u>Expert Tips to Get Overwatch Voice Chat Working Again – No Hassle!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-a70-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Itel A70?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-s23-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy S23 Phones? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimal-notetaking-top-6-ai-enhanced-software-picks/"><u>Optimal Notetaking: Top 6 AI-Enhanced Software Picks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/share-live-feeds-skip-the-retweet-tactics-for-2024/"><u>Share Live Feeds Skip the Retweet Tactics for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-windows-cannot-locate-suitable-printer-driver-error/"><u>Solution Steps for 'Windows Cannot Locate Suitable Printer Driver' Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-overcoming-issues-when-teredo-cant-connect-properly/"><u>Solved: Overcoming Issues When Teredo Can’t Connect Properly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-12-free-movie-streaming-sites-of-the-year/"><u>Top 12 Free Movie Streaming Sites of the Year</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-forza-horizon-4-no-sound-problem/"><u>[SOLVED] Forza Horizon 4 No Sound Problem</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unveiling-the-tricks-for-flawless-file-imports-on-windows-10/"><u>[Updated] 2024 Approved Unveiling the Tricks for Flawless File Imports on Windows 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-cloud-costs-top-picks-for-value/"><u>[Updated] Cloud Costs Top Picks for Value</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028640171-youtube/"><u>「YouTubeミュージックの安全なダウンロード手順ガイド」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-editors-edge-boost-your-tiktok-impact/"><u>2024 Approved The Editor's Edge Boost Your TikTok Impact</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/assess-the-value-of-your-secondhand-films-essential-insights-into-used-dvd-prices-and-worth/"><u>Assess the Value of Your Secondhand Films: Essential Insights Into Used DVD Prices and Worth</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-solutions-to-combat-lag-issues-for-a-smooth-ride-in-forza-horizon-5/"><u>Best Solutions to Combat Lag Issues for a Smooth Ride in Forza Horizon 5</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/daily-dose-of-slovak-language-instant-proficiency/"><u>Daily Dose of Slovak Language, Instant Proficiency!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/effortless-image-format-transformation-use-the-free-user-friendly-photo-converter/"><u>Effortless Image Format Transformation: Use the Free, User-Friendly Photo Converter</u></a></li>
+<li><a href="https://common-error.techidaily.com/locating-and-fixing-the-necessary-driver-your-pc-requires-for-media-devices/"><u>Locating and Fixing the Necessary Driver Your PC Requires For Media Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-a-non-functional-corsair-keyboard/"><u>Resolved: Troubleshooting a Non-Functional Corsair Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-update-error-0x8024401c-a-step-by-step-fix-for-windows-11-users/"><u>Resolving Windows Update Error 0X8024401c: A Step-by-Step Fix for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-function-keys-problem-a-guide-on-restoring-fn-key-functionality-in-dell-computers/"><u>Solving the Function Keys Problem: A Guide on Restoring 'FN' Key Functionality in Dell Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-windows-10-failure-to-shut-down-problems-in-under-5-steps/"><u>Troubleshooting: Resolving Windows 10 Failure to Shut Down Problems in Under 5 Steps</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>Updated In 2024, Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
 </ul></div>
 

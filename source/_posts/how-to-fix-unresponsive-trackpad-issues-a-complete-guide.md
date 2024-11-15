@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unresponsive TrackPad Issues - A Complete Guide
-date: 2024-10-30T00:51:29.762Z
-updated: 2024-11-05T11:40:25.269Z
+date: 2024-11-11T17:24:12.644Z
+updated: 2024-11-15T18:06:22.507Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -43,28 +50,21 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -91,6 +91,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -115,13 +122,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -138,15 +138,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -159,13 +166,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -205,18 +205,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-create-an-individualistic-meme-masterpiece/"><u>[New] Create an Individualistic Meme Masterpiece</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlock-free-power-learn-to-edit-videos-on-vimeo/"><u>[New] Unlock FREE Power Learn to Edit Videos on Vimeo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-effective-steps-for-lifelong-disabling-of-windows-defender/"><u>5 Effective Steps for Lifelong Disabling of Windows Defender</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-smooth-windows-11-upgrade-process-and-avoiding-stucks/"><u>Expert Tips for Smooth Windows 11 Upgrade Process & Avoiding Stucks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone XS Max?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/instant-repair-for-missing-lidadll/"><u>Instant Repair for Missing Lida.dll</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/launching-mondlys-compre-written-and-interactive-qanda-zone/"><u>Launching Mondly’s Compre Written and Interactive Q&A Zone</u></a></li>
-<li><a href="https://common-error.techidaily.com/netflix-no-volume-easy-fixes-to-get-your-sounds-back/"><u>Netflix No Volume? Easy Fixes to Get Your Sounds Back</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-clear-way-to-capture-your-screen-best-free-tools-explored/"><u>The Clear Way to Capture Your Screen – Best Free Tools Explored</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-picking-a-tablet-amazon-fire-or-ipad/"><u>The Ultimate Guide to Picking a Tablet - Amazon Fire or iPad?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/topo-5-ferramentas-mais-populares-para-converter-imagens-em-arte-por-artistas-iniciante-gratuito/"><u>Topo 5 Ferramentas Mais Populares Para Converter Imagens Em Arte Por Artistas Iniciante, Gratuito</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-overwatchs-voice-chat-issues-swiftly/"><u>Troubleshoot and Fix Overwatch's Voice Chat Issues Swiftly</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-quickly-solve-your-windowslinux-high-cpu-issues-direct-actions-against-the-root-cause-shell-infrastructures/"><u>(Solution) Quickly Solve Your Windows/Linux High CPU Issues – Direct Actions Against the Root Cause, Shell Infrastructures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-panopticam-review-breakdown/"><u>[New] 2024 Approved PanoptiCam Review Breakdown</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-art-of-xbox-playback-tips-for-clear-video/"><u>[New] 2024 Approved The Art of Xbox Playback Tips for Clear Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-laptop-plugged-in-not-charging-on-windows-11/"><u>[Solved] Laptop Plugged in, Not Charging on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-trailblazing-tech-beyond-chatgpt-for-programmers-delight/"><u>7 Trailblazing Tech Beyond ChatGPT for Programmers' Delight</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-playstation-4s-persistent-ce-34878-0-eject-mechanism-problem/"><u>Effective Fixes for PlayStation 4'S Persistent CE-34878-0 Eject Mechanism Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/fortnite-optimized-on-unsupported-gpus-winning-fixes-and-tweaks/"><u>Fortnite Optimized on Unsupported GPUs: Winning Fixes and Tweaks</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-on-your-lenovo-laptops-stuck-keys/"><u>How to Restore Functionality on Your Lenovo Laptop's Stuck Keys</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/leading-cuda-based-tools-for-superior-video-transcoding-the-ultimate-guide/"><u>Leading CUDA-Based Tools for Superior Video Transcoding: The Ultimate Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/overcoming-content-constraints-s-virtual-world-for-2024/"><u>Overcoming Content Constraints 'S Virtual World for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-13-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 13 Pro Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-high-network-activity-issues-a-closer-look-at-svchostexe-and-its-impact-on-your-system/"><u>Resolve High Network Activity Issues: A Closer Look at svchost.exe and Its Impact on Your System</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-microsofts-version-1803-windows-10-update-fixed/"><u>Resolving Issues with Microsoft's Version 1803 Windows 10 Update [FIXED]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlined-browsing-navigating-multi-screen-views-in-chrome/"><u>Streamlined Browsing Navigating Multi-Screen Views in Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-laptop-power-problems-heres-why-it-might-not-be-charging/"><u>Windows 10 Laptop Power Problems? Here's Why It Might Not Be Charging</u></a></li>
 </ul></div>
 
