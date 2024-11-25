@@ -1,7 +1,7 @@
 ---
 title: Fix HP Keyboard Issues Fast - Solutions for Unresponsive Laptop Buttons
-date: 2024-11-13T17:01:31.965Z
-updated: 2024-11-15T17:34:11.678Z
+date: 2024-11-20T17:56:57.381Z
+updated: 2024-11-24T17:26:47.853Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -44,10 +48,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -55,10 +56,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -82,10 +80,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -136,10 +131,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -149,13 +141,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -199,24 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-digital-space-for-every-need-the-best-free-services-offering-massive-storage/"><u>[New] 2024 Approved Digital Space for Every Need - The Best Free Services Offering Massive Storage</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elite-videochats-enabling-online-meeting-excellence/"><u>[New] 2024 Approved Elite Videochats Enabling Online Meeting Excellence</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-zoom-communication-guide-unlocking-the-power-of-remote-conversations/"><u>[New] In 2024, The Ultimate Zoom Communication Guide Unlocking the Power of Remote Conversations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-world-of-no-cost-picture-frame-movies/"><u>[New] Unlocking the World of No-Cost Picture Frame Movies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-instagrams-rule-on-posted-videos-for-2024/"><u>[Updated] Unveiling Instagram’s Rule on Posted Videos for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-action-cameras-with-front-facing-screen/"><u>2024 Approved Best Action Cameras with Front Facing Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/blizzards-win-world-of-warcraft-dons-true-3d-visuals/"><u>Blizzard's Win: World of Warcraft Dons True 3D Visuals</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-hs50-microphone-malfunction-common-issues-and-effective-fixes/"><u>Corsair HS50 Microphone Malfunction: Common Issues & Effective Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-the-errcachemiss-error-in-your-google-chrome-browser/"><u>Effective Fixes for the ERR_CACHE_MISS Error in Your Google Chrome Browser</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-methods-to-overcome-the-windows-update-paused-at-0-hurdle/"><u>Effortless Methods to Overcome the Windows Update Paused at 0% Hurdle</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exciting-times-for-chatgpt-essential-features-in-latest-release/"><u>Exciting Times for ChatGPT: Essential Features in Latest Release</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-there-was-an-error-resetting-your-pc-in-widows-10/"><u>How to Resolve 'There Was an Error Resetting Your PC' In Widows 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210915448-resolved-fix-your-kodi-streams-say-goodbye-to-buffering/"><u>Resolved: Fix Your Kodi Streams - Say Goodbye to Buffering!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-excessive-cpu-usage-by-svchostexe-process-on-windows-10-operating-system/"><u>Resolving Excessive CPU Usage by svchost.exe Process on Windows 10 Operating System</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-secret-to-riches-5-innovative-money-making-methods-on-social-networks/"><u>The Secret to Riches: 5 Innovative Money-Making Methods on Social Networks</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-solutions-for-screen-flashing-troubleshooting-on-windows-11-computers/"><u>Ultimate Solutions for Screen Flashing Troubleshooting on Windows 11 Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-solving-connection-not-secured-issues-in-firefox/"><u>Understanding and Solving 'Connection Not Secured' Issues in Firefox</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/voice-command-mastery-the-b550-xt-experience-unveiled/"><u>Voice Command Mastery: The B550-XT Experience Unveiled</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiled-list-leading-top-10-facebook-video-downloaders-for-android/"><u>[Updated] In 2024, Unveiled List Leading Top 10 Facebook Video Downloaders for Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unraveling-the-best-solo-play-strategies-for-apex-legends/"><u>[Updated] Unraveling the Best Solo Play Strategies for Apex Legends</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficiently-updating-your-amd-radeon-rx-580-gpu-drivers-download-and-installation-tips/"><u>Efficiently Updating Your AMD Radeon RX 580 GPU Drivers – Download & Installation Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-play-solutions-to-combat-gaming-lag-frame-drops-and-glitchy-action/"><u>Enhance Your Play: Solutions to Combat Gaming Lag, Frame Drops, and Glitchy Action!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207296104-error-0x80072ee7-in-the-windows-store-easy-fixes-unveiled/"><u>Error 0X80072EE7 in the Windows Store: Easy Fixes Unveiled!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-hardware-driver-conflicts-to-enhance-performance-in-world-of-warcraft/"><u>Expert Advice: Correcting Hardware Driver Conflicts to Enhance Performance in World of Warcraft</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-blank-spots-in-device-manager-see-touchpad/"><u>Fix Blank Spots in Device Manager, See Touchpad!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-gaming-on-a-budget-asus-rog-nuc-begins-at-affordable-1629-with-core-ultra-cpu-and-rtx-gpu/"><u>Get Gaming On a Budget: Asus ROG NUC Begins at Affordable $1,629 with Core Ultra CPU and RTX GPU</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-to-equipment-selection-for-youtube-creators/"><u>Guide to Equipment Selection for YouTube Creators</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-11-pro-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 11 Pro Passcode not Working?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-directory-30plus-zero-cost-online-tools-for-visual-effects/"><u>In 2024, The Ultimate Directory 30+ Zero-Cost Online Tools for Visual Effects</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-response-from-your-external-mouse-heres-what-you-can-do/"><u>No Response From Your External Mouse? Here's What You Can Do</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-hurdle-a-comprehensive-fix-for-a-non-functional-igfx-em-component/"><u>Overcoming the Hurdle: A Comprehensive Fix for a Non-Functional iGFX EM Component</u></a></li>
+<li><a href="https://common-error.techidaily.com/repaired-malfunctioning-keyboard-typing-issue-resolved/"><u>Repaired: Malfunctioning Keyboard Typing Issue Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-incompatible-peripheral-connections-to-monitors-expert-tips/"><u>Resolving Incompatible Peripheral Connections to Monitors: Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-blurry-display-text-in-windows-11-easily/"><u>Troubleshooting and Correcting Blurry Display Text in Windows 11 Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-issues-with-the-steam-store-failing-to-load/"><u>Troubleshooting Guide: Resolving Issues with the Steam Store Failing to Load</u></a></li>
 </ul></div>
 

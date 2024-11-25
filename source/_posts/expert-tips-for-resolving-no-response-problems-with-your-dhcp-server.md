@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving No-Response Problems with Your DHCP Server
-date: 2024-11-08T18:34:43.184Z
-updated: 2024-11-15T16:38:58.190Z
+date: 2024-11-19T18:59:52.238Z
+updated: 2024-11-25T02:49:27.489Z
 tags:
   - win11
   - win10
@@ -32,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 * **Inappropriate surface**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -47,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 3. [Restart your laptop](#fix3)
 4. [Update your mouse driver](#fix4)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware damage
 
  The very first thing is to check if there’s anything cracked or missing. Check the surface of your mouse carefully and also clean it while you’re doing so.
@@ -61,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
  If it suddenly becomes sticky or silent when you click, it may be caused by a failure of the optical sensor, which suggests that the device is damaged.
 
  If you’re sure it’s caused by hardware damage, it’s time for a total replacement, rather than having them repaired, given their relatively low prices.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Replug your USB cable or USB reciever
 
@@ -78,13 +61,14 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8efba92bc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8f0a4ba40.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Wait for 1-3 minutes.
 
@@ -92,9 +76,17 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
 4) Try to use your mouse to see if works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Restart your laptop
 
  Sometimes a simple restart can help you fix a lot of computer woes, including your mouse not working issue. So if after you reconnect your mouse to the laptop, it still keeps not working, restart your laptop, please. After getting into Windows, try your mouse to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your mouse driver
 
@@ -151,18 +143,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-snappy-gaming-moments-with-these-top-5-recording-strategies-on-windows-11/"><u>[New] 2024 Approved Snappy Gaming Moments with These Top 5 Recording Strategies on Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/xpert-audio-guide-for-vloggers/"><u>[New] Expert Audio Guide for Vloggers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-zooming-into-success-syncing-with-fb-live-on-zoom-for-2024/"><u>[New] Zooming Into Success Syncing with FB Live on Zoom for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-problem-troubleshooting-inability-to-write-to-0x-targeted-memory-space/"><u>Fixed Problem: Troubleshooting Inability to Write to 0X Targeted Memory Space</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-keyboard-wont-type/"><u>Fixed: Keyboard Won't Type</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi Note 12 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/leveraging-hashtags-to-enhance-fb-user-engagement/"><u>Leveraging Hashtags to Enhance FB User Engagement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimalist-marvel-thrive-with-win11-tiny/"><u>Minimalist Marvel: Thrive with Win11 Tiny</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/probing-into-the-rights-behind-machine-made-masterpieces/"><u>Probing Into the Rights Behind Machine-Made Masterpieces</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-the-sluggish-shutdown-problem-in-windows-11/"><u>Quick Fixes: Resolving the Sluggish Shutdown Problem in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/random-key-errors/"><u>Random Key Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-isnt-your-windows-10-screen-saver-working/"><u>Troubleshooting Guide: Why Isn't Your Windows 10 Screen Saver Working?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-selection-turn-your-videos-into-text-fast/"><u>[New] 2024 Approved Best Selection Turn Your Videos Into Text Fast</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-foremost-pick-premium-audio-ringtone-artisans/"><u>[New] Foremost Pick Premium Audio Ringtone Artisans</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-achieve-stardom-in-the-digital-world-by-growing-your-facebook-followers/"><u>[New] In 2024, Achieve Stardom in the Digital World by Growing Your Facebook Followers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-quantum-hdr-101-a-complete-breakdown/"><u>[Updated] 2024 Approved Quantum HDR 101 A Complete Breakdown</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-kazam-screen-recorder-features-guide-review/"><u>2024 Approved Kazam Screen Recorder Features| Guide| Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-advanced-airpods-pro-4-by-apple-now-equipped-with-locate-my-earbuds-function-and-modernized-usb-c-power-connection-insights-revealed/"><u>Discover the Advanced AirPods Pro 4 by Apple, Now Equipped with 'Locate My Earbuds' Function and Modernized USB-C Power Connection – Insights Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fix-for-excessive-cpu-utilization-with-windows-drivers/"><u>Effective Fix for Excessive CPU Utilization with Windows Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experiencing-luxury-on-a-budget-how-the-affordable-3000-dell-gaming-laptop-delighted-us-with-surprising-perks-insights-from-zdnet/"><u>Experiencing Luxury on a Budget: How the Affordable $3,000 Dell Gaming Laptop Delighted Us with Surprising Perks - Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-decreasing-dwm-driven-gpu-strain-on-your-windows-machine/"><u>Master the Art of Decreasing DWM-Driven GPU Strain on Your Windows Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-error-code-31-a-comprehensive-guide/"><u>Resolving Windows Error Code 31: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-for-broken-system-drivers-boost-performance-swiftly/"><u>Simple Fixes for Broken System Drivers: Boost Performance Swiftly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-a-non-functioning-print-screen-on-windows-operating-systems/"><u>The Ultimate Fix for a Non-Functioning Print Screen on Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-paste-problem-persists/"><u>Windows 11: Paste Problem Persists</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-strategies-for-resolving-a-frozen-windows-11-taskbar-issue/"><u>Winning Strategies for Resolving a Frozen Windows 11 Taskbar Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac559-yamahaaturbosound-ii-sound-module-based-on-the-ymf794eymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-r44/"><u>YAC559 - Yamaha'aturboSound II Sound Module Based on the YMF794E/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

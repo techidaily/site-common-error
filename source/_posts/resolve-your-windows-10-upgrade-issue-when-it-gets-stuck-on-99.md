@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Windows 10 Upgrade Issue When It Gets Stuck on 99%%
-date: 2024-11-13T16:32:25.670Z
-updated: 2024-11-15T16:47:10.662Z
+date: 2024-11-23T03:22:45.317Z
+updated: 2024-11-25T01:06:02.521Z
 tags:
   - win11
   - win10
@@ -56,6 +56,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 ---
@@ -65,6 +69,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  Chances are your mic has not been set as the default device, so the sound won’t be played through it. To set your mic as default, you should perform the following procedure:
 
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
@@ -82,29 +90,19 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
 
  5) Again, click to highlight your mic. This time, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click**OK** to save all the changes you’ve made.
 
@@ -115,10 +113,7 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Re-enable microphone in Device Manager
@@ -129,16 +124,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right-click your mic and select**Disable device** .
 
@@ -147,13 +139,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now check to see your mic is back on track.
 
@@ -167,6 +152,10 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
@@ -178,10 +167,7 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
@@ -207,20 +193,18 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-invaluable-resource-for-zero-cost-video-and-photo-providers/"><u>[New] 2024 Approved Invaluable Resource for Zero-Cost Video and Photo Providers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-instantly-secure-your-snaps-beyond-social-platforms-for-2024/"><u>[New] Instantly Secure Your Snaps Beyond Social Platforms for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-ultimate-video-experience-12-live-and-on-demand-app/"><u>2024 Approved Ultimate Video Experience 12 Live & On-Demand App</u></a></li>
-<li><a href="https://common-error.techidaily.com/computer-continuously-loading-at-initial-boot-solutions-inside/"><u>Computer Continuously Loading at Initial Boot? Solutions Inside!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-45-device-manager-victory/"><u>Error 45: Device Manager Victory</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-windows-10-touchpad-scroll-issues/"><u>Fixing Your Windows 10 Touchpad Scroll Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-x90s-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo X90S Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/hp-d1360-printer-driver-error-on-various-windows-systems-solutions-and-tips-for-successful-setup/"><u>HP D1360 Printer Driver Error on Various Windows Systems: Solutions and Tips for Successful Setup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a25-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A25 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/oculus-troubleshooting-mastery-correcting-hardware-mishaps/"><u>Oculus Troubleshooting Mastery: Correcting Hardware Mishaps</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-lol-game-downloading-too-slowly/"><u>Resolved! How to Fix LoL Game Downloading Too Slowly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-overcome-the-common-0x80244022-error-in-windows-updates-fixed/"><u>Troubleshooting Tips to Overcome the Common 0X80244022 Error in Windows Updates [FIXED]</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unraveling-ebook-standards-how-kindles-kfx-kcr-prc-and-mobi-differ-from-standard-azw-and-topaz-formats/"><u>Unraveling eBook Standards: How Kindle's KFX, KCR, PRC & Mobi Differ From Standard AZW and Topaz Formats</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-key-components-of-a-quality-audio-editor-on-macos/"><u>Updated Key Components of a Quality Audio Editor on macOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-complete-guide-icloud-drives-desktop-anddocuments-access-in-sierra/"><u>[Updated] [Complete Guide] iCloud Drive’s Desktop &Documents Access in Sierra</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-simplified-approach-to-overhauling-facebook-photo-background/"><u>[Updated] Simplified Approach to Overhauling Facebook Photo Background</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-of-iphone-driver-packages-for-seamless-integration-with-windows-10/"><u>Easy Download of iPhone Driver Packages for Seamless Integration with Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-with-windows-10-not-identifying-hdmi-tv-step-by-step-solution/"><u>Fixing Issues with Windows 10 Not Identifying HDMI TV - Step by Step Solution</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-rhythmic-revelations-adding-audio-to-your-vimeo-videos/"><u>In 2024, Rhythmic Revelations Adding Audio to Your Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-visual-voyages-free-thematic-tools-for-youtube/"><u>In 2024, Visual Voyages Free Thematic Tools for YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-itel-s23plus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Itel S23+ Device</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728465341710-pc/"><u>PC異常発生時にデータを安全に回復する方法</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correct-bad-image-errors-on-windows-1011-systems/"><u>Step-by-Step Guide to Correct Bad Image Errors on Windows 10/11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-usb-hubs-tailored-for-playstation-5/"><u>Superior USB Hubs, Tailored for PlayStation 5</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-computer-resolving-constant-usb-not-detected-alerts-easily/"><u>Troubleshoot Your Computer: Resolving Constant 'USB Not Detected' Alerts Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-keys-on-your-windows-keyboard-easy-fixes-and-tips/"><u>Troubleshooting Unresponsive Keys on Your Windows Keyboard – Easy Fixes & Tips</u></a></li>
 </ul></div>
 

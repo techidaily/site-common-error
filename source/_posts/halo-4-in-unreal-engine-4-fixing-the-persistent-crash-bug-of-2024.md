@@ -1,7 +1,7 @@
 ---
 title: "Halo 4 in Unreal Engine 4: Fixing the Persistent Crash Bug of 2024"
-date: 2024-08-27T13:48:56.819Z
-updated: 2024-08-28T13:48:56.819Z
+date: 2024-11-21T22:29:40.038Z
+updated: 2024-11-24T17:30:23.376Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission to make changes to your device, click**Yes** .
 
  3) In the pop-up window of Command Prompt, enter the following command (**note** that there’s a space between**sfc and /** ):
@@ -66,9 +70,6 @@ sfc /scannow
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify integrity of game files
 
  There’s a possibility that some of the game files got missing or damaged during the download process.In this case, you should use the built-in tool of Steam to verify the integrity of your game files.
@@ -78,8 +79,9 @@ sfc /scannow
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Right-click on**PUBG** and select**Properties** .
 
  This method can be applied to all the steam games so please don’t be surprised if there’s no PUBG in the following screenshots. Just make sure you perform all these actions on your PUBG game.
@@ -94,13 +96,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-31.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  Now it’s time to launch the game and check whether it runs normally. If not, read the next fix and give it a whirl.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Repair or install the 2017 Visual C++ Redistributable**
 
@@ -116,16 +118,10 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-448.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  3) On the next page, go to the**LOCAL FILES** tab. Next, click **BROWSE LOCAL FILES…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-466.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) When the game folder is opened, locate**\_CommonRedist** and double-click on it. Then go on to double-click these two subfolders:**vcredist > 2017** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-471.png)
@@ -133,9 +129,14 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-469.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![This image has an empty alt attribute; its file name is image-473.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-473.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t spot a**2017** subfolder here, please download and install the**2017 Visual C++ Redistributable** by yourself. Here’s a possible download webpage for your reference:  
 [**https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads**](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
@@ -154,9 +155,6 @@ sfc /scannow
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable unsupported programs
 
  Unsupported programs are among the most common causes of games-not-launching issues. This is also true with PUBG. To solve the problem, you need to remove or disable any programs unrelated to the game, and even turn off your antivirus temporarily.
@@ -165,11 +163,19 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-296.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the**Processes** tab. Right-click on the program that needs to be ended and click**End task** . If you don’t know which program should be shut down, simply close all the background running apps that you think are unnecessary.**Note** that you shouldn’t end any processes that you’re not familiar with in case you mistakenly close the important ones.
 
  As reported by many PUBG players,**MSI Afterburner** – an overclocking tool for MSI graphics cards – may be one of the culprits for the trouble. If you happen to be using this app, make sure you turn if off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-13_10-51-43.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you find out any programs that trigger the issue, you can forward them to **[PUBG support](https://www.pubg.com/support/)**  .
 
@@ -199,25 +205,22 @@ If this didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-96.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the **FREE** version). Then install the driver in your computer.
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-97.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  If you have any problems when using Driver Easy, please feel free to drop us an email at <support@drivereasy.com>. We are always here if we can help.
 
  4) Reboot your computer and launch PUBG. Check to see whether it can run properly this time.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall PUBG
 
  If all the fixes above can’t help you solve the problem, then you should try to reinstall PUBG in case some of its crucial files have been corrupted. Here’s how to do it:
@@ -227,15 +230,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_10-55-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Expand the drop-down list next to**View by:** and select **Category** . Then, click **Uninstall a program** right under the **Programs** category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-750.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Right-click on PUBG and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-481.png)
@@ -258,8 +259,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,4 +266,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/no-hardware-detected-on-icue-diagnose-and-repair-techniques-for-effective-fixes/"><u>'No Hardware Detected on ICUE': Diagnose and Repair Techniques for Effective Fixes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebooks-easy-path-uploading-videos-via-pc-and-android-devices/"><u>[New] 2024 Approved Facebook's Easy Path Uploading Videos via PC and Android Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-choosing-between-bandicam-and-camtasia/"><u>[Updated] 2024 Approved Choosing Between Bandicam & Camtasia</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-endless-viewing-loop-your-iphone-videos-today/"><u>[Updated] In 2024, Endless Viewing Loop Your iPhone Videos Today</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-5-advanced-car-tracking-camera-systems-for-2024/"><u>[Updated] Top 5 Advanced Car Tracking Camera Systems for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/default-plugins-for-chatgpt-explored/"><u>Default Plugins for ChatGPT Explored</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964825612-effortless-installation-of-radeon-rx-ebytes-470-graphics-card-drivers-get-the-latest-version-now/"><u>Effortless Installation of Radeon RX Ebytes 470 Graphics Card Drivers – Get the Latest Version Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-error-code-0x8024200d-comprehensive-guide-to-resolving-windows-update-issues/"><u>Fixing Error Code 0X8024200D: Comprehensive Guide to Resolving Windows Update Issues</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guia-paso-a-paso-configuracion-de-una-actualizacion-automatica-con-aomei-backupper-para-macos/"><u>Guía Paso a Paso: Configuración De Una Actualización Automática Con AOMEI Backupper Para macOS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-pop-7-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Pop 7 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-repair-of-touchscreen-issues-in-windows-10-five-essential-approaches/"><u>Mastering the Repair of Touchscreen Issues in Windows 10: Five Essential Approaches</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-reactivating-a-failing-diagnostics-engine-on-your-device/"><u>Step-by-Step Guide: Reactivating a Failing Diagnostics Engine on Your Device</u></a></li>
+<li><a href="https://discover-great.techidaily.com/transform-your-images-into-ultra-hd-upgrade-to-4k-8k-or-10k-resolution-using-winxvideos-ai-technology/"><u>Transform Your Images Into Ultra HD: Upgrade to 4K, 8K, or 10K Resolution Using WinxVideo's AI Technology</u></a></li>
+</ul></div>
 

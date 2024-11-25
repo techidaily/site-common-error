@@ -1,7 +1,7 @@
 ---
 title: "Clear Computer Visual Disruptions: A Guide to Correcting Vertical Line Issues on Your Monitor"
-date: 2024-11-11T16:29:55.665Z
-updated: 2024-11-15T17:49:07.260Z
+date: 2024-11-20T20:07:15.238Z
+updated: 2024-11-24T16:40:45.000Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes For USB Keeps Disconnecting
 
@@ -60,25 +64,11 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -90,28 +80,37 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
 
@@ -129,23 +128,9 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -171,16 +156,15 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-migrating-from-spotify-to-a-personalized-youtube-music-list/"><u>[New] Migrating From Spotify to a Personalized YouTube Music List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-full-disclosure-gecata-gameplay-tracker-reviewed/"><u>[Updated] Full Disclosure Gecata Gameplay Tracker Reviewed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-earnings-go-up-with-500-subs/"><u>2024 Approved YouTube's Earnings Go Up With 500 Subs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capturing-your-world-maccam-techniques-unveiled-for-2024/"><u>Capturing Your World MacCam Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/conclusion-drivers-dont-back-opengl/"><u>Conclusion: Drivers Don't Back OpenGL</u></a></li>
-<li><a href="https://common-error.techidaily.com/cracking-the-code-how-to-fix-windows-11-error-80240020-and-ensure-smooth-installation/"><u>Cracking the Code: How to Fix Windows 11 Error 80240020 and Ensure Smooth Installation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-premier-video-door-bells-in-2e-expert-analysis-and-ratings-by-zdnet/"><u>Discover the Premier Video Door Bells in 2E: Expert Analysis and Ratings by ZDNET</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210055068-9781999216092-magic-in-the-bible/"><u>Magic In The Bible | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206186204-restore-lenovo-mouse-pad-functionality-on-your-computer-fixes-for-win-1187-users/"><u>Restore Lenovo Mouse Pad Functionality on Your Computer - Fixes for Win 11/8/7 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-issues-encountered-when-setting-up-directx-graphics-driver/"><u>Solved: Issues Encountered When Setting Up DirectX Graphics Driver</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-artisans-guide-to-picture-in-picture-videos-on-macos-systems-for-2024/"><u>The Artisan's Guide to Picture in Picture Videos on macOS Systems for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-shorter-path-cutting-video-duration-on-youtube/"><u>[New] 2024 Approved The Shorter Path Cutting Video Duration on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frolics-in-film-an-analytical-review-on-vhs/"><u>[Updated] 'Frolics in Film' An Analytical Review on VHS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ignite-your-design-prowess-top-14-text-animation-snapshots/"><u>[Updated] In 2024, Ignite Your Design Prowess Top 14 Text Animation Snapshots</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-past-mysteries-top-10-historical-channels-for-learners/"><u>[Updated] Unlocking Past Mysteries Top 10 Historical Channels for Learners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-black-friday-offer-get-45-off-the-high-tech-contixo-f24-pro-gps-4k-drone/"><u>Exclusive Black Friday Offer: Get $45 Off the High-Tech Contixo F24 Pro GPS 4K Drone!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-newest-list-of-engaging-podcast-dialogues/"><u>In 2024, Newest List of Engaging Podcast Dialogues</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-why-isnt-my-desktop-starting-the-way-it-should/"><u>Solution Guide: Why Isn't My Desktop Starting the Way It Should?</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-errconnectionrefused-problems-infographics-provided/"><u>Step-by-Step Guide: Fixing ERR_CONNECTION_REFUSED Problems [Infographics Provided]</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-significance-and-replacement-strategies-for-xinput13dll/"><u>The Significance & Replacement Strategies for XINPUT1_3.dll</u></a></li>
+<li><a href="https://common-error.techidaily.com/unrecognized-screen-input-error-what-to-do-when-your-display-wont-accept-data/"><u>Unrecognized Screen Input Error: What to Do When Your Display Won't Accept Data</u></a></li>
 </ul></div>
 

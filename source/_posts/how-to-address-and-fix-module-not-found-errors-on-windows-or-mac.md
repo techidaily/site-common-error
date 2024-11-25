@@ -1,7 +1,7 @@
 ---
 title: How to Address and Fix 'Module Not Found' Errors on Windows or Mac
-date: 2024-11-11T18:11:26.983Z
-updated: 2024-11-15T17:20:19.161Z
+date: 2024-11-20T19:29:45.072Z
+updated: 2024-11-25T01:16:40.088Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f339adae6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Both fixes below work in Windows 10, 8 and 7.
 
  Just work your way down the list until your Lenovo trackpad behaves properly again.
@@ -38,10 +42,7 @@ Both fixes below work in Windows 10, 8 and 7.
 2. [**Update your touchpad driver**](#F2)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable touchpad in settings
@@ -52,20 +53,14 @@ Both fixes below work in Windows 10, 8 and 7.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
@@ -94,10 +89,7 @@ Both fixes below work in Windows 10, 8 and 7.
 4. Check and see if your Lenovo touchpad is back to life again. ?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -125,24 +117,22 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-tv-essentials-step-by-step-upload-guide/"><u>[New] In 2024, Instagram TV Essentials Step-by-Step Upload Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pros-picks-elevating-gaming-broadcast-with-top-5-cam-tech/"><u>[Updated] 2024 Approved Pro's Picks Elevating Gaming Broadcast with Top 5 Cam Tech</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-vids-top-youtube-seo-gadgets-for-2024/"><u>[Updated] Elevate Your Vids Top YouTube SEO Gadgets for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-download-vimeo-videos-withwithout-software-100-useful/"><u>[Updated] How to Download Vimeo Videos With/Without Software [100% Useful]</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capturexpress-11-professional/"><u>[Updated] In 2024, CaptureXpress 11 Professional</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-ultimate-canon-sequence-crafts/"><u>[Updated] Perfecting Ultimate Canon Sequence Crafts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-nvidia-shield-tv-pro-gaming-enthusiasts-ultimate-media-hub/"><u>Expert Analysis of Nvidia Shield TV Pro: Gaming Enthusiasts' Ultimate Media Hub</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-stopped-audio-services-in-windows-7/"><u>Fixing the Stopped Audio Services in Windows 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-repair-key-windows-update-elements/"><u>How To Successfully Repair Key Windows Update Elements</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-failure-at-boot-time-effective-solutions-for-immediate-fixes/"><u>Keyboard Failure at Boot Time - Effective Solutions for Immediate Fixes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/lihans-premium-lhfm1039-reviewed-revolutionize-your-car-stereo-with-bluetooth-compatibility/"><u>Lihan's Premium LHFM1039 Reviewed: Revolutionize Your Car Stereo with Bluetooth Compatibility</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-silent-playstation-4-operation-expert-advice-on-dealing-with-a-loud-fan/"><u>Mastering Silent PlayStation 4 Operation: Expert Advice on Dealing With a Loud Fan</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-10-performance-by-managing-high-disk-usage-caused-by-microsoft-compatibility-telemetry/"><u>Optimizing Windows 10 Performance by Managing High Disk Usage Caused by Microsoft Compatibility Telemetry</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-slow-boot-problems-on-windows-7-systems-improve-startup-time-now/"><u>Quick Fixes for Slow Boot Problems on Windows 7 Systems - Improve Startup Time Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rethinking-the-cost-of-enhanced-ai-driven-creativity/"><u>Rethinking the Cost of Enhanced AI-Driven Creativity</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-video-cutting-and-compiling-in-studio-for-2024/"><u>The Art of Video Cutting and Compiling in Studio for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-dota-2s-changing-rendering-api-issue-a-step-by-step-guide-to-error-2024/"><u>Troubleshoot Dota 2'S Changing Rendering API Issue: A Step-by-Step Guide to Error 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-call-of-duty-ww2-error-4220-for-smoother-gaming/"><u>Troubleshooting Call of Duty WW2 Error 4220 for Smoother Gaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/unseen-sd-dont-despair-fixes-exist/"><u>Unseen SD, Don't Despair: Fixes Exist</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-art-of-flawless-conversion-from-slides-to-videos/"><u>[New] The Art of Flawless Conversion From Slides to Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-clip-groove-best-bgm-choices-for-todays-popular-yt-shorts-for-2024/"><u>[Updated] Clip Groove Best BGM Choices For Today's Popular YT Shorts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-free-mac-screenshoter-extraordinaire/"><u>[Updated] In 2024, Free Mac Screenshoter Extraordinaire</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discover-8-leading-photo-grid-designers-online/"><u>2024 Approved Discover 8 Leading Photo Grid Designers Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-microsoft-wireless-display-adapter-not-recognized-by-windows-11-systems/"><u>Comprehensive Fixes for Microsoft Wireless Display Adapter Not Recognized by Windows 11 Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-photo-and-film-capture-apps-iphone-and-android-edition/"><u>Essential Photo & Film Capture Apps IPhone & Android Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/event-id-1000-explained-resolving-issues-in-windows-7-8-and-10-platforms/"><u>Event ID 1000 Explained: Resolving Issues in Windows 7, 8 & 10 Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-getting-pathfinder-wrath-of-the-righteous-up-and-running-smoothly/"><u>Expert Advice on Getting Pathfinder: Wrath of the Righteous Up and Running Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-the-right-click-not-working-problem-in-windows-10-computers/"><u>Expert Tips for Fixing the 'Right-Click Not Working' Problem in Windows 10 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-cannot-read-from-disk-troubleshooting-steps-for-windows-users/"><u>Fixing 'Cannot Read From Disk': Troubleshooting Steps for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-endless-load-screen-issue-in-valorant-resolved/"><u>How to Fix the Endless Load Screen Issue in Valorant [Resolved]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-7s-unresponsive-audio-dilemma-a-step-by-step-guide/"><u>Resolving Windows 7'S Unresponsive Audio Dilemma: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-overcoming-windows-11-update-installation-hurdles-a-comprehensive-guide/"><u>Successfully Overcoming Windows 11 Update Installation Hurdles – A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-unavailability-of-the-smartscreen-filter-in-windows/"><u>Troubleshooting Guide: Dealing with Unavailability of the SmartScreen Filter in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-a14-4g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy A14 4G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212400773-windows-10-and-bluetooth-woes-heres-how-to-make-your-peripherals-visible-again/"><u>Windows 10 and Bluetooth Woes? Here's How to Make Your Peripherals Visible Again!</u></a></li>
 </ul></div>
 

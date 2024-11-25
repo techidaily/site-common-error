@@ -1,7 +1,7 @@
 ---
 title: "Intermittent High CPU Alerts: Windows Stop Solutions"
-date: 2024-11-13T18:12:01.771Z
-updated: 2024-11-15T18:10:36.724Z
+date: 2024-11-24T00:57:16.678Z
+updated: 2024-11-24T20:12:20.689Z
 tags:
   - win11
   - win10
@@ -40,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
@@ -48,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
@@ -60,10 +69,7 @@ Follow these:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
@@ -72,16 +78,7 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
@@ -90,23 +87,13 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
@@ -135,20 +122,22 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-jumpstart-your-career-with-a-killer-youtube-gaming-channel/"><u>[New] Jumpstart Your Career with a Killer YouTube Gaming Channel</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-strategic-marketing-insights-for-maximizing-youtube-shorts-popularity/"><u>[New] Strategic Marketing Insights for Maximizing YouTube Shorts Popularity</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhancing-video-visibility-on-youtube-with-imaginative-thumbnails/"><u>2024 Approved Enhancing Video Visibility on YouTube with Imaginative Thumbnails</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/converting-flipbuilders-flash-settings-to-non-english-options-for-a-personalized-experience/"><u>Converting FlipBuilder's Flash Settings to Non-English Options for a Personalized Experience</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-argon-ui-framework-a-complimentary-react-and-bootstrap-compatible-design-toolkit/"><u>Creative Tim's Argon UI Framework: A Complimentary React & Bootstrap-Compatible Design Toolkit</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-a-failed-to-initialize-device-driver-error-setup-guide-for-users/"><u>How to Correct a 'Failed to Initialize Device Driver' Error: Setup Guide for Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y200-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y200 Android SIM Unlock APK</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-d3d9-creation-faults-expert-tips-for-video-card-issues/"><u>Overcoming D3D9 Creation Faults: Expert Tips for Video Card Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206948543-quick-fix-for-0x800f0831-error-update-your-windows-today/"><u>Quick Fix for 0X800F0831 Error - Update Your Windows Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-microsoft-store-connectivity-issues-causing-non-opening-scenarios/"><u>Step-by-Step Fix for Microsoft Store Connectivity Issues Causing Non-Opening Scenarios</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-troubleshoot-windows-updates-not-progressing-past-1n/"><u>Step-by-Step Guide to Troubleshoot Windows Updates Not Progressing Past 1N%</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-lava-yuva-3-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Lava Yuva 3 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/windows-1011dvdmp46/"><u>Windows 10/11用DVDからMP4への上質な変換手順：6つの方法</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-update-essentials-repair-and-restoration-solutions/"><u>Windows Update Essentials: Repair & Restoration Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-integrating-secondary-shots-tips-and-tricks/"><u>[New] Integrating Secondary Shots Tips and Tricks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-iconic-instagram-aesthetics-compilation/"><u>2024 Approved Iconic Instagram Aesthetics Compilation</u></a></li>
+<li><a href="https://win-able.techidaily.com/code-vein-stuck-heres-how-to-get-unstuck-and-back-on-track/"><u>Code Vein Stuck? Here's How to Get Unstuck and Back on Track</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craft-captivating-content-with-30-video-ideas-for-2024/"><u>Craft Captivating Content with 30 Video Ideas for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/for-the-digital-novice-a-beginners-guide-to-visual-clarity-and-pixel-perfect-images-for-2024/"><u>For the Digital Novice A Beginner's Guide to Visual Clarity and Pixel-Perfect Images for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-allow-or-block-domain-users-from-using-biometrics-on-windows-11/"><u>How to Allow or Block Domain Users From Using Biometrics on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-troubleshoot-and-resolve-the-0x80070643-update-issue-in-windows-os/"><u>How to Correctly Troubleshoot and Resolve the 0X80070643 Update Issue in Windows OS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-step-into-the-archive-old-stories-on-facebook/"><u>In 2024, Step Into the Archive Old Stories on Facebook</u></a></li>
+<li><a href="https://tools.techidaily.com/stellarinfo/data-recovery-ios/"><u>iPhone Data Recovery Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212263926-keyboard-navigation-downfall-restore-function-to-up-down-left-and-right-arrows-now/"><u>Keyboard Navigation Downfall: Restore Function to Up, Down, Left & Right Arrows Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-device-driver-incompatibility-issues-in-windows-os/"><u>Overcoming Device Driver Incompatibility Issues in Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-functionality-with-proper-msvcp140dll-replacement/"><u>Restoring Functionality with Proper MSVCP140.dll Replacement</u></a></li>
+<li><a href="https://common-error.techidaily.com/secrets-revealed-gaining-access-to-modify-system-files-via-trustedinstaller/"><u>Secrets Revealed: Gaining Access to Modify System Files via TrustedInstaller</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-making-your-windows-10-recognize-a-logitech-keyboard/"><u>Step-by-Step Guide: Making Your Windows 10 Recognize a Logitech Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-error-message-missing-devices-in-windows-systems-versions-11-8-and-7/"><u>Step-by-Step Solution for Error Message - Missing Devices in Windows Systems (Versions 11, 8 & 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-overcoming-windows-update-error-0x8024402c-a-complete-solution/"><u>Ultimate Troubleshooting Tips for Overcoming Windows Update Error 0X8024402c - A Complete Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-to-new-epson-wf-3520-driver-step-by-step-guide-for-windows-users/"><u>Updating to New Epson WF 3520 Driver: Step-by-Step Guide for Windows Users</u></a></li>
 </ul></div>
 

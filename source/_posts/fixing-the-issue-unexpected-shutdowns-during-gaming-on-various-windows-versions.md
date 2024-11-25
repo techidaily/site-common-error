@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Unexpected Shutdowns During Gaming on Various Windows Versions"
-date: 2024-11-11T17:02:58.226Z
-updated: 2024-11-15T16:08:54.421Z
+date: 2024-11-21T03:26:43.982Z
+updated: 2024-11-24T20:38:10.749Z
 tags:
   - win11
   - win10
@@ -48,22 +48,12 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
@@ -82,17 +72,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -101,17 +88,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -122,10 +107,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -135,8 +117,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -160,18 +152,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-breaking-down-instagrams-video-cap-limit/"><u>[New] 2024 Approved Breaking Down Instagram's Video Cap Limit</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-detailed-steps-to-using-azure-speech-recognition/"><u>[New] 2024 Approved Detailed Steps to Using Azure Speech Recognition</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-optimizing-zoom-meetings-a-guide-to-format-upgrading/"><u>[Updated] Optimizing Zoom Meetings A Guide to Format Upgrading</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-how-to-easily-fix-error-0xc1900208-in-your-windows-11-updates/"><u>Expert Advice: How to Easily Fix Error 0Xc1900208 in Your Windows 11 Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-corrupted-windows-store-cache-complete-solution/"><u>Fixing a Corrupted Windows Store Cache - Complete Solution</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-12-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 12</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/leveraging-abbyys-expertise-ashling-partners-accelerates-automation-with-elite-program-membership-and-smart-content-insights/"><u>Leveraging ABBYY's Expertise: Ashling Partners Accelerates Automation with Elite Program Membership and Smart Content Insights</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/mastering-desktop-and-mobile-the-best-ways-to-download-fb-story/"><u>Mastering Desktop & Mobile The Best Ways to Download FB Story</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-infinix-note-30i-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Infinix Note 30i</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-diagnostics-policy-service-not-running-issue-quickly/"><u>Resolving 'Diagnostics Policy Service Not Running' Issue Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/simplify-your-pc-management-mastering-file-explorer-on-windows-10/"><u>Simplify Your PC Management: Mastering File Explorer on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-secure-access-fixing-windows-hello-availability-on-windows-11-devices/"><u>Unlocking Secure Access: Fixing Windows Hello Availability on Windows 11 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/use-strong-action-verbs-titles-with-strong-action-verbs-eg-resolving-troubleshooting-can-make-your-page-appear-more-helpful-and-engaging-to-users-searching-155/"><u>Use Strong Action Verbs: Titles with Strong Action Verbs (E.g., Resolving, Troubleshooting) Can Make Your Page Appear More Helpful and Engaging to Users Searching for Solutions to Problems.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-foreground-emphasis-tips-for-logitech-video-recordings-for-2024/"><u>[Updated] Foreground Emphasis Tips for Logitech Video Recordings for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-making-insta-videos-audio-the-ultimate-transformation-for-2024/"><u>[Updated] Making Insta Videos Audio The Ultimate Transformation for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-20plus-humorous-metaverse-memes-and-diy-creation-guide/"><u>2024 Approved 20+ Humorous Metaverse Memes & DIY Creation Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-starting-a-successful-vlog-and-earning-potential/"><u>2024 Approved Starting a Successful Vlog and Earning Potential</u></a></li>
+<li><a href="https://common-error.techidaily.com/call-of-duty-wwii-error-4220-a-comprehensive-fix-guide/"><u>Call of Duty WWII Error 4220 – A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-non-functional-night-light-feature-in-windows-11/"><u>Fixes for Non-Functional Night Light Feature in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-moto-g-5g-2023-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategic-planning-for-consistent-facebook-engagement-growth/"><u>Strategic Planning for Consistent Facebook Engagement Growth</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-high-wmi-cpu-load-in-win1011/"><u>Tackling High WMI CPU Load in Win10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solution-for-class-registration-problems-on-windows-10/"><u>Troubleshooting and Solution for Class Registration Problems on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-wireless-network-access-is-not-available/"><u>Troubleshooting Steps When Wireless Network Access Is Not Available</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-update-snafu-unraveling-and-solving-the-mystery-of-error-0xc1900208/"><u>Windows 10 Update Snafu: Unraveling and Solving the Mystery of Error 0xC1900208</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725287235085-dvddvd/"><u>ジャニーズ・ビデオ素材の自由な取り込みとコピーを可能にする専用ソフトウェア - 無料でライブ、音楽DVD、映画DVD手配</u></a></li>
 </ul></div>
 

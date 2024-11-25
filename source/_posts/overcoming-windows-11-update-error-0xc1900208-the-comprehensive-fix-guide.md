@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows 11 Update Error 0Xc1900208 - The Comprehensive Fix Guide
-date: 2024-11-13T18:36:09.391Z
-updated: 2024-11-15T17:01:13.805Z
+date: 2024-11-23T03:24:48.363Z
+updated: 2024-11-24T22:58:47.541Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -32,6 +36,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -62,42 +70,29 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -108,13 +103,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
@@ -137,10 +125,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -166,24 +151,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-exclusive-review-10-best-free-video-meeting-apps-iosandroid-for-2024/"><u>[New] Exclusive Review 10 Best Free Video Meeting Apps iOS/Android for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-video-feedback-through-apple-music-streams/"><u>[Updated] 2024 Approved Video Feedback Through Apple Music Streams</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-frost-your-view-freezing-desktop-on-pcs/"><u>[Updated] In 2024, Frost Your View Freezing Desktop on PCs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-add-music-to-facebook-videos/"><u>2024 Approved How to Add Music to Facebook Videos?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-your-syma-x8c-flight-patterns/"><u>2024 Approved Mastering Your Syma X8C Flight Patterns</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlock-potential-a-101-step-guide-to-crafting-exceptional-bios-on-facebook/"><u>2024 Approved Unlock Potential A 101-Step Guide to Crafting Exceptional Bios on Facebook</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capturing-imagery-with-a-track-discover-the-top-5-photo-experts-with-musical-accompaniment-for-2024/"><u>Capturing Imagery with a Track Discover the Top 5 Photo Experts with Musical Accompaniment for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/easing-windows-11-disruptions-with-simple-fixes/"><u>Easing WINDOWS 11 Disruptions with Simple Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/end-the-incessant-boot-loop-solving-windows-11-and-10-startup-problems/"><u>End the Incessant Boot Loop - Solving Windows 11 and 10 Startup Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/exploring-sfc-and-dism-essential-tools-for-fixing-windows-10-issues/"><u>Exploring SFC & DISM: Essential Tools for Fixing Windows 10 Issues</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-asus-rog-phone-8-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Asus ROG Phone 8 Pro Phone? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oneplus-ace-3-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On OnePlus Ace 3 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/internet-explorer-errors-heres-how-to-get-it-running-smoothly-again/"><u>Internet Explorer Errors? Here’s How to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-wireless-audio-troubleshooting-and-fix-guide-for-airpods-on-windows-pcs/"><u>Mastering Wireless Audio: Troubleshooting and Fix Guide for AirPods on Windows PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-authentication-hurdles-user-profile-service-fails-sign-in-in-modern-windows-os/"><u>Overcoming Authentication Hurdles: User Profile Service Fails Sign-In in Modern Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-how-to-get-your-bluetooth-mouse-working-on-a-windows-desktop/"><u>Step-by-Step: How to Get Your Bluetooth Mouse Working on a Windows Desktop</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-the-persistent-0x80070490-error-encountered-in-windows-update-process/"><u>The Ultimate Fix for the Persistent 0X80070490 Error Encountered in Windows Update Process</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-usb-ports-on-pc-with-windows-10-or-11/"><u>Troubleshooting Non-Functional USB Ports on PC with Windows 10 or 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-printing-issues-on-windows-locating-the-right-printer-driver/"><u>Troubleshooting Printing Issues on Windows: Locating the Right Printer Driver</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iscover-top-affordable-video-editors-of-2023-today/"><u>[New] Discover Top Affordable Video Editors of 2023 Today</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-a-professionals-primer-to-perfecting-picture-colors/"><u>[Updated] A Professional's Primer to Perfecting Picture Colors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-exploring-funimates-full-potential-for-2024/"><u>[Updated] Exploring Funimate's Full Potential for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-mov-saving-in-windows-11-top-six-methods-reviewed-for-2024/"><u>[Updated] Navigating .MOV Saving in Windows 11 - Top Six Methods Reviewed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-to-overcoming-stop-error-0x0000005-on-your-pc-solutions-and-prevention/"><u>Complete Guide to Overcoming STOP Error 0X0000005 on Your PC: Solutions & Prevention</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207483951-how-to-tackle-dota-2s-modify-graphics-api-error-message-2024-in-minutes/"><u>How to Tackle Dota 2'S 'Modify Graphics API' Error Message 2024 in Minutes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210857183-resolve-windows-file-access-issues-no-more-errors/"><u>Resolve Windows File Access Issues: No More Errors!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/secrets-to-successful-tiktok-creation-using-android-pc-for-2024/"><u>Secrets to Successful TikTok Creation Using Android, PC for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-non-functioning-night-light-on-windows-10-and-11-operating-systems/"><u>Solution Steps for Non-Functioning 'Night Light' On Windows 10 and 11 Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-sticky-keyboard-keys-in-windows-pcs/"><u>Troubleshooting and Fixing Sticky Keyboard Keys in Windows PCs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/visionary-views-discovering-futures-best-frame-apps-for-2024/"><u>Visionary Views Discovering Future's Best Frame Apps for 2024</u></a></li>
 </ul></div>
 

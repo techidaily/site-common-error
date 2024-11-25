@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Address Timeout Issues in Your Download Process
-date: 2024-11-14T18:29:34.626Z
-updated: 2024-11-15T16:33:48.693Z
+date: 2024-11-20T16:03:03.973Z
+updated: 2024-11-24T23:12:34.938Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -47,20 +51,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -71,39 +76,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
-4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
+4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -117,13 +104,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -142,6 +122,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -165,22 +150,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-phantom-replay-masterclass/"><u>[Updated] 2024 Approved Phantom Replay Masterclass</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-best-lipo-cells-for-quality-flight-time/"><u>[Updated] Navigating the Best LiPo Cells for Quality Flight Time</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-down-complex-gif-concepts-for-beginners/"><u>2024 Approved Breaking Down Complex GIF Concepts for Beginners</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-digital-revival-improving-computerized-vhs-visuals/"><u>2024 Approved Digital Revival Improving Computerized VHS Visuals</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-on-diagnosing-and-fixing-the-fatal-program-error-code-0xc0000098-in-windows/"><u>Expert Tips on Diagnosing and Fixing the Fatal Program Error Code 0Xc0000098 in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-recover-from-corrupted-system-files-in-windows-1011-without-data-loss/"><u>How to Recover From Corrupted System Files in Windows 10/11 Without Data Loss</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-youtube-views-with-smart-zoom-practices/"><u>In 2024, Transform Your YouTube Views with Smart Zoom Practices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-hurdles-wows-successful-adoption-of-3d-acceleration/"><u>Overcoming Hurdles: WoW's Successful Adoption of 3D Acceleration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-and-simple-guide-installing-hp-drivers-on-windows-11/"><u>Quick & Simple Guide: Installing HP Drivers on Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/secrets-of-the-12-restoring-hidden-videos-posted-on-facebook/"><u>Secrets of the 12 Restoring Hidden Videos Posted on Facebook</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-mic-problems-on-windows-11-a-comprehensive-fix/"><u>Solving Your Mic Problems on Windows 11 - A Comprehensive Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-solutions-for-overcoming-0x800f0922-error-in-windows-11-updates/"><u>Top Solutions for Overcoming 0X800f0922 Error in Windows 11 Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-a-non-functional-logitech-k810-keyboard-connection/"><u>Troubleshooting a Non-Functional Logitech K810 Keyboard Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211755720-troubleshooting-undetected-external-monitors-in-windows-7-solved/"><u>Troubleshooting Undetected External Monitors in Windows 7 - Solved</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-the-potential-of-file-explorer-on-windows-10-expert-advice-awaits/"><u>Unlocking the Potential of File Explorer on Windows 10: Expert Advice Awaits</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-desktop-video-editing-gopro-quik-and-beyond-for-2024/"><u>Updated Desktop Video Editing GoPro Quik and Beyond for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-optimal-video-saver-best-chromebook-recorder/"><u>[New] 2024 Approved Optimal Video Saver Best Chromebook Recorder</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-innovators-crafting-immersive-viewscape/"><u>[Updated] 2024 Approved Innovators Crafting Immersive Viewscape</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-your-igtv-presence-secrets-to-skyrocketing-subscribers/"><u>[Updated] Elevate Your IGTV Presence Secrets to Skyrocketing Subscribers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-calculator-projected-profits-from-youtube/"><u>[Updated] In 2024, Calculator Projected Profits From YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-methods-for-android-video-preservation/"><u>[Updated] Ultimate Methods for Android Video Preservation</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-windows-update-issue-error-8007000e-quick-fixes-and-expert-tips/"><u>Beat Window's Update Issue 'Error 8007000E': Quick Fixes & Expert Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/choosing-your-ideal-tablet-amazon-fire-vs-ipad-find-out-here/"><u>Choosing Your Ideal Tablet: Amazon Fire Vs. IPad - Find Out Here!</u></a></li>
+<li><a href="https://common-error.techidaily.com/detecting-issues-why-cant-i-find-wd-my-passport-ultra-drive-in-windows/"><u>Detecting Issues: Why Can't I Find WD My Passport Ultra Drive in Windows?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/te-your-content-selecting-top-thumbnail-fonts/"><u>Elevate Your Content Selecting Top Thumbnail Fonts</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-dealing-with-invalid-parameter-notifications/"><u>Expert Advice on Dealing with Invalid Parameter Notifications</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-vanishing-mouse-pointer-issue-in-windows-10-a-step-by-step-guide/"><u>Fixing the Vanishing Mouse Pointer Issue in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-magic-6-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor Magic 6 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-wevideo-easily-create-videos-online/"><u>In 2024, WeVideo Easily Create Videos Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-when-your-dvd-player-fails-in-windows/"><u>Step-by-Step Solutions When Your DVD Player Fails in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-the-volume-is-dirty-warning-error-0x80071ac3-in-windows-systems/"><u>The Ultimate Fix for the Volume Is Dirty Warning (Error 0X80071AC3) in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-d3derrnotavailable-error-swiftly/"><u>Ultimate Guide: Resolving the 'D3DERR_NOTAVAILABLE' Error Swiftly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring Compatible Cameras for Windows Hello
-date: 2024-11-12T17:53:51.994Z
-updated: 2024-11-15T16:09:53.018Z
+date: 2024-11-20T22:31:12.426Z
+updated: 2024-11-24T21:35:28.709Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,6 +56,10 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run the SFC scan
 
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **error 0x80073712** ). To **run the SFC scan** :
@@ -61,10 +69,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
@@ -79,10 +84,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run **the DISM tool**
@@ -93,24 +95,15 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **the following command**   and press **Enter** :
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Wait for a while for the whole process to finishes.
   
@@ -119,13 +112,6 @@ Wait for a while for the whole process to finishes.
  4) Check Windows Update and see if it works this time.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Delete Windows Update Cache
 
@@ -136,10 +122,7 @@ Wait for a while for the whole process to finishes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Scroll down to the bottom, right-click on **Windows Update**  . Then click**Stop** .
@@ -148,7 +131,15 @@ Wait for a while for the whole process to finishes.
 
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Press**Ctrl** and**A** at the same time, then right-click to pop up a menu and click**Delete** .
 
@@ -158,25 +149,11 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ab04cd2f7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Back to the**Services** window, right-click on**Windows Update** and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
 
  7) Restart your computer and try the Windows update again to see if the error code disappears.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Use **Media Creation Tool** to have a clean installation of Windows 10
 
@@ -185,13 +162,6 @@ Wait for a while for the whole process to finishes.
  After that, check if the**0x80073712** error code problem has been sorted.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -218,24 +188,22 @@ Wait for a while for the whole process to finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-optimize-media-storage-tips-and-tricks-for-mov-on-windows-pcs/"><u>[New] Optimize Media Storage Tips & Tricks for .mov on Windows PCs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unshakable-imagery-techniques/"><u>[New] Unshakable Imagery Techniques</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-integrated-story-spread-4-simple-steps-on-fb/"><u>[Updated] 2024 Approved Integrated Story Spread 4 Simple Steps on FB</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-your-blueprint-to-outstanding-iphone-hdr-photography/"><u>[Updated] In 2024, Your Blueprint to Outstanding iPhone HDR Photography</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-insights-pro-tips-for-downloading-igtv-videos-on-computers/"><u>2024 Approved Instagram Insights Pro Tips for Downloading IGTV Videos on Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-improved-keyboard-reaction-times/"><u>Effortless Fixes for Improved Keyboard Reaction Times</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/enhance-video-aesthetics-instagram-border-techniques-for-2024/"><u>Enhance Video Aesthetics Instagram Border Techniques for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-netflix-error-how-to-turn-off-unblockers-for-smooth-streaming/"><u>Fixing Netflix Error: How to Turn Off Unblockers for Smooth Streaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-start-menu-in-windows-11/"><u>How To Fix a Non-Responsive Start Menu in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-stuck-torrent-download-issue/"><u>How To Fix A Stuck Torrent Download Issue</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-camon-20-premier-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Tecno Camon 20 Premier 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-eboot-your-systems-performance-tackling-the-problem-of-microsoft-compatibility-telemetry-overusing-disk-resources/"><u>Optimizing Windows Eboot Your System's Performance: Tackling the Problem of Microsoft Compatibility Telemetry Overusing Disk Resources</u></a></li>
-<li><a href="https://common-error.techidaily.com/reappear-your-vanished-system-trays-volume-icon-on-windows-10-a-visual-guide/"><u>Reappear Your Vanished System Tray's Volume Icon on Windows 10: A Visual Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simplify-your-digital-life-effortless-notification-management-tips-for-iphone-and-ipad/"><u>Simplify Your Digital Life: Effortless Notification Management Tips for iPhone & iPad</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-laptop-trackpad-malfunctions-for-windows-1187-users-with-these-simple-steps/"><u>Solve Laptop Trackpad Malfunctions for Windows 11/8/7 Users with These Simple Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-workflow-with-the-ultimate-win-11-guide/"><u>Streamline Your Workflow with the Ultimate Win 11 Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-educational-apathy-head-on-practical-tips-for-students/"><u>Tackling Educational Apathy Head-On: Practical Tips for Students</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210644825-9780349431758-tapping-in/"><u>Tapping In | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-graphics-card-with-no-alpha-blending-support/"><u>Troubleshooting Guide for Graphics Card with No Alpha Blending Support</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-an-error-occurred-while-installing-updating-steam-games/"><u>[Fixed] An Error Occurred While Installing/ Updating Steam Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-10-game-changing-apps-for-live-sports-and-premier-league-watching/"><u>[New] In 2024, Top 10 Game-Changing Apps for Live Sports & Premier League Watching</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-step-by-step-approach-to-boosting-your-podcasts-seo/"><u>[Updated] A Step-by-Step Approach to Boosting Your Podcast's SEO</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-securing-sponsorships-amidst-content-creation/"><u>[Updated] Mastering Instagram Securing Sponsorships Amidst Content Creation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-recording-wonders-lightweight-win-11-edition-for-2024/"><u>[Updated] Recording Wonders Lightweight Win 11 Edition for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-15-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 15 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-xiaomi-redmi-k70-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Xiaomi Redmi K70.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tips-and-solutions-to-resolve-the-avcodecdll-missing-file-issue/"><u>Easy Tips and Solutions to Resolve the avcodec.dll Missing File Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-rectifying-non-functional-touchpad-scrolling-on-laptopspcs/"><u>Effective Remedies: Rectifying Non-Functional Touchpad Scrolling on Laptops/PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-blanked-second-display-on-win10win11/"><u>Eliminating Blanked Second Display on Win10/Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-hp-laptops-webcam-malfunctions-in-windows-10-a-comprehensive-guide/"><u>Fixing Your HP Laptop's Webcam Malfunctions in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-instant-access-to-reliable-windows-10-usb-c-support-and-download-tools/"><u>Get Instant Access to Reliable Windows 10 USB-C Support and Download Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-fixing-windows-11s-inability-to-recognize-bluetooth-peripherals/"><u>Guide: Fixing Windows 11'S Inability to Recognize Bluetooth Peripherals</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-the-night-light-option-in-windows-11-when-it-stops-working/"><u>How to Reactivate the Night Light Option in Windows 11 when It Stops Working</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/insights-into-what-codegpt-is-and-its-coding-potential/"><u>Insights Into What CodeGPT Is and Its Coding Potential</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-buffering-masterful-ways-to-improve-streaming-on-kodi/"><u>Say Goodbye to Buffering: Masterful Ways to Improve Streaming on Kodi</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-complete-fix-manual-what-to-do-when-you-encounter-a-black-screen-on-dell-systems/"><u>The Complete Fix Manual: What to Do When You Encounter a Black Screen on Dell Systems</u></a></li>
 </ul></div>
 

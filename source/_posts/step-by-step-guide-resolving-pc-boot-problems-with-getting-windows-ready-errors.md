@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving PC Boot Problems with 'Getting Windows Ready' Errors"
-date: 2024-11-11T17:02:51.067Z
-updated: 2024-11-15T17:11:56.243Z
+date: 2024-11-18T22:34:33.983Z
+updated: 2024-11-24T16:20:38.573Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **C:\\Windows\\System32\\drivers\\etc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3567542f7b.png)
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c357b799ed0.png)
 
  4) Restart your Chrome and go to the website to see if successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Clear your SSL state
 
@@ -59,27 +67,17 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35a29d09e6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Network and Internet**  in the**Category**  section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35ad5a4675.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click **Network** **and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35b2a96e3d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click**Internet** **Options** .
 
@@ -94,10 +92,7 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35de82e9dd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) Click **OK** .
@@ -117,10 +112,7 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
  3) Restart your Chrome and go to the website to see if successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Make sure the Date and Time is correct on your Windows
@@ -137,13 +129,6 @@ Restart your Chrome and go to the website to see if successfully.
 
 Restart your Chrome and go to the website to see if successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 6: Make sure you’re going to the secure website
 
  To enable users to browse safely on Chrome, Chrome requires websites use trustworthy certificates. A secure website must have trustworthy SSL(Secure Sockets Layer) certificates; In other words, if the website doesn’t have a trustworthy SSL certification on Chrome, you may face this error.
@@ -155,16 +140,7 @@ To check if a website is secure:
  Over a secure connection, the address should begin with **https** (note the **s**  at the end).
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2: See the security status on the address bar of Chrome
@@ -173,15 +149,16 @@ To the left of the website address, check the security status:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3858db33d0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Besides **Secure** , the secure status can also be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c386f232916.png) or ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3870b99499.png) , click the status for more detailed information.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Google Chrome](https://tools.techidaily.com/drivereasy/download/)
@@ -201,21 +178,24 @@ To the left of the website address, check the security status:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-10-high-quality-camera-gimbals-iphoneandroiddslr-reconnaissance/"><u>[New] 10 High-Quality Camera Gimbals IPhone/Android/DSLR Reconnaissance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-image-intensifiers-ranking-the-best-10-photography-lenses/"><u>[New] Image Intensifiers Ranking the Best 10 Photography Lenses</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-complete-introduction-to-snapchats-new-feature/"><u>[Updated] A Complete Introduction to Snapchat's New Feature</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-honor-x50-gt-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor X50 GT Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-fixes-getting-your-mouse-and-keyboard-back-to-life-on-windows-7/"><u>Expert Fixes: Getting Your Mouse and Keyboard Back to Life on Windows 7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-your-computer-from-experiencing-werfaultexe-errors-a-users-manual/"><u>How To Stop Your Computer From Experiencing WerFault.exe Errors - A User's Manual</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-gionee-f3-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Gionee F3 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y55s 5G (2023)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gentle-pace-reducing-music-intensity/"><u>In 2024, Gentle Pace Reducing Music Intensity</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-xerox-printer-error-0x800f020b-on-windows-systems/"><u>Resolving Xerox Printer Error 0X800F020B on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-minecraft-local-network-woes-effective-strategies-and-advice/"><u>Solve Your Minecraft Local Network Woes - Effective Strategies and Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-tips-for-repairing-your-ps4-microphone-issues/"><u>Top Tips for Repairing Your PS4 Microphone Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-hdcp-compliant-displays-solutions-and-tips/"><u>Troubleshooting Non-HDCP Compliant Displays - Solutions and Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-overvoltage-situations-on-your-devices-connector-point/"><u>Understanding and Fixing Overvoltage Situations on Your Device's Connector Point</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unleash-the-power-of-your-devices-with-beatit-bt-d11-portable-charger-analysis/"><u>Unleash the Power of Your Devices with Beatit BT-D11 Portable Charger Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-step-into-a-world-of-magic-expert-led-guide-to-snapchat-edits/"><u>[New] 2024 Approved Step Into a World of Magic Expert-Led Guide to Snapchat Edits</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201213238-solved-error-1067-the-process-terminated-unexpectedly-on-windows/"><u>[SOLVED] “Error 1067: The Process Terminated Unexpectedly” On Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-highest-rated-10-online-subtitle-tools/"><u>[Updated] In 2024, Highest-Rated 10 Online Subtitle Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artistic-exploration-at-your-fingertips-using-microsoft-bings-dall-e-3-for-free/"><u>Artistic Exploration at Your Fingertips: Using Microsoft Bing's DALL-E 3 for Free</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-fixes-for-geforce-shadowplays-unsuccessful-installation-dilemma/"><u>Efficient Fixes for GeForce ShadowPlay's Unsuccessful Installation Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-error-to-ease-the-nvidia-install-journey/"><u>From Error to Ease: The NVIDIA Install Journey</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209242986-how-to-get-your-lost-invisible-desktop-windows-back/"><u>How To Get Your Lost, Invisible Desktop Windows Back</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-v27-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo V27 Pro Without PUK Codes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-razr-40-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-g24-power-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola G24 Power</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comparing-picku-vs-androids-leading-photo-editor/"><u>In 2024, Comparing PickU Vs. Android's Leading Photo Editor</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-gionee-f3-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Gionee F3 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-repair-guide-for-windows-11-disk-scanning-issues-ensuring-smooth-system-performance/"><u>Quick Repair Guide for Windows 11 Disk Scanning Issues: Ensuring Smooth System Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-the-mystery-of-svchostexe-understanding-netsvcs-and-solutions-to-reduce-its-heavy-network-consumption/"><u>Tackling the Mystery of svchost.exe: Understanding NETsvcs & Solutions to Reduce Its Heavy Network Consumption</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-13-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 13 You Should Try Out</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-strategies-for-converting-vimeo-video-content-into-high-quality-mp3-files/"><u>Top Strategies for Converting Vimeo Video Content Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-missing-dll-vcruntime130-on-windows-11-for-smooth-program-execution/"><u>Troubleshoot and Resolve Missing DLL: VCRUNTIME130 on Windows 11 for Smooth Program Execution</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-mousepads-on-windows-operating-systems-fixes-for-win-1087/"><u>Troubleshooting Unresponsive Mousepads on Windows Operating Systems - Fixes for WIN 10/8/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-overcoming-issues-with-pen-and-touch-not-working-on-your-screen/"><u>Troubleshooting: Overcoming Issues with Pen and Touch Not Working on Your Screen</u></a></li>
 </ul></div>
 

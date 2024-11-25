@@ -1,7 +1,7 @@
 ---
 title: Desktop Icon Vanishing Act on Windows 11? Here's How to Get Them Back
-date: 2024-11-10T16:13:49.625Z
-updated: 2024-11-15T16:44:21.525Z
+date: 2024-11-23T21:57:10.361Z
+updated: 2024-11-24T17:50:48.336Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If your desktop icons somehow disappear on your Windows 10 computer, don’t wor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these tips
 
 You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -36,10 +40,7 @@ You don’t have to try them all; just work your way down the list until you fin
 6. [**Bonus tip**](#t7)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 1: Enable Show desktop icons
@@ -51,6 +52,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
 
@@ -73,10 +78,7 @@ You can also try these steps to rebuild the icon cache:
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
@@ -97,15 +99,13 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
@@ -122,21 +122,11 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 2. Click **Update & security** \> **Recovery**.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -156,10 +146,7 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
@@ -188,21 +175,21 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-elevate-your-twitch-stream-game-with-these-5-steps/"><u>[New] 2024 Approved Elevate Your Twitch Stream Game with These 5 Steps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-easy-way-capture-your-minecraft-moments-with-these-simple-mac-tips/"><u>[New] In 2024, The Easy Way Capture Your Minecraft Moments with These Simple Mac Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweet-to-whatsapp-video-dissemination-methods/"><u>[New] Tweet-to-WhatsApp Video Dissemination Methods</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-achieving-zen-in-meetings-how-to-disable-background-speech/"><u>2024 Approved Achieving Zen in Meetings How to Disable Background Speech</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-vida-a-comprehensive-look-at-our-editing-tool/"><u>2024 Approved Vida A Comprehensive Look at Our Editing Tool</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-realtek-rtl8188cu-wireless-network-adapter-driver-for-windows-11-7/"><u>Download Realtek RTL8188CU Wireless Network Adapter Driver for Windows 11, 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fix-for-non-connecting-airpods-on-laptops-latest-tips-and-techniques-202e/"><u>Easy Fix for Non-Connecting AirPods on Laptops - Latest Tips & Techniques (202E)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-best-audio-to-text-conversion-apps-of-202-(elab)(elab)the-top-speech-recognition-applications-ranked/"><u>Expert Picks: Best Audio to Text Conversion Apps of 202 <Elab></Elab>The Top Speech Recognition Applications Ranked</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-network-connection-errors-due-to-unplugged-cables/"><u>Fixing Windows Network Connection Errors Due to Unplugged Cables</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-videos-to-audible-pleasures-online-mp3-creation-secrets/"><u>In 2024, FB Videos to Audible Pleasures Online MP3 Creation Secrets</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-problem-solved-what-to-do-when-backspace-wont-work-anymore/"><u>Keyboard Problem Solved: What to Do When 'Backspace' Won't Work Anymore</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/score-the-highest-gaming-quality-with-our-best-ever-rated-dell-s3222dgm-for-a-shocking-low-of-229/"><u>Score the Highest Gaming Quality with Our Best Ever Rated Dell S3222DGM for a Shocking Low of $229</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-secure-trustwise-modification-rights-on-your-system-files/"><u>Steps to Secure TrustWise Modification Rights on Your System Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-crackling-audio-on-your-pc-with-windows-11-and-7-solved/"><u>Troubleshooting Crackling Audio on Your PC with Windows 11 & 7 - Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-failed-sign-in-errors-in-user-profile-services-on-windows-operating-systems/"><u>Troubleshooting Failed Sign-In Errors in User Profile Services on Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/unreachable-blizzard-services-offline/"><u>Unreachable: Blizzard Services Offline</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-detailed-steps-to-supercharge-your-youtube-audio-content/"><u>[New] In 2024, Detailed Steps to Supercharge Your YouTube Audio Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-sculptive-strategies-in-creating-striking-fb-video-ads/"><u>[New] In 2024, Sculptive Strategies in Creating Striking Fb Video Ads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-the-art-of-fbx-less-game-capture-techniques/"><u>[Updated] In 2024, Mastering the Art of FBX-Less Game Capture Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-ditch-microsofts-phone-link-discover-the-superior-alternative-application/"><u>1. Ditch Microsoft's Phone Link: Discover the Superior Alternative Application</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inshot-soundsmith-adding-audio-to-videos/"><u>2024 Approved InShot Soundsmith Adding Audio to Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-hs50-headset-mic-fault-troubleshooting-and-fixes/"><u>Corsair HS50 Headset Mic Fault: Troubleshooting & Fixes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/crafting-compelling-videos-the-instagram-editors-playbook-for-2024/"><u>Crafting Compelling Videos The Instagram Editor's Playbook for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-the-role-of-xinput13dll-in-systems/"><u>Decoding the Role of XINPUT1_3.dll in Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/easing-past-the-stumbling-blocks-in-nvidia-install/"><u>Easing Past the Stumbling Blocks in NVIDIA Install</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-error-0x80071ac3-volume-corruption-diagnosis-and-restoration-tips/"><u>Effective Fixes for Error 0X80071AC3 - Volume Corruption Diagnosis and Restoration Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-11-pro-maxipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 11 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-engagement-selective-rank-tracker-utilities-revealed/"><u>In 2024, Maximize Engagement Selective Rank Tracker Utilities Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-link-blizzard-support-unavailable/"><u>No Link: Blizzard Support Unavailable</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-and-simplify-a-user-friendly-approach-to-shorts-thumbnails-for-2024/"><u>Streamline & Simplify A User-Friendly Approach to Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-overcoming-the-error-0x802e200d-in-windows-updates-guide/"><u>Troubleshooting Tips for Overcoming the 'Error 0X802e200d' In Windows Updates [GUIDE]</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-destiny-2-server-connectivity-problems/"><u>Ultimate Guide: Resolving Destiny 2 Server Connectivity Problems</u></a></li>
 </ul></div>
 

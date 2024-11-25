@@ -1,7 +1,7 @@
 ---
 title: Solutions for When Your System Says a Required Component Is Missing
-date: 2024-11-14T17:02:08.451Z
-updated: 2024-11-15T17:09:52.714Z
+date: 2024-11-21T23:30:11.933Z
+updated: 2024-11-24T20:17:11.972Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Read on this page and follow the steps:
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Disable the full screen optimization of your game application
 
  This error happens mostly due to the automatic full screen optimization. You can solve it by easily disable the full screen optimization.
@@ -49,9 +53,17 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a75563e4f956.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on your game .exe file and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7556d9700b6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Tick on **Disable fullscreen optimizations**  under the **Compatibility**  pane. Then click **Apply**  \> **OK** .
 
@@ -60,10 +72,7 @@ To do that, please follow these easy steps:
 4) Relaunch your game application to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Update your graphics card driver
@@ -82,13 +91,6 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755a27bdf2b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged graphics card driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -96,10 +98,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755f4db1724.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer to make the new driver take effect, and relaunch your game to see if it works now.
@@ -121,18 +120,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-guide-to-steam-pro-controllers-on-switch-for-2024/"><u>[New] The Ultimate Guide to Steam Pro Controllers on Switch for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-techniques-recording-playstation-4-games-for-2024/"><u>[Updated] Essential Techniques Recording PlayStation 4 Games for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/avoiding-darkness-with-lightrooms-dynamic-range-technique/"><u>Avoiding Darkness with Lightroom’s Dynamic Range Technique</u></a></li>
-<li><a href="https://common-error.techidaily.com/banishing-the-pitch-black-display-at-game-boot-for-monster-hunter-world-players/"><u>Banishing the Pitch-Black Display at Game Boot for Monster Hunter: World Players</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/call-of-duty-wz20-pc-users-guide-resolving-recurring-crashes-during-play/"><u>Call of Duty WZ2.0 PC Users Guide: Resolving Recurring Crashes During Play</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-recover-and-fix-broken-system-files-on-windows-11/"><u>Effective Strategies to Recover and Fix Broken System Files on Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-taking-off-and-putting-on-your-androidiphones-protective-layer/"><u>Expert Advice: Taking Off & Putting On Your Android/iPhone's Protective Layer</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/guia-paso-a-paso-para-integrar-multiples-copias-de-seguridad-en-una-unica-foto-maestra/"><u>Guía Paso a Paso Para Integrar Múltiples Copias De Seguridad en Una Única Foto Maestra</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-unexpected-display-glitches-on-your-windows-10-computer/"><u>How To Stop Unexpected Display Glitches on Your Windows 10 Computer</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-edible-media-recipe-tutorials/"><u>In 2024, The Art of Edible Media Recipe Tutorials</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-infinix-note-30-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Infinix Note 30 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-successfully-starting-minecraft-after-winodws-glitches/"><u>Step-by-Step Tutorial: Successfully Starting Minecraft After Winodws Glitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-issues-with-your-left-click-mouse/"><u>Troubleshooting Guide: Solving Issues with Your Left-Click Mouse</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-innovative-titles-to-lengthen-viewing-times-within-limit/"><u>[New] 2024 Approved Innovative Titles to Lengthen Viewing Times (Within Limit)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-expert-strategies-elevating-interview-audio-quality-with-iphoneipad/"><u>[New] In 2024, Expert Strategies Elevating Interview Audio Quality with iPhone/iPad</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-prime-sites-where-your-presents-stand-out-in-a-sea-of-boxes-for-2024/"><u>[Updated] Prime Sites Where Your Presents Stand Out in a Sea of Boxes for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-finding-chrome-companions-custom-melodies/"><u>2024 Approved Finding Chrome Companion's Custom Melodies</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-for-resolving-steam-server-not-found-errors-and-connectivity-problems/"><u>Effective Strategies for Resolving Steam Server Not Found Errors and Connectivity Problems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effective-techniques-for-scaling-down-ultra-hd-videos/"><u>Effective Techniques for Scaling Down Ultra HD Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-disk-space-consumption-caused-by-windows-11s-compatibility-telemetry/"><u>How to Fix Elevated Disk Space Consumption Caused by Windows 11'S Compatibility Telemetry</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-ce-34878-0-code-on-your-playstation-4-a-step-by-step-guide/"><u>How To Fix the CE-34878-0 Code on Your PlayStation 4: A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-15-pro-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 15 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-mouse-right-click-not-working-in-windows-11/"><u>How To Solve Mouse Right Click Not Working in Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-se-2020-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-link-distribution-for-your-chatgpt-interactions/"><u>Mastering the Art of Link Distribution for Your ChatGPT Interactions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recording-your-world-how-camstudio-redefined/"><u>Recording Your World - How CamStudio Redefined</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-how-to-access-and-drag-windows-that-are-not-visible-on-monitor-edge/"><u>Solution: How to Access and Drag Windows That Are Not Visible on Monitor Edge</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-windows-n64-class-registration-failures/"><u>Step-by-Step Guide: Resolving Windows N64 Class Registration Failures</u></a></li>
 </ul></div>
 

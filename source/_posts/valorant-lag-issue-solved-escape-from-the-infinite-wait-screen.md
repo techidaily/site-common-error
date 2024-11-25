@@ -1,7 +1,7 @@
 ---
 title: "Valorant Lag Issue Solved: Escape From the Infinite Wait Screen"
-date: 2024-11-13T16:09:45.926Z
-updated: 2024-11-15T17:16:26.832Z
+date: 2024-11-23T21:22:58.130Z
+updated: 2024-11-24T16:33:30.027Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/7bdbd3764d17d309bfae3520695cdadc9f0f0ab5e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
 
  All the fixes below work in**Windows 10** . Just work your way down the list until the problem is resolved.
@@ -30,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/7bdbd3764d17d309bfae3520695cdadc9f0f0ab5e
 2. [**Update your audio driver**](#F2)
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -48,33 +45,21 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
@@ -96,15 +81,16 @@ Here’s how to do it:
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -120,13 +106,6 @@ To do so:
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
@@ -165,20 +144,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-chaptered-cinema-on-vimeo-cutting-techniques-explained-for-2024/"><u>[New] Chaptered Cinema on Vimeo Cutting Techniques Explained for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-host-smart-and-cheap-your-guide-to-youtube-seminars/"><u>[Updated] Host Smart and Cheap Your Guide to Youtube Seminars</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-quick-guide-to-recording-presentations-using-webcam/"><u>[Updated] Quick Guide to Recording Presentations Using Webcam</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722891880866-anticipated-launch-of-samsung-galaxy-s25-ultra-latest-price-forecasts-and-release-timeline-revealed/"><u>Anticipated Launch of Samsung Galaxy S25 Ultra - Latest Price Forecasts & Release Timeline Revealed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bypassing-youtube-previews-the-invisible-button-hack-for-2024/"><u>Bypassing YouTube Previews The Invisible Button Hack for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211737981-easy-fixes-for-windows-10-bluetooth-not-detected-problems-get-connected-now/"><u>Easy Fixes for Windows 10 Bluetooth Not Detected Problems – Get Connected Now</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-free-online-platform-convert-any-fb-video-into-a-song/"><u>In 2024, Free Online Platform Convert Any FB Video Into a Song</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-interruptions-a-simple-guide-for-fixing-windows-11-endless-startup-loops/"><u>No More Interruptions: A Simple Guide for Fixing Windows 11 Endless Startup Loops</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-easy-anti-cheat-hurdle-unlocking-the-launch-of-the-new-world/"><u>Overcoming 'Easy Anti-Cheat' Hurdle: Unlocking the Launch of the New World</u></a></li>
-<li><a href="https://blog-min.techidaily.com/resize-avi-videos-to-smaller-sizes-with-enhanced-quality-using-avi-video-resizer/"><u>Resize AVI Videos to Smaller Sizes with Enhanced Quality Using AVI Video Resizer</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/risoluzione-dei-problemi-con-i-moduli-di-recupero-di-hotmail-tecniche-efficienti-per-la-guida-utente/"><u>Risoluzione Dei Problemi Con I Moduli Di Recupero Di Hotmail: Tecniche Efficienti per La Guida Utente</u></a></li>
-<li><a href="https://common-error.techidaily.com/setup-correct-but-device-echoes-silence-instead-of-signal/"><u>Setup Correct, But Device Echoes Silence Instead of Signal</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-repair-guide-eliminating-the-dxgkrnl-fatal-error-from-your-windows-videos/"><u>Step-by-Step Repair Guide: Eliminating the Dxgkrnl Fatal Error From Your Windows Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-error-when-your-computer-cant-find-d3dx939dll/"><u>Troubleshooting Guide: Fixing the Error When Your Computer Can't Find d3dx9_39.dll</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-a-non-responsive-razer-keyboard/"><u>Troubleshooting Tips: Fixing a Non-Responsive Razer Keyboard</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-accelerated-learning-quick-start-to-becoming-a-lut-expert/"><u>[New] Accelerated Learning Quick Start to Becoming a LUT Expert</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-discover-the-top-10-iosandroid-vr-games/"><u>[New] Discover the Top 10 iOS/Android VR Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-epic-youtube-playback-stories/"><u>[Updated] In 2024, Epic YouTube Playback Stories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886280358-android-16-unveiled-app-reviews-anticipated-costs-official-release-info-and-buzzworthy-tech-details-inside/"><u>Android 16 Unveiled: App Reviews, Anticipated Costs, Official Release Info & Buzzworthy Tech Details Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206749006-critical-fix-semaphore-exceeds-allotted-time-limit-problem-solved/"><u>Critical Fix: Semaphore Exceeds Allotted Time Limit, Problem Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-and-rectifying-an-intractable-directx-error/"><u>Deciphering and Rectifying an Intractable DirectX Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-random-failures-of-your-wireless-mouse-for-enhanced-pc-usability-on-windows-1110/"><u>Diagnosing and Fixing Random Failures of Your Wireless Mouse for Enhanced PC Usability on Windows 11/10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/essential-video-and-photography-makers-who-mix-sounds/"><u>Essential Video & Photography Makers Who Mix Sounds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-ace-2v-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Ace 2V?</u></a></li>
+<li><a href="https://common-error.techidaily.com/improving-interaction-speed-between-printer-and-scan-devices-epson/"><u>Improving Interaction Speed Between Printer & Scan Devices (Epson)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pixiz-essentials-from-stills-to-moving-images/"><u>In 2024, Pixiz Essentials From Stills to Moving Images</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restore-volume-control-functionality-on-windows-nx/"><u>Step-by-Step Solution: Restore Volume Control Functionality on Windows nX</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-facilement-un-fichier-f4v-en-swf-pour-flash-avec-loutil-gratuit-de-conversion-en-ligne-de-movavi/"><u>Transformer Facilement Un Fichier F4V en SWF Pour Flash Avec L'outil Gratuit De Conversion en Ligne De Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-print-to-pdf-functionality-in-windows-11-by-microsoft/"><u>Troubleshooting Print to PDF Functionality in Windows 11 by Microsoft</u></a></li>
+<li><a href="https://common-error.techidaily.com/wow-reimagined-revolutionizing-gaming-experience-with-advanced-3d-graphics/"><u>WoW Reimagined: Revolutionizing Gaming Experience with Advanced 3D Graphics</u></a></li>
 </ul></div>
 

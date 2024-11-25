@@ -1,7 +1,7 @@
 ---
 title: "Reviving Your Lenovo Laptop's Webcam: A Comprehensive Troubleshooting Guide"
-date: 2024-11-12T16:00:45.407Z
-updated: 2024-11-15T17:57:13.798Z
+date: 2024-11-17T16:32:33.133Z
+updated: 2024-11-25T01:56:36.569Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **C:\\Windows\\System32\\drivers\\etc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3567542f7b.png)
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
  3) Click **hosts** . Then right-click on it to select **Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c357b799ed0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your Chrome and go to the website to see if successfully.
 
@@ -63,20 +71,21 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35ad5a4675.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **Network** **and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35b2a96e3d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Internet** **Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35c7a40df1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Click **Clear SSL state**  in **Content** .
 
@@ -90,19 +99,6 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35e0d12a4a.png)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Restart your Chrome and go to the website to see if successfully.
 
 ## Method 3: Disable the QUIC protocol on your Chrome
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 
  3) Restart your Chrome and go to the website to see if successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: Make sure the Date and Time is correct on your Windows
 
  If the date and time go behind of the current ones, Chrome may also show this error. Make sure the date and time on your Windows are correct: (On the bottom right in your Task bar)
@@ -122,19 +122,13 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c361a426aaa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Restart your Chrome and go to the website to see if successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Check the website in your Firewall
@@ -143,48 +137,25 @@ Restart your Chrome and go to the website to see if successfully.
 
 Restart your Chrome and go to the website to see if successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 6: Make sure you’re going to the secure website
 
  To enable users to browse safely on Chrome, Chrome requires websites use trustworthy certificates. A secure website must have trustworthy SSL(Secure Sockets Layer) certificates; In other words, if the website doesn’t have a trustworthy SSL certification on Chrome, you may face this error.
 
 To check if a website is secure:
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 1: See its URL
 
  Over a secure connection, the address should begin with **https** (note the **s**  at the end).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 2: See the security status on the address bar of Chrome
 
 To the left of the website address, check the security status:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3858db33d0.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides **Secure** , the secure status can also be
 
@@ -207,19 +178,24 @@ To the left of the website address, check the security status:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-teaser-film-assortment/"><u>[New] Pinnacle Teaser Film Assortment</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exploring-best-pairing-practices-in-the-youtube-space/"><u>[Updated] 2024 Approved Exploring Best Pairing Practices in the YouTube Space</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-online-presence-top-30-freefire-hashtags-and-tag-strategies/"><u>[Updated] In 2024, Boosting Online Presence Top 30 FreeFire Hashtags and Tag Strategies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-seamless-integration-of-phone-and-pc-timelines-with-zoom-meetings/"><u>[Updated] In 2024, Seamless Integration of Phone & PC Timelines with Zoom Meetings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-apps-upgrade-your-mobile-movies-instantly-for-2024/"><u>[Updated] Top Apps Upgrade Your Mobile Movies Instantly for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-comparing-features-avi-video-converter-factory-vs-pro-version/"><u>1. Comparing Features: AVI Video Converter Factory Vs. Pro Version</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-audio-functionality-when-windows-1n-detects-no-output-device-installed/"><u>How to Restore Audio Functionality When Windows 1N Detects No Output Device Installed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-storytelling-with-epic-videos/"><u>In 2024, Instagram Storytelling with Epic Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/regional-shift-for-the-ultimate-gaming-experience-on-switch/"><u>Regional Shift for the Ultimate Gaming Experience on Switch</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-function-key-malfunction-on-your-dell-pc-a-step-by-step-guide/"><u>Solving the Function-Key Malfunction on Your Dell PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/speed-up-your-keys-effective-methods-to-fix-laggy-keyboard-performance/"><u>Speed Up Your Keys: Effective Methods to Fix Laggy Keyboard Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-right-click-functionality-in-windows-11-pcs/"><u>Step-by-Step Solution: Restoring Right-Click Functionality in Windows 11 PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-should-rethink-incorporating-ai-driven-conversations-unveiling-7-key-issues-in-messaging-services/"><u>Why You Should Rethink Incorporating AI-Driven Conversations: Unveiling 7 Key Issues in Messaging Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212161589-win-11-volume-troubleshooting-guide-get-your-sounds-back-today/"><u>Win 11 Volume Troubleshooting Guide - Get Your Sounds Back Today</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhance-your-music-library-top-6-free-ios-apps-for-audio-conversion/"><u>[New] Enhance Your Music Library Top 6 Free iOS Apps for Audio Conversion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-from-stream-to-screen-how-to-download-youtube-on-iphoneipad/"><u>[Updated] 2024 Approved From Stream to Screen How to Download Youtube on iPhone/iPad</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-screen-clarity-is-ultrawide-or-uhd-4k-better-in-2024/"><u>Choosing Screen Clarity Is UltraWide or UHD 4K Better, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-12-pro-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-at-content-creation-a-guide-to-gamers-success/"><u>Excelling at Content Creation A Guide to Gamers' Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/google-chrome-freezing-issues-how-to-restart-and-fix-the-problem/"><u>Google Chrome Freezing Issues: How to Restart and Fix the Problem</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamline-your-video-submissions-adding-imovie-content-to-vimeo/"><u>In 2024, Streamline Your Video Submissions Adding iMovie Content to Vimeo</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitech-g930-audio-disruption-fixes-comprehensive-guide-to-uninterrupted-sound/"><u>Logitech G930 Audio Disruption Fixes: Comprehensive Guide to Uninterrupted Sound</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nvestment-high-rewards-channel-size-doesnt-deter-sponsorship/"><u>Low-Investment, High Rewards Channel Size Doesn't Deter Sponsorship</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-not-enough-memory-problems-for-seamless-performance/"><u>Resolve ‘Not Enough Memory’ Problems for Seamless Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-valorants-persistent-screen-tearing-problem-a-comprehensive-walkthrough/"><u>Resolving Valorant's Persistent Screen Tearing Problem - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correcting-the-pc-reset-failure-on-windows-10-platforms/"><u>Step-by-Step Guide to Correcting the PC Reset Failure on Windows 10 Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-saving-iphone-data-via-icloud-and-mac-tips/"><u>Step-by-Step Guide: Saving iPhone Data via iCloud and Mac - Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-fixing-the-freezing-issue-on-your-windows-11-taskbar/"><u>Top Solutions: Fixing the Freezing Issue on Your Windows 11 Taskbar</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-on-windows-7-for-smooth-sounds/"><u>Troubleshooting Audio Issues on Windows 7 for Smooth Sounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-is-my-computer-rebooting-automatically-solutions-for-windows-10/"><u>Why Is My Computer Rebooting Automatically? Solutions for Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10-mp4/"><u>Windows 10向け無料 MP4ビデオの自動回転テクニック</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-network-malfunction-error-code-0x800704cf-resolved-strategies-for-users/"><u>Windows Network Malfunction [Error Code 0X800704cf] - Resolved Strategies for Users</u></a></li>
 </ul></div>
 

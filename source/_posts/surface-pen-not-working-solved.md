@@ -1,7 +1,7 @@
 ---
 title: Surface Pen Not Working [Solved]
-date: 2024-11-11T16:13:48.194Z
-updated: 2024-11-15T16:01:03.787Z
+date: 2024-11-20T22:22:24.895Z
+updated: 2024-11-24T23:58:46.931Z
 tags:
   - win11
   - win10
@@ -34,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 4. **[Check for Windows Updates](#d)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run the keyboard troubleshooter
@@ -53,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Wait for Windows to detect and fix your issue automatically.
@@ -72,15 +66,16 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-530.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Under**View by** , select **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-531.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Mouse** .
 
@@ -143,28 +138,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Restart your computer after the update is complete.
 
@@ -192,24 +171,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/1723207550094-no-device-drivers-were-found-when-installing-windows-7-solved/"><u>‘No Device Drivers Were Found’ when Installing Windows 7 [Solved]</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-companion-to-choosing-youtube-cameras/"><u>[New] 2024 Approved Beginner’s Companion to Choosing YouTube Cameras</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-open-source-chill-beats/"><u>[New] In 2024, Open Source Chill Beats</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-keep-up-with-friends-moments-best-live-stream-tools-revealed/"><u>[Updated] In 2024, Keep Up With Friends' Moments Best Live-Stream Tools Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-strategic-approaches-to-googles-podcast-submission-protocol/"><u>[Updated] Strategic Approaches to Google’s Podcast Submission Protocol</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-cam-repaired-obs-recovery-successful/"><u>2024 Approved Cam Repaired OBS Recovery Successful</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-techniques-to-repair-unresponsive-ps4-controller-sync-issue/"><u>DIY Techniques to Repair Unresponsive PS4 Controller Sync Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-correcting-non-registered-windows-10-system-components/"><u>Guide to Correcting Non-Registered Windows 10 System Components</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-htc-u23-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on HTC U23 Prowith/without a PC</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-the-mystery-of-an-unidentified-usb-gadget-device-descriptor-problems/"><u>How to Solve the Mystery of an Unidentified USB Gadget (Device Descriptor Problems)</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-15-plus-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 15 Plus for Free? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/ineteresourcenotfound-problem-strategies-for-rectification-and-improvement/"><u>INET_E_RESOURCE_NOT_FOUND Problem? Strategies for Rectification and Improvement</u></a></li>
-<li><a href="https://common-error.techidaily.com/microsoft-print-to-pdf-malfunctioning-heres-how-to-fix-it-on-windows-11/"><u>Microsoft Print to PDF Malfunctioning? Here's How to Fix It on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-permissions-how-to-obtain-trust-from-trustedinstaller-in-windows-10/"><u>Navigating Permissions: How to Obtain Trust From TrustedInstaller in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-no-device-found-error-on-your-icu-e-reader-a-step-by-step-guide/"><u>Resolving 'No Device Found' Error on Your ICU E-Reader: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/screen-snag-reviewed-in-depth-analysis-for-2024/"><u>Screen Snag Reviewed In-Depth Analysis for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-improving-your-keyboards-reaction-time-quickly/"><u>Simple Solutions: Improving Your Keyboard's Reaction Time Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-pc-unexplained-breaks/"><u>Windows 11 PC: Unexplained Breaks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-maximize-views-the-art-of-timestamp-integration-on-youtube/"><u>[New] 2024 Approved Maximize Views The Art of Timestamp Integration on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-tips-streaming-via-obs-directly-to-facebook/"><u>[New] 2024 Approved Top Tips Streaming via OBS Directly to Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-creating-engaging-youtube-channel-names-limit-it-to-156-characters-for-2024/"><u>[Updated] The Ultimate Guide to Creating Engaging Youtube Channel Names (Limit It to 156 Characters) for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-elevate-your-camera-skills-mastering-macbook-webcams/"><u>2024 Approved Elevate Your Camera Skills Mastering MacBook Webcams</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-13-pro-maxipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 13 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshoot-restoring-functionality-to-a-malfunctioning-xbox-sensor-bar/"><u>Comprehensive Troubleshoot: Restoring Functionality to a Malfunctioning Xbox Sensor Bar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-microphone-malfunctions-heres-how-to-repair-and-restore-functionality/"><u>Corsair Microphone Malfunctions? Here’s How to Repair and Restore Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-the-mystery-quick-fixes-for-error-code-5-in-minecraft/"><u>Decode the Mystery: Quick Fixes for Error Code 5 in Minecraft</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-tackle-svchostexes-heavy-load-problem-in-your-windows-10-system/"><u>Effective Strategies to Tackle svchost.exe's Heavy Load Problem in Your Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210547932-expert-advice-eliminate-error-code-0x80072efd-from-windows-10-step-by-step-fixes/"><u>Expert Advice: Eliminate Error Code 0X80072EFD From Windows 10 - Step-by-Step Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-to-restoring-functionality-of-webcams-on-a-windows-computer/"><u>Expert Guide to Restoring Functionality of Webcams on a Windows Computer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y100t-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y100t to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210268836-solving-the-bluetooth-missing-dilemma-on-your-windows-10-device-today/"><u>Solving the 'Bluetooth Missing' Dilemma on Your Windows 10 Device Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-huion-pen-issues-with-these-5-effective-tips/"><u>Troubleshoot Your Huion Pen Issues with These 5 Effective Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-missing-charge-indicator-easy-fix-guide/"><u>Windows 10 Missing Charge Indicator? Easy Fix Guide!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-11-file-management-issues-top-tips-for-optimal-performance-and-efficient-data-handling/"><u>Windows 11 File Management Issues : Top Tips for Optimal Performance and Efficient Data Handling</u></a></li>
 </ul></div>
 

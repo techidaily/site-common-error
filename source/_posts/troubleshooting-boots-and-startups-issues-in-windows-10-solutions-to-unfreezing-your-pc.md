@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Boots and Startups Issues in Windows 10: Solutions to Unfreezing Your PC"
-date: 2024-11-08T16:05:21.062Z
-updated: 2024-11-15T17:42:49.667Z
+date: 2024-11-19T22:58:45.739Z
+updated: 2024-11-25T00:04:03.778Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -52,10 +56,7 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
@@ -72,13 +73,6 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -97,10 +91,20 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
@@ -113,24 +117,18 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -148,21 +146,11 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -187,19 +175,22 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/aximizing-your-creations-uploading-imovie-videos-to-youtube-for-2024/"><u>[New] Maximizing Your Creations Uploading IMovie Videos to YouTube for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>[Updated] 2024 Approved From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-how-to-fix-distorted-subtitles-after-mkv-to-mp4-file-transfer/"><u>1. How to Fix Distorted Subtitles After MKV to MP4 File Transfer</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/blast-through-galactic-stories-with-a-twist-a-review-of-the-outer-worlds-innovative-gameplay/"><u>Blast Through Galactic Stories with a Twist - A Review of The Outer Worlds' Innovative Gameplay</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/community-engagement/"><u>Community Engagement</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-volume-is-dirty-error-understanding-and-solving-issue-0x871ac3/"><u>Dealing with 'Volume Is Dirty' Error - Understanding and Solving Issue 0X8#71AC3</u></a></li>
-<li><a href="https://os-tips.techidaily.com/dearmobs-step-by-step-instructions-for-syncing-iphone-and-mac-apps-effortlessly/"><u>DearMob's Step-by-Step Instructions for Syncing iPhone and Mac Apps Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/feature-update-to-windows-10-version-1607-failed-to-install/"><u>Feature Update to Windows 10 Version 1607 Failed to Install</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-shutdown-process-on-your-pc-under-win-10-issues-final-answers/"><u>Mastering the Shutdown Process on Your PC Under Win 10 Issues - FINAL ANSWERS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mobvoi-ticwatch-pro-with-lte-an-in-depth-evaluation-of-your-ideal-smartwatch-companion/"><u>Mobvoi Ticwatch Pro with LTE: An In-Depth Evaluation of Your Ideal Smartwatch Companion</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-instructions-for-correcting-opengl-malfunctions-in-minecraft/"><u>Step-by-Step Instructions for Correcting OpenGL Malfunctions in Minecraft</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-touchpad-when-scrolling-fails-solutions-explored/"><u>Troubleshooting Your Touchpad When Scrolling Fails - Solutions Explored</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-monetization-changes-500-subscribers-now-eligible-for-2024/"><u>YouTube Monetization Changes 500 Subscribers Now Eligible for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-skype-symphony-a-roundup-of-high-quality-ringtones-for-2024/"><u>[New] Skype Symphony A Roundup of High-Quality Ringtones for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-halo-4-ue4-fatal-error-crash-2024/"><u>[SOLVED] Halo 4 UE4 Fatal Error Crash 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-captivating-unboxing-content-top-tips/"><u>Crafting Captivating Unboxing Content Top Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-window-11s-perpetual-reboot-problem/"><u>Diagnosing and Repairing Window 11'S Perpetual Reboot Problem</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-solutions-to-update-your-lenovo-devices-usb-drivers/"><u>Easy Solutions to Update Your Lenovo Device's USB Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-value-and-functionality-in-the-tp-link-archer-c50-router-the-budget-winner/"><u>Exploring Value and Functionality in the TP-Link Archer C50 Router: The Budget Winner</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-intel-rst-services-on-your-windows-10-pc-step-by-step-recovery-tips/"><u>How to Enable Intel RST Services on Your Windows 10 PC – Step-by-Step Recovery Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-the-startup-failure-issue-code-0xc000007b-step-by-step-guide/"><u>How To Successfully Overcome The Startup Failure Issue (Code 0Xc000007b) - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-best-gif-creation-tools-reviewed-by-industry-vets/"><u>In 2024, Best GIF Creation Tools Reviewed by Industry Vets</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-nokia-c12-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Nokia C12? Fixed | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/operating-oversights-sudden-system-stops-while-playing/"><u>Operating Oversights: Sudden System Stops While Playing</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211044554-overcome-keyboard-responsiveness-issues-on-windows-11-solutions-found/"><u>Overcome Keyboard Responsiveness Issues on Windows 11 - Solutions Found!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-persistent-keyboard-delays-in-windows-10/"><u>Resolved: Fixing Persistent Keyboard Delays in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-google-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Google .</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-c00000e9-bsod-detailed-strategies-for-restoring-your-pcs-stability/"><u>Understanding and Fixing the C00000e9 BSOD: Detailed Strategies for Restoring Your PC's Stability</u></a></li>
 </ul></div>
 

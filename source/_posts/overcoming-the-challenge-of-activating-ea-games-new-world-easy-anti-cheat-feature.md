@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Challenge of Activating EA Games' New World Easy Anti-Cheat Feature
-date: 2024-11-14T17:21:53.858Z
-updated: 2024-11-15T17:59:39.871Z
+date: 2024-11-23T03:32:55.120Z
+updated: 2024-11-25T02:25:21.979Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If you see an error message saying “**No Pen or Touch Input is available for t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 Here are some solutions that have helped people resolve the same error. You don’t need to try them all; just work your way down the list until everything’s working again.
@@ -32,13 +36,6 @@ Here are some solutions that have helped people resolve the same error. You don�
 2. [Run troubleshooter in your computer](https://tools.techidaily.com/drivereasy/download/)
 3. [Re-enable touch screen](https://tools.techidaily.com/drivereasy/download/)
 4. [Update touch screen driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Force a shut down and restart
 
@@ -53,33 +50,22 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb109d3bc02.jpg)
 3. Click**Hardware** **and** **Sound** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10c799b9d.jpg)
 4. Click**Hardware and Devices** . This will find and fix problems with devices and hardware.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10e9a82be.jpg)
 5. Click**Next** to process. Then follow the on-screen instructions to finish the process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1108d468d.jpg)
 6. Restart your computer and see if it fixes the error.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Re-enable touch screen
 
@@ -87,33 +73,34 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 
 1. On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  
  and **R**  at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11575bbfb.png)
 3. Double click**Human Interface Devices** to expand the category.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11cb8b5a8.jpg)
 4. Right click on**HID-compliant touch screen** , then select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12007e8f1.jpg)
 5. If you see a popup message to confirm, click**Yes** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb123fd7728.jpg)
 6. Right click on**HID-compliant touch screen** , then select**Enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb128e37a69.jpg)  
  Note: there may be more than one HID compliant touch screen listed there. If that’s the case, complete steps 4) -6) for each device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Try touch screen and see if it works now. The error still persists? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update touch screen driver
 
@@ -145,24 +132,21 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-streamlined-recording-of-powerpoint-slides-via-webcam-for-2024/"><u>[New] Streamlined Recording of PowerPoint Slides via Webcam for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/reboot-signal-from-gaming-systems/"><u>[REBOOT] Signal From Gaming Systems</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-essentials-of-creating-share-worthy-instagram-videos/"><u>[Updated] In 2024, Essentials of Creating Share-Worthy Instagram Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-the-overuse-of-processor-resources-due-to-windows-audio-graphs/"><u>Addressing the Overuse of Processor Resources Due to Windows Audio Graphs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-logitech-m525-driver-suite-and-software-tools/"><u>Complete Guide to Downloading Logitech M525 Driver Suite and Software Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-dealing-with-inoperative-usb-gadgets-and-troublesome-port-reset-errors-on-windows-10/"><u>Comprehensive Fixes for Dealing with Inoperative USB Gadgets and Troublesome Port Reset Errors on Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-reviews-the-creme-de-la-creme-of-43-smart-tv-models-techradar/"><u>Expert Reviews: The Crème De La Crème of 43 Smart TV Models | TechRadar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-oppo-a79-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Oppo A79 5G?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-steady-hand-techniques-for-videographers/"><u>In 2024, Steady-Hand Techniques for Videographers</u></a></li>
-<li><a href="https://common-error.techidaily.com/livekernelevent-144-mistake-diagnosis-and-solutions-unveiled/"><u>LiveKernelEvent 144 Mistake - Diagnosis and Solutions Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-effective-ways-to-prevent-surveillance-from-brands-like-lg-samsung-sony-and-vizio-smart-tvs/"><u>Protect Your Privacy: Effective Ways to Prevent Surveillance From Brands Like LG, Samsung, Sony & Vizio Smart TVs</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-halo-4s-ue4-crash-issues-strategies-for-a-smooth-gaming-experience/"><u>Resolving Halo 4'S UE4 Crash Issues : Strategies for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-for-critical-error-in-applicationexe-stoppage-issue/"><u>Solution Found for Critical Error in Application.exe Stoppage Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-assistance-with-file-explorer-features-in-windows-11/"><u>Step-by-Step Assistance with File Explorer Features in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208943320-streamline-your-files-management-on-windows-11-a-comprehensive-file-explorer-tutorial/"><u>Streamline Your Files Management on Windows 11 - A Comprehensive File Explorer Tutorial!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-complete-guide-to-setting-up-streamlabs-obs-for-2024/"><u>The Complete Guide to Setting Up Streamlabs OBS for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-inner-workings-of-gpt-4-all-explained-comprehensively/"><u>The Inner Workings of GPT- 4 All: Explained Comprehensively</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-guide-corrective-actions-for-system-file-damage-restoration/"><u>Windows 11 Guide: Corrective Actions for System File Damage Restoration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wininetdll-not-found-heres-how-to-correct-the-issue-and-prevent-future-problems/"><u>Wininet.dll Not Found? Here’s How to Correct the Issue and Prevent Future Problems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-prime-range-best-webcam-standers-for-2024/"><u>[New] Prime Range Best Webcam Standers for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-ios-gaming-screenshots-the-ultimate-screen-capture-tool/"><u>1. IOS Gaming Screenshots: The Ultimate Screen Capture Tool</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-all-app-analysis-comprehensible-by-az-capture/"><u>2024 Approved All-App Analysis Comprehensible by AZ Capture</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-when-experiencing-audio-interruptions-in-logitech-g930-headset/"><u>Effective Fixes When Experiencing Audio Interruptions in Logitech G930 Headset</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-lenovo-network-woes-dealing-with-missing-wireless-adapter-drivers/"><u>Fix Your Lenovo Network Woes: Dealing with Missing Wireless Adapter Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exploring-the-youtube-content-manager-toolkit/"><u>In 2024, Exploring the YouTube Content Manager Toolkit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-uses-of-auto-gpt-in-business/"><u>Innovative Uses of Auto-GPT in Business</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210346511-9782226452184-les-racines-de-la-meditation/"><u>Les Racines de la méditation | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-writable-obstacle-of-0x-pointed-out-memory-slot/"><u>Overcoming the Writable Obstacle of 0X Pointed-Out Memory Slot</u></a></li>
+<li><a href="https://win-latest.techidaily.com/protecting-information-integrity-comprehensive-instructions-for-pre-factory-reset-system-backups-on-computers/"><u>Protecting Information Integrity: Comprehensive Instructions for Pre-Factory Reset System Backups on Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/pubg-game-update-all-structures-now-function-correctly-no-more-missing-buildings/"><u>PUBG Game Update: All Structures Now Function Correctly – No More Missing Buildings!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-msmpengexe-high-cpu-usage-on-windows-11-complete-guide/"><u>Resolved: MsMpEng.exe High CPU Usage on Windows 11 - Complete Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shed-heavy-weights-pure-power-windows-11-tiny/"><u>Shed Heavy Weights: Pure Power, Windows 11 Tiny</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-laptop-touchpad-issues-on-windows-10-8-and-7-solutions-inside/"><u>Troubleshooting Laptop Touchpad Issues on Windows 10, 8 & 7 - Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-tricks-to-decrease-gpu-load-caused-by-the-desktop-window-manager-in-windows-1011/"><u>Ultimate Tricks to Decrease GPU Load Caused by the Desktop Window Manager in Windows 10/11</u></a></li>
 </ul></div>
 

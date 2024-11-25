@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Solutions: Dealing with Google Chrome's Lack of Response Issues"
-date: 2024-11-10T17:34:39.967Z
-updated: 2024-11-15T18:00:23.030Z
+date: 2024-11-24T03:29:28.646Z
+updated: 2024-11-24T22:23:59.704Z
 tags:
   - win11
   - win10
@@ -47,16 +47,13 @@ Quick Fix:**Install & update drivers automatically**
 2. Click**Internet Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5271.jpg)
 3. Click**Speed Tester** and wait for the testing result.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5272.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Usually, a large, HD content will require a high speed. If the problem is due to low internet speed, you can try[Fix 1](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixes for Kodi Buffering Issue
 
@@ -82,36 +79,33 @@ Quick Fix:**Install & update drivers automatically**
 
 **Coupon tip** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Adjust video cache size with One nation
 
  One way to fix the Kodi buffering issue is to expand the video cache size. Increasing the size of the cache in Kodi can help you reduce buffering. It is because the cache is like a reservoir, the bigger it is, the more stuff can be saved and you’ll get a smooth viewing experience.
 
 1. Select Add-ons in the Kodi home screen and click**One Nation Porta** l.![](https://images.drivereasy.com/wp-content/uploads/2019/05/527-1.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-3.jpg)
-3. Click System Tweaks/Fixes.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5273.jpg)
-4. Click**Quick Configure AdvancedSettings.xml** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5274.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Click System Tweaks/Fixes.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5273.jpg)
+4. Click**Quick Configure AdvancedSettings.xml** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5274.jpg)
 
 5. Adjust the video cache size and then click**Write file** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5275.jpg)
 6. Restart Kodi and check the buffering problem is still there or not.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Clear Kodi cache with One nation
@@ -121,23 +115,14 @@ Quick Fix:**Install & update drivers automatically**
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/j5-2.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-2.jpg)
 3. Click**Cleaning Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/3-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose**Clear Cache** . Or choose**Total Clean Up** , which also helps to play videos smoothly in Kodi.![](https://images.drivereasy.com/wp-content/uploads/2019/05/4-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Restart Kodi and check whether the buffering issue is still here or not.
 
@@ -160,22 +145,21 @@ Quick Fix:**Install & update drivers automatically**
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/1723209835359-solved-dvd-wont-play-on-windows/"><u>[SOLVED] DVD Won’t Play on Windows</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-6-masterpieces-designing-mc-village-homes/"><u>[Updated] 2024 Approved Top 6 Masterpieces Designing MC Village Homes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mcb-template-pack-download-now/"><u>[Updated] MCB Template Pack Download Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/augmented-longevity-in-ubuntu-linux-latest-lts-versions-feature-doubled-security-updates-duration/"><u>Augmented Longevity in Ubuntu Linux: Latest LTS Versions Feature Doubled Security Updates Duration</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-byb-e430-swing-arm-led-lamp-analysis-and-features-overview/"><u>Comprehensive BYB E430 Swing Arm LED Lamp Analysis and Features Overview</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-to-the-windows-pre-configuration-deadlock-problem/"><u>Comprehensive Fixes to the Windows Pre-Configuration Deadlock Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003797147-continuous-pc-crashes-while-playing-watch-dogs-legion-solved/"><u>Continuous PC Crashes While Playing Watch Dogs: Legion - Solved</u></a></li>
-<li><a href="https://common-error.techidaily.com/dhcp-connectivity-problems-solutions-for-server-contact-failures/"><u>DHCP Connectivity Problems – Solutions for Server Contact Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-speakers-working-again-resolving-audio-problems-in-windows-7/"><u>Get Your Speakers Working Again: Resolving Audio Problems in Windows 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Samsung Galaxy S23 Tactical Edition?</u></a></li>
-<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-not-working-on-windows-heres-the-fix/"><u>Oddworld Soulstorm Not Working on Windows? Here's the Fix</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-microsoft-teams-instability-on-ws11ws10-devices/"><u>Preventing Microsoft Teams Instability on WS11/WS10 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-steps-for-a-computer-that-cant-turn-off-in-windows-10/"><u>Resolved: Troubleshooting Steps for a Computer That Can't Turn Off in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-youtubes-audio-player-issues-in-windows-10-a-comprehensive-guide/"><u>Resolving YouTube's Audio Player Issues in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-f15-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy F15 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-3-premium-mac-video-player-apps-kompatibel-mit-apple-tv-remote/"><u>Top-3 Premium Mac Video Player Apps, Kompatibel Mit Apple TV Remote</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-application-boot-issues-overcoming-error-code-0xc00n000007b/"><u>Troubleshooting Application Boot Issues: Overcoming Error Code 0Xc00n000007b</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-comprehensive-guide-to-mac-screenshot-conversion/"><u>[Updated] A Comprehensive Guide to Mac Screenshot Conversion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-turn-onoff-picture-in-picture-mode-in-youtube-app/"><u>[Updated] Step by Step Guide Turn On/Off Picture In Picture Mode in YouTube App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-5-innovative-mac-capturing-solutions-moving-past-bandicam-for-2024/"><u>[Updated] Top 5 Innovative Mac Capturing Solutions, Moving Past Bandicam for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/application-exe-error-resolved-no-more-has-stopped-working-headaches/"><u>Application Exe Error Resolved: No More 'Has Stopped Working' Headaches</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/become-a-streaming-star-utilizing-obs-capabilities/"><u>Become a Streaming Star Utilizing OBS Capabilities</u></a></li>
+<li><a href="https://facebook.techidaily.com/bridge-the-divide-after-deleting-friends/"><u>Bridge the Divide After Deleting Friends</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-in-the-age-of-media-giants-the-power-of-facebook-twitter-instagram-youtube/"><u>Connecting in the Age of Media Giants: The Power of Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-41-in-windows-kernel-overcome/"><u>Error Code 41 in Windows Kernel Overcome</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-how-to-resolve-geforce-experience-not-syncing-preferences/"><u>Fixing Issues: How to Resolve 'GeForce Experience' Not Syncing Preferences</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-13-pro-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 13 Pro Max Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/low-light-iphone-luminary-techniques-for-2024/"><u>Low-Light iPhone Luminary Techniques for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-old-notification-history-on-an-iphone-your-comprehensive-guide/"><u>Navigating Old Notification History on an iPhone - Your Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-of-slow-or-nonfunctional-file-explorer-in-windows-10/"><u>Step-by-Step Resolution of Slow or Nonfunctional File Explorer in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-a-malfunctioning-surface-stylus/"><u>Step-by-Step Solutions for a Malfunctioning Surface Stylus</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208511423-troubleshoot-and-repair-windows-711-sound-glitches-with-proven-fixes/"><u>Troubleshoot & Repair Windows 7/11 Sound Glitches with Proven Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-logitech-g930-microphone-dead-spots/"><u>Ultimate Guide: Fixing Logitech G930 Microphone Dead Spots</u></a></li>
 </ul></div>
 

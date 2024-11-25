@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Running Fortnite with Non-Compatible Graphics Hardware in Windows"
-date: 2024-11-10T16:26:28.533Z
-updated: 2024-11-15T18:07:34.563Z
+date: 2024-11-18T03:35:06.526Z
+updated: 2024-11-25T00:20:45.976Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Since this cause may vary from person to person, so here we provide more than one fix so that you can better solve your problem. You may not need to try them all; just walk your way down until you find the one that works.
@@ -34,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 4. **[Reset the camera app](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run the System File Checker](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the Hardware and Devices Troubleshooter
 
  It’s always a wise choice to let Windows solve the problem automatically for you first. So be sure to run this in-built troubleshooter, and apply the fix if there are any. Here’s how:
@@ -48,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
  1\. In the Windows Search bar, type**cmd** and open**Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2\. Type and copy this command below and press**Enter** .
 
@@ -64,6 +54,10 @@ msdt.exe -id DeviceDiagnostic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Apply this fix** when the troubleshooter finds a fix for you.
 
 ![apply a windows suggested fix](https://images.drivereasy.com/wp-content/uploads/2021/03/image-13.png)
@@ -72,6 +66,10 @@ msdt.exe -id DeviceDiagnostic
 
  The troubleshooter may provide a solution for restoring your missing webcam. Now check if your problem has been solved. If not, you can try the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Allow apps to access your camera
 
  It’s always important to make sure that your device and apps can access your camera. Here’s how:
@@ -79,6 +77,10 @@ msdt.exe -id DeviceDiagnostic
  1\. In the Windows Search bar, type**camera** and select**Camera privacy settings** .
 
 ![camera privacy settings](https://images.drivereasy.com/wp-content/uploads/2021/03/image-14.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2\. Scroll down the settings page and make sure the toggle is set to**On** for Camera Access for this device and**Allow apps to access your camera** .
 
@@ -106,24 +108,10 @@ msdt.exe -id DeviceDiagnostic
 
 ![update camera drivers](https://images.drivereasy.com/wp-content/uploads/2021/03/image-16.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the problem still persists, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the webcam driver, you can reboot your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset the camera app
 
@@ -138,10 +126,7 @@ msdt.exe -id DeviceDiagnostic
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-18.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Locate**Camera** and select**Advanced options** .
@@ -149,10 +134,7 @@ msdt.exe -id DeviceDiagnostic
 ![app and features](https://images.drivereasy.com/wp-content/uploads/2021/03/image-19.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Scroll down and click**Reset** .
@@ -202,21 +184,16 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unleash-the-power-of-zoom-with-these-tips/"><u>[New] 2024 Approved Unleash the Power of Zoom with These Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-next-gen-screen-capture-unleashed-apeaksofts-2023-review/"><u>[New] Next-Gen Screen Capture Unleashed Apeaksoft’s 2023 Review</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-playlists-that-rule-spotifys-top-10-for-2024/"><u>[Updated] Playlists that Rule Spotify's Top 10 for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-crafting-impressive-android-time-lapses-2enas-for-2024/"><u>[Updated] The Ultimate Guide to Crafting Impressive Android Time-Lapses (2Enas) for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-cant-see-cursor-only-sony-a6400-glitch/"><u>2024 Approved Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-6-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 6? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://os-tips.techidaily.com/apple-revolutionizes-sports-gaming-with-major-new-features/"><u>Apple Revolutionizes Sports Gaming with Major New Features!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-x-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone X</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/personalized-preferences-update-the-unresponsive-error-is-fixed/"><u>Personalized Preferences Update - The 'Unresponsive' Error Is Fixed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-second-display-detection-issues-on-windows-7-a-comprehensive-guide/"><u>Resolving Second Display Detection Issues on Windows 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resurrecting-vanished-desktop-shortcuts-solutions-for-windows-10-users/"><u>Resurrecting Vanished Desktop Shortcuts: Solutions for Windows 10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-get-your-windows-10-monitors-brightness-working-again/"><u>Step-by-Step Solutions to Get Your Windows 10 Monitor's Brightness Working Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-resolving-copy-and-paste-issues-in-windows-11/"><u>Troubleshooting Fixes: Resolving Copy & Paste Issues in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-success-resolving-the-bugcheck-reboot-issue-on-your-pc/"><u>Troubleshooting Success: Resolving the Bugcheck Reboot Issue on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-pubg-structures-load-issues-effectively/"><u>Ultimate Guide: Resolving PUBG Structures Load Issues Effectively</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-start-streaming-the-simple-method-for-mac-book-air-recording-for-2024/"><u>[New] Start Streaming The Simple Method for Mac Book Air Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gifts-that-speak-volumes-a-compendium-of-custom-box-shops-online/"><u>2024 Approved Gifts That Speak Volumes A Compendium of Custom Box Shops Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/clearing-up-confusion-how-to-deal-with-unknown-usb-device-and-failed-port-resets-on-your-windows-10-pc/"><u>Clearing Up Confusion: How to Deal with 'Unknown USB Device' And Failed Port Resets on Your Windows 10 PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-vcruntime140dll-missing-error-efficiently-expert-tips-included/"><u>How to Resolve vcruntime140.dll Missing Error Efficiently - Expert Tips Included</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-assessment-exploring-dji-inspire-1/"><u>In 2024, Complete Assessment Exploring DJI Inspire 1</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206472625-netflix-sound-not-working-heres-how-you-can-fix-it-fast/"><u>Netflix Sound Not Working? Here's How You Can Fix It Fast</u></a></li>
+<li><a href="https://common-error.techidaily.com/pdf-printing-issues-uncover-easy-and-fast-remedies-here/"><u>PDF Printing Issues? Uncover Easy and Fast Remedies Here.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-heart-of-adventure-polaroid-cubeplus-video-analysis/"><u>The Heart of Adventure Polaroid Cube+ Video Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-iastordatasvcs-excessive-processor-load-in-windows-11/"><u>Troubleshooting and Solving IAStorDataSvc's Excessive Processor Load in Windows 11</u></a></li>
 </ul></div>
 

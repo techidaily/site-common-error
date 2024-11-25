@@ -1,7 +1,7 @@
 ---
 title: "Quick Resolution: Restoring Functionality of a Broken Fn Key on Lenovo Systems"
-date: 2024-11-13T16:50:52.353Z
-updated: 2024-11-15T16:05:27.478Z
+date: 2024-11-20T19:36:56.807Z
+updated: 2024-11-24T22:11:44.301Z
 tags:
   - win11
   - win10
@@ -52,6 +52,11 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 2. In the bottom right of your screen, click **the airplane mode icon![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a54a1f6ef.png)**  
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the middle of your computer screen, click**Sign out** .
 4. Log in your computer and see if you get your desktop back this time. If the**Personalized Settings (Not Responding)** still lingers on, you should try **Fix 3** , below.
 
@@ -65,14 +70,16 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 3. Click**File** \>**Run new task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
 4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
 
  Now you should have your desktop back.
@@ -81,10 +88,7 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run SFC Command
@@ -92,35 +96,18 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 1. On your keyboard, press the **Windows logo key**  and type**cmd** . Then right click on**Command Prompt** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted to confirm.
 2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Delete a file in regedit
 
@@ -135,10 +122,7 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 3. Right-click on**the last file** and click**Export** to back up the file.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
@@ -147,6 +131,10 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 5. Restart your computer and see if your desktop comes back.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -173,22 +161,24 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-windows-11-update-0x80240034-error/"><u>[Solved] Windows 11 Update 0X80240034 Error</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-digital-domain-your-playground-for-1000-titles/"><u>[Updated] Digital Domain Your Playground for 1,000 Titles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-miniature-harmonies-character-music-journey/"><u>[Updated] In 2024, Miniature Harmonies Character Music Journey</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-cutting-through-the-clutter-how-to-pick-a-premium-4k-monitor/"><u>2024 Approved Cutting Through the Clutter How to Pick a Premium 4K Monitor</u></a></li>
-<li><a href="https://common-error.techidaily.com/battle-struggles-gameplay-halted-by-pc-crashes/"><u>Battle Struggles: Gameplay Halted by PC Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/directx-error-resolution-strategies-for-stability-and-performance/"><u>DirectX Error Resolution Strategies for Stability and Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-to-recover-from-endless-booting-and-complete-setup-screens/"><u>Expert Guide to Recover From Endless Booting and Complete Setup Screens</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-get-overwatch-voice-chat-working-again-no-hassle/"><u>Expert Tips to Get Overwatch Voice Chat Working Again – No Hassle</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-cannot-reach-dhcp-server-error-now-solved/"><u>Fixing the 'Cannot Reach DHCP Server' Error - Now Solved</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-c22-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia C22 FRP</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-code-1067-unanticipated-process-ended-in-windows/"><u>How to Fix the 'Error Code 1067: Unanticipated Process Ended' In Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-camon-20-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Camon 20 to Protect Your Individual Information</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mystery-solved-showcase-your-touchpad-here/"><u>Mystery Solved! Showcase Your Touchpad Here</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/transferring-data-effortlessly-connecting-your-pc-with-a-galaxy-s-using-wifi-or-usb-cable-methods/"><u>Transferring Data Effortlessly: Connecting Your PC with a Galaxy S # Using WiFi or USB Cable Methods</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unraveling-the-mystery-of-social-media-success-on-instagram-learn-how-in-less-than-a-page/"><u>Unraveling the Mystery of Social Media Success on Instagram Learn How in Less Than a Page</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1728501010745-hdd/"><u>ホビー用HDDバックアップ - フリーインタラクティブイメージソフトウェアの使い方</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-reels-adding-your-own-soundtrack/"><u>[New] Mastering Instagram Reels Adding Your Own Soundtrack</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unleashing-creativity-with-mobile-melodies-on-iphone-for-2024/"><u>[New] Unleashing Creativity with Mobile Melodies on iPhone for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-civ-6-not-launching-on-windows-10/"><u>[SOLVED] Civ 6 Not Launching on Windows 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-deciphering-youtubes-profit-for-a-mil-of-viewers/"><u>[Updated] In 2024, Deciphering YouTube’s Profit for A Mil of Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premium-choices-in-video-capture-tools-for-websites/"><u>[Updated] Premium Choices in Video Capture Tools for Websites</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressed-compliance-issue-in-hid-aware-touch-interface/"><u>Addressed Compliance Issue in HID-Aware Touch Interface</u></a></li>
+<li><a href="https://common-error.techidaily.com/airpods-wont-pair-with-windows-11-expert-fixes-and-updates-connection-woes/"><u>AirPods Won't Pair With Windows 11? Expert Fixes and Updates Connection Woes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/audio-artistry-in-a-download-top-7-vocal-transformation-apps-reviewed-for-2024/"><u>Audio Artistry in a Download Top 7 Vocal Transformation Apps Reviewed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-87-solved-correct-loadlibrary-call-parameters-in-windows-systems/"><u>Error 87 Solved: Correct LoadLibrary Call Parameters in Windows Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-repair-werfaultexe-program-errors/"><u>How to Quickly Repair werFault.exe Program Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/igfx-module-malfunction-resolved-expert-guidance-for-troubleshooting-steps/"><u>IGFX Module Malfunction Resolved - Expert Guidance for Troubleshooting Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-fixation-restored-input-functionality/"><u>Keyboard Fixation: Restored Input Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-stutters-no-more-fixing-delay-on-windows-10-systems/"><u>Keyboard Stutters No More: Fixing Delay on Windows 10 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-ps5-controller-on-your-windows-pc/"><u>Navigating PS5 Controller on Your Windows PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-mkvmjpeg-converter-wijziging-naar-gratiesoftware-movavi-duurvrije-en-eenvoudige/"><u>Online MKV/MJPEG Converter Wijziging Naar Gratiesoftware - Movavi, Duurvrije En Eenvoudige</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-solution-eradicating-screen-flickering-in-valorant/"><u>Ultimate Solution: Eradicating Screen Flickering in VALORANT</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-light-dimmer-malfunction-heres-the-solution/"><u>Windows 10 Light Dimmer Malfunction? Here's the Solution</u></a></li>
 </ul></div>
 

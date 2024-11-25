@@ -1,7 +1,7 @@
 ---
 title: "Fix Successful: Addressing the Unresponsive Keyboard Issue on Startup"
-date: 2024-11-12T18:02:22.247Z
-updated: 2024-11-15T16:16:26.460Z
+date: 2024-11-19T03:07:04.913Z
+updated: 2024-11-24T23:23:06.219Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Try these fixes for the Surface keyboard not working problem
 
  You don’t need to try them all; just work your way down the list until you find the one that works for you.
@@ -39,10 +43,7 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 5. **[Try Surface Diagnostic Toolkit](#toolkit)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Some quick fixes to try first
@@ -90,10 +91,7 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -111,14 +109,16 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 3. Click **Keyboard** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off **Filter Keys** or uncheck **Turn on Filter Keys** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -131,17 +131,7 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5: Try the Surface Diagnostic Toolkit
@@ -169,20 +159,19 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-forza-horizon-4-no-sound-problem/"><u>[SOLVED] Forza Horizon 4 No Sound Problem</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unveiling-the-tricks-for-flawless-file-imports-on-windows-10/"><u>[Updated] 2024 Approved Unveiling the Tricks for Flawless File Imports on Windows 10</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-cloud-costs-top-picks-for-value/"><u>[Updated] Cloud Costs Top Picks for Value</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028640171-youtube/"><u>「YouTubeミュージックの安全なダウンロード手順ガイド」</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-editors-edge-boost-your-tiktok-impact/"><u>2024 Approved The Editor's Edge Boost Your TikTok Impact</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/assess-the-value-of-your-secondhand-films-essential-insights-into-used-dvd-prices-and-worth/"><u>Assess the Value of Your Secondhand Films: Essential Insights Into Used DVD Prices and Worth</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-solutions-to-combat-lag-issues-for-a-smooth-ride-in-forza-horizon-5/"><u>Best Solutions to Combat Lag Issues for a Smooth Ride in Forza Horizon 5</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daily-dose-of-slovak-language-instant-proficiency/"><u>Daily Dose of Slovak Language, Instant Proficiency!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/effortless-image-format-transformation-use-the-free-user-friendly-photo-converter/"><u>Effortless Image Format Transformation: Use the Free, User-Friendly Photo Converter</u></a></li>
-<li><a href="https://common-error.techidaily.com/locating-and-fixing-the-necessary-driver-your-pc-requires-for-media-devices/"><u>Locating and Fixing the Necessary Driver Your PC Requires For Media Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-a-non-functional-corsair-keyboard/"><u>Resolved: Troubleshooting a Non-Functional Corsair Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-update-error-0x8024401c-a-step-by-step-fix-for-windows-11-users/"><u>Resolving Windows Update Error 0X8024401c: A Step-by-Step Fix for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-function-keys-problem-a-guide-on-restoring-fn-key-functionality-in-dell-computers/"><u>Solving the Function Keys Problem: A Guide on Restoring 'FN' Key Functionality in Dell Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-windows-10-failure-to-shut-down-problems-in-under-5-steps/"><u>Troubleshooting: Resolving Windows 10 Failure to Shut Down Problems in Under 5 Steps</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-shopping-success-secrets-unveiling-strategies-from-real-case-studies/"><u>Updated In 2024, Live Shopping Success Secrets Unveiling Strategies From Real Case Studies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-dive-deep-accessing-facebooks-story-vault/"><u>[New] 2024 Approved Dive Deep Accessing Facebook's Story Vault</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mirthful-melodies-where-to-find-hilarious-tunes/"><u>[Updated] Mirthful Melodies Where to Find Hilarious Tunes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-elevate-your-photography-experience-on-windows-11-filters-and-music-playback/"><u>2024 Approved Elevate Your Photography Experience on Windows 11 Filters and Music Playback</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-the-perfect-iphone-for-serious-gamers/"><u>Choosing the Perfect iPhone for Serious Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204379242-effortless-fixes-when-your-laptop-wont-hold-a-charge-get-power-back-now/"><u>Effortless Fixes When Your Laptop Won't Hold a Charge – Get Power Back Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-recovery-addressing-audio-file-dll-issues/"><u>Fast Recovery: Addressing Audio File Dll Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/final-answer-navigating-past-a-preparing-to-configure-impasse-in-windows-os-setup/"><u>Final Answer: Navigating Past a 'Preparing to Configure' Impasse in Windows OS Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-construct-a-custom-projector-screen-for-perfect-movie-nights/"><u>How to Construct a Custom Projector Screen for Perfect Movie Nights</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-frozen-individual-configuration-options-easily/"><u>How to Reactivate Frozen Individual Configuration Options Easily</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-must-see-top-5-youtube-link-share-extensions/"><u>In 2024, Must-See Top 5 YouTube Link Share Extensions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-make-your-videos-pop-top-animated-text-apps-for-android-and-ios/"><u>New In 2024, Make Your Videos Pop Top Animated Text Apps for Android and iOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-issue-of-a-non-functional-internet-explorer-browser/"><u>Overcoming the Issue of a Non-Functional Internet Explorer Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-dilemma-of-xbox-one-controller-pc-use/"><u>Solve the Dilemma of Xbox One Controller PC Use</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-a14-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy A14 5G Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

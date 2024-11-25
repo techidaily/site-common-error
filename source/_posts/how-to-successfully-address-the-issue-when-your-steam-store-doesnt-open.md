@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Address The Issue When Your Steam Store Doesn't Open
-date: 2024-11-14T18:22:17.305Z
-updated: 2024-11-15T16:03:05.501Z
+date: 2024-11-20T19:18:17.312Z
+updated: 2024-11-25T01:28:21.785Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Before start using the methods, you should check your connection first.
 5. [Use Microsoft Store troubleshoot](#m4)
 6. [Reset Microsoft Store from settings](#m5)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1\. Run Fortect to repair error
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a powerful tool to repair and rebuild Windows, this program specializes in Windows repair which makes it becomes the easiest way to fix Windows errors. It is tailored to your specific system and is working in a private and automatic way.
@@ -48,12 +41,26 @@ Before start using the methods, you should check your connection first.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Correct your time and location
 
@@ -67,16 +74,11 @@ Before start using the methods, you should check your connection first.
 5. Open the Microsoft Store to check.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Use the WSReset tool
@@ -93,36 +95,18 @@ Before start using the methods, you should check your connection first.
 
 1. Type “internet options” in the search bar and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip0.jpg)
 2. In the Connections tab, click**LAN settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. If you see the box under the**Proxy server** is ticked, uncheck**Use a proxy server for your LAN** then click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Run the Microsoft Store and check the problem is solved or not.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Use Microsoft Store troubleshoot
 
@@ -132,27 +116,11 @@ Before start using the methods, you should check your connection first.
 1. Press the**Windows key** +**I** together and click**Update & Security** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/update.jpg)
 2. Click**Troubleshoot** and scroll down to find Microsoft Store Apps.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click**Microsoft Store Apps** and then click**Run the troubleshooter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/troubleshoot.jpg)
 4. Follow the instructions on the screen then restart your computer.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Run the Microsoft Store to check the problem is solved or not.
@@ -165,13 +133,6 @@ Before start using the methods, you should check your connection first.
 2. Scroll down to find Microsoft Store.
 3. Click the**Microsoft Store** and then click**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app1.jpg)
 4. Scroll down and click**Reset** . Click**Reset** again in the pop-up window.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : This step will permanently delete the app’s data including your sign-in details.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app2.jpg)
@@ -196,24 +157,22 @@ Before start using the methods, you should check your connection first.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos-for-2024/"><u>[Updated] Fixing the No-Thumbnail Issue in YouTubes Shorts Videos for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mac-users-choice-top-screen-recorder-picks/"><u>[Updated] In 2024, Mac Users' Choice Top Screen Recorder Picks</u></a></li>
-<li><a href="https://common-error.techidaily.com/destiny-navigate-server-downtime-effective-solutions-for-unavailable-servers/"><u>Destiny Navigate Server Downtime: Effective Solutions for Unavailable Servers</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-to-get-out-of-the-preparing-to-load-windows-phase-on-your-laptop-or-desktop/"><u>Easy Solutions to Get Out of the 'Preparing to Load Windows' Phase on Your Laptop or Desktop</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-your-pc-freezes-on-windows-10/"><u>Effective Solutions for When Your PC Freezes on Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-fitness-routines-7-smart-gpt-tools/"><u>Enhancing Fitness Routines: 7 Smart GPT Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-apex-legends-cheating-flag-today-effortless-tips-to-get-back-in-action/"><u>Fix Your Apex Legends Cheating Flag Today: Effortless Tips to Get Back in Action</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-prevent-your-mouse-from-constantly-disconnecting-on-any-device/"><u>How To Prevent Your Mouse From Constantly Disconnecting on Any Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-recover-when-geforce-experience-wont-retrieve-your-settings-anymore/"><u>How to Recover When GeForce Experience Won't Retrieve Your Settings Anymore</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209862072-how-to-resolve-error-8007000e-in-windows-updates-step-by-step-guide/"><u>How To Resolve Error 8007000E in Windows Updates – Step-By-Step Guide!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-pushing-boundaries-the-spectrum-of-colors-and-4k-resolution/"><u>In 2024, Pushing Boundaries The Spectrum of Colors and 4K Resolution</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-pop-7-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Pop 7 Pro FRP Bypass</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-potential-of-ifunnys-meme-application/"><u>In 2024, Unleash the Potential of iFunny’s Meme Application</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-for-audio-disturbances-in-latest-games/"><u>The Ultimate Fix for Audio Disturbances in Latest Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-when-your-computer-says-missing-d3dx925dll/"><u>The Ultimate Fixes for When Your Computer Says Missing d3dx9_25.dll</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-solutions-for-overcoming-hypervisorbsod-in-windows/"><u>Top 5 Solutions for Overcoming HYPERVISOR_BSOD in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-destiny-2-servers-wont-start/"><u>Troubleshooting Tips for When Destiny 2 Servers Won't Start</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-troubleshooting-microsoft-cant-print-to-pdf-anymore/"><u>Windows 11 Troubleshooting: Microsoft Can't Print to PDF Anymore?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-an-encyclopedia-on-hand-pose-identification-systems-for-2024/"><u>[New] An Encyclopedia on Hand Pose Identification Systems for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-recmeisters-high-quality-screen-recording-capabilities/"><u>[New] Unveiling Recmeister's High-Quality Screen Recording Capabilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206759321-solved-computer-wont-wake-up-from-sleep-windows-1110/"><u>[SOLVED] Computer Won’t Wake Up From Sleep Windows 11/10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-top-10-audio-alchemy-from-youtube-to-mp3-masters/"><u>[Updated] 2024 Approved Top 10 Audio Alchemy From YouTube to Mp3 Masters</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-winning-at-gaming-memory-capture-essentials-on-windows-10/"><u>[Updated] Winning at Gaming Memory Capture Essentials on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-11-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme 11 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/blizzard-down-disconnect-notice/"><u>Blizzard Down: Disconnect Notice</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-the-caching-fault-in-google-chrome-errcachemiss-explained/"><u>Comprehensive Fixes for the Caching Fault in Google Chrome - ERR_CACHE_MISS Explained</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descripcion-completa-de-las-especs-y-funcionalidades-de-la-ia-winxvideo-guia-oficial/"><u>Descripción Completa De Las Especs Y Funcionalidades De La IA Winxvideo: Guía Oficial</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-netflix-blackout-solutions-to-get-your-streams-running-smoothly/"><u>Fixing the Netflix Blackout: Solutions to Get Your Streams Running Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-regaining-control-unlocking-your-windows-installation-drive/"><u>Guide to Regaining Control: Unlocking Your Windows Installation Drive</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-redefining-wanderlust-with-virtual-reality-tours/"><u>In 2024, Redefining Wanderlust with Virtual Reality Tours</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-ultimate-canon-sequence-crafts-for-2024/"><u>Perfecting Ultimate Canon Sequence Crafts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unresponsive-usb-input-devices-on-windows-7-mouse-and-keyboard-solutions/"><u>Resolving Unresponsive USB Input Devices on Windows 7: Mouse & Keyboard Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-email-with-confidence-mastering-gmail-two-step-verification-setup/"><u>Secure Your Email with Confidence: Mastering Gmail Two-Step Verification Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-resolving-a-ce-34878-0-hangtag-error-on-ps4-systems/"><u>Successfully Resolving a CE-34878-0 Hangtag Error on PS4 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-corsair-hs50-headset-microphone/"><u>Troubleshooting Guide: How to Fix a Non-Functional Corsair HS50 Headset Microphone</u></a></li>
 </ul></div>
 

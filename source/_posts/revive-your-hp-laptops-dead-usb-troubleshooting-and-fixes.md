@@ -1,7 +1,7 @@
 ---
 title: "Revive Your HP Laptop's Dead USB: Troubleshooting and Fixes"
-date: 2024-11-11T17:15:14.919Z
-updated: 2024-11-15T17:34:54.456Z
+date: 2024-11-23T22:27:35.522Z
+updated: 2024-11-24T17:23:44.047Z
 tags:
   - win11
   - win10
@@ -53,31 +53,41 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click**Change adapter** **settings** on the left.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
@@ -89,30 +99,15 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 1. Right click on the**network icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png) ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
 
@@ -128,13 +123,6 @@ A missing or outdated network card driver will cause connection issues in your c
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Open Destiny 2 and see the servers not available error has been removed.
 
@@ -160,22 +148,20 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-10-steps-to-become-a-successful-smm/"><u>[New] 2024 Approved 10 Steps to Become a Successful SMM</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-calculating-costs-in-youtube-advertising-campaigns/"><u>2024 Approved Calculating Costs in YouTube Advertising Campaigns</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-expertly-remove-items-from-iphone-photo-with-top-6-apps/"><u>2024 Approved Expertly Remove Items From iPhone Photo with Top 6 Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-practices-to-prevent-and-fix-recurring-outlook-program-crashes/"><u>Best Practices to Prevent and Fix Recurring Outlook Program Crashes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210970027-9781088232378-conexion-galilea/"><u>Conexión Galilea | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-hp-laptops-malfunctioning-camera-on-windows-10-systems/"><u>Easy Fixes for HP Laptop's Malfunctioning Camera on Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-update-error-0x80070002-without-stress-expert-tips-inside/"><u>Fix Windows Update Error 0X80070002 Without Stress - Expert Tips Inside!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-redmi-13c-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi Redmi 13C FRP</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-ai-for-compelling-youtube-thumbnails/"><u>Leveraging AI for Compelling YouTube Thumbnails</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-no-speakers-or-headphones-connected-warning-on-windows-pcs/"><u>Overcoming No Speakers or Headphones Connected Warning on Windows PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-and-repairing-stuck-function-keys-in-your-asus-portable-pc/"><u>Reviving and Repairing Stuck Function Keys in Your Asus Portable PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-server-accessibility-problems-in-destiny-2-a-step-by-step-guide/"><u>Solving Server Accessibility Problems in Destiny 2: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/solving-the-windows-7-startup-repair-loop-4-effective-fixes/"><u>Solving the Windows 7 Startup Repair Loop - 4 Effective Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-pcs-ethernet-connection-problems-a-guide-for-both-windows-7-and-10-users/"><u>Solving Your PC's Ethernet Connection Problems: A Guide for Both Windows 7 and 10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-windows-10-issues-efficiently-with-sfc-and-dism-repair-methods/"><u>Troubleshoot Windows 10 Issues Efficiently With SFC and DISM Repair Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-what-to-do-if-windows-10-crashes-or-hangs/"><u>Troubleshooting Guide: What To Do If Windows 10 Crashes or Hangs?</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-success-overcoming-the-directx-unrecoverable-system-error/"><u>Troubleshooting Success: Overcoming the DirectX Unrecoverable System Error</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dive-into-windows-11-sound-capture-a-step-by-step-guide/"><u>[New] In 2024, Dive Into Windows 11 Sound Capture A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-animate-and-make-your-own-effects/"><u>2024 Approved How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-to-patch-resolving-the-windows-10-v1607-feature-update-problem/"><u>Failed to Patch: Resolving the Windows 10 v1607 Feature Update Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-missing-classes-issue-in-your-windows-10-program/"><u>Fixing Missing Classes Issue in Your Windows 10 Program</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-microphone-in-your-windows-n-tenth-setup/"><u>How to Repair a Broken Microphone in Your Windows N-Tenth Setup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-infinix-devices-by-drfone-android/"><u>How to Reset Gmail Password on Infinix Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-camon-20-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Camon 20 Pro 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-historys-high-fliers-the-most-upvoted-threads-on-reddit/"><u>In 2024, History’s High-Fliers The Most Upvoted Threads on Reddit</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-spectrum-perfection-color-grading-basics/"><u>In 2024, Spectrum Perfection Color Grading Basics</u></a></li>
+<li><a href="https://common-error.techidaily.com/installation-issue-windows-10-update-version-1607-wont-install/"><u>Installation Issue: Windows 10 Update (Version 1607) Won't Install</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-rdr2-out-of-memory-how-to-expand-your-page-file-size/"><u>Resolving 'RDR2 Out of Memory' - How to Expand Your Page File Size</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-pc-issues-fixing-driver-state-failures-in-windows/"><u>Troubleshooting PC Issues: Fixing Driver State Failures in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-audio-device-isolation-feature-in-windows-for-optimal-performance/"><u>Troubleshooting the Audio Device Isolation Feature in Windows for Optimal Performance</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/ultimate-tutorial-how-to-perform-a-perfect-wd-ssd-cloning-process-in-windows-11/"><u>Ultimate Tutorial: How to Perform a Perfect WD SSD Cloning Process in Windows 11</u></a></li>
 </ul></div>
 

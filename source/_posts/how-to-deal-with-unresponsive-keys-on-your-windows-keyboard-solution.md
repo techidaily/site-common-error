@@ -1,7 +1,7 @@
 ---
 title: How to Deal with Unresponsive Keys on Your Windows Keyboard [Solution]
-date: 2024-11-08T16:21:17.464Z
-updated: 2024-11-15T16:12:51.981Z
+date: 2024-11-18T16:13:23.970Z
+updated: 2024-11-24T17:54:49.975Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
@@ -50,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
  After confirming that your hardware is not the problem, check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your keyboard driver
@@ -64,15 +65,13 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
-4. Right-click your keyboard and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
+4. Right-click your keyboard and select**Uninstall device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
@@ -95,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  After updating your keyboard driver, restart your PC for the changes to take effect.
@@ -118,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this method didn’t work for you, check out the last fix.
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -136,16 +121,23 @@ If this method didn’t work for you, check out the last fix.
 1. On your keyboard, press the**Window logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -155,15 +147,12 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -186,17 +175,21 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-cut-video-length-for-instagram-on-mac/"><u>[New] In 2024, How To Cut Video Length For Instagram On Mac</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-advanced-tips-excelling-at-slide-show-recordings-for-2024/"><u>[Updated] Advanced Tips Excelling at Slide Show Recordings for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-content-from-instagram-vids-to-crisp-mp4-files/"><u>[Updated] Elevate Your Content From Instagram Vids to Crisp MP4 Files</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-prime-picture-selections-captivating-live-viewing/"><u>2024 Approved Prime Picture Selections Captivating Live Viewing</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-sluggish-or-nonfunctional-touchpad-scroll-on-windows-11-systems/"><u>Diagnosing and Repairing Sluggish or Nonfunctional Touchpad Scroll on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhancing-website-security-a-step-by-step-solution-to-the-neterrcertweaksignaturealgorithm-problem/"><u>Enhancing Website Security: A Step-by-Step Solution to the NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Problem</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-samsungs-lpcamm-maximizing-laptop-performance-with-up-to-amoled-128gb-ddr5-storage-and-space-reduction-by-60/"><u>Introducing Samsung's LPCAMM: Maximizing Laptop Performance with Up to Amoled 128GB DDR5 Storage and Space Reduction by 60%</u></a></li>
-<li><a href="https://win-news.techidaily.com/iphone-youyube-to-mac-video-downloader-free-and-easy/"><u>IPhone YouYube-to-Mac Video Downloader: Free & Easy</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138583079-9781452533087-miracles-of-the-soul/"><u>Miracles of the Soul | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-hang-ups-what-to-do-if-windows-11-is-unresponsive/"><u>Resolving Hang-Ups: What to Do If Windows 11 Is Unresponsive?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-pioneers-guide-to-vr-terminology/"><u>The Pioneer's Guide to VR Terminology</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-night-light-issues-on-windows-11-machines/"><u>Troubleshooting Night Light Issues on Windows 11 Machines</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-android-freedom-the-most-popular-top-10-fb-video-extraction-tools/"><u>[New] 2024 Approved Android Freedom The Most Popular Top 10 FB Video Extraction Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-strategic-income-generation-through-youtube-as-per-sourav-joshis-playbook/"><u>[New] In 2024, Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimizing-kinemaster-usage-expert-advice-and-superior-digital-alternatives/"><u>[New] Optimizing KineMaster Usage Expert Advice and Superior Digital Alternatives</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-iphone-filmmakers-choice-top-8-free-and-paid-app-list-for-2024/"><u>[Updated] IPhone Filmmakers' Choice Top 8 Free & Paid App List for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-windows-10-bluetooth-back-quickly-step-by-step-troubleshooting-guide/"><u>Get Your Windows 10 Bluetooth Back Quickly: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-master-the-archive-navigating-social-media-live-recordings/"><u>In 2024, Master the Archive Navigating Social Media Live Recordings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-the-eero-pro-mesh-network-ensuring-uninterrupted-internet-throughout-your-house/"><u>In-Depth Review of the Eero Pro Mesh Network – Ensuring Uninterrupted Internet Throughout Your House</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962334391-latest-driver-updates-for-nvidia-geforce-gtx-1ve-xs-super-get-them-now/"><u>Latest Driver Updates for NVIDIA GeForce GTX 1Ve XS Super - Get Them Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-ultimate-tips-and-tricks-to-correctly-address-windows-update-error-code-0x8024402c/"><u>Mastering the Fix: Ultimate Tips & Tricks to Correctly Address Window's Update Error Code 0X8024402c</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-dual-display-setup-for-windows-7-users-no-more-unseen-screens/"><u>Seamless Dual Display Setup for Windows 7 Users - No More Unseen Screens!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-lenovo-laptop-webcam-problem-with-these-easy-fixes/"><u>Solve Your Lenovo Laptop Webcam Problem with These Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-couldnt-load-plugin-chrome-error-on-windows-10/"><u>Solved: Couldn’t Load Plugin Chrome Error on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-eliminating-the-dark-screen-during-obs-gaming-sessions/"><u>Step-by-Step Guide: Eliminating the Dark Screen During OBS Gaming Sessions</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-quiet-life-without-constant-connectivity/"><u>The Quiet Life Without Constant Connectivity</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unraveling-the-mysteries-of-german-alphabetic-system/"><u>Unraveling the Mysteries of German Alphabetic System</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206580195-windows-11-wont-exit-airplane-mode-heres-how-you-can-fix-it/"><u>Windows 11 Won't Exit Airplane Mode? Here's How You Can Fix It</u></a></li>
 </ul></div>
 

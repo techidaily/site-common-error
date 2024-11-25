@@ -1,7 +1,7 @@
 ---
 title: "Mastering Desktop Control: How to Recover Windows That Wandered Off-Screen"
-date: 2024-11-12T17:43:23.546Z
-updated: 2024-11-15T17:13:36.567Z
+date: 2024-11-20T00:55:24.690Z
+updated: 2024-11-25T00:06:57.487Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -50,20 +43,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
@@ -73,8 +56,17 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -87,10 +79,7 @@ You can also try these steps to rebuild the icon cache:
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
@@ -102,13 +91,6 @@ start explorer.exe
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -118,20 +100,22 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -162,6 +146,10 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 Hopefully, this can help you out.
@@ -185,22 +173,17 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-eliminating-audio-absence-in-live-obs-sessions-for-2024/"><u>[New] Eliminating Audio Absence in Live OBS Sessions for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-jolt-dampening-snapcam-accessory-kit-for-2024/"><u>[New] Jolt Dampening SnapCam Accessory Kit for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-superior-2-written-by-robert-littell/"><u>[New] Superior 2 Written by Robert Littell</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-inside-look-top-10-screenshot-tools-on-macos-platform-for-2024/"><u>[Updated] Inside Look Top 10 Screenshot Tools on macOS Platform for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-step-by-step-perfecting-your-lol-recordings/"><u>[Updated] Step-by-Step Perfecting Your LOL Recordings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-android-enables-seamless-screen-capturing/"><u>2024 Approved How Android Enables Seamless Screen Capturing</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-your-overwatch-cannot-connect-error-message/"><u>Expert Tips for Fixing Your Overwatch ‘Cannot Connect’ Error Message</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-broken-windows-key-in-windows-10-expert-tips-and-tricks/"><u>Fixing Your Broken Windows Key in Windows 10 – Expert Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205245961-how-to-fix-minecraft-crashes-caused-by-incompatible-video-card-drivers-in-windows-systems/"><u>How to Fix Minecraft Crashes Caused by Incompatible Video Card Drivers in Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-lag-woes-discover-the-ultimate-fixes-for-a-seamless-play/"><u>PUBG Lag Woes? Discover the Ultimate Fixes for a Seamless Play</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-pubg-games-persistent-latency-issues-a-comprehensive-guide/"><u>Resolve Your PUBG Game's Persistent Latency Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionize-your-audio-experience-with-ions-tailgater-plus-seamless-boosted-sound-explained/"><u>Revolutionize Your Audio Experience with ION's Tailgater Plus: Seamless, Boosted Sound Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-resolving-non-functional-keyboard-issue-during-system-startup/"><u>Solved! Resolving Non-Functional Keyboard Issue During System Startup</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-11-database-error-linked-to-system-updates-a-step-by-step-guide/"><u>Solving Windows 11 Database Error Linked to System Updates: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/this-advanced-topic-integrates-population-genetics-landscape-ecology-and-conservation-biology/"><u>This Advanced Topic Integrates Population Genetics, Landscape Ecology, and Conservation Biology.</u></a></li>
-<li><a href="https://common-error.techidaily.com/triumphant-journey-post-nvidia-setup-hurdle/"><u>Triumphant Journey Post NVIDIA Setup Hurdle</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-silent-steel-solving-no-audio-issues-in-fallout-4/"><u>Troubleshooting Silent Steel: Solving 'No Audio' Issues in Fallout 4</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-iphone-shot-perfection-with-ios-11-innovations/"><u>[New] 2024 Approved IPhone Shot Perfection with iOS 11 Innovations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-skin-perfection-iphone-and-android-leaders/"><u>[New] Best Skin Perfection IPhone & Android Leaders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-effective-spotify-promotion/"><u>[New] Mastering the Art of Effective Spotify Promotion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[Updated] How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/audio-woes-in-win-10-over-now-smooth-operations/"><u>Audio Woes in WIN 10 Over, Now Smooth Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-laptop-diy-fixes-making-your-non-responsive-fn-keys-operational-once-more/"><u>Dell Laptop DIY Fixes: Making Your Non-Responsive 'FN' Keys Operational Once More</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-correcting-error-0x80072efd-a-complete-guide-for-windows-10-users/"><u>Expert Advice on Correcting Error 0X80072EFD - A Complete Guide for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-started-with-the-engine-essential-hardware-requirement-a-compatible-d3d11-gpu-is-needed/"><u>Getting Started with the Engine: Essential Hardware Requirement – A Compatible D3D11 GPU Is Needed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-get-the-most-out-of-your-streamlabs-obs-setup-for-2024/"><u>How to Get the Most Out of Your Streamlabs OBS Setup for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207907025-solving-the-binkw32dll-file-not-found-issue-a-step-by-step-guide/"><u>Solving the binkw32.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-casting-issues-to-devices-in-windows-11/"><u>Troubleshooting: Fixing Casting Issues to Devices in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vision-in-focus-analyzing-best-8k-screen-performers/"><u>Vision in Focus Analyzing Best 8K Screen Performers</u></a></li>
 </ul></div>
 

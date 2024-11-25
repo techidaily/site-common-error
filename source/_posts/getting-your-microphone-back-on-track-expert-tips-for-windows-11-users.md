@@ -1,7 +1,7 @@
 ---
 title: "Getting Your Microphone Back on Track: Expert Tips for Windows 11 Users"
-date: 2024-11-10T18:37:51.224Z
-updated: 2024-11-15T16:56:46.454Z
+date: 2024-11-21T18:07:59.922Z
+updated: 2024-11-24T19:57:11.398Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
@@ -51,25 +55,19 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -84,10 +82,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -99,10 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -127,22 +119,17 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-digital-recorders-companion-pc-mac-phone-edition-for-2024/"><u>[New] Digital Recorder's Companion PC, Mac, Phone Edition for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-5-seconds-timelapse-shooter/"><u>[Updated] In 2024, Top 5-Seconds Timelapse Shooter</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-pulse-of-the-population-vllo-analysis/"><u>2024 Approved The Pulse of the Population VLLO Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-easy-anti-cheat-troubles-for-a-smooth-new-world-game-launch/"><u>Bypassing Easy Anti-Cheat Troubles for a Smooth New World Game Launch</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fix-guide-tackling-failed-renderer-initialization-updates/"><u>Easy Fix Guide: Tackling Failed Renderer Initialization Updates</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/explore-the-premier-video-grabbing-tools-on-windows-10/"><u>Explore the Premier Video Grabbing Tools on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-how-to-correctly-establish-a-directx-rendering-device/"><u>Fixed: How to Correctly Establish a DirectX Rendering Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/ftdi-bus-system-and-memory-safety-troubleshooting-driver-mismatches-for-optimal-performance/"><u>FTDI Bus System and Memory Safety: Troubleshooting Driver Mismatches for Optimal Performance</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-frame-it-up-right-expert-approved-photo-editing-software-2023/"><u>In 2024, Frame It Up Right Expert-Approved Photo Editing Software, 2023</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-transform-every-moment-top-ideas-for-productive-podcast-sessions/"><u>In 2024, Transform Every Moment Top Ideas for Productive Podcast Sessions</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-dilemma-heres-how-to-get-your-backspace-working-again/"><u>Keyboard Dilemma? Here's How to Get Your Backspace Working Again!</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-android-studio-execution-the-windows-way/"><u>Masterful Android Studio Execution: The Windows Way</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-minecraft-multiplayer-essential-solutions-to-get-your-lan-up-and-running/"><u>Mastering Minecraft Multiplayer: Essential Solutions to Get Your LAN Up and Running</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-in-windows-11/"><u>Resolving Svchost.exe's Excessive CPU Consumption in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-enabling-low-light-settings-on-iphone/"><u>Step-by-Step Tutorial: Enabling Low Light Settings on iPhone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-a-disappearing-bluetooth-icon-in-windows-10-solutions-unveiled/"><u>Troubleshooting a Disappearing Bluetooth Icon in Windows 10: Solutions Unveiled</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-leading-xbox-series-x-headsets-for-optimal-sound-experience/"><u>Ultimate Guide: Leading Xbox Series X Headsets for Optimal Sound Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-a-step-by-step-manual-for-youtube-shorts-templates-perfection/"><u>[New] 2024 Approved A Step-by-Step Manual for YouTube Shorts Templates Perfection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-freeze-time-on-mi-11-with-impeccable-screen-recording-features/"><u>[Updated] Freeze Time on Mi 11 with Impeccable Screen Recording Features</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-high-definition-streaming-wars-vmix-or-wirecast-in-2024/"><u>[Updated] High Definition Streaming Wars VMix or Wirecast, In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-cameraphone-gimbal-optimal-pan-and-tilt-stability/"><u>[Updated] In 2024, Top Camera/Phone Gimbal – Optimal Pan & Tilt Stability</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203896037-bypassing-trouble-with-windows-network-issue-fix-error-code-0x800704cf-now/"><u>Bypassing Trouble with Windows Network Issue - Fix Error Code 0X800704CF Now</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210470841-9781777878429-embodied/"><u>Embodied | Free Book</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-nokia-c110-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Nokia C110</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-se-2022-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone SE (2022) Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-updates-solving-failure-problems-effectively/"><u>Mastering Windows Updates: Solving Failure Problems Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-ntoskrnlexe-high-utilization-issues/"><u>Resolving ntoskrnl.exe High Utilization Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-repairing-a-malfunctioning-corsair-keyboard/"><u>Step-by-Step Guide: Repairing a Malfunctioning Corsair Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-fixing-no-video-output-errors/"><u>Step-By-Step Troubleshooting for Fixing No Video Output Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Destiny 2 Connectivity Woes: Fix Your Servers Now"
-date: 2024-11-13T16:46:02.269Z
-updated: 2024-11-15T17:04:58.938Z
+date: 2024-11-21T19:51:06.359Z
+updated: 2024-11-24T20:17:49.563Z
 tags:
   - win11
   - win10
@@ -33,11 +33,19 @@ If your **Xbox One won’t connect to Xbox Live**, don’t worry. There’re**fo
 
 Sometimes a hard-reset can help you fix some strange problems. A hard-reset of Xbox One controller and modem helps many users fix the Xbox One not connecting to Xbox Live error. So make sure to give it a shot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to hard reset your Xbox One
 
 1) Press and hold the Xbox Logo on your console until the console shuts off. 2) Wait for a while then turn your console back on by pressing the same Xbox button on your console.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fcebec23ca.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to hard reset your modem
 
@@ -47,13 +55,6 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 
 2) Release your hands and wait till the power light is steady. Now try to see if your Xbox One could be connected to Xbox Live.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Change IP settings and DNS settings on Xbox Live
 
 The IP settings and DNS settings could also have an effect on the connection between your Xbox One and Xbox Live. Follow the steps here to correct it: 1) Click the Settings icon on left side of your Xbox Live. Then click**All settings**.
@@ -61,15 +62,16 @@ The IP settings and DNS settings could also have an effect on the connection bet
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click**Network**. Then select**Network settings**on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Go on to click**Advanced settings**.
 
@@ -79,63 +81,40 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd9129d434.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Now it’s back to Advanced settings. This time click**DNS settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd976db238.png)
 
 Now try to connect your Xbox one to Xbox Live.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Check the services related to Xbox Live
 
 1) On your keyboard, press the **Windows logo key** +**R**key together to invoke the Run box. 2) Enter**services.msc**in the box and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599f8eede7987.png)3) Scroll down on the open Services window. Find and right click on**Xbox Live Networking Service**. Then select**Properties**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) On Gerenal pane, set its Startup type to **Automatic** from the drop-down menu. Then click**Apply**\>**OK**to save your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdeb828a6c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Now it’s back on Services window, right-click on**Xbox Live Networking Service**again. This time select**Start**.**Note:**If the Start option grayed out, select**Restart**instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf2f4ab34.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Go on to do the same settings for**Xbox Live Auth Manager**and**Xbox Live Game Save**via the same steps above. They’re ussually listed closed to Xbox Live Networking Service.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe022a60ab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your network adapter driver and Xbox One controller driver
@@ -167,14 +146,19 @@ After updating the drivers, please restart your computer to make the new drivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-how-to-go-live-on-tiktok-on-computer/"><u>[New] 2024 Approved How to Go Live On TikTok On Computer</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-advanced-editing-for-published-youtube-videos/"><u>[Updated] 2024 Approved Advanced Editing for Published YouTube Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-art-of-chromatic-mastery-in-video-editing-11-steps/"><u>2024 Approved Unveiling the Art of Chromatic Mastery in Video Editing (11 Steps)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/guardian-mode-safe-sleep-in-win11/"><u>Guardian Mode: Safe Sleep in Win11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-pdf-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to add a digital signature block to PDF</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restore-right-click-functionality-for-mice-on-windows-10/"><u>Step-by-Step Guide to Restore Right-Click Functionality for Mice on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-windows-1011-night-mode-wont-turn-on/"><u>Troubleshooting Tips for When Windows 10/11 Night Mode Won't Turn On</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-why-your-windows-10-upgrade-is-halted-at-99-and-how-to-fix-it/"><u>Troubleshooting: Why Your Windows 10 Upgrade Is Halted at 99% and How to Fix It</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-efficiently-record-your-screen-with-io-screen-recorder/"><u>[New] 2024 Approved Efficiently Record Your Screen with IO Screen Recorder</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-elevate-your-farming-game-to-immortal-status-with-these-7-14-mods/"><u>[New] 2024 Approved Elevate Your Farming Game to Immortal Status with These #7-14 Mods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-choosing-between-bandicam-and-camtasia/"><u>[Updated] In 2024, Choosing Between Bandicam & Camtasia</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-expert-insight-on-sierras-icloud-drive-accessibility/"><u>[Updated] In 2024, Expert Insight on Sierra's iCloud Drive Accessibility</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-megadatasky-affordable-space-for-big-files/"><u>[Updated] In 2024, MegaDataSky - Affordable Space for Big Files</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-advanced-screenshot-options-for-windows-users/"><u>2024 Approved Advanced Screenshot Options for Windows Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unique-soundscapes-for-your-one-person-show/"><u>2024 Approved Unique Soundscapes for Your One-Person Show</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-tech-frustration-proven-strategies-for-fixing-recurring-device-stalls/"><u>Avoid Tech Frustration: Proven Strategies for Fixing Recurring Device Stalls</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-fix-semaphore-exceeds-allotted-time-limit-problem-solved/"><u>Critical Fix: Semaphore Exceeds Allotted Time Limit, Problem Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-smoothly-handle-the-0x800f0831-error-through-windows-update/"><u>How to Smoothly Handle the '0X800F0831' Error Through Windows Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-the-missing-vcruntime140dll-file-issue-on-your-windows-pc/"><u>Resolved: How to Fix the Missing VCRUNTIME140.dll File Issue on Your Windows PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-streaming-setting-up-a-vpn-on-firestick-in-just-minutes/"><u>Seamless Streaming: Setting Up a VPN on FireStick in Just Minutes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-the-disappearing-cursor-issue-in-windows-10/"><u>Troubleshooting and Solving the Disappearing Cursor Issue in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-strategies-for-effective-windows-update-recovery/"><u>Winning Strategies for Effective Windows Update Recovery</u></a></li>
 </ul></div>
 

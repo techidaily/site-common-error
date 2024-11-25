@@ -1,7 +1,7 @@
 ---
 title: Jumpstart Joyful Gameplay, Freeze Fears Banished
-date: 2024-11-11T17:23:42.831Z
-updated: 2024-11-15T16:33:15.852Z
+date: 2024-11-22T22:42:34.982Z
+updated: 2024-11-25T03:08:15.759Z
 tags:
   - win11
   - win10
@@ -53,20 +53,22 @@ To do this:
   
 ![run as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the**Compatibility** tab and click**Change settings for all users** .  
   
 ![run as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Under the**Settings** section, click**Run this program as an administrator** . Then click**Apply** .  
   
 ![run Warframe as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-3-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After applying the changes, try relaunching Warframe.
 
@@ -118,13 +120,6 @@ ethernet
   
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/open-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type the commands below**one by one** and**before** you type the next one, remember to press**Enter** on your keyboard.  
   
 **ipconfig/flushdns**
@@ -139,13 +134,6 @@ ethernet
  You can update your network card driver by following these[steps](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair/ Update Microsoft Visual C++ Redistributable
 
@@ -162,41 +150,33 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![open control panel ](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Programs and Features**
 
 ![repair download packages; Warframe update failed](https://images.drivereasy.com/wp-content/uploads/2020/09/program-and-features.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Under the**Uninstall or change a program** section, find the**Microsoft Visual C++** packages.
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/click-Microsoft-Visual-C.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on it and click**Change** .
 
 ![repair Microsoft Visual C++](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) When the**Modify Setup** window pops up, click**Repair** .
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) When you’re asked “Do you want to allow this app to make changes to your device?”, click**Yes** .
 
@@ -204,11 +184,19 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Update Microsoft Visual** **C++**
 
  To update Microsoft Visual C++, you need to go to the[download page](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) and install it manually.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall DirectX
 
@@ -220,6 +208,10 @@ Both the repairing and updating might work. So just choose one of them.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Change the launcher settings
 
  If those methods haven’t worked for you, then you can change the launcher settings.
@@ -229,13 +221,6 @@ Both the repairing and updating might work. So just choose one of them.
 2) At the upper right corner, click the**Settings** icon.
 
 ![change settings Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/click-the-settings-icon.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Uncheck**Bulk Download** and when the**Warning** window appears, click**OK** . Then click**OK** on the**Settings** window.
 
@@ -251,27 +236,17 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![verify Warframe download cache](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-Warframe-download-cache-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the**Verify Game Data?** window, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-Warframe-download-cache-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Till then, relaunch your game and update it to check if the issue still occurs.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Other fixes
 
@@ -312,19 +287,19 @@ To use a VPN service, you need to download a VPN application.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-getting-started-with-adobe-presenter-video-recordings/"><u>[New] In 2024, Getting Started with Adobe Presenter Video Recordings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-meme-world-for-iphone-enthusiasts-for-2024/"><u>[New] Meme World for iPhone Enthusiasts for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-radiate-on-reels-instagram-highlight-techniques-simplified-to-three/"><u>[New] Radiate on Reels Instagram Highlight Techniques, Simplified to Three</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-samsung-bd-j5900-review/"><u>[Updated] 2024 Approved Samsung BD-J5900 Review</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortless-conversions-selecting-the-10-prime-flv-to-youtubes-options/"><u>[Updated] In 2024, Effortless Conversions Selecting the 10 Prime Flv to YouTubes Options</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-what-to-do-when-your-pc-runs-on-windows-11-and-crashes/"><u>Expert Advice: What to Do When Your PC Runs on Windows 11 and Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-d3dxtoolsdll-missing-error-on-windows-7/"><u>Fixing d3dxtools.dll Missing Error on Windows 7</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-ultimate-list-of-premium-androidpc-video-editors/"><u>In 2024, The Ultimate List of Premium Android/PC Video Editors</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/installation-error-windows-10-version-1607-upgrade-fails/"><u>Installation Error: Windows 10 Version 1607 Upgrade Fails</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-update-troubles-heres-the-ultimate-2024-fix-and-launch-tutorial/"><u>PUBG Update Troubles? Here's the Ultimate 2024 Fix & Launch Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-windows-explorer-issue/"><u>Revive Windows Explorer Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-you-need-to-know-when-encountering-issues-with-non-downloading-torrents/"><u>What You Need To Know When Encountering Issues With Non-Downloading Torrents</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-ineteresourcenotfound-error/"><u>[Fixed] INET_E_RESOURCE_NOT_FOUND Error</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-free-video-editing-software-top-10-options-for-windows-and-mac-os/"><u>Best Free Video Editing Software: Top 10 Options for Windows & Mac OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elite-fingers-to-enhance-virtual-adventures-for-2024/"><u>Elite Fingers to Enhance Virtual Adventures for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-become-a-youtube-partner-you-need-10000-views-now/"><u>How to Become a YouTube Partner - You Need 10,000 Views Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-lenovos-function-key-fn-operability-quickly-and-effortlessly/"><u>How to Restore Lenovo's Function Key (Fn) Operability Quickly & Effortlessly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-x5-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco X5 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/insiders-guide-how-to-buy-a-future-ready-360-camera-for-2024/"><u>Insider's Guide How to Buy a Future-Ready 360 Camera for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-dilemma-steps-to-recover-lost-ipad-passwords-and-lock-codes/"><u>Solving the Dilemma: Steps to Recover Lost iPad Passwords & Lock Codes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-network-issue-code-0x80n0704cf-a-step-by-step-guide/"><u>Solving Windows Network Issue Code 0X80n0704CF: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/speed-up-your-system-essential-tips-for-enhancing-computer-efficiency-and-speed/"><u>Speed up Your System: Essential Tips for Enhancing Computer Efficiency and Speed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/stream-friendly-tips-for-halo-legends-for-2024/"><u>Stream-Friendly Tips for Halo Legends for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-heavy-cpu-usage-by-wudfhostexe-in-windows-10-environments/"><u>Understanding and Fixing Heavy CPU Usage by WUDFHost.exe in Windows 10 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-system-preferences-now-managed-corporately-issue-fixed/"><u>Windows System Preferences Now Managed Corporately - Issue Fixed</u></a></li>
 </ul></div>
 

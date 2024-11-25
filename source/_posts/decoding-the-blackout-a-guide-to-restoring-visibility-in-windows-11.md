@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Blackout: A Guide to Restoring Visibility in Windows 11"
-date: 2024-08-27T13:47:58.786Z
-updated: 2024-08-28T13:47:58.786Z
+date: 2024-11-21T23:21:56.931Z
+updated: 2024-11-24T18:27:34.771Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select **Startup Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968810c5917f.png)
@@ -54,6 +58,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 **6)**  Select**Windows 10** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968812f12e1e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** After the Startup Repair complete, restart your computer and see if it resolves your problem.
 
@@ -67,9 +75,17 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
@@ -94,9 +110,6 @@ _**bootrec /scanos**_
 
 **8)** Restart your computer and see if it fixes the issue. If you still get stuck, check**method 3** to reset your Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Method 3: Reset your Windows 10
 
  It is possible that your Windows 10 was damaged and it can’t start up normally.**Resetting your operating system** can help you get it back to normal.
@@ -109,16 +122,14 @@ _**bootrec /scanos**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Boot your computer from your Windows 10 installation media. After selecting the language and region, click on**Install now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968970ab6012.png)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)**  Follow the on-screen instructions to complete the reinstallation of your system.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -129,8 +140,6 @@ _**bootrec /scanos**_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +147,19 @@ _**bootrec /scanos**_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-savor-the-magic-of-9-uninterrupted-holiday-movies-for-free-online/"><u>[Updated] Savor the Magic of 9 Uninterrupted Holiday Movies for Free Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-streamers-choice-is-obs-better-than-twitch-studio-for-2024/"><u>[Updated] The Ultimate Streamer's Choice Is OBS Better Than Twitch Studio for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mimicking-golden-age-filmmaking-in-contemporary-videos/"><u>2024 Approved Mimicking Golden Age Filmmaking in Contemporary Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cing-content-reach-keeping-creative-commons-engagement-high/"><u>Enhancing Content Reach Keeping Creative Commons Engagement High</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-the-missing-d3dx939dll-file-and-fix-related-issues-quickly/"><u>How To Restore The Missing D3DX9_39.dll File & Fix Related Issues Quickly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y28-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y28 5G</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quickstreamsuccess-essential-tips-for-flawless-live-podcast-streams/"><u>QuickStreamSuccess Essential Tips for Flawless Live Podcast Streams</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-fix-and-reload-quick-guide-for-unresponsive-google-chrome/"><u>Resolving: Fix & Reload Quick Guide for Unresponsive Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-pc-boot-problems-with-getting-windows-ready-errors/"><u>Step-by-Step Guide: Resolving PC Boot Problems with 'Getting Windows Ready' Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-improving-windows-audio-capabilities-easily/"><u>Troubleshooting and Improving Windows Audio Capabilities Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultraview-app-functionality-survey-for-2024/"><u>UltraView App Functionality Survey for 2024</u></a></li>
+</ul></div>
 

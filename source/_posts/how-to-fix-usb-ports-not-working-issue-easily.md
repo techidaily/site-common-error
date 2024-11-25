@@ -1,7 +1,7 @@
 ---
 title: How to Fix USB Ports Not Working Issue. Easily
-date: 2024-11-12T16:22:31.127Z
-updated: 2024-11-15T17:40:30.894Z
+date: 2024-11-18T23:29:15.766Z
+updated: 2024-11-24T21:12:06.778Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Hold down the power button
 
  The easiest way that may resolve the problem is**hold down the power button for 30 seconds or so** . This will discharge the capacitor. After that, reboot PC and check to see if the problem is resolved.  
@@ -49,6 +53,10 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 **IMPORTANT:** You’ll need to use a keyboard or a mouse to try any of below solutions. . If your usb keyboard or mouse stops working, use a PS2 keyboard instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows swtiches your USB controllers off when they’re not in use, and switches back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again. controller or the devices.
@@ -61,16 +69,14 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b3d657b3f.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click the first USB Root Hub device in the list, and click the **Power Management**  tab. (If you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4911321a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Un-check the **Allow the computer to turn off this device to save power** checkbox, and click **OK**  .  
 
@@ -78,10 +84,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
@@ -100,13 +103,6 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb32c9a931.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 Here take Intel USB 3.0 driverf for example:
@@ -114,10 +110,7 @@ Here take Intel USB 3.0 driverf for example:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb3367beb7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -135,18 +128,22 @@ Here take Intel USB 3.0 driverf for example:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-dissecting-luminances-role-in-hdr-imagery/"><u>[New] 2024 Approved Dissecting Luminance's Role in HDR Imagery</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-configuration-errors-that-lead-to-failed-driver-installations/"><u>Diagnosing and Correcting Configuration Errors That Lead to Failed Driver Installations</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/discover-the-leading-video-calling-apps-of-today/"><u>Discover the Leading Video Calling Apps of Today</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-motorola-moto-g34-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola Moto G34 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-razer-device-driver-software-on-windows-11-8-7-xp-and-vista/"><u>How to Get the Latest Razer Device Driver Software on Windows 11, 8, 7, XP, and Vista</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-poco-c65-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Poco C65 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-trackpad-solving-the-problem-of-nonfunctional-two-finger-scrolling/"><u>Troubleshooting Your Trackpad: Solving the Problem of Nonfunctional Two-Finger Scrolling</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-start-your-adventure-with-no-more-errors-the-new-world-fixes-guide/"><u>Troubleshooting: Start Your Adventure with No More Errors – The New World Fixes Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-errors-a-step-by-step-guide-to-stop-applicationexe-failures/"><u>Understanding & Fixing Errors: A Step-by-Step Guide to Stop Application.exe Failures</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-wax-video-editing-software-tips-tricks-and-tutorials/"><u>Updated 2024 Approved Wax Video Editing Software Tips, Tricks, and Tutorials</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-make-a-fake-face-online-for-free-top-rated-tools/"><u>Updated Make a Fake Face Online for Free Top Rated Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-touchscreen-issues-fix-it-in-just-five-ways/"><u>Windows 10 Touchscreen Issues? Fix It in Just Five Ways</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-brightness-dysfunction-solutions-for-optimal-screen-adjustment/"><u>Windows 11 Brightness Dysfunction - Solutions for Optimal Screen Adjustment</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-finding-the-perfect-date-tracker-10-best-androidios-apps/"><u>[New] In 2024, Finding the Perfect Date Tracker 10 Best Android/iOS Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quick-methods-for-saving-videos-on-youtube/"><u>[Updated] 2024 Approved Quick Methods for Saving Videos on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-honor-play-40c-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Honor Play 40C to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-get-your-astro-a40-microphone-up-and-running-again/"><u>DIY Repair: Get Your Astro A40 Microphone Up and Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-address-and-correct-the-driverpowerstatefailure-problem/"><u>Easy Steps to Address and Correct the DRIVER_POWER_STATE_FAILURE Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-screen-working-again-pen-and-touch-input-issues-solved/"><u>Getting Your Screen Working Again: Pen and Touch Input Issues Solved</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix GT 10 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-permission-fixes-resolve-access-denied-headaches-for-windows-files-and-folders/"><u>Mastering Permission Fixes: Resolve 'Access Denied' Headaches for Windows Files & Folders</u></a></li>
+<li><a href="https://common-error.techidaily.com/oculus-error-fixes-a-comprehensive-guide-updated/"><u>Oculus Error Fixes: A Comprehensive Guide (Updated )</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/overcoming-iphones-difficulty-in-auto-focusing-issues-for-2024/"><u>Overcoming iPhone's Difficulty in Auto-Focusing Issues for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-missing-device-drivers-on-your-windows-7-installation/"><u>Overcoming the Challenge of Missing Device Drivers on Your Windows 7 Installation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resetting-display-to-use-gpu-on-win1011-laptops/"><u>Resetting Display to Use GPU on Win10/11 Laptops</u></a></li>
+<li><a href="https://techtrends.techidaily.com/silencing-governmental-warnings-a-guide-to-deactivating-amber-alerts-on-your-iphone/"><u>Silencing Governmental Warnings: A Guide to Deactivating Amber Alerts on Your iPhone</u></a></li>
+<li><a href="https://common-error.techidaily.com/systemic-slowdowns-crashes-during-gameplay/"><u>Systemic Slowdowns: Crashes During Gameplay</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-launching-hit-online-streams-for-2024/"><u>The Ultimate Guide to Launching Hit Online Streams for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/trasforma-i-tuoi-file-mp4-in-formato-mxf-gratuito-con-convertimp4online/"><u>Trasforma I Tuoi File MP4 in Formato MXF Gratuito Con ConvertiMP4Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-minimizing-dwms-heavy-gpu-consumption-in-windows-operating-systems/"><u>Ultimate Guide: Minimizing DWM's Heavy GPU Consumption in Windows Operating Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Impact of D3D Device Disappearance on Unreal
-date: 2024-11-11T18:11:44.906Z
-updated: 2024-11-15T17:54:16.893Z
+date: 2024-11-17T19:02:40.155Z
+updated: 2024-11-25T00:23:45.547Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -44,22 +48,12 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -80,13 +74,6 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
@@ -122,6 +109,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -131,9 +122,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -143,23 +142,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -199,19 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-speedy-tiktok-video-performance-a-step-by-step-plan/"><u>[Updated] In 2024, Speedy TikTok Video Performance A Step-by-Step Plan</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-ranked-4-places-to-download-skype-tones/"><u>2024 Approved Top-Ranked 4 Places to Download Skype Tones</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-the-error-0x80n3cf9-on-windows-10-and-enjoy-uninterrupted-app-downloads/"><u>Bypass the Error 0X80n3cf9 on Windows 10 and Enjoy Uninterrupted App Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/dhcp-connection-failures-addressed-expert-solutions-applied/"><u>DHCP Connection Failures Addressed - Expert Solutions Applied</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-updated-logitech-hd-webcam-c270-drivers-for-a-seamless-experience-on-windows-1011/"><u>Get the Updated Logitech HD Webcam C270 Drivers for a Seamless Experience on Windows 10/11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy M34 5G Phone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202032176-how-to-fix-the-two-finger-touchpad-scrolling-issue-solved/"><u>How To Fix The Two-Finger Touchpad Scrolling Issue - Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-configuration-hurdles-fixing-the-stuck-pre-setup-screen/"><u>Overcoming Windows Configuration Hurdles: Fixing the Stuck Pre-Setup Screen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-mobile-podcast-sources/"><u>Premium Mobile Podcast Sources</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-sign-in-failures-due-to-user-profile-services-errors/"><u>Resolving Windows 11 Sign-In Failures Due to User Profile Services Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-eliminating-the-cant-play-test-sound-problem-with-ease/"><u>Step-by-Step Guide: Eliminating the Can't Play Test Sound Problem with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-steam-disk-write-issues/"><u>Step-by-Step Troubleshooting for Steam Disk Write Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-how-to-address-missing-mfc42dll-errors-on-windows/"><u>Troubleshooting Tips: How to Address Missing mfc42.dll Errors on Windows</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/king-your-online-opportunities-a-complete-guide-to-measuring-views-revenue-and-growth/"><u>Unlocking Your Online Opportunities A Complete Guide to Measuring Views, Revenue, and Growth</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-orbiting-imagery-advanced-methods-for-drone-video-editing/"><u>[New] 2024 Approved Orbiting Imagery Advanced Methods for Drone Video Editing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ranked-10-best-low-cost-user-friendly-passport-photo-services/"><u>[New] 2024 Approved Ranked 10 Best Low-Cost, User-Friendly Passport Photo Services</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-cutting-edge-techniques-for-music-in-canva-videos/"><u>[New] In 2024, Cutting-Edge Techniques for Music in Canva Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-ratio-breakdown-for-youtube-content-formats/"><u>[New] Ultimate Ratio Breakdown for YouTube Content Formats</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/computational-time-for-a-20mb-media-piece/"><u>Computational Time for a 20Mb Media Piece</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-update-service-a-comprehensive-guide/"><u>Fixing Windows Update Service: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/graphics-driver-update-resolves-miracast-unsupported-error/"><u>Graphics Driver Update Resolves Miracast Unsupported Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-fix-crc-related-data-mistakes/"><u>How to Correctly Address and Fix CRC-Related Data Mistakes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-building-an-effective-monetization-plan-for-video-content-on-vimeo/"><u>In 2024, Building an Effective Monetization Plan for Video Content on Vimeo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigate-improved-output-with-mobile-lut-adjustments/"><u>In 2024, Navigate Improved Output with Mobile LUT Adjustments</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-parties-chat-restrictions-how-your-router-affects-connectivity/"><u>Resolving Parties Chat Restrictions: How Your Router Affects Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-vanishing-mouse-pointer-issue-in-windows-11/"><u>Resolving the Vanishing Mouse Pointer Issue in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-dells-dead-usb-port-diagnosis-and-fixes-explored/"><u>Reviving Your Dell's Dead USB Port: Diagnosis and Fixes Explored</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-solving-the-windows-10-0x80240034-update-failure/"><u>Understanding and Solving the Windows 10 0X80240034 Update Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-the-solution-fixing-common-problems-with-lenovo-keyboard-performance/"><u>Unlock the Solution: Fixing Common Problems with Lenovo Keyboard Performance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zooming-in-to-the-heart-of-roleplay-robloxs-close-up-guide/"><u>Zooming In to the Heart of Roleplay Roblox's Close-Up Guide</u></a></li>
 </ul></div>
 

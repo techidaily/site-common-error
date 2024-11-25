@@ -1,7 +1,7 @@
 ---
 title: "Exploring WINDOWS 11 Restoration Techniques: SFC & DISM Insights"
-date: 2024-11-13T17:16:11.562Z
-updated: 2024-11-15T16:47:11.670Z
+date: 2024-11-22T01:11:11.373Z
+updated: 2024-11-24T18:09:48.167Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -55,17 +59,22 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After that, check to see if Windows can detect your TV.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
@@ -85,10 +94,7 @@ After that, check to see if Windows can detect your TV.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea2eb0b92e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
@@ -96,13 +102,6 @@ After that, check to see if Windows can detect your TV.
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
@@ -127,24 +126,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-record-audio-with-audacity-on-mac/"><u>[New] In 2024, How to Record Audio with Audacity on Mac?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exhaustive-review-of-razers-kiyo-cam/"><u>[Updated] 2024 Approved Exhaustive Review of Razer's Kiyo Cam</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-tips-for-easy-snapchat-screen-captures-on-phones/"><u>[Updated] In 2024, Quick Tips for Easy Snapchat Screen Captures on Phones</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-professional-screen-capture-for-gotomeeting-users/"><u>[Updated] Professional Screen Capture for GoToMeeting Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-simplified-method-for-youtubers-to-dailymotion/"><u>[Updated] Simplified Method for YouTubers to Dailymotion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/addressing-glitches-restoring-chatgpt-and-service-harmony/"><u>Addressing Glitches: Restoring ChatGPT & Service Harmony</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-hassles-simple-repair-techniques-for-winodws-error-ebd-c0fe3897-b4f0-4aa5-a8e1-2dd5d3cbcefa/"><u>Bypassing the Hassles: Simple Repair Techniques for Winodws Error Ebd-C0fe3897-B4f0-4aa5-A8e1-2dd5d3cbcefa</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/empowering-innovation-microsofts-new-strategy-to-energize-staff-through-improved-teams-collaboration-tools/"><u>Empowering Innovation: Microsoft's New Strategy to Energize Staff Through Improved Teams Collaboration Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-it-missing-radeon-software-suite-options/"><u>How to Fix It: Missing Radeon Software Suite Options</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-wont-connect-a-step-by-step-guide-for-bluetooth-on-windows-10/"><u>How to Fix Won't Connect: A Step-by-Step Guide for Bluetooth on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-malfunctioning-function-keys-on-laptops-and-desktops/"><u>How to Resolve Malfunctioning Function Keys on Laptops and Desktops</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-blaze-2-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-guide-to-speedy-shutdown-on-windows-10-systems/"><u>Quick Fix Guide to Speedy Shutdown on Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-the-feature-update-failure-in-windows-11-build-1803/"><u>Resolved: Troubleshooting the Feature Update Failure in Windows 11 Build 1803</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-a-broken-astro-a40-headset-mic/"><u>The Ultimate Fix for a Broken Astro A40 Headset Mic</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-strategy-for-professional-gopro-filming-for-2024/"><u>The Ultimate Strategy for Professional Gopro Filming for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-aw-snap-issue-in-google-chrome/"><u>Troubleshooting the 'Aw, Snap!' Issue in Google Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-repairing-your-lenovos-fingerprint-scanner-issues/"><u>Troubleshooting Tips: Repairing Your Lenovo's Fingerprint Scanner Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-selection-premium-iphone-14-skins-and-cases-reviewed/"><u>Ultimate Selection: Premium iPhone 14 Skins & Cases Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-viewer-count-challenge-worldwide-youtuber-leaders/"><u>[New] The Ultimate Viewer Count Challenge Worldwide YouTuber Leaders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-bebops-feathered-wings-unleashed-in-the-parrot-review/"><u>2024 Approved Bebop's Feathered Wings Unleashed in the Parrot Review</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/changer-un-fichier-ogg-au-format-m4a-sans-cout-traduction-en-ligne-a-laide-de-movavi/"><u>Changer Un Fichier OGG Au Format M4A Sans Coût - Traduction en Ligne À L'aide De Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-the-not-responding-error-on-your-windows-10-file-explorer-quick-fixes-revealed/"><u>Defeating the Not Responding Error on Your Windows 10 File Explorer - Quick Fixes Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-conflicting-dlls-and-dependencies-resolving-windows-cried-out-errors-with-correcting-side-by-side-configurations/"><u>How to Fix Conflicting DLLs and Dependencies: Resolving Windows Cried Out Errors with Correcting Side-By-Side Configurations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-make-thumbnails-for-2024/"><u>How to Make Thumbnails for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-corrupted-files-on-windows-10-with-the-power-of-sfc-and-dism-utilities/"><u>How to Repair Corrupted Files on Windows 10 with the Power of SFC and DISM Utilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212248433-how-to-restore-lost-bluetooth-functionality-on-windows-10-fast-and-easy/"><u>How to Restore Lost Bluetooth Functionality on Windows 10, Fast and Easy.</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-broken-usb-port-on-hp-laptops-effectively/"><u>How To: Repair Broken USB Port on HP Laptops Effectively</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-s17e-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo S17e Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp4-video-compression-techniques-a-step-by-step-guide/"><u>MP4 Video Compression Techniques: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/overcoming-the-handbracke-error-troubleshooting-invalid-input-files-issues/"><u>Overcoming the HandBracke Error: Troubleshooting 'Invalid Input File(s)' Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-non-downloading-torrents-a-comprehensive-guide/"><u>Solving the Problem of Non-Downloading Torrents – A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-repair-your-lenovo-laptops-malfunctioning-webcam/"><u>Troubleshooting Steps to Repair Your Lenovo Laptop's Malfunctioning Webcam</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-timeout-errors-in-file-downloads/"><u>Ultimate Guide: Resolving Timeout Errors in File Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-limitless-space-20-best-free-cloud-platforms-offering-1tbplus-for-2024/"><u>Unlock Limitless Space 20 Best Free Cloud Platforms Offering 1TB+ for 2024</u></a></li>
 </ul></div>
 

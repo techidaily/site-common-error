@@ -1,7 +1,7 @@
 ---
 title: "Game Glitch: PC Freezes in Windows 10/11"
-date: 2024-08-27T13:47:53.179Z
-updated: 2024-08-28T13:47:53.179Z
+date: 2024-11-22T01:35:47.117Z
+updated: 2024-11-24T19:07:28.477Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 **IMPORTANT:** To perform these methods, you need to have a**Windows 10 installation media** , like a USB drive or a DVD. If you don’t,[**create one with a USB** **drive**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Run a Startup Repair
 
  The Startup Repair can repair the files necessary for the startup of your computer. To run a Startup Repair to fix your issue:
@@ -39,9 +43,17 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
@@ -79,6 +91,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596884143a289.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)**  Type the following lines in Command Prompt and press **Enter** on your computer after each.
 
  _**sfc /scannow**_
@@ -94,9 +110,6 @@ _**bootrec /scanos**_
 
 **8)** Restart your computer and see if it fixes the issue. If you still get stuck, check**method 3** to reset your Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Reset your Windows 10
 
  It is possible that your Windows 10 was damaged and it can’t start up normally.**Resetting your operating system** can help you get it back to normal.
@@ -109,20 +122,14 @@ _**bootrec /scanos**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 **3)** Boot your computer from your Windows 10 installation media. After selecting the language and region, click on**Install now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968970ab6012.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)**  Follow the on-screen instructions to complete the reinstallation of your system.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -133,8 +140,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +147,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagrams-mirror-reflecting-true-selfie-essence/"><u>[Updated] In 2024, Instagram's Mirror Reflecting True Selfie Essence</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-supercharge-your-yi-4k-videos-with-pro-gear/"><u>[Updated] In 2024, Supercharge Your YI 4K Videos with Pro Gear</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-quintessential-quotient-subscriber-rankings/"><u>[Updated] The Quintessential Quotient Subscriber Rankings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-10-best-video-calling-software-on-phone-and-pc/"><u>2024 Approved 10 Best Video Calling Software on Phone and PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-to-superior-color-grading/"><u>2024 Approved Unveiling the Secrets to Superior Color Grading</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/3f0pc/"><u>3F0ハードドライブエラーに対する最良の修正方法：PCが起動しない場合</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-emergence-the-historical-tapestry-untold/"><u>AI Emergence: The Historical Tapestry Untold</u></a></li>
+<li><a href="https://common-error.techidaily.com/apex-legends-tutorial-fixing-the-simple-anti-cheat-mistake/"><u>Apex Legends Tutorial: Fixing the Simple Anti-Cheat Mistake</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-blues-of-microsofts-update-troubles-a-step-by-step-guide-for-error-0x800f0922-in-windows-11/"><u>Beat the Blues of Microsoft's Update Troubles: A Step-by-Step Guide for Error 0X800f0922 in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211007301-how-to-get-rid-of-game-lags-in-pubg-expert-tips-and-tricks-uncovered/"><u>How to Get Rid of Game Lags in PUBG? Expert Tips & Tricks Uncovered</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-the-problem-of-non-functional-fn-keys-on-laptoppc/"><u>How to Solve the Problem of Non-Functional FN Keys on Laptop/PC</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-troubleshooting-apple-tv-for-facebook-content/"><u>In 2024, Troubleshooting Apple TV for Facebook Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-apex-legends-simple-cheat-protection-issue-step-by-step-guide/"><u>Solving Apex Legends' Simple Cheat Protection Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-like-a-pro-simple-steps-to-overcome-dns-server-unreachable/"><u>Troubleshoot Like a Pro: Simple Steps to Overcome 'DNS Server Unreachable'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-get-your-non-playable-dvd-running-in-windows/"><u>Troubleshooting Steps to Get Your Non-Playable DVD Running in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-cutting-down-high-gpu-usage-from-desktop-window-manager-in-windows-11/"><u>Ultimate Guide: Cutting Down High GPU Usage From Desktop Window Manager in Windows 11</u></a></li>
+</ul></div>
 

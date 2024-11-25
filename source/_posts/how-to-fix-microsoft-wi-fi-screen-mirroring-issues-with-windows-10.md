@@ -1,7 +1,7 @@
 ---
 title: How to Fix Microsoft Wi-Fi Screen Mirroring Issues with Windows 10
-date: 2024-11-08T16:14:28.794Z
-updated: 2024-11-15T17:23:34.848Z
+date: 2024-11-18T02:37:16.057Z
+updated: 2024-11-24T20:13:44.355Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -66,23 +70,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
-5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
+5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -92,30 +91,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -125,13 +117,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -165,22 +150,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-review-of-huawei-p10s-multimedia-features-and-functionality/"><u>[New] In 2024, Review of Huawei P10’s Multimedia Features & Functionality</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-comprehensive-list-of-webinar-recording-methods/"><u>[Updated] 2024 Approved The Comprehensive List of Webinar Recording Methods</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/achieving-cinematic-quality-through-aspect-ratio-choices/"><u>Achieving Cinematic Quality Through Aspect Ratio Choices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blackout-blitz-premiere-pro-60s-for-2024/"><u>Blackout Blitz Premiere Pro 60S for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-link-freshest-sound-blaster-z-driver-updates-for-your-windows-10-system/"><u>Direct Link: Freshest Sound Blaster Z Driver Updates for Your Windows 10 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-and-solutions-how-to-troubleshoot-a-non-functioning-microphone-on-your-laptop/"><u>Fixes & Solutions: How to Troubleshoot a Non-Functioning Microphone on Your Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-for-resolving-module-not-found-issues-on-your-device/"><u>Guide for Resolving 'Module Not Found' Issues on Your Device</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-recovery-process-for-corrupt-system-files-on-windows-10-11-edition/"><u>Mastering the Recovery Process for Corrupt System Files on Windows 10, 11 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/ret-proto-oncogene-rearrangements-play-a-significant-role-in-the-development-of-medullary-thyroid-cancer-and-have-therapeutic-implications/"><u>RET Proto-Oncogene Rearrangements Play a Significant Role in the Development of Medullary Thyroid Cancer and Have Therapeutic Implications</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-bluetooth-woes-on-windows-11-fast-fix-guide/"><u>Solve Your Bluetooth Woes on Windows 11: Fast Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-how-to-reduce-high-wudfhostexe-cpu-consumption-on-windows-11/"><u>Solving the Issue: How to Reduce High WUDFHost.exe CPU Consumption on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-16-unbeatable-christmas-promotions-on-hp-laptops-and-desktops-exclusive-offers/"><u>Top 16 Unbeatable Christmas Promotions on HP Laptops & Desktops: Exclusive Offers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/trasforma-file-mpe-in-un-gif-veloce-online-con-movavi/"><u>Trasforma File MPE in Un GIF Veloce Online Con Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-black-ops-4-critical-bugs-and-crashes/"><u>Ultimate Guide: Solving Black Ops 4 Critical Bugs and Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-fixing-and-rebooting-your-keyboard/"><u>Ultimate Troubleshooting Tips: Fixing and Rebooting Your Keyboard</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-split-merge-and-edit-the-best-video-apps-for-ios-and-android/"><u>Updated 2024 Approved Split, Merge, and Edit The Best Video Apps for iOS and Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-livestreaming-leaderboards-which-software-tops-the-chartvmixwirecast/"><u>[New] 2024 Approved Livestreaming Leaderboards Which Software Tops the Chart—VMix/Wirecast?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-list-20plus-methods-to-record-skype-calls-on-computers/"><u>[New] 2024 Approved The Ultimate List 20+ Methods to Record Skype Calls on Computers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-advanced-camera-control-for-iphone-users/"><u>[New] Advanced Camera Control for iPhone Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-creative-annotation-warping-tactics-for-2024/"><u>[New] Creative Annotation Warping Tactics for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exclusive-access-to-premium-playlists-on-mobile-devices-for-2024/"><u>[New] Exclusive Access to Premium Playlists on Mobile Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevating-roi-in-facebooks-animated-advertising-arena-for-2024/"><u>[Updated] Elevating ROI in Facebook's Animated Advertising Arena for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-when-your-diagnostics-policy-service-wont-start/"><u>Fixing the Issue When Your Diagnostics Policy Service Won't Start</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211216811-immediate-solutions-stop-counter-strike-go-from-crashing-now/"><u>Immediate Solutions: Stop Counter-Strike Go From Crashing Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-pc-effective-repair-strategies-with-sfc-and-dism-in-windows-nvironments/"><u>Reviving Your PC: Effective Repair Strategies with SFC and DISM in Windows Nvironments</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-content-accessibility-issue-resolved-what-you-need-to-know/"><u>Steam Content Accessibility Issue Resolved: What You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-samsung-galaxy-s22-with-innovative-ai-integration-and-next-gen-features/"><u>Transform Your Samsung Galaxy S22 with Innovative AI Integration and Next-Gen Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-netflix-sound-issues-in-minutes-with-these-fixes/"><u>Troubleshoot Your Netflix Sound Issues in Minutes with These Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-a-dvd-cant-be-played-in-microsoft-windows/"><u>Troubleshooting Steps When a DVD Can't Be Played in Microsoft Windows</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-13-pro-max-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 13 Pro Max without itunes or icloud</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-creations-with-the-best-exclusive-offer-on-eleegoo-neptune-4-pro-at-just-240-from-newegg/"><u>Upgrade Your Creations with the Best: Exclusive Offer on Eleegoo Neptune 4 Pro at Just $240 From Newegg</u></a></li>
 </ul></div>
 

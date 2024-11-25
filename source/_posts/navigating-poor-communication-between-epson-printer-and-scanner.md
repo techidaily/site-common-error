@@ -1,7 +1,7 @@
 ---
 title: Navigating Poor Communication Between Epson Printer and Scanner
-date: 2024-08-27T13:50:38.907Z
-updated: 2024-08-28T13:50:38.907Z
+date: 2024-11-20T03:44:02.827Z
+updated: 2024-11-24T19:35:06.214Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3c
 
  Many Windows users are reporting this issue. But don’t worry, this is totally fixable. Here are three simple fixes to try. You may not have to try them all; just work your way down the list until you find the one that works for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 simple fixes to try
 
 1. **[Run the audio troubleshooter](#c)**
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-437.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Next** and wait for the scans to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-446.png)
@@ -45,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3c
  Hope this worked for you. If Windows fails to detect your issue, read on the try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Restart your audio services
 
  This problem is probably caused by the improper status of the audio-related services. To fix it, follow the instructions below:
@@ -55,23 +64,22 @@ thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-424.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Type **services.msc** , then press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-426.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Right-click**Windows Audio** , then **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-428.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Set the**Startup type** to**Automatic** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-427.png)
@@ -94,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/97b0ddc570e6ff11d98aa739ad9094bf8b6916f3c
 
  Hope the audio works correctly now. If it didn’t, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your audio driver
 
  In many cases, The Audio Service is not running error occurs when users are using the faulty or outdated audio driver. It’s essential that you have the latest correct audio driver at all times.
@@ -129,9 +134,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
@@ -153,8 +155,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +162,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-adapt-posting-techniques-after-instagrams-revisions/"><u>[New] 2024 Approved How to Adapt Posting Techniques After Instagram’s Revisions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweetpic-puller-extract-visuals-from-twitter-feed/"><u>[New] In 2024, TweetPic Puller Extract Visuals From Twitter Feed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-spin-the-wheel-of-viewers-how-to-stream-round-the-clock-videos-on-youtube/"><u>[Updated] Spin the Wheel of Viewers How to Stream Round-the-Clock Videos on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-15-no-cost-web-image-editors-review/"><u>[Updated] Top 15 No-Cost Web Image Editors Review</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-high-speed-sd-accessory-for-sony-a7c-model/"><u>2024 Approved High-Speed SD Accessory for Sony A7C Model</u></a></li>
+<li><a href="https://common-error.techidaily.com/boosting-productivity-through-mouse-skills/"><u>Boosting Productivity Through Mouse Skills</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fix-for-explorer-crash/"><u>Easy Fix for Explorer Crash</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-impactful-reasons-to-trust-chatgpt-with-your-wellness-inquiries/"><u>Exploring the Impactful Reasons to Trust ChatGPT with Your Wellness Inquiries</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-battleye-installation-errors-and-get-back-in-action/"><u>How to Fix BattlEye Installation Errors and Get Back in Action!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-cixin-p1-arm-based-industry-standard-6nm-chip-from-china-achieving-45-tops-in-performance/"><u>Introducing the Cixin P1 – Arm-Based, Industry Standard 6Nm Chip From China Achieving 45 TOPS in Performance!</u></a></li>
+<li><a href="https://common-error.techidaily.com/offscreen-woes-masterful-tactics-to-relocate-and-resume-lost-windows/"><u>Offscreen Woes: Masterful Tactics to Relocate and Resume Lost Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-2024-launch-issues-a-comprehensive-pubg-fixing-guide/"><u>Resolving 2024 Launch Issues: A Comprehensive PUBG Fixing Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategies-for-finding-and-forming-youtube-content-partnerships-for-2024/"><u>Strategies for Finding & Forming YouTube Content Partnerships for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ultimate-shooting-guide-top-8-tripods-for-4k-cameras-for-2024/"><u>Ultimate Shooting Guide Top 8 Tripods for 4K Cameras for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-microphone-woes-a-step-by-step-guide-to-audio-fixes/"><u>Windows 11 Microphone Woes? A Step-by-Step Guide to Audio Fixes</u></a></li>
+</ul></div>
 

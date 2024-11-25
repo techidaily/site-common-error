@@ -1,7 +1,7 @@
 ---
 title: "Defeating the Drag-and-Drop: Winning Against Slow Windows 10 Closures"
-date: 2024-11-13T18:11:41.958Z
-updated: 2024-11-15T16:45:58.115Z
+date: 2024-11-22T16:03:33.479Z
+updated: 2024-11-25T00:23:11.366Z
 tags:
   - win11
   - win10
@@ -60,6 +60,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968812f12e1e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** After the Startup Repair complete, restart your computer and see if it resolves your problem.
 
 ## Method 2: Run system checks
@@ -73,22 +77,12 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
@@ -99,10 +93,7 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596884143a289.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)**  Type the following lines in Command Prompt and press **Enter** on your computer after each.
@@ -117,21 +108,16 @@ _**bootrec /scanos**_
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968863896808.png)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**  Wait for the scans to complete. Then exit Command Prompt.
 
 **8)** Restart your computer and see if it fixes the issue. If you still get stuck, check**method 3** to reset your Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reset your Windows 10
 
@@ -168,18 +154,16 @@ _**bootrec /scanos**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-navigating-video-streams-across-networks-using-vlc/"><u>[New] 2024 Approved Navigating Video Streams Across Networks Using VLC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-winning-windows-graphics-tools-free-vs-paid-choices/"><u>[New] Winning Windows Graphics Tools FREE vs PAID Choices</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-quick-guide-to-faster-tiktok-creation/"><u>[Updated] Quick Guide to Faster TikTok Creation</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-unresponsive-chrome-browser-quick-reboot-solutions/"><u>Dealing with Unresponsive Chrome Browser - Quick Reboot Solutions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/direct-match-twitchs-battle-against-youtubes-dominance-for-2024/"><u>Direct Match Twitch's Battle Against YouTube's Dominance for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-fixes-resolving-windows-10-sluggish-closing-problems/"><u>Fast Fixes: Resolving Windows 10 Sluggish Closing Problems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-fix-persistent-lagging-and-crashing-in-warzone-20-on-windowsmac-devices/"><u>How to Fix Persistent Lagging & Crashing in Warzone 2.0 on Windows/Mac Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-broken-or-unresponsive-windows-key-in-windows-10-setup/"><u>How to Repair Broken or Unresponsive Windows Key in Windows 10 Setup</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-compiling-shaders-hiccup-in-call-of-duty-black-ops-cold-war/"><u>How to Resolve 'Compiling Shaders' Hiccup in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-focus-on-action-exclude-unwanted-surroundings/"><u>In 2024, Focus on Action, Exclude Unwanted Surroundings</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-how-to-reactivate-a-nonfunctional-windows-updates-feature/"><u>Resolved Issue: How to Reactivate a Nonfunctional Windows Updates Feature</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011850328-troubleshooting-doom-eternal-no-launch-availability-solutions-inside/"><u>Troubleshooting DOOM Eternal: No Launch Availability, Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-pubg-building-loading-errors-effective-fixes-inside/"><u>Troubleshooting PUBG Building Loading Errors - Effective Fixes Inside!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-vr-chronicles-a-timeline-unveiled/"><u>[New] VR Chronicles A Timeline Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-snap-camera-in-ms-teams/"><u>2024 Approved Mastering Snap Camera in MS Teams</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/windows-server-ve/"><u>有効な起動パーティションをWindows Server Veに追加・削除する正しい手順</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-a-malfunctioning-usb-hdmi-adapter/"><u>Expert Tips for Repairing a Malfunctioning USB-HDMI Adapter</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-compatible-driver-for-qualcomm-atheros-ar3011-with-bluetooth-30-support/"><u>Free Download: Compatible Driver for Qualcomm Atheros AR3011 with Bluetooth 3.0 Support</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-plus-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Plus without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-a24-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy A24 Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-sudden-computer-hibernation-problems/"><u>Troubleshoot and Resolve Sudden Computer Hibernation Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-the-0x800705b4-issue-on-windows-update-in-windows-11/"><u>Troubleshooting and Correcting the '0X800705b4' Issue on Windows Update in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-non-functioning-integrated-webcam-issues-in-windows/"><u>Troubleshooting Guide: Resolving Non-Functioning Integrated Webcam Issues in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstick-your-file-explorer-on-windows-11-quick-resolution-steps/"><u>Unstick Your File Explorer on Windows 11 - Quick Resolution Steps</u></a></li>
 </ul></div>
 

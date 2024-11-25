@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixes for a Non-Responsive Razer Keyboard"
-date: 2024-11-11T18:04:51.841Z
-updated: 2024-11-15T16:10:31.093Z
+date: 2024-11-23T02:28:02.154Z
+updated: 2024-11-24T22:32:34.039Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
  Restarting computer could resolve many hardware issues instantly. So it’s recommended you try this simple fix first before moving on.
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Update the driver
 
@@ -82,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 5: Perform a system restore
 
  If the keyboard stopped working after you updated Windows or installed some software, performing a system restore would solve the problem. Note you need to have[restore points](https://tools.techidaily.com/drivereasy/download/) created.
@@ -99,9 +85,17 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**System protection** in left pane.
 
@@ -112,10 +106,7 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**Next** .
@@ -123,10 +114,7 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
@@ -137,16 +125,13 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Click**Yes** to confirm the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9) Reboot your PC for the changes to take effect.
 
@@ -170,18 +155,22 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-overwatch-simplified-recording-strategies/"><u>[New] 2024 Approved Overwatch Simplified Recording Strategies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-building-a-robust-360-video-broadcast-framework-for-fb-for-2024/"><u>[New] Building a Robust 360 Video Broadcast Framework for FB for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-detailed-steps-to-capture-all-your-messenger-conversations/"><u>[New] In 2024, Detailed Steps to Capture All Your Messenger Conversations</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-seamless-screen-capture-in-snapchat-for-beginners-and-pros-for-2024/"><u>[Updated] Seamless Screen Capture in Snapchat for Beginners and Pros for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/cure-for-slow-riot-lol-installs-a-guide-to-rapid-file-downloads/"><u>Cure for Slow Riot LoL Installs - A Guide to Rapid File Downloads</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-intervention-overcome-opengl-flaw-with-nvidia/"><u>GPU Intervention: Overcome OpenGL Flaw with Nvidia</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-seamlessly-correct-error-code-0x800f0831-through-automatic-windows-patching/"><u>How to Seamlessly Correct Error Code 0X800f08^31 Through Automatic Windows Patching</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-t2x-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo T2x 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-11-update-issues-a-guide-to-thawing-a-frozen-installation/"><u>Overcoming Windows 11 Update Issues: A Guide to Thawing a Frozen Installation</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-promise-vs-reality-of-the-midland-lxt500vp3-radios-high-on-features-low-on-performance/"><u>The Promise vs Reality of the Midland LXT500VP3 Radios - High on Features, Low on Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-vpn-services-for-macos-comprehensive-reviews-and-comparisons-digital-trends/"><u>Top Rated VPN Services for macOS: Comprehensive Reviews & Comparisons - Digital Trends</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-best-of-the-best-4k8k-video-editing-software-for-professionals-for-2024/"><u>Updated Best of the Best 4K/8K Video Editing Software for Professionals for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/wwe-2k-games-overcoming-the-directx-10-error-in-wwe-2k-battlegrounds/"><u>WWE 2K Games: Overcoming the DirectX 10 Error in WWE 2K Battlegrounds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unveiling-the-secrets-how-to-save-your-google-meet/"><u>[New] 2024 Approved Unveiling the Secrets How to Save Your Google Meet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cracking-comics-the-essential-guide-to-meme-magic/"><u>[New] Cracking Comics The Essential Guide to Meme Magic</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-a-compreenas-guide-to-producing-slow-motion-content-with-photos-and-internet/"><u>[Updated] 2024 Approved A Compreenas Guide to Producing Slow Motion Content with Photos & Internet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-migrating-spotify-written-content-for-a-streamlined-youtube-music-experience/"><u>[Updated] Migrating Spotify' Written Content for a Streamlined YouTube Music Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-pixeled-play-logbook-for-2024/"><u>[Updated] Pixeled Play Logbook for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/binkw32dll-is-unavailable-discover-simple-fixes-for-common-dll-errors/"><u>Binkw32.Dll Is Unavailable? Discover Simple Fixes for Common DLL Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clearing-your-conversations-with-chatgpt/"><u>Clearing Your Conversations with ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-techniques-for-malfunctioning-usb-jacks-get-started-now/"><u>DIY Repair Techniques for Malfunctioning USB Jacks – Get Started Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-typing-problems-on-pc-fixes-for-windows-1078-users/"><u>Keyboard Typing Problems on PC? Fixes for Windows 10/7/8 Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-simplest-online-tone-generators-our-top-picks/"><u>New Simplest Online Tone Generators Our Top Picks</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-failure-in-windows-updates-a-complete-guide-to-fixes/"><u>Overcoming Failure in Windows Updates: A Complete Guide to Fixes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/quick-tips-screen-capture-on-ipad-pro/"><u>Quick Tips Screen Capture on iPad Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fixers-handbook-how-to-swiftly-address-and-repair-0xc000012f-fault-on-your-computer/"><u>The Ultimate Fixer's Handbook: How to Swiftly Address and Repair 0xC000012F Fault on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fix-for-cannot-start-hardware-device-error-code-19-on-dvdcd-roms-in-windows-10-systems/"><u>Troubleshooting Fix for 'Cannot Start Hardware Device' Error (Code 19) on DVD/CD-ROMs in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-resolving-user-profile-service-sign-in-failure-in-windows-10-and-11/"><u>Troubleshooting Steps for Resolving 'User Profile Service' Sign-In Failure in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211763929-why-isnt-my-hdmi-converter-working-with-usb-solutions-inside/"><u>Why Isn't My HDMI Converter Working with USB? Solutions Inside!</u></a></li>
 </ul></div>
 

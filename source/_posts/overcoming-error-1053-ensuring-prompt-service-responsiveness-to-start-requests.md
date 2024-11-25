@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Error 1053: Ensuring Prompt Service Responsiveness to Start Requests"
-date: 2024-11-14T16:31:25.371Z
-updated: 2024-11-15T16:42:55.190Z
+date: 2024-11-19T01:52:54.658Z
+updated: 2024-11-25T01:29:54.892Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 fixes for **Skype mic is not working**
 
  All the screenshots below are are Windows 10, but the fixes also work in Windows 8.1 and 7\. Just work your way down the list until the **microphone on Skype not working** problem is solved.
@@ -43,19 +47,21 @@ Here’s how:
 1. On your keyboard, press**the Windows logo key** and type**microphone** , then click on**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21c099eec3.jpg)
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
 3. Scroll down to**Choose which apps can access your microphone** and make sure the toggle for Skype is**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276d2d207f.jpg)
 4. Check the mic on Skype and see if it works properly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust audio settings in Skype
 
@@ -66,21 +72,11 @@ Here’s how:
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -102,6 +98,10 @@ Here’s how:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Tweak your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -113,43 +113,21 @@ To do so:
 2. Click the **Recording**   tab, then click on **your microphone device**   and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on **your microphone device**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286af0375c.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
 5. Click **OK**   to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Now that with microphone set as default device and the volume turned up, test in Skype to see if your buddy on the other end of Skype can hear you.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Skype
 
@@ -177,24 +155,19 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-effortless-audio-collection-from-your-imac/"><u>[Updated] Effortless Audio Collection From Your iMac</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fast-techniques-for-reordering-youtube-video-queues-for-2024/"><u>[Updated] Fast Techniques for Reordering YouTube Video Queues for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210147642-9780008438593-aquarius-2022-your-personal-horoscope/"><u>Aquarius 2022: Your Personal Horoscope | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-for-dealing-with-error-code-1000-on-different-windows-platforms/"><u>Comprehensive Guide for Dealing with Error Code 1000 on Different Windows Platforms</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/future-proof-your-workflow-with-leading-office-replacements/"><u>Future-Proof Your Workflow with Leading Office Replacements</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-rid-of-your-keyboards-unresponsive-keys-on-a-windows-pc-easily/"><u>Get Rid of Your Keyboard's Unresponsive Keys on a Windows PC Easily!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-15-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 15 by Name | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-monitor-mastery-understanding-the-benefits-of-ultrawide-vs-uhd-4k/"><u>In 2024, Monitor Mastery Understanding the Benefits of UltraWide vs UHD 4K</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/iphone-driver-download-and-install-for-windows-10/"><u>IPhone Driver Download and Install for Windows 10</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcpx-hacks-and-workarounds-expert-advice-for-smooth-editing/"><u>New In 2024, FCPX Hacks and Workarounds Expert Advice for Smooth Editing</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-repairing-damaged-device-drivers-instantly/"><u>Quick Solutions: Repairing Damaged Device Drivers Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-methods-to-restore-functionality-in-a-malfunctioning-dell-keyboard/"><u>Resolved: Methods to Restore Functionality in a Malfunctioning Dell Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-functionality-resolving-non-responsive-alphabet-keys-in-microsoft-windows-1011/"><u>Restore Functionality: Resolving Non-Responsive Alphabet Keys in Microsoft Windows 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-repairing-your-lenovos-malfunctioning-fingerprint-scanner/"><u>Simple Solutions: Repairing Your Lenovo's Malfunctioning Fingerprint Scanner</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-handling-failed-logons-in-group-policy-clients/"><u>Solution Steps for Handling Failed Logons in Group Policy Clients</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-errcachemiss-in-chrome/"><u>Step-by-Step Guide to Fixing ERR_CACHE_MISS in Chrome</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-12-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme 12 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-optimization-tips-for-enhanced-gaming-experience/"><u>Windows 11 Optimization Tips for Enhanced Gaming Experience</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/windows-8-flv-editor-the-ultimate-solution-for-video-editing-needs-for-2024/"><u>Windows 8 FLV Editor The Ultimate Solution for Video Editing Needs for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-engaging-oratorics-assessment-version-8/"><u>[Updated] 2024 Approved Engaging Oratorics Assessment, Version 8</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-t2-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/aquaresonance-review-sturdy-deep-water-audio/"><u>AquaResonance Review: Sturdy Deep-Water Audio</u></a></li>
+<li><a href="https://fox-http.techidaily.com/beyond-spectacle-delving-into-vrs-negatives-for-2024/"><u>Beyond Spectacle Delving Into VR's Negatives for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-high-quality-video-streaming-with-the-complimentary-ogv-player-app-compatible-with-windows-11-and-macos-sierra/"><u>Enjoy High-Quality Video Streaming with the Complimentary OGV Player App, Compatible with Windows 11 and macOS Sierra!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-shell-common-dll-has-stopped-working-error-solved/"><u>Fix Windows Shell Common Dll Has Stopped Working Error [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-offline-to-online-mastering-the-connection-of-a-non-syncing-xbox-one-controller/"><u>From Offline to Online: Mastering the Connection of a Non-Syncing Xbox One Controller</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-fn-keys-in-your-asus-laptop-a-step-by-step-guide/"><u>How to Fix Unresponsive Fn Keys in Your ASUS Laptop - A Step by Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/huion-pen-malfunction-heres-how-to-restore-functionality-fast/"><u>Huion Pen Malfunction? Here's How to Restore Functionality Fast</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-video-intros-for-professionals-and-amateurs/"><u>In 2024, Free Video Intros for Professionals & Amateurs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/steams-missing-assets-a-comprehvehicle-on-reinstating-user-privileges/"><u>Steam's Missing Assets: A Comprehvehicle on Reinstating User Privileges</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-the-stubborn-windows-update-error-0x8024401c-in-win-10-and-win-11/"><u>Step-by-Step Solutions to the Stubborn Windows Update Error 0X8024401c in Win 10 and Win 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unleashing-potential-profile-video-elevation-for-2024/"><u>Unleashing Potential Profile Video Elevation for 2024</u></a></li>
 </ul></div>
 

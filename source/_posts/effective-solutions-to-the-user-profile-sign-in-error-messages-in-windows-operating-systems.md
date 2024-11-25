@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions to the User Profile Sign-In Error Messages in Windows Operating Systems
-date: 2024-11-10T17:11:36.868Z
-updated: 2024-11-15T18:19:25.246Z
+date: 2024-11-18T20:24:42.276Z
+updated: 2024-11-25T00:48:59.468Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -81,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -112,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 
 ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
@@ -119,10 +120,7 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
@@ -138,16 +136,13 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -156,16 +151,7 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -176,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -185,13 +175,6 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -210,6 +193,10 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -238,24 +225,24 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-essential-racing-games-the-ultimate-5-list/"><u>[New] Essential Racing Games The Ultimate 5-List</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-masterfb-mp4-the-ultimate-downloader-for-vids/"><u>[New] MasterFB-MP4 The Ultimate Downloader for Vids</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-proactive-gaming-enhancing-minecraft-through-ram-upgrade/"><u>[New] Proactive Gaming Enhancing Minecraft Through RAM Upgrade</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-api-ms-win-crt-runtime-l1-1-0dll-is-missing/"><u>[SOLVED] api-ms-win-crt-runtime-l1-1-0.dll Is Missing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-is-active-setting-new-standards-in-screen-recording-for-2024/"><u>[Updated] Is Active Setting New Standards in Screen Recording for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beats-in-the-balance-adding-music-to-whatsapp-for-2024/"><u>Beats in the Balance Adding Music to WhatsApp for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-woes-no-more-fix-unpairing-issues-in-windows-11-with-these-proven-techniques/"><u>Bluetooth Woes No More: Fix Unpairing Issues in Windows 11 with These Proven Techniques</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/come-recuperare-un-backup-del-sistema-windows-con-aomei-backupper-consigli-e-tutorial-essenziali/"><u>Come Recuperare Un Backup Del Sistema Windows Con AOMEI Backupper: Consigli E Tutorial Essenziali</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/cutting-edge-online-no-cost-converters-for-tiktok-to-mp3s/"><u>Cutting-Edge Online, No Cost Converters for TikTok to MP3s</u></a></li>
-<li><a href="https://common-error.techidaily.com/gaming-gridlock-frequent-freezes-on-os/"><u>Gaming Gridlock: Frequent Freezes on OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-steelseries-arctis-5-microphone-issues-a-step-by-step-guide/"><u>How to Fix SteelSeries Arctis 5 Microphone Issues - A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-update-your-logitech-video-camera-drivers/"><u>How to Get and Update Your Logitech Video Camera Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimized-wdf-performance-resolving-the-high-cpu-issue/"><u>Optimized WDF Performance: Resolving the 'High CPU' Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-remedies-effective-ways-to-stop-logitech-g930-mic-from-going-offline/"><u>Quick Remedies: Effective Ways to Stop Logitech G930 Mic From Going Offline</u></a></li>
-<li><a href="https://common-error.techidaily.com/realtek-network-controller-not-found-fixed/"><u>Realtek Network Controller Not Found [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-guide-fixing-a-malfunctioning-or-missing-shift-key-on-your-computer/"><u>Step-by-Step Solution Guide: Fixing a Malfunctioning or Missing Shift Key on Your Computer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-complete-tutorial-for-deleting-windows-11-user-profiles-made-simple/"><u>The Complete Tutorial for Deleting Windows 11 User Profiles Made Simple</u></a></li>
-<li><a href="https://common-error.techidaily.com/unexpected-startup-understanding-the-reasons-behind-your-pcs-auto-boot-in-windows-10/"><u>Unexpected Startup: Understanding the Reasons Behind Your PC's Auto-Boot in Windows 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-verified-posts-do-they-matter/"><u>[New] Instagram Verified Posts - Do They Matter?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-proven-steps-to-conquer-hdr-images-in-ps-for-2024/"><u>[New] Proven Steps to Conquer HDR Images in PS for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-trending-platforms-clash-a-look-at-tiktok-and-snaps-features-for-2024/"><u>[New] Trending Platforms Clash A Look at TikTok & Snap's Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-zoom-in-on-kinemaster/"><u>[Updated] How to Zoom in on Kinemaster</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-boost-video-influence-techniques-for-exceptional-client-spotlights/"><u>[Updated] In 2024, Boost Video Influence Techniques for Exceptional Client Spotlights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-premier-virtual-music-gatherings-for-2024/"><u>[Updated] Premier Virtual Music Gatherings for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-when-you-cant-start-minecraft-on-your-pc/"><u>Fixes for When You Can't Start Minecraft on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/het-achteraf-het-beste-de-top-10-mp4-to-mp3-converters-voor-gemakkelijk-uitspraak/"><u>Het Achteraf Het Beste: De Top 10 MP4-to-MP3 Converters Voor Gemakkelijk Uitspraak</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-accelerate-mac-youtube-video-matching-aspect-ratio/"><u>In 2024, Accelerate Mac Youtube Video Matching Aspect Ratio</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-boost-traffic-with-these-essential-hashtags-for-youtube-gamers/"><u>In 2024, Boost Traffic with These Essential Hashtags for YouTube Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/rapid-results-realized-exploring-the-enhanced-speed-of-this-innovative-device/"><u>Rapid Results Realized: Exploring the Enhanced Speed of This Innovative Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208049380-resolving-windows-11-touchpad-problems-get-your-scrolling-back-on-track/"><u>Resolving Windows 11 Touchpad Problems – Get Your Scrolling Back on Track</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-steam-marketplace-access-fixes-for-loading-failures/"><u>Reviving Your Steam Marketplace Access: Fixes for Loading Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-tech-solution-how-to-reboot-and-reset-your-malfunctioning-keyboard/"><u>The Ultimate Tech Solution: How to Reboot and Reset Your Malfunctioning Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-print-to-pdf-functionality-problems-on-windows-11-by-microsoft/"><u>Troubleshooting Print to PDF Functionality Problems on Windows 11 by Microsoft</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-a-non-responsive-windows-start-up/"><u>Troubleshooting Tips for Fixing a Non-Responsive Windows Start-Up</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-overcoming-graphic-driver-errors/"><u>Troubleshooting Tips: Overcoming Graphic Driver Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fix-windows-key-plus-shift-plus-s-issues-in-windows-11-and-10/"><u>Troubleshooting: Fix 'Windows Key + Shift + S' Issues in Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-wow-performance-lags-and-optimizing-gameplay/"><u>Ultimate Guide: Solving WoW Performance Lags and Optimizing Gameplay</u></a></li>
 </ul></div>
 

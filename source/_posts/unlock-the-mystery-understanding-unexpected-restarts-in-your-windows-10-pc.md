@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Mystery: Understanding Unexpected Restarts in Your Windows 10 PC"
-date: 2024-11-14T17:39:38.952Z
-updated: 2024-11-15T16:49:17.297Z
+date: 2024-11-19T17:46:30.468Z
+updated: 2024-11-24T22:52:56.239Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -39,6 +43,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
  1) Right-click your desktop and click **Personalize** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Display** .
 
@@ -55,24 +63,19 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
-After that, check to see if Windows can detect your TV.
-
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+After that, check to see if Windows can detect your TV.
 
 ## **Solution 2: Update the graphics driver**
 
@@ -91,16 +94,7 @@ After that, check to see if Windows can detect your TV.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea2eb0b92e.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
@@ -108,13 +102,6 @@ After that, check to see if Windows can detect your TV.
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
@@ -139,19 +126,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-laughter-unleashed-a-stepwise-strategy-for-making-impactful-gifs/"><u>[New] Laughter Unleashed A Stepwise Strategy for Making Impactful GIFs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-odins-revenge-ragnarok-coming-soon/"><u>[Updated] 2024 Approved Odin's Revenge Ragnarök - Coming Soon</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-definitive-selection-gopros-top-15-tripod-options/"><u>[Updated] 2024 Approved The Definitive Selection GoPro's Top 15 Tripod Options</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-troubleshooting-steps-to-get-hogwarts-legacy-running/"><u>Effective Troubleshooting Steps to Get Hogwarts Legacy Running</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-latency-in-your-windows-11-keyboard-fixes-and-best-practices/"><u>Eliminating Latency in Your Windows 11 Keyboard – Fixes and Best Practices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-the-ultimate-guide-to-zero-cost-win-media-tools/"><u>Explore the Ultimate Guide to Zero-Cost Win Media Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-incorrectly-pressed-keys-on-your-keyboard/"><u>How to Fix Incorrectly Pressed Keys on Your Keyboard</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-prevent-sword-and-fairy-7-from-haltin-your-gaming-fun-on-pc/"><u>How to Prevent Sword and Fairy 7 From Haltin' Your Gaming Fun on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-thaw-a-frozen-taskbar-in-windows-10-best-practices/"><u>How to Thaw a Frozen Taskbar in Windows 10 - Best Practices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-x-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone X with iTunes | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-magic-5-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor Magic 5? Fixed | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/kodi-streaming-stutter-no-more-tips-for-overcoming-buffering-issues/"><u>Kodi Streaming Stutter No More - Tips for Overcoming Buffering Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-lenovo-mouse-pad-functionality-on-your-computer-fixes-for-win-1187-users/"><u>Restore Lenovo Mouse Pad Functionality on Your Computer - Fixes for Win 11/8/7 Users.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-nonresponsive-mic-on-logitech-g920-headset-a-users-handbook/"><u>Step-by-Step Fixes for Nonresponsive Mic on Logitech G920 Headset - A User's Handbook</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-input-not-supported-on-monitor/"><u>[SOLVED] Input Not Supported on Monitor</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-comprehensive-guide-to-drone-visuals/"><u>[Updated] 2024 Approved Comprehensive Guide to Drone Visuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tuneful-texts-musical-infusion-on-whatsapp/"><u>[Updated] Tuneful Texts Musical Infusion on WhatsApp</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unlock-android-games-funimate-pro-apk-deep-dive-for-2024/"><u>[Updated] Unlock Android Games - Funimate Pro APK Deep Dive for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-spark-10c-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Spark 10C without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/arctis-5-gaming-headset-mic-not-working-heres-how-to-fix-it/"><u>Arctis 5 Gaming Headset Mic Not Working? Here's How to Fix It</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-spark-10-pro-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Spark 10 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-download-failures-essential-tips-when-a-torrent-fails-to-download/"><u>Fixing Download Failures: Essential Tips When a Torrent Fails to Download</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-kivoton-g2000-microphones-back-online-effective-fixes-and-tips/"><u>Getting Your Kivoton G2000 Microphones Back Online: Effective Fixes and Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-to-cartoon-conversion-made-easy-a-beginners-guide/"><u>New In 2024, Video to Cartoon Conversion Made Easy A Beginners Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-the-challenge-of-accidental-keystrokes-and-typos/"><u>Overcome the Challenge of Accidental Keystrokes and Typos</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-fixing-the-overwhelming-network-consumption-of-svchostexe-netsvcs/"><u>Solution Guide: Fixing the Overwhelming Network Consumption of svchost.exe (Netsvcs)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-unsupported-miracast-reception-on-your-device-issue-top-5-tips-for-2e4/"><u>Solving the 'Unsupported Miracast Reception on Your Device' Issue: Top 5 Tips for 2E4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-the-hp-immersive-audio-experience-compatibility-with-windows-versions/"><u>Troubleshooting and Fixing the HP Immersive Audio Experience Compatibility with Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-dealing-with-printer-driver-not-installed/"><u>Troubleshooting Step-by-Step: Dealing with 'Printer Driver Not Installed'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-fix-a-non-responsive-usb-mouse-with-your-laptop/"><u>Troubleshooting: How to Fix a Non-Responsive USB Mouse with Your Laptop</u></a></li>
 </ul></div>
 

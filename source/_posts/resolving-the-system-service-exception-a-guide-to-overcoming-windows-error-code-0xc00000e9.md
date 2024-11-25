@@ -1,7 +1,7 @@
 ---
 title: "Resolving the System Service Exception: A Guide to Overcoming Windows Error Code 0xC00000E9"
-date: 2024-11-10T18:02:08.288Z
-updated: 2024-11-15T16:33:10.068Z
+date: 2024-11-19T16:18:25.818Z
+updated: 2024-11-24T19:49:40.643Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -62,25 +66,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
@@ -94,24 +89,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
-3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
+3. Click **Recovery** \>**Restart now** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -122,6 +112,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -130,15 +124,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -162,22 +154,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-layering-youtube-songs-onto-video-plays/"><u>[New] 2024 Approved Layering YouTube Songs Onto Video Plays</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-11-slow-shutdown-issue/"><u>[Solved] Windows 11 Slow Shutdown Issue</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-online-seminar-creation-assistant/"><u>2024 Approved Ultimate Online Seminar Creation Assistant</u></a></li>
-<li><a href="https://common-error.techidaily.com/dxgidll-flaw-cured-pubg-compatibility-issue/"><u>Dxgi.dll Flaw: Cured PUBG Compatibility Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-fixes-get-out-of-the-endless-booting-loop-on-your-device/"><u>Expert Fixes: Get Out of the Endless Booting Loop on Your Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-distorted-or-missing-sounds-on-youtube-for-windows-11-users/"><u>How to Fix Distorted or Missing Sounds on YouTube for Windows 11 Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-immerse-top-sandbox-experiences-for-gamers/"><u>In 2024, Immerse Top Sandbox Experiences for Gamers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-pros-pathway-to-professionalism-making-videos-using-a-phone/"><u>In 2024, The Pro's Pathway to Professionalism Making Videos Using a Phone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-of-20-magic-words-for-marketing/"><u>In 2024, The Ultimate List of 20 Magic Words for Marketing</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-windows-10-audio-adjustment-problem-complete-guide/"><u>Resolving the Windows 10 Audio Adjustment Problem – Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-why-isnt-my-shift-key-working-and-how-to-repair-it/"><u>Solved! Why Isn't My Shift Key Working and How to Repair It?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-action-camcorder-picks-a-comprehensive-review-by-zdnet/"><u>Top 5 Action Camcorder Picks : A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/top-ranked-universal-backup-solutions-perfect-for-windows-desktops-and-servers/"><u>Top-Ranked Universal Backup Solutions: Perfect for Windows Desktops & Servers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-e-34878-error-code-in-ps4-systems/"><u>Troubleshooting and Fixing the E-34878 Error Code in PS4 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-windows-11-update-issues/"><u>Troubleshooting Guide: Fixing Windows 11 Update Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-tackling-high-wudfhostexe-cpu-usage-on-windows-10/"><u>Troubleshooting Guide: Tackling High wudfhost.exe CPU Usage on Windows 10</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/troubleshooting-tips-how-to-overcome-video-import-problems-in-capcut/"><u>Troubleshooting Tips: How to Overcome Video Import Problems in CapCut</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-audio-integration-in-digital-photo-albums/"><u>[New] In 2024, Audio Integration in Digital Photo Albums</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-uncovering-your-just-watched-list-on-facebook/"><u>[New] In 2024, Uncovering Your Just-Watched List on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/evaluating-vlc-for-screen-recordings/"><u>Evaluating VLC for Screen Recordings</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-crackling-sound-from-your-computers-speakers-a-guide-for-windows-users/"><u>Fixing Crackling Sound From Your Computer's Speakers: A Guide for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-halted-windows-updates-progressing-only-to-100/"><u>How to Fix a Halted Windows Updates Progressing Only to 100%</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lg-gram-17-takes-laptop-game-by-storm-a-detailed-look-at-this-ultra-lightweight-high-performing-device/"><u>LG Gram 17 Takes Laptop Game by Storm: A Detailed Look at This Ultra-Lightweight, High-Performing Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-time-lapse-android-tips-and-tricks-for-2024/"><u>Mastering Time-Lapse Android Tips & Tricks for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209971324-9781946533913-mindful-pause/"><u>Mindful Pause | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solution-found-resolving-windows-11s-stubborn-bluescreen-issue-heres-how-no-more-headaches/"><u>Quick Solution Found! Resolving Windows 11'S Stubborn Bluescreen Issue - Here’s How (No More Headaches!)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-how-to-correctly-set-up-your-battleye-protection-software-again/"><u>Resolved Issue: How To Correctly Set Up Your BattlEye Protection Software Again</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/shop-the-best-discover-hidden-gems-with-our-guide-to-amazons-premier-laptop-deals-for-prime-members-insights/"><u>Shop the Best: Discover Hidden Gems with Our Guide to Amazon's Premier Laptop Deals for Prime Members | Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/silent-victory-over-the-raging-crimson-your-definitive-guide-to-fixing-system-faults/"><u>Silent Victory Over The Raging Crimson: Your Definitive Guide to Fixing System Faults</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-on-activating-wake-on-lan-for-latest-windows-versions/"><u>Step-by-Step Tutorial on Activating Wake-on-LAN for Latest Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-bluetooth-devices-unseen-issue-in-windows-11/"><u>Troubleshooting Guide: Solving 'Bluetooth Devices Unseen' Issue in Windows 11</u></a></li>
 </ul></div>
 

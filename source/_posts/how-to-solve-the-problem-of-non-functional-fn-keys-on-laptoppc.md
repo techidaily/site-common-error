@@ -1,7 +1,7 @@
 ---
 title: How to Solve the Problem of Non-Functional FN Keys on Laptop/PC
-date: 2024-11-11T16:10:07.021Z
-updated: 2024-11-15T17:59:36.276Z
+date: 2024-11-18T18:26:17.395Z
+updated: 2024-11-25T01:07:30.264Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -53,26 +46,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -92,6 +79,10 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -103,16 +94,7 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
@@ -124,10 +106,7 @@ To do so:
 5. Click **OK**  to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
@@ -167,22 +146,24 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-seamless-acquisition-of-twitters-jokes-for-pc/"><u>[New] 2024 Approved Seamless Acquisition of Twitter's Jokes for PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-building-harmonious-forms-crafting-circles-and-spheres-for-2024/"><u>[New] Building Harmonious Forms Crafting Circles and Spheres for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-drive-traffic-and-growth-with-youtube-analytic-insights/"><u>[Updated] Drive Traffic and Growth with YouTube Analytic Insights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-marker-techniques-for-efficient-video-cutting-for-2024/"><u>[Updated] Mastering Marker Techniques for Efficient Video Cutting for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-step-up-your-game-stunning-tiktok-videos-made-simple/"><u>[Updated] Step Up Your Game Stunning TikTok Videos Made Simple</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-virtual-visualization-in-digital-streaming-platforms/"><u>[Updated] The Art of Virtual Visualization in Digital Streaming Platforms</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-simple-method-for-clearing-facebook-dings/"><u>A Simple Method for Clearing Facebook Dings</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-chat-solutions-to-replace-skype-this-year/"><u>Discover the Best Free Chat Solutions to Replace Skype This Year</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-correct-dota-2-graphics-api-error-2027-fast-and-simple-fixes/"><u>Expert Tips to Correct 'Dota 2 Graphics API' Error 2027: Fast and Simple Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-input-type-not-accepted-when-using-visual-output-devices/"><u>Fixes for 'Input Type Not Accepted' When Using Visual Output Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-resolution-of-livekernelevent-error-number-117/"><u>Mastering the Resolution of LiveKernelEvent Error Number 117</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-8-solutions-to-resolve-windows-11s-update-error-0x800f0922/"><u>Top 8 Solutions to Resolve Windows 11'S Update Error: 0X800F0922</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-dealing-with-the-fixed-windows-update-error-in-windows-11-error-0x8024401c/"><u>Troubleshoot and Repair: Dealing with the Fixed Windows Update Error in Windows 11 (Error 0X8024401C)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-successfully-rectifying-opengl-extension-texture-compression-error-1281/"><u>Troubleshooting Guide: Successfully Rectifying OpenGL Extension Texture Compression Error #1281</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-opengl-issues-in-minecraft-effective-solutions-revealed/"><u>Troubleshooting OpenGL Issues in Minecraft: Effective Solutions Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-blink-of-your-computer-cursor-a-comprehensive-guide/"><u>Understanding and Fixing the Blink of Your Computer Cursor: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-professional-grade-video-editing-on-mac-adobe-premiere-pro/"><u>Updated Professional-Grade Video Editing on Mac Adobe Premiere Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-broadcasting-brilliance-how-to-capture-compelling-sports-content/"><u>[New] 2024 Approved Broadcasting Brilliance How to Capture Compelling Sports Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-end-of-struggle-operational-obs-camera-for-2024/"><u>[New] End of Struggle Operational OBS Camera for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-audio-dialogue-recorder/"><u>[Updated] 2024 Approved Audio Dialogue Recorder</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-affordable-hardware-excellent-obs-setup-for-2024/"><u>[Updated] Affordable Hardware Excellent OBS Setup for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-clipcomposers-journey-thorough-review-of-androvid/"><u>[Updated] ClipComposer's Journey – Thorough Review of AndroVid</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-free-adjusting-immovable-gif-sizes-for-windows-users-of-discord/"><u>Breaking Free: Adjusting Immovable GIF Sizes for Windows Users of Discord</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-zero-5g-2023-turbo-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Zero 5G 2023 Turbo Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/guaranteeing-system-stability-fixing-msvcp140dll-shortage/"><u>Guaranteeing System Stability: Fixing MSVCP140.dll Shortage</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-on-unsupported-hardware-comprehensive-guide/"><u>How To Enable Miracast on Unsupported Hardware: Comprehensive Guide</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-xr-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone XR by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-11-audio-hurdles-effective-solutions-to-dead-volume-buttons/"><u>Overcoming Windows 11 Audio Hurdles – Effective Solutions to Dead Volume Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/revived-windows-audio-service-on-win-1110/"><u>Revived Windows Audio Service on WIN 11/10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722892546482-samsungs-latest-innovation-the-galaxy-z-fold-x-get-inside-info-on-cost-release-window-and-cutting-edge-specs/"><u>Samsung's Latest Innovation - The Galaxy Z Fold X: Get Inside Info on Cost, Release Window & Cutting-Edge Specs!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-no-hardware-recognition-on-icue-platforms/"><u>Step-by-Step Solutions to Overcome 'No Hardware Recognition' On ICUE Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-ps4-ce-34878-0-error-a-comprehensive-tutorial/"><u>Troubleshooting and Fixing the PS4 CE-34878-0 Error - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210164187-troubleshooting-why-your-pc-wont-update-windows-easy-fixes-inside/"><u>Troubleshooting: Why Your PC Won't Update Windows – Easy Fixes Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-hello-compatible-cameras-analysis/"><u>Windows Hello Compatible Cameras Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-windows-10-update-failures-expert-tips-for-a-smooth-experience/"><u>Winning the Battle Against Windows 10 Update Failures: Expert Tips for a Smooth Experience</u></a></li>
 </ul></div>
 

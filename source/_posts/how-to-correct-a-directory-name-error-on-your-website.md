@@ -1,7 +1,7 @@
 ---
 title: How to Correct a Directory Name Error on Your Website
-date: 2024-08-27T13:48:14.855Z
-updated: 2024-08-28T13:48:14.855Z
+date: 2024-11-21T00:40:58.315Z
+updated: 2024-11-24T20:38:03.137Z
 tags:
   - win11
   - win10
@@ -53,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 
  6) Turn on your PC.  After everything are working normally, try to connect again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Method 2: Update your network card driver**
 
  The missing or outdated network driver can cause the error 651 in your computer, so you should update the network card driver in your Windows to**fix connection failed with error 651** .
@@ -80,13 +77,14 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_58e615dea0c7e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
 
  4) After updating the driver, restart your computer, then try to connect again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### **Method 3: Troubleshoot settings in Network and Sharing Center**
 
  When there is a problem with your network, the most common method is to check your network settings in your computer.
@@ -104,16 +102,17 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3094b17d852.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right click your network connection, then click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fa9aa7bb5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Uncheck the box next to**Internet Protocol Version 6 (TCP/IPv6)** . Then c  lick**OK** to save the settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3095cc11d0a.png)
@@ -136,16 +135,10 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30962dc7683.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3094b17d852.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  3) Right click the dial up connection, and click select**Create Copy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a982ef43d.png)
@@ -154,9 +147,6 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fb3ac0375.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  5) Try connecting to the network again to see if it works.
 
  If it’s the first time to connect to this network, you may need to create a dial up connection for it. Follow these steps:
@@ -165,9 +155,6 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30962dc7683.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Click**Set up a new connection or network** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309a6f1dad8.jpg)
@@ -184,12 +171,17 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309bc071482.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Enter the**username** and**password** provided by your Internet Service Provider (ISP), and click**Connect** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309c351a71b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 4: Reset TCP/IP on your Windows**
 
@@ -201,6 +193,10 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e42f5624fb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Copy the command below and paste it in your Command Prompt, then press**Enter** on your keyboard:
 
 netsh int ip reset reset.log
@@ -208,8 +204,9 @@ netsh int ip reset reset.log
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309c9ae8874.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) After the command completed, restart your PC and try to connect again.
 
 ### **Method 5: Disable the auto tuning feature**
@@ -221,8 +218,9 @@ netsh int ip reset reset.log
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e42f5624fb.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Copy the command below and paste it in your Command Prompt, then press**Enter** on your keyboard:
 
 Netsh interface tcp set global autotuning=disabled
@@ -230,8 +228,9 @@ Netsh interface tcp set global autotuning=disabled
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309cf60ba01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) After the command completed, try your Internet connection again to see if it works.
 
  These are the best methods to fix the**Internet connection failed with error 651** . What’s your solution for this problem? Share with us! And if your problem still persists, feel free to comment below and we will see what more we can do.
@@ -244,8 +243,6 @@ Netsh interface tcp set global autotuning=disabled
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -253,4 +250,26 @@ Netsh interface tcp set global autotuning=disabled
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/emystifying-income-flow-to-creators-within-the-short-video-model/"><u>[New] Demystifying Income Flow to Creators Within the Short Video Model</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-best-apps-to-transform-your-vertical-igtv-footage/"><u>[New] In 2024, Best Apps to Transform Your Vertical IGTV Footage</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-guide-to-iphone-7-screen-recording/"><u>[New] In 2024, Ultimate Guide to iPhone 7 Screen Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-securely-downloading-youtube-audios-3-easy-and-reliable-methods-for-2024/"><u>[Updated] Securely Downloading YouTube Audios 3 Easy & Reliable Methods for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-try-the-top-free-voice-modifier-for-an-edge-in-valorant-for-2024/"><u>[Updated] Try the Top Free Voice Modifier for an Edge in Valorant for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/android-time-lapse-techniques-elevate-your-videos-for-2024/"><u>Android Time-Lapse Techniques Elevate Your Videos for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001075724-bypassing-the-black-hurdle-on-nba-2k21-before-the-new-year-rolls-in/"><u>Bypassing the Black Hurdle on NBA 2K21 Before the New Year Rolls In</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-once-popular-netgear-c3000-does-its-tech-still-hold-up-in-todays-internet-age/"><u>Evaluating the Once-Popular Netgear C3000: Does Its Tech Still Hold Up in Today's Internet Age?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-failed-hard-drive-detection-during-windows-1-ter-resetting-process/"><u>How to Resolve the Failed Hard Drive Detection During Windows 1 Ter Resetting Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-address-the-issue-when-your-steam-store-doesnt-open/"><u>How To Successfully Address The Issue When Your Steam Store Doesn't Open</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-placing-multiple-waypoints-in-google-maps/"><u>Mastering the Art of Placing Multiple Waypoints in Google Maps</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-high-disk-usage-by-microsoft-compatibility-telemetry-in-windows-11/"><u>Resolving High Disk Usage by Microsoft Compatibility Telemetry in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-to-fix-disrupted-images-on-windows-versions-11-and-10/"><u>Step-by-Step Tutorial to Fix Disrupted Images on Windows Versions 11 and 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/surface-pen-not-working-solved/"><u>Surface Pen Not Working [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-it-professionals-checklist-for-fixing-a-frozen-system/"><u>The IT Professional's Checklist for Fixing a Frozen System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-incorrect-parameter-issues-with-loadlibrary-functions/"><u>Troubleshooting 'Incorrect Parameter' Issues with LoadLibrary Functions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-successful-battleye-setup-and-deployment/"><u>Troubleshooting Guide for Successful BattlEye Setup and Deployment</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-minecraft-opengl-issues/"><u>Troubleshooting Guide: Resolving Minecraft OpenGL Issues</u></a></li>
+</ul></div>
 

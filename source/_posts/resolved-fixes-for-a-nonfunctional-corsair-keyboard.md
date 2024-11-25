@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for a Nonfunctional Corsair Keyboard"
-date: 2024-11-09T17:00:10.696Z
-updated: 2024-11-15T17:47:38.236Z
+date: 2024-11-24T01:48:55.815Z
+updated: 2024-11-25T01:46:57.595Z
 tags:
   - win11
   - win10
@@ -49,16 +49,13 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766057d7181.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your computer is running**Windows 7** , use your mouse to click the**Start** button, then click the**more options icon** to select**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7664a26b24c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -74,22 +71,8 @@ If your computer is running Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665088706c.jpg)
 2. Click**Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76653d6e392.jpg)
 3. Click**Keyboard.** Then look at the status of**Use Sticky Keys** ,**Use Toggle Keys** ,**Use Filter Keys** . If any of them is On, switch to Off. Then move on to the next step. If all of them stay Off, move on to the next method.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
 
@@ -102,10 +85,7 @@ If your computer is running Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your computer is running Windows 7:
@@ -115,10 +95,7 @@ If your computer is running Windows 7:
 2. Click **Ease of Access** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766794641a7.jpg)
@@ -146,10 +123,7 @@ See how to do it:
 4. Once you do, restart your computer. Windows should then reinstall the driver for your keyboard automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try to type some words using your keyboard to see if it works. If you type successfully, great! If you still aren’t able to type on your keyboard, don’t feel frustrated, move on to the next method.
@@ -157,16 +131,7 @@ See how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Update your keyboard driver
@@ -186,6 +151,10 @@ See how to do it:
 **Note:** You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766e1dcd420.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Method 5: Try this fix if you’re using a USB keyboard
@@ -193,6 +162,10 @@ See how to do it:
  If unfortunately, all the fixes above fail to help you and you’re using a USB keyboard, You can try to connect the keyboard with**another USB port** to check if it works as an old, shabby USB port could cause your Keyboard not to work.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Try this fix if you’re using a wireless keyboard
 
@@ -231,18 +204,20 @@ Try to type some words using your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-expert-strategies-for-clear-communication-on-google-meet/"><u>[New] In 2024, Expert Strategies for Clear Communication on Google Meet</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-leading-mp4-to-facebook-mover/"><u>[Updated] In 2024, Leading MP4 to Facebook Mover</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-revisiting-reruns-the-classic-goofy-movie/"><u>[Updated] Revisiting Reruns The Classic 'Goofy Movie'</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-persistent-windows-10-performance-issues-at-system-initialization-a-step-by-step-guide/"><u>Addressing Persistent Windows 10 Performance Issues at System Initialization - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-common-errors-with-your-usb-to-hdmi-link/"><u>Diagnosing & Correcting Common Errors with Your USB-to-HDMI Link</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-techniques-for-fixing-windows-10-glitches-the-role-of-sfc-and-dism-in-system-recovery/"><u>Essential Techniques for Fixing Windows 10 Glitches: The Role of SFC & DISM in System Recovery</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-solutions-to-persistent-issues-and-bugs-in-persona-4-golden/"><u>Expert Solutions to Persistent Issues & Bugs in Persona 4 Golden</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-novice-to-pro-mastering-spotify-advertisement-techniques/"><u>From Novice to Pro Mastering Spotify Advertisement Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-capable-and-sturdy-radpower-radcity-5-plus-an-seo-guide-for-cyclists/"><u>Reviewing the Capable & Sturdy RadPower RadCity 5 Plus – An SEO Guide for Cyclists</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-and-fix-windows-11-overheats/"><u>Stop and Fix: Windows 11 Overheats</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-15-tips-for-accessing-nba-games-online/"><u>Top 15 Tips for Accessing NBA Games Online</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-pc-lag-in-halo-infinite-discover-7-effective-ways-to-ensure-smooth-gameplay/"><u>Troubleshoot PC Lag in Halo Infinite: Discover 7 Effective Ways to Ensure Smooth Gameplay</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-icloud-backup-issues-top-9-solutions/"><u>Troubleshooting iPhone iCloud Backup Issues: Top 9 Solutions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-delving-deeply-into-obs-studios-capture-capabilities/"><u>[New] Delving Deeply Into OBS Studio's Capture Capabilities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-complete-guide-to-steam-switch-controller-use/"><u>[Updated] A Complete Guide to Steam Switch Controller Use</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-depth-analysis-of-the-lightroom-app-for-android-users/"><u>[Updated] In-Depth Analysis of the Lightroom App for Android Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-mobile-media-the-art-of-filming-with-a-smartphone/"><u>2024 Approved Mastering Mobile Media The Art of Filming with a Smartphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-the-key-startup-file-missing-error-on-windows-operating-systems/"><u>Diagnosing and Resolving the Key Startup File Missing Error on Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-overcome-usb-connectivity-issues-within-the-latest-windows-environments/"><u>Expert Tips to Overcome USB Connectivity Issues Within the Latest Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-stop-the-disappearing-cursor-problem-on-your-windows-10-system/"><u>Guide: Stop the Disappearing Cursor Problem on Your Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-handle-the-windows-update-failure-error-code-80070103/"><u>How to Correctly Handle the 'Windows Update Failure: Error Code 80070103'</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-iphone-camera-savvy-image-optimization-secrets/"><u>In 2024, IPhone Camera Savvy Image Optimization Secrets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-noir-effects-in-adobe-premiere/"><u>In 2024, Noir Effects in Adobe Premiere</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-compilation-of-affordable-audio-manipulation-software-for-windows-and-mac-os-x/"><u>New In 2024, The Ultimate Compilation of Affordable Audio Manipulation Software for Windows and Mac OS X</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ineteresourcenotfound-mistake-for-smoother-operations/"><u>Troubleshooting INET_E_RESOURCE_NOT_FOUND Mistake for Smoother Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-and-turning-on-bluetooth-on-windows-7/"><u>Troubleshooting: Fixing and Turning On Bluetooth on Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-startup-understanding-auto-boot-in-your-windows-10-pc/"><u>Unexpected Startup: Understanding Auto-Boot in Your Windows 10 PC</u></a></li>
 </ul></div>
 

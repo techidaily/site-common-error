@@ -1,7 +1,7 @@
 ---
 title: Gameplay Might Force a Shutdown
-date: 2024-08-27T13:48:51.999Z
-updated: 2024-08-28T13:48:51.999Z
+date: 2024-11-17T22:44:30.744Z
+updated: 2024-11-25T02:31:01.252Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 ## [RESTART] Triggered By Gameplay
 
  You might be confused and frustrated when you start a game and your computer reboots suddenly. Don’t worry, you’re not alone. You can find solutions here and get rid of this annoying issue. Read on to find out how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -34,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Change your power settings
 
  If your power supply unit (PSU) isn’t enough for your computer components, this problem might appear. So make sure your PSU is enough to power up your graphics card. It is also possible that you have a failing PSU. To test it, you could diagnose it with a power supply tester.
@@ -45,25 +46,29 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 2. Set the Control Panel view by **Large icons** and click **Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/power.jpg)
 3. Click**Change plan settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/power1.jpg)
 4. Click**Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/power2.jpg)
 5. Find and click**Processor power management > Minimum processor state** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Set the number to the low state such as 5% or 0% and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/power3.jpg)
 7. Save the changes and reboot your PC.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Prevent overheating
 
@@ -73,14 +78,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  Here is a detailed post with more detailed information if your computer is overheating and how you can do about it: [**How to Know Your CPU Overheating and How to Fix It**](https://tools.techidaily.com/drivereasy/download/)
 
  If your PC is clean and all the fans are working properly, but the CPU is still overheating, then maybe it’s time to change your CPU cooler.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Run a RAM check
 
@@ -95,29 +101,31 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-53-57.jpg)
 4. Windows will run diagnosis automatically, which can take a few minutes. When it’s finished, your PC will reboot.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. The results will be shown on your desktop. If you don’t see any notification, right-click the **Start** menu then click **Event Viewer** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-54-28.jpg)
 6. Click **Windows Logs** \>> **System** \>> **Find** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-56-41.jpg)
 7. Type **memory diagnostic** , then click **Find Next** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-29-00.jpg)
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the Windows 10 computer randomly restarts problem. In that case, please move on to the next fix.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Disable Windows Automatic Restart Feature
 
@@ -131,9 +139,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Uncheck**Automatically restart** and click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3-1.jpg)
 5. Click**Apply > OK** .
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Reboot your PC.
 
 ---
@@ -172,8 +177,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +184,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-a-critical-examination-of-vlcs-rivals/"><u>[New] 2024 Approved A Critical Examination of VLC's Rivals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-reel-success-unlocking-the-best-10-text-strategies-for-videos/"><u>[New] Reel Success - Unlocking the Best 10 Text Strategies for Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleash-creativity-on-instagrams-reels-frontier/"><u>[Updated] 2024 Approved Unleash Creativity on Instagram's Reels Frontier</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-zoom-for-seamless-fb-live-broadcasts/"><u>[Updated] Navigating Zoom for Seamless FB Live Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-starting-point-for-film-designers/"><u>[Updated] The Starting Point for Film Designers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-8-top-picks-for-seamless-screen-recording-experience/"><u>2024 Approved 8 Top Picks for Seamless Screen Recording Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-laptop-malfunction-how-to-troubleshoot-and-repair-unresponsive-keys-easily/"><u>Dell Laptop Malfunction? How To Troubleshoot and Repair Unresponsive Keys Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-easily-overcome-the-frustrating-windows-update-problem-x0x80070652-bug/"><u>How to Easily Overcome the Frustrating Windows Update Problem: X0X80070652 Bug</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-issue-of-minecraft-not-launching-in-windows-operating-system/"><u>How to Resolve the Issue of Minecraft Not Launching in Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-10-freezing-during-updates-efficiently/"><u>How to Resolve Windows 10 Freezing During Updates Efficiently</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-nzxt-h6-flow-rgb-case-assessment-stylish-and-unique/"><u>In-Depth NZXT H6 Flow RGB Case Assessment: Stylish and Unique</u></a></li>
+<li><a href="https://common-error.techidaily.com/new-strategies-to-overcome-initialization-problems-in-web-renderers/"><u>New Strategies to Overcome Initialization Problems in Web Renderers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-windows-10-upgrade-issue-when-it-gets-stuck-on-99/"><u>Resolve Your Windows 10 Upgrade Issue When It Gets Stuck on 99%</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sky-warriors-guide-to-drone-racing-plus-selecting-premier-fpvs-for-2024/"><u>Sky Warriors' Guide to Drone Racing + Selecting Premier FPVs for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-semaphore-error-0x80070079-connection-timeout-issue/"><u>Troubleshooting Steps for Semaphore Error 0X80070079 - Connection Timeout Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-your-non-functional-usb-to-hdmi-converter/"><u>Troubleshooting: Fixing Your Non-Functional USB to HDMI Converter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-does-a-404-error-mean-resolving-missing-pages-on-your-site/"><u>What Does a 404 Error Mean? Resolving Missing Pages on Your Site</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-7-and-bluetooth-made-easy-turn-on-and-fix-common-issues/"><u>Windows 7 and Bluetooth Made Easy - Turn On & Fix Common Issues</u></a></li>
+</ul></div>
 

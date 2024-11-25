@@ -1,7 +1,7 @@
 ---
 title: "Dormant Devices Down: Windows 11/10 Woes"
-date: 2024-11-12T16:07:26.377Z
-updated: 2024-11-15T16:54:07.129Z
+date: 2024-11-18T03:23:17.161Z
+updated: 2024-11-24T19:34:33.716Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ The good news is that it can be fixed quickly and easily.
 
  If you find System interrupts keep taking up over 20% of CPU usage, it means there’s some error with your hardware or the driver. Go with the following solutions to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for System interrupts high CPU
 
 * [What is System interrupts?](#h-what-is-system-interrupts)
@@ -44,13 +48,6 @@ The good news is that it can be fixed quickly and easily.
 
  First of all, try to restart your Windows 10 computer. No kidding! A complete reboot can always fix a lot of weird issues. Thus be sure to try it at first as it’s easy enough to take.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 2: Update your device drivers
 
  If your device driver misbehaves, then the error may also occur. So you can update your drivers to try to fix the issue.
@@ -60,13 +57,6 @@ The good news is that it can be fixed quickly and easily.
 2. Expand any dialog and**right-click** on your device to choose**Update driver** . Choose**Update driver** and click**Search automatically for updated driver software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c88ea4cdfe.jpg)
 3. Then Windows will start to detect the update for your device.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After updating one device, check for updates on your other devices with the same steps.
 
@@ -85,22 +75,12 @@ The good news is that it can be fixed quickly and easily.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  If updating the driver didn’t help you, go on to follow other solutions:
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Disable USB Root Hubs
@@ -112,20 +92,25 @@ The good news is that it can be fixed quickly and easily.
 2. Expand the**Universal Serial Bus controllers** ccategory. Then right-click on each USB Root Hub**except** the ones for your keyboard and mouse. Choose**Disable device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
 3. After disabling your USB Root Hubs, check if the CPU usage comes down.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To check which USB Root Hub is for your keyboard and mouse:
 
  Right-click on USB Root Hub to choose**Properties** . Then you can see the**Attached devices** on the**Power** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4\. Modify your network adapter properties
 
@@ -138,10 +123,7 @@ To check which USB Root Hub is for your keyboard and mouse:
 4. See if the system interrupts still consume a high CPU usage on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 5: Repair system files
@@ -154,14 +136,12 @@ To check which USB Root Hub is for your keyboard and mouse:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -192,19 +172,14 @@ To check which USB Root Hub is for your keyboard and mouse:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-adept-adjustments-mastering-the-chromatic-dance/"><u>[New] Adept Adjustments Mastering the Chromatic Dance</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-social-medias-highest-wave-instagrams-thousand-strong-fanbase/"><u>[Updated] Mastering Social Media's Highest Wave - Instagram’s Thousand-Strong Fanbase</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-avoid-motion-sickness-in-virtual-reality-games/"><u>2024 Approved Avoid Motion Sickness in Virtual Reality Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-and-resolving-windows-11s-initial-bootfreezes-a-comprehensive-guide/"><u>Addressing and Resolving Windows 11'S Initial Bootfreezes – A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-repair-tips-overcoming-dxgkrnl-catastrophic-errors-on-windows-machines/"><u>DIY Repair Tips: Overcoming Dxgkrnl Catastrophic Errors on Windows Machines</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/film-finishing-finesse-download-personalized-epilogues-no-money-for-2024/"><u>Film Finishing Finesse Download Personalized Epilogues, No Money for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/guide-for-transforming-sporty-pilot-training-videos-into-downloaded-formats-mp4-mp3/"><u>Guide for Transforming Sporty Pilot Training Videos Into Downloaded Formats (MP4, MP3)</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
-<li><a href="https://common-error.techidaily.com/is-my-netflix-malfunctioning-solutions-for-streaming-hiccups/"><u>Is My Netflix Malfunctioning? Solutions for Streaming Hiccups</u></a></li>
-<li><a href="https://common-error.techidaily.com/maximize-your-gaming-experience-strategies-for-optimizing-windows-11-system-performance/"><u>Maximize Your Gaming Experience: Strategies for Optimizing Windows 11 System Performance</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/er-roundup-2023s-top-free-video-editing-apps/"><u>Premier Roundup 2023'S Top Free Video Editing Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-typing-troubles-with-ease-fixing-a-broken-spacebar-on-windows-11-systems/"><u>Solve Typing Troubles with Ease: Fixing a Broken Spacebar on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-solutions-for-overcoming-windows-10-spacebar-malfunction/"><u>Ultimate Solutions for Overcoming Windows 10 Spacebar Malfunction</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-google-pixel-7a-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-potential-top-6-head-mounted-cameras-by-gopro/"><u>[New] Unleash Your Potential Top 6 Head-Mounted Cameras by GoPro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-directing-attention-how-to-eradicate-background-from-your-virtual-conferences-for-2024/"><u>[Updated] Directing Attention How to Eradicate Background From Your Virtual Conferences for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-psychology-behind-effective-interviews-for-2024/"><u>[Updated] The Psychology Behind Effective Interviews for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-essential-guide-apples-m1-max-attachment/"><u>2024 Approved Essential Guide Apple's M1 Max Attachment</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboard-lighting-problems-diagnosis-and-repairs/"><u>Corsair Keyboard Lighting Problems: Diagnosis and Repairs</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-rdr2-out-of-memory-adjusting-your-games-virtual-memory/"><u>How to Resolve 'RDR2: Out of Memory' - Adjusting Your Game's Virtual Memory</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-use-system-file-checker-sfc-and-dism-for-windows-11-troubleshooting/"><u>How To Use System File Checker (SFC) & DISM for Windows 11 Troubleshooting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721816290619-just-start-chatting-chatgpt-ready/"><u>Just Start Chatting - ChatGPT Ready</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211896758-race/"><u>Race:</u></a></li>
 </ul></div>
 

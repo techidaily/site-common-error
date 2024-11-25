@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Corrupted System Files in Windows 10 and 11 Operating Systems
-date: 2024-11-14T17:55:52.932Z
-updated: 2024-11-15T16:24:59.994Z
+date: 2024-11-18T16:17:24.531Z
+updated: 2024-11-24T22:53:22.768Z
 tags:
   - win11
   - win10
@@ -31,10 +31,7 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 3. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 1: Restart the WLAN AutoConfig service
@@ -49,29 +46,13 @@ See how to do it:
 3. Right-click on**WLAN AutoConfig** to select**Restart** . If the Restart option grayed out, click**Start** instead.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c4e8dc53f.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Double-click** WLAN AutoConfig.
 5. Set the Startup type to**Automatic** . Then**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c6c3c4eb5.jpg)
 
  Reboot your Windows computer and the error should disappear. If you’re prompted the error again, there’re something else you can try…
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Repair your registry
 
@@ -87,29 +68,17 @@ Here’s how you can do it:
 4. Go to**HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca74d28b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Right-click**Dhcp** under the Services section to select**Export** .  
  Give a name for the backup file, say Dhcp backup. Then select a backup address and click**Save** . You can restore the file from this backup if any error occurs during the process below.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cae624a92.jpg)
 6. **Double-click** DependOnService on the right pane of Dhcp. Select all the words**except “Afd”** , then**delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc0dde1d6.jpg)
 7. Right-click**Eaphost** under the Services section to select**Export** .  
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Give a name for the backup file, say Eaphost backup.Then select a backup address and click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc80aaff0.jpg)
 8. **Double-click** DependOnService on the right pane of Eaphost. Select all the words and **delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cd67d4334.jpg)
@@ -135,6 +104,10 @@ You can update your network driver either manually or automatically.
  You can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the Pro version which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b891580f3aca.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You’re done. Feel free to comment below if you have any question.
 
 * [error](https://tools.techidaily.com/drivereasy/download/)
@@ -155,20 +128,21 @@ You’re done. Feel free to comment below if you have any question.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-rethinking-content-creation-non-vimeo-editor-hits/"><u>[New] 2024 Approved Rethinking Content Creation Non-Vimeo Editor Hits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seamlessly-stream-your-laptops-dvd-library/"><u>[New] Seamlessly Stream Your Laptop's DVD Library</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-navigate-video-settings-ideal-size-and-aspect-ratio-for-youtube/"><u>[Updated] 2024 Approved Navigate Video Settings Ideal Size & Aspect Ratio for YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-idea-to-internet-fame-becoming-a-vtuber-for-2024/"><u>[Updated] From Idea to Internet Fame Becoming a VTuber for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-immerse-in-a-world-of-efficient-notes-with-mematic-for-2024/"><u>[Updated] Immerse in a World of Efficient Notes with Mematic for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-is-integrating-itop-into-your-toolkit-advisable/"><u>[Updated] Is Integrating ITop Into Your Toolkit Advisable?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-galaxy-s8-review-bringing-movies-to-life-with-4k/"><u>2024 Approved Galaxy S8 Review - Bringing Movies to Life with 4K</u></a></li>
-<li><a href="https://common-error.techidaily.com/elevate-your-gaming-session-performance-tweaks-for-windows-11-users/"><u>Elevate Your Gaming Session: Performance Tweaks for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-rid-of-the-infinite-loading-screen-in-valorant-once-and-for-all/"><u>How to Get Rid of the Infinite Loading Screen in Valorant Once and For All</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-play-fortnite-on-older-gpus-under-windows-solutions-explored/"><u>How to Play Fortnite on Older GPUs Under Windows - Solutions Explored</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-exploring-sonic-wonders-on-iphone/"><u>In 2024, Exploring Sonic Wonders on iPhone</u></a></li>
-<li><a href="https://common-error.techidaily.com/papillary-carcinoma-is-the-most-common-form-of-thyroid-cancer-and-generally-has-an-excellent-prognosis/"><u>Papillary Carcinoma Is the Most Common Form of Thyroid Cancer and Generally Has an Excellent Prognosis.</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-bandwidth-problems-in-world-of-warcraft-wow/"><u>Troubleshooting Bandwidth Problems in World of Warcraft (WOW)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-faulty-shift-key-now-repaired/"><u>Troubleshooting Your Faulty Shift Key - Now Repaired</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-hdcp-compatibility-issues-with-your-monitor-display/"><u>Understanding HDCP Compatibility Issues with Your Monitor Display</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-sleeper-coupons-in-instagram-the-underrated-tips-and-tricks/"><u>[New] Sleeper Coupons in Instagram The Underrated Tips and Tricks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-complete-igtv-user-manual-for-2024/"><u>[New] The Complete IGTV User Manual for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-speech-iphone-memo-making-steps-for-2024/"><u>[Updated] Capturing Speech IPhone Memo-Making Steps for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-channel-name-magic-ideas-for-impactful-titles/"><u>[Updated] Channel Name Magic Ideas for Impactful Titles</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-poco-x6-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Poco X6 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-beyond-borders-the-upsides-and-downsides-of-online-purchases/"><u>Gaming Beyond Borders: The Upsides & Downsides of Online Purchases</u></a></li>
+<li><a href="https://common-error.techidaily.com/handling-web-access-restrictions-fixing-an-http-error-asterisk403/"><u>Handling Web Access Restrictions: Fixing an HTTP Error Asterisk(403)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-memory-shortage-issues-in-windows-11-easily/"><u>How to Resolve Memory Shortage Issues in Windows 11 Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-diagnosing-and-resolving-astro-a10-audio-problems/"><u>Master the Art of Diagnosing and Resolving Astro A10 Audio Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-internet-explorer-has-stopped-responding-error/"><u>Resolving 'Internet Explorer Has Stopped Responding' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-wi-fi-capability-disabled-error-with-easy-fixes/"><u>Resolving the 'Wi-Fi Capability Disabled' Error with Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-fix-the-common-twitch-error-code-4000/"><u>Step-by-Step Solution to Fix the Common Twitch Error Code 4000</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-personalizing-your-gmail-experience-with-smart-filter-creation/"><u>The Ultimate Guide to Personalizing Your Gmail Experience with Smart Filter Creation</u></a></li>
+<li><a href="https://common-error.techidaily.com/triumph-of-technology-wows-full-3d-render-capabilities-realized/"><u>Triumph of Technology: WoW's Full 3D Render Capabilities Realized</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-malfunctioning-numeric-keys-on-your-computer-keyboard/"><u>Troubleshooting Malfunctioning Numeric Keys on Your Computer Keyboard</u></a></li>
 </ul></div>
 

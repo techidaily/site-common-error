@@ -1,7 +1,7 @@
 ---
 title: Common Issues and Fixes for a Dark Razer Keyboard Screen
-date: 2024-11-12T18:31:24.353Z
-updated: 2024-11-15T16:39:38.177Z
+date: 2024-11-19T00:05:11.876Z
+updated: 2024-11-25T00:35:00.113Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -52,19 +56,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -91,10 +82,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -121,6 +109,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -131,22 +123,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -156,6 +138,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -163,13 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,19 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fix-immediately-reduce-high-cpu-usage-of-your-device-targeted-solutions-for-tackling-excessive-shell-induced-heat/"><u>[Fix] Immediately Reduce High CPU Usage of Your Device – Targeted Solutions for Tackling Excessive Shell-Induced Heat.</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-automatic-video-playback-in-facebook/"><u>[New] Unlocking Automatic Video Playback in Facebook</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exploring-snapchats-top-stories/"><u>[Updated] Exploring Snapchat's Top Stories</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-conjuring-chrono-displacement-with-digital-magic/"><u>2024 Approved Conjuring Chrono-Displacement with Digital Magic</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-reno-8t-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo Reno 8T 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhancing-your-windows-11-keyboards-performance-eliminate-latency-problems-now/"><u>Enhancing Your Windows 11 Keyboard's Performance: Eliminate Latency Problems Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-tricks-for-enhancing-your-file-explorer-experience-on-windows-11/"><u>Essential Tricks for Enhancing Your File Explorer Experience on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-chatgpt-can-help-you-define-and-reach-your-fitness-goals/"><u>How ChatGPT Can Help You Define and Reach Your Fitness Goals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-video-sharing-techniques-in-zoom-and-tiktok/"><u>In 2024, Pioneering Video Sharing Techniques in Zoom and TikTok</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-tips-for-improving-laptop-keyboard-speed/"><u>Quick Troubleshooting Tips for Improving Laptop Keyboard Speed</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-steamdll-absence-on-pc/"><u>Resolving SteamDLL Absence on PC</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ilmmakers-pathway-to-youtube-success-with-professional-360-video-edits/"><u>The Filmmaker's Pathway to YouTube Success with Professional 360 Video Edits</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/twitter-success-proven-methods-to-gain-more-followers-quickly/"><u>Twitter Success: Proven Methods to Gain More Followers Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211938412-winning-the-battle-against-msmpengexe-resolve-its-cpu-hogging-on-windows-10/"><u>Winning the Battle Against MsMpEng.exe: Resolve Its CPU Hogging on Windows 10!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-creative-trail-steps-towards-thriving-as-a-designer/"><u>[Updated] 2024 Approved The Creative Trail Steps Towards Thriving as a Designer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-sound-bank-vintage-voice-choices-for-2024/"><u>[Updated] Ultimate Sound Bank Vintage Voice Choices for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-buttery-smooth-gaming-in-naraka-bladepoint-fixes-for-lagging-and-low-fps-woes/"><u>Achieve Buttery-Smooth Gaming in Naraka: Bladepoint - Fixes for Lagging & Low FPS Woes</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-the-non-operational-diagnostics-policy-service/"><u>Effective Solutions for the Non-Operational Diagnostics Policy Service</u></a></li>
+<li><a href="https://solve-news.techidaily.com/harness-the-power-of-cookiebot-technology-for-enhanced-analytics-and-user-experience/"><u>Harness the Power of Cookiebot Technology for Enhanced Analytics & User Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-14-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 14 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-open-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Open to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-live-deepfakes-made-easy-how-to-download-and-make-your-own-live-model/"><u>New In 2024, Live Deepfakes Made Easy How to Download and Make Your Own Live Model</u></a></li>
+<li><a href="https://common-error.techidaily.com/prevent-win11-reboots-unexpectedly/"><u>Prevent Win11 Reboots Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-steps-for-restoring-compromised-windows-store-cache/"><u>Resolved: Steps for Restoring Compromised Windows Store Cache</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-when-torrents-fail-to-download/"><u>Step-by-Step Solution: When Torrents Fail to Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-when-you-encounter-a-red-cross-above-your-network-status-symbol/"><u>Step-by-Step Solutions When You Encounter a Red Cross Above Your Network Status Symbol</u></a></li>
+<li><a href="https://common-error.techidaily.com/tired-of-that-blinking-cursor-lets-resolve-it-together/"><u>Tired of that Blinking Cursor? Let's Resolve It Together.</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-twitch-effective-solutions-for-handling-error-4veil-4000/"><u>Troubleshooting Twitch: Effective Solutions for Handling Error 4Veil 4000</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-night-light-problem-solved-tips-for-getting-it-back-on-track/"><u>Windows 11 Night Light Problem Solved: Tips for Getting It Back on Track</u></a></li>
 </ul></div>
 
