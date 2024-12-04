@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Fixing Unrecoverable DirectX Malfunctions
-date: 2024-11-21T20:25:23.317Z
-updated: 2024-11-25T02:31:18.570Z
+date: 2024-11-29T21:10:18.438Z
+updated: 2024-12-04T03:44:59.056Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
@@ -49,12 +49,21 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Set default devices
 
@@ -67,36 +76,28 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
 
@@ -113,6 +114,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 4: Check your in-game audio settings
@@ -124,10 +129,6 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
@@ -154,19 +155,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-backupmasters-expert-verdict-for-2024/"><u>[New] BackUpMasters Expert Verdict for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-charting-the-future-the-next-gen-youtube-festivals/"><u>[New] In 2024, Charting the Future The Next Gen Youtube Festivals</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-softened-screen-debut/"><u>[New] Softened Screen Debut</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-initialization-failed-in-age-of-empires-iii-complete-guide/"><u>Fixing 'Initialization Failed' In Age of Empires III - Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-brightness-slider-unresponsive-on-windows-11/"><u>Fixing the Issue: Brightness Slider Unresponsive on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-no-connection-errors-due-to-unreachable-dhcp-servers/"><u>How to Fix 'No Connection' Errors Due to Unreachable DHCP Servers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-malfunctioning-dell-usb-port-a-comprehensive-guide/"><u>How to Fix a Malfunctioning Dell USB Port - A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-tablets-typing-ability/"><u>Revive Your Tablet's Typing Ability</u></a></li>
-<li><a href="https://blog-min.techidaily.com/solving-the-vlc-players-green-screen-issue-during-dvd-viewing-a-step-by-step-guide/"><u>Solving the VLC Player's Green Screen Issue During DVD Viewing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/straightforward-guide-to-ios-screen-share-simplicity/"><u>Straightforward Guide to IOS Screen Share Simplicity</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/streamlining-your-ps3-recorded-experiences-for-2024/"><u>Streamlining Your PS3 Recorded Experiences for 2024</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-hot-30i-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Hot 30i Reset Code | Dr.fone</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>Updated Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-the-missing-mouse-pointer-on-windows-11-your-ultimate-fixes/"><u>Winning the Battle Against the Missing Mouse Pointer on Windows 11 - Your Ultimate Fixes!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mini-laptops-and-gimbals-for-mobile-videos/"><u>[New] 2024 Approved Mini Laptops & Gimbals for Mobile Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-essential-guide-to-best-rated-vr-bike-games/"><u>[New] In 2024, Essential Guide to Best-Rated VR Bike Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-editors-expert-analysis-videdit-pro-a-2023-overview-for-2024/"><u>[Updated] Editor's Expert Analysis VidEdit Pro – A 2023 Overview for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-nokia-c210-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nokia C210 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/decrease-wmi-cpu-load-on-win11-quick-guide/"><u>Decrease WMI CPU Load on Win11 - Quick Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211569109-fixing-the-dota-2-changing-rendering-api-error-error-id-2024-in-minutes/"><u>Fixing the Dota 2 Changing Rendering API Error (Error ID: 2024) in Minutes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ational-steps-for-youtube-enthusiasts-for-2024/"><u>Foundational Steps for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-application-failed-to-launch-properly-error-code-0xc000007b/"><u>How to Fix the 'Application Failed to Launch Properly' Error Code 0xC000007B</u></a></li>
+<li><a href="https://common-error.techidaily.com/noise-returns-fix-for-laptops-missing-headset-echoes/"><u>Noise Returns: Fix for Laptop's Missing Headset Echoes</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-setting-synchronization-on-geforce-software/"><u>Overcoming Challenges with Setting Synchronization on GeForce Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-a-nonfunctional-aoc-display-unit-in-compatibility-mode-for-win10-systems/"><u>Reviving a Nonfunctional AOC Display Unit in Compatibility Mode for Win10 Systems</u></a></li>
+<li><a href="https://win-guides.techidaily.com/simplify-your-website-updates-with-flipbuilder-replace-individual-pages-easily-without-overhauling-entire-site/"><u>Simplify Your Website Updates with FlipBuilder - Replace Individual Pages Easily without Overhauling Entire Site</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stellar-overhauls-data-recovery-software-focusing-on-simplified-consumer-experience-latest-update-news/"><u>Stellar Overhauls Data Recovery Software, Focusing on Simplified Consumer Experience - Latest Update News</u></a></li>
+<li><a href="https://common-error.techidaily.com/technological-troubleshooting-pc-cant-cut-the-snooze/"><u>Technological Troubleshooting: PC Can't Cut the Snooze</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-desktop-icon-dilemma-solved-a-comprehensive-guide/"><u>Windows 10 Desktop Icon Dilemma [SOLVED]: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: User-Friendly Fixes for werFault.exe Software Malfunction
-date: 2024-08-27T13:44:00.191Z
-updated: 2024-08-28T13:44:00.191Z
+date: 2024-11-30T00:19:55.927Z
+updated: 2024-12-04T06:41:16.894Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  If you can’t hear any sound from Xbox One Headset or others can’t hear you while enjoying games, that would be so irritating, either chat headset or a stereo one. Fortunately, you can solve the issue with the effective solutions here. Go with this post, fix**Xbox One headset not working** issue on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Xbox One Headset Not Working?
 
  This article covers 5 tired-and-true methods for you to try. You may not need to try them all. Just start from the top and work your way down. You Xbox One headset may work fine again.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 4. [Make sure your controller has fresh batteries](https://tools.techidaily.com/drivereasy/download/)
 5. [Try using a different controller or headset](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Make sure the headset is not muted
 
  If the mute feature is enabled by accident, you can’s hear any sound then. When you find your Xbox One headset not working, the first thing is to check if it’s muted.
@@ -37,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5991543d8fdf2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Method 2\. Update Xbox One controller to make sure you have the latest software
 
  Your controller’s software should be up-to-date to enable the headset adapter works properly.
@@ -60,9 +65,6 @@ Follow the steps here to update your Xbox One controller software.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915be191b71.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)  
 
  Click**Search automatically for updated driver software** .
@@ -70,8 +72,9 @@ Follow the steps here to update your Xbox One controller software.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915bfa7e24c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now Windows will detect the update for your controller automatically.
 
  For some reasons, Microsoft cannot find the update for you. In order not to missing the update, you can try**Driver Easy** .
@@ -86,23 +89,22 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915e0fb9762.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3\. Check your device’s connection
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4\. Make sure your controller has fresh batteries
 
  When the batteries of your controller become weak, your headset could not work properly, either. In such case, you can try replace with new batters for you controller to see if the headset works.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 5\. Try using a different controller
 
  If after all the resolution above, your Xbox One headset still keeps not working, please try to connect another headset with your controller. If it works on another controller, maybe you should use a new controller to replace the previous one.
@@ -115,8 +117,6 @@ With Pro version: Click **Update All**  to automatically download and install th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,21 @@ With Pro version: Click **Update All**  to automatically download and install th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-sky-excellence-best-add-ons-for-your-phantom-4-drone/"><u>[New] 2024 Approved Sky Excellence Best Add-Ons for Your Phantom 4 Drone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elite-fight-club-best-of-10-battle-royale-titles/"><u>[New] Elite Fight Club Best of 10 Battle Royale Titles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-premier-fifa-vids-data-visualized-for-social-media/"><u>[New] Premier FIFA Vids Data Visualized for Social Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nlock-the-full-potential-of-your-youtube-videos-with-these-tips/"><u>[New] Unlock the Full Potential of Your YouTube Videos with These Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-choosing-prime-windows-11-editing-software/"><u>[Updated] 2024 Approved Choosing Prime Windows 11 Editing Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-video-vanishing-act-cutting-duration-on-youtube/"><u>[Updated] Video Vanishing Act Cutting Duration on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-your-pc-not-charging-despite-being-plugged-in-under-windows-os/"><u>How to Solve Your PC Not Charging Despite Being Plugged In Under Windows OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-enhance-your-marketing-game-the-top-15-social-media-analyzers-to-increase-e-commerce/"><u>In 2024, Enhance Your Marketing Game The Top 15 Social Media Analyzers to Increase E-Commerce</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-your-pc-ignoring-headphones-a-comprehensive-guide/"><u>Solving the Issue of Your PC Ignoring Headphones: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-remedied-stuck-and-unresponsive-toshiba-keyboard-keys/"><u>Successfully Remedied: Stuck and Unresponsive Toshiba Keyboard Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207529481-troubleshoot-and-fix-windows-10-bluetooth-connectivity-problems-fast/"><u>Troubleshoot and Fix Windows 10 Bluetooth Connectivity Problems Fast!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unveiling-3-techniques-for-retrieving-mp4-videos-hidden-in-html-pages/"><u>Unveiling 3 Techniques For Retrieving MP4 Videos Hidden in HTML Pages</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/vob-wma/"><u>VOB 파일을 WMA로 자유성 전원 대화형 변환 - 이메일, 비디오, 그리고 음악</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209710703-windows-10-not-turning-off-heres-how-to-resolve-the-issue/"><u>Windows 10 Not Turning Off? Here’s How to Resolve the Issue</u></a></li>
+</ul></div>
 

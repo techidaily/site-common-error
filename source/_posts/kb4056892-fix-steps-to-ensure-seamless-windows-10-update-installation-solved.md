@@ -1,7 +1,7 @@
 ---
 title: "KB4056892 Fix: Steps to Ensure Seamless Windows 10 Update Installation [SOLVED]"
-date: 2024-11-17T22:10:39.227Z
-updated: 2024-11-25T03:41:46.481Z
+date: 2024-12-02T00:48:49.365Z
+updated: 2024-12-03T16:27:54.182Z
 tags:
   - win11
   - win10
@@ -43,16 +43,12 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap828.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the pop-up window, select **Windows Update** and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes** to run Windows Update troubleshooter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap829-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Apply this fix** to continue.
@@ -106,7 +102,7 @@ net start cryptsvc
  Check to see if this resolved your Windows Update problem. Hopefully it did. But if not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run the DISM tool
@@ -122,10 +118,6 @@ Dism /Online /Cleanup-Image /ScanHealth
  When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It may take several minutes for this command operation to be completed.
 
@@ -147,7 +139,15 @@ Dism /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try performing a Windows update to see if this fixes works. If this issue persists, try running the System File Checker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run System File Checker
 
@@ -162,10 +162,6 @@ sfc /scannow
 It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) When this command operation is completed, close **Command Prompt** .
 
@@ -193,6 +189,10 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-5.png)
@@ -200,10 +200,6 @@ It may take some time for the command operation to be completed.
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Update Windows from the Windows 10 ISO file
 
@@ -216,6 +212,10 @@ _You can do it for free if you like, but it’s partly manual._
  2) Click **Download tool now** on the web page to download the media creation tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-7-1024x511.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Double-click** the downloaded file to open the media creation tool. Click **Yes**  when you’re prompted for permission.
 
@@ -231,15 +231,15 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-15.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:**  If the installed memory of your PC is less than**4GB** , it’s recommended that you select the 32-bit architecture.
 
  7) Select **ISO file** and click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Select the location to save the Windows 10 ISO file. After that, the media creation tool will start to download **Windows 10 ISO file** .
 
@@ -250,7 +250,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-18.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Start updating
@@ -259,6 +259,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, double-click the file**setup** .**exe** . You’ll be prompted for permission. Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-10.png)
@@ -266,10 +270,6 @@ _You can do it for free if you like, but it’s partly manual._
  3) When you see the following window, select**Not right now** then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-19.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to update your Windows 10 OS. During the installation, your computer will restart several times.
 
@@ -295,16 +295,18 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-vivacuts-video-editing-features/"><u>[New] The Ultimate Guide to VivaCut's Video Editing Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-srt-download-from-youtube-with-3-tactics/"><u>[Updated] Navigating SRT Download From YouTube with 3 Tactics</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effective-methods-to-exit-programs-on-your-google-smart-television/"><u>Effective Methods to Exit Programs on Your Google Smart Television</u></a></li>
-<li><a href="https://common-error.techidaily.com/ensure-smooth-gameplay-how-to-successfully-pair-an-unpaired-xbox-one-controller-with-the-console/"><u>Ensure Smooth Gameplay: How to Successfully Pair an Unpaired Xbox One Controller with the Console</u></a></li>
-<li><a href="https://fox-info.techidaily.com/exploring-next-gen-vector-software-for-designers-for-2024/"><u>Exploring Next-Gen Vector Software for Designers for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-pcs-sound-a-5-step-guide-for-windows-10-users/"><u>Fix Your PC's Sound: A 5-Step Guide for Windows 10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-overcome-undetected-bluetooth-gadgets-problem-in-windows-10-computers/"><u>Guide to Overcome Undetected Bluetooth Gadgets Problem in Windows 10 Computers</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-motorola-edgeplus-2023-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Edge+ (2023) Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mood-matcher-auditory-selection-for-videos/"><u>Mood Matcher Auditory Selection for Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-for-fixing-the-file-not-found-or-inaccessible-error-on-your-windows-machine/"><u>Tips for Fixing the 'File Not Found or Inaccessible' Error on Your Windows Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-laptop-keyboards-for-windows-users-win-10-8-and-7/"><u>Troubleshooting and Repairing Laptop Keyboards for Windows Users [WIN 10, 8 & 7]</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ouble-down-on-youtube-visibility-2-quick-methods/"><u>[New] Double Down on YouTube Visibility (2 Quick Methods)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-capturing-charm-sage-advice-on-editing-digital-art/"><u>[New] In 2024, Capturing Charm Sage Advice on Editing Digital Art</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ranking-of-free-easy-to-use-image-overlay-apps-on-smartphones-for-2024/"><u>[New] Ranking of Free, Easy-to-Use Image Overlay Apps on Smartphones for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-leading-8-multimedia-apps-for-creative-phones-android-ios-for-2024/"><u>[New] The Leading 8 Multimedia Apps for Creative Phones (Android, iOS) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-rhythmic-reels-how-to-pick-beats-for-ig-content/"><u>[Updated] 2024 Approved Rhythmic Reels How to Pick Beats for IG Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-free-cam-screen-recorder-review-and-best-alternative-for-2024/"><u>[Updated] Free Cam Screen Recorder Review and Best Alternative for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-best-3ip-apps-to-record-clear-speech-on-ipads/"><u>2024 Approved Best 3iP Apps to Record Clear Speech on iPads</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-for-restoring-access-to-vanished-steam-file-permissions/"><u>Essential Fixes for Restoring Access to Vanished Steam File Permissions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-recording-techniques-capturing-your-valorant-sessions-with-zero-frame-drops/"><u>Seamless Recording Techniques: Capturing Your Valorant Sessions with Zero Frame Drops</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-power-surge-on-hub-port/"><u>Solved: Power Surge on Hub Port</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-connecting-your-airpods-to-pcs-windows-edition/"><u>Troubleshooting Steps for Connecting Your AirPods to PCs - Windows Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-non-functional-right-click-on-mouse-under-windows-10/"><u>Troubleshooting: Fixing the Non-Functional Right Click on Mouse Under Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-critical-issues-in-black-ops-4/"><u>Ultimate Guide: Resolving Critical Issues in Black Ops 4</u></a></li>
 </ul></div>
 

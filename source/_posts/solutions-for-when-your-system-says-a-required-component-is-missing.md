@@ -1,7 +1,7 @@
 ---
 title: Solutions for When Your System Says a Required Component Is Missing
-date: 2024-11-21T23:30:11.933Z
-updated: 2024-11-24T20:17:11.972Z
+date: 2024-12-01T02:07:31.099Z
+updated: 2024-12-03T22:29:49.367Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ Read on this page and follow the steps:
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Disable the full screen optimization of your game application
@@ -54,7 +54,7 @@ To do that, please follow these easy steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a75563e4f956.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click on your game .exe file and select **Properties** .
@@ -62,7 +62,7 @@ To do that, please follow these easy steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7556d9700b6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Tick on **Disable fullscreen optimizations**  under the **Compatibility**  pane. Then click **Apply**  \> **OK** .
@@ -70,10 +70,6 @@ To do that, please follow these easy steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7557a69aaf6.png)
 
 4) Relaunch your game application to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your graphics card driver
 
@@ -91,6 +87,10 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755a27bdf2b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged graphics card driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -98,7 +98,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755f4db1724.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer to make the new driver take effect, and relaunch your game to see if it works now.
@@ -120,20 +120,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-innovative-titles-to-lengthen-viewing-times-within-limit/"><u>[New] 2024 Approved Innovative Titles to Lengthen Viewing Times (Within Limit)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-expert-strategies-elevating-interview-audio-quality-with-iphoneipad/"><u>[New] In 2024, Expert Strategies Elevating Interview Audio Quality with iPhone/iPad</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-prime-sites-where-your-presents-stand-out-in-a-sea-of-boxes-for-2024/"><u>[Updated] Prime Sites Where Your Presents Stand Out in a Sea of Boxes for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-finding-chrome-companions-custom-melodies/"><u>2024 Approved Finding Chrome Companion's Custom Melodies</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-for-resolving-steam-server-not-found-errors-and-connectivity-problems/"><u>Effective Strategies for Resolving Steam Server Not Found Errors and Connectivity Problems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effective-techniques-for-scaling-down-ultra-hd-videos/"><u>Effective Techniques for Scaling Down Ultra HD Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-disk-space-consumption-caused-by-windows-11s-compatibility-telemetry/"><u>How to Fix Elevated Disk Space Consumption Caused by Windows 11'S Compatibility Telemetry</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-ce-34878-0-code-on-your-playstation-4-a-step-by-step-guide/"><u>How To Fix the CE-34878-0 Code on Your PlayStation 4: A Step-by-Step Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-15-pro-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 15 Pro Max Without Previous Owner?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-mouse-right-click-not-working-in-windows-11/"><u>How To Solve Mouse Right Click Not Working in Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-se-2020-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone SE (2020)?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-link-distribution-for-your-chatgpt-interactions/"><u>Mastering the Art of Link Distribution for Your ChatGPT Interactions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/recording-your-world-how-camstudio-redefined/"><u>Recording Your World - How CamStudio Redefined</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-how-to-access-and-drag-windows-that-are-not-visible-on-monitor-edge/"><u>Solution: How to Access and Drag Windows That Are Not Visible on Monitor Edge</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-windows-n64-class-registration-failures/"><u>Step-by-Step Guide: Resolving Windows N64 Class Registration Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208817323-resolved-end-excessive-heat-and-reduce-cpu-pressure-the-complete-guide-on-dealing-with-high-load-due-to-shell-infrastructures/"><u>[Resolved] End Excessive Heat & Reduce CPU Pressure - The Complete Guide on Dealing with High Load Due To Shell Infrastructures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-expand-your-creative-toolkit-incorporating-custom-fonts-into-after-effects-for-2024/"><u>[Updated] Expand Your Creative Toolkit Incorporating Custom Fonts Into After Effects for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-c-span-archive-download-legally-without-expense/"><u>2024 Approved C-Span Archive Download Legally Without Expense</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-happy-enrollment-and-logout-flowchart/"><u>2024 Approved Happy Enrollment & Logout Flowchart</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-windows-11-unwanted-red-display-problems/"><u>Effective Solutions for Windows 11 Unwanted Red Display Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-a-non-functioning-microphone-on-google-hangouts/"><u>Effortless Fixes for a Non-Functioning Microphone on Google Hangouts</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reduce-high-wudfhostexe-cpu-impact-on-windows-11-devices/"><u>How to Reduce High WUDFHost.exe CPU Impact on Windows 11 Devices</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-to-seamlessly-update-printer-drivers-with-yl-softwares-comprehensive-tutorial/"><u>How To Seamlessly Update Printer Drivers With YL Software's Comprehensive Tutorial</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/navigating-the-shifting-landscape-understanding-modern-supply-chain-vulnerabilities-amidst-pandemic-recovery/"><u>Navigating the Shifting Landscape: Understanding Modern Supply Chain Vulnerabilities Amidst Pandemic Recovery</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-windows-10-bluetooth-problems-instantly-simple-solutions-inside/"><u>Resolve Your Windows 10 Bluetooth Problems Instantly – Simple Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208835262-solving-steelseries-arctis-amor-problems-fixing-the-microphone-not-working/"><u>Solving SteelSeries Arctis amoR Problems - Fixing the Microphone Not Working</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-exploring-computer-components/"><u>Tom's Tech Insights: Exploring Computer Components</u></a></li>
 </ul></div>
 

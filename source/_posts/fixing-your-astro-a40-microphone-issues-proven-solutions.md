@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Astro A40 Microphone Issues: Proven Solutions"
-date: 2024-11-21T17:22:28.614Z
-updated: 2024-11-24T21:06:58.331Z
+date: 2024-11-27T20:30:37.665Z
+updated: 2024-12-03T23:57:30.569Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes for**Microphone Not Working On Laptop**
@@ -35,10 +35,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -49,10 +45,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -60,10 +52,6 @@ Here’s how to do it:
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -81,6 +69,10 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -102,6 +94,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
@@ -109,12 +105,16 @@ To do so:
 5. Click **OK**  to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -149,16 +149,20 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-15-android-games-dive-into-fantasy/"><u>[Updated] In 2024, Top 15 Android Games Dive Into Fantasy</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unlocking-srt-files-accessing-on-windowsmac/"><u>[Updated] Unlocking SRT Files Accessing on Windows/Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/camstudio-updates-the-2023-guide-for-screen-recording-pros-for-2024/"><u>CamStudio Updates The 2023 Guide for Screen Recording Pros for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/dji-robomaster-s1-mastering-fun-strategy-and-skills-in-one-amazing-tank-drone-experience/"><u>DJI RoboMaster S1: Mastering Fun, Strategy, & Skills in One Amazing Tank Drone Experience!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-making-your-laptop-trackpad-work-again-on-different-versions-of-windows/"><u>Step-by-Step Solution: Making Your Laptop Trackpad Work Again on Different Versions of Windows</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/tips-to-repair-widespread-avi-file-problems/"><u>Tips to Repair Widespread AVI File Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211678844-troubleshooting-a-non-functional-usb-port-on-your-dell-device-solutions-revealed/"><u>Troubleshooting a Non-Functional USB Port on Your Dell Device - Solutions Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-pcs-that-are-frozen-on-preparing-to-load-windows/"><u>Troubleshooting PCs That Are Frozen on 'Preparing to Load Windows'</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/twist-tactics-achieving-angles-that-stand-out-on-social-media-for-2024/"><u>Twist Tactics Achieving Angles That Stand Out on Social Media for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-damaged-windows-1011-system-files/"><u>Ultimate Guide: Repairing Damaged Windows 10/11 System Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/victory-over-videogame-void-solving-the-obs-capture-screen-discoloration-problem/"><u>Victory over Videogame Void: Solving the OBS Capture Screen Discoloration Problem</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-ios-excellence-leading-apps-to-unlock-youtube-videos/"><u>[New] In 2024, IOS Excellence Leading Apps to Unlock YouTube Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-music-for-instagram-videos-here-is-all-you-need-to-know/"><u>[New] In 2024, Music for Instagram Videos - Here Is All You Need to Know</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-exploring-affordable-virtual-reality-gear-from-china/"><u>[Updated] Exploring Affordable Virtual Reality Gear From China</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-direct-from-twitter-posting-engaging-video-content-on-snapchat/"><u>2024 Approved Direct From Twitter Posting Engaging Video Content on Snapchat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-fast-with-premiere-pro/"><u>2024 Approved Fading Fast with Premiere Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-troubleshooting-for-windows-update-error-understanding-and-solving-0x800f0831/"><u>Effortless Troubleshooting for Windows Update Error: Understanding and Solving 0X800F0831</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-the-cache-miss-problem-errcachemiss-error-on-chrome/"><u>Guide to Fixing the 'Cache Miss' Problem – ERR_CACHE_MISS Error on Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-fixing-lost-or-disappearing-bluetooth-devices-on-windows-10-easily/"><u>Guide: Fixing Lost or Disappearing Bluetooth Devices on Windows 10 Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-10-configuration-failure-error-and-get-your-system-running-again/"><u>How to Fix 'Windows 10 Configuration Failure' Error and Get Your System Running Again</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-your-pc-cant-close-windows-10-os-successfully-fixed/"><u>How to Resolve Your PC Can't Close Windows 10 OS Successfully – FIXED</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-trustee-rights-requesting-access-from-trustedinstaller-to-modify-files/"><u>Navigating Trustee Rights: Requesting Access From TrustedInstaller to Modify Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-driver-hurdles-a-users-handbook-for-the-logitech-wireless-mouse-f710-and-windows-os-compatibility/"><u>Overcoming Driver Hurdles: A User's Handbook for the Logitech Wireless Mouse F710 and Windows OS Compatibility</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-respecting-musicians-rights-on-ig-for-2024/"><u>The Ultimate Guide to Respecting Musicians' Rights on IG for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-quick-and-effective-ways-to-fix-lagging-in-pubg/"><u>Ultimate Guide: Quick and Effective Ways to Fix Lagging in PUBG!</u></a></li>
 </ul></div>
 

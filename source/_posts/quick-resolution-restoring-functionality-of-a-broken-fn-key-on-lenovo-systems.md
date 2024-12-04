@@ -1,7 +1,7 @@
 ---
 title: "Quick Resolution: Restoring Functionality of a Broken Fn Key on Lenovo Systems"
-date: 2024-11-20T19:36:56.807Z
-updated: 2024-11-24T22:11:44.301Z
+date: 2024-11-28T18:45:37.663Z
+updated: 2024-12-03T23:59:16.354Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Fixes for Personalized Settings (Not Responding)
 
@@ -53,14 +57,14 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the middle of your computer screen, click**Sign out** .
 4. Log in your computer and see if you get your desktop back this time. If the**Personalized Settings (Not Responding)** still lingers on, you should try **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Re-launch Windows explorer
 
@@ -70,15 +74,11 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 3. Click**File** \>**Run new task** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
 4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
 
@@ -87,23 +87,19 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Run SFC Command
 
 1. On your keyboard, press the **Windows logo key**  and type**cmd** . Then right click on**Command Prompt** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Yes** when prompted to confirm.
 2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
 
@@ -122,18 +118,23 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 3. Right-click on**the last file** and click**Export** to back up the file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
  If this fix doesn’t help with the situation, you might want to import the file to restore the backup. Check out **[this link](https://tools.techidaily.com/drivereasy/download/)**  for further information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on**the last file** and click**Delete** .
 5. Restart your computer and see if your desktop comes back.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
@@ -161,24 +162,15 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-reels-adding-your-own-soundtrack/"><u>[New] Mastering Instagram Reels Adding Your Own Soundtrack</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unleashing-creativity-with-mobile-melodies-on-iphone-for-2024/"><u>[New] Unleashing Creativity with Mobile Melodies on iPhone for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-civ-6-not-launching-on-windows-10/"><u>[SOLVED] Civ 6 Not Launching on Windows 10</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-deciphering-youtubes-profit-for-a-mil-of-viewers/"><u>[Updated] In 2024, Deciphering YouTube’s Profit for A Mil of Viewers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-premium-choices-in-video-capture-tools-for-websites/"><u>[Updated] Premium Choices in Video Capture Tools for Websites</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressed-compliance-issue-in-hid-aware-touch-interface/"><u>Addressed Compliance Issue in HID-Aware Touch Interface</u></a></li>
-<li><a href="https://common-error.techidaily.com/airpods-wont-pair-with-windows-11-expert-fixes-and-updates-connection-woes/"><u>AirPods Won't Pair With Windows 11? Expert Fixes and Updates Connection Woes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/audio-artistry-in-a-download-top-7-vocal-transformation-apps-reviewed-for-2024/"><u>Audio Artistry in a Download Top 7 Vocal Transformation Apps Reviewed for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-87-solved-correct-loadlibrary-call-parameters-in-windows-systems/"><u>Error 87 Solved: Correct LoadLibrary Call Parameters in Windows Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-quickly-repair-werfaultexe-program-errors/"><u>How to Quickly Repair werFault.exe Program Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/igfx-module-malfunction-resolved-expert-guidance-for-troubleshooting-steps/"><u>IGFX Module Malfunction Resolved - Expert Guidance for Troubleshooting Steps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-fixation-restored-input-functionality/"><u>Keyboard Fixation: Restored Input Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-stutters-no-more-fixing-delay-on-windows-10-systems/"><u>Keyboard Stutters No More: Fixing Delay on Windows 10 Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-ps5-controller-on-your-windows-pc/"><u>Navigating PS5 Controller on Your Windows PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/online-mkvmjpeg-converter-wijziging-naar-gratiesoftware-movavi-duurvrije-en-eenvoudige/"><u>Online MKV/MJPEG Converter Wijziging Naar Gratiesoftware - Movavi, Duurvrije En Eenvoudige</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-solution-eradicating-screen-flickering-in-valorant/"><u>Ultimate Solution: Eradicating Screen Flickering in VALORANT</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-light-dimmer-malfunction-heres-the-solution/"><u>Windows 10 Light Dimmer Malfunction? Here's the Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-missing-codec-0xc00d5212-error-on-window-1110/"><u>[FIXED] Missing Codec 0Xc00d5212 Error on Window 11/10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-a-step-by-step-guide-to-mastering-business-on-snap/"><u>[New] A Step-by-Step Guide to Mastering Business on Snap</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-a-frozen-frostpunk-screen-troubleshooting-tips-and-solutions/"><u>Fixing a Frozen Frostpunk Screen: Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/handling-windows-errors-fixing-inaccessible-file-or-hard-drive-issues/"><u>Handling Windows Errors: Fixing Inaccessible File or Hard Drive Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-se-2020-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone SE (2020)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-perform-operations-that-need-admin-rights-on-windows-11107/"><u>How to Perform Operations that Need Admin Rights on WIndows 11/10/7</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-full-picture-unraveling-the-google-podcast-application/"><u>In 2024, Full Picture Unraveling the Google Podcast Application</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-iphone-retention-or-switching/"><u>The Ultimate Guide to iPhone Retention or Switching</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-emotion-analysis-with-artificial-intelligence-systems/"><u>Understanding Emotion Analysis with Artificial Intelligence Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-configuration-error-fixes-what-you-need-to-know-solved/"><u>Windows 11 Configuration Error Fixes – What You Need to Know [Solved]</u></a></li>
 </ul></div>
 

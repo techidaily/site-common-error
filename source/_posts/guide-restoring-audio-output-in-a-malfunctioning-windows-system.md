@@ -1,7 +1,7 @@
 ---
 title: "Guide: Restoring Audio Output in a Malfunctioning Windows System"
-date: 2024-11-18T18:13:11.627Z
-updated: 2024-11-24T19:00:12.472Z
+date: 2024-12-01T07:41:23.777Z
+updated: 2024-12-03T21:48:17.009Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
@@ -51,10 +51,6 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -66,7 +62,7 @@ Follow these:
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
@@ -91,7 +87,15 @@ Follow these:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -109,10 +113,6 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -120,7 +120,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
@@ -142,19 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-experts-guide-to-recording-mp4-videos/"><u>[New] Expert's Guide to Recording MP4 Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unveiling-the-power-of-gopro-hero5-sessions-for-2024/"><u>[New] Unveiling the Power of GoPro Hero5 Sessions for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-navigating-social-media-app-selection-tiktok-or-youtubes-shorts-preference/"><u>[Updated] In 2024, Navigating Social Media App Selection TikTok or YouTubes' Shorts Preference</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-when-your-system-says-binkw32dll-is-missing/"><u>Comprehensive Fixes for When Your System Says 'binkw32.dll' Is Missing</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-a-livekernelevent-misfire-error-117-explained/"><u>How to Correctly Address a LiveKernelEvent Misfire, Error 117 Explained</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-honor-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Honor</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-privacy-features-versus-facebook-in-oculus-quest/"><u>Meta's Privacy Features Versus Facebook in Oculus Quest</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-windows-connection-issues-with-the-event-log-service/"><u>Resolved: Fixing Windows Connection Issues with the Event Log Service</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issues-with-your-pc-not-starting-up-heres-why/"><u>Resolved: Issues with Your PC Not Starting Up – Here's Why</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/toolwiz-revolutionizes-camera-use-a-comprehensive-review-for-photographers-for-2024/"><u>Toolwiz Revolutionizes Camera Use - A Comprehensive Review for Photographers for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-lenovo-mouse-pad-problems-in-win-1187-step-by-step-solutions-to-work/"><u>Troubleshoot Lenovo Mouse Pad Problems in Win 11/8/7: Step-by-Step Solutions to Work</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-isnt-my-logitech-keyboard-working-on-windows-10/"><u>Troubleshooting Guide: Why Isn't My Logitech Keyboard Working on Windows 10?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-fast-forward-best-gif-speed-editors-for-any-device/"><u>Updated Fast Forward Best GIF Speed Editors for Any Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/wma-to-m4r-movavi/"><u>WMA to M4R 변환에 대한 비용 없는 해상도 가이드: 인터넷을 통한 Movavi의 접갈기</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-navigating-zoom-recordings-for-business-success/"><u>[New] In 2024, Navigating Zoom Recordings for Business Success</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nleash-the-power-of-your-youtube-channel-with-expert-editing-techniques/"><u>[New] Unleash the Power of Your YouTube Channel with Expert Editing Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-thumbnail-downloader-solutions-online-for-2024/"><u>[Updated] Free Thumbnail Downloader Solutions Online for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-poco-x5-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco X5 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-play-fortnite-with-non-compatible-graphics-cards-on-windows-solutions-explored/"><u>How to Play Fortnite with Non-Compatible Graphics Cards on Windows: Solutions Explored</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-to-transfer-your-data-from-windows-1011-to-a-brand-new-hard-disk-learn-3-methods/"><u>How To Transfer Your Data From Windows 10/11 To A Brand New Hard Disk - Learn 3 Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210285213-laptop-charger-issues-fix-your-non-charging-battery-swiftly/"><u>Laptop Charger Issues? Fix Your Non-Charging Battery Swiftly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-tv-saves-win-friendly-options-available/"><u>Mastering TV Saves Win-Friendly Options Available</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964502969-new-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through-which-you-c/"><u>New Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/pinpointing-and-resolving-windows-10-copypaste-errors/"><u>Pinpointing & Resolving Windows 10 Copy/Paste Errors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/richer-screen-content-filter-integration-on-devices/"><u>Richer Screen Content Filter Integration on Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correcting-error-0x8024401c-during-windows-1011-updates/"><u>Step-by-Step Guide to Correcting Error 0X8024401C During Windows 10/11 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-easy-fix-for-change-rendering-api-error-dota-2-err-2024/"><u>Step-by-Step Guide: Easy Fix for 'Change Rendering API' Error - Dota 2 (Err 2024)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-top-9-webcam-filters-for-professional-streamers/"><u>Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-components-must-be-repaired-fixed/"><u>Windows Update Components Must Be Repaired [FIXED]</u></a></li>
 </ul></div>
 

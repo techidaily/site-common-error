@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue When Your Lenovo Keyboard Fails to Respond
-date: 2024-11-20T03:40:28.829Z
-updated: 2024-11-24T21:48:15.358Z
+date: 2024-11-28T05:26:50.533Z
+updated: 2024-12-04T03:17:23.553Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,13 +32,17 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 2. [**Uninstall and reinstall Razer Synapse**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
@@ -54,7 +58,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
@@ -65,7 +69,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
@@ -83,10 +87,6 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 3. Click the **Update**  button next to the flagged device to automatically download the correct version of its driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)  
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
@@ -110,15 +110,19 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-error-code-0x80072f8f-windows-1110/"><u>[SOLVED] How to Fix Error Code 0X80072f8f Windows 11/10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-discovering-8-cost-effective-video-meeting-software-options/"><u>[Updated] In 2024, Discovering 8 Cost-Effective Video Meeting Software Options</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-your-spotify-collection-with-youtube-music-integration/"><u>2024 Approved Enhancing Your Spotify Collection with YouTube Music Integration</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-problem-of-stopped-applicationexe/"><u>Diagnosing and Fixing the Problem of Stopped 'Application.exe'</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-it-fast-quick-solutions-when-your-dell-laptops-keyboard-fails-to-function/"><u>Fix It Fast: Quick Solutions When Your Dell Laptop's Keyboard Fails to Function</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-non-responsive-service-delay-understanding-and-correcting-error-1053/"><u>Fixing the Non-Responsive Service Delay - Understanding and Correcting Error 1053</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-dvd-player-for-windows-10-our-top-10-picks-for-2024/"><u>Free DVD Player for Windows 10 Our Top 10 Picks for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-barnes-and-noble-nook-glowlight-3-your-ideal-device-for-reading-at-night/"><u>In-Depth Analysis of the Barnes & Noble Nook GlowLight 3 - Your Ideal Device for Reading at Night</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/review-of-the-compact-and-powerful-cherry-kw-9200-mini-keyboard/"><u>Review of the Compact & Powerful Cherry KW 9200 Mini Keyboard</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-5-omnidirectional-recording-gadgets-for-2024/"><u>Top 5 Omnidirectional Recording Gadgets for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-essential-10-boosters-for-multi-device-use/"><u>[Updated] 2024 Approved Essential 10 Boosters for Multi-Device Use</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfect-your-content-with-vimeo-on-instagram/"><u>[Updated] In 2024, Perfect Your Content with Vimeo on Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ancient-art-of-role-playing-evolutionary-trajectory/"><u>[Updated] In 2024, The Ancient Art of Role-Playing Evolutionary Trajectory</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-upgrading-made-easy-your-guide-to-smooth-tech-transitions/"><u>2024 Approved Upgrading Made Easy Your Guide to Smooth Tech Transitions</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-windows-cannot-boot-hardware-device-code-n-for-optical-drives-in-microsofts-latest-operating-system/"><u>Diagnosing and Fixing Windows Cannot Boot Hardware Device (Code N) for Optical Drives in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-windows-10s-clipboard-performance/"><u>Enhancing Windows 10'S Clipboard Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-movie-night-with-kids-using-these-fantastic-free-film-sites/"><u>Enjoy Movie Night with Kids Using These Fantastic Free Film Sites</u></a></li>
+<li><a href="https://common-error.techidaily.com/msvcr120dll-missing-in-windows-1110/"><u>MSVCR120.dll Missing in Windows 11/10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/record-screen-on-xiaomi-11t-mi-11mi-11-lite/"><u>Record Screen on Xiaomi 11T/ Mi 11/Mi 11 Lite</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/replace-vanished-facebook-watch-icon/"><u>Replace Vanished Facebook Watch Icon</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-non-functional-widgets-on-ios-devices-in-just-10-steps/"><u>Resolve Non-Functional Widgets on iOS Devices in Just 10 Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-on-debugging-minecrafts-opengl-errors/"><u>Step-by-Step Tutorial on Debugging Minecraft's OpenGL Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-offline-steam-services-solutions-at-hand/"><u>Troubleshooting Offline Steam Services – Solutions at Hand!</u></a></li>
+<li><a href="https://win-best.techidaily.com/windows-10-mbrgpt-ssd/"><u>Windows 10 遷移指南: 安全地將MBR裝置升級為GPT SSD</u></a></li>
 </ul></div>
 

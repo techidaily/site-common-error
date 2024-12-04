@@ -1,7 +1,7 @@
 ---
 title: "[RESTART] Triggered By Gameplay"
-date: 2024-11-20T18:57:12.848Z
-updated: 2024-11-24T23:28:17.579Z
+date: 2024-11-28T05:29:41.993Z
+updated: 2024-12-04T06:58:11.130Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 6. [**Run System File Checker**](#m6)
 7. [**Check for viruses and malware**](#m7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Lower in-game settings
 
  Some games have specific minimum system requirements for your system to be able to play them seamlessly. If your computer has met the minimum system requirements of the game, you can try lowering in-game settings and see if this helps unfreeze your computer. If not, try Method 2, below.
@@ -62,10 +66,14 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/graphic-chipset-1.jpg)
 4. Restart your computer and check if your game now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Clear your temp files
@@ -81,6 +89,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Run a memory check
 
  A faulty memory card is also known to cause a computer to freeze. To see if this is causing your problem, you should run a memory check:
@@ -89,21 +101,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa67ec5aba2.png)
 2. If you want to run the check immediately, click**Restart now and check for problems (recommended)** . If you want to check later, click**Check for Problems the next time I start my computer** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa67cd8214e.jpg)
 3. When Windows restarts, this screen will appear showing the progress of the check and the number of passes it’ll run on your memory card.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa89992510a.jpg)  
  If you don’t see any errors, your memory card probably isn’t causing your problem, and you can move on to Method 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Adjust the size of your virtual memory
 
@@ -116,22 +124,14 @@ OR
 2. Click the**Advanced** tab, then click the**Settings** button in the Performance section.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6db7a7b90.jpg)
 3. From the**Advanced** tab, click**Change…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e0a6f204.jpg)
 4. De-select**Automatically manage paging file size for all drives** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e4d0df27.jpg)
 5. **Select** your system drive ( the hard drive or partition where you installed your system — usually**C:** ), and select**Custom size** , enter the**Initial size** and**Maximum size** for your virtual memory. Click**Set** , then**OK** .  
@@ -139,6 +139,10 @@ OR
    * **Maximum size** — Don’t set this value too high. It should be about**1.5 times** the size of your physical RAM. For example, a computer with 4 GB (4096 MB) of RAM should have no more than about 6,144 MB virtual memory (4,096 MB x 1.5).  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa72695eb05.jpg)
 6. Restart your game and check if your problem is resolved. If not, try Method 6, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -153,14 +157,10 @@ OR
 3. It should begin running a system scan and will take some time. When it finishes, restart your computer and check if it has fixed your problem. If not, try the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 7: Check for viruses and malware
 
@@ -191,24 +191,22 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-role-of-b-roll-in-polishing-video-projects/"><u>[New] 2024 Approved The Role of B-Roll in Polishing Video Projects</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-capturing-your-mi-11-screens-step-by-step/"><u>[New] In 2024, Capturing Your Mi 11 Screens - Step by Step</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-elevate-your-tiktok-must-know-editing-insights/"><u>2024 Approved Elevate Your TikTok Must-Know Editing Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/compatibility-check-required-a-graphics-processor-with-directx-11-support-is-mandatory/"><u>Compatibility Check Required: A Graphics Processor with DirectX 11 Support Is Mandatory</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-broken-usb-interface-problems-within-windows-11-environments/"><u>Effective Solutions for Broken USB Interface Problems Within Windows 11 Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-how-to-troubleshoot-and-fix-werfaultexe-issues-on-windows-pcs/"><u>Effective Strategies: How To Troubleshoot and Fix werfault.exe Issues On Windows PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-finest-ups-units-of-2024-a-comparative-review/"><u>Exploring the Finest UPS Units of 2024 - A Comparative Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-combat-the-critical-process-died-error-0xc0000005-on-your-pc-a-complete-fix-guide-for-windows-users/"><u>How to Combat the Critical Process Died Error (0XC0000005) on Your PC: A Complete Fix Guide for Windows Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-a15-4g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy A15 4G Activity | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-itel-s23-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Itel S23</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/lose-not-the-tracking-of-your-sd-cards/"><u>Lose Not the Tracking of Your SD Cards!</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-solution-addressing-renderer-initialization-problems-in-modern-web-browsers/"><u>Master the Solution: Addressing Renderer Initialization Problems in Modern Web Browsers</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigate-with-ease-expert-tips-for-optimizing-file-explorer-in-windows-11/"><u>Navigate with Ease: Expert Tips for Optimizing File Explorer in Windows 11</u></a></li>
-<li><a href="https://fox-info.techidaily.com/pixel-perfect-portfolits-the-leading-websites-for-photo-framing/"><u>Pixel-Perfect Portfolits The Leading Websites for Photo Framing</u></a></li>
-<li><a href="https://common-error.techidaily.com/random-reboots-on-windows-11-os/"><u>Random Reboots on Windows 11 OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-resolving-the-critical-windows-update-issue-0x80240017/"><u>Step-by-Step Solutions for Resolving the Critical Windows Update Issue - 0X80240017</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-selection-of-premium-micro-atx-towers-for-the-latest-year-ranked/"><u>Ultimate Selection of Premium Micro ATX Towers for the Latest Year - Ranked!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-making-your-twitter-videos-dance-convert-them-into-expressive-animated-gifs/"><u>[Updated] Making Your Twitter Videos Dance Convert Them Into Expressive Animated GIFs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-gimp-your-go-to-multi-platform-imaging-solution-for-zero-price-tag/"><u>Comprehensive Analysis of GIMP - Your Go-To Multi-Platform Imaging Solution for Zero Price Tag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-marketing-solutions-drive-growth-through-advanced-analytics-and-personalization/"><u>Cookiebot-Enhanced Marketing Solutions: Drive Growth Through Advanced Analytics & Personalization</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-overcome-csgo-crashing-issues-with-these-proven-fixes/"><u>Effortlessly Overcome CS:GO Crashing Issues with These Proven Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-message-volume-damaged-0x80071ac3-troubleshooting-steps-for-recovery/"><u>Error Message: Volume Damaged (0X80071AC3) - Troubleshooting Steps for Recovery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-mac-computer-audio-issues-solutions-and-troubleshooting-guide/"><u>Fix Mac Computer Audio Issues: Solutions & Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-msi-b350-tomahawk-chip-set-drivers-compatible-with-windows-11-and-windows-7/"><u>Free MSI B350 Tomahawk Chip Set Drivers: Compatible with Windows 11 and Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-updates-stalled-on-99-or-100-solved/"><u>How to Fix Windows Updates Stalled on 99 or 100% - Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-non-charging-devices-in-windows-7-and-10-systems/"><u>How to Troubleshoot Non-Charging Devices in Windows 7 and 10 Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-top-choice-does-pickup-beat-other-photo-editors/"><u>In 2024, Android's Top Choice Does PickUp Beat Other Photo Editors?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-dont-miss-out-the-best-4k-video-samples-available/"><u>New Dont Miss Out The Best 4K Video Samples Available</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/potplayer-plus-windows-media-counterpart-for-2024/"><u>PotPlayer Plus Windows Media Counterpart for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-your-windows-stores-cached-data-a-guide/"><u>Resolving Issues with Your Windows Store's Cached Data – A Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-dealing-with-a-hanging-google-chrome-window/"><u>Solution Guide: Dealing with a Hanging Google Chrome Window</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210138834-troubleshooting-guide-fixing-minecraft-lan-connection-issues-quick-solutions/"><u>Troubleshooting Guide: Fixing 'Minecraft LAN Connection Issues' - Quick Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-freezing-issues-during-windows-10-launch/"><u>Troubleshooting Guide: Fixing Freezing Issues During Windows 10 Launch</u></a></li>
 </ul></div>
 

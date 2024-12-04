@@ -1,7 +1,7 @@
 ---
 title: How to Address and Fix 'Module Not Found' Errors on Windows or Mac
-date: 2024-11-20T19:29:45.072Z
-updated: 2024-11-25T01:16:40.088Z
+date: 2024-11-27T01:30:18.554Z
+updated: 2024-12-03T19:26:31.399Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f339adae6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Both fixes below work in Windows 10, 8 and 7.
@@ -42,7 +42,7 @@ Both fixes below work in Windows 10, 8 and 7.
 2. [**Update your touchpad driver**](#F2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable touchpad in settings
@@ -52,20 +52,20 @@ Both fixes below work in Windows 10, 8 and 7.
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -89,7 +89,7 @@ Both fixes below work in Windows 10, 8 and 7.
 4. Check and see if your Lenovo touchpad is back to life again. ?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -117,22 +117,17 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-the-art-of-flawless-conversion-from-slides-to-videos/"><u>[New] The Art of Flawless Conversion From Slides to Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-clip-groove-best-bgm-choices-for-todays-popular-yt-shorts-for-2024/"><u>[Updated] Clip Groove Best BGM Choices For Today's Popular YT Shorts for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-free-mac-screenshoter-extraordinaire/"><u>[Updated] In 2024, Free Mac Screenshoter Extraordinaire</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-discover-8-leading-photo-grid-designers-online/"><u>2024 Approved Discover 8 Leading Photo Grid Designers Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-microsoft-wireless-display-adapter-not-recognized-by-windows-11-systems/"><u>Comprehensive Fixes for Microsoft Wireless Display Adapter Not Recognized by Windows 11 Systems</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-photo-and-film-capture-apps-iphone-and-android-edition/"><u>Essential Photo & Film Capture Apps IPhone & Android Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/event-id-1000-explained-resolving-issues-in-windows-7-8-and-10-platforms/"><u>Event ID 1000 Explained: Resolving Issues in Windows 7, 8 & 10 Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-getting-pathfinder-wrath-of-the-righteous-up-and-running-smoothly/"><u>Expert Advice on Getting Pathfinder: Wrath of the Righteous Up and Running Smoothly</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-the-right-click-not-working-problem-in-windows-10-computers/"><u>Expert Tips for Fixing the 'Right-Click Not Working' Problem in Windows 10 Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-cannot-read-from-disk-troubleshooting-steps-for-windows-users/"><u>Fixing 'Cannot Read From Disk': Troubleshooting Steps for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-endless-load-screen-issue-in-valorant-resolved/"><u>How to Fix the Endless Load Screen Issue in Valorant [Resolved]</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-7s-unresponsive-audio-dilemma-a-step-by-step-guide/"><u>Resolving Windows 7'S Unresponsive Audio Dilemma: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-overcoming-windows-11-update-installation-hurdles-a-comprehensive-guide/"><u>Successfully Overcoming Windows 11 Update Installation Hurdles – A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-unavailability-of-the-smartscreen-filter-in-windows/"><u>Troubleshooting Guide: Dealing with Unavailability of the SmartScreen Filter in Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-a14-4g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy A14 4G Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212400773-windows-10-and-bluetooth-woes-heres-how-to-make-your-peripherals-visible-again/"><u>Windows 10 and Bluetooth Woes? Here's How to Make Your Peripherals Visible Again!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xclusive-access-sharing-restricted-youtube-content-with-emailid/"><u>[New] Exclusive Access Sharing Restricted YouTube Content with EmailID</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-the-secrets-to-social-media-success-with-igtv-hashtag-techniques/"><u>[New] In 2024, Unlock the Secrets to Social Media Success with IGTV Hashtag Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pinnaclepix-z7-pro-elevate-your-photos-dimensions-for-2024/"><u>[Updated] PinnaclePix Z7 Pro Elevate Your Photo's Dimensions for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/complete-assessment-gecatas-real-time-logger-for-2024/"><u>Complete Assessment Gecata's Real-Time Logger for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-restore-logitech-mouse-scroll-wheel-functionality/"><u>Effective Techniques to Restore Logitech Mouse Scroll Wheel Functionality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/enhancing-live-broadcasts-with-premium-webcams/"><u>Enhancing Live Broadcasts with Premium WebCams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/environmental-considerations-play-a-significant-role-in-mix-design-decisions/"><u>Environmental Considerations Play a Significant Role in Mix Design Decisions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-new-world-conquered-the-easy-anti-cheat-challenge-now-launching-smoothly/"><u>How New World Conquered the Easy Anti-Cheat Challenge, Now Launching Smoothly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-xr-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone XR</u></a></li>
+<li><a href="https://common-error.techidaily.com/repair-guide-fix-for-the-broken-corsair-hs50-mic-a-step-by-step-solution/"><u>Repair Guide: Fix for the Broken Corsair HS50 Mic - A Step-by-Step Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-sims-4-wont-open-dilemma/"><u>Step-by-Step Fixes for the Sims ^[4] Won't Open Dilemma</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-avchd-files-into-mp4-format-for-free-on-windows-11-a-comprehensive-guide/"><u>Transform AVCHD Files Into MP4 Format for Free on Windows 11: A Comprehensive Guide</u></a></li>
 </ul></div>
 

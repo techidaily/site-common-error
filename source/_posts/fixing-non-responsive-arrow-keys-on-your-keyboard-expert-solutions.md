@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Responsive Arrow Keys on Your Keyboard - Expert Solutions
-date: 2024-11-08T17:05:09.994Z
-updated: 2024-11-15T18:33:22.348Z
+date: 2024-12-01T16:46:58.917Z
+updated: 2024-12-03T19:14:16.506Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 4. **[Update your keyboard driver](#Fix4)**
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
 
@@ -60,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
@@ -74,19 +75,13 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -109,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -126,14 +114,11 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
-If this method didn’t work for you, check out the last fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If this method didn’t work for you, check out the last fix.
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -150,6 +135,10 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### on Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -160,10 +149,7 @@ If this method didn’t work for you, check out the last fix.
 4. Click on the**Run** button next to Keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -187,17 +173,24 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-role-of-authenticity-checks-in-social-media-posts/"><u>[New] The Role of Authenticity Checks in Social Media Posts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-5-must-try-websites-for-cost-free-effects/"><u>[Updated] 2024 Approved 5 Must-Try Websites for Cost-Free Effects</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-charting-success-understanding-youtube-insights-for-2024/"><u>[Updated] Charting Success Understanding YouTube Insights for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-essential-8-webcam-modifiers-for-clearer-streams/"><u>[Updated] In 2024, Essential 8 Webcam Modifiers for Clearer Streams</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-chromatic-chameleons-playbook-for-masters-for-2024/"><u>[Updated] The Chromatic Chameleon's Playbook for Masters for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cybercrime-evolution-with-ai-five-methods-employed-by-modern-thieves/"><u>Cybercrime Evolution with AI: Five Methods Employed by Modern Thieves</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-into-photo-magic-innovative-edits-on-snapchat/"><u>In 2024, Step Into Photo Magic Innovative Edits on Snapchat</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-analysis-why-does-total-war-rome-remastered-keep-crashing-and-how-to-prevent-it/"><u>In-Depth Analysis: Why Does Total War: Rome Remastered Keep Crashing & How To Prevent It?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877288-9781612834269-spirit-clans/"><u>Spirit Clans | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-error-code-0x80n2efd-on-your-windows-11-device/"><u>Troubleshooting and Fixing Error Code 0X80n2EFD on Your Windows 11 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-error-code-1067-when-your-windows-process-ends-prematurely/"><u>Troubleshooting Guide: Fixing 'Error Code 1067' - When Your Windows Process Ends Prematurely</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-missing-bluetooth-devices-in-windows-device-manager/"><u>Troubleshooting Missing Bluetooth Devices in Windows Device Manager</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-collecting-classics-without-copyrights/"><u>[New] Collecting Classics without Copyrights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-live-or-recorded-twitch-versus-youtube-face-off/"><u>2024 Approved Live or Recorded Twitch versus YouTube Face Off</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-connection-errors-a-step-by-step-solution-for-windows-11-casting-problems/"><u>Bypassing Connection Errors: A Step-by-Step Solution for Windows 11 Casting Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-persistent-wake-up-issues-with-your-computer-system/"><u>Effortless Fixes for Persistent Wake-Up Issues with Your Computer System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-failed-to-decode-audio-problems-on-youtube-using-windows-10/"><u>Fixing 'Failed to Decode' Audio Problems on YouTube Using Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reduce-wudfhostexes-impact-on-your-pcs-processor-in-windows-10/"><u>How to Reduce WUDFHost.exe's Impact on Your PC's Processor in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-walkthrough-for-resolving-hard-drive-issues-using-chkdsk-in-windows/"><u>In-Depth Walkthrough for Resolving Hard Drive Issues Using Chkdsk in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205788671-invisible-sd-be-seen-fixes-abound/"><u>Invisible SD, Be Seen! Fixes Abound!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-game-expert-strategies-for-fixing-diablo-iv-stability-issues-across-all-consoles/"><u>Master the Game: Expert Strategies for Fixing Diablo IV Stability Issues Across All Consoles</u></a></li>
+<li><a href="https://common-error.techidaily.com/rectify-unseen-windows-1011-window-2/"><u>Rectify Unseen Windows 10/11 Window #2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-cant-get-your-hands-on-modern-warfare-2/"><u>Resolving Issues: Can't Get Your Hands on Modern Warfare 2?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212304821-showcase-your-touchpad-regain-control/"><u>Showcase Your Touchpad, Regain Control</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ming-services-face-off-facebook-youtube-and-spaces/"><u>Streaming Services Face-Off FACEbook, YOUTube, & Spaces</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-microsoft-store-doesnt-start-up/"><u>Troubleshooting Steps When Microsoft Store Doesn't Start Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-the-astro-a40-microphone-issue/"><u>Troubleshooting Tips: Fixing the Astro A40 Microphone Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-restoring-visible-bluetooth-options-on-pcs-device-manager/"><u>Troubleshooting: Restoring Visible Bluetooth Options on PC's Device Manager</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-stuttering-and-crashes-in-fallout-4-for-windows/"><u>Ultimate Guide: Resolving Stuttering and Crashes in Fallout 4 for Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-intelligence-levels-strong-and-weak-contrasts/"><u>Understanding AI Intelligence Levels: Strong & Weak Contrasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-with-a-broken-dell-camera-heres-how-to-fix-it-in-windows/"><u>Unstuck with a Broken Dell Camera? Here's How to Fix It in Windows</u></a></li>
 </ul></div>
 

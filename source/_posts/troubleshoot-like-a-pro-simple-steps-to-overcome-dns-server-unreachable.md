@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Like a Pro: Simple Steps to Overcome 'DNS Server Unreachable'"
-date: 2024-11-21T02:13:29.067Z
-updated: 2024-11-24T16:08:12.011Z
+date: 2024-12-02T02:11:01.889Z
+updated: 2024-12-03T20:19:20.909Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ _**DXGI\_ERROR\_DEVICE\_HUNG** The application’s device failed due to badly fo
 
 If this issue persists, don’t worry. Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  Corrupted or outdated graphics drivers may trigger Error 0x887A0006\. To fix this issue, you need to update your graphics driver to the latest version. Updating your graphics driver to the latest version can make your game run smoother and prevent many issues or errors.
@@ -64,10 +68,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
@@ -91,17 +91,21 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. View the Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
@@ -111,10 +115,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
@@ -128,15 +128,11 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. View the Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
@@ -148,10 +144,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -184,7 +176,7 @@ If this issue persists, don’t worry. Try the next fix, below.
 6. Click**OK** when Windows tells you the keys and values have been successfully added to the registry.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
@@ -199,6 +191,10 @@ If this issue persists, don’t worry. Try the next fix, below.
 3. Restart your PC to save the change.
 
 If this fix doesn’t work for you, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Perform a Windows update
 
@@ -221,11 +217,15 @@ If this fix doesn’t work for you, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Adjust your Windows system for the best performance
 
@@ -235,13 +235,13 @@ If this fix doesn’t work for you, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game or application that crashed with Error 0x887A0006 again to see if this issue persists. If not, congratulations! You’ve fixed this issue. If this issue remains, try reinstalling the game or the problematic application.
 
@@ -268,22 +268,21 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-deep-dive-into-screenflow-for-the-creative-minded-mac-user/"><u>[New] A Deep Dive Into ScreenFlow for the Creative Minded Mac User</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-video-creation-made-simple-integrate-microsofts-movie-maker-in-win11/"><u>[Updated] 2024 Approved Video Creation Made Simple Integrate Microsoft's Movie Maker in Win11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-dive-into-the-world-of-cosmetics-launching-a-beauty-channel-for-2024/"><u>[Updated] Dive Into the World of Cosmetics Launching a Beauty Channel for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnose-and-repair-overwatch-connection-failures-a-comprehensive-guide/"><u>Diagnose & Repair Overwatch Connection Failures: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-a-malfunctioning-dell-usb-port-quick-and-effective-solutions-inside/"><u>Fix a Malfunctioning Dell USB Port - Quick and Effective Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-windows-10-update-issue-a-guide-on-resolving-0x800705b4-error/"><u>Fixing the Windows 10 Update Issue: A Guide on Resolving 0X800705b4 Error</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-nokia-g42-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Nokia G42 5G</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-advice-moving-multimedia-on-apple-gear/"><u>In 2024, Expert Advice Moving Multimedia on Apple Gear</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-installation-guides-brother-scanner-software-updates-on-windows/"><u>New Installation Guides: Brother Scanner Software Updates on Windows</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/obs-mac-integration-step-by-step-installation-walkthrough/"><u>OBS Mac Integration Step-by-Step Installation Walkthrough</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-yourself-from-deceptive-ai-malware-the-inside-scoop-on-9-fake-chatgpt-threats-to-data-security/"><u>Protecting Yourself From Deceptive AI Malware: The Inside Scoop on 9 Fake ChatGPT Threats to Data Security</u></a></li>
-<li><a href="https://common-error.techidaily.com/razer-keyboard-issue-resolved-why-it-wasnt-lighting-up-and-what-to-do/"><u>Razer Keyboard Issue Resolved - Why It Wasn't Lighting Up & What to Do</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-no-audio-output-device-found-issue-on-your-windows-pc/"><u>Solving the 'No Audio Output Device Found' Issue on Your Windows PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-this-device-is-unavailable-code-24-problem-for-versions-10-8-and-7/"><u>Solving Windows 'This Device Is Unavailable (Code 24)' Problem for Versions 10, 8 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-installing-the-latest-windows-fixes-for-when-upgrades-stall-at-99/"><u>Successfully Installing the Latest Windows 지원 - Fixes for When Upgrades Stall at 99%</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-5-hd-cameras-for-game-watching/"><u>Top 5 HD Cameras for Game Watching</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-windows-1903-feature-update-isnt-installing-successfully/"><u>Troubleshooting Guide: Why Windows 1903 Feature Update Isn't Installing Successfully</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-best-11-tools-for-perfecting-your-fb-profile-pics/"><u>[New] Best 11 Tools For Perfecting Your FB Profile Pics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ducational-history-vlogs-the-ultimate-list/"><u>[New] Educational History Vlogs - The Ultimate List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-no-expense-full-experience-the-fcp-way/"><u>[New] No Expense, Full Experience The FCP Way</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-how-to-switch-on-windows-11s-hdr-functionality/"><u>[Updated] In 2024, How to Switch On Windows 11'S HDR Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/brightness-adjustment-missing-need-a-solution/"><u>Brightness Adjustment Missing, Need a Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboard-not-working-heres-what-you-need-to-know-and-how-to-get-it-fixed-quickly/"><u>Corsair Keyboard Not Working? Here's What You Need to Know & How to Get It Fixed Quickly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unresponsive-laptop-keys-on-windows-11-8-and-7-step-by-step-solutions/"><u>Fixing Unresponsive Laptop Keys on Windows 11, 8 & 7: Step-by-Step Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-magic-6-lite-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Magic 6 Lite to PC? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-x9b-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor X9b</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lightroom-hdr-tutorial-how-to-create-and-merge-stunning-hdr-images-in-lightroom-for-2024/"><u>Lightroom HDR Tutorial How to Create and Merge Stunning HDR Images in Lightroom for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/micro-movies-on-facebook-galore-for-2024/"><u>Micro-Movies on Facebook Galore for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-windows-videodxgkrnlcrash-issue/"><u>Step-by-Step Guide: Resolving Windows Video_Dxgkrnl_Crash Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-windows-cant-reset-your-pc-message-solved/"><u>Troubleshooting and Repairing 'Windows Can't Reset Your PC' Message – Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-code-87-in-loadlibrary-function-a-step-by-step-solution-guide/"><u>Troubleshooting Error Code 87 in LoadLibrary Function - A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-restore-functionality-to-your-windows-11-start-menu/"><u>Troubleshooting Guide: How to Restore Functionality to Your Windows 11 Start Menu</u></a></li>
 </ul></div>
 

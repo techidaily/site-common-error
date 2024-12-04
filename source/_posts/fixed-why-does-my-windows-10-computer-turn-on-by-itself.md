@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Why Does My Windows 10 Computer Turn on by Itself"
-date: 2024-08-27T13:39:30.769Z
-updated: 2024-08-28T13:39:30.769Z
+date: 2024-12-01T07:36:38.456Z
+updated: 2024-12-04T06:21:23.899Z
 tags:
   - win11
   - win10
@@ -27,6 +27,11 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
@@ -35,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
@@ -43,6 +53,11 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
  This problem could be also caused by a wrong battery driver. You can solve it through reinstalling your battery driver.
@@ -53,6 +68,10 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
@@ -61,6 +80,11 @@ Follow these:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
@@ -83,8 +107,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,8 +114,24 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-from-clicks-to-cash-elevating-exposure-economics/"><u>[New] In 2024, From Clicks to Cash Elevating Exposure Economics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ideal-choice-12-superior-clicking-adventures-on-your-pc/"><u>[Updated] 2024 Approved Ideal Choice 12 Superior Clicking Adventures on Your PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-7-dslr-cameras-enhancing-real-time-online-interactions/"><u>[Updated] Top 7 DSLR Cameras Enhancing Real-Time Online Interactions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>2024 Approved Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-becoming-the-ultimate-streamer-on-youtube-and-twitch-using-obs/"><u>2024 Approved Becoming the Ultimate Streamer on YouTube and Twitch Using OBS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-reality-the-top-10-sci-fi-movies-with-metaverse-travels-for-2024/"><u>Beyond Reality The Top 10 Sci-Fi Movies with Metaverse Travels for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/crackling-noise-in-computer-speakers-easy-solutions-for-windows-users-fixed/"><u>Crackling Noise in Computer Speakers? Easy Solutions for Windows Users [FIXED]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-getting-atheros-driver-software-setup-on-windows-computers/"><u>Easy Guide: Getting Atheros Driver Software Setup on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-continuous-usb-recognition-failures-on-your-pc/"><u>Effective Solutions for Continuous USB Recognition Failures on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-high-disk-usage-caused-by-microsoft-telemetry-on-windows-10-systems/"><u>How to Fix High Disk Usage Caused by Microsoft Telemetry on Windows 10 Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-x100-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo X100 Pro Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-continuous-double-click-issue-with-computer-mouse/"><u>Resolved: Continuous Double-Click Issue with Computer Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-geforce-experience-launching-problems-a-comprehensive-guide/"><u>Resolving GeForce Experience Launching Problems - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-spacebar-z-r-ren/"><u>Resolving Windows ˈSPACEBAR Ɪz ʏɑːrŋ Ɜːrɡən</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-windows-11-hosted-mode-connectivity-failure/"><u>Solving the Problem: Windows 11 Hosted Mode Connectivity Failure</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-complete-pathway-to-success-with-your-first-facebook-live/"><u>The Complete Pathway to Success with Your First Facebook Live</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-laptop-trackpad-issues-on-windows-11-8-and-7/"><u>Troubleshooting Guide: Fixing Laptop Trackpad Issues on Windows 11, 8 & 7</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->

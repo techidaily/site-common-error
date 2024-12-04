@@ -1,7 +1,7 @@
 ---
 title: Quick Tricks to Speed Up Your Unresponsive Keyboard
-date: 2024-11-21T18:12:54.694Z
-updated: 2024-11-25T01:10:48.604Z
+date: 2024-12-01T19:13:57.267Z
+updated: 2024-12-03T22:19:54.075Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
@@ -71,12 +71,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -118,9 +122,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -130,25 +142,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,24 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/get-music-now-effortlessly-grab-your-favorite-tunes-the-leading-free-apps-for-high-quality-music-download-on-bandcamp/"><u>[GET MUSIC NOW!] Effortlessly Grab Your Favorite Tunes: The Leading Free Apps for High-Quality Music Download on Bandcamp</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-videopie-interpretation-platform/"><u>[New] 2024 Approved VideoPie Interpretation Platform</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-streamline-your-storage-download-vimeo-videos-in-mp4-formats/"><u>[New] In 2024, Streamline Your Storage Download Vimeo Videos in MP4 Formats</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-close-ups-quick-minecraft-enhancements/"><u>[Updated] Mastering Close-Ups Quick Minecraft Enhancements</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209309454-asus-laptop-issues-heres-a-solution-for-non-responsive-fn-keys/"><u>ASUS Laptop Issues? Here's a Solution for Non-Responsive Fn Keys!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-activate-miracast-streaming-with-updated-graphics-drivers-a-step-by-nstep-guide/"><u>How to Activate Miracast Streaming with Updated Graphics Drivers - A Step-by-nStep Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30i-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-stream-titling-service/"><u>In 2024, Stream Titling Service</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mp3windows-10/"><u>MP3ファイルのカット:Windows 10で実践的な手順集</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-connectivity-problems-ensuring-active-bluetooth-links-in-windows-10-systems/"><u>Overcoming Connectivity Problems: Ensuring Active Bluetooth Links in Windows 10 Systems</u></a></li>
-<li><a href="https://win-top.techidaily.com/solutionen-fur-das-keine-bootfahigen-gerate-gefunden-fehlermeldung-bei-dell-venue-11-pro-mit-windows-11-drei-ansatze/"><u>Solutionen Für Das 'Keine Bootfähigen Geräte Gefunden' Fehlermeldung Bei Dell Venue 11 Pro Mit Windows 11 (Drei Ansätze)</u></a></li>
-<li><a href="https://common-error.techidaily.com/svchostexe-cpu-hogs-in-windows-10-discover-efficient-solutions-for-immediate-relief/"><u>Svchost.exe CPU Hogs in Windows 10? Discover Efficient Solutions for Immediate Relief!</u></a></li>
-<li><a href="https://common-error.techidaily.com/taming-the-beast-within-a-guide-to-correcting-the-notorious-windows-0xc0000098-error/"><u>Taming the Beast Within: A Guide to Correcting the Notorious Windows 0xC0000098 Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-complete-walkthrough-to-restore-disappearing-mouse-cursors-in-windows-11-systems/"><u>The Complete Walkthrough to Restore Disappearing Mouse Cursors in Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-computer-guide-your-ultimate-tech-destination/"><u>Tom's Computer Guide: Your Ultimate Tech Destination</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-starting-up-your-amd-catalyst-control-center-effortlessly/"><u>Troubleshooting Guide: Starting Up Your AMD Catalyst Control Center Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-unshutdown-windows-10-on-your-pc-solution/"><u>Troubleshooting Steps for Unshutdown Windows 10 on Your PC - SOLUTION</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-unsticking-stuck-computers/"><u>Troubleshooting Techniques for Unsticking Stuck Computers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-achieving-flawless-audio-to-text-translation-using-google/"><u>[New] 2024 Approved Achieving Flawless Audio to Text Translation Using Google</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-ingenious-intellectual-engagement-best-general-knowledge-channels/"><u>[New] 2024 Approved Ingenious Intellectual Engagement Best General Knowledge Channels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pilots-perspective-dji-dualsense-fpv-tech/"><u>[Updated] Pilot's Perspective DJI DualSense FPV Tech</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-igtvs-potential-secrets-to-attract-more-subscribers/"><u>[Updated] Unlocking IGTV's Potential Secrets to Attract More Subscribers</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/d3dx927dll-mistakenly-absent-heres-how-to-restore-it/"><u>D3dx9_27.dll Mistakenly Absent? Here's How to Restore It</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-msdia80dll-functionality-is-retaining-necessary/"><u>Exploring msdia80.dll Functionality – Is Retaining Necessary?</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-start-your-diagnostic-policy-service-when-its-stopped/"><u>Fixing the Issue: How to Start Your Diagnostic Policy Service When It's Stopped</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-13-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 13? How to Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-your-pc-or-laptops-unwanted-hibernation-problem/"><u>Quick Fixes for Your PC or Laptop's Unwanted Hibernation Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/spacebar-key-malfunction-in-windows-10-find-out-why-and-how-to-get-it-working-again/"><u>Spacebar Key Malfunction in Windows 10? Find Out Why and How to Get It Working Again</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-intriguing-world-of-whole-sphere-videos/"><u>The Intriguing World of Whole Sphere Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/waking-up-to-a-well-rested-win11-machine/"><u>Waking Up to a Well-Rested Win11 Machine</u></a></li>
 </ul></div>
 

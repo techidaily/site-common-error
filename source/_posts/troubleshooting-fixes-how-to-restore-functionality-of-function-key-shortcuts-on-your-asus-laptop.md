@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: How to Restore Functionality of Function Key Shortcuts on Your ASUS Laptop"
-date: 2024-11-13T16:00:20.997Z
-updated: 2024-11-15T18:29:38.829Z
+date: 2024-12-01T19:30:36.876Z
+updated: 2024-12-04T03:15:00.660Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 fixes for USB ports not working on HP laptop
 
@@ -50,6 +54,10 @@ Here’s how:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -63,22 +71,20 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update the drivers for your USB devices
@@ -95,23 +101,9 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -142,20 +134,20 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-love-in-motion-youtube-and-vimeos-top-9-premium-marriage-films-for-2024/"><u>[Updated] Love in Motion YouTube & Vimeo's Top 9 Premium Marriage Films for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-the-potential-of-youtube-tv-services-for-2024/"><u>[Updated] Unlocking the Potential of YouTube TV Services for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-instructions-for-capturing-audio-from-your-join-with-me-webinar/"><u>Easy Instructions for Capturing Audio From Your 'Join With Me' Webinar</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-steps-how-to-grant-admin-rights-for-operations-in-windows-11-10-and-7/"><u>Essential Steps: How to Grant Admin Rights for Operations in Windows 11, 10 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206118065-google-chrome-stuck-heres-how-we-fixed-it-and-ensured-smooth-browsing/"><u>Google Chrome Stuck? Here's How We Fixed It and Ensured Smooth Browsing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oneplus-nord-3-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to OnePlus Nord 3 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-premiere-pro-pc-build-a-beginners-guide/"><u>In 2024, The Ultimate Premiere Pro PC Build A Beginners Guide</u></a></li>
-<li><a href="https://discover-data.techidaily.com/is-it-possible-to-modify-the-default-preloader-swf-for-customized-ebook-design-on-flipbuilder/"><u>Is It Possible to Modify the Default Preloader SWF for Customized eBook Design on FlipBuilder</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/most-popular-firefox-screenshots-and-recorders/"><u>Most Popular Firefox Screenshots & Recorders</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-error-code-0x800f0831-a-step-by-step-guide/"><u>Quick Fixes for Error Code 0X800f0831: A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/realms-converged-meta-quest-3-analysis/"><u>Realms Converged: Meta Quest 3 Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-recovering-missing-file-privileges-in-steam-fixed/"><u>The Ultimate Guide to Recovering Missing File Privileges in Steam [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-usage-from-wudfhostexe-under-windows-1-groovy-11/"><u>Troubleshooting Elevated CPU Usage From WUDFHost.exe Under Windows 1 Groovy 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-systemprofile-desktop-access-error-in-windows-cwindowsconfig/"><u>Troubleshooting: SystemProfile Desktop Access Error in Windows C: Windows Config</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-your-modern-home-network-hub-solutions-for-connectivity-issues/"><u>Understanding Your Modern Home Network Hub: Solutions for Connectivity Issues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photobooth-hiccups-resolving-frozen-playback-issues/"><u>[New] Photobooth Hiccups Resolving Frozen Playback Issues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-engineering-an-impactful-trailer-triumph/"><u>[Updated] In 2024, Engineering an Impactful Trailer Triumph</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-video-doorbells-under-50-iseebell-review/"><u>Affordable Video Doorbells Under $50 - ISeeBell Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95783108-9781594777295-catastrofobia/"><u>Catastrofobia | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehende-research-via-conversational-ai/"><u>Comprehende Research via Conversational AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-werfaultexe-application-error/"><u>Easy to Fix WerFault.exe Application Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhance-your-streaming-experience-eliminate-kodis-buffering-frustration-effortlessly/"><u>Enhance Your Streaming Experience: Eliminate Kodi's Buffering Frustration Effortlessly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-with-newest-netgear-wi-fi-adapter-drivers-downloaded-here/"><u>Ensure Optimal Performance with Newest NETGEAR Wi-Fi Adapter Drivers Downloaded Here!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-incompatible-drivers-can-compromise-the-integrity-of-your-ftdi-synchronous-data-transmission/"><u>How Incompatible Drivers Can Compromise the Integrity of Your FTDI Synchronous Data Transmission</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-system-error-e-xtracted-from-an-ssd-windows-11-7-and-8/"><u>How to Fix 'System Error E Xtracted From an SSD? [Windows 11, 7 & 8]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-the-art-of-video-capturing-zdsofts-method/"><u>Mastering the Art of Video Capturing ZDSoft's Method</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/peak-color-alignment-tool-for-2024/"><u>Peak Color Alignment Tool for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-directx-graphics-driver-initialization-issue/"><u>Resolved: DirectX Graphics Driver Initialization Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-the-0x80240017-dilemma-proven-fixes-to-revive-your-windows-updates-successfully/"><u>Tackling the 0X80240017 Dilemma - Proven Fixes to Revive Your Windows Updates Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-errors-during-game-installation-on-origin/"><u>Troubleshooting Errors During Game Installation on Origin</u></a></li>
 </ul></div>
 

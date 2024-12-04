@@ -1,7 +1,7 @@
 ---
 title: "SystemProfile Desktop Access Denied: Solutions for the Common Error"
-date: 2024-11-12T17:49:37.941Z
-updated: 2024-11-15T17:50:38.851Z
+date: 2024-11-27T01:19:45.848Z
+updated: 2024-12-03T17:23:25.194Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Read on this page and follow the steps:
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Disable the full screen optimization of your game application
 
  This error happens mostly due to the automatic full screen optimization. You can solve it by easily disable the full screen optimization.
@@ -49,22 +53,27 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a75563e4f956.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on your game .exe file and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7556d9700b6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Tick on **Disable fullscreen optimizations**  under the **Compatibility**  pane. Then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7557a69aaf6.png)
 
-4) Relaunch your game application to see if it works.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4) Relaunch your game application to see if it works.
 
 ## Method 2: Update your graphics card driver
 
@@ -82,19 +91,6 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755a27bdf2b.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged graphics card driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -102,10 +98,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755f4db1724.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer to make the new driver take effect, and relaunch your game to see if it works now.
@@ -127,22 +120,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>[New] 2024 Approved The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-optimizing-video-exposure-on-youtube-with-high-impact-channels/"><u>[Updated] Optimizing Video Exposure on YouTube with High-Impact Channels</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-resolved-no-display-for-youtube-shorts/"><u>[Updated] Resolved No Display for YouTube Shorts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-5-ps1-games-emulators-resurrecting-console-legends-on-pc/"><u>[Updated] Top 5 PS1 Games Emulators - Resurrecting Console Legends on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-realme-narzo-n55-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Realme Narzo N55 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/comprehensive-youtube-video-editing-with-finalcut-pro-skills/"><u>Comprehensive YouTube Video Editing with FinalCut Pro Skills</u></a></li>
-<li><a href="https://common-error.techidaily.com/harmonious-solution-to-laptop-headphones-disconnect/"><u>Harmonious Solution to Laptop-Headphones Disconnect</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-cyclic-redundancy-checks-detect-data-corruption-issues/"><u>How Cyclic Redundancy Checks Detect Data Corruption Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-rendering-device-missing-in-your-overwatch-game/"><u>How to Resolve 'Rendering Device Missing' In Your Overwatch Game</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/photo-grandeur-with-our-best-grid-apps-list/"><u>Photo Grandeur with Our Best Grid Apps List</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207874253-quick-fixes-for-common-airdrop-problems-now-resolved/"><u>Quick Fixes for Common AirDrop Problems – Now Resolved!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/real-time-video-optimizer-for-crisp-uninterrupted-playback-at-60-frames-per-second/"><u>Real-Time Video Optimizer for Crisp, Uninterrupted Playback at 60 Frames Per Second!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-fatal-installation-mishaps-overcoming-error-1603-for-smooth-software-launches/"><u>Resolving Fatal Installation Mishaps: Overcoming Error 1603 for Smooth Software Launches</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-the-directory-name-has-wrong-characters-problem/"><u>Step-by-Step Fix for the 'Directory Name Has Wrong Characters' Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-your-usb-drive-recognizable-again/"><u>Troubleshooting Guide: Making Your USB Drive Recognizable Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fix-for-the-persistent-0x800705b4-windows-update-problem-in-windows-11-systems/"><u>Ultimate Fix for the Persistent 0X800705b4 Windows Update Problem in Windows 11 Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-prime-online-spots-for-availing-text-enhancement-files/"><u>[New] Prime Online Spots for Availing Text Enhancement Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-how-to-edit-youtube-channel-description/"><u>[Updated] In 2024, How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-realtimevid-recorder-overview/"><u>[Updated] In 2024, RealTimeVid Recorder Overview</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-revisiting-the-golden-age-of-cinema-video-tutorials-for-2024/"><u>[Updated] Revisiting the Golden Age of Cinema Video Tutorials for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professionals-guide-to-photo-watermarking-solutions/"><u>2024 Approved Professional's Guide to Photo Watermarking Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-when-your-razer-keyboard-stops-glowing/"><u>Expert Tips for When Your Razer Keyboard Stops Glowing</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-print-driver-host-failures-for-legacy-32-bit-operating-systems/"><u>Fixing Print Driver Host Failures for Legacy 32-Bit Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-efficiently-compressing-mkv-videos-with-minimal-loss-of-visual-fidelity/"><u>Guide to Efficiently Compressing MKV Videos with Minimal Loss of Visual Fidelity</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-x7b-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor X7b Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209689115-resolution-guide-toshiba-laptop-key-malfunction-fixed/"><u>Resolution Guide: Toshiba Laptop Key Malfunction Fixed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-driver-conflicts-a-step-by-step-fix-for-intel-hd-graphics-630-in-windows-environments/"><u>Resolving Driver Conflicts: A Step-by-Step Fix for Intel HD Graphics 630 in Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-skype-mic-is-not-working/"><u>Solved: Skype Mic Is Not Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-persistent-bluetooth-pairing-problems-on-windows-11/"><u>Step-by-Step Troubleshooting for Persistent Bluetooth Pairing Problems on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/strategies-to-lower-ntoskrnlexes-cpudisk-load/"><u>Strategies to Lower ntoskrnl.exe's CPU/Disk Load</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-successfully-setting-up-battleye-service/"><u>Troubleshooting Tips: Successfully Setting Up BattlEye Service</u></a></li>
 </ul></div>
 

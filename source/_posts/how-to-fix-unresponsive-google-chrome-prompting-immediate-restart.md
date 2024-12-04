@@ -1,7 +1,7 @@
 ---
 title: "How to Fix: Unresponsive Google Chrome Prompting Immediate Restart"
-date: 2024-08-27T13:45:08.489Z
-updated: 2024-08-28T13:45:08.489Z
+date: 2024-12-01T03:55:29.161Z
+updated: 2024-12-03T21:51:22.616Z
 tags:
   - win11
   - win10
@@ -40,16 +40,23 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 3. In the view of**Category** , click**Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
 4. Under**Devices and Printers** , click**Mouse** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip 2: Enable two-finger scrolling
 
  Your touchpad may not respond to any scrolling on it, if the two-finger scrolling feature is disabled on your computer. You can follow these steps to enable two-finger scrolling:
@@ -59,16 +66,15 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 3. Expand**MultiFinger Gestures** , and select the**Two-Finger Scrolling** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c98471f8.jpg)
 4. Click**Apply** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Check if your touchpad now works properly. If not, try Tip 3, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Tip 3: Change your mouse pointer
 
  To fix scrolling on touchpad not working, you can also try changing your mouse pointer. It worked for some users.
@@ -77,12 +83,13 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 2. In the**Pointers** tab, under**Scheme** , select a different pointer from the drop-down menu. You can change your mouse pointer to a solid black one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298ab89d01.jpg)
 3. Click**Apply** .
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 4: Update your touchpad driver
 
@@ -98,18 +105,13 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money-back guarantee.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
 4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -125,8 +127,6 @@ Hopefully, this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +134,24 @@ Hopefully, this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-guide-to-building-podcast-rss/"><u>[New] 2024 Approved The Ultimate Guide to Building Podcast RSS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715859843460-updated-discovering-androids-premier-mobas-ranked/"><u>[Updated] Discovering Android's Premier MOBAs Ranked!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-movie-magic-on-mobile-ioss-best-free-and-paid-film-apps/"><u>[Updated] Movie Magic on Mobile IOS's Best Free and Paid Film Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-impact-of-testimonial-videos-today/"><u>[Updated] The Impact of Testimonial Videos Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-minecraft-crashes-on-pc-tackling-the-root-cause-of-faulty-graphics-drivers/"><u>Banish Minecraft Crashes on PC: Tackling the Root Cause of Faulty Graphics Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-high-iastordatasvc-cpu-and-memory-usage-in-32-bit-windows-10-problem-solved/"><u>Beat High IAStorDataSvc CPU and Memory Usage in 32-Bit Windows 10 - Problem Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-troubles-on-windows-11-discover-quick-and-simple-fixes-now/"><u>Bluetooth Troubles on Windows 11? Discover Quick & Simple Fixes Now!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/comprehensive-audio-cleanse-kit-windows-and-os-x-supported-2024-enhanced-model/"><u>Comprehensive Audio Cleanse Kit Windows and OS X Supported (2024 Enhanced Model)</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-the-troublesome-error-code-0x80070652-in-windows-update-system/"><u>Comprehensive Fix for the Troublesome Error Code 0X80070652 in Windows Update System</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-for-managing-and-fixing-high-graphics-card-use-by-the-desktop-window-manager-on-windows-1011/"><u>Essential Tips for Managing and Fixing High Graphics Card Use by the Desktop Window Manager on Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-retrieving-windows-that-have-slipped-off-your-monitors-edge/"><u>Expert Advice: Retrieving Windows That Have Slipped Off Your Monitor's Edge</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/expert-insights-top-insta-management-tools-reviewed-for-2024/"><u>Expert Insights Top Insta Management Tools Reviewed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-dark-to-light-wows-3d-rendering-revolution/"><u>From Dark to Light: WoW's 3D Rendering Revolution</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-taming-darkness-for-a-bright-youtube-experience/"><u>In 2024, Taming Darkness for a Bright YouTube Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-a-tv-antenna-why-the-mohu-leaf-30-stands-out/"><u>The Ultimate Guide to Choosing a TV Antenna: Why the Mohu Leaf #30 Stands Out</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-m2-ssds-comprehensive-reviews-by-tech-experts-zdnets-guide/"><u>Top-Rated M.2 SSDs : Comprehensive Reviews by Tech Experts - ZDNet's Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-resolving-ethernet-not-connecting-errors-in-windows-11-and-windows-7/"><u>Troubleshooting Steps for Resolving 'Ethernet Not Connecting' Errors in Windows 11 and Windows 7</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving the System Service Exception: A Guide to Overcoming Windows Error Code 0xC00000E9"
-date: 2024-11-19T16:18:25.818Z
-updated: 2024-11-24T19:49:40.643Z
+date: 2024-11-30T16:01:57.897Z
+updated: 2024-12-03T23:44:35.492Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -36,6 +32,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -55,9 +55,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -66,10 +74,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
@@ -80,7 +84,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -90,19 +102,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -111,10 +119,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -126,10 +130,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -154,19 +154,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-audio-integration-in-digital-photo-albums/"><u>[New] In 2024, Audio Integration in Digital Photo Albums</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-uncovering-your-just-watched-list-on-facebook/"><u>[New] In 2024, Uncovering Your Just-Watched List on Facebook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/evaluating-vlc-for-screen-recordings/"><u>Evaluating VLC for Screen Recordings</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-crackling-sound-from-your-computers-speakers-a-guide-for-windows-users/"><u>Fixing Crackling Sound From Your Computer's Speakers: A Guide for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-halted-windows-updates-progressing-only-to-100/"><u>How to Fix a Halted Windows Updates Progressing Only to 100%</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lg-gram-17-takes-laptop-game-by-storm-a-detailed-look-at-this-ultra-lightweight-high-performing-device/"><u>LG Gram 17 Takes Laptop Game by Storm: A Detailed Look at This Ultra-Lightweight, High-Performing Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-time-lapse-android-tips-and-tricks-for-2024/"><u>Mastering Time-Lapse Android Tips & Tricks for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209971324-9781946533913-mindful-pause/"><u>Mindful Pause | Free Book</u></a></li>
-<li><a href="https://driver-error.techidaily.com/quick-solution-found-resolving-windows-11s-stubborn-bluescreen-issue-heres-how-no-more-headaches/"><u>Quick Solution Found! Resolving Windows 11'S Stubborn Bluescreen Issue - Here’s How (No More Headaches!)</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-how-to-correctly-set-up-your-battleye-protection-software-again/"><u>Resolved Issue: How To Correctly Set Up Your BattlEye Protection Software Again</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/shop-the-best-discover-hidden-gems-with-our-guide-to-amazons-premier-laptop-deals-for-prime-members-insights/"><u>Shop the Best: Discover Hidden Gems with Our Guide to Amazon's Premier Laptop Deals for Prime Members | Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/silent-victory-over-the-raging-crimson-your-definitive-guide-to-fixing-system-faults/"><u>Silent Victory Over The Raging Crimson: Your Definitive Guide to Fixing System Faults</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-on-activating-wake-on-lan-for-latest-windows-versions/"><u>Step-by-Step Tutorial on Activating Wake-on-LAN for Latest Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-bluetooth-devices-unseen-issue-in-windows-11/"><u>Troubleshooting Guide: Solving 'Bluetooth Devices Unseen' Issue in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/re-annual-payments-for-youtube-premium-better-than-monthly-in-2024/"><u>[New] Are Annual Payments for YouTube Premium Better Than Monthly, In 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-thorough-examination-adobe-lightroom-for-android-users/"><u>[Updated] A Thorough Examination Adobe Lightroom for Android Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-convert-audio-online-mp3-to-youtube-live-upload-guide-for-2024/"><u>[Updated] Convert Audio Online MP3 to YouTube Live Upload Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-google-collages-how-to-achieve-it-in-a-blink-of-an-eye/"><u>[Updated] Google Collages How to Achieve It in A Blink of an Eye</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-outwit-youtube-visitors-tips-to-evade-automated-audiences/"><u>[Updated] In 2024, Outwit YouTube Visitors Tips to Evade Automated Audiences</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-winning-strategy-top-9-windows-apps-for-animated-gif-mastery-for-2024/"><u>[Updated] Winning Strategy Top 9 Windows Apps for Animated GIF Mastery for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/usb-4/"><u>失去USB硬碟中的重要資料? 4個最快速恢復方式</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-resolving-windows-1110-endless-reboot-loop/"><u>Fix: Resolving Windows 11/10 Endless Reboot Loop</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-xiaomi-redmi-note-12-pro-4g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi Redmi Note 12 Pro 4G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-0x80071ac3-faulty-disk-mistake-in-your-system/"><u>How to Resolve the 0X80071AC3 Faulty Disk Mistake in Your System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-to-windows-11-brightness-controls/"><u>How To Restore Functionality to Windows 11 Brightness Controls</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-audio-issues-resolving-speaker-distortion-on-windows-computers/"><u>How to Stop Audio Issues: Resolving Speaker Distortion on Windows Computers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-virtual-console-with-top-5-ps3-emulators/"><u>Mastering Virtual Console with Top 5 PS3 Emulators</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-excessive-gpu-use-by-dwm-in-windows-1011-with-these-5-methods/"><u>Resolve Excessive GPU Use by DWM in Windows 10/11 with These 5 Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-guide-for-fixing-windows-10-system-crashes-during-launch/"><u>Resolved: Troubleshooting Guide for Fixing Windows 10 System Crashes During Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-excessive-energy-fluctuations-in-hub-connections/"><u>Tackling Excessive Energy Fluctuations in Hub Connections</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-11-solutions-and-fixes/"><u>Troubleshooting Non-Functional USB Ports on Windows 11: Solutions and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-when-your-software-cant-locate-necessary-modules/"><u>Troubleshooting When Your Software Can't Locate Necessary Modules</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-ultimate-guide-10-must-have-extractors-in-post-production-software/"><u>Updated In 2024, The Ultimate Guide 10 Must-Have Extractors in Post-Production Software</u></a></li>
 </ul></div>
 

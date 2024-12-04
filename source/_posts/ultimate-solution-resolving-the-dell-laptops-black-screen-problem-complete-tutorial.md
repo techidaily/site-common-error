@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Solution: Resolving the Dell Laptop's Black Screen Problem (Complete Tutorial)"
-date: 2024-08-22T19:30:24.102Z
-updated: 2024-08-23T19:30:24.102Z
+date: 2024-11-27T17:53:05.605Z
+updated: 2024-12-04T05:47:08.967Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 
  We are telling you the top 2 easy solutions to fix battery/power icon missing on Windows 10\. Try the Fix 2 if the Fix 1 doesn’t works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your power icon is turned on
 
 1) Right-click on the blank area of taskbar and choose **Settings**.  
@@ -35,6 +39,11 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
@@ -43,6 +52,11 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
  This problem could be also caused by a wrong battery driver. You can solve it through reinstalling your battery driver.
@@ -53,10 +67,19 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
@@ -83,8 +106,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,9 +113,26 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-exclusive-screen-time-delight-with-these-top-offline-games/"><u>[New] Exclusive Screen Time Delight with These Top Offline Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-10-action-cameras-for-surfing-2023-update/"><u>[Updated] In 2024, Top 10 Action Cameras for Surfing -2023 Update</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparing-the-upgrades-from-kindle-paperwhite-1st-gen-to-2nd-gen/"><u>Comparing the Upgrades From Kindle Paperwhite 1St Gen to 2Nd Gen</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/conversion-gratuita-de-archivos-flv-a-linea-herramienta-online-sin-costo/"><u>Conversión Gratuita De Archivos FLV a Línea - Herramienta Online Sin Costo</u></a></li>
+<li><a href="https://common-error.techidaily.com/cure-for-the-blinking-screen-blues-tips-for-windows-navigators/"><u>Cure for the Blinking Screen Blues: Tips for Windows Navigators</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-slow-data-transfer-between-your-epson-scanner-and-print-device/"><u>Fixing Slow Data Transfer Between Your Epson Scanner and Print Device</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-a58-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A58 4G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-windows-1110-continuously-rebooting-solutions-inside/"><u>How to Stop Windows 11/10 Continuously Rebooting - Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211861419-hp-laptop-camera-issues-in-windows-11-heres-how-to-get-it-working-again/"><u>HP Laptop Camera Issues in Windows 11? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/network-startup-problem-in-dragon-ball-fighterz-now-corrected/"><u>Network Startup Problem in Dragon Ball FighterZ Now Corrected</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-usb-malfunctions-a-comprehensive-guide-to-correcting-descriptor-request-failed-notifications/"><u>Resolving USB Malfunctions: A Comprehensive Guide to Correcting 'Descriptor Request Failed' Notifications</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simplifying-streaming-key-tactics-for-youtube-and-twitch-via-obs/"><u>Simplifying Streaming Key Tactics for YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-dilemma-steps-to-resolve-thaumaturge-software-failure-on-desktop/"><u>Solving the Dilemma: Steps to Resolve Thaumaturge Software Failure on Desktop</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-connect-and-repair-a-nonfunctional-ps4-controller/"><u>Step-by-Step Troubleshooting: Connect and Repair a Nonfunctional PS4 Controller</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-truth-behind-aurora-hdr-image-clarity/"><u>The Truth Behind Aurora HDR Image Clarity</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-strategies-to-resolve-windows-11-update-issue-error-0x800f0922/"><u>Top Strategies to Resolve Windows 11 Update Issue: Error 0X800F0922</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-event-id-1000-across-windows-vista-to-10/"><u>Troubleshooting Guide: Fixing Event ID 1000 Across Windows Vista to 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-fixing-startech-drivers-for-windows-1087-systems/"><u>Ultimate Guide: Fixing StarTech Drivers for Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->

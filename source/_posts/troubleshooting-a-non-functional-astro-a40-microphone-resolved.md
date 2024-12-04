@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Non-Functional Astro A40 Microphone - Resolved
-date: 2024-11-19T16:02:38.258Z
-updated: 2024-11-24T19:14:38.867Z
+date: 2024-12-01T16:56:42.339Z
+updated: 2024-12-04T06:03:35.018Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes for Astro A40 Mic Not Working
 
  All the screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** &**7** as well.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 4. [**Update your audio driver**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -77,7 +77,7 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
@@ -86,20 +86,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -116,12 +112,16 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -155,19 +155,24 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-forging-a-massive-online-following-on-facebook/"><u>[New] 2024 Approved Forging a Massive Online Following on Facebook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-captivating-readers-with-the-top-5-engaging-book-trailers/"><u>[Updated] Captivating Readers with the Top 5 Engaging Book Trailers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-elevate-content-appeal-with-these-essential-5-tiktok-caption-techniques/"><u>[Updated] In 2024, Elevate Content Appeal with These Essential 5 TikTok Caption Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-next-level-thrills-with-samsungs-leading-vr-games-for-2024/"><u>[Updated] Next-Level Thrills with Samsung's Leading VR Games for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-quick-cure-for-that-persistent-green-pixel-problem-mac-edition-for-2024/"><u>[Updated] Quick Cure for That Persistent Green Pixel Problem (Mac Edition) for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-non-playable-dvd-issue-in-microsoft-windows/"><u>Fixing a Non-Playable DVD Issue in Microsoft Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-unable-to-play-video-issue-error-224003/"><u>How to Fix the Unable-to-Play Video Issue (Error 224003)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-usb-connections-on-your-pc-running-windows-10-or-11/"><u>How to Fix Unresponsive USB Connections on Your PC Running Windows 10 or 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-v30-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo V30 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-cure-for-disconnected-channels-in-obs/"><u>In 2024, Cure for Disconnected Channels in OBS</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-hurdle-connecting-airpods-to-your-windows-11-pc-latest-solutions/"><u>Overcoming the Hurdle: Connecting AirPods to Your Windows 11 PC - Latest Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-of-a-malfunctioning-built-in-camera-on-windows-systems/"><u>Solving the Issue of a Malfunctioning Built-In Camera on Windows Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-tech-guide-handling-srt-on-a-mac-for-2024/"><u>The Ultimate Tech Guide Handling SRT on a Mac for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-damaged-windows-store-cache-problems/"><u>Troubleshooting and Solving Damaged Windows Store Cache Problems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevating-brand-presence-a-guide-to-influencer-marketing-on-instagram/"><u>[New] Elevating Brand Presence A Guide to Influencer Marketing on Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-audio-preservation-for-academics-on-apple-systems/"><u>[Updated] In 2024, Audio Preservation for Academics on Apple Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-your-typing-experience-effective-fixes-for-lagging-keys-in-the-latest-windows-operating-system/"><u>Accelerate Your Typing Experience: Effective Fixes for Lagging Keys in the Latest Windows Operating System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-music-download-apps-for-your-mac-top-12-picks/"><u>Best FREE Music Download Apps for Your Mac - Top 12 Picks</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-non-responsive-trackpad-on-your-laptop-running-windows-11-8-or-7-expert-tips/"><u>Fixing a Non-Responsive TrackPad on Your Laptop Running Windows 11, 8 or 7: Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-computer-issues-a-comprehensive-look-at-a-stuck-shift-key/"><u>Fixing Computer Issues: A Comprehensive Look at a Stuck Shift Key</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-update-error-0x8024402c-a-step-by-step-guide/"><u>Fixing Windows Update Error 0X8024402C: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-storyboards-to-shortcuts-instra-to-tiksync-guide-for-2024/"><u>From Storyboards to Shortcuts Instra-to-TikSync Guide for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-nokia-105-classicmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nokia 105 ClassicMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-align-a-laptop-display-no-more-inverted-screens/"><u>How to Correctly Align a Laptop Display: No More Inverted Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-persistent-error-0xc19solved-during-windows-10-updates/"><u>How to Resolve the Persistent 'Error 0Xc19([SOLVED]' During Windows 10 Updates</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premier-mac-studio-for-high-quality-recordings-for-2024/"><u>Premier Mac Studio for High-Quality Recordings for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-troubleshooting-overcome-the-missing-battery-alert-easily/"><u>Quick Troubleshooting: Overcome the 'Missing Battery Alert' Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sky-high-selfies-made-easy-dji-spark-reviewed-for-2024/"><u>Sky High Selfies Made Easy DJI Spark Reviewed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-your-windows-11-black-screen-challenge/"><u>Step-by-Step Solutions for Your Windows 11 Black Screen Challenge</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components-and-systems/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components and Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-vpn-free-trials-comprehensive-experts-reviews-techradar/"><u>Top-Rated VPN Free Trials - Comprehensive Experts' Reviews | TechRadar</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-nier-automata-for-pc-to-prevent-system-freezes/"><u>Troubleshooting Nier: Automata for PC to Prevent System Freezes</u></a></li>
 </ul></div>
 

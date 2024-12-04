@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Running Fortnite with Non-Compatible Graphics Hardware in Windows"
-date: 2024-11-18T03:35:06.526Z
-updated: 2024-11-25T00:20:45.976Z
+date: 2024-11-29T01:14:13.376Z
+updated: 2024-12-03T22:32:29.916Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Type and copy this command below and press**Enter** .
 
 msdt.exe -id DeviceDiagnostic
@@ -53,10 +57,6 @@ msdt.exe -id DeviceDiagnostic
  3\. Once the troubleshooter displays, you can click**Next** to run this tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Click**Apply this fix** when the troubleshooter finds a fix for you.
 
@@ -66,10 +66,6 @@ msdt.exe -id DeviceDiagnostic
 
  The troubleshooter may provide a solution for restoring your missing webcam. Now check if your problem has been solved. If not, you can try the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Allow apps to access your camera
 
  It’s always important to make sure that your device and apps can access your camera. Here’s how:
@@ -77,10 +73,6 @@ msdt.exe -id DeviceDiagnostic
  1\. In the Windows Search bar, type**camera** and select**Camera privacy settings** .
 
 ![camera privacy settings](https://images.drivereasy.com/wp-content/uploads/2021/03/image-14.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2\. Scroll down the settings page and make sure the toggle is set to**On** for Camera Access for this device and**Allow apps to access your camera** .
 
@@ -101,6 +93,10 @@ msdt.exe -id DeviceDiagnostic
  2\. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![scan device drivers](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Click the **Update** button next to the ASUS webcam driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
@@ -125,21 +121,21 @@ msdt.exe -id DeviceDiagnostic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-18.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Locate**Camera** and select**Advanced options** .
 
 ![app and features](https://images.drivereasy.com/wp-content/uploads/2021/03/image-19.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Scroll down and click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take about a few seconds to complete. Once the reset is done, check if the camera error 0xa00f4292 has been resolved by now.
 
@@ -150,6 +146,10 @@ msdt.exe -id DeviceDiagnostic
  1\. Type**cmd** in the Windows Search bar, and select**Run as administrator** .
 
 ![command prompt](https://images.drivereasy.com/wp-content/uploads/2021/03/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2\. Click**Yes** when prompted for consent.
 
@@ -184,16 +184,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-start-streaming-the-simple-method-for-mac-book-air-recording-for-2024/"><u>[New] Start Streaming The Simple Method for Mac Book Air Recording for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gifts-that-speak-volumes-a-compendium-of-custom-box-shops-online/"><u>2024 Approved Gifts That Speak Volumes A Compendium of Custom Box Shops Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/clearing-up-confusion-how-to-deal-with-unknown-usb-device-and-failed-port-resets-on-your-windows-10-pc/"><u>Clearing Up Confusion: How to Deal with 'Unknown USB Device' And Failed Port Resets on Your Windows 10 PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-vcruntime140dll-missing-error-efficiently-expert-tips-included/"><u>How to Resolve vcruntime140.dll Missing Error Efficiently - Expert Tips Included</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-complete-assessment-exploring-dji-inspire-1/"><u>In 2024, Complete Assessment Exploring DJI Inspire 1</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206472625-netflix-sound-not-working-heres-how-you-can-fix-it-fast/"><u>Netflix Sound Not Working? Here's How You Can Fix It Fast</u></a></li>
-<li><a href="https://common-error.techidaily.com/pdf-printing-issues-uncover-easy-and-fast-remedies-here/"><u>PDF Printing Issues? Uncover Easy and Fast Remedies Here.</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-heart-of-adventure-polaroid-cubeplus-video-analysis/"><u>The Heart of Adventure Polaroid Cube+ Video Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-iastordatasvcs-excessive-processor-load-in-windows-11/"><u>Troubleshooting and Solving IAStorDataSvc's Excessive Processor Load in Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-instagram-storytelling-using-videos-effectively-for-2024/"><u>[New] Instagram Storytelling Using Videos Effectively for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-navigating-windows-10-for-audio-capture/"><u>[New] Navigating Windows 10 for Audio Capture</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-the-future-of-fb-advertising-key-predictions-for-2024/"><u>[Updated] Navigating the Future of FB Advertising – Key Predictions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203716216-bluetooth-not-working-on-windows-11-try-these-effortless-repairs/"><u>Bluetooth Not Working on Windows 11? Try These Effortless Repairs!</u></a></li>
+<li><a href="https://common-error.techidaily.com/high-cpu-issue-resolved-in-windows-driver-framework-integration/"><u>High CPU Issue Resolved in Windows Driver Framework Integration</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-a23-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-8-free-instagram-to-mp4-converters-you-can-try-onlinewindowsmac/"><u>In 2024, 8 Free Instagram to MP4 Converters You Can Try [Online/Windows/Mac]</u></a></li>
+<li><a href="https://common-error.techidaily.com/maintain-a-positive-tone-users-are-often-looking-for-solutions-so-use-positive-words-like-guide-or-solutions-that-indicate-you-have-the-answer-theyre-seekin93/"><u>Maintain a Positive Tone: Users Are Often Looking for Solutions, so Use Positive Words Like Guide or Solutions that Indicate You Have the Answer They're Seeking. Avoid Using Negative Connotations in Your Titles.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pixel-perfection-designing-distinctive-displays-on-win-1011-screens/"><u>Pixel Perfection: Designing Distinctive Displays on WIN 10/11 Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unrecoverable-error-in-directx-a-comprehensive-guide/"><u>Resolving 'Unrecoverable Error' In DirectX: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-hack-to-resolve-new-worlds-easy-anti-cheat-error-and-jump-into-your-quest/"><u>The Ultimate Hack to Resolve New World's Easy Anti-Cheat Error and Jump Into Your Quest</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-lowering-svchostexe-process-load-on-windows-nx-series-computers/"><u>Troubleshooting Steps for Lowering svchost.exe Process Load on Windows nX-Series Computers</u></a></li>
 </ul></div>
 

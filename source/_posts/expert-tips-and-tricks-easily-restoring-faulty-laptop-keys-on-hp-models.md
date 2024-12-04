@@ -1,7 +1,7 @@
 ---
 title: Expert Tips & Tricks - Easily Restoring Faulty Laptop Keys on HP Models!
-date: 2024-11-20T03:02:38.763Z
-updated: 2024-11-24T16:51:29.258Z
+date: 2024-11-29T21:37:57.056Z
+updated: 2024-12-04T02:20:08.430Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -48,16 +52,12 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -107,11 +107,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -134,10 +142,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,19 +184,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-construct-your-fb-cover-vision/"><u>[New] 2024 Approved Construct Your FB Cover Vision</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-from-hobbyist-to-pro-selecting-top-drone-editing-tools/"><u>[New] 2024 Approved From Hobbyist to Pro Selecting Top Drone Editing Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-comprehensive-guide-to-penning-appealing-vlog-narratives/"><u>[Updated] A Comprehensive Guide to Penning Appealing Vlog Narratives</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-stroke-of-genius-best-10-creative-sketch-software-for-mac-free/"><u>[Updated] In 2024, Stroke of Genius Best 10 Creative Sketch Software for Mac (Free)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-step-by-step-guide-to-automated-iphone-podcast-downloads/"><u>[Updated] Step-By-Step Guide to Automated iPhone Podcast Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-lag-proven-strategies-for-seamless-playing-in-pubg/"><u>Beat the Lag: Proven Strategies for Seamless Playing in PUBG!</u></a></li>
-<li><a href="https://common-error.techidaily.com/deterring-windows-11-system-crashes/"><u>Deterring Windows 11 System Crashes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-experts-choice-top-10-high-definition-screen-recorders/"><u>In 2024, Expert's Choice Top 10 High-Definition Screen Recorders</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-windows-smartscreen-currently-unavailable-notification/"><u>Solutions for 'Windows SmartScreen Currently Unavailable' Notification</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-surprise-shutdowns-solutions-for-windows-10s-sudden-restart-issues/"><u>Stop Surprise Shutdowns! Solutions for Windows 10'S Sudden Restart Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/transformative-use-of-windows-tools-in-linux/"><u>Transformative Use of Windows Tools in Linux</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-wow-server-lags-essential-steps-to-smooth-gameplay/"><u>Troubleshooting WoW Server Lags: Essential Steps to Smooth Gameplay</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/windows-10dvddvd/"><u>Windows 10でDVD再生失敗の理由と解決手順：レンタル、店頭、自作のDVD対策</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-building-your-brand-through-effective-fb-reel-strategies-for-2024/"><u>[New] Building Your Brand Through Effective FB Reel Strategies for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-dragons-echo-leading-places-to-acquire-got-audio-calls/"><u>[New] In 2024, Dragon's Echo Leading Places to Acquire GoT Audio Calls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-lexicon-of-persuasion-in-business-communication/"><u>[New] The Lexicon of Persuasion in Business Communication</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-10-wont-boot-after-update/"><u>[Solved] Windows 10 Won't Boot After Update</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-perfecting-the-closure-a-practical-guide-to-vimeos-end-credits/"><u>[Updated] 2024 Approved Perfecting the Closure A Practical Guide to Vimeo's End Credits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breakthrough-in-automotive-cybersecurity-teslas-latest-over-the-air-update-deal-for-improved-car-safety-zdnet-analysis/"><u>Breakthrough in Automotive Cybersecurity: Tesla's Latest Over-the-Air Update Deal for Improved Car Safety | ZDNet Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/corporate-crown-best-cloud-keepers-for-2024/"><u>Corporate Crown Best Cloud Keepers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-system-critical-process-failed-error-on-your-pc-0xc00000e9-explained/"><u>Expert Advice: Correcting System Critical Process Failed Error on Your PC (0XC00000E9 Explained)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-critical-imaging-errors-in-your-windows-11-or-10-pc/"><u>How to Overcome Critical Imaging Errors in Your Windows 11 or 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-laptop-keyboard-malfunction-heres-how-to-fix-it-quickly/"><u>HP Laptop Keyboard Malfunction? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-xiaomi-14-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Xiaomi 14 Pro Is Unlocked</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/printer-driver-was-not-installed-access-is-denied/"><u>Printer Driver Was Not Installed: Access Is Denied</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-setup-fails-overcome-error-code-80240020-for-successful-installation/"><u>Windows 10 Setup Fails: Overcome Error Code 80240020 for Successful Installation</u></a></li>
 </ul></div>
 

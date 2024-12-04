@@ -1,7 +1,7 @@
 ---
 title: "Destiny 2 Troubleshooting: How to Fix 'Initialization Failed' Error"
-date: 2024-08-27T13:39:25.761Z
-updated: 2024-08-28T13:39:25.761Z
+date: 2024-11-28T05:21:18.105Z
+updated: 2024-12-03T19:52:45.674Z
 tags:
   - win11
   - win10
@@ -44,15 +44,20 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae442394ec26.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**Compatibility** tab, check**Run this program as an administrator** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae454db00d71.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Double click the_executable (.exe) file_ of or the_desktop shortcut_ to your game, then check to see if you’ve got rid of the “failed to install” error.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Method 3: Run the BattlEye launcher as an administrator
 
  There may be a permission issue with your BattlEye service that prevents it from installing successfully:
@@ -63,18 +68,12 @@ thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae442394ec26.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 **2)** Click the**Compatibility** tab, check**Run this program as an administrator** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae454d3f00ea.png)
 
  If this method works for you, you won’t see the error when you launch your game. But if it doesn’t, there are three more fixes for you to try…
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Method 4: Run the BattlEye installer manually
 
  When the game has failed to install the BattlEye service for you, you can install it manually. To do so:
@@ -96,15 +95,13 @@ To verify your game files integrity on Steam:
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Select the**Installed Files** tab, then click on the button**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Wait until the process is completed.
 
 **4)** Launch your game. Then check to see if the error’s gone.
@@ -112,8 +109,9 @@ To verify your game files integrity on Steam:
  If this works for you, you won’t see the error again. But if not, you have one more thing to try…
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 6: Update your device drivers
 
  The error may occur because you are using the wrong device driver or it’s out of date. You should update your driver and see if that’s the case for you. If you don’t have the time, patience, or skills to update your driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -128,6 +126,10 @@ To verify your game files integrity on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to each device to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
@@ -140,8 +142,6 @@ To verify your game files integrity on Steam:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +149,20 @@ To verify your game files integrity on Steam:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-print-driver-host-for-32bit-applications-has-stopped-working/"><u>[Fixed] Print Driver Host for 32Bit Applications Has Stopped Working</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-enhance-your-play-mastering-kinemaster-and-the-top-10-alternative-games-for-2024/"><u>[New] Enhance Your Play Mastering KineMaster & The Top 10 Alternative Games for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-enhancing-images-with-radial-photoshop-effects/"><u>[New] In 2024, Enhancing Images with Radial Photoshop Effects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-essentials-of-earning-on-youtube-platforms/"><u>[New] The Essentials of Earning on YouTube Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-the-failed-to-initialize-directx-problem/"><u>Effective Remedies for the 'Failed to Initialize DirectX' Problem</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/enhancing-kyc-compliance-in-finance-with-ai-and-ml-techniques-download-our-comprehensive-guide/"><u>Enhancing KYC Compliance in Finance with AI & ML Techniques - Download Our Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-a-blinking-cursor-simple-troubleshooting-steps/"><u>Fix a Blinking Cursor: Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-activate-and-navigate-picture-in-picture-view-on-your-smartphone/"><u>How to Activate and Navigate Picture-in-Picture View on Your Smartphone</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-access-launching-web-pages-as-windows-programs/"><u>Instant Access: Launching Web Pages as Windows Programs</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-windows-10-device-connection-casting-errors-efficiently/"><u>Solving Your Windows 10 Device Connection Casting Errors Efficiently</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-expert-advice/"><u>Tom's Tech Review: In-Depth Analysis & Expert Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-motorola-moto-g-stylus-5g-2023-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Motorola Moto G Stylus 5G (2023) Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Smart 7 | Dr.fone</u></a></li>
+</ul></div>
 

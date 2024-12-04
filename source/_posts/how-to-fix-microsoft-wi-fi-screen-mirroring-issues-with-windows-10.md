@@ -1,7 +1,7 @@
 ---
 title: How to Fix Microsoft Wi-Fi Screen Mirroring Issues with Windows 10
-date: 2024-11-18T02:37:16.057Z
-updated: 2024-11-24T20:13:44.355Z
+date: 2024-12-03T01:18:32.781Z
+updated: 2024-12-04T03:44:38.914Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -34,7 +38,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -72,17 +76,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -92,23 +92,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -118,6 +106,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -125,8 +117,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -150,20 +152,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-livestreaming-leaderboards-which-software-tops-the-chartvmixwirecast/"><u>[New] 2024 Approved Livestreaming Leaderboards Which Software Tops the Chart—VMix/Wirecast?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-list-20plus-methods-to-record-skype-calls-on-computers/"><u>[New] 2024 Approved The Ultimate List 20+ Methods to Record Skype Calls on Computers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-advanced-camera-control-for-iphone-users/"><u>[New] Advanced Camera Control for iPhone Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-creative-annotation-warping-tactics-for-2024/"><u>[New] Creative Annotation Warping Tactics for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-exclusive-access-to-premium-playlists-on-mobile-devices-for-2024/"><u>[New] Exclusive Access to Premium Playlists on Mobile Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-elevating-roi-in-facebooks-animated-advertising-arena-for-2024/"><u>[Updated] Elevating ROI in Facebook's Animated Advertising Arena for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-when-your-diagnostics-policy-service-wont-start/"><u>Fixing the Issue When Your Diagnostics Policy Service Won't Start</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211216811-immediate-solutions-stop-counter-strike-go-from-crashing-now/"><u>Immediate Solutions: Stop Counter-Strike Go From Crashing Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-pc-effective-repair-strategies-with-sfc-and-dism-in-windows-nvironments/"><u>Reviving Your PC: Effective Repair Strategies with SFC and DISM in Windows Nvironments</u></a></li>
-<li><a href="https://common-error.techidaily.com/steam-content-accessibility-issue-resolved-what-you-need-to-know/"><u>Steam Content Accessibility Issue Resolved: What You Need to Know</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transform-your-samsung-galaxy-s22-with-innovative-ai-integration-and-next-gen-features/"><u>Transform Your Samsung Galaxy S22 with Innovative AI Integration and Next-Gen Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-your-netflix-sound-issues-in-minutes-with-these-fixes/"><u>Troubleshoot Your Netflix Sound Issues in Minutes with These Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-a-dvd-cant-be-played-in-microsoft-windows/"><u>Troubleshooting Steps When a DVD Can't Be Played in Microsoft Windows</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-13-pro-max-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 13 Pro Max without itunes or icloud</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-creations-with-the-best-exclusive-offer-on-eleegoo-neptune-4-pro-at-just-240-from-newegg/"><u>Upgrade Your Creations with the Best: Exclusive Offer on Eleegoo Neptune 4 Pro at Just $240 From Newegg</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-10-new-recording-solutions-that-excel-beyond-fbx-limits/"><u>[Updated] Top 10 New Recording Solutions That Excel Beyond FBX Limits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-image-full-screen-webpage/"><u>2024 Approved Image Full-Screen Webpage</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-resolve-right-click-issues-with-a-mouse-in-windows-10/"><u>Easy Steps to Resolve Right Click Issues with a Mouse in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-startup-screens-vanishing-in-monster-hunter-world/"><u>Expert Solutions for Startup Screens Vanishing in Monster Hunter: World</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-parseerror-fixes-for-winoss/"><u>Streamlining ParseError Fixes for WinOSs</u></a></li>
+<li><a href="https://win-premium.techidaily.com/the-ultimate-list-top-4-screen-reflector-software-options-for-the-huawei-mate-xs/"><u>The Ultimate List: Top 4 Screen Reflector Software Options for the Huawei Mate XS</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-resolving-windows-error-0x80004005-the-unspecified-problem/"><u>Troubleshooting Guide for Resolving Windows Error 0X80004005: The Unspecified Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-the-notorious-livekernelevent-117-error/"><u>Ultimate Troubleshooting Tips for the Notorious LiveKernelEvent 117 Error</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-gopro-video-editing-simplified-a-free-online-resource/"><u>Updated 2024 Approved GoPro Video Editing Simplified A Free Online Resource</u></a></li>
 </ul></div>
 

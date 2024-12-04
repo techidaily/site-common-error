@@ -1,7 +1,7 @@
 ---
 title: "Taming the Unpredictable: Fixing Your Laptop's Sudden Off Switches"
-date: 2024-08-27T13:45:06.098Z
-updated: 2024-08-28T13:45:06.098Z
+date: 2024-11-27T20:57:00.322Z
+updated: 2024-12-03T21:49:05.059Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run system file checker
 
  Missing or damaged system files may lead to your PUBG-not-launching issue. If that’s the case, you can use the system file checker tool of Windows to check for any file corruption and thereby repair it.
@@ -66,9 +70,6 @@ sfc /scannow
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify integrity of game files
 
  There’s a possibility that some of the game files got missing or damaged during the download process.In this case, you should use the built-in tool of Steam to verify the integrity of your game files.
@@ -87,6 +88,10 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-446.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait till the process is complete. After that, click**CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-31.png)
@@ -94,6 +99,10 @@ sfc /scannow
  Now it’s time to launch the game and check whether it runs normally. If not, read the next fix and give it a whirl.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Repair or install the 2017 Visual C++ Redistributable**
 
@@ -109,16 +118,10 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-448.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) On the next page, go to the**LOCAL FILES** tab. Next, click **BROWSE LOCAL FILES…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-466.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  4) When the game folder is opened, locate**\_CommonRedist** and double-click on it. Then go on to double-click these two subfolders:**vcredist > 2017** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-471.png)
@@ -134,15 +137,16 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-474.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Select**Repair** and follow the onscreen instructions to repair your 2017 Visual C++ Redistributable. Wait for the process to finish, and then launch PUBG to check if it has gone back to normal. If yes, then congrats – you’ve solved the problem!
 
  If not, return to this step and choose**Uninstall** . Likewise, complete the follow-up process and check to see whether your PUBG-not-launching issue has disappeared or not.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-475.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  In case your problem hasn’t been solved successfully, you may move on to the next fix below.
 
 ---
@@ -156,17 +160,15 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-296.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select the**Processes** tab. Right-click on the program that needs to be ended and click**End task** . If you don’t know which program should be shut down, simply close all the background running apps that you think are unnecessary.**Note** that you shouldn’t end any processes that you’re not familiar with in case you mistakenly close the important ones.
 
  As reported by many PUBG players,**MSI Afterburner** – an overclocking tool for MSI graphics cards – may be one of the culprits for the trouble. If you happen to be using this app, make sure you turn if off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-13_10-51-43.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you find out any programs that trigger the issue, you can forward them to **[PUBG support](https://www.pubg.com/support/)**  .
 
  3) Your trouble is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily**disable your antivirus program** and check if the PUBG-not-launching issue persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -196,8 +198,9 @@ If this didn’t help, please try out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-96.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the **FREE** version). Then install the driver in your computer.
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -205,17 +208,15 @@ If this didn’t help, please try out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-97.png)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have any problems when using Driver Easy, please feel free to drop us an email at <support@drivereasy.com>. We are always here if we can help.
 
  4) Reboot your computer and launch PUBG. Check to see whether it can run properly this time.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall PUBG
 
  If all the fixes above can’t help you solve the problem, then you should try to reinstall PUBG in case some of its crucial files have been corrupted. Here’s how to do it:
@@ -224,20 +225,22 @@ If this didn’t help, please try out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_10-55-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand the drop-down list next to**View by:** and select **Category** . Then, click **Uninstall a program** right under the **Programs** category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-750.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right-click on PUBG and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-481.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Follow the on-screen instructions to uninstall PUBG.
 
 5) Download and install PUBG from Steam once again. Then try to launch the game and see if your problem still remains.
@@ -256,8 +259,6 @@ If this didn’t help, please try out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -265,4 +266,24 @@ If this didn’t help, please try out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-comprehensively-understanding-iphones-recording-feature/"><u>[New] Comprehensively Understanding iPhone's Recording Feature</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-visual-vanguard-the-top-videoviral-tweets/"><u>[New] In 2024, Visual Vanguard The Top #VideoViral Tweets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-master-money-makers-the-best-of-the-top-ig-earners-for-2024/"><u>[New] Master Money Makers The Best of the Top IG Earners for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-enhancing-video-soundtracks-on-digital-platforms/"><u>[Updated] In 2024, Enhancing Video Soundtracks on Digital Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-d3derr-not-available-heres-how-to-get-things-running-smoothly-again/"><u>Dealing with D3DERR Not Available? Here's How to Get Things Running Smoothly Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-prevent-and-repair-csgo-system-failures-instantly/"><u>Expert Tips to Prevent and Repair CSGO System Failures Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-brightness-slider-omission-in-windows/"><u>Fix: Brightness Slider Omission in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-winplusshiftpluss-hotkey-malfunction-on-windows-operating-systems/"><u>How to Repair Win+Shift+S Hotkey Malfunction on Windows Operating Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-step-into-the-future-elevate-your-gameplay-with-fbx-recorder/"><u>In 2024, Step Into the Future Elevate Your Gameplay with FBX Recorder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-reboot-process-solutions-to-common-windows-11-startup-problems/"><u>Mastering the Reboot Process: Solutions to Common Windows 11 Startup Problems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4-mp3-mpe-movavi/"><u>MP4를 MP3로 구독하기 MPE 서버 제공 – Movavi 편집기</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-the-notorious-windows-10-blue-screen-dilemma/"><u>Resolved: How to Fix the Notorious Windows 10 Blue Screen Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-keyboard-problems-a-complete-walkthrough-on-resetting-your-devices-input-method/"><u>Solve Keyboard Problems: A Complete Walkthrough on Resetting Your Device's Input Method</u></a></li>
+<li><a href="https://article-posts.techidaily.com/stitching-photographs-into-an-eye-catching-canvas-for-2024/"><u>Stitching Photographs Into an Eye-Catching Canvas for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-how-to-restore-functionality-of-function-key-shortcuts-on-your-asus-laptop/"><u>Troubleshooting Fixes: How to Restore Functionality of Function Key Shortcuts on Your ASUS Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-how-to-correct-error-code-0x8024401c/"><u>Troubleshooting Windows 11: How to Correct Error Code 0X8024401C</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tutoriel-complet-creation-de-videos-pour-mac-avec-movavi-guide-facile-a-suivre/"><u>Tutoriel Complet: Création De Vidéos Pour Mac Avec MOVAVI - Guide Facile À Suivre</u></a></li>
+</ul></div>
 

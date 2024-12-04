@@ -1,7 +1,7 @@
 ---
 title: "Resolving Critical Issues in Call of Duty: Black Ops 4"
-date: 2024-08-27T13:43:32.548Z
-updated: 2024-08-28T13:43:32.548Z
+date: 2024-11-29T23:07:29.722Z
+updated: 2024-12-03T23:14:38.158Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
  You might see an error message of**SEC\_ERROR\_UNKNOWN\_ISSUER** in Firefox, and you can’t open the webpages. This is frustrating. But don’t panic! There is something you can do to fix the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does the error occur to my browser?
 
  When connecting securely, websites needs to provide a certificate issued from the certificate authority to ensure that it’s connected to the target website and the connection is encrypted. If you see “SEC\_ERROR\_UNKNOWN\_ISSUER” when opening a website, it means that Firefox default connection is not trusted as the certificate is unknown.
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
  It’s actually browser or the website’s responsibility to detect or provide the secure certificate issue. However, if there’s malware or virus in your computer, you’re likely to run into this error as well.
 
 So don’t give up hope. There is something you can do to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -35,9 +43,6 @@ So don’t give up hope. There is something you can do to fix it.
 2. [Create a new user profile](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable SSL scanning in your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Run a virus scan
 
  The ‘SEC\_ERROR\_UNKNOWN\_ISSUER’ error message may appear if a virus on your computer is preventing the certificate from being detected. The virus may even be generating the error itself.
@@ -58,16 +63,27 @@ To do so, follow the steps below:
  If Firefox in your computer is already closed, head to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12025bb9964.jpg)
 2. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type**firefox.exe -P** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1202b7e8d62.jpg)
 4. **Firefox – Choose User Profile** will pop up. Click**Create Profile** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12020cdc034.png)
 5. Follow the on-screen instructions to finish the process.
 6. Re-launch Firefox and log in your new user profile.
 7. Open the website again to see if your problem has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable SSL scanning in your antivirus software
 
@@ -78,24 +94,12 @@ To do so, follow the steps below:
 1. Open Avast in your computer, and click**Menu** \>**Settings** on the upper right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200fecc285.jpg)
 2. Click**Components** on the left, and click**Customize** in the**Web Shield** section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200c760b7e.jpg)
 3. Uncheck the box next to**Enable HTTPS scanning** in the pop-up window. Then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12013f88f23.jpg)
 4. Click**OK** again to save your changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12019e3eba4.jpg)
 5. Re-open Firefox, and open the website again to see if it works now.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
  So that’s it. Hope this post helps in resolving the error**SEC\_ERROR\_UNKNOWN\_ISSUER** .
 
@@ -110,8 +114,6 @@ To do so, follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +121,24 @@ To do so, follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/solved-microsoft-compatibility-telemetry-high-disk-usage-on-windows-11/"><u>[Solved] Microsoft Compatibility Telemetry High Disk Usage on Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-step-by-step-methodology-for-video-filter-addition-on-tech-devices/"><u>[Updated] 2024 Approved Step-by-Step Methodology for Video Filter Addition on Tech Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-preserve-your-memories-android-and-mac-snap-extraction-tips/"><u>[Updated] Preserve Your Memories Android & Mac Snap Extraction Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-tips-for-a-wireless-mouse-that-stops-working-intermittently-on-windows/"><u>Comprehensive Troubleshooting Tips for a Wireless Mouse That Stops Working Intermittently on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-lack-of-light-on-your-razer-illuminated-keyboard/"><u>Diagnosing and Fixing Lack of Light on Your Razer Illuminated Keyboard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fast-conversion-from-wav-to-aiff-files-easy-steps-for-windows-users/"><u>Fast Conversion From WAV to AIFF Files: Easy Steps for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-timeout-error-for-win1110-semaphore/"><u>How To Reset 'Timeout Error' For Win11/10 Semaphore</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-15-plus-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 15 Plus Without iTunes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-vector-graphics-the-ultimate-10-site-list/"><u>In 2024, Premium Vector Graphics The Ultimate 10 Site List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-strategic-campaign-planning-for-health-brands/"><u>In 2024, Strategic Campaign Planning for Health Brands</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-11-update-obstacle-with-code-0x800f0922-fixes/"><u>Overcome Windows 11 Update Obstacle with Code 0X800F0922 Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-class-registration-issues-in-windows-11-troubleshooting-guide/"><u>Resolved: Class Registration Issues in Windows 11 - Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-when-windows-security-feature-smartscreen-is-offline/"><u>Resolving Issues When Windows Security Feature SmartScreen Is Offline</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/review-of-the-logitech-casamania-pop-up-workstation-impressive-keys-and-pads-compromising-case-quality/"><u>Review of the Logitech Casamania Pop-Up Workstation: Impressive Keys and Pads, Compromising Case Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-window-speaker-distortion-issues-on-windows-11-and-7-systems/"><u>Solving Window Speaker Distortion Issues on Windows 11 and 7 Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-choice-couch-co-op-video-games-best-picks-for-enjoying-gaming-together/"><u>Top Choice Couch Co-Op Video Games: Best Picks for Enjoying Gaming Together</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-persistent-livekernelevent-117-issue/"><u>Ultimate Guide: Resolving the Persistent LiveKernelEvent 117 Issue</u></a></li>
+</ul></div>
 

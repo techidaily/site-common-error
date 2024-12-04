@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Windows 10 Freezing During Updates Efficiently
-date: 2024-11-20T20:28:29.118Z
-updated: 2024-11-25T02:14:44.384Z
+date: 2024-11-30T22:21:52.496Z
+updated: 2024-12-03T21:35:53.548Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -50,6 +50,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -67,16 +71,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -88,15 +92,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
@@ -119,14 +119,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -152,18 +152,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-gifs-a-step-by-step-snapchat-guide/"><u>2024 Approved Mastering GIFs A Step-by-Step Snapchat Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-varieties-of-artificial-intelligence-public-private-and-personal-explained/"><u>Comparing Varieties of Artificial Intelligence: Public, Private & Personal Explained</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/easy-guide-to-downloading-vh1-hits-collection-from-any-computer/"><u>Easy Guide to Downloading VH1 Hits Collection From Any Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-non-running-diagnostic-services-policy-problems/"><u>Effective Solutions for Non-Running Diagnostic Services Policy Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-troubleshooting-steps-for-fixing-windows-error-651/"><u>Effective Troubleshooting Steps for Fixing Windows Error 651</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-make-a-lasting-impression-with-the-best-video-invitation-apps/"><u>In 2024, Make a Lasting Impression with the Best Video Invitation Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/photocollage-mastery-building-visual-narratives-for-2024/"><u>PhotoCollage Mastery Building Visual Narratives for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-directory-name-not-recognized-error-message/"><u>Resolved: Fixing 'Directory Name Not Recognized' Error Message</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-windows-resource-protection-wrp-overcoming-system-maintenance-errors/"><u>Resolving Issues with Windows Resource Protection (WRP) – Overcoming System Maintenance Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-persistent-0x80072efd-error-in-windows-10/"><u>Step-by-Step Guide: Resolving the Persistent 0X80072EFD Error in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-source-for-pc-enthusiasts-insights-from-toms-hardware/"><u>The Ultimate Source for PC Enthusiasts: Insights From Tom's Hardware</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/top-income-estimator-apps-for-tiktok-content-makers-for-2024/"><u>Top Income Estimator Apps for TikTok Content Makers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-recapturing-moments-top-notch-free-cam-screens-and-alternatives/"><u>[New] 2024 Approved Recapturing Moments Top-Notch Free Cam Screens & Alternatives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-improve-your-videography-the-itunes-way-for-2024/"><u>[Updated] Improve Your Videography The iTunes Way for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/acquiring-trust-navigating-trustedinstaller-for-file-alterations/"><u>Acquiring Trust: Navigating TrustedInstaller for File Alterations</u></a></li>
+<li><a href="https://common-error.techidaily.com/aoc-monitor-malfunction-on-windows-10-solutions-for-a-fixed-display-issue/"><u>AOC Monitor Malfunction on Windows 10 - Solutions for a Fixed Display Issue</u></a></li>
+<li><a href="https://article-tips.techidaily.com/discover-the-next-big-thing-in-design-the-best-9-sites-featuring-dynamic-3d-text-creation/"><u>Discover the Next Big Thing in Design The Best 9 Sites Featuring Dynamic 3D Text Creation</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/effizientes-kopieren-von-windows-11-auf-einen-ssd-mit-gparted-schritt-fur-schritt-anleitung-und-losungsansatze/"><u>Effizientes Kopieren Von Windows 11 Auf Einen SSD Mit GParted: Schritt-Für-Schritt-Anleitung Und Lösungsansätze</u></a></li>
+<li><a href="https://fox-access.techidaily.com/envision-vr-today-a-practical-guide-for-smartphone-users-for-2024/"><u>Envision VR Today A Practical Guide for Smartphone Users for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-visual-hitches-with-windows-11-and-10-images/"><u>Expert Advice: Overcoming Visual Hitches with Windows 11 and 10 Images</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-redmi-k70mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi Redmi K70Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-unresponsive-keys-on-your-microsoft-windows-computer-versions-11-7-and-8/"><u>How to Fix Unresponsive Keys on Your Microsoft Windows Computer (Versions 11, 7 & 8)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-error-0xc00000e9/"><u>How to Fix Windows Error 0Xc00000e9</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-system-errors-that-keep-your-laptop-from-booting-successfully/"><u>How to Overcome System Errors That Keep Your Laptop From Booting Successfully</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-tactics-for-smoothly-importing-movies-to-vimeo-from-wmm/"><u>In 2024, Tactics for Smoothly Importing Movies to Vimeo From WMM</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-connecting-your-microsoft-wireless-display-adapter-with-windows-10-a-comprehensive-guide/"><u>Resolved! Connecting Your Microsoft Wireless Display Adapter With Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-check-needed-confirming-your-gpus-support-for-d3d11-is-crucial-for-running-the-software/"><u>System Check Needed: Confirming Your GPU's Support for D3D11 Is Crucial for Running the Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-quintessential-guide-to-premium-4k-blu-ray-devices/"><u>The Quintessential Guide to Premium 4K Blu-Ray Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209258918-troubleshoot-and-resolve-the-0x80070002-issue-in-windows-update-seamlessly/"><u>Troubleshoot and Resolve the 0X80070002 Issue in Windows Update Seamlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-unresponsive-touchpad-scroll-issues-in-windows-10/"><u>Troubleshooting: Fixing Unresponsive Touchpad Scroll Issues in Windows 10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-video-editing-in-windows-tips-tricks-and-techniques/"><u>Updated In 2024, The Ultimate Guide to Video Editing in Windows Tips, Tricks, and Techniques</u></a></li>
 </ul></div>
 

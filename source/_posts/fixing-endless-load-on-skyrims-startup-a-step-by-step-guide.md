@@ -1,7 +1,7 @@
 ---
 title: "Fixing Endless Load on Skyrim's Startup: A Step-by-Step Guide"
-date: 2024-11-21T23:48:25.813Z
-updated: 2024-11-24T21:58:43.434Z
+date: 2024-11-26T17:21:05.585Z
+updated: 2024-12-03T18:51:47.374Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
  You can actually fix the**A media driver your computer needs is missing** error easily and quickly with the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Re-plug the USB drive
 
  You can try to re-plug the USB drive to fix the problem. Try the steps below:
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756ddcbe2a8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
@@ -80,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
  3)**Plug the USB drive into another USB port** . If you have the**USB 2.0 port** with your PC/laptop, try to**plug the USB drive into the USB 2.0 port** .
 
 4) Try to install Windows again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change the settings in BIOS
 
@@ -117,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
  4) Save the settings and try to install Windows again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the ISO file format
 
  The ISO file faulty can also cause the issue, so you can try to change the ISO file format to solve the issue.
@@ -124,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
  Double check the**extracted setup** from the ISO file. If it is in**NTFS format** , extract the ISO file in**FAT32 format** and use the setup to install Windows again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Things you should do after trying these methods
@@ -149,10 +153,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a742eeb04a11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer to make it take effect.
 
  Here are the solutions to fix**A media driver your computer needs is missing** . If you have any questions, please feel free to comment below, and we’ll see what more we can do to help.
@@ -175,16 +175,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-edit-audio-on-youtube-for-2024/"><u>[Updated] How to Edit Audio on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-harness-the-power-of-video-for-enhanced-facebook-traffic/"><u>2024 Approved Harness the Power of Video for Enhanced Facebook Traffic</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728489924913-ssd/"><u>无技能操作：如何快速复制计算机SSD到外置存储设备</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0x80072f8f-in-windows-comprehensive-fixes-and-guidance-for-users/"><u>Error Code 0X80072F8F in Windows: Comprehensive Fixes and Guidance for Users</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x50iplus-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X50i+ Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-13-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 13 Pro Apple ID and Apple Pay</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/interoperability-issue-fixed-non-responsive-htc-touchscreen/"><u>Interoperability Issue: Fixed Non-Responsive HTC Touchscreen</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/most-recent-nvidia-rtx-2080-driver-update-available-for-multiple-windows-versions/"><u>Most Recent NVIDIA RTX 2080 Driver Update Available for Multiple Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/reestablish-your-connection-to-sound-fixing-audio-malfunctions-on-acers/"><u>Reestablish Your Connection to Sound: Fixing Audio Malfunctions on Acers</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-correcting-the-critical-process-dumped-exception-error-0xc0000098/"><u>Understanding and Correcting the Critical Process Dumped Exception Error (0Xc0000098)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-essential-blueprint-for-crafting-compelling-reddit-posts/"><u>[New] 2024 Approved The Essential Blueprint for Crafting Compelling Reddit Posts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-design-innovators-club-exclusive-free-text-psdfree/"><u>[Updated] 2024 Approved Design Innovators Club Exclusive Free Text PSDFree</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-rapidly-rise-as-a-social-media-star-on-instagram/"><u>[Updated] In 2024, Rapidly Rise as a Social Media Star on Instagram</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unveiling-top-ten-os-agnostic-video-players/"><u>[Updated] In 2024, Unveiling Top Ten OS-Agnostic Video Players</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/diving-deep-into-the-world-of-professional-voice-overs-for-videos/"><u>Diving Deep Into the World of Professional Voice Overs for Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-safeguard-your-browser-tackling-the-deceptive-google-chrome-critical-error-scam/"><u>How to Safeguard Your Browser: Tackling the Deceptive 'Google Chrome Critical Error' Scam</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-hdcp-restrictions-for-better-display-performance-a-complete-guide/"><u>Overcoming HDCP Restrictions for Better Display Performance: A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/program-cant-start-running/"><u>Program Can't Start Running</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-overcoming-lameencdll-error-challenges-when-using-audacity-for-mp3-files/"><u>Step-by-Step Guide: Overcoming lame_enc.dll Error Challenges when Using Audacity for MP3 Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-tips-for-dealing-with-twitch-error-4000/"><u>Step-by-Step Troubleshooting Tips for Dealing with Twitch Error 4000</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206019282-troubled-by-cs-go-keep-freezing-or-crashing-heres-how-to-fix-it-quickly/"><u>Troubled by CS: GO Keep Freezing or Crashing? Here's How to Fix It Quickly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-pc-cant-close-windows-11-properly/"><u>Troubleshooting Tips for When Your PC Can't Close Windows 11 Properly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-selecting-prime-positioning-for-your-ps4-cam/"><u>Ultimate Guide: Selecting Prime Positioning for Your PS4 Cam</u></a></li>
+<li><a href="https://common-error.techidaily.com/wacom-pen-not-responding-solutions-for-windows-10-and-windows-11-users/"><u>Wacom Pen Not Responding? Solutions for Windows 10 & Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-updates-not-installing-heres-your-comprehensive-solution-guide/"><u>Windows 10 Updates Not Installing? Here's Your Comprehensive Solution Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/your-complete-guide-to-starting-a-zoom-conversation-on-an-android-device/"><u>Your Complete Guide to Starting a Zoom Conversation on an Android Device</u></a></li>
 </ul></div>
 

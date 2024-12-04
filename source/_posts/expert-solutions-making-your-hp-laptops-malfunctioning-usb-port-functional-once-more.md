@@ -1,7 +1,7 @@
 ---
 title: "Expert Solutions: Making Your HP Laptop's Malfunctioning USB Port Functional Once More"
-date: 2024-11-21T00:49:06.201Z
-updated: 2024-11-24T22:33:43.675Z
+date: 2024-11-27T18:51:42.108Z
+updated: 2024-12-04T02:28:00.187Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -45,17 +49,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -91,29 +87,34 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -148,14 +149,16 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-leap-into-adventure-mastering-the-realm-of-virtual-reality/"><u>[Updated] Leap Into Adventure Mastering the Realm of Virtual Reality</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-leveraging-snap-camera-for-better-online-interaction-on-google-meet-for-2024/"><u>[Updated] Leveraging Snap Camera for Better Online Interaction on Google Meet for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-smooth-segments-crossfade-logic-pro-steps/"><u>2024 Approved The Key to Smooth Segments Crossfade Logic Pro Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficiently-managing-antivirus-msmpengexe-to-optimize-cpu-load-in-windows-10/"><u>Efficiently Managing AntiVirus MsMpEng.exe to Optimize CPU Load in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-mystery-solving-google-chromes-sudden-blackscreen-issue/"><u>Fixing the Mystery: Solving Google Chrome's Sudden Blackscreen Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-66-twitter-personalities-guiding-you-through-spectacular-bargains-and-experiences-in-tourism/"><u>Leading 66 Twitter Personalities Guiding You Through Spectacular Bargains & Experiences in Tourism</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-brightness-settings-in-windows-11/"><u>Troubleshooting Non-Functional Brightness Settings in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-solutions-for-non-displayable-internet-pages/"><u>Unlocking Solutions for Non-Displayable Internet Pages</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-take-your-chromebook-to-the-next-level-installing-linux-made-easy/"><u>Updated 2024 Approved Take Your Chromebook to the Next Level Installing Linux Made Easy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[Updated] Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/breeze-through-high-wmi-cpu-usage-woes-on-win11/"><u>Breeze Through High WMI CPU Usage Woes on Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-galaxy-a15-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Galaxy A15 4G?</u></a></li>
+<li><a href="https://common-error.techidaily.com/chrome-troubleshooting-fixing-the-errornameunknown-hangup-effectively/"><u>Chrome Troubleshooting: Fixing the ERROR_NAME_UNKNOWN Hangup Effectively</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-user-engagement-with-the-power-of-cookiebot-platform/"><u>Elevate User Engagement with the Power of Cookiebot Platform</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-f15-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy F15 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-nord-ce-3-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus Nord CE 3 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-gaming-experience-with-latest-graphics-card-drivers/"><u>Optimize Gaming Experience with Latest Graphics Card Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-updating-device-drivers-to-match-your-hardware-in-wow/"><u>Solution Guide: Updating Device Drivers to Match Your Hardware in WoW</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205544279-troubleshooting-common-nier-automata-pc-stability-problems-now-fixed/"><u>Troubleshooting Common Nier: Automata PC Stability Problems - Now Fixed</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-digital-venues-for-encountering-and-bonding-with-unknown-individuals-responsibly/"><u>Updated 2024 Approved Digital Venues for Encountering and Bonding with Unknown Individuals Responsibly</u></a></li>
 </ul></div>
 

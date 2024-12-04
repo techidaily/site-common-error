@@ -1,7 +1,7 @@
 ---
 title: "Wireless Whispers Ended: Laptop+Headsets Reunited"
-date: 2024-11-22T03:12:16.511Z
-updated: 2024-11-24T22:52:30.967Z
+date: 2024-11-28T17:55:57.950Z
+updated: 2024-12-04T03:37:53.938Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
@@ -85,19 +81,11 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -109,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -117,21 +109,25 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 
 ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -145,7 +141,7 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -153,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -167,7 +159,7 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -188,6 +180,10 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Disable iCloud
 
  Some users reported that to disable iCloud in Task Manager fix the error for them. So make sure to try to disable icloud if you install one on Windows 10.
@@ -197,6 +193,10 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,21 +225,20 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-add-border-to-instagram-video-in-2024/"><u>[New] How to Add Border to Instagram Video, In 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-crafting-cross-social-media-content-strategy-with-youtube-and-fb/"><u>[New] In 2024, Crafting Cross-Social Media Content Strategy with YouTube & FB</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-proven-techniques-for-obs-broadcasting-on-fb/"><u>[New] Proven Techniques for OBS Broadcasting on FB</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-enjoy-your-old-favorites-top-5-ps1-game-simulators-on-pc/"><u>[Updated] In 2024, Enjoy Your Old Favorites Top 5 PS1 Game Simulators on PC</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-free-youtube-money-calculators-calculate-youtube-money/"><u>[Updated] In 2024, Free YouTube Money Calculators-Calculate YouTube Money</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-smart-content-creator-legal-checks-for-pre-upload-videos/"><u>[Updated] The Smart Content Creator Legal Checks for Pre-Upload Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-broken-down-windows-store-cache-issue-resolved/"><u>Comprehensive Fix for Broken Down Windows Store Cache [ISSUE RESOLVED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-repairing-issues-with-unresponsive-dell-sound-systems/"><u>Expert Advice: Repairing Issues with Unresponsive Dell Sound Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-correct-the-system-service-exception-error-0xc00000e9-in-your-operating-system/"><u>How to Diagnose and Correct the 'System Service Exception' (Error 0XC00000E9) in Your Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-prevent-your-computers-speaker-drivers-from-causing-high-cpu-consumption-on-windows/"><u>How to Prevent Your Computer's Speaker Drivers From Causing High CPU Consumption on Windows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/perfect-recorder-chromebooks-best-friend/"><u>Perfect Recorder Chromebook's Best Friend</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issues-with-creating-a-directx-graphics-device/"><u>Resolved: Issues with Creating a DirectX Graphics Device</u></a></li>
-<li><a href="https://fox-links.techidaily.com/simplified-conversion-strategies-for-xml-ssa-and-ttml-into-srt/"><u>Simplified Conversion Strategies for XML, SSA & TTML Into SRT</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-windows-11-brightness-adjustment-problems/"><u>Step-by-Step Fixes for Windows 11 Brightness Adjustment Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722846989589-step-by-step-process-for-shifting-images-from-googles-library-to-apples-cloud-space/"><u>Step-by-Step Process for Shifting Images From Google's Library to Apple's Cloud Space</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-clipboard-problems-in-windows-11/"><u>Troubleshooting Guide: Overcoming Clipboard Problems in Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-navigating-firefoxs-picture-in-picture-capabilities/"><u>[New] Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-dxgierrordevicehung-easily/"><u>[SOLVED] DXGI_ERROR_DEVICE_HUNG [Easily]</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-how-to-manipulate-iphone-pics-flip-tilt-and-more/"><u>[Updated] 2024 Approved How to Manipulate iPhone Pics Flip, Tilt & More</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-instagrams-potential-elevating-content-impact/"><u>[Updated] 2024 Approved Unlocking Instagram's Potential Elevating Content Impact</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-5-useful-tool-to-brighten-video-online/"><u>[Updated] 5 Useful Tool to Brighten Video Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-perfect-methods-for-computer-based-vhs-artistic-touches/"><u>[Updated] Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-srt-demystified-in-depth-analysis-and-tips/"><u>[Updated] SRT Demystified In-Depth Analysis and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/adobe-shockwave-and-flash-player-issues-in-google-chrome-solutions/"><u>Adobe Shockwave and Flash Player Issues in Google Chrome - Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dragon-ball-mastery-the-perfect-order-for-binge-watching/"><u>Dragon Ball Mastery: The Perfect Order for Binge-Watching</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-10-mouse-problems-getting-the-right-click-to-work-again/"><u>Fix Windows 10 Mouse Problems: Getting the Right Click to Work Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-touchpad-functionality-and-fix-scrolling-on-your-windows-10-device/"><u>How to Restore Touchpad Functionality and Fix Scrolling on Your Windows 10 Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-20-proplus-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 20 Pro+ Phone FRP Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-non-functional-astro-a40-mic-how-to/"><u>Solution Steps for Non-Functional Astro A40 Mic – How To</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-ethernet-connection-problems-in-windows-11-and-7-a-comprehensive-guide/"><u>Solving Ethernet Connection Problems in Windows 11 and 7: A Comprehensive Guide</u></a></li>
 </ul></div>
 

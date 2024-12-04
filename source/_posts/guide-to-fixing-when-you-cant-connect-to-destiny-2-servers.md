@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing When You Can’t Connect to Destiny 2 Servers
-date: 2024-11-17T22:39:15.149Z
-updated: 2024-11-24T21:24:37.061Z
+date: 2024-11-29T07:30:42.370Z
+updated: 2024-12-03T19:56:28.426Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these steps
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
  USB performance issues may occur if the USB port you plug your USB device into is dusty or damaged. You can try switching your USB device to a different USB port.
 
 If all your USB ports aren’t working, try Step 2, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
@@ -64,7 +64,7 @@ If all your USB ports aren’t working, try Step 2, below.
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
@@ -73,19 +73,19 @@ If all your USB ports aren’t working, try Step 2, below.
 5. Click the**Power Management** tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 8. Check if your USB port works properly now. If not, try Step 4, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
 
@@ -105,12 +105,13 @@ or
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
-4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
+4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
 
 ---
 
@@ -133,20 +134,19 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-clearer-connections-a-comprehensive-guide-to-crop-and-share-on-instagram/"><u>[Updated] In 2024, Clearer Connections A Comprehensive Guide to Crop and Share on Instagram</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-optimizing-videos-expert-insights-on-effective-tagging/"><u>[Updated] In 2024, Optimizing Videos Expert Insights on Effective Tagging</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-nubia-red-magic-9-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Nubia Red Magic 9 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211240891-bluetooth-not-working-on-windows-11-discover-the-quick-solutions/"><u>Bluetooth Not Working on Windows 11? Discover the Quick Solutions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-error-code-0x80073712-in-windows-10-expert-solutions-revealed/"><u>How to Resolve 'Error Code 0X80073712' In Windows 10 – Expert Solutions Revealed!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-visual-effects-strategic-use-of-luts-in-adobe-projects/"><u>In 2024, Pioneering Visual Effects Strategic Use of LUTs in Adobe Projects</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-realme-v30t-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Realme V30T Phone? Unlock It Now</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-capturing-perfect-sound-a-comprehensive-guide-for-advanced-mac-users/"><u>New 2024 Approved Capturing Perfect Sound A Comprehensive Guide for Advanced Mac Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionary-viewfinder-unstoppable-video-meet-the-xs-100i-for-2024/"><u>Revolutionary Viewfinder, Unstoppable Video - Meet the XS 100I for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/steady-yourself-in-valorant-with-restart-fix/"><u>Steady Yourself in Valorant With Restart Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-sound-problems-in-youtube-overcoming-audio-renderer-errors-on-windows-11/"><u>Troubleshoot Sound Problems in YouTube: Overcoming Audio Renderer Errors on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-nonfunctional-keyboard-in-windows-systems-win-1187/"><u>Troubleshooting Nonfunctional Keyboard in Windows Systems (Win 11/8/7)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/ultimate-online-broadcast-platforms-for-2024/"><u>Ultimate Online Broadcast Platforms for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-addressing-the-administrator-permission-needed-message-across-various-windows-versions/"><u>Understanding and Addressing the 'Administrator Permission Needed' Message Across Various Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-unintended-restarts-and-auto-boot-in-windows-11/"><u>Unraveling the Mystery: Unintended Restarts and Auto-Boot in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-advanced-tactics-for-maximizing-the-use-of-virtual-boards-during-zoom-sessions-desktopiosandroid/"><u>[Updated] In 2024, Advanced Tactics for Maximizing the Use of Virtual Boards During Zoom Sessions (Desktop/iOS/Android)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-high-quality-freely-accessible-music-websites-listed-here/"><u>2024 Approved High-Quality, Freely Accessible Music Websites Listed Here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncovering-the-mysteries-of-photo-editing-in-canva/"><u>2024 Approved Uncovering the Mysteries of Photo Editing in Canva</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-csgo-crashes-with-easy-fixes-get-back-to-gameplay-instantly/"><u>Bypassing CS:GO Crashes with Easy Fixes – Get Back to Gameplay Instantly</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/devising-a-personalized-tiktok-alphanumeric-marker-for-2024/"><u>Devising a Personalized TikTok Alphanumeric Marker for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-nvidia-mx150-drivers-compatible-with-all-windows-versions/"><u>Download the Newest Nvidia MX150 Drivers – Compatible with All Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/elevate-your-systems-efficiency-quick-fix-for-excessive-cpu-usage-by-shell-infrastructures/"><u>Elevate Your System's Efficiency – Quick Fix for Excessive CPU Usage by Shell Infrastructures!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-dolby-home-theater-not-working-issue-in-windows-11/"><u>Fix Dolby Home Theater Not Working Issue in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/handbrake-version-64-bit-fix-compatible-with-vlc-error-resolved/"><u>HandBrake Version 64-Bit Fix - Compatible with VLC, Error Resolved!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-def-gaming-gpu-recommendations-for-2024/"><u>High-Def Gaming GPU Recommendations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leading-emulators-selecting-best-windows-imitations-for-switch-games/"><u>Leading Emulators: Selecting Best Windows Imitations for Switch Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-8-solutions-to-resolve-windows-10-update-error-0x800f0922/"><u>Top 8 Solutions to Resolve Windows 10 Update Error 0X800f0922</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-group-policy-a-look-at-windows-admin-setup/"><u>Understanding Group Policy: A Look at Windows Admin Setup</u></a></li>
 </ul></div>
 

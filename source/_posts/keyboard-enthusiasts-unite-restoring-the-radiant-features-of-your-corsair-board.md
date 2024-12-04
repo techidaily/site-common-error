@@ -1,7 +1,7 @@
 ---
 title: Keyboard Enthusiasts Unite! Restoring the Radiant Features of Your Corsair Board
-date: 2024-11-22T19:45:43.910Z
-updated: 2024-11-25T00:13:15.135Z
+date: 2024-11-29T19:26:02.774Z
+updated: 2024-12-04T00:11:21.386Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## For Windows Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -46,25 +42,17 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click Keyboards and select the keyboard device you want to reset.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the red cross button to uninstall the device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/x.jpg)
 5. Click Scan for hardware changes button. It will let the device appear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/search-6.jpg)
 6. Select the same keyboard device again. Click the Update device driver button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-4.jpg)
 7. Allow the newest drivers to install.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Restart your computer.
@@ -77,8 +65,18 @@ Your keyboard should back to the default setting after reboot.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device-1.jpg)
 3. Click**Typing** in the left pane and click**Advanced keyboard settings** on the right.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/type.jpg)
 4. Click the drop-down button to select the language you want.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/language.jpg)
 
 Now you’ve reset your keyboard language.
@@ -96,14 +94,14 @@ Now you’ve reset your keyboard language.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Keyboard** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
 3. Click**Modifier Keys** in the bottom right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/modi.jpg)
 4. Click**Restore Defaults** and then click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your keyboard should be back in the default settings.
 
@@ -112,6 +110,10 @@ Your keyboard should be back in the default settings.
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Language and Region** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
 3. Select the language you want.
@@ -151,21 +153,19 @@ Your keyboard should be reset successfully.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-choosing-google-pixel-music-matches-online/"><u>[New] 2024 Approved Choosing Google Pixel Music Matches Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-complete-guide-to-final-cut-pro-for-film-professionals/"><u>[New] Complete Guide to Final Cut Pro for Film Professionals</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-unlocking-youtube-simplified-methods-for-cc-and-subtitle-integration/"><u>[New] In 2024, Unlocking YouTube Simplified Methods for CC and Subtitle Integration</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-best-4k-pads-for-ultimate-gameplay-for-2024/"><u>[Updated] Best 4K Pads for Ultimate Gameplay for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-clearer-captures-smartphone-specific-tripods-guide/"><u>[Updated] Clearer Captures Smartphone-Specific Tripods' Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-computers-usb-connection-issues-with-simple-troubleshooting-tips/"><u>Fix Your Computer's USB Connection Issues with Simple Troubleshooting Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-sound-issues-in-your-steelseries-arctis-5-gaming-headset-a-step-by-step-guide/"><u>Fixing Sound Issues in Your SteelSeries Arctis 5 Gaming Headset - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-paused-torrent-download-and-resume-seamlessly/"><u>How to Fix a Paused Torrent Download and Resume Seamlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-hp-laptops-malfunctioning-usb-port-a-complete-guide/"><u>How to Fix HP Laptop's Malfunctioning USB Port: A Complete Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-overcoming-technical-hurdles-in-iphone-xs-facial-detection/"><u>In 2024, Overcoming Technical Hurdles in iPhone X's Facial Detection</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-video-capture-crusade-obs-vs-shadowcast/"><u>In 2024, Video Capture Crusade OBS Vs ShadowCast</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-valorant-crashes-necessary-system-reboot/"><u>Resolving Valorant Crashes: Necessary System Reboot</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-overcoming-windows-update-issue-error-0x8024401c-on-win-11/"><u>Troubleshooting Tips for Overcoming Windows Update Issue (Error 0X8024401C) on Win 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-preventing-werfaultexe-errors-on-your-pc/"><u>Troubleshooting Tips for Preventing werFault.exe Errors on Your PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-achieving-peak-performance-in-video-submissions-on-youtube-for-2024/"><u>[Updated] Achieving Peak Performance in Video Submissions on YouTube for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/changing-landscapes-in-academia-is-technology-replacing-student-essays/"><u>Changing Landscapes in Academia: Is Technology Replacing Student Essays?</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-storage-after-resolving-the-cyclic-redundancy-check-glitches/"><u>Error-Free Storage After Resolving the Cyclic Redundancy Check Glitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-0xc000012f-error-in-windows-easily/"><u>How to Fix 0Xc000012f Error in Windows Easily</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-live-show-recordings-the-modern-way/"><u>In 2024, Mastering Live Show Recordings The Modern Way</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-battery-wont-charge-master-quick-repairs-to-power-up-again/"><u>Laptop Battery Won't Charge? Master Quick Repairs to Power Up Again!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigate-the-maze-of-macos-for-streamlined-video-resizing-to-instagram-for-2024/"><u>Navigate the Maze of MacOS for Streamlined Video Resizing to Instagram for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-audio-alerts-excellent-sites-compilation/"><u>Premium Audio Alerts Excellent Sites Compilation</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-connecting-your-microsoft-wireless-display-adapter-with-windows-aturate-as-well-as-to-improve-the-efficiency-of-the-model-itself-during-t47/"><u>Step-by-Step Guide: Connecting Your Microsoft Wireless Display Adapter with Windows Aturate, as Well as to Improve the Efficiency of the Model Itself During Training and Inference</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-excessive-svchostexe-cpu-load-in-windows-11/"><u>Step-by-Step Solutions for Excessive Svchost.exe CPU Load in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-high-res-screens-for-playstation-5-for-2024/"><u>Top 5 High-Res Screens for PlayStation 5 for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-windows-10-bluetooth-connectivity-problems-fast/"><u>Troubleshoot and Fix Windows 10 Bluetooth Connectivity Problems Fast</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728488529900-windows-10pc/"><u>スムーズなデータ移行! Windows 10上のPC間ファイル伝送ツール</u></a></li>
 </ul></div>
 

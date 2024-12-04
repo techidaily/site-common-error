@@ -1,7 +1,7 @@
 ---
 title: Cursor Continuous Display Troubles? Learn How to Fix It Now!
-date: 2024-11-17T18:17:50.255Z
-updated: 2024-11-24T23:56:02.482Z
+date: 2024-11-30T20:12:19.216Z
+updated: 2024-12-03T17:59:08.440Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 fixes for **Mouse keeps disconnecting**
@@ -36,12 +36,20 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
 2. **Try a different (and functioning) mouse**. Check if the **Mouse keeps disconnecting** issue has been resolved. If yes, then great! But if it still persists, move on to **Fix 2**, below .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change power management settings for USB Root Hub
 
@@ -51,12 +59,12 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
@@ -66,7 +74,7 @@ You might also need to do this for **Bluetooth HID Device** and **Microsoft Hard
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -82,16 +90,8 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -119,16 +119,17 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-free-fb-video-creators-20-top-tools-for-engaging-ads-for-2024/"><u>[New] Free FB Video Creators 20 Top Tools for Engaging Ads for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-painting-with-light-advanced-color-techniques/"><u>[Updated] Painting with Light Advanced Color Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-paint-jocular-visuals-with-giphy-in-mind/"><u>2024 Approved Paint Jocular Visuals with Giphy in Mind</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audiovisual-excellence-top-5-premium-slow-motion-gear/"><u>Audiovisual Excellence Top 5 Premium Slow-Motion Gear</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-data-corruption-with-cyclic-redundancy-check-a-step-by-step-guide/"><u>Fixing Data Corruption with Cyclic Redundancy Check - A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-105-classic-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia 105 Classic</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-ps4-voice-chat-fixes-a-comprehensive-guide/"><u>Mastering PS4 Voice Chat Fixes: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/rapid-redefinition-adjusting-youtube-on-mac-pixels-for-2024/"><u>Rapid Redefinition Adjusting YouTube on Mac Pixels for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-a-stubborn-computer-refusing-to-exit-windows-11/"><u>Solved: How to Fix a Stubborn Computer Refusing to Exit Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207363822-spacebar-key-malfunction-in-windows-10-find-out-why-and-how-to-get-it-working-again/"><u>Spacebar Key Malfunction in Windows 10? Find Out Why and How to Get It Working Again!</u></a></li>
-<li><a href="https://win11.techidaily.com/uninstalling-wsl-an-all-inclusive-guide/"><u>Uninstalling WSL: An All-Inclusive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-no-device-detected-for-wireless-connection-on-pc/"><u>[FIXED] No Device Detected for Wireless Connection on PC</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitters-viral-hits-yearly-top-10-viewer-counts/"><u>[New] In 2024, Twitter's Viral Hits Yearly Top 10 Viewer Counts</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-installation-issue-with-error-code-0x800f081f/"><u>5 Installation Issue with Error Code 0X800F081F</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-guide-solving-the-0x800705b4-fault-during-windows-10-updates/"><u>Comprehensive TroubleShooting Guide: Solving the 0X800705B4 Fault During Windows 10 Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/converti-file-m4r-in-formato-aiff-free-online-con-movavi/"><u>Converti File M4R in Formato AIFF Free Online Con Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exquisite-drone-fleet-the-pinnacle-of-visual-artistry/"><u>In 2024, Exquisite Drone Fleet The Pinnacle of Visual Artistry</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-photo-tips-for-exquisite-iphone-close-ups-and-macros-for-2024/"><u>Innovative Photo Tips for Exquisite iPhone Close-Ups & Macros for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/schnelle-zollerleichterungen-ermoglichen-den-schnellen-austausch-von-gutern-zwischen-grossbritannien-und-der-eu-fertigung-in-nur-5-minuten/"><u>Schnelle Zollerleichterungen Ermöglichen Den Schnellen Austausch Von Gütern Zwischen Großbritannien Und Der EU – Fertigung in Nur 5 Minuten</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-usb-ports-failure-issues-for-users-of-windows-11/"><u>Solving 'USB Ports Failure' Issues for Users of Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-for-speedy-and-simple-windows-10-fresh-install/"><u>The Ultimate Guide for Speedy and Simple Windows 10 Fresh Install</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-invalid-registry-values-preventing-photos-access-in-windows-11/"><u>Troubleshooting Invalid Registry Values Preventing Photos Access in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-win32-kernal-termination-error-0xc0000005-on-your-pc/"><u>Ultimate Guide: Resolving the Win32 Kernal Termination Error (0xC0000005) on Your PC</u></a></li>
 </ul></div>
 

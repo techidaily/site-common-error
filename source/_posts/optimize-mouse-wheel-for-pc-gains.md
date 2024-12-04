@@ -1,7 +1,7 @@
 ---
 title: Optimize Mouse Wheel for PC Gains
-date: 2024-11-24T01:00:56.373Z
-updated: 2024-11-24T16:17:07.252Z
+date: 2024-11-29T23:54:44.317Z
+updated: 2024-12-03T19:50:18.402Z
 tags:
   - win11
   - win10
@@ -52,19 +52,15 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Disable Windows Search service
 
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 1. On your keyboard, press the **Windows key** and**X** at the same time, then click **Computer management** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/computer-management.png)
 2. Expand**Services and Applications** and click**Services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/services-and-applications.jpg)
 3. Double-click**Windows Search** .  
@@ -83,11 +83,23 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/stop-button.jpg)
 5. Wait for the service to stop, then press**OK** to save the change and exit.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change-6104.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Check incompatible programs
 
  Some users say that this only happens when they use certain programs. Especially when they have antivirus software running in the background. The antivirus software might have some conflicts with certain programs. The next time you encounter this situation, try to pay extra attention to see if you can find the program that is messing with your system. If such a program can be located, try reinstallingit or uninstalling it completely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Run SFC and DISM
 
@@ -99,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt window, copy and paste the following command and hit**Enter** .
@@ -113,19 +121,11 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3.2\. Run dism.exe
 
  1) On your keyboard, press the**Windows** logo key and**R** at the same time. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -147,10 +147,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  When these tests are done, see if the ntoskrnl.exe high CPU or disk usage problem remains. If the problem still persists, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 4: Disable Runtime Broker
 
  Normally, the runtime broker process should only use a very low CPU resource, but if things go wrong, it could take up to 100% CPU and disk usage, making your Windows run slowly and buggy. In this case, you can try to disable it to see if it helps. To do so:
@@ -163,11 +159,16 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 3. Go to the following location: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TimeBroker`  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker.png)
 4. On the right side, double-click**Start** , and change its value to**4** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker-4.png)
 5. Restart your computer for the changes to take effect.
 
@@ -188,22 +189,22 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-game-on-camera-strategies-for-videographers-in-sports-for-2024/"><u>[Updated] Game On, Camera! Strategies for Videographers in Sports for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-record-iphoneipads-screen/"><u>[Updated] How to Record iPhone/iPad’s Screen</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastery-of-transferring-multitudes-of-tiktok-videos/"><u>[Updated] Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/discords-silent-mic-no-more/"><u>Discord's Silent Mic: No More</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-senior-friendly-cell-phone-deals-a-ranking-of-the-best-7-options-for-202e4/"><u>Discovering Senior-Friendly Cell Phone Deals: A Ranking of the Best 7 Options for 202E4</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/easy-webcam-video-capture-using-vlc/"><u>Easy Webcam Video Capture Using VLC</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-restoring-functionality-to-a-broken-minecraft-local-network/"><u>Expert Tips: Restoring Functionality to a Broken Minecraft Local Network</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203319544-maccamera-woes-heres-how-to-get-your-camera-up-and-running-smoothly/"><u>MacCamera Woes? Here's How to Get Your Camera Up and Running Smoothly!</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-10-fixing-unregistered-class-problems-successfully/"><u>Mastering Windows 10: Fixing Unregistered Class Problems Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-blue-screen-of-death-a-comprehensive-fix-guide/"><u>Overcoming the Blue Screen of Death: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-the-silicon-sea-7-anticipated-shifts-in-security/"><u>Safeguarding the Silicon Sea: 7 Anticipated Shifts in Security</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/share-a-world-view-iphone-360-film-techniques-for-2024/"><u>Share a World View IPhone 360 Film Techniques for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/shutting-down-the-facebook-application-on-android-phones-and-tablets/"><u>Shutting Down the Facebook Application on Android Phones & Tablets</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-binkyw32-dll-not-found-issue-a-comprehensive-guide/"><u>Solving the BinkyW32 DLL Not Found Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-disappearing-battery-sign-on-windows-10-devices/"><u>Solving the Disappearing Battery Sign on Windows 10 Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-test-assessing-the-forward-compatibility-of-netgears-nighthawk-ax8-wi-fi-6-mesh-expansion-system/"><u>The Ultimate Test: Assessing the Forward Compatibility of Netgear's Nighthawk AX8 Wi-Fi 6 Mesh Expansion System.</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-overcoming-windows-update-error-0x80070541-on-pcs/"><u>Troubleshooting Tips for Overcoming Windows Update Error 0X80070541 on PCs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-budgeting-essentials-for-your-music-video/"><u>[New] In 2024, Budgeting Essentials for Your Music Video</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-enabling-speech-to-text-on-powerpoint-essential-steps/"><u>[New] In 2024, Enabling Speech-to-Text on PowerPoint Essential Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-expert-guide-how-to-keep-a-log-of-google-voice-chats/"><u>[Updated] In 2024, Expert Guide How to Keep a Log of Google Voice Chats</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-little-gamers-treasure-trove-of-joy/"><u>[Updated] In 2024, Little Gamers' Treasure Trove of Joy</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-select-websites-propelling-youtube-media/"><u>2024 Approved Select Websites Propelling YouTube Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smooth-integration-of-macos-sierra-on-old-systems/"><u>2024 Approved Smooth Integration of macOS Sierra on Old Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-stalled-steam-update-problem-a-comprehensive-guide/"><u>Fixing the Stalled Steam Update Problem: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-instagram-live-maintaining-privacy-while-streaming/"><u>In 2024, Instagram Live Maintaining Privacy While Streaming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-real-time-capture-mastery-discover-the-top-4-livestream-strategies/"><u>In 2024, Real-Time Capture Mastery Discover the Top 4 Livestream Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-volume-control-overcoming-the-soundless-challenge-in-forza-horizon-4/"><u>Mastering Volume Control: Overcoming the Soundless Challenge in Forza Horizon 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-windows-error-651/"><u>Quick Solutions for Resolving Windows Error 651</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-closed-caption-mishaps-in-windows-10/"><u>Resolving Closed Caption Mishaps in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-the-speakers-expert-guide-to-enabling-audio-on-an-acer-notebook/"><u>Reviving the Speakers: Expert Guide to Enabling Audio on an Acer Notebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-failed-to-login-through-user-profile-service/"><u>Step-by-Step Fix for 'Failed to Login Through User Profile Service'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-nonfunctional-usb-mouse-on-your-pc-top-solutions/"><u>Troubleshooting a Nonfunctional USB Mouse on Your PC: Top Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixes-for-geforce-experience-not-starting-correctly/"><u>Troubleshooting Tips: Fixes for GeForce Experience Not Starting Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-memory-management-issues-in-windows-11-devices/"><u>Understanding and Fixing Memory Management Issues in Windows 11 Devices</u></a></li>
 </ul></div>
 

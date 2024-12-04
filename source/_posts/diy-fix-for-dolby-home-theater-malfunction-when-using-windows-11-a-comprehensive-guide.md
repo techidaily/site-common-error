@@ -1,7 +1,7 @@
 ---
 title: DIY Fix for Dolby Home Theater Malfunction When Using Windows 11 – A Comprehensive Guide
-date: 2024-11-19T17:12:12.388Z
-updated: 2024-11-25T03:14:04.186Z
+date: 2024-11-30T17:49:25.772Z
+updated: 2024-12-04T02:08:08.681Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -36,6 +32,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -50,10 +50,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -70,22 +66,27 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -96,19 +97,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -152,20 +154,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-10-pivotal-tactics-for-striking-podcast-covers/"><u>[New] 2024 Approved 10 Pivotal Tactics for Striking Podcast Covers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-television-archive-advanced-techniques-for-online-streams-for-2024/"><u>[New] Television Archive Advanced Techniques for Online Streams for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-err-too-many-redirects-quickly-and-easily/"><u>[Solved] | ERR TOO MANY REDIRECTS | Quickly & Easily</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-cut-the-hassle-with-macos-easy-to-follow-video-size-adjustment-for-instagram/"><u>[Updated] Cut the Hassle with MacOS Easy-to-Follow Video Size Adjustment for Instagram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-sluggish-to-speedy-on-android-vids/"><u>2024 Approved Transform Sluggish to Speedy on Android Vids</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discover-the-most-exciting-no-cost-comic-designs/"><u>Discover the Most Exciting, No-Cost Comic Designs</u></a></li>
-<li><a href="https://win-able.techidaily.com/double-drop-in-frames-per-second-fps-for-pc-players-corrected-successfully/"><u>Double Drop in Frames Per Second (FPS) for PC Players Corrected Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-restoring-functionality-of-unresponsive-keyboard-at-logon/"><u>Easy Fixes: Restoring Functionality of Unresponsive Keyboard at Logon</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210503037-9781633412613-evolution-is-wrong/"><u>Evolution Is Wrong | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-mend-a-broken-logitech-mouse-scroll-wheel/"><u>How To Correctly Address and Mend a Broken Logitech Mouse Scroll Wheel</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208891226-how-we-overcame-the-windows-updates-issues-solutions-applied/"><u>How We Overcame the Windows Updates Issues – Solutions Applied!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-side-by-side-progopro-analysis/"><u>In 2024, Side by Side ProGoPro Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-bings-artificial-intelligence-search-now-accessible-across-android-and-apple-platforms/"><u>Introducing Bing's Artificial Intelligence Search Now Accessible Across Android and Apple Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/personalized-treatment-plans-based-on-genomic-profiling-are-becoming-the-standard-in-lung-cancer-care/"><u>Personalized Treatment Plans Based on Genomic Profiling Are Becoming the Standard in Lung Cancer Care</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-oculus-tech-issues/"><u>Troubleshooting Oculus Tech Issues</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-ranked-top-6-tiktok-profit-analyzers-for-creators/"><u>[New] In 2024, Ranked Top 6 TikTok Profit Analyzers for Creators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-cutting-edge-techniques-for-youtube-video-production-with-sony-vegas-for-2024/"><u>[Updated] Cutting-Edge Techniques for YouTube Video Production with Sony Vegas for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-fixing-detached-media-devices-on-your-window-computer/"><u>Comprehensive Solutions for Fixing Detached Media Devices on Your Window Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-fortnite-initial-start-up-problems/"><u>Fixed Fortnite Initial Start-Up Problems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-8-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 8 Plus without Apple ID?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-freezing-windows-10-system-expert-tips-and-solutions/"><u>How to Fix a Freezing Windows 10 System: Expert Tips and Solutions</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-modify-and-edit-a-json-configuration-file-easily/"><u>How to Modify and Edit a JSON Configuration File Easily</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-6-best-free-online-imovie-alternatives/"><u>In 2024, 6 Best Free Online iMovie Alternatives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-vs-drift-ghost-speed-camera-showdown-explained/"><u>In 2024, GoPro vs Drift Ghost - Speed Camera Showdown Explained</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-solutions-for-missing-class-registration-issues/"><u>Mastering Windows 11: Solutions for Missing Class Registration Issues</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/omnicharge-omni-20-portable-power-bank-review-versatile-portable-charging-including-qi-wireless/"><u>Omnicharge Omni 20 Portable Power Bank Review: Versatile Portable Charging Including Qi Wireless</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-failed-directx-graphics-driver-instantiation/"><u>Overcoming the Challenge of Failed DirectX Graphics Driver Instantiation</u></a></li>
+<li><a href="https://common-error.techidaily.com/problem-solved-unresponsive-keyboard-fixed/"><u>Problem Solved: Unresponsive Keyboard Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/pwm-alters-pulse-width-while-maintaining-constant-amplitude-and-frequency/"><u>PWM Alters Pulse Width While Maintaining Constant Amplitude and Frequency.</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-restore-corrupt-file-containers-in-windows-11/"><u>Step-by-Step Tutorial: Restore Corrupt File Containers in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-15-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 15 Pro Max? 5 Tips You Must Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Computer When It Can't See Your Hard Drive (Solution Guide)
-date: 2024-08-27T13:44:54.428Z
-updated: 2024-08-28T13:44:54.428Z
+date: 2024-11-30T04:44:06.420Z
+updated: 2024-12-04T03:27:28.717Z
 tags:
   - win11
   - win10
@@ -34,13 +34,14 @@ Whether you receive an error message saying “Your computer was unable to start
 4. [Restore your system](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1:[Boot to safe mode](https://tools.techidaily.com/drivereasy/download/)
 
  When your computer has problems, it’s always a good idea to[enter the safe mode](https://tools.techidaily.com/drivereasy/download/) to trigger the reason for this issue. Safe Mode is the mode that loads with a minimum set of drivers, software, and service. It’s used for troubleshooting the problem so that you can find the reason for the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Repair corrupted system files
 
  This “Your computer was unable to start” error may be related to system files. When the system files were broken or corrupted, it may cause this issue. There’re ways to solve it:
@@ -65,8 +66,9 @@ Whether you receive an error message saying “Your computer was unable to start
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -87,15 +89,17 @@ Whether you receive an error message saying “Your computer was unable to start
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart your computer to check the issue is fixed or not.
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to [Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Launch Startup Repair
 
  If your computer system is Windows 8 or higher, you can use Startup Repair to fix this problem. This tool will scan your computer and fix the problem automatically when finding it.
@@ -105,15 +109,17 @@ Whether you receive an error message saying “Your computer was unable to start
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click**Recovery** in the left pane and then click**Restart now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/recovery-1024x787.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot.jpg)
@@ -147,9 +153,6 @@ Whether you receive an error message saying “Your computer was unable to start
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap820-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Restart your computer to check the issue is solved or not.
 
 ### Fix 5:**Reset or reinstall Windows**
@@ -161,9 +164,9 @@ Restart your computer to check the issue is solved or not.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Your computer won’t start
 
  It’s vexing when you push the power button and wait for your computer but it is unable to start. The reason could be various, but to fix this issue you can follow these fixes.
@@ -187,17 +190,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Your computer should be started properly. If it’s unable to start, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Corrupted system
 
  After you push the power button, if you hear the machine working noise and see the texts running on the screen but can’t boot up normally, it’s probably a system failure.
 
  When you encounter this situation, you’d better[boot to safe mode](https://tools.techidaily.com/drivereasy/download/) to troubleshoot the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Hardware issue
 
  If the above fixes don’t work, it’s probably a hardware issue. If one of the components inside is old or broken inside, your computer may be unable to start. In this situation, if your computer is still under warranty, you’d better contact customer service for help. But if your PC is out of warranty and you have certain knowledge to check the hardware, you could try to open the computer case to fix it.
@@ -214,8 +215,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +222,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortlessly-journey-to-your-custom-designed-music-library-on-youtube/"><u>[New] 2024 Approved Effortlessly Journey to Your Custom-Designed Music Library on Youtube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-curated-selection-5-superior-android-ps2-game-emulators/"><u>2024 Approved Curated Selection 5 Superior Android PS2 Game Emulators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5yq55p6c55qe44gq5yuv55s757eo6zug44go5asj5oplusb44gu5oml6acg/"><u>効果的な動画編集と変換の手順</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/airpods-pro-new-feature-alert-hearing-aid-compatibility-coming-soon-with-ios-15-update/"><u>AirPods Pro New Feature Alert: Hearing Aid Compatibility Coming Soon with iOS 15 Update!</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-error-802-cuidado-de-manejar-con-cuidado-los-componentes-electronicos-o-electricos-y-nunca-intentar-abrir-una-fuente-el-uso-del-kit-de-desmontaje-122/"><u>Bypassing Error 802 Cuidado De Manejar Con Cuidado Los Componentes Electrónicos O Eléctricos Y Nunca Intentar Abrir Una Fuente. El Uso Del Kit De Desmontaje Es Altamente Recomendable Para Evitar Daños.</u></a></li>
+<li><a href="https://win11.techidaily.com/cpu-age-determination-for-pc-users-8-effective-methods/"><u>CPU Age Determination for PC Users: 8 Effective Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-deciphers-chatgpt-and-google-translate-face-off/"><u>Digital Deciphers: ChatGPT & Google Translate Face-Off</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-get-the-space-bar-working-again-on-windows-11-devices/"><u>Expert Tips: Get the Space Bar Working Again on Windows 11 Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximize-productivity-innovative-windows-10-tips/"><u>Maximize Productivity Innovative Windows 10 Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-binkw32dll-error-a-step-by-step-repair-tutorial/"><u>Overcoming the Binkw32.dll Error: A Step-by-Step Repair Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-failed-steam-game-files-dll/"><u>Repairing Failed Steam Game Files (Dll)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-gear-reviews-and-analysis/"><u>Tom's Tech Insights: Expert Gear Reviews and Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204959242-windows-11-missing-bluetooth-problem-easy-steps-to-get-it-working-again/"><u>Windows 11 Missing Bluetooth Problem? Easy Steps to Get It Working Again</u></a></li>
+</ul></div>
 

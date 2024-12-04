@@ -1,7 +1,7 @@
 ---
 title: HP Laptop USB Issues? Here's How You Can Get Them Fixed!
-date: 2024-11-19T21:35:12.005Z
-updated: 2024-11-24T18:54:04.553Z
+date: 2024-12-02T20:08:46.933Z
+updated: 2024-12-04T03:05:54.311Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Fixes for HP Laptop Camera Not Working Windows 10
 
  Here are 3 fixes that have helped other users resolve the**HP laptop camera not working**  problem. Just work your way down the list until you find the one that works for you.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Tweak your camera privacy settings
 
  Windows allows you to tweak the camera privacy settings to have a control over whether you allow access to camera on your HP laptop and which apps are allowed or denied. To make sure it’s enabled:
@@ -40,21 +48,17 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff3b628678.png)
 2. Make sure to toggle**On** **Allow apps to access your camera** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
 3. Scroll down to**Choose which apps can access your camera** and toggle**On** ALL the apps you want access to camera.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff6254a550.jpg)
 4. Close the window, test the camera and see if it’s working properly. If it works, then congrats! But if it doesn’t, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your camera driver
 
@@ -69,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffcedce806.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -100,19 +100,20 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01186337dc.jpg)
 4. Click **Yes**   to confirm the uninstall.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. **Restart**   your computer.
 6. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00c2cd78eb.png)
 7. Click**Action** \>**Scan for hardware changes** so that Windows can reinstall the driver for your PC (a generic one though).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01480c86ca.jpg)
 8. Check your camera and see if it’s working properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -136,16 +137,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-skyrocket-your-subscribers-with-these-easy-strategies/"><u>[New] 2024 Approved Skyrocket Your Subscribers with These Easy Strategies</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-incorporating-borders-in-your-next-video-post-for-2024/"><u>[New] Incorporating Borders in Your Next Video Post for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-wiping-your-discord-servers-from-pc-and-android-devices-for-2024/"><u>[New] Wiping Your Discord Servers From PC and Android Devices for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-unveiling-the-secrets-of-medical-ad-success-on-fb/"><u>2024 Approved Unveiling the Secrets of Medical Ad Success on FB</u></a></li>
-<li><a href="https://common-error.techidaily.com/decode-and-solve-the-reset-your-pc-problem-on-windows-11-expert-advice-and-strategies/"><u>Decode and Solve the 'Reset Your PC' Problem on Windows 11: Expert Advice & Strategies</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-infinix-hot-40i-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Infinix Hot 40i Location Settings | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-connection-failures-with-distant-networked-servers/"><u>Expert Tips for Resolving Connection Failures with Distant Networked Servers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-minecraft-local-network-play-problems-successfully/"><u>How to Resolve 'Minecraft Local Network Play' Problems Successfully</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-k11x-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo K11x with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-quick-fix-for-skyrims-constant-loading-bug-now/"><u>Master the Quick Fix for Skyrim's Constant Loading Bug Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-lenovo-laptop-webcam-issues-a-step-by-step-guide/"><u>Solving Your Lenovo Laptop Webcam Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-eyewinkimages-mememakermagic/"><u>[New] 2024 Approved EyeWinkImages MemeMakerMagic</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-6-figure-success-starts-with-smart-hashtagging/"><u>[New] 6-Figure Success Starts with Smart #Hashtagging</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-enhancing-mac-use-top-5-recommended-sniping-apps-for-2024/"><u>[Updated] Enhancing Mac Use Top 5 Recommended Sniping Apps for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-and-fixing-error-code-0x80240017-for-smooth-windows-updates-expert-tips-inside/"><u>Decoding and Fixing Error Code 0X80240017 for Smooth Windows Updates – Expert Tips Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-broken-usb-ports-for-windows-1011-users/"><u>Diagnosing & Repairing Broken USB Ports for Windows 10/11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211471703-end-window-11s-non-stop-rebooting-cycle-easy-solutions-inside/"><u>End Window 11'S Non-Stop Rebooting Cycle - Easy Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1603-fatal-error-during-installation-fixed/"><u>Error 1603: Fatal Error During Installation [FIXED]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-hp-laserjet-pro-mfp-a-top-tier-multifunction-laser-printer-for-professionals-gadgetguru-reviews/"><u>Evaluating the HP LaserJet Pro MFP: A Top-Tier Multifunction Laser Printer for Professionals | GadgetGuru Reviews</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-s23-fe-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy S23 FE Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-unidentified-external-hard-drive-error-solving-device-descriptor-request-failed/"><u>How to Fix an Unidentified External Hard Drive Error: Solving 'Device Descriptor Request Failed'</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pcmobile-tips-for-partial-image-gaussian-blur/"><u>PC/Mobile Tips for Partial Image Gaussian Blur</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/ride-the-viral-wave-mixing-tiktok-flair-into-instagram-reels-for-2024/"><u>Ride the Viral Wave Mixing TikTok Flair Into Instagram Reels for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-d3derr-not-available-issues/"><u>Step-by-Step Solutions to Overcome 'D3DERR Not Available' Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-restoring-access-to-your-geforce-experience/"><u>Successfully Restoring Access to Your GeForce Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oneplus-11-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track OnePlus 11 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sticky-windows-keyboards-top-solutions-revealed/"><u>Troubleshooting Sticky Windows Keyboards – Top Solutions Revealed!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-savings-on-the-newest-macbook-air-exclusive-presidents-day-offer-with-300-discount/"><u>Unlock Savings on the Newest MacBook Air - Exclusive Presidents' Day Offer with $300 Discount !</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-stability-breakthroughs/"><u>Windows 11 Stability Breakthroughs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Desktop Control: How to Recover Windows That Wandered Off-Screen"
-date: 2024-11-20T00:55:24.690Z
-updated: 2024-11-25T00:06:57.487Z
+date: 2024-11-30T18:25:39.696Z
+updated: 2024-12-04T01:31:34.331Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -43,29 +47,30 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
-3. Select the icons you want to show on desktop, then click **OK**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
+3. Select the icons you want to show on desktop, then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -78,10 +83,6 @@ You can also try these steps to rebuild the icon cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -90,6 +91,10 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -105,16 +110,12 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
@@ -143,12 +144,13 @@ OR
 2. Run Driver Easy and click **Scan Now**. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
-![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
-If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
+If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 ---
 
@@ -173,17 +175,24 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-iphone-shot-perfection-with-ios-11-innovations/"><u>[New] 2024 Approved IPhone Shot Perfection with iOS 11 Innovations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-skin-perfection-iphone-and-android-leaders/"><u>[New] Best Skin Perfection IPhone & Android Leaders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-effective-spotify-promotion/"><u>[New] Mastering the Art of Effective Spotify Promotion</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[Updated] How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/audio-woes-in-win-10-over-now-smooth-operations/"><u>Audio Woes in WIN 10 Over, Now Smooth Operations</u></a></li>
-<li><a href="https://common-error.techidaily.com/dell-laptop-diy-fixes-making-your-non-responsive-fn-keys-operational-once-more/"><u>Dell Laptop DIY Fixes: Making Your Non-Responsive 'FN' Keys Operational Once More</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-correcting-error-0x80072efd-a-complete-guide-for-windows-10-users/"><u>Expert Advice on Correcting Error 0X80072EFD - A Complete Guide for Windows 10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-started-with-the-engine-essential-hardware-requirement-a-compatible-d3d11-gpu-is-needed/"><u>Getting Started with the Engine: Essential Hardware Requirement – A Compatible D3D11 GPU Is Needed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/how-to-get-the-most-out-of-your-streamlabs-obs-setup-for-2024/"><u>How to Get the Most Out of Your Streamlabs OBS Setup for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207907025-solving-the-binkw32dll-file-not-found-issue-a-step-by-step-guide/"><u>Solving the binkw32.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-casting-issues-to-devices-in-windows-11/"><u>Troubleshooting: Fixing Casting Issues to Devices in Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vision-in-focus-analyzing-best-8k-screen-performers/"><u>Vision in Focus Analyzing Best 8K Screen Performers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dslrs-place-among-mirrorless-cameras-for-videos/"><u>[Updated] 2024 Approved DSLR's Place Among Mirrorless Cameras for Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-quality-video-capture-for-beginner-creators-for-2024/"><u>[Updated] High-Quality Video Capture for Beginner Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fullscape-synergy-the-smart-mcn-picking-game/"><u>[Updated] In 2024, FullScape Synergy The Smart MCN Picking Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-your-problematic-minecraft-lan-setup-for-effortless-play/"><u>Diagnosing and Correcting Your Problematic Minecraft LAN Setup for Effortless Play</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dji-spark-review-best-mini-drone-with-gesture-control-for-taking-selfie-for-2024/"><u>DJI Spark Review Best Mini Drone with Gesture Control for Taking Selfie for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-strategies-to-overcome-the-persistent-0x80070490-problem-in-microsofts-windows-updates/"><u>Expert Strategies to Overcome the Persistent 0X80070490 Problem in Microsoft's Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-correcting-class-registration-failures-on-windows-11-systems/"><u>Guide to Correcting Class Registration Failures on Windows 11 Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-fodt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .fodt file</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-corrupted-windows-store-cache-steps-and-solutions/"><u>How to Repair a Corrupted Windows Store Cache: Steps and Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-x-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone X</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-common-problems-with-your-wacom-drawing-pad/"><u>How to Resolve Common Problems with Your Wacom Drawing Pad</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/laughmaker-quick-meme-and-image-crafter/"><u>LaughMaker Quick Meme & Image Crafter</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-a78-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo A78 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-troubleshooting-resolving-continuous-outriders-game-crashes/"><u>Simple Troubleshooting: Resolving Continuous Outriders Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-broken-keys-on-a-laptop-under-windows-operating-systems/"><u>Step-by-Step Guide to Restoring Broken Keys on a Laptop Under Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-restoring-your-windows-10-microphone-functionality/"><u>Troubleshooting Audio Issues: Restoring Your Windows 10 Microphone Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-fix-the-non-responsive-spacebar-issue-in-windows-10/"><u>Troubleshooting: How to Fix the Non-Responsive Spacebar Issue in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/upgraded-system-how-to-enable-directx-11-on-incompatible-gpu/"><u>Upgraded System: How To Enable DirectX 11 on Incompatible GPU</u></a></li>
 </ul></div>
 

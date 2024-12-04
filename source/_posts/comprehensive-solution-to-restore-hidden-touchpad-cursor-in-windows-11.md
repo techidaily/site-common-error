@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solution to Restore Hidden Touchpad Cursor in Windows 11
-date: 2024-11-19T16:58:38.974Z
-updated: 2024-11-24T19:43:34.022Z
+date: 2024-11-30T03:05:55.633Z
+updated: 2024-12-04T05:41:28.334Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -41,12 +37,20 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)  
 
@@ -56,18 +60,18 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -81,10 +85,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -94,7 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -119,18 +119,19 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-salt-and-surge-2023s-best-surf-cam-tech-review-for-2024/"><u>[New] Salt & Surge 2023'S Best Surf Cam Tech Review for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-discovering-digital-dominance-which-is-superior-youtubes-shorts-or-tiktoks/"><u>[Updated] In 2024, Discovering Digital Dominance Which Is Superior, YouTubes Shorts or TikToks?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-your-videography-from-monochrome-to-high-dynamic-range-masterpieces/"><u>2024 Approved Transforming Your Videography From Monochrome to High-Dynamic Range Masterpieces</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-superior-communication-with-the-user-friendly-clearstream-eclipse-antenna-top-reviewed/"><u>Experience Superior Communication with the User-Friendly ClearStream Eclipse Antenna - Top Reviewed!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a2-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo A2 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208522423-hp-laptop-keyboard-malfunction-solved-discover-simple-repair-techniques-now/"><u>HP Laptop Keyboard Malfunction Solved? Discover Simple Repair Techniques Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-game-with-the-comfortable-design-of-the-mavix-m9-chair-reviewed/"><u>Master Your Game with the Comfortable Design of the Mavix M9 Chair - Reviewed</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-tips-for-non-printable-pdf-files/"><u>Quick Troubleshooting Tips for Non-Printable PDF Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-win10-upgrade-stuck-on-99-proven-solutions-that-work/"><u>Resolve Win10 Upgrade Stuck on 99%: Proven Solutions That Work</u></a></li>
-<li><a href="https://common-error.techidaily.com/swift-methods-to-restore-lenovos-keyboard-function-fn-buttons/"><u>Swift Methods to Restore Lenovo's Keyboard Function (Fn) Buttons</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-windows-107-ethernet-connectivity-problems/"><u>Ultimate Guide: Resolving Windows 10/7 Ethernet Connectivity Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-does-grok-mean-unveiling-its-role-and-price-through-elons-explanation/"><u>What Does Grok Mean? - Unveiling Its Role and Price Through Elon's Explanation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/why-is-my-iphone-lagging-uncover-the-6-main-issues-and-remedies/"><u>Why Is My iPhone Lagging? Uncover the 6 Main Issues & Remedies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-djis-sky-high-adventure-a-compreranal-of-the-pro-model-for-2024/"><u>[New] DJI’s Sky-High Adventure A Compreranal of the Pro Model for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-watch-9-free-full-length-christmas-movies-on-youtube-for-2024/"><u>[New] Watch 9 Free Full Length Christmas Movies On YouTube for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>[Updated] Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rhythm-reels-crafting-danceable-instagram-video-content/"><u>[Updated] Rhythm Reels Crafting Danceable Instagram Video Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ators-guide-to-understanding-youtube-policies/"><u>A Creator’s Guide to Understanding YouTube Policies</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209873900-9780648367574-conversations-with-consciousness/"><u>Conversations with Consciousness | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-the-long-delay-alert-in-semaphore-systems-fix-for-error-code-0x80070079/"><u>Eliminate the Long Delay Alert in Semaphore Systems - Fix for Error Code 0X80070079</u></a></li>
+<li><a href="https://common-error.techidaily.com/google-chrome-black-screen-error-step-by-step-solutions-for-a-clear-display/"><u>Google Chrome Black Screen Error - Step-by-Step Solutions for a Clear Display</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oneplus-nord-ce-3-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring OnePlus Nord CE 3 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-what-are-your-rights-exploring-legalities-of-video-sharing-on-fb/"><u>In 2024, What Are Your Rights? Exploring Legalities of Video Sharing on FB</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722995560280-nier-replica-master-update-solved-launch-trouble-no-more/"><u>NieR Replica Master Update Solved: Launch Trouble No More</u></a></li>
+<li><a href="https://common-error.techidaily.com/non-responsive-component-in-correctly-configured-system/"><u>Non-Responsive Component in Correctly Configured System</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-unsolicited-boot-solving-the-mystery-of-self-activating-pcs-in-windows-10/"><u>Preventing Unsolicited Boot: Solving the Mystery of Self-Activating PCs in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-what-to-do-when-your-symbol-wont-type/"><u>Solving the Problem: What to Do When Your '@' Symbol Won't Type</u></a></li>
 </ul></div>
 

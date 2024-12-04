@@ -1,7 +1,7 @@
 ---
 title: "Reviving Your Lenovo Laptop's Webcam: A Comprehensive Troubleshooting Guide"
-date: 2024-11-17T16:32:33.133Z
-updated: 2024-11-25T01:56:36.569Z
+date: 2024-12-01T19:49:18.866Z
+updated: 2024-12-03T21:59:53.125Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **C:\\Windows\\System32\\drivers\\etc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3567542f7b.png)
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
  3) Click **hosts** . Then right-click on it to select **Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c357b799ed0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your Chrome and go to the website to see if successfully.
 
@@ -63,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **control**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35a29d09e6.png)
@@ -71,21 +67,17 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35ad5a4675.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click **Network** **and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35b2a96e3d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**Internet** **Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35c7a40df1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click **Clear SSL state**  in **Content** .
 
@@ -94,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
  7) Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35de82e9dd.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Click **OK** .
 
@@ -112,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
  3) Restart your Chrome and go to the website to see if successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Make sure the Date and Time is correct on your Windows
@@ -122,13 +118,13 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c361a426aaa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Restart your Chrome and go to the website to see if successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Check the website in your Firewall
@@ -138,7 +134,7 @@ Restart your Chrome and go to the website to see if successfully.
 Restart your Chrome and go to the website to see if successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 6: Make sure you’re going to the secure website
@@ -150,6 +146,10 @@ To check if a website is secure:
 ### Way 1: See its URL
 
  Over a secure connection, the address should begin with **https** (note the **s**  at the end).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 2: See the security status on the address bar of Chrome
 
@@ -178,24 +178,18 @@ To the left of the website address, check the security status:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/nhance-your-music-library-top-6-free-ios-apps-for-audio-conversion/"><u>[New] Enhance Your Music Library Top 6 Free iOS Apps for Audio Conversion</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-from-stream-to-screen-how-to-download-youtube-on-iphoneipad/"><u>[Updated] 2024 Approved From Stream to Screen How to Download Youtube on iPhone/iPad</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choosing-screen-clarity-is-ultrawide-or-uhd-4k-better-in-2024/"><u>Choosing Screen Clarity Is UltraWide or UHD 4K Better, In 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-12-pro-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ling-at-content-creation-a-guide-to-gamers-success/"><u>Excelling at Content Creation A Guide to Gamers' Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/google-chrome-freezing-issues-how-to-restart-and-fix-the-problem/"><u>Google Chrome Freezing Issues: How to Restart and Fix the Problem</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamline-your-video-submissions-adding-imovie-content-to-vimeo/"><u>In 2024, Streamline Your Video Submissions Adding iMovie Content to Vimeo</u></a></li>
-<li><a href="https://common-error.techidaily.com/logitech-g930-audio-disruption-fixes-comprehensive-guide-to-uninterrupted-sound/"><u>Logitech G930 Audio Disruption Fixes: Comprehensive Guide to Uninterrupted Sound</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nvestment-high-rewards-channel-size-doesnt-deter-sponsorship/"><u>Low-Investment, High Rewards Channel Size Doesn't Deter Sponsorship</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-not-enough-memory-problems-for-seamless-performance/"><u>Resolve ‘Not Enough Memory’ Problems for Seamless Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-valorants-persistent-screen-tearing-problem-a-comprehensive-walkthrough/"><u>Resolving Valorant's Persistent Screen Tearing Problem - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correcting-the-pc-reset-failure-on-windows-10-platforms/"><u>Step-by-Step Guide to Correcting the PC Reset Failure on Windows 10 Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-saving-iphone-data-via-icloud-and-mac-tips/"><u>Step-by-Step Guide: Saving iPhone Data via iCloud and Mac - Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-solutions-fixing-the-freezing-issue-on-your-windows-11-taskbar/"><u>Top Solutions: Fixing the Freezing Issue on Your Windows 11 Taskbar</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-on-windows-7-for-smooth-sounds/"><u>Troubleshooting Audio Issues on Windows 7 for Smooth Sounds</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-computer-rebooting-automatically-solutions-for-windows-10/"><u>Why Is My Computer Rebooting Automatically? Solutions for Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-10-mp4/"><u>Windows 10向け無料 MP4ビデオの自動回転テクニック</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-network-malfunction-error-code-0x800704cf-resolved-strategies-for-users/"><u>Windows Network Malfunction [Error Code 0X800704cf] - Resolved Strategies for Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-zoomelitevue-7-enhance-and-resize-like-a-pro/"><u>[New] In 2024, ZoomEliteVue 7 Enhance & Resize Like a Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-snapshot-strategies-capturing-win10-gaming-excellence-for-2024/"><u>[New] Snapshot Strategies Capturing Win10 Gaming Excellence for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-list-free-online-meeting-software-roundup/"><u>[Updated] 2024 Approved The Ultimate List Free Online Meeting Software Roundup</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-secret-sauce-to-outstanding-online-identity-creation/"><u>[Updated] The Secret Sauce to Outstanding Online Identity Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cambiar-video-mp4-a-imagen-animada-gif-en-linea-sin-coste-y-con-excelente-calidad/"><u>Cambiar Video MP4 a Imagen Animada GIF en Línea Sin Coste Y Con Excelente Calidad</u></a></li>
+<li><a href="https://common-error.techidaily.com/destiny-2-not-working-fix-connection-errors-to-the-game-servers-here/"><u>Destiny 2 Not Working? Fix Connection Errors to the Game Servers Here!</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-windows-11-bluetooth-back-fast-and-effective-fixes/"><u>Get Your Windows 11 Bluetooth Back: Fast and Effective Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-on-unsupported-graphics-drivers-a-comprehensive-fix/"><u>How to Enable Miracast on Unsupported Graphics Drivers - A Comprehensive Fix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-global-viewership-kings-youtubes-viral-royalty/"><u>In 2024, Global Viewership Kings YouTube's Viral Royalty</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-red-screen-troubleshooting-for-a-smooth-windows-11-experience/"><u>Overcoming Red Screen Troubleshooting for a Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-updateinstallation-error-0x80070643/"><u>Troubleshooting Guide: Resolving Windows Update/Installation Error 0X80070643</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-symbol-a-guide-to-solving-non-functional-special-characters/"><u>Troubleshooting the '@' Symbol: A Guide to Solving Non-Functional Special Characters</u></a></li>
 </ul></div>
 

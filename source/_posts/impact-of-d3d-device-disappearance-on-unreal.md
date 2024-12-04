@@ -1,7 +1,7 @@
 ---
 title: Impact of D3D Device Disappearance on Unreal
-date: 2024-11-17T19:02:40.155Z
-updated: 2024-11-25T00:23:45.547Z
+date: 2024-11-28T07:20:42.440Z
+updated: 2024-12-03T21:49:05.986Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -48,7 +44,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -110,7 +106,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -122,16 +118,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -142,6 +134,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -149,6 +145,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,22 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-orbiting-imagery-advanced-methods-for-drone-video-editing/"><u>[New] 2024 Approved Orbiting Imagery Advanced Methods for Drone Video Editing</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ranked-10-best-low-cost-user-friendly-passport-photo-services/"><u>[New] 2024 Approved Ranked 10 Best Low-Cost, User-Friendly Passport Photo Services</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-cutting-edge-techniques-for-music-in-canva-videos/"><u>[New] In 2024, Cutting-Edge Techniques for Music in Canva Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-ratio-breakdown-for-youtube-content-formats/"><u>[New] Ultimate Ratio Breakdown for YouTube Content Formats</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/computational-time-for-a-20mb-media-piece/"><u>Computational Time for a 20Mb Media Piece</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-update-service-a-comprehensive-guide/"><u>Fixing Windows Update Service: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/graphics-driver-update-resolves-miracast-unsupported-error/"><u>Graphics Driver Update Resolves Miracast Unsupported Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-fix-crc-related-data-mistakes/"><u>How to Correctly Address and Fix CRC-Related Data Mistakes</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-building-an-effective-monetization-plan-for-video-content-on-vimeo/"><u>In 2024, Building an Effective Monetization Plan for Video Content on Vimeo</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigate-improved-output-with-mobile-lut-adjustments/"><u>In 2024, Navigate Improved Output with Mobile LUT Adjustments</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-parties-chat-restrictions-how-your-router-affects-connectivity/"><u>Resolving Parties Chat Restrictions: How Your Router Affects Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-vanishing-mouse-pointer-issue-in-windows-11/"><u>Resolving the Vanishing Mouse Pointer Issue in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-dells-dead-usb-port-diagnosis-and-fixes-explored/"><u>Reviving Your Dell's Dead USB Port: Diagnosis and Fixes Explored</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-solving-the-windows-10-0x80240034-update-failure/"><u>Understanding and Solving the Windows 10 0X80240034 Update Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlock-the-solution-fixing-common-problems-with-lenovo-keyboard-performance/"><u>Unlock the Solution: Fixing Common Problems with Lenovo Keyboard Performance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zooming-in-to-the-heart-of-roleplay-robloxs-close-up-guide/"><u>Zooming In to the Heart of Roleplay Roblox's Close-Up Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-creative-commons-copyright-licenses-complete-guide/"><u>[New] 2024 Approved How to Use Creative Commons Copyright Licenses [Complete Guide]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audacitys-guide-to-effortless-audio-transitions/"><u>2024 Approved Audacity's Guide to Effortless Audio Transitions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-bridging-platforms-instagram-and-tik-tok-synergy-manual/"><u>2024 Approved Bridging Platforms Instagram & Tik Tok Synergy Manual</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728465890850-windows-server-2019/"><u>如何修正：Windows Server 2019无法更新（五个有效方法） -专业指导</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/immerse-yourself-in-the-world-of-chrollo-with-high-quality-imagery-from-yl-softwares-creative-suite/"><u>Immerse Yourself in the World of Chrollo with High-Quality Imagery From YL Software's Creative Suite!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-iphone-shot-success-adopt-these-10-key-photographic-rules/"><u>In 2024, IPhone Shot Success Adopt These 10 Key Photographic Rules</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-pc-maintenannoins-strategies-to-fix-critical-error-0xc0000098-in-windows/"><u>Mastering PC Maintenannoins: Strategies to Fix Critical Error 0xC0000098 in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-dilemma-of-forced-system-closes-on-windows-11-a-step-by-step-guide/"><u>Overcoming the Dilemma of Forced System Closes on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-premium.techidaily.com/passos-faceis-para-montar-um-apresentacao-slideshow-musicais-em-computadores-pc-e-apple/"><u>Passos Fáceis Para Montar Um Apresentação Slideshow Musicais Em Computadores PC E Apple</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connectivity-problems-with-microsofts-wireless-display-on-windows-11/"><u>Resolving Connectivity Problems with Microsoft's Wireless Display on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-high-cpu-usage-by-msmpengexe-on-windows-10-troubleshooting-guide/"><u>Solve High CPU Usage by MsMpEng.exe on Windows 10 - Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-resolving-non-functioning-wacom-tablet-problems/"><u>Troubleshooting Fixes: Resolving Non-Functioning Wacom Tablet Problems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/zeroing-in-on-epson-error-code-x97/"><u>Zeroing In on Epson Error Code X97</u></a></li>
 </ul></div>
 
