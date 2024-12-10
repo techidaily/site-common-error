@@ -1,7 +1,7 @@
 ---
 title: "Clear Computer Visual Disruptions: A Guide to Correcting Vertical Line Issues on Your Monitor"
-date: 2024-11-28T05:06:41.748Z
-updated: 2024-12-03T18:31:40.429Z
+date: 2024-12-03T20:44:06.779Z
+updated: 2024-12-10T20:49:49.011Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes For USB Keeps Disconnecting
 
  Here’re 4 fixes that have helped other users resolve the problem. Just work your way down the list until you find the one that works for you.
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 2. **[Update your USB drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Do some basic troubleshooting
 
@@ -49,6 +41,10 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -65,7 +61,7 @@ To rule out this as a possibility:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
@@ -93,7 +89,7 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
@@ -108,6 +104,10 @@ To make sure you’ve this setting disabled:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change power management settings for USB Root Hubs
 
  Your PC system may automatically turn off the various devices on your computer in order to save power. And sometimes it can turn off your external hard drive, or USB devices specifically and cause the**USB keeps disconnecting** issue.
@@ -116,10 +116,6 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
@@ -127,6 +123,10 @@ To make sure you’ve this setting disabled:
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
@@ -156,24 +156,17 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-understanding-the-mechanics-of-whatsapp-voice-conversations/"><u>[Updated] 2024 Approved Understanding the Mechanics of WhatsApp Voice Conversations</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-selecting-from-the-top-9-free-youtube-tools/"><u>[Updated] The Ultimate Guide to Selecting From the Top 9 FREE YouTube Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unexpected-10-best-kept-facebook-memes/"><u>2024 Approved Unexpected 10 Best-Kept Facebook Memes</u></a></li>
-<li><a href="https://common-error.techidaily.com/busting-the-code-comprehensive-guide-to-correcting-nba-2k21s-green-glitch/"><u>Busting the Code: Comprehensive Guide to Correcting NBA 2K21's Green Glitch</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fix-for-your-lenovo-laptops-camera-problem-a-comprehensive-approach/"><u>DIY Fix for Your Lenovo Laptop's Camera Problem: A Comprehensive Approach</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-to-repair-your-windows-lkwin-with-sfc-and-dism-tools/"><u>Effective Solutions to Repair Your Windows ˈlɪkwiːn with SFC and DISM Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-resource-protection-failed-error-solutions-and-steps/"><u>Fixing 'Windows Resource Protection Failed' Error: Solutions & Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-brightness-back-overcoming-windows-10s-screen-setting-glitches/"><u>Getting Brightness Back: Overcoming Windows 10'S Screen Setting Glitches</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-spin-the-wheel-of-viewers-how-to-stream-round-the-clock-videos-on-youtube/"><u>In 2024, Spin the Wheel of Viewers How to Stream Round-the-Clock Videos on YouTube</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-13-miniipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 13 mini/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/install-handbrake-comment-viewer-avec-libdvdcss-sur-windowsmacos-11-pour-decrypter-et-extraire-un-film-en-dvd/"><u>Install HandBrake Comment Viewer Avec Libdvdcss Sur Windows/macOS 11 Pour Décrypter Et Extraire Un Film en DVD</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-youtube-live-thumbnails-essentials-for-2024/"><u>Mastering YouTube Live Thumbnails Essentials for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-functionality-to-your-directional-keypad-proven-remedies-for-broken-arrows/"><u>Restore Functionality to Your Directional Keypad: Proven Remedies for Broken Arrows!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-strategies-for-diagnosing-and-repairing-driverpowerstatefailure-issues-on-computers/"><u>Step-by-Step Strategies for Diagnosing & Repairing DRIVER_POWER_STATE_FAILURE Issues on Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-game-crashes-optimize-minecraft-performance-with-proper-windows-graphics-driver-configuration/"><u>Stop Game Crashes: Optimize Minecraft Performance with Proper Windows Graphics Driver Configuration</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-honor-magic-5-lite-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Honor Magic 5 Lite to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-couldnt-be-installed-error-code-80240020-solved/"><u>Windows 10 Couldn’t Be Installed Error Code 80240020 [Solved]</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726027251381-youtube/"><u>YouTube動画のオフライン鑑賞手順：パソコン向けガイド</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-top-6-online-free-tiktop-to-mp3-converter-tools/"><u>[New] 2024 Approved Top 6 Online-Free TikTop To MP3 Converter Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-social-media-synergy-elevating-youtube-engagement/"><u>[Updated] 2024 Approved Social Media Synergy Elevating YouTube Engagement</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-frustration-expert-tips-for-correcting-the-0xc000012f-error-in-windows-instantly/"><u>Bypassing Frustration: Expert Tips for Correcting the 0Xc000012f Error in Windows Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-overcome-previous-network-setup-malfunction/"><u>Dragon Ball FighterZ Overcome Previous Network Setup Malfunction</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-persistent-keyboard-delay-issues-on-windows-10/"><u>Fixing Persistent Keyboard Delay Issues on Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hobby-to-hustle-making-money-with-videos-for-2024/"><u>From Hobby to Hustle Making Money with Videos for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-spark-10-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-digital-delight-designer/"><u>In 2024, Digital Delight Designer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-absent-d3dx939dll-on-windows-11/"><u>Remedying Absent D3DX9_39.dll on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-laptops-stuck-keys-problem-across-various-windows-platforms/"><u>Solve Your Laptop's Stuck Keys Problem Across Various Windows Platforms!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-troubleshooting-and-fixing-a-nonfunctional-shift-key/"><u>Solved: Troubleshooting and Fixing a Nonfunctional Shift Key</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vlc-utility-guide-for-mp4-to-multiple-file-types-transformation/"><u>VLC Utility Guide for MP4 to Multiple File Types Transformation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Dell Laptop Malfunction? How To Troubleshoot and Repair Unresponsive Keys Easily
-date: 2024-11-30T18:44:24.450Z
-updated: 2024-12-04T00:19:56.564Z
+date: 2024-12-05T22:02:17.878Z
+updated: 2024-12-10T19:31:57.536Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 fixes for **Mouse frozen on laptop**
 
  Here are 5 fixes that have helped other users resolve the mouse frozen on laptop problem. You may not have to try all of them; just work your way down the list until you find the one that works for you.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 4. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for physical issues
 
 Depending on which mouse isn’t working:
@@ -42,6 +50,10 @@ Depending on which mouse isn’t working:
 * If it’s the external mouse, then try a different port, a different functioning mouse, and replace/recharge the battery (if it has one) to see if this fixes the problem. If not, move on to**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Try the function keys
 
@@ -60,18 +72,18 @@ Depending on which mouse isn’t working:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 2. Click the **Device Settings** tab > **your device** \> **Enable** \> **Apply** \> **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)
 3. Hopefully this time your mouse gets unfrozen and works fine. If the problem persists, try **Fix 4** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: **Update your device drivers**
 
@@ -87,17 +99,9 @@ Depending on which mouse isn’t working:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b569e2129fd3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -125,10 +129,6 @@ Here’s how to use Fortect to repair system files on your PC:
  3) Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
@@ -177,18 +177,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-beginners-shooting-companion-top-cameras-reviewed/"><u>[New] Beginner's Shooting Companion Top Cameras Reviewed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-expert-pathway-for-webp-to-jpg-transformation-for-2024/"><u>[New] Expert Pathway for WebP-to-JPG Transformation for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-tailoring-your-streaming-experience-on-macos-via-mixer/"><u>[Updated] 2024 Approved Tailoring Your Streaming Experience on macOS via Mixer</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-comprehensive-guide-for-dynamic-snaps-and-boomers/"><u>[Updated] 2024 Approved The Comprehensive Guide for Dynamic Snaps & Boomers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capturing-moments-logitech-webcam-filming-tutorials/"><u>2024 Approved Capturing Moments Logitech Webcam Filming Tutorials</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-easy-ways-to-translate-tiktok-videos/"><u>2024 Approved Easy Ways to Translate TikTok Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnose-and-repair-your-days-gone-installation-no-more-crashes/"><u>Diagnose & Repair Your Days Gone Installation - No More Crashes !</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210428845-effective-ways-to-correct-and-stop-windows-update-error-code-0x802n4002e-from-affecting-your-pc/"><u>Effective Ways to Correct and Stop Windows Update Error Code 0X802n4002E From Affecting Your PC!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-network-modification-alerts-with-simple-repair-steps/"><u>Overcome Network Modification Alerts with Simple Repair Steps</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-t2x-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo T2x 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-entry-point-missing-on-your-pc-a-guide-for-windows-users/"><u>Resolving 'Entry Point Missing' On Your PC: A Guide for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-v1607-troubleshooting-feature-update-installation-failures/"><u>Windows 11 v1607: Troubleshooting Feature Update Installation Failures</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-master-level-editing-the-essence-of-smooth-transitions-in-inshot-for-2024/"><u>[New] Master Level Editing The Essence of Smooth Transitions in Inshot for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-guide-80s-vhs-tricks-for-dynamic-edits-for-2024/"><u>[Updated] Ultimate Guide 80'S VHS Tricks for Dynamic Edits for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-broken-keyboard-arrows-easy-troubleshooting-steps-inside/"><u>Fix Your Broken Keyboard Arrows - Easy Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unspecified-error-understanding-and-solving-problem-0x800n4005/"><u>Fixing 'Unspecified Error': Understanding and Solving Problem 0X800n4005</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-red-screen-dilemma-a-comprehensive-solutions-overview/"><u>Fixing Windows 11'S Red Screen Dilemma - A Comprehensive Solutions Overview</u></a></li>
+<li><a href="https://common-error.techidaily.com/identify-and-update-vital-sound-and-display-drivers-for-optimal-pc-performance/"><u>Identify & Update Vital Sound & Display Drivers for Optimal PC Performance</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/immerse-top-sandbox-experiences-for-gamers-for-2024/"><u>Immerse Top Sandbox Experiences for Gamers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-lenovo-thinkphone-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Lenovo ThinkPhone to PC? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-and-ipad-guide-a-comprehensive-look-at-purchasing-ebooks-via-the-native-books-application/"><u>IPhone & iPad Guide: A Comprehensive Look at Purchasing eBooks via the Native Books Application</u></a></li>
+<li><a href="https://common-error.techidaily.com/latest-guide-troubleshooting-miracast-connectivity/"><u>Latest Guide: Troubleshooting Miracast Connectivity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-video-upload-your-guide-to-igtv-for-2024/"><u>Mastering Video Upload Your Guide to IGTV for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/microsoft-smartscreen-outage-why-the-security-feature-is-down/"><u>Microsoft SmartScreen Outage - Why the Security Feature Is Down</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-secure-trustwise-modification-rights-on-your-system-files/"><u>Steps to Secure TrustWise Modification Rights on Your System Files</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-best-cheap-video-doorbells-reviewed-focusing-on-the-iseebell-model-under-50/"><u>The Best Cheap Video Doorbells Reviewed – Focusing on the Iseebell Model Under $50</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-user-profile-service-failure-and-sign-in-issues-in-windows-10-and-11/"><u>Troubleshooting Tips: Resolving 'User Profile Service' Failure and Sign-In Issues in Windows 10 & 11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-edits-advanced-l-cuts-and-j-cuts-techniques-in-fcpx/"><u>Updated Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX</u></a></li>
 </ul></div>
 

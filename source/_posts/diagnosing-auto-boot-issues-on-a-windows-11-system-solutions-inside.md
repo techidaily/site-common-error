@@ -1,7 +1,7 @@
 ---
 title: Diagnosing Auto-Boot Issues on a Windows 11 System – Solutions Inside!
-date: 2024-12-03T01:47:24.921Z
-updated: 2024-12-03T19:42:17.960Z
+date: 2024-12-03T22:58:12.108Z
+updated: 2024-12-10T20:05:04.839Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -42,10 +46,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 1. Right-click your desktop, click **View**, and check **Show desktop icons**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -58,14 +58,14 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -84,10 +84,6 @@ start explorer.exe
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -96,15 +92,16 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
@@ -119,17 +116,17 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 2. Click **Update & security** \> **Recovery**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -147,11 +144,15 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -176,24 +177,19 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-how-intova-x-changes-action-camera-game-for-2024/"><u>[New] How Intova X Changes Action Camera Game for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guided-approach-to-saving-exact-youtube-segments-for-2024/"><u>[Updated] Guided Approach to Saving Exact YouTube Segments for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-yoga-enthusiasts-go-to-guide-on-youtube/"><u>[Updated] In 2024, Yoga Enthusiasts' Go-To Guide on YouTube</u></a></li>
-<li><a href="https://app-tips.techidaily.com/best-uwu-text-to-speech-apps-mastering-anime-character-vocalization-techniques/"><u>Best UwU Text-to-Speech Apps: Mastering Anime Character Vocalization Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-youthful-adventures-top-netflix-movie-picks-for-everyone/"><u>Best Youthful Adventures: Top Netflix Movie Picks for Everyone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-restoring-connected-media-playback-on-your-windows-system/"><u>Expert Advice: Restoring Connected Media Playback on Your Windows System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-8-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 8 After iOS Update? | Stellar</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-integrity-of-corrupted-drive-partitions-for-windows-users/"><u>How to Restore Integrity of Corrupted Drive Partitions for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-webcam-functionality-on-your-lenovo-laptop/"><u>How to Restore Webcam Functionality on Your Lenovo Laptop</u></a></li>
-<li><a href="https://app-tips.techidaily.com/integrating-email-services-with-onlyoffice-a-step-by-step-guide/"><u>Integrating Email Services with ONLYOFFICE – A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/marathon-ready-performance-meets-eye-candy-display-exploring-a-top-long-lasting-laptop-choice-zdnet-insights/"><u>Marathon-Ready Performance Meets Eye Candy Display: Exploring a Top Long-Lasting Laptop Choice | ZDNET Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-your-dhcp-server-effective-strategies-for-restoring-connectivity/"><u>Overcoming Challenges with Your DHCP Server - Effective Strategies for Restoring Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-guide-to-resolve-microphone-not-working-in-google-hangouts/"><u>Simple Guide to Resolve 'Microphone Not Working' In Google Hangouts</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-resolving-missing-d3dx939dll-issue/"><u>Solution Steps for Resolving MISSING D3DX9_39.dll Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-technical-issues-on-wacom-graphic-tables/"><u>Step-by-Step Guide: Overcoming Technical Issues on Wacom Graphic Tables</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-rated-free-windows-11-media-player-enjoy-unlimited-entertainment/"><u>Top Rated Free Windows 11 Media Player: Enjoy Unlimited Entertainment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202389591-trouble-with-arrow-keys-discover-easy-fixes-to-restore-functionality/"><u>Trouble with Arrow Keys? Discover Easy Fixes to Restore Functionality!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-halting-unexpected-computer-resets-in-windows-10-environments/"><u>Troubleshooting Guide: Halting Unexpected Computer Resets in Windows 10 Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-recurring-restart-glitches-on-windows-operating-systems-11-and-10/"><u>Troubleshooting Recurring Restart Glitches on Windows Operating Systems (11 and 10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-speaker-plugged-in-but-no-sound-in-windows/"><u>[Fixed] Speaker Plugged In But No Sound in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/issue-resolved-steps-for-fixing-new-world-easy-anti-cheat-service-failure-to-initiate/"><u>[ISSUE RESOLVED] Steps for Fixing 'New World Easy Anti-Cheat Service Failure to Initiate'</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-beyond-imagination-vr-powered-movies-for-2024/"><u>[Updated] Beyond Imagination VR-Powered Movies for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unveiling-the-secrets-share-images-professionally-on-youtube/"><u>[Updated] In 2024, Unveiling the Secrets Share Images Professionally on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-secrets-to-exceptional-tiktok-videos/"><u>2024 Approved Expert Secrets to Exceptional TikTok Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-itel-s23plus-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Itel S23+</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-hardware-update-your-system-needs-a-d3d11-compatible-graphics-card-to-function/"><u>Essential Hardware Update: Your System Needs a D3D11-Compatible Graphics Card to Function</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-does-truecaller-stack-up-an-in-depth-look-at-functionality-and-reliability-for-users/"><u>How Does TrueCaller Stack Up? An In-Depth Look at Functionality and Reliability for Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-redmi-13c-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Redmi 13C 5G has been deleted</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-audio-output-device-missing-on-windows-11/"><u>Solving 'Audio Output Device Missing' On Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-that-constant-blink-the-ultimate-solution-for-persistent-cursors/"><u>Stop That Constant Blink: The Ultimate Solution for Persistent Cursors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210221717-9780753734742-the-chakra-experience/"><u>The Chakra Experience | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-cant-i-access-my-pcs-integrated-antivirus-solving-windows-smartscreen-issues/"><u>Why Can't I Access My PC's Integrated Antivirus? Solving Windows SmartScreen Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mov-flac-movavi/"><u>원룰르하지 않고 MOV FLAC 변환 - 오픈 소스 기술에서 최고의 이점: Movavi</u></a></li>
 </ul></div>
 

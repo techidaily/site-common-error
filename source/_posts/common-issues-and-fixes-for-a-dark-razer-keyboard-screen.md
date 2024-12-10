@@ -1,7 +1,7 @@
 ---
 title: Common Issues and Fixes for a Dark Razer Keyboard Screen
-date: 2024-11-30T20:05:41.393Z
-updated: 2024-12-03T23:57:04.659Z
+date: 2024-12-08T20:48:16.092Z
+updated: 2024-12-10T20:51:38.932Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -48,7 +44,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -56,7 +52,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -78,6 +74,10 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
@@ -108,7 +108,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -138,6 +138,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,14 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-luminous-techniques-for-engaging-vlogs/"><u>[New] In 2024, Luminous Techniques for Engaging Vlogs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-shambling-successes-the-cutthroat-list-of-best-zombies-gaming/"><u>[New] In 2024, Shambling Successes The Cutthroat List of Best Zombies Gaming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-roguelike-vs-roguelite-debates-and-history/"><u>[Updated] 2024 Approved Roguelike Vs. Roguelite Debates and History</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-razr-40-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Razr 40 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/mastering-search-engines-the-ultimate-guide-based-on-name-insights/"><u>Mastering Search Engines: The Ultimate Guide Based on $Name Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/prompt-protocols-for-power-puzzles-eliminating-missing-battery-alerts-quickly/"><u>Prompt Protocols for Power Puzzles: Eliminating 'Missing Battery' Alerts Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-sticky-keys-on-windows-11/"><u>Resolved: Fixing Sticky Keys on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-tips-to-overcome-red-screen-issues-in-windows-11/"><u>The Ultimate Troubleshooting Tips to Overcome Red Screen Issues in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-a-non-responsive-huion-pen-with-these-5-effective-techniques/"><u>Troubleshoot a Non-Responsive Huion Pen with These 5 Effective Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-pro-filmmakers-guide-to-speedy-shot-techniques/"><u>[New] 2024 Approved Pro Filmmaker's Guide to Speedy Shot Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-forza-horizon-4-no-sound-problem/"><u>[SOLVED] Forza Horizon 4 No Sound Problem</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-perfect-selfies-tips-for-instagram-story-magnification/"><u>[Updated] 2024 Approved Perfect Selfies Tips for Instagram Story Magnification</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-discover-the-latest-2023-features-of-samsung-bd-j5900/"><u>2024 Approved Discover the Latest 2023 Features of Samsung BD-J5900</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhancing-visual-fidelity-in-ar-utilizing-custom-luts/"><u>2024 Approved Enhancing Visual Fidelity in AR Utilizing Custom LUTs</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-and-constructive-icon-arrangement-ideas/"><u>Clear and Constructive Icon Arrangement Ideas</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/experience-the-future-with-these-top-iphone-vr-titles/"><u>Experience the Future with These Top iPhone VR Titles</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-fixing-issues-with-logitec-mouse-scroll-functionality/"><u>Expert Advice: Fixing Issues with Logitec Mouse Scroll Functionality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-honor-90-gt-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Honor 90 GT without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/locating-and-fixing-the-necessary-driver-your-pc-requires-for-media-devices/"><u>Locating and Fixing the Necessary Driver Your PC Requires For Media Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgianest-compact-crafting-classic-gaming-memories/"><u>NostalgiaNest Compact: Crafting Classic Gaming Memories</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimal-practices-for-archiving-interactive-online-workshops/"><u>Optimal Practices for Archiving Interactive Online Workshops</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-address-minecraft-issues-caused-by-faulty-gpu-drivers-in-windows/"><u>Troubleshooting Guide: How to Address Minecraft Issues Caused by Faulty GPU Drivers in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-charging-issues-when-plugged-into-windows-pcs-version-7-or-10/"><u>Troubleshooting Non-Charging Issues When Plugged Into Windows PCs (Version 7 or 10)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-non-operational-intel-rst-service-on-your-windows-11-pc/"><u>Troubleshooting the Non-Operational Intel RST Service on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-the-livekernelevent-117-error-permanently/"><u>Ultimate Guide: Solving the 'LiveKernelEvent 117' Error Permanently</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-the-challenge-of-error-code-0x8024a105-in-microsoft-updates/"><u>Unraveling the Challenge of Error Code 0X8024a105 in Microsoft Updates</u></a></li>
 </ul></div>
 

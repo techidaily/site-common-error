@@ -1,7 +1,7 @@
 ---
 title: "Error Catastrophe: Hardware Deadlock"
-date: 2024-11-29T01:02:52.782Z
-updated: 2024-12-03T18:09:47.642Z
+date: 2024-12-09T19:14:52.241Z
+updated: 2024-12-10T18:53:41.205Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before you start
 
  Before you try any method listed below, make sure that your PC meets the minimum requirements for Volarant.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 | **Processor**        | Intel Core 2 DUO E8400    |
 | **Memory**           | 4 GB RAM                  |
 | **Graphics Card**    | Intel HD 4000             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,23 +66,23 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/search-box-resolution.jpg)
 2. Scroll down to the end and select**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-display-settings.jpg)
 3. Select**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-dis-settings.jpg)
 4. On the Adapter tab, click**List All Modes** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/display-adapter.jpg)
 5. A list of different resolutions will show on the screen. Select one according to your hardware specifications.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/list-all-modes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your PC after each time you change the settings and see if screen tearing still appears.
 
@@ -101,10 +109,6 @@ Restart your PC and launch Valorant again to see if the problem is fixed.
 
 if it is not helping, simply move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3:**Change power settings**
 
  Battery-friendly power settings might reduce graphic processing performance and cause screen tearing. You can change power settings to make sure any graphical processing is not constrained. Follow the steps below:
@@ -112,10 +116,6 @@ if it is not helping, simply move on to the next fix.
 1. On your keyboard, press**Win** +**R** (the Windows logo key and the R key) to open the Run box. Then type**powercfg.cpl** in the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/runcommand-power.jpg)
 2. In the Power Options menu, click the**Show additional plans** arrow and select**High performance** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/power-high-perform.jpg)
 
@@ -145,6 +145,10 @@ If nothing changes, you might need to check your graphic drivers.
 
 If it doesn’t do the trick, simply move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5:**Turn on VSync**
 
  As mentioned before, screen tearing happens in the moments when the game’s frame rate is too high for your monitor to keep up. To fix that, VSync, or vertical sync, could be helpful. It is designed to synchronize the frame rate of a game with your monitor’s refresh rate.
@@ -165,6 +169,10 @@ If it doesn’t do the trick, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. At the top right corner of the menu, click the settings icon. Then select the**Graphics** tab and navigate to**Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click**Always on** .  
 
@@ -176,7 +184,7 @@ If it doesn’t do the trick, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-vsync-on.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When VSync is on, you should turn off**Limit FPS Always** in Valorant, or the two settings might conflict with each other.
@@ -185,7 +193,7 @@ If it doesn’t do the trick, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-limit-fps-always.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 No luck with that? Keep reading.
@@ -199,17 +207,9 @@ No luck with that? Keep reading.
 2. Go to**GRAPHICS QUALITY** , and set as follows:  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-graphics-quality-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Launch your game again and check for any changes.
 
 If it doesn’t help, move on to the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7:**Cap Valorant’s frame rate manually**
 
@@ -221,6 +221,11 @@ If it doesn’t help, move on to the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/adv-display-settings.jpg)
 3. Scroll down to the**Refresh Rate** section and you will know the refresh rate of your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
 
 **Now you can set the maximum frame rate.**
@@ -233,10 +238,6 @@ For NVIDIA users:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings-max-frame-rate.png)
 3. Select**On** and move the slider to your monitor’s refresh rate.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For AMD users:
 
 1. At the bottom left of the screen, click the search box and type**amd** . Then click**AMD Radeon Software** .  
@@ -244,7 +245,7 @@ For AMD users:
 2. At the top right corner of the menu, click the settings icon. Then select the**Graphics** tab and navigate to**Radeon Chill** . Enable it and move the Max FPS slider to your PC’s frame rate.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics-1.jpg)
@@ -268,21 +269,21 @@ For AMD users:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-path-to-unforgettable-video-engagement/"><u>[New] 2024 Approved The Ultimate Path to Unforgettable Video Engagement</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-audacity-crossfading-process/"><u>[New] Step-by-Step Audacity Crossfading Process</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-premier-media-mover-mp4-to-fb/"><u>[Updated] In 2024, Premier Media Mover MP4-to-FB</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-stills-extraction-procedure-windows-11-photos-guide/"><u>[Updated] In 2024, Stills Extraction Procedure Windows 11 Photos Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-elite-circle-of-online-av-masters/"><u>2024 Approved The Elite Circle of Online AV Masters</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/enabling-bluetooth-connectivity-in-windows-11-and-10-a-comprehensive-guide/"><u>Enabling Bluetooth Connectivity in Windows 11 & 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/ftdi-bus-issues-system-halts-driver-mismatch-causes-loss-of-data-integrity/"><u>FTDI Bus Issues: System Halts - Driver Mismatch Causes Loss of Data Integrity</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-note-30-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Note 30?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-non-accelerated-pixel-format-issue-in-lwjgl/"><u>How to Resolve the Non-Accelerated Pixel Format Issue in LWJGL</u></a></li>
-<li><a href="https://extra-information.techidaily.com/strategies-for-improving-your-interview-prowess/"><u>Strategies for Improving Your Interview Prowess</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-unreachable-steam-server-problems/"><u>Troubleshooting Guide: Fixing Unreachable Steam Server Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tip-successfully-addressed-error-1067-abrupt-termination-of-windows-tasks/"><u>Troubleshooting Tip: Successfully Addressed 'Error #1067': Abrupt Termination of Windows Tasks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-overcoming-unreachable-configuration-servers-issues/"><u>Troubleshooting Tips for Overcoming 'Unreachable Configuration Servers' Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-windows-11-system-freezes-and-crashes/"><u>Troubleshooting Tips: Overcoming Windows 11 System Freezes and Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/unfreezing-slow-moving-window-update-states-on-legacy-oss-latest-techniques-and-solutions-for-better-user-experience-in-the-year-of-our-lord-two-thousand-an59/"><u>Unfreezing Slow-Moving Window Update States On Legacy OSs - Latest Techniques And Solutions For Better User Experience in the Year of Our Lord Two Thousand and Twenty Four (Guide, Helpful Tips & Troubleshooting Steps)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-recommendations-for-maximum-data-keep-for-2024/"><u>[Updated] Essential Recommendations for Maximum Data Keep for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-experience-transformative-text-design-with-these-leading-platforms/"><u>[Updated] Experience Transformative Text Design with These Leading Platforms</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-social-media-the-rise-and-reality-of-facebooks-metaverse/"><u>Beyond Social Media: The Rise and Reality of Facebook’s Metaverse</u></a></li>
+<li><a href="https://common-error.techidaily.com/connect-your-airpods-to-windows-pc-easy-fixes-and-tips/"><u>Connect Your AirPods to Windows PC : Easy Fixes & Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-restoring-functionality-for-broken-login-keyboards/"><u>Expert Advice: Restoring Functionality for Broken Login Keyboards</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unrecognized-usb-hardware-problems-and-failed-port-resets-on-windows-11/"><u>Fixing Unrecognized USB Hardware Problems and Failed Port Resets on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-restarting-intel-realsense-streaming-technology-in-windows-10-systems/"><u>Guide: Restarting Intel RealSense Streaming Technology in Windows 10 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/high-quality-audio-bus-issue-resolved/"><u>High-Quality Audio Bus Issue Resolved</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-12-proplus-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi Redmi Note 12 Pro+ 5G Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-realme-c53-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Realme C53 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-video-editing-with-apples-latest-m1-macbook-air/"><u>Navigating Video Editing with Apple’s Latest M1 MacBook Air</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-restore-functionality-in-windows-11-sound-volume-buttons/"><u>Solved: How To Restore Functionality in Windows 11 Sound Volume Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-win32-exception-error-a-detailed-walkthrough-to-resolve-error-0xc0000005/"><u>Tackling Win32 Exception Error: A Detailed Walkthrough to Resolve Error 0xC0000005</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-your-bluetooth-keyboard-connection-issues-with-windows/"><u>Troubleshooting Guide: How to Fix Your Bluetooth Keyboard Connection Issues with Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-creativity-and-productivity-score-your-2nd-gen-apple-pencil-for-an-unbeatable-price-of-95-this-labor-day/"><u>Unleash Creativity and Productivity: Score Your 2Nd Gen Apple Pencil for an Unbeatable Price of $95 This Labor Day</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/windows-11-game-recording-5-methods-for-2024/"><u>Windows 11 Game Recording [5 Methods] for 2024</u></a></li>
 </ul></div>
 

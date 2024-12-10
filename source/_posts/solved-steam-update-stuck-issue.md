@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Steam Update Stuck Issue"
-date: 2024-11-26T17:25:36.554Z
-updated: 2024-12-04T04:00:27.163Z
+date: 2024-12-09T17:35:15.304Z
+updated: 2024-12-10T23:07:34.039Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ Your**Windows Store** has been acting up recently.
 3. **[Reinstall Microsoft store](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reset the Windows Store cache
@@ -44,33 +44,29 @@ Your**Windows Store** has been acting up recently.
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type**R** at the same time, then type**wsreset.exe** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Windows Store cache may be damaged error have been fixed. If yes, then great! If it remains, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Create a new Windows Store cache folder
 
@@ -94,7 +90,7 @@ Your**Windows Store** has been acting up recently.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Microsoft Store
@@ -106,6 +102,10 @@ Your**Windows Store** has been acting up recently.
  1) On your keyboard, press**the Windows logo key** and type**apps** . Then  click**Apps & features** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
 
@@ -142,22 +142,22 @@ Your**Windows Store** has been acting up recently.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-dial-up-dislikes-flip-the-script-with-square-content-creation/"><u>[Updated] Dial Up Dislikes? Flip the Script with Square Content Creation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-high-quality-online-meeting-capture-devices/"><u>[Updated] Top 5 High-Quality Online Meeting Capture Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-wow-pc-boot-failures-heres-a-guide-to-restarting-the-game-smoothly/"><u>Dealing with WoW PC Boot Failures? Here's a Guide to Restarting the Game Smoothly!</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fixes-what-to-do-when-you-encounter-a-d3derr-notavailable-issue/"><u>DIY Fixes: What To Do When You Encounter a D3DERR NOTAVAILABLE Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-remedies-for-the-quick-anti-cheat-error-in-apex-legends/"><u>Effective Remedies for the Quick Anti-Cheat Error in Apex Legends</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-youtubes-audio-playback-problems-caused-by-an-error-in-windows-n-renderers/"><u>Effective Solutions for YouTube's Audio Playback Problems Caused by an Error in Windows N-Renderers</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-how-to-eliminate-the-infamous-error-0x80072efd-on-your-windows-11-machine/"><u>Expert Advice: How to Eliminate the Infamous 'Error 0X80072EFD' On Your Windows 11 Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-solutions-for-when-the-asterisk-key-malfunctions/"><u>Expert Advice: Solutions for When the Asterisk Key Malfunctions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-honor-90-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Honor 90 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-social-potential-with-easy-to-follow-tips-for-xbox-and-zoom-users/"><u>In 2024, Unlock Social Potential with Easy-to-Follow Tips for Xbox and Zoom Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-excessive-gpu-load-from-desktop-window-manager-on-win11-a-guide-with-5-fixes/"><u>Resolve Excessive GPU Load From Desktop Window Manager on Win11: A Guide with 5 Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-asus-webcam-display-problem-on-windows-11/"><u>Solving the ASUS Webcam Display Problem on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-window-woes-fixing-a-faint-and-unresponsive-screen-in-windows-11/"><u>Troubleshooting Window Woes: Fixing a Faint and Unresponsive Screen in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-iphone-stuck-on-charged-but-wont-charge-solutions-inside/"><u>Troubleshooting: IPhone Stuck on 'Charged' But Won't Charge – Solutions Inside</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-mememix-download-now-for-2024/"><u>Ultimate Mememix Download Now for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/uninterrupted-boosted-bass-exploring-the-wonders-of-ion-audio-tailgater-plus/"><u>Uninterrupted, Boosted Bass: Exploring the Wonders of ION Audio Tailgater Plus</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-simulation-to-reality-jaunt-vrs-journey/"><u>[Updated] From Simulation to Reality Jaunt VR's Journey</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-cyber-profile-pixelation-crafting-a-playful-look/"><u>[Updated] In 2024, Cyber-Profile Pixelation Crafting a Playful Look</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-incorporating-youtubes-creative-commons-in-video-making-for-2024/"><u>[Updated] Incorporating YouTube's Creative Commons in Video Making for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-when-your-windows-11-mouse-cant-right-click/"><u>Easy Fixes for When Your Windows 11 Mouse Can't Right-Click</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-education-game-with-these-top-8-learning-apps/"><u>Elevate Your Education Game with These Top 8 Learning Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-windows-1110-endless-reboot-loop-solutions-unveiled/"><u>Fixes for Windows 11/10 Endless Reboot Loop: Solutions Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/free-and-easy-m4b-to-mp3-conversion-top-5-online-applications-you-need-to-try/"><u>Free and Easy M4B to MP3 Conversion: Top 5 Online Applications You Need to Try</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-a59-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo A59 5G?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-tecno-spark-10-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Tecno Spark 10 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ideal-audio-recording-equipment-for-idevices-enthusiasts-for-2024/"><u>Ideal Audio Recording Equipment for iDevices Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-guide-to-youtubes-latest-income-strategies/"><u>In 2024, Guide to YouTube's Latest Income Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-fixing-touchscreens-in-windows-10-with-these-proven-techniques-5/"><u>Master the Art of Fixing Touchscreens in Windows 10 with These Proven Techniques [5]</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-post-boot-crashes-effective-solutions/"><u>Resolving Windows 11 Post-Boot Crashes: Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-ultimate-guide-to-resolving-issues-with-your-corsair-hs50-microphone/"><u>Troubleshooting and Fixing: The Ultimate Guide to Resolving Issues with Your Corsair HS50 Microphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-what-to-do-if-your-torrent-download-fails/"><u>Troubleshooting Steps: What to Do If Your Torrent Download Fails?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-the-rundll32-in-windows-host-process/"><u>Troubleshooting Tips: Resolving Issues with the Rundll32 in Windows Host Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-woes-effective-solutions-for-error-code-0xc0000098/"><u>Winning Against Windows Woes: Effective Solutions for Error Code 0Xc0000098</u></a></li>
 </ul></div>
 

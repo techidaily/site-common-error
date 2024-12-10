@@ -1,7 +1,7 @@
 ---
 title: How to Address and Fix 'Module Not Found' Errors on Windows or Mac
-date: 2024-11-27T01:30:18.554Z
-updated: 2024-12-03T19:26:31.399Z
+date: 2024-12-09T18:41:13.457Z
+updated: 2024-12-10T20:49:24.828Z
 tags:
   - win11
   - win10
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f339adae6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Both fixes below work in Windows 10, 8 and 7.
 
@@ -42,7 +42,7 @@ Both fixes below work in Windows 10, 8 and 7.
 2. [**Update your touchpad driver**](#F2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable touchpad in settings
@@ -52,19 +52,23 @@ Both fixes below work in Windows 10, 8 and 7.
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
-2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
- Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
+ Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
@@ -87,10 +91,6 @@ Both fixes below work in Windows 10, 8 and 7.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](http://wp.easeware.net/wp-content/uploads/2018/04/img_5ac1a01192ca4.png)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Check and see if your Lenovo touchpad is back to life again. ?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -117,17 +117,18 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/xclusive-access-sharing-restricted-youtube-content-with-emailid/"><u>[New] Exclusive Access Sharing Restricted YouTube Content with EmailID</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-the-secrets-to-social-media-success-with-igtv-hashtag-techniques/"><u>[New] In 2024, Unlock the Secrets to Social Media Success with IGTV Hashtag Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-pinnaclepix-z7-pro-elevate-your-photos-dimensions-for-2024/"><u>[Updated] PinnaclePix Z7 Pro Elevate Your Photo's Dimensions for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/complete-assessment-gecatas-real-time-logger-for-2024/"><u>Complete Assessment Gecata's Real-Time Logger for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-restore-logitech-mouse-scroll-wheel-functionality/"><u>Effective Techniques to Restore Logitech Mouse Scroll Wheel Functionality</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/enhancing-live-broadcasts-with-premium-webcams/"><u>Enhancing Live Broadcasts with Premium WebCams</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/environmental-considerations-play-a-significant-role-in-mix-design-decisions/"><u>Environmental Considerations Play a Significant Role in Mix Design Decisions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-new-world-conquered-the-easy-anti-cheat-challenge-now-launching-smoothly/"><u>How New World Conquered the Easy Anti-Cheat Challenge, Now Launching Smoothly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-xr-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone XR</u></a></li>
-<li><a href="https://common-error.techidaily.com/repair-guide-fix-for-the-broken-corsair-hs50-mic-a-step-by-step-solution/"><u>Repair Guide: Fix for the Broken Corsair HS50 Mic - A Step-by-Step Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-sims-4-wont-open-dilemma/"><u>Step-by-Step Fixes for the Sims ^[4] Won't Open Dilemma</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-avchd-files-into-mp4-format-for-free-on-windows-11-a-comprehensive-guide/"><u>Transform AVCHD Files Into MP4 Format for Free on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-first-timers-and-children-choose-these-drone-models/"><u>[New] 2024 Approved First-Timers & Children Choose These Drone Models</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-pioneering-eco-friendly-visual-effects-aids/"><u>[New] 2024 Approved Pioneering Eco-Friendly Visual Effects Aids</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209147637-solution-expedite-your-pcs-performance-get-rid-of-high-cpu-load-stuck-by-shell-infrastructures/"><u>[Solution] Expedite Your PC's Performance - Get Rid of High CPU Load Stuck by Shell Infrastructures!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-stop-obs-from-skipping-audio-for-2024/"><u>[Updated] Stop OBS From Skipping Audio for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unblemished-visuals-buying-high-quality-images/"><u>[Updated] Unblemished Visuals Buying High-Quality Images</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y55s-5g-2023-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y55s 5G (2023)? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/ease-windows-wmi-process-demands/"><u>Ease Windows WMi Process Demands</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-manager-not-opening-solved/"><u>Realtek HD Audio Manager Not Opening [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-dells-unresponsive-usb-connector-comprehensive-solutions/"><u>Repairing Dell's Unresponsive USB Connector - Comprehensive Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-valorants-perpetual-launch-loop-issue/"><u>Resolving Valorant's Perpetual Launch Loop Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-based-inaccessibility-to-roblox-experience/"><u>Resolving Windows-Based Inaccessibility to Roblox Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/skyrims-unending-launch-sequence-solutions-for-a-smooth-start/"><u>Skyrim's Unending Launch Sequence - Solutions for a Smooth Start</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-tech-hacks-slash-energy-costs-and-go-green-with-gadgets-zdnet/"><u>Top 6 Eco-Friendly Tech Hacks: Slash Energy Costs & Go Green with Gadgets | ZDNet</u></a></li>
 </ul></div>
 

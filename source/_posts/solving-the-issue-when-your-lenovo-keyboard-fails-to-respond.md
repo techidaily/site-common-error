@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue When Your Lenovo Keyboard Fails to Respond
-date: 2024-11-28T05:26:50.533Z
-updated: 2024-12-04T03:17:23.553Z
+date: 2024-12-05T17:36:39.935Z
+updated: 2024-12-10T16:48:21.499Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,18 +32,10 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 2. [**Uninstall and reinstall Razer Synapse**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
 
@@ -58,7 +50,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
@@ -69,7 +61,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
@@ -88,8 +80,16 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)  
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
 
@@ -110,19 +110,22 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-essential-10-boosters-for-multi-device-use/"><u>[Updated] 2024 Approved Essential 10 Boosters for Multi-Device Use</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfect-your-content-with-vimeo-on-instagram/"><u>[Updated] In 2024, Perfect Your Content with Vimeo on Instagram</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ancient-art-of-role-playing-evolutionary-trajectory/"><u>[Updated] In 2024, The Ancient Art of Role-Playing Evolutionary Trajectory</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-upgrading-made-easy-your-guide-to-smooth-tech-transitions/"><u>2024 Approved Upgrading Made Easy Your Guide to Smooth Tech Transitions</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-windows-cannot-boot-hardware-device-code-n-for-optical-drives-in-microsofts-latest-operating-system/"><u>Diagnosing and Fixing Windows Cannot Boot Hardware Device (Code N) for Optical Drives in Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhancing-windows-10s-clipboard-performance/"><u>Enhancing Windows 10'S Clipboard Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enjoy-movie-night-with-kids-using-these-fantastic-free-film-sites/"><u>Enjoy Movie Night with Kids Using These Fantastic Free Film Sites</u></a></li>
-<li><a href="https://common-error.techidaily.com/msvcr120dll-missing-in-windows-1110/"><u>MSVCR120.dll Missing in Windows 11/10</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/record-screen-on-xiaomi-11t-mi-11mi-11-lite/"><u>Record Screen on Xiaomi 11T/ Mi 11/Mi 11 Lite</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/replace-vanished-facebook-watch-icon/"><u>Replace Vanished Facebook Watch Icon</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-non-functional-widgets-on-ios-devices-in-just-10-steps/"><u>Resolve Non-Functional Widgets on iOS Devices in Just 10 Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-on-debugging-minecrafts-opengl-errors/"><u>Step-by-Step Tutorial on Debugging Minecraft's OpenGL Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-offline-steam-services-solutions-at-hand/"><u>Troubleshooting Offline Steam Services – Solutions at Hand!</u></a></li>
-<li><a href="https://win-best.techidaily.com/windows-10-mbrgpt-ssd/"><u>Windows 10 遷移指南: 安全地將MBR裝置升級為GPT SSD</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-pricepoint-nimbus-economical-mass-storage-haven/"><u>[New] 2024 Approved PricePoint Nimbus - Economical Mass Storage Haven</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nveiling-transparent-video-on-youtube-for-2024/"><u>[New] Unveiling Transparent Video on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-essential-techniques-for-downloading-fb-stories-desktop-and-mobile/"><u>[Updated] In 2024, Essential Techniques for Downloading FB Stories (Desktop & Mobile)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-prevent-freezing-of-streamed-videos-in-chrome/"><u>[Updated] In 2024, Prevent Freezing of Streamed Videos in Chrome</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-profile-pictures-download-for-free-for-2024/"><u>[Updated] Profile Pictures - Download for FREE for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-comprehensive-list-of-instagram-tracking-tools-for-better-decisions/"><u>2024 Approved The Comprehensive List of Instagram Tracking Tools for Better Decisions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/beware-the-risk-in-fake-followers-on-youtube-for-2024/"><u>Beware The Risk in Fake Followers on YouTube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/custom-settings-reactivated-overcame-non-responsive-error/"><u>Custom Settings Reactivated – Overcame Non-Responsive Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-slow-download-problem-in-league-of-legends-once-and-for-all/"><u>Fixing the Slow Download Problem in League of Legends Once and For All</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-failed-update-on-your-windows-amoled-version-1803-explained/"><u>How to Fix a Failed Update on Your Windows Amoled - Version 1803 Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-troublesome-windows-photo-capture-issue-error-code-0xa00f4292-explained/"><u>How to Fix the Troublesome Windows Photo Capture Issue: Error Code 0xA00F4292 Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sharpening-zoom-visuals-immediate-upgrades/"><u>In 2024, Sharpening Zoom Visuals Immediate Upgrades</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-cannot-be-installed-error-80240020-step-by-step-solutions/"><u>Resolving Windows 10 Cannot Be Installed: Error 80240020 – Step-by-Step Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-resolve-error-code-0x800f0831-via-windows-updates/"><u>Simple Solutions: Resolve Error Code 0X800f0831 via Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-a-bluetooth-keyboard-that-refuses-to-sync-with-your-personal-computer/"><u>Step-by-Step Solutions for a Bluetooth Keyboard That Refuses to Sync with Your Personal Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-a-down-dns-server-in-just-four-steps/"><u>Troubleshooting and Repairing a Down DNS Server in Just Four Steps</u></a></li>
 </ul></div>
 

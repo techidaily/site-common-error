@@ -1,7 +1,7 @@
 ---
 title: "Valorant Lag Issue Solved: Escape From the Infinite Wait Screen"
-date: 2024-12-03T07:38:17.770Z
-updated: 2024-12-03T22:12:14.048Z
+date: 2024-12-08T17:30:17.160Z
+updated: 2024-12-10T21:10:59.000Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/7bdbd3764d17d309bfae3520695cdadc9f0f0ab5e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
@@ -49,21 +49,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -77,6 +73,11 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -95,21 +96,22 @@ To do so:
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
@@ -146,19 +148,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-final-chapter-of-your-youtube-content-creation/"><u>[New] In 2024, The Final Chapter of Your YouTube Content Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>[New] Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-designing-logos-that-stand-out-for-podcast-marketing/"><u>[Updated] 2024 Approved Designing Logos That Stand Out for Podcast Marketing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sharpen-your-scopes-essential-close-up-techniques-for-mines/"><u>[Updated] Sharpen Your Scopes Essential Close-Up Techniques for Mines</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-persistent-mouse-drops-a-comprehensive-guide-for-seamless-surfing/"><u>Fixing Persistent Mouse Drops: A Comprehensive Guide for Seamless Surfing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-m1-nexus-smooth-transitions-unmatched-editing-velocity/"><u>In 2024, M1 Nexus Smooth Transitions, Unmatched Editing Velocity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-revised-sony-s3700-experience/"><u>In 2024, Unveiling the Revised Sony S3700 Experience</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/innovative-approaches-to-documenting-film-content-on-various-os-for-2024/"><u>Innovative Approaches to Documenting Film Content on Various OS for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-intel-rst-driver-problems-in-windows-10-environments/"><u>Resolving Intel RST Driver Problems in Windows 10 Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-error-code-0x800f0831-via-windows-automatic-updates/"><u>Step-by-Step Guide: Fixing Error Code 0X800f0831 via Windows Automatic Updates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformative-file-conversion-your-quick-srt-to-text-txt-guide-for-2024/"><u>Transformative File Conversion Your Quick SRT to Text (TXT) Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-how-to-fix-windows-audio-device-failure-error/"><u>Troubleshoot: How to Fix 'Windows Audio Device Failure' Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/unmasking-and-overcoming-effective-methods-to-get-rid-of-the-google-chrome-security-alert-hoax/"><u>Unmasking and Overcoming: Effective Methods to Get Rid of the Google Chrome Security Alert Hoax</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206921710-unstuck-from-windows-11-learn-how-to-effectively-restart-your-pc-now/"><u>Unstuck From Windows 11? Learn How to Effectively Restart Your PC Now</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/levate-audience-reach-through-collaborative-youtube-videos-for-2024/"><u>[New] Elevate Audience Reach Through Collaborative YouTube Videos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-streamline-your-meetings-the-use-of-snap-camera-on-teams/"><u>[Updated] 2024 Approved Streamline Your Meetings The Use of Snap Camera on Teams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-express-gratitude-free-endings-and-premium-exclusives/"><u>[Updated] Express Gratitude Free Endings & Premium Exclusives</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximize-audience-impact-peak-viewing-hours/"><u>[Updated] Maximize Audience Impact - Peak Viewing Hours</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-straightforward-anti-cheat-issue-in-apex-legends-game/"><u>Fixing the Straightforward Anti-Cheat Issue in Apex Legends Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/game-interruptions-lead-to-reboots/"><u>Game Interruptions Lead to Reboots</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-se-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone SE Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-hot-40-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Hot 40 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-minecraft-optimization-a-deep-dive-into-fixing-opengl-mistakes/"><u>Mastering Minecraft Optimization: A Deep Dive Into Fixing OpenGL Mistakes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-y100-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y100 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-and-simple-guide-how-to-reset-your-windows-11-system/"><u>Quick and Simple Guide: How to Reset Your Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-non-responsive-right-click-in-windows-10-a-step-by-step-guide/"><u>Resolving Non-Responsive Right Click in Windows 10 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/revolutionizing-art-into-nfts-top-7-tools-explored/"><u>Revolutionizing Art Into NFTs - Top 7 Tools Explored</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-error-0x80240017-during-windows-updates/"><u>Step-by-Step Solutions for Correcting Error 0X80240017 During Windows Updates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-role-of-crossfade-in-modern-music-mixing-for-2024/"><u>The Role of Crossfade in Modern Music Mixing for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208426611-troubleshoot-and-solve-the-0x887a0006-glitch-in-no-time/"><u>Troubleshoot and Solve the 0X887A0006 Glitch in No Time</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-windows-ns-touchscreen-glitches-with-these-5-strategies/"><u>Troubleshoot Windows N's Touchscreen Glitches with These 5 Strategies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unleashing-storytelling-potential-making-youtube-trailers-in-filmora/"><u>Unleashing Storytelling Potential Making YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-dead-laptop-mousepads-on-windows-10-8-and-7-expert-hacks-unveiled/"><u>Winning the Battle Against Dead Laptop Mousepads on Windows 10, 8 & 7 - Expert Hacks Unveiled</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ibuprofen as Needed; No Other Drugs
-date: 2024-11-28T04:06:49.154Z
-updated: 2024-12-04T04:49:58.855Z
+date: 2024-12-09T19:23:00.291Z
+updated: 2024-12-10T19:50:31.563Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix CS:GO crashing in Windows
 
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
@@ -64,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 5) Launch CS:GO to see if it ever crashes again. If it does not, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking your GPU
 
@@ -91,7 +95,7 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-177.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Wait until the game cache verification finishes.
@@ -101,6 +105,10 @@ To do so:
 6) Relaunch Steam, then run CS:GO and see if the **CSGO crashing** problem has been fixed. If the crashing problem still occurs, move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Launch CSGO in -autoconfig or -safe mode
 
@@ -121,16 +129,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Remove**ANY** launch options currently shown.
 
@@ -155,7 +159,7 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Remove**ANY** launch options currently shown.
@@ -169,10 +173,6 @@ To do so:
 7) Re-launch CS:GO and check if the CSGO crashing issue has been resolved. If yes, then congrats! But if you still haven’t had any success, move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reacquire all CSGO game files
 
@@ -193,10 +193,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Change fastprox.dll to fastprox.dllold
 
 1. On your keyboard, press**the Windows logo key** and**E** at the same time, then click**View** \>**Options** \>**Change folder and search options** .  
@@ -207,11 +203,15 @@ To do so:
 3. On your keyboard, press**the Windows logo key** and**E** at the same time, then copy & paste **C:\\Windows\\SysWOW64\\wbem** into the address bar and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4db541a75.jpg)
 4. Locate**fastprox.dll** and rename it to **fastprox.dllold** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4e5f2211c.jpg)
 5. Re-launch your game and hope you’re enjoying your game right now.
@@ -237,19 +237,16 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-weaving-external-pages-into-your-insta-narrative/"><u>[New] 2024 Approved Weaving External Pages Into Your Insta Narrative</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-e-commerce-avenues-for-aesthetic-box-personalization/"><u>[Updated] Ideal E-Commerce Avenues for Aesthetic Box Personalization</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-the-top-5-virtual-pilots-helmets/"><u>[Updated] In 2024, Unveiling the Top 5 Virtual Pilot's Helmets</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-problems-on-win11-try-driver-reload/"><u>Audio Problems on Win11? Try Driver Reload</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fix-eliminating-windows-update-error-code-0x8024402c-once-and-for-all/"><u>Comprehensive Fix: Eliminating Windows Update Error Code 0X8024402C Once and for All</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-6s-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6s Plus with iTunes | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/happy-gaming-with-battleye-solving-service-installer-problems-smoothly/"><u>Happy Gaming with BattlEye: Solving Service Installer Problems Smoothly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-tecno-camon-20-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Tecno Camon 20 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/nurturing-childhood-resilience-against-cyber-threats/"><u>Nurturing Childhood Resilience Against Cyber Threats</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972301383-quick-download-of-the-latest-lexar-usb-drivers-get-started-now/"><u>Quick Download of the Latest Lexar USB Drivers – Get Started Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-left-and-right-click-discrepancies-on-windows-11-devices/"><u>Resolving Left and Right Click Discrepancies on Windows 11 Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/smilesphere-endless-possibrancies-in-meme-land/"><u>SmileSphere Endless Possibrancies in Meme Land</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-update-troubles-ensuring-the-update-service-runs-smoothly/"><u>Solving Windows Update Troubles: Ensuring the Update Service Runs Smoothly</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-repairing-the-inactive-at-button/"><u>Step-by-Step Tutorial: Repairing the Inactive At ('@') Button</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-infographic-lens-on-2017s-youtube-numerical-truths-for-2024/"><u>[New] The Infographic Lens on 2017'S Youtube Numerical Truths for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unlimited-verbal-input-processing-for-free/"><u>[New] Unlimited Verbal Input Processing for Free</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-mac-6-video-grabber-apps/"><u>[Updated] Essential Mac 6 Video Grabber Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-closer-views-for-efficient-tech-meetings/"><u>2024 Approved Navigating Closer Views for Efficient Tech Meetings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elite-laughter-photo-composer-tool-for-2024/"><u>Elite Laughter Photo Composer Tool for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-how-to-easily-fix-error-0xc1900208-in-your-windows-11-updates/"><u>Expert Advice: How to Easily Fix Error 0Xc1900208 in Your Windows 11 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210170852-fix-a-malfunctioning-dell-usb-port-quick-and-effective-solutions-inside/"><u>Fix a Malfunctioning Dell USB Port - Quick and Effective Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-vision-problems-a-step-by-step-solution-for-clearer-text-in-windows-10/"><u>Fix Your Vision Problems: A Step-by-Step Solution for Clearer Text in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-corrupted-windows-store-cache-complete-solution/"><u>Fixing a Corrupted Windows Store Cache - Complete Solution</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/illuminating-emotions-an-hdr-portraitists-guide-for-2024/"><u>Illuminating Emotions An HDR Portraitist's Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-diagnostics-policy-service-not-running-issue-quickly/"><u>Resolving 'Diagnostics Policy Service Not Running' Issue Quickly</u></a></li>
 </ul></div>
 

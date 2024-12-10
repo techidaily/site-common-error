@@ -1,7 +1,7 @@
 ---
 title: How to Fix USB Ports Not Working Issue. Easily
-date: 2024-11-27T16:58:26.930Z
-updated: 2024-12-03T23:27:49.633Z
+date: 2024-12-07T21:32:42.425Z
+updated: 2024-12-10T17:31:32.890Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 1: Hold down the power button
 
@@ -67,7 +63,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Double-click the first USB Root Hub device in the list, and click the **Power Management**  tab. (If you see only one USB Root Hub device, that’s fine)  
@@ -75,7 +71,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4911321a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Un-check the **Allow the computer to turn off this device to save power** checkbox, and click **OK**  .  
@@ -84,6 +80,10 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 
  5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Check your device drivers**
 
@@ -100,7 +100,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb32c9a931.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -110,7 +110,7 @@ Here take Intel USB 3.0 driverf for example:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb3367beb7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -128,19 +128,18 @@ Here take Intel USB 3.0 driverf for example:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-from-downloading-setting-up-to-using-obs-effectively-on-macos/"><u>2024 Approved From Downloading, Setting Up, to Using OBS Effectively on macOS</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-in-depth-analysis-of-powerdirector-24-features/"><u>2024 Approved In-Depth Analysis of PowerDirector '24 Features</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-qualcomm-atheros-ar938x-drivers-for-free-quick-and-easy-setup/"><u>Download the Latest Qualcomm Atheros AR938X Drivers for Free – Quick & Easy Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-disappearing-bluetooth-icon-tips-for-windows-11-users/"><u>Fixing a Disappearing Bluetooth Icon – Tips for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/from-chaos-to-clarity-manage-all-open-windows-win1110/"><u>From Chaos to Clarity: Manage All Open Windows (Win11/10)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-windows-11-display-from-flickering-solutions-and-tips/"><u>How to Stop Windows 11 Display From Flickering: Solutions and Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-swiftly-rectify-dll-absence-in-games/"><u>How to Swiftly Rectify DLL Absence in Games</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-meizu-21-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Meizu 21 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-2023-guide-to-watching-fb-live/"><u>In 2024, The Ultimate 2023 Guide to Watching FB Live</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/infinite-screensaver-solutions-top-12-apps-no-cutoff/"><u>Infinite Screensaver Solutions - Top 12 Apps (No Cutoff)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resetting-and-repairing-netflix-connectivity-issues-for-a-seamless-experience-on-roku-players/"><u>Resetting and Repairing Netflix Connectivity Issues for a Seamless Experience on Roku Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-common-problems-with-your-usb-to-hdmi-adapter-fixes-inside/"><u>Solving Common Problems with Your USB to HDMI Adapter (Fixes Inside)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-what-to-do-when-your-laptop-mouse-freezes/"><u>Troubleshooting Tips: What to Do When Your Laptop Mouse Freezes</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-bluetooth-features-in-windows-11-and-10-a-complete-walkthrough/"><u>Unlocking Bluetooth Features in Windows 11 & 10: A Complete Walkthrough</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ideal-websites-for-accessing-free-licensed-audio-files/"><u>[New] 2024 Approved Ideal Websites for Accessing Free, Licensed Audio Files</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-poco-x6-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Poco X6 Pro Device SIM</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-eliminate-the-error-of-missing-d3dx939dll-file-on-your-computer/"><u>Fix Guide: Eliminate the Error of Missing D3DX9_39.dll File on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-paso-a-paso-conversion-de-archivo-ifo-a-mp4-en-windows-y-mac/"><u>Guía Paso a Paso: Conversión De Archivo IFO a MP4 en Windows Y Mac</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-find-and-download-the-right-toshibe-driver-for-your-windows-printer/"><u>How To Find And Download The Right Toshibe Driver For Your Windows Printer</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-erratic-screen-behavior-in-windows-11-a-comprehensive-guide/"><u>How to Stop Erratic Screen Behavior in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-gt-neo-5-se-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme GT Neo 5 SE Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-woes-repairing-damaged-up-down-left-and-right-arrow-keys/"><u>Keyboard Woes: Repairing Damaged Up, Down, Left and Right Arrow Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-fixing-windows-11s-troublesome-bluetooth-a-2024-guide/"><u>Master the Art of Fixing Windows 11'S Troublesome Bluetooth: A 2024 Guide</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/new-features-and-improvements-in-the-latest-version-of-winx-hd-video-converter-for-mac/"><u>New Features and Improvements in the Latest Version of WinX HD Video Converter for Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/l-broadcast-battleground-fb-live-yt-live-twitvision/"><u>Social Broadcast Battleground FB Live, YT Live, TwitVision</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-common-issues-with-remote-procedure-calls-solutions-inside/"><u>Troubleshooting Common Issues with Remote Procedure Calls – Solutions Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-fixing-a-lost-rockaldlldll-error-message/"><u>Troubleshooting Tips for Fixing a Lost Rockaldll.dll Error Message</u></a></li>
 </ul></div>
 

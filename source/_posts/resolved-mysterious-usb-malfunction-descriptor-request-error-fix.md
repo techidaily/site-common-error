@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Mysterious USB Malfunction - Descriptor Request Error Fix"
-date: 2024-11-26T20:04:55.232Z
-updated: 2024-12-04T05:40:16.917Z
+date: 2024-12-06T20:43:27.013Z
+updated: 2024-12-10T19:55:24.778Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 **4) Start** your device. Then try your touch screen and see if it can work.  
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Install system updates
 
  Your operating system may contain some defects that disable the touch screen of your device. You should verify that your system is updated, and install the system updates if it isn’t.
@@ -54,32 +58,16 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b63705ebce.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Restart your computer and check to see if this fixes your touch screen.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Update the driver of your touch screen
 
@@ -97,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c49fc02c88.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the Update button next to a flagged touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click the Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click the Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
@@ -110,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Select **Update & Security.**
@@ -121,9 +113,17 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c54ad3185f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c551f22061.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Wait for your device to be reset completely. Then try your screen and see if it gets back to normal.
 
@@ -144,24 +144,24 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-rapidly-rise-with-smart-instagram-reel-techniques/"><u>[New] Rapidly Rise with Smart Instagram Reel Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-tv-with-youtube-video-loops/"><u>[New] Streamline Your TV with YouTube Video Loops</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-syncopated-patterns-in-youtube-music-collections/"><u>[Updated] In 2024, Syncopated Patterns in YouTube Music Collections</u></a></li>
-<li><a href="https://common-error.techidaily.com/breaking-through-blockades-secrets-to-getting-permission-granted/"><u>Breaking Through Blockades: Secrets to Getting Permission Granted</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-non-working-hp-laptop-camera-on-a-windows-10-device/"><u>Expert Tips for Fixing Non-Working HP Laptop Camera on a Windows 10 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-the-d3derrnotavailable-error-in-your-projects/"><u>How To Correctly Address the D3DERR_NOT_AVAILABLE Error in Your Projects</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus Ace 2V? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/issue-resolved-writing-protection-at-specific-0x-memory-reference-encountered/"><u>Issue Resolved: Writing Protection at Specific 0X Memory Reference Encountered</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/lost-in-the-wild-chatgpt-no-more-tethers/"><u>Lost in the Wild: ChatGPT, No More Tethers</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206335546-missing-sd-recognition-here-to-help/"><u>Missing SD Recognition? Here to Help</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-why-are-my-desktop-icons-gone-on-windows-10-and-how-to-fix-them-back/"><u>Resolved! Why Are My Desktop Icons Gone on Windows 10 & How to Fix Them Back</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-6-plus-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 6 Plus Suddenly | Stellar</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-your-laptop-from-falling-asleep-unexpectedly-with-these-easy-solutions/"><u>Stop Your Laptop From Falling Asleep Unexpectedly with These Easy Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-solving-print-spooler-service-errors-in-32-bit-software/"><u>Troubleshooting: Solving 'Print Spooler Service' Errors in 32-Bit Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ultimate-toolkit-for-precision-mobile-screen-recording-using-mobizen-for-2024/"><u>Ultimate Toolkit for Precision Mobile Screen Recording Using Mobizen for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-anticipate-a-crypto-fueled-ad-wave/"><u>Why Anticipate a Crypto-Fueled Ad Wave?</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-and-linux-elevated-your-pcs-speed-effective-steps-to-tackle-unwanted-shell-induced-cpu-load/"><u>Windows & Linux: Elevated Your PC’s Speed - Effective Steps to Tackle Unwanted Shell-Induced CPU Load</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726225013044-u-is-the-initial-velocity-405-ms/"><u> (U ) Is the Initial Velocity (40.5 M/S)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-embark-on-the-facebook-experience/"><u>[New] How to Embark on the Facebook Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-confirmation-procedures-for-youtube-users-for-2024/"><u>[Updated] Confirmation Procedures for YouTube Users for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/windows-11wav/"><u>音声録取ガイド：Windows 11に最適なWAVファイル保存方法</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipating-samsungs-galaxy-s22-launch-key-dates-revealed/"><u>Anticipating Samsung's Galaxy S22 Launch: Key Dates Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-setup-hurdles-cleared-expert-solutions-for-starting-the-stack-service/"><u>Bluetooth Setup Hurdles Cleared: Expert Solutions for Starting the Stack Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-why-windows-cant-search-for-system-updates/"><u>Diagnosing and Repairing: Why Windows Can't Search for System Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978496082-get-your-hands-on-the-best-gigabyte-sound-card-driver-complimentary-download/"><u>Get Your Hands on the Best Gigabyte Sound Card Driver - Complimentary Download!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-solve-missing-directx-9-library-d3dxt939dll-problems-in-windows-systems/"><u>How to Correctly Solve Missing DirectX 9 Library d3dxt9_39.dll Problems in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-0x80eb0922-error-during-windows-11-updates-eight-effective-methods/"><u>How to Fix the 0X80eb0922 Error During Windows 11 Updates - Eight Effective Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-touchscreen-in-windows-10-5-ways/"><u>How to Fix Your Touchscreen in Windows 10 [5 Ways]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-11-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 11 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-display-issues-fixing-hdcp-unsupported-devices/"><u>Overcoming Display Issues: Fixing HDCP Unsupported Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolve-the-window-update-freeze-at-0-problem/"><u>Quick Solutions: Resolve the Window Update Freeze at 0% Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-initialization-error-with-dragon-ball-fighterzs-networking-features/"><u>Resolved: Initialization Error with Dragon Ball FighterZ's Networking Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211151686-solve-your-headset-woes-the-ultimate-guide-to-restoring-steelseries-arctis-5-mic-performance/"><u>Solve Your Headset Woes! The Ultimate Guide to Restoring SteelSeries Arctis 5 Mic Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-adding-your-driving-permit-to-apple-wallet-on-ios-devices-compatibility-based-on-location/"><u>Step-by-Step Guide: Adding Your Driving Permit to Apple Wallet on iOS Devices – Compatibility Based on Location</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-keyboard-fails-to-register-inputs/"><u>Troubleshooting Steps - When Keyboard Fails to Register Inputs</u></a></li>
 </ul></div>
 

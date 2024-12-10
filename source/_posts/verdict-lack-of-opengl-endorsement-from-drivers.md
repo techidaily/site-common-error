@@ -1,7 +1,7 @@
 ---
 title: "Verdict: Lack of OpenGL Endorsement From Drivers"
-date: 2024-11-30T01:03:28.191Z
-updated: 2024-12-03T16:39:14.380Z
+date: 2024-12-05T16:50:15.911Z
+updated: 2024-12-10T20:22:54.702Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ If you have an Acer laptop but there’s no sound when you’re playing a game o
 2. [**Set your speakers as the default device**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Reinstall your sound card driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Update your sound card driver
 
  One reason for the no sound problem is outdated drivers for your hardware devices. If Method 1 and Method 2 can’t fix it, it may be the outdated driver that causes the problem.
@@ -48,13 +44,14 @@ If you have an Acer laptop but there’s no sound when you’re playing a game o
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Set your speakers as the default device
 
@@ -64,15 +61,11 @@ If you have an Acer laptop but there’s no sound when you’re playing a game o
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 2. Choose the speakers you’re using and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
 3. Click**OK** to save the change.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you couldn’t find your speakers on the Playback device list, it might be disabled.
@@ -82,8 +75,17 @@ Follow the below steps to enable your disabled device.
 1. On the Playback window, right-click on the blank area and click**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 2. When your device shows up, right-click on it and choose Enable.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
 3. Then you can set it as the default device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Reinstall your sound card driver
 
@@ -95,7 +97,7 @@ Follow the below steps to enable your disabled device.
 3. Expand **Sound, video and game controllers** . Then right-click on your sound card’s name and click **Uninstall** **device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall.jpg)
@@ -126,22 +128,17 @@ Follow the below steps to enable your disabled device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-insight-into-benqs-bl2711u-pioneering-the-4k-standard/"><u>[Updated] A Comprehensive Insight Into BenQ’s BL2711U - Pioneering the 4K Standard</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204279423-argue-how-problem-solving-leads-to-creative-thinking-innovation-and-progress-in-various-fields-eg-technology-medicine/"><u>Argue How Problem-Solving Leads to Creative Thinking, Innovation, and Progress in Various Fields (E.g., Technology, Medicine).</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-lava-yuva-3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Lava Yuva 3 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-broken-usb-input-devices-in-microsofts-windows-xpvista7-platform/"><u>Effective Fixes for Broken USB Input Devices in Microsoft's Windows XP/Vista/7 Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exposing-windows-11s-data-collection-strategies/"><u>Exposing Windows 11'S Data Collection Strategies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/end-credits-excellence-top-6-tutorials/"><u>Free End Credits Excellence Top 6 Tutorials</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-darkness-to-display-troubleshooting-guide-to-fix-google-chromes-black-out-problem/"><u>From Darkness to Display: Troubleshooting Guide to Fix Google Chrome's Black Out Problem</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/grasping-video-aspect-ratios-a-beginners-tale-for-2024/"><u>Grasping Video Aspect Ratios A Beginner’s Tale for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-failing-remote-procedure-call-comprehensive-guide/"><u>How to Fix a Failing Remote Procedure Call - Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-master-bluetooth-on-windows-11-expert-strategies-for-flawless-device-sync/"><u>How to Master Bluetooth on Windows 11: Expert Strategies for Flawless Device Sync</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-future-of-gaming-leading-vr-game-engines/"><u>In 2024, The Future of Gaming Leading VR Game Engines</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-cross-platform-video-playback-free-solutions-guide-for-2024/"><u>Mastering Cross-Platform Video Playback Free Solutions Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-your-it-needs-through-toms-hardware-solutions/"><u>Mastering Your IT Needs Through Tom's Hardware Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimal-cameras-compatible-with-windows-hello/"><u>Optimal Cameras Compatible with Windows Hello</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-this-device-is-missing-code-24-on-windows-platforms/"><u>Troubleshooting Guide: Fixing the 'This Device Is Missing (Code 24)' On Windows Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208660770-troubleshooting-hp-laptop-usb-connectivity-fixes-and-solutions/"><u>Troubleshooting HP Laptop USB Connectivity: Fixes & Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-ideas-to-life-top-animation-software-for-newbies-and-pros/"><u>Updated Bring Your Ideas to Life Top Animation Software for Newbies and Pros</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/creation-in-content-a-deep-dive-into-vids-and-videos-for-2024/"><u>Cash Creation in Content A Deep Dive Into Vids and Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-address-the-hamachi-service-stoppage-error/"><u>Comprehensive Solutions to Address The Hamachi Service Stoppage Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/explorerexe-stabilized-on-win-oses/"><u>Explorer.exe Stabilized on Win OSes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-gemini-vs-chatgpt-from-tech-giants/"><u>Exploring the Capabilities of Gemini Vs. ChatGPT From Tech Giants</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-sony-by-drfone-android/"><u>How to Show Wi-Fi Password on Sony</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-15-best-free-youtube-introduction-tools/"><u>In 2024, 15 Best Free YouTube Introduction Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-starting-a-hosted-network-on-windows-10-solved/"><u>Overcoming Challenges with Starting a Hosted Network on Windows 10 (Solved)</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/restore-accidentally-removed-bookmarks-on-chrome-and-firefox/"><u>Restore Accidentally Removed Bookmarks on Chrome and Firefox</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-11-installation-issue-fix-error-code-80240020/"><u>Solving Windows 11 Installation Issue: Fix Error Code 80240020</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unveiling-iphone-features-producing-and-modifying-videos-at-a-tranquil-pace-for-2024/"><u>Unveiling iPhone Features Producing and Modifying Videos at a Tranquil Pace for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/want-to-explore-every-shared-piece-by-friends-through-messaging-for-2024/"><u>Want to Explore Every Shared Piece By Friends Through Messaging for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-stubborn-file-explorer-hitches-on-windows-10-effective-strategies-and-solutions/"><u>Winning the Battle Against Stubborn File Explorer Hitches on Windows 10: Effective Strategies and Solutions</u></a></li>
 </ul></div>
 

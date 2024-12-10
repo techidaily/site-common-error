@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing a Non-Functional Mic on Your Samsung PlayStation 4 Console
-date: 2024-08-22T19:26:53.657Z
-updated: 2024-08-23T19:26:53.657Z
+date: 2024-12-06T17:55:58.786Z
+updated: 2024-12-10T20:19:10.131Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
  Don’t worry. You’re not alone. It’s a common keyboard issue. Many Windows users’re experiencing this issue as you do. More importantly, you CAN fix it by yourself.
 
  This small guide will be showing you how to fix the Shift key bot working issue step by step. Read on and go on with the steps to troubleshoot your problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
 
@@ -70,15 +74,20 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2: Update your keyboard driver
 
  This problem may be caused by an old, corrupted, or missing keyboard driver. If so, you can solve it by updating the keyboard driver.
@@ -96,8 +105,9 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -105,8 +115,9 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -117,8 +128,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +135,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-affordable-wide-angle-vr-cameras-for-filmmaking/"><u>[New] Affordable Wide-Angle VR Cameras for Filmmaking</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-top-choices-best-livestream-equip-and-tech-for-youtubers/"><u>[New] In 2024, Top Choices Best Livestream Equip & Tech for Youtubers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>[New] TicklishTones Selecting the Best Ringtones for Smiles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-budget-gaming-accessories-keyboards-and-mice-under-99/"><u>Best Budget Gaming Accessories Keyboards & Mice Under $99</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-continuous-usb-port-malfunctions/"><u>Diagnosing and Repairing Continuous USB Port Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-steps-why-is-my-left-mouse-button-malfunctioning/"><u>DIY Repair Steps: Why Is My Left Mouse Button Malfunctioning?</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-11-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-not-detected-issue-with-your-realtek-network-adapter/"><u>Fixing Not Detected Issue with Your Realtek Network Adapter</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximizing-disk-capacity-a-comprehensive-guide-to-clearing-storage-on-windows-11/"><u>Maximizing Disk Capacity: A Comprehensive Guide to Clearing Storage on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-windows-10-bluetooth-connectivity-problems-fast-and-simple/"><u>Resolve Windows 10 Bluetooth Connectivity Problems Fast and Simple</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-monitor-resolution-change-issues-a-step-by-step-guide/"><u>Resolving Monitor Resolution Change Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-there-was-an-issue-resetting-your-computer-error-in-windows-11/"><u>Resolving the 'There Was an Issue Resetting Your Computer' Error in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-problem-with-non-illuminated-keys-on-a-razor-board/"><u>Solved! The Problem with Non-Illuminated Keys on a Razor Board</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unmatched-clarity-the-ultimate-mic-guide-for-2024/"><u>Unmatched Clarity The Ultimate Mic Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-update-challenge-solving-error-0x802n02e-successfully/"><u>Winning Against Windows Update Challenge: Solving Error 0X802n02e Successfully!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/your-complete-guide-to-using-telegram-web-interface-for-2024/"><u>Your Complete Guide to Using Telegram Web Interface for 2024</u></a></li>
+</ul></div>
 

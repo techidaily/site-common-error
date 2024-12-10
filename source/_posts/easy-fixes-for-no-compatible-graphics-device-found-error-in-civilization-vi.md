@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for 'No Compatible Graphics Device Found' Error in Civilization VI
-date: 2024-12-02T23:58:32.933Z
-updated: 2024-12-04T04:41:50.387Z
+date: 2024-12-06T19:55:59.710Z
+updated: 2024-12-10T20:16:43.970Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **2)** Check the**battery status** of your controller: Make sure the **batteries are not running out of power** . If your controller is running low on power, charge or replace the batteries and see if this resolves the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Re-sync your controller
 
  If you are using a**wireless** controller, you can try re-syncing your Xbox One controller to the console to fix connection issues.
@@ -50,6 +54,10 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **2)**  Press and hold the**connect** button on the back of the controller till the**Xbox button flashes** . After a few seconds you can see it switch back to a**solid light** , which means it is re-synced.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ebcab3903.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this method works for you, the connection between your controller and your console will recover.
 
@@ -69,16 +77,12 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f2bbba00f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Press the**Xbox button** to turn on your console.
 
 **3)** Check and see if your controller can connect to the console.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your controller software
@@ -93,28 +97,24 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420064c2629.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Devices & accessories** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942011734551.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Select the controller you are using.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201ea3bf92.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)**  Select**Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201a568b3e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**  Select**Continue** .
@@ -142,22 +142,20 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-mastering-srt-insertion-a-complete-guide-to-mp4-improvement-for-2024/"><u>[New] Mastering SRT Insertion A Complete Guide to MP4 Improvement for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-d3dx939dll-missing-error/"><u>[SOLVED] How to Fix D3DX9_39.dll Missing Error</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ideal-top-7-video-software-for-apple-devices/"><u>[Updated] In 2024, Ideal Top 7 Video Software for Apple Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnose-and-fix-the-surface-plugged-in-yet-not-powering-up-expert-advice/"><u>Diagnose and Fix the 'Surface Plugged In, Yet Not Powering Up': Expert Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-update-issue-code-8007000e-simple-steps-and-solutions/"><u>Fix Windows Update Issue Code: 8007000E - Simple Steps and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-non-functioning-night-light-feature-in-windows-11/"><u>Fixes for Non-Functioning Night Light Feature in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-missing-sound-card-errors-in-windows-operating-systems/"><u>Fixing Missing Sound Card Errors in Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-the-not-plugged-in-warning-on-amd-audio-hardware/"><u>How to Correct the 'Not Plugged In' Warning on AMD Audio Hardware</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1715859602490-in-2024-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>In 2024, Expert Picks Top 12 Screen Recording Software, No Time Limit!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-7t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 7T Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-jpgpng-images-transformation-iphones-pdf-creation-guide/"><u>In 2024, JPG/PNG Images Transformation IPhone's PDF Creation Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-connectivity-problems-with-cast-feature-for-windows-11-devices/"><u>Resolving Connectivity Problems with Cast Feature for Windows 11 Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/restoring-netflix-functionality-on-roku-troubleshooting-techniques-and-best-practices/"><u>Restoring Netflix Functionality on Roku - Troubleshooting Techniques and Best Practices</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-why-is-my-ps4-dualshock-not-holding-a-charge/"><u>Solution Found! Why Is My PS4 Dualshock Not Holding a Charge?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-zoom-meetings-for-2024/"><u>Unlocking the Potential of Zoom Meetings for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-strategy-how-new-investments-signal-an-ai-future-for-the-iphone-techinsights/"><u>Unveiling Apple's Strategy: How New Investments Signal an AI Future for the iPhone | TechInsights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-tune-into-toms-hardware-reviews/"><u>Unveiling the Latest in Computing - Tune Into Tom's Hardware Reviews</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-avoiding-the-ignored-making-your-video-a-staff-pick-on-vimeo/"><u>[New] 2024 Approved Avoiding the Ignored Making Your Video a Staff Pick on Vimeo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-enhancing-your-apple-podcast-visibility/"><u>[New] Strategies for Enhancing Your Apple Podcast Visibility</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-xsplit-assortment-comprehensive-gaming-evaluations-for-2024/"><u>[New] XSplit Assortment Comprehensive Gaming Evaluations for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-viral-video-roundup-top-tiktok-reaction-shenanigans/"><u>[Updated] Viral Video Roundup Top TikTok Reaction Shenanigans</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-file-explorer-hangs-tips-and-solutions-for-smoother-windows-experience/"><u>Bypassing File Explorer Hangs: Tips and Solutions for Smoother Windows Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-enabling-windows-update-service-to-keep-your-pc-secure/"><u>Expert Tips on Enabling Windows Update Service to Keep Your PC Secure</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998950589-f1-2021-pc-version-crash-fix-stop-the-constant-disruptions-now/"><u>F1 2021 PC Version Crash Fix – Stop the Constant Disruptions Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restore-corrupt-system-files-on-your-windows-machine/"><u>Guide to Restore Corrupt System Files on Your Windows Machine</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-honor-magic-5-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Honor Magic 5 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-note-12-4g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi Note 12 4G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/msvcr71dll-found-problem-solution-confirmed/"><u>MSVCR71.dll Found: Problem Solution Confirmed</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202809805-reviving-broken-arrow-buttons-expert-fixes-for-a-smooth-typing-experience/"><u>Reviving Broken Arrow Buttons - Expert Fixes for a Smooth Typing Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-flipped-display-issue-windows-7/"><u>Solve Flipped Display Issue, Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-6-step-approach-to-fixing-the-werfaultexe-problem-on-windows-operating-systems/"><u>The Definitive 6-Step Approach to Fixing the werfault.exe Problem on Windows Operating Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transforma-tus-archivos-musicales-facilmente-convertidor-mp3-a-wma-sin-costo-herramientas-en-linea-de-movavi/"><u>Transforma Tus Archivos Musicales Fácilmente: Convertidor MP3 a WMA Sin Costo - Herramientas en Línea De Movavi</u></a></li>
 </ul></div>
 

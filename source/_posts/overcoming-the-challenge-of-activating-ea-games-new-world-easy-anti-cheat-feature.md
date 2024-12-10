@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Challenge of Activating EA Games' New World Easy Anti-Cheat Feature
-date: 2024-12-01T06:04:13.463Z
-updated: 2024-12-03T21:12:44.039Z
+date: 2024-12-07T22:21:15.589Z
+updated: 2024-12-10T18:03:02.886Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Here are some solutions that have helped people resolve the same error. You don�
 3. [Re-enable touch screen](https://tools.techidaily.com/drivereasy/download/)
 4. [Update touch screen driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Force a shut down and restart
 
 As many people have resolved the “**No Pen or Touch Input is available for this Display**” error on their computer by forcing a shutdown, it never hurts to perform a force shutdown and restart your computer to fix it. As the steps to force a shutdown vary from brand to brand, you can consult your computer manufacturer to do that. For example, if you’re using a Surface Pro 4, you can press and hold the**power button**for**10 seconds**, then your screen turns off and shuts down. Then press and release the power button to turn on your Surface Pro 4\. After restart, try again and see if touch screen works now. If this method doesn’t work for you, don’t worry. There are something else to try.
@@ -46,15 +50,15 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb109d3bc02.jpg)
 3. Click**Hardware** **and** **Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10c799b9d.jpg)
 4. Click**Hardware and Devices** . This will find and fix problems with devices and hardware.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10e9a82be.jpg)
 5. Click**Next** to process. Then follow the on-screen instructions to finish the process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1108d468d.jpg)
 6. Restart your computer and see if it fixes the error.
@@ -71,21 +75,17 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 3. Double click**Human Interface Devices** to expand the category.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11cb8b5a8.jpg)
 4. Right click on**HID-compliant touch screen** , then select**Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12007e8f1.jpg)
 5. If you see a popup message to confirm, click**Yes** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb123fd7728.jpg)
@@ -94,11 +94,11 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb128e37a69.jpg)  
  Note: there may be more than one HID compliant touch screen listed there. If that’s the case, complete steps 4) -6) for each device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Try touch screen and see if it works now. The error still persists? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update touch screen driver
 
@@ -110,7 +110,7 @@ A missing or outdated touch screen driver can also result in the “No Pen or To
 3. Click the**Update** button next to the flagged touch screen to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1405c2875.jpg)
@@ -135,22 +135,24 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/pc-prowess-solving-dll-errors-in-win/"><u>[PC Prowess] Solving DLL Errors in Win</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-peak-engagement-spark-plug/"><u>[Updated] In 2024, Peak Engagement Spark Plug</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-ranking-top-10-srt-modifications-for-pc-and-macos/"><u>[Updated] In 2024, Ranking Top 10 SRT Modifications for PC & macOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/clear-vision-how-to-cut-out-image-clutter-on-photopea/"><u>Clear Vision How to Cut Out Image Clutter on Photopea</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/defeating-squad-mic-problems-once-and-for-all-comprehensive-guide/"><u>Defeating Squad Mic Problems Once and For All - Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-best-chatgpt-extensions-for-fitness-and-self-care-success/"><u>Discover the Best ChatGPT Extensions for Fitness & Self-Care Success</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-fixes-for-when-you-cant-answer-phone-calls-with-samsung-galaxy-wearables/"><u>Effective Fixes for When You Can't Answer Phone Calls with Samsung Galaxy Wearables</u></a></li>
-<li><a href="https://common-error.techidaily.com/experience-seamless-updates-your-ultimate-solution-for-fixing-error-0x80070002-on-windows/"><u>Experience Seamless Updates: Your Ultimate Solution for Fixing Error 0X80070002 on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-unknown-usb-device-and-port-reset-failed-errors-in-windows-10-easily/"><u>Fixing the 'Unknown USB Device' And 'Port Reset Failed' Errors in Windows 10 Easily</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-handle-hps-auto-repair-feature-in-windows-11/"><u>How to Handle HP's Auto-Repair Feature in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-reactivate-disabled-internet-connection-on-your-pc-or-mobile-step-by-step-solution/"><u>How to Reactivate Disabled Internet Connection on Your PC or Mobile - Step by Step Solution!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-errsslprotocol-message-on-google-chrome/"><u>Resolved: Fixing the 'Err_SSL_Protocol' Message on Google Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-hardware-anomaly-livekernelevent-141/"><u>Solving Hardware Anomaly: LiveKernelEvent 141</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>The Ultimate List 10 Best Date-Counting Clocks Android/iOS</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-optimizing-slow-boots-in-windows-7-systems/"><u>Troubleshooting and Optimizing Slow Boots in Windows 7 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-a-broken-laptop-microphone-guides-and-tips/"><u>Troubleshooting and Repairing a Broken Laptop Microphone - Guides & Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gimbal-innovation-markets-elite-selections/"><u>[New] Gimbal Innovation Market's Elite Selections</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-checklist-for-understanding-the-value-of-youtube-tv/"><u>[New] In 2024, The Ultimate Checklist for Understanding the Value of YouTube TV</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-art-of-vivid-visuals-on-your-computer-with-windows-hdr/"><u>[Updated] 2024 Approved The Art of Vivid Visuals on Your Computer with Windows HDR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-beginner-to-champion-essential-drone-races-tips-and-best-models/"><u>[Updated] From Beginner to Champion Essential Drone Races Tips and Best Models</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-social-media-for-maximum-impact/"><u>[Updated] Leveraging Social Media for Maximum Impact</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-the-power-of-online-livestreams-with-us-today/"><u>[Updated] Unleash the Power of Online Livestreams with Us Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/asus-laptops-resolving-stuck-or-malfunctioning-function-fn-keys-problems/"><u>ASUS Laptops: Resolving Stuck or Malfunctioning Function (Fn) Keys Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquering-the-notorious-update-bug-a-comprehensive-guide-to-dealing-with-windows-10s-0xc1900208-error/"><u>Conquering the Notorious Update Bug: A Comprehensive Guide to Dealing with Windows 10'S 0Xc1900208 Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-guide-to-resolving-limited-memory-on-your-windows-11-machine/"><u>Effortless Guide to Resolving Limited Memory on Your Windows 11 Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-resolving-input-issues-with-your-lenovo-keyboard/"><u>Expert Advice: Resolving Input Issues with Your Lenovo Keyboard</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hasten-vk8-driver-rollout/"><u>Hasten VK8 Driver Rollout</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-earning-power-through-engagement-ajays-success-on-youtube-monetization/"><u>In 2024, Earning Power Through Engagement Ajay’s Success on YouTube Monetization</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-obstacles-in-interfacing-with-the-system-wide-alert-delivery-service/"><u>Overcoming Windows Obstacles in Interfacing with the System-Wide Alert Delivery Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-shockwave-flash-no-longer-compatible-with-google-chrome-fix-now/"><u>Solved: Shockwave Flash No Longer Compatible with Google Chrome - Fix Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-reconnecting-a-malfunctioning-xbox-one-pad/"><u>Step-by-Step Solution: Reconnecting a Malfunctioning Xbox One Pad</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solution-fixing-user-profile-settings-cause-driver-failure/"><u>Troubleshooting and Solution: Fixing 'User Profile Settings Cause Driver Failure'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-cast-to-device-problems-solutions-included/"><u>Troubleshooting Windows # 10 Cast To Device Problems - Solutions Included</u></a></li>
+<li><a href="https://discover-data.techidaily.com/ultimate-collection-of-ferrari-2erto-ghibli-250-wallpaper-images-and-graphics-by-yl-software-elevate-your-digital-space/"><u>Ultimate Collection of Ferrari 2Erto Ghibli 250 Wallpaper Images & Graphics by YL Software – Elevate Your Digital Space</u></a></li>
 </ul></div>
 

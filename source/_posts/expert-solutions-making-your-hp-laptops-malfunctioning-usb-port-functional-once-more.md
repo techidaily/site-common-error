@@ -1,7 +1,7 @@
 ---
 title: "Expert Solutions: Making Your HP Laptop's Malfunctioning USB Port Functional Once More"
-date: 2024-11-27T18:51:42.108Z
-updated: 2024-12-04T02:28:00.187Z
+date: 2024-12-08T21:42:30.243Z
+updated: 2024-12-10T21:12:44.184Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
@@ -44,6 +44,10 @@ Here’s how to do it:
  1) On your keyboard, press **the Windows logo key**  and type **microphone** , then click on **Microphone privacy settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
@@ -87,33 +91,29 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -149,16 +149,14 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[Updated] Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/breeze-through-high-wmi-cpu-usage-woes-on-win11/"><u>Breeze Through High WMI CPU Usage Woes on Win11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-galaxy-a15-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Galaxy A15 4G?</u></a></li>
-<li><a href="https://common-error.techidaily.com/chrome-troubleshooting-fixing-the-errornameunknown-hangup-effectively/"><u>Chrome Troubleshooting: Fixing the ERROR_NAME_UNKNOWN Hangup Effectively</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-user-engagement-with-the-power-of-cookiebot-platform/"><u>Elevate User Engagement with the Power of Cookiebot Platform</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-f15-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy F15 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-nord-ce-3-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus Nord CE 3 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-gaming-experience-with-latest-graphics-card-drivers/"><u>Optimize Gaming Experience with Latest Graphics Card Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-updating-device-drivers-to-match-your-hardware-in-wow/"><u>Solution Guide: Updating Device Drivers to Match Your Hardware in WoW</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205544279-troubleshooting-common-nier-automata-pc-stability-problems-now-fixed/"><u>Troubleshooting Common Nier: Automata PC Stability Problems - Now Fixed</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-digital-venues-for-encountering-and-bonding-with-unknown-individuals-responsibly/"><u>Updated 2024 Approved Digital Venues for Encountering and Bonding with Unknown Individuals Responsibly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-reel-in-views-mastering-the-art-of-instagrams-loop-videos/"><u>[New] Reel in Views Mastering the Art of Instagram's Loop Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoidance-of-memory-limitations-strategies-for-windows/"><u>Avoidance of Memory Limitations: Strategies for Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-error-code-31-for-good-expert-advice-on-clearing-up-your-windows-system-issues/"><u>Banish Error Code 31 for Good: Expert Advice on Clearing Up Your Windows System Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-resolving-driverpowerstatefailure-in-windows-systems/"><u>Expert Advice for Resolving DRIVER_POWER_STATE_FAILURE in Windows Systems</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-newest-epson-wf-3620-printer-software-for-windows-operating-systems-10-8-and-7/"><u>Install Newest Epson WF-3620 Printer Software for Windows Operating Systems (10, 8 & 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-troubleshooting-ensuring-seamless-bluetooth-connectivity-for-windows-10-tips-and-guides/"><u>Master the Art of Troubleshooting: Ensuring Seamless Bluetooth Connectivity for Windows 10 (Tips & Guides)</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-shift-key-issues-proven-solutions-and-fixes/"><u>Mastering Shift Key Issues: Proven Solutions and Fixes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-and-fantastic-the-best-mp4-video-editors/"><u>New In 2024, Free and Fantastic The Best MP4 Video Editors</u></a></li>
 </ul></div>
 

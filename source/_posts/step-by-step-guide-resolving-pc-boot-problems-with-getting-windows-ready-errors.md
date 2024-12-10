@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving PC Boot Problems with 'Getting Windows Ready' Errors"
-date: 2024-11-27T02:58:46.177Z
-updated: 2024-12-03T18:30:22.043Z
+date: 2024-12-09T19:09:38.840Z
+updated: 2024-12-10T16:15:13.192Z
 tags:
   - win11
   - win10
@@ -33,19 +33,23 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Remove your system hosts file
 
  This error could be cause by the effected system hosts file. Removing the file may solve the problem:
 
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **C:\\Windows\\System32\\drivers\\etc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3567542f7b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **hosts** . Then right-click on it to select **Delete** .
 
@@ -59,17 +63,9 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **control**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35a29d09e6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Network and Internet**  in the**Category**  section.
 
@@ -87,19 +83,27 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35da806bf6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35de82e9dd.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35e0d12a4a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Restart your Chrome and go to the website to see if successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Disable the QUIC protocol on your Chrome
 
@@ -109,11 +113,11 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c360227258e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Restart your Chrome and go to the website to see if successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Make sure the Date and Time is correct on your Windows
 
@@ -121,15 +125,7 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c361a426aaa.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Restart your Chrome and go to the website to see if successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Check the website in your Firewall
 
@@ -147,19 +143,23 @@ To check if a website is secure:
 
  Over a secure connection, the address should begin with **https** (note the **s**  at the end).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 2: See the security status on the address bar of Chrome
 
 To the left of the website address, check the security status:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3858db33d0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Besides **Secure** , the secure status can also be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c386f232916.png) or ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3870b99499.png) , click the status for more detailed information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Google Chrome](https://tools.techidaily.com/drivereasy/download/)
 
@@ -178,22 +178,22 @@ To the left of the website address, check the security status:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-navigating-googles-podcast-uploading-guide/"><u>[New] Navigating Google's Podcast Uploading Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-guide-to-iphone-voice-recording-techniques-for-2024/"><u>[Updated] Essential Guide to iPhone Voice Recording Techniques for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-diy-tips-for-affordable-youtube-introend-videos/"><u>[Updated] In 2024, DIY Tips for Affordable YouTube Intro/End Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/banish-the-troublesome-0x80072efd-bug-from-your-windows-11-device-easily/"><u>Banish the Troublesome 0X80072EFD Bug From Your Windows 11 Device Easily!</u></a></li>
-<li><a href="https://common-error.techidaily.com/common-reasons-behind-a-non-responsive-keyboard-on-your-dell-computer/"><u>Common Reasons Behind a Non-Responsive Keyboard on Your Dell Computer</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/complete-step-by-step-to-google-podcast-success-for-2024/"><u>Complete Step-by-Step to Google Podcast Success for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-how-cities-skylines-became-a-must-play-for-city-sim-enthusiasts/"><u>Discover How Cities: Skylines Became a Must-Play for City Sim Enthusiasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209112557-error-0x887a0006-dissected-your-blueprint-to-a-rapid-and-straightforward-repair/"><u>Error 0X887A0006 Dissected - Your Blueprint to a Rapid and Straightforward Repair</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c110-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C110 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-proven-methods-to-improve-macro-video-quality-and-aesthetics/"><u>In 2024, Proven Methods to Improve Macro Video Quality and Aesthetics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-guide-from-script-writing-to-final-audio-in-videos/"><u>In 2024, Ultimate Guide From Script Writing to Final Audio in Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-resolving-steam-disk-write-error-without-a-hitch/"><u>Quick Guide: Resolving Steam 'Disk Write Error' Without a Hitch</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-repairing-the-error-that-causes-hamachi-to-stop-functioning-correctly/"><u>Step-by-Step: Repairing the Error That Causes Hamachi to Stop Functioning Correctly</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-resolve-availability-issues-on-destiny-2-game-servers/"><u>Steps to Resolve Availability Issues on Destiny 2 Game Servers</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-powerful-ps4-sounds-a-comprehensive-troubleshooting-approach/"><u>Tackling Powerful PS4 Sounds: A Comprehensive Troubleshooting Approach</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-keyboard-issues-solutions-and-fixes/"><u>Troubleshooting Lenovo Keyboard Issues: Solutions and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203376336-fixed-we-couldnt-find-a-camera-compatible-with-windows-hello-face/"><u>[Fixed] We Couldn’t Find a Camera Compatible with Windows Hello Face</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-choreographing-newscast-endings/"><u>[Updated] Choreographing Newscast Endings</u></a></li>
+<li><a href="https://common-error.techidaily.com/address-counterarguments-eg-some-may-argue-that-not-all-problems-require-a-solution-and-discredit-them-using-compelling-evidence/"><u>Address Counterarguments (E.g., some May Argue that Not All Problems Require a Solution) and Discredit Them Using Compelling Evidence.</u></a></li>
+<li><a href="https://common-error.techidaily.com/bring-back-life-to-your-dead-laptop-battery-in-no-time-expert-tips-inside/"><u>Bring Back Life to Your Dead Laptop Battery in No Time - Expert Tips Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-overcoming-ethernet-connection-failures-on-windows-10-and-windows-7-devices/"><u>Comprehensive Guide: Overcoming Ethernet Connection Failures on Windows 10 and Windows 7 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/crack-the-code-effective-solutions-to-tackle-windows-11-update-error-0x80240034/"><u>Crack the Code: Effective Solutions to Tackle Windows 11 Update Error 0X80240034</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-experience-the-future-of-video-top-10-4k-samples/"><u>In 2024, Experience the Future of Video Top 10 4K Samples</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-teams-outage-determining-if-the-issue-stands-with-service-or-connection/"><u>Microsoft Teams Outage: Determining If the Issue Stands with Service or Connection</u></a></li>
+<li><a href="https://common-error.techidaily.com/new-world-update-release-fixing-the-easy-anti-cheat-startup-issue/"><u>New World Update Release - Fixing the Easy Anti-Cheat Startup Issue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premier-stream-gear-with-superior-360-degree-cameras-for-2024/"><u>Premier Stream Gear with Superior 360-Degree Cameras for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-undetected-hard-drive-fixes-and-solutions/"><u>Solving the Issue: Undetected Hard Drive Fixes and Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-z-flip-5-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy Z Flip 5 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-drone-cameras-perfect-for-cinematic-moments/"><u>Top 10 Drone Cameras Perfect For Cinematic Moments</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-overcoming-the-windows-10-error-0xc19n208-solved/"><u>Troubleshooting Guide for Overcoming the Windows 10 Error 0Xc19n208 [SOLVED]</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/ultimate-tutorial-on-broadcasting-content-from-huawei-p30-to-your-smart-tv/"><u>Ultimate Tutorial on Broadcasting Content From Huawei P30 to Your Smart TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-fake-chatgpt-platforms-securing-online-transactions/"><u>Unmasking Fake ChatGPT Platforms: Securing Online Transactions</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172477251-why-im-a-convert-the-gamers-guide-to-oled-screens/"><u>Why I'm a Convert: The Gamer’s Guide to OLED Screens</u></a></li>
 </ul></div>
 

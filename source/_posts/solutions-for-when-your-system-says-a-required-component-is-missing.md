@@ -1,7 +1,7 @@
 ---
 title: Solutions for When Your System Says a Required Component Is Missing
-date: 2024-12-01T02:07:31.099Z
-updated: 2024-12-03T22:29:49.367Z
+date: 2024-12-04T21:13:45.954Z
+updated: 2024-12-10T16:15:21.422Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ Read on this page and follow the steps:
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Disable the full screen optimization of your game application
@@ -54,7 +54,7 @@ To do that, please follow these easy steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a75563e4f956.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click on your game .exe file and select **Properties** .
@@ -62,12 +62,16 @@ To do that, please follow these easy steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7556d9700b6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Tick on **Disable fullscreen optimizations**  under the **Compatibility**  pane. Then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7557a69aaf6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Relaunch your game application to see if it works.
 
@@ -88,7 +92,7 @@ To do that, please follow these easy steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755a27bdf2b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged graphics card driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -96,10 +100,6 @@ To do that, please follow these easy steps:
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755f4db1724.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer to make the new driver take effect, and relaunch your game to see if it works now.
 
@@ -120,18 +120,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/1723208817323-resolved-end-excessive-heat-and-reduce-cpu-pressure-the-complete-guide-on-dealing-with-high-load-due-to-shell-infrastructures/"><u>[Resolved] End Excessive Heat & Reduce CPU Pressure - The Complete Guide on Dealing with High Load Due To Shell Infrastructures</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-expand-your-creative-toolkit-incorporating-custom-fonts-into-after-effects-for-2024/"><u>[Updated] Expand Your Creative Toolkit Incorporating Custom Fonts Into After Effects for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-c-span-archive-download-legally-without-expense/"><u>2024 Approved C-Span Archive Download Legally Without Expense</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-happy-enrollment-and-logout-flowchart/"><u>2024 Approved Happy Enrollment & Logout Flowchart</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-windows-11-unwanted-red-display-problems/"><u>Effective Solutions for Windows 11 Unwanted Red Display Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-a-non-functioning-microphone-on-google-hangouts/"><u>Effortless Fixes for a Non-Functioning Microphone on Google Hangouts</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-reduce-high-wudfhostexe-cpu-impact-on-windows-11-devices/"><u>How to Reduce High WUDFHost.exe CPU Impact on Windows 11 Devices</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-seamlessly-update-printer-drivers-with-yl-softwares-comprehensive-tutorial/"><u>How To Seamlessly Update Printer Drivers With YL Software's Comprehensive Tutorial</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/navigating-the-shifting-landscape-understanding-modern-supply-chain-vulnerabilities-amidst-pandemic-recovery/"><u>Navigating the Shifting Landscape: Understanding Modern Supply Chain Vulnerabilities Amidst Pandemic Recovery</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-windows-10-bluetooth-problems-instantly-simple-solutions-inside/"><u>Resolve Your Windows 10 Bluetooth Problems Instantly – Simple Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208835262-solving-steelseries-arctis-amor-problems-fixing-the-microphone-not-working/"><u>Solving SteelSeries Arctis amoR Problems - Fixing the Microphone Not Working</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-exploring-computer-components/"><u>Tom's Tech Insights: Exploring Computer Components</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-undead-uprising-your-guide-to-engrossing-zombie-playtime/"><u>[New] 2024 Approved Undead Uprising Your Guide to Engrossing Zombie Playtime</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716062744867-updated-vrecorder-how-to-download-and-install-for-2024/"><u>[Updated] VRecorder How to Download and Install for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-no-flair-just-facts-dissecting-recordcast/"><u>2024 Approved No Flair, Just Facts Dissecting RecordCast</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-to-your-volume-is-dirty-problem-error-code-0x80071ac3/"><u>Comprehensive Fixes to Your 'Volume Is Dirty' Problem (Error Code 0X80071AC3)</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solution-correcting-the-monitor-not-receiving-signal-problem-a-step-by-step-tutorial/"><u>DIY Solution: Correcting the 'Monitor Not Receiving Signal' Problem - A Step by Step Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-mysterious-darkness-solutions-to-chromes-black-screen-dilemma/"><u>Fixing the Mysterious Darkness: Solutions to Chrome's Black Screen Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-restoring-lost-bluetooth-icons-on-your-windows-10-device/"><u>Guide: Restoring Lost Bluetooth Icons on Your Windows 10 Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-market-with-tom-a-deep-dive-into-reliable-hardware-choices/"><u>Mastering the Market with Tom - A Deep Dive Into Reliable Hardware Choices</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-lowered-cpu-impact-with-improved-windows-driver-foundations/"><u>Resolved Issue: Lowered CPU Impact with Improved Windows Driver Foundations</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-your-social-space-facebooks-privacy-control-hacks/"><u>Secure Your Social Space: Facebook’s Privacy Control Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-sailing-effortless-app-management-in-windows-11/"><u>Smooth Sailing: Effortless App Management in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-age-of-empires-iii-boot-issue-with-these-proven-fixes-for-initialization-failures/"><u>Solve Your Age of Empires III Boot Issue with These Proven Fixes for Initialization Failures</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ultimate-fcp-tutorial-for-new-users-for-2024/"><u>Ultimate FCP Tutorial for New Users for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unmasking-ms-bda-via-visual-rendering/"><u>Unmasking MS BDA via Visual Rendering</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-slow-down-with-the-best-top-10-video-players/"><u>Updated 2024 Approved Slow Down with the Best Top 10 Video Players</u></a></li>
 </ul></div>
 

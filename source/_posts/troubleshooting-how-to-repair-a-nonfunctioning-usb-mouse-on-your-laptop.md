@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Repair a Nonfunctioning USB Mouse on Your Laptop"
-date: 2024-12-03T07:31:47.296Z
-updated: 2024-12-03T20:47:04.779Z
+date: 2024-12-05T19:52:42.032Z
+updated: 2024-12-10T16:47:15.352Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; just walk your way down until you find the one that works.
@@ -35,7 +31,7 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Reset your keyboard
@@ -56,7 +52,7 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Turn off your keyboard.
@@ -78,7 +74,7 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update and configure the iCUE software
@@ -91,16 +87,20 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -124,16 +124,16 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-download-vimeo-videos-withwithout-software-100-useful/"><u>[Updated] 2024 Approved How to Download Vimeo Videos With/Without Software [100% Useful]</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-accessible-quality-sunglasses-to-enhance-vr-experience/"><u>[Updated] Accessible, Quality Sunglasses to Enhance VR Experience</u></a></li>
-<li><a href="https://media-tips.techidaily.com/2-troubleshooting-steps-when-ios-apps-wont-launch-on-macos-systems/"><u>2. Troubleshooting Steps When iOS Apps Won't Launch on macOS Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-suspected-errors-in-windows-10s-update-system/"><u>Diagnosing & Repairing Suspected Errors in Windows 10'S Update System</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/guffaws-galore-compiled-list-of-10-funniest-youtube-short-videos-for-2024/"><u>Guffaws Galore Compiled List of 10 Funniest YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-constant-stream-lag-and-buffering-on-kodi-platform/"><u>How to Fix Constant Stream Lag and Buffering on Kodi Platform</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-itel-a70-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Itel A70</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-for-gopro-professionals/"><u>In 2024, The Ultimate Guide for GoPro Professionals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-on-device-artificial-intelligence-mechanisms/"><u>Navigating On-Device Artificial Intelligence Mechanisms</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210664483-resolve-windows-10-failure-to-shut-down-issues-in-minutes/"><u>Resolve Windows 10 Failure to Shut Down Issues in Minutes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-destiny-2s-unreachable-servers-tips-and-tricks/"><u>Troubleshooting Destiny 2'S Unreachable Servers: Tips and Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fading-into-silence-the-subtle-approach-in-fl-studio/"><u>[New] Fading Into Silence The Subtle Approach in FL Studio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-solidify-zoom-sounds-avoid-amplified-annoyances/"><u>[New] Solidify Zoom Sounds Avoid Amplified Annoyances</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-problem-0x800f0831-swiftly-using-the-latest-windows-patches/"><u>Bypassing Problem 0X800F0831 Swiftly Using the Latest Windows Patches</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/crafting-a-distinctive-tiktok-stream-hashcode/"><u>Crafting a Distinctive TikTok Stream Hashcode</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-diagnosing-and-correcting-xbox-one-controller-problems/"><u>Expert Advice: Diagnosing and Correcting Xbox One Controller Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-dns-server-quick-and-effective-remedies/"><u>How to Fix a Non-Responsive DNS Server: Quick & Effective Remedies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-look-at-the-best-narrative-creators-on-youtube-in-23/"><u>In 2024, A Look at the Best Narrative Creators on YouTube in '23</u></a></li>
+<li><a href="https://android-frp.techidaily.com/lava-blaze-2-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lava Blaze 2 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-overcoming-windows-driver-power-failures/"><u>Step-by-Step Solution: Overcoming Windows Driver Power Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-managing-high-cpu-load-due-to-wudfhost-service-in-windows-11/"><u>Tips for Managing High CPU Load Due to WUDFHost Service in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-the-secrets-of-star-wars-squadrons-with-our-immersive-flight-simulation-review/"><u>Unlock the Secrets of Star Wars: Squadrons with Our Immersive Flight Simulation Review</u></a></li>
 </ul></div>
 

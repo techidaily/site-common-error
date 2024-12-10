@@ -1,7 +1,7 @@
 ---
 title: Keyboard Enthusiasts Unite! Restoring the Radiant Features of Your Corsair Board
-date: 2024-11-29T19:26:02.774Z
-updated: 2024-12-04T00:11:21.386Z
+date: 2024-12-04T16:45:43.684Z
+updated: 2024-12-10T19:09:45.747Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## For Windows Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -42,17 +46,25 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click Keyboards and select the keyboard device you want to reset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the red cross button to uninstall the device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/x.jpg)
 5. Click Scan for hardware changes button. It will let the device appear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/search-6.jpg)
 6. Select the same keyboard device again. Click the Update device driver button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-4.jpg)
 7. Allow the newest drivers to install.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Restart your computer.
@@ -66,16 +78,8 @@ Your keyboard should back to the default setting after reboot.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device-1.jpg)
 3. Click**Typing** in the left pane and click**Advanced keyboard settings** on the right.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/type.jpg)
 4. Click the drop-down button to select the language you want.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/language.jpg)
 
@@ -94,14 +98,14 @@ Now you’ve reset your keyboard language.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Keyboard** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
 3. Click**Modifier Keys** in the bottom right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/modi.jpg)
 4. Click**Restore Defaults** and then click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Your keyboard should be back in the default settings.
 
@@ -110,10 +114,6 @@ Your keyboard should be back in the default settings.
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Language and Region** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
 3. Select the language you want.
@@ -153,19 +153,17 @@ Your keyboard should be reset successfully.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-achieving-peak-performance-in-video-submissions-on-youtube-for-2024/"><u>[Updated] Achieving Peak Performance in Video Submissions on YouTube for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/changing-landscapes-in-academia-is-technology-replacing-student-essays/"><u>Changing Landscapes in Academia: Is Technology Replacing Student Essays?</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-free-storage-after-resolving-the-cyclic-redundancy-check-glitches/"><u>Error-Free Storage After Resolving the Cyclic Redundancy Check Glitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-0xc000012f-error-in-windows-easily/"><u>How to Fix 0Xc000012f Error in Windows Easily</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 14 Plus?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-mastering-live-show-recordings-the-modern-way/"><u>In 2024, Mastering Live Show Recordings The Modern Way</u></a></li>
-<li><a href="https://common-error.techidaily.com/laptop-battery-wont-charge-master-quick-repairs-to-power-up-again/"><u>Laptop Battery Won't Charge? Master Quick Repairs to Power Up Again!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigate-the-maze-of-macos-for-streamlined-video-resizing-to-instagram-for-2024/"><u>Navigate the Maze of MacOS for Streamlined Video Resizing to Instagram for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-audio-alerts-excellent-sites-compilation/"><u>Premium Audio Alerts Excellent Sites Compilation</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-connecting-your-microsoft-wireless-display-adapter-with-windows-aturate-as-well-as-to-improve-the-efficiency-of-the-model-itself-during-t47/"><u>Step-by-Step Guide: Connecting Your Microsoft Wireless Display Adapter with Windows Aturate, as Well as to Improve the Efficiency of the Model Itself During Training and Inference</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-excessive-svchostexe-cpu-load-in-windows-11/"><u>Step-by-Step Solutions for Excessive Svchost.exe CPU Load in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-5-high-res-screens-for-playstation-5-for-2024/"><u>Top 5 High-Res Screens for PlayStation 5 for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-windows-10-bluetooth-connectivity-problems-fast/"><u>Troubleshoot and Fix Windows 10 Bluetooth Connectivity Problems Fast</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728488529900-windows-10pc/"><u>スムーズなデータ移行! Windows 10上のPC間ファイル伝送ツール</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-digital-painting-made-easy-with-free-online-editors/"><u>[New] Digital Painting Made Easy with Free Online Editors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-essential-guide-to-saving-web-radio-broadcasts-for-2024/"><u>[New] The Essential Guide to Saving Web Radio Broadcasts for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-exceptional-advice-premium-ios-tone-makers/"><u>[Updated] Exceptional Advice Premium iOS Tone Makers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ingenious-strategies-for-selecting-trailer-soundtracks-for-2024/"><u>[Updated] Ingenious Strategies for Selecting Trailer Soundtracks for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-the-challenge-of-unopenable-geforce-experience-software/"><u>Expert Tips for Overcoming the Challenge of Unopenable GeForce Experience Software</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-hp-stream-14-an-honest-look-at-a-cost-effective-windows-laptop-choice/"><u>Exploring the HP Stream 14: An Honest Look at a Cost-Effective Windows Laptop Choice</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/high-quality-video-rescue-hd-edition/"><u>High Quality Video Rescue: HD Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-change-the-netflix-video-playback-speed-on-computer-and-mobile/"><u>How to Change the Netflix Video Playback Speed on Computer and Mobile?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-easily-address-and-correct-a-503-http-server-error/"><u>How To Easily Address and Correct a #503 HTTP Server Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-werfaultexe-application-malfunctions-quickly/"><u>How to Resolve Windows werfault.exe Application Malfunctions Quickly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-oppo-by-fonelab-android-recover-music/"><u>How to restore wiped music on Oppo</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207834759-overcome-fresh-renderer-launch-issues-apply-the-latest-fix/"><u>Overcome Fresh Renderer Launch Issues - Apply the Latest Fix</u></a></li>
 </ul></div>
 

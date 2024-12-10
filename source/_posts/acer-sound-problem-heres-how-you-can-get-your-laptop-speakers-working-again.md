@@ -1,7 +1,7 @@
 ---
 title: Acer Sound Problem? Here's How You Can Get Your Laptop Speakers Working Again
-date: 2024-08-22T19:23:32.597Z
-updated: 2024-08-23T19:23:32.597Z
+date: 2024-12-03T21:07:07.687Z
+updated: 2024-12-10T17:29:16.800Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Before you start:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for Corsair HS50 mic not working
 
  You may not have to try them all; just work your way down until you find the one that works for you.
@@ -48,17 +52,25 @@ Before you start:
 
 1. Press the**Windows logo key** +**I** together. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-7.jpg)
 2. Click**Microphone** in the left panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click**Change** , then make sure the **Microphone access for this device** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.2-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Make sure **Allow apps to access your microphone** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Try your Corsair HS50 mic and see if the problem is solved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Change the audio settings on your PC**
 
@@ -67,21 +79,17 @@ Before you start:
 1. Right-click on the volume icon on your notification area and click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/1-7.jpg)
 2. Click the**Recording** tab, and check if your microphone is set as default. (There will be a green checkmark next to it and the Set Default button is grayed out.) If your mic is not the default device, click**Set Default** to set it as default.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** The device name might not be Microphone and the icon might not be the shape of a Microphone in your computer.
 3. Click your default microphone then click the**Properties** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/a.jpg)
 4. Click the**Levels** tab, then drag the slider towards the largest value.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  You can drag the slider to unmute and adjust your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/a4.jpg)
 5. Click**OK** to save your settings.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now that the microphone of your headset is set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
@@ -101,9 +109,6 @@ Before you start:
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).  
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/a6-1.jpg)
 4. After updating the driver, restart your computer, then try your Corsair HS50 mic and see if your problem is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -121,8 +126,6 @@ Before you start:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +133,19 @@ Before you start:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ace-virtual-imagery-ideal-google-meet-screens-for-2024/"><u>[New] Ace Virtual Imagery Ideal Google Meet Screens for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-amplify-your-voice-on-twitter-top-video-uploading-solutions-for-2024/"><u>[New] Amplify Your Voice on Twitter Top Video Uploading Solutions for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-creating-captivating-reels-the-role-of-background-music/"><u>[Updated] Creating Captivating Reels The Role of Background Music</u></a></li>
+<li><a href="https://common-error.techidaily.com/cure-kernel32dll-crashes-on-pcs/"><u>Cure Kernel32.dll Crashes on PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-http-error-403/"><u>How to Fix HTTP Error 403</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-google-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Google to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 6 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-overcoming-the-challenge-of-initiating-a-hosted-wifi-connection-on-windows-10/"><u>Resolved: Overcoming the Challenge of Initiating a Hosted WiFi Connection on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11s-troublesome-0x800705b4-error-during-updates-step-by-step-solutions/"><u>Resolving Windows 11'S Troublesome 0X800705b4 Error During Updates - Step-by-Step Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-dealing-with-coprocessor-not-detected-in-windows-11-systems/"><u>Step-by-Step Solution: Dealing with 'Coprocessor Not Detected' In Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-csgo-issues-like-a-pro-end-crashes-for-good/"><u>Troubleshoot CSGO Issues Like a Pro: End Crashes for Good!</u></a></li>
+</ul></div>
 
