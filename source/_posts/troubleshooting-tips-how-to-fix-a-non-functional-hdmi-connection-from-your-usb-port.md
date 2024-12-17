@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Fix a Non-Functional HDMI Connection From Your USB Port"
-date: 2024-08-22T19:23:03.173Z
-updated: 2024-08-23T19:23:03.173Z
+date: 2024-12-12T23:29:29.748Z
+updated: 2024-12-16T23:41:24.791Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -44,13 +48,18 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,14 +72,13 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
@@ -84,26 +92,22 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Troubleshoot hardware issues
 
  If none of the fixes works for you, it’s time to check for potential hardware issues.
@@ -128,8 +132,6 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +139,24 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unveiling-social-network-regulations-can-you-share-videos/"><u>[New] 2024 Approved Unveiling Social Network Regulations Can You Share Videos?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-advanced-pip-setup-elevating-your-visual-presentations-on-macos-for-2024/"><u>[Updated] Advanced PIP Setup Elevating Your Visual Presentations on macOS for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-excellent-7-dslrs-elevating-live-stream-cinematic-style-for-2024/"><u>[Updated] Excellent 7 DSLRs Elevating Live-Stream Cinematic Style for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mastering-chrome-os-4-screenshots-tricks/"><u>[Updated] In 2024, Mastering Chrome OS 4 Screenshots Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-224003-solved-enjoy-uninterrupted-video-viewing/"><u>Error Code 224003 Solved: Enjoy Uninterrupted Video Viewing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-unveiling-the-intelligent-capabilities-of-the-linksys-ea9500-router/"><u>Expert Review: Unveiling the Intelligent Capabilities of the Linksys EA9500 Router</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-microsoft-print-to-pdf-issue-on-windows-11-a-comprehensive-guide/"><u>Fixing the 'Microsoft Print to PDF' Issue on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resizing-and-moving-windows-beyond-the-display-edge-tips-and-tricks/"><u>Resizing and Moving Windows Beyond the Display Edge: Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-pc-wont-boot-overcoming-the-getting-windows-ready-hurdle/"><u>Solutions for When Your PC Won't Boot: Overcoming the 'Getting Windows Ready' Hurdle</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/youtube-shorts-forever-a-step-by-step-guide/"><u>Stop YouTube Shorts Forever A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-x8b-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor X8b for Parents | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-installing-latest-windows-11-feature-update-version-1607/"><u>Trouble Installing Latest Windows 11 Feature Update (Version 1607)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-windows-sfc-scannow-fails-to-complete-task/"><u>Troubleshooting Steps When Windows Sfc /Scannow Fails to Complete Task</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204983360-troubleshooting-video-files-resolve-playback-error-22403-now/"><u>Troubleshooting Video Files - Resolve Playback Error 22403 Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-sign-in-errors-with-user-profile-services/"><u>Troubleshooting Windows 11 Sign-In Errors with User Profile Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x-for-2024/"><u>Unveiling Mastery The Ultimate Animoji Guide for iPhone X for 2024</u></a></li>
+</ul></div>
 

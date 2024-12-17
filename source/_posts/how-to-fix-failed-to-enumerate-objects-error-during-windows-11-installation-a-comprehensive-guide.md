@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Failed to Enumerate Objects' Error During Windows 11 Installation – A Comprehensive Guide
-date: 2024-11-09T16:45:02.554Z
-updated: 2024-11-15T17:00:57.623Z
+date: 2024-12-15T16:27:14.340Z
+updated: 2024-12-16T19:35:15.474Z
 tags:
   - win11
   - win10
@@ -64,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -71,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 `` 4) Reboot your Windows 10 and open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
@@ -82,10 +90,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `` Click **Yes**  when prompted by User Account Control.
@@ -95,10 +100,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -119,31 +121,21 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -161,6 +153,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -181,10 +177,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -232,19 +225,21 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-how-to-create-your-own-virtual-reality-gear-with-google-cards/"><u>[New] 2024 Approved How to Create Your Own Virtual Reality Gear with Google Cards</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-maximizing-earnings-with-youtube-studio-monetization-on-any-device/"><u>[New] 2024 Approved Maximizing Earnings with YouTube Studio Monetization on Any Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-leveraging-filmora-insights-for-every-content-creator/"><u>[New] Leveraging Filmora Insights for Every Content Creator</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sprint-through-time-uncovering-discarded-reddit-content/"><u>[Updated] 2024 Approved Sprint Through Time Uncovering Discarded Reddit Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-annual-list-highest-rated-free-lut-sources-online/"><u>[Updated] Annual List Highest Rated FREE LUT Sources Online</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-the-secrets-of-irecorder/"><u>[Updated] Unlocking the Secrets of iRecorder</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209901727-breeze-through-fixing-windows-update-error-code-0x80070002-simple-solutions-for-smooth-operations/"><u>Breeze Through Fixing Windows Update Error Code 0X80070002: Simple Solutions for Smooth Operations!</u></a></li>
-<li><a href="https://common-error.techidaily.com/clearing-cache-failures-how-to-address-erroneous-caching-errcachemiss-errors-on-chrome/"><u>Clearing Cache Failures: How to Address Erroneous Caching (ERR_CACHE_MISS) Errors on Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-code-24-errors-for-missing-devices-in-windows-os/"><u>How To Fix Code 24 Errors for Missing Devices in Windows OS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-steps-to-prevent-youtube-channels-mobile-and-desktop-methods/"><u>In 2024, Steps to Prevent Youtube Channels Mobile and Desktop Methods</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-infinix-zero-30-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Infinix Zero 30 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-the-missing-sound-device-error-in-windows-11/"><u>Step-by-Step Solution for the Missing Sound Device Error in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-responsive-function-fn-keys-on-your-lenovo-laptop/"><u>Troubleshooting Guide: Fixing Non-Responsive Function (Fn) Keys on Your Lenovo Laptop</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-video-editing-software-with-effects-for-mobile-devices/"><u>Updated The Best Free Video Editing Software with Effects for Mobile Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-techniques-to-improve-video-visibility-on-youtube-platform/"><u>[New] 2024 Approved Techniques to Improve Video Visibility on YouTube Platform</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-effortless-playlist-pivot-the-top-5-spotify-to-youtube-tools-for-2024/"><u>[Updated] Effortless Playlist Pivot The Top 5 Spotify-to-YouTube Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/data-error-resolution-understanding-cyclic-redundancy-check-fixes/"><u>Data Error Resolution: Understanding Cyclic Redundancy Check Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/decrypting-the-codex-to-oversee-metas-account-central-hub/"><u>Decrypting the Codex to Oversee Meta’s Account Central Hub</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-the-d3derr-not-available-problem-in-windows-computers/"><u>Easy Solutions for the 'D3DERR Not Available' Problem in Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-of-the-road-for-error-5-has-occurred-quick-fixes-on-modern-and-legacy-windows-os/"><u>End of the Road for 'Error 5 Has Occurred': Quick Fixes on Modern and Legacy Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-and-solutions-overcoming-issues-during-steam-game-installation-or-updates/"><u>Fixes and Solutions: Overcoming Issues During Steam Game Installation or Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-endless-wait-resolve-bethesdas-skyrim-unlimited-load-times/"><u>Fixing the Endless Wait: Resolve Bethesda's Skyrim Unlimited Load Times</u></a></li>
+<li><a href="https://article-posts.techidaily.com/gratuitous-green-backdrops-available-for-2024/"><u>Gratuitous Green Backdrops Available for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-gionee-f3-pro-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Gionee F3 Pro Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-smart-8-hd-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Smart 8 HD to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/movie-magic-for-video-editing-enthusiasts-for-2024/"><u>Movie Magic for Video Editing Enthusiasts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-file-explorer-unresponsiveness-on-windows-11-with-easy-fixes/"><u>Overcoming File Explorer Unresponsiveness on Windows 11 with Easy Fixes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hythm-revivers-guide-to-distorted-beats/"><u>The Rhythm Reviver's Guide to Distorted Beats</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unavailable-desktop-issue-within-windows-system-profile-configuration/"><u>Troubleshooting Unavailable Desktop Issue Within Windows System Profile Configuration</u></a></li>
 </ul></div>
 

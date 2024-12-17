@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Copy and Paste on Windows 11 Devices
-date: 2024-08-15T11:12:26.889Z
-updated: 2024-08-16T11:12:26.889Z
+date: 2024-12-09T23:08:20.467Z
+updated: 2024-12-16T21:27:27.448Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 After a day’s work, you click**Shut down** and pack your stuff for leaving. But when you glance at your computer screen, it’s still on the loading screen. You stand and watch it impatiently. Usually, the shutdown process should be taken no more than a few seconds. But when it takes you a lot of time while shutting down, your computer has Windows 10 slow shutdown issue.  
  Don’t worry, you’re not alone. And this issue should be easy to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Disconnect your USB-C device before shut down**](https://tools.techidaily.com/drivereasy/download/)
@@ -26,12 +30,13 @@ After a day’s work, you click**Shut down** and pack your stuff for leaving. Bu
 4. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Registry fix**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disconnect your USB-C device before shut down
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/619Rf5BkGlL._SL1273_-1019x1024.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  USB Type-C sample  
  Photo from Amazon
@@ -44,9 +49,6 @@ The solution for this bug is very simple.
 
  Disconnect your USB Type-C devices before you shut down your computer. So this bug won’t affect your shutdown process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run Power Troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Power Troubleshooter to fix the slow shut down issue.
@@ -55,16 +57,15 @@ The solution for this bug is very simple.
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-3.jpg)
 3. Choose**Troubleshoot** in the left pane. Then click**Power** and click**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/power-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/power-1.jpg)
 4. Follow the on-screen instructions to finish the process.
 5. Reboot your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Disable Fast Startup feature
 
  If your Fast Startup is enabled, when you shut down the computer, you may encounter slow shutdown or back to the Windows Lock Screen.  
@@ -74,18 +75,27 @@ The solution for this bug is very simple.
 1. Press the **Windows logo key + Pause** and click **Control Panel Home** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/0-1.jpg)
 2. Change **View by Large icons** and click **Power Options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
 3. Click **Choose what the power button do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
 5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
 6. Reboot your computer to apply the changes.
 
@@ -96,20 +106,23 @@ The solution for this bug is very simple.
 1. On your keyboard, press the **Windows logo key** and **R** key at the same time to invoke the Run box.
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the result indicates that there are broken files exists but SFC can’t fix it, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examine and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Registry fix
 
  If the above fixes can’t help, you can try this one. The corruption of registry files may the reason for the slow shut down issue. You can solve the issue by following the below steps:
@@ -121,9 +134,6 @@ The solution for this bug is very simple.
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management** “.
 4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Copy and paste the text into the address bar and press Enter.  
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control** “.
 6. Find**WaitToKillServiceTimeout** file in the right pane. Double click it and set the value between**1000 to 20000** .  
@@ -131,9 +141,6 @@ The solution for this bug is very simple.
 7. Click**OK** .
 8. Reboot your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Bonus: Update your driver
 
  If there’re any old or corrupted drivers on your Windows 10 PC, this will cause trouble to your computer. To get a better-using experience and prevent your computer from trouble, it’s important to keep your device drivers up-to-date.
@@ -158,8 +165,6 @@ The solution for this bug is very simple.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +172,24 @@ The solution for this bug is very simple.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/bridging-the-gap-reestablishing-connection-with-your-non-syncing-xbox-one-contoller/"><u>Bridging the Gap: Reestablishing Connection with Your Non-Syncing Xbox One Contoller</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-gameplay-in-red-dead-redemption-2-by-eliminating-lag-stuttering-and-low-fps-issues/"><u>Enhance Gameplay in Red Dead Redemption 2 by Eliminating Lag, Stuttering, & Low FPS Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-dealing-with-repeated-not-recognized-kb310218-get-back-to-using-your-usb-devices-now/"><u>Expert Advice for Dealing with Repeated 'Not Recognized KB310218' - Get Back to Using Your USB Devices Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-lenovo-trackpad-working-again-under-windows-tips-and-solutions/"><u>Get Your Lenovo Trackpad Working Again Under Windows: Tips & Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209359338-laptop-microphone-problems-discover-effective-fixes-and-solutions-here/"><u>Laptop Microphone Problems? Discover Effective Fixes and Solutions Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-flight-simulator-2020-stability-issues-discover-how-to-keep-your-game-running-smoothly-on-pc/"><u>Microsoft Flight Simulator 2020 Stability Issues? Discover How To Keep Your Game Running Smoothly On PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-windows-11-audio-glitches-reinstall-driver/"><u>Resolve Windows 11 Audio Glitches: Reinstall Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-update-error-0xc1900208-expert-tips-and-solutions/"><u>Resolving Windows 10 Update Error 0xC1900208: Expert Tips and Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/seamlessly-shifting-reading-material-converting-ipad-ebooks-to-kindle-format/"><u>Seamlessly Shifting Reading Material: Converting iPad eBooks to Kindle Format</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-halo-4-ue4-deadly-glitch-overcome-game-crashes/"><u>Solved Halo 4 UE4 Deadly Glitch: Overcome Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/streamline-your-workflow-with-windows-10-file-explorer-help/"><u>Streamline Your Workflow with Windows 10 File Explorer Help</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/superior-5-sites-matching-twitters-features-for-2024/"><u>Superior 5 Sites Matching Twitter's Features for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/troubleshooting-the-asus-chromebooks-dilemma-overcoming-white-display-hiccups-and-unresponsive-power-startup/"><u>Troubleshooting the ASUS Chromebook's Dilemma - Overcoming White Display Hiccups and Unresponsive Power Startup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-repairing-damaged-handbrake-dvd-rips/"><u>Ultimate Guide: Repairing Damaged Handbrake DVD Rips</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-container-issue-resolution-understanding-and-fixing-the-failed-to-enumerate-objects-error/"><u>Windows 10 Container Issue Resolution: Understanding and Fixing the 'Failed to Enumerate Objects' Error</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Continuous USB Port Malfunctions
-date: 2024-08-22T19:20:12.489Z
-updated: 2024-08-23T19:20:12.489Z
+date: 2024-12-09T23:56:46.847Z
+updated: 2024-12-16T20:11:57.768Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Quick Fix:**Install & update drivers automatically**
 
  The methods written below can help you fix these buffering issues. Read on to find how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Check your Internet speed
 
  The first thing you have to do is to check your internet connection. Make sure it’s stable and then test your internet speed. You can use add-ons on Kodi to test your internet speed.  
@@ -41,6 +45,10 @@ Quick Fix:**Install & update drivers automatically**
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/527.jpg)
 2. Click**Internet Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5271.jpg)
 3. Click**Speed Tester** and wait for the testing result.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5272.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Usually, a large, HD content will require a high speed. If the problem is due to low internet speed, you can try[Fix 1](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -68,33 +76,31 @@ Quick Fix:**Install & update drivers automatically**
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.![](https://images.drivereasy.com/wp-content/uploads/2019/05/nord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Coupon tip** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust video cache size with One nation
 
  One way to fix the Kodi buffering issue is to expand the video cache size. Increasing the size of the cache in Kodi can help you reduce buffering. It is because the cache is like a reservoir, the bigger it is, the more stuff can be saved and you’ll get a smooth viewing experience.
 
 1. Select Add-ons in the Kodi home screen and click**One Nation Porta** l.![](https://images.drivereasy.com/wp-content/uploads/2019/05/527-1.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click System Tweaks/Fixes.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5273.jpg)
 4. Click**Quick Configure AdvancedSettings.xml** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5274.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Adjust the video cache size and then click**Write file** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5275.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Restart Kodi and check the buffering problem is still there or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Clear Kodi cache with One nation
 
@@ -103,10 +109,12 @@ Quick Fix:**Install & update drivers automatically**
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/j5-2.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-2.jpg)
 3. Click**Cleaning Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/3-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Choose**Clear Cache** . Or choose**Total Clean Up** , which also helps to play videos smoothly in Kodi.![](https://images.drivereasy.com/wp-content/uploads/2019/05/4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Follow the on-screen instructions to finish the process.
 6. Restart Kodi and check whether the buffering issue is still here or not.
 
@@ -120,8 +128,6 @@ Quick Fix:**Install & update drivers automatically**
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +135,20 @@ Quick Fix:**Install & update drivers automatically**
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-capture-the-big-one-best-fishing-camers-ranked-for-2024/"><u>[New] Capture the Big One Best Fishing Camers Ranked for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-metrics-guide-to-monetize-and-mobilize-youtube-audiences/"><u>[New] The Ultimate Metrics Guide to Monetize and Mobilize YouTube Audiences</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-weaving-words-wisely-uncovering-the-top-8-writing-schools/"><u>[Updated] In 2024, Weaving Words Wisely Uncovering the Top 8 Writing Schools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proven-approaches-to-exceptional-android-time-lapse-photography/"><u>[Updated] Proven Approaches to Exceptional Android Time-Lapse Photography</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-cpm-rates-how-much-do-youtubers-make-for-2024/"><u>[Updated] YouTube CPM Rates How Much Do YouTubers Make for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/centralized-data-protection-with-aomei-cyberbackup-no-cost-full-features-for-servers-and-pcs/"><u>Centralized Data Protection with AOMEI CyberBackup: No Cost, Full Features for Servers and PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-achieved-memory-written-error-at-hexadecimal-0x-reference-point/"><u>Fix Achieved - Memory Written Error at Hexadecimal 0X Reference Point</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone XS Max</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-video-troubleshooting-a-step-by-step-guide-to-resolve-vlcs-dvd-cannot-be-played-error/"><u>Mastering Video Troubleshooting: A Step-by-Step Guide to Resolve VLC's 'DVD Cannot Be Played' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connection-hurdles-making-your-bluetooth-keyboard-compatible-with-your-pc-again/"><u>Overcoming Connection Hurdles: Making Your Bluetooth Keyboard Compatible with Your PC Again</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-timepieces-how-chatgpt-innovates-the-world-of-smartwatches/"><u>Transforming Timepieces: How ChatGPT Innovates the World of Smartwatches</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-dota-2-error-code-2024-a-step-by-step-guide-to-adjust-the-api/"><u>Troubleshoot and Fix Dota 2 Error Code 2024: A Step-by-Step Guide to Adjust the API</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-non-functioning-spacebar-key-in-windows-11/"><u>Troubleshooting the Non-Functioning Spacebar Key in Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Fixing Program Malfunction - A Complete Guide"
-date: 2024-08-15T11:13:16.124Z
-updated: 2024-08-16T11:13:16.124Z
+date: 2024-12-11T01:56:12.433Z
+updated: 2024-12-17T01:46:25.506Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -38,8 +35,9 @@ Here’s how to do it:
  1) On your keyboard, press **the Windows logo key**  and type **microphone** , then click on **Microphone privacy settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
@@ -49,8 +47,9 @@ Here’s how to do it:
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
@@ -69,15 +68,17 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -86,20 +87,24 @@ To do so:
 
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
@@ -128,8 +133,6 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +140,22 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-enhancing-your-interview-impact-and-credibility/"><u>[New] 2024 Approved Enhancing Your Interview Impact and Credibility</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-best-15-portable-videography-tools/"><u>[New] In 2024, Best 15 Portable Videography Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-snipperpro-suite/"><u>[New] In 2024, SnipperPro Suite</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-tips-and-tricks-to-avoid-photo-crashes-on-windows-11/"><u>[Updated] 2024 Approved Tips & Tricks to Avoid Photo Crashes on Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-becoming-an-economic-force-a-guide-to-earning-on-youtube-for-2024/"><u>[Updated] Becoming an Economic Force A Guide to Earning on YouTube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-for-dealing-with-error-code-1000-on-different-windows-platforms/"><u>Comprehensive Guide for Dealing with Error Code 1000 on Different Windows Platforms</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/lade-deine-icloud-aufnahmen-schnell-und-sicher-auf-das-handy-entdecke-hier-die-besten-methoden-fur-das-iphone/"><u>Lade Deine iCloud-Aufnahmen Schnell Und Sicher Auf Das Handy - Entdecke Hier Die Besten Methoden Für Das iPhone!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-infinix-note-30-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Infinix Note 30 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-repairing-damaged-device-drivers-instantly/"><u>Quick Solutions: Repairing Damaged Device Drivers Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-functionality-resolving-non-responsive-alphabet-keys-in-microsoft-windows-1011/"><u>Restore Functionality: Resolving Non-Responsive Alphabet Keys in Microsoft Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-repairing-your-lenovos-malfunctioning-fingerprint-scanner/"><u>Simple Solutions: Repairing Your Lenovo's Malfunctioning Fingerprint Scanner</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-handling-failed-logons-in-group-policy-clients/"><u>Solution Steps for Handling Failed Logons in Group Policy Clients</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-errcachemiss-in-chrome/"><u>Step-by-Step Guide to Fixing ERR_CACHE_MISS in Chrome</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-rated-chromebook-video-editing-software-the-ultimate-guide/"><u>Top-Rated Chromebook Video Editing Software: The Ultimate Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-optimization-tips-for-enhanced-gaming-experience/"><u>Windows 11 Optimization Tips for Enhanced Gaming Experience</u></a></li>
+</ul></div>
 

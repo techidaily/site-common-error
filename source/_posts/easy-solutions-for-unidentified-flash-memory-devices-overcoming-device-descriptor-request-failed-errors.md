@@ -1,7 +1,7 @@
 ---
 title: "Easy Solutions for Unidentified Flash Memory Devices: Overcoming 'Device Descriptor Request Failed' Errors"
-date: 2024-08-15T11:12:11.533Z
-updated: 2024-08-16T11:12:11.533Z
+date: 2024-12-11T17:41:41.931Z
+updated: 2024-12-16T19:42:20.604Z
 tags:
   - win11
   - win10
@@ -24,10 +24,19 @@ thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db518
 1. Try to print this post you’re viewing.  If you’re viewing this article on a browser like Chrome, and Microsoft Edge, click the three dots icon, then select**Print** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03dbb9284b.png)  
    1. If you**can’t**  print this page either, there are some issues with your printer, follow to **[troubleshoot problems of your printer](#printer)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    2. If you**can** print this page, go on to check:
 2. Open your PDF file in your browser, then print it in the browser.  
    1. If you**can’t** print your PDF file in your browser either, probably your PDF files are corrupted, follow to**[repair or recreate your PDF file](#PDF)** .  
    2. If you **can**  print your PDF file in your browser, you need to [**troubleshoot problems with your Acrobat Reader** .](#reader)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db518
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot problems with your printer
 
  Either a USB-connected printer or a network one you’re using, make sure your printer is set as the default printer and your printer driver is up-to-date.
@@ -51,18 +56,18 @@ thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db518
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
 2. Type**control** and click**OK** .”  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0354b845be.png)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
 
@@ -84,9 +89,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -94,9 +96,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Repair or recreate your PDF file
 
  If there were any corrupted or incompatible data in your PDF file, your file wouldn’t be printed successfully. Here we give you two methods to try:
@@ -116,10 +115,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 **b)** If you created the PDF file by yourself, create a new one and save it directly to your hard drive.  
 **c)** Using the**Save as…** feature in Acrobat Reader: Click **File** \> **Save as…**  , save your PDF file directly to your hard drive.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -147,9 +147,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -172,6 +169,10 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -208,8 +209,9 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  Restart your PC after repairing the corrupt files and test your printer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -233,8 +235,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +242,24 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-best-8-youtube-marketing-apps-and-solutions/"><u>[New] In 2024, Best 8 YouTube Marketing Apps & Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-guidance-best-websites-to-find-google-pixel-ringtones-and-how-to-customize-google-pixel-ringtones/"><u>[New] In 2024, Guidance Best Websites To Find Google Pixel Ringtones & How To Customize Google Pixel Ringtones</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-dvd-wont-play-on-windows/"><u>[SOLVED] DVD Won't Play on Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-comprehensive-guide-to-modern-versatile-game-recording-software/"><u>2024 Approved A Comprehensive Guide to Modern, Versatile Game Recording Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212365734-astro-a40-microphone-not-working-heres-how-you-can-get-it-up-and-running-again/"><u>Astro A40 Microphone Not Working? Here's How You Can Get It Up and Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-sleep-issues-easy-remedies-for-continuous-computer-operation/"><u>Banish Sleep Issues: Easy Remedies for Continuous Computer Operation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-use-of-chatgpt-in-effective-proofreading-practices/"><u>Exploring the Use of ChatGPT in Effective Proofreading Practices</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-cannot-launch-errors-for-your-amd-catalyst-control-center-easily/"><u>Fixing 'Cannot Launch' Errors for Your AMD Catalyst Control Center Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-6-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 6 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcome-the-issue-of-iastordatasvc-causing-high-cpu-usage-in-a-32-bit-windows-10-environment-fixed/"><u>Guide to Overcome the Issue of IAStorDataSvc Causing High CPU Usage in a 32-Bit Windows 10 Environment (Fixed)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitech-scroll-wheel-stuck-heres-how-you-can-repair-it/"><u>Logitech Scroll Wheel Stuck? Here's How You Can Repair It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-hurdle-restoring-functionality-of-a-faulty-igfx-em-component/"><u>Overcoming the Hurdle: Restoring Functionality of a Faulty iGFX EM Component</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-audible-audiobooks-seamlessly-discover-the-most-effective-epub-converters-available-today/"><u>Transform Audible Audiobooks Seamlessly – Discover the Most Effective EPUB Converters Available Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-usb-headphones-on-windows-7-a-complete-guide/"><u>Troubleshooting Silent USB Headphones on Windows 7 – A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-when-your-laptop-fails-to-turn-on/"><u>Troubleshooting Tips When Your Laptop Fails to Turn On</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-10-best-free-webm-video-editors/"><u>Updated Top 10 Best Free WebM Video Editors</u></a></li>
+</ul></div>
 

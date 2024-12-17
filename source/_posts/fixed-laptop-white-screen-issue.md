@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Laptop White Screen Issue"
-date: 2024-08-22T19:19:40.306Z
-updated: 2024-08-23T19:19:40.306Z
+date: 2024-12-14T22:41:01.135Z
+updated: 2024-12-17T00:28:08.156Z
 tags:
   - win11
   - win10
@@ -46,8 +46,9 @@ Here’s how:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -55,28 +56,24 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 1. On the keyboard of the target computer, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update the drivers for your USB devices
 
  This problem may occur if you’re using the wrong or outdated USB drivers. So you should update the drivers for your USB devices to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -92,24 +89,17 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -130,8 +120,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +127,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-5-rapid-steps-unearthing-disappeared-reddit-posts/"><u>[New] 2024 Approved 5 Rapid Steps Unearthing Disappeared Reddit Posts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-nailing-the-art-of-ppt-video-reproduction/"><u>[New] In 2024, Nailing the Art of PPT Video Reproduction</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-journey-towards-facebooks-premium-verified-emblem/"><u>[New] Journey Towards Facebook's Premium Verified Emblem</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-engage-audiences-best-hashtags-for-going-viral-on-yt/"><u>[Updated] In 2024, Engage Audiences Best Hashtags for Going Viral on YT</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-light-shadow-and-subtlety-in-film-coloring/"><u>2024 Approved Light, Shadow & Subtlety in Film Coloring</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-hum-5-straightforward-strategies-for-perfect-audio-performance/"><u>Beat the Hum: 5 Straightforward Strategies for Perfect Audio Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-solutions-and-steps-to-correctly-resolve-the-windows-update-error-0x80244022/"><u>Efficient Solutions and Steps to Correctly Resolve the 'Windows Update Error: 0X80244022'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-tiktok-videos-on-your-tv-a-comprehensive-walkthrough/"><u>Enjoy TikTok Videos on Your TV: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-solve-semaphore-timeout-issue-with-error-0x80070x/"><u>Guide to Solve Semaphore Timeout Issue with Error 0X80070^X</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-xs-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone XS?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-event-id-1solved-1000-malfunctioning-on-different-windows-platforms/"><u>How to Correctly Address Event ID 1([Solved] 1000) Malfunctioning on Different Windows Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-netcertweaksignature-on-your-browser-for-a-secure-connection/"><u>How to Fix the ERROR NET::CERT_WEAK_SIGNATURE on Your Browser for a Secure Connection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-technology-with-tom-the-hardware-guide/"><u>Navigate Through Technology with Tom: The Hardware Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-clips-to-masterpieces-the-ultimate-video-editor/"><u>New From Clips to Masterpieces The Ultimate Video Editor</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-the-igfx-module-is-now-fully-functional/"><u>Resolved Issue: The iGFX Module Is Now Fully Functional</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-overcoming-this-os-is-not-supported-error-when-setting-up-software/"><u>Step-by-Step Solution for Overcoming ‘This OS Is Not Supported’ Error When Setting Up Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-unfreezing-windows-and-macs-a-comprehensive-tutorial/"><u>Step-by-Step Solutions to Unfreezing Windows and Macs: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-10-and-11/"><u>Troubleshooting Non-Functional USB Ports on Windows 10 and 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-with-ease-remedying-windows-10-touchpad-scrolling-hiccups-in-minutes/"><u>Unstuck with Ease: Remedying Windows 10 Touchpad Scrolling Hiccups in Minutes!</u></a></li>
+</ul></div>
 

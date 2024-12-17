@@ -1,7 +1,7 @@
 ---
 title: How to Handle System Crashes Due to Absence of XINPUT1_3.dll
-date: 2024-08-15T11:11:48.914Z
-updated: 2024-08-16T11:11:48.914Z
+date: 2024-12-14T17:50:07.956Z
+updated: 2024-12-16T21:12:49.692Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0
  **Windows could not connect to the System Event Notification Service service.**
 
  I know you’re likely frustrating. But don’t worry. Usually it’s easy to solve out. Read on to see how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,15 +52,14 @@ thumbnail: https://thmb.techidaily.com/3edb5ed0f59ba6116f7a3ed0872c7594498c971b0
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
@@ -80,10 +83,9 @@ Follow these steps to reset your Winsock Catalog:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your video card driver
 
  You could probably encounter this error if the video card driver on your computer is outdated, incompatible or corrupt. So you should**update your video card driver** to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -98,9 +100,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
@@ -116,10 +115,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
 Restart your computer to see if the error has gone.
@@ -127,8 +128,9 @@ Restart your computer to see if the error has gone.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Remove klhkum.dll
 
  If you have to reset Winsock tens of times a day, you need to try this method. What you should do is checking whether you have “klhkum.dll” or not.
@@ -139,15 +141,13 @@ Restart your computer to see if the error has gone.
 1. Press**Ctrl+Shift+Esc** to open the Task Manager.
 2. Click the**Startup** tab and find**klhkum.dll** process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer to see if the error has gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -164,8 +164,6 @@ Restart your computer to see if the error has gone.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +171,22 @@ Restart your computer to see if the error has gone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fix-bluetooth-issues-battery-dead-in-logitech/"><u>[Fix] Bluetooth Issues, Battery Dead in Logitech</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-revolutionary-alternative-tools-for-fbx-file-capture/"><u>[New] 2024 Approved Revolutionary Alternative Tools for FBX File Capture</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-urban-to-agrarian-journey-stardew-titles-traced/"><u>[New] In 2024, Urban to Agrarian Journey Stardew Titles Traced</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-elevate-your-online-experience-with-the-best-screen-recorders-ranked/"><u>[Updated] 2024 Approved Elevate Your Online Experience with the Best Screen Recorders Ranked</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-master-your-virtual-reality-journey-which-option-suits-you-better-portable-mobile-or-connected-tethered-in-2024/"><u>[Updated] Master Your Virtual Reality Journey Which Option Suits You Better - Portable (Mobile) or Connected (Tethered), In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-masterful-video-marketing-techniques-youtube-editions-top-5-list/"><u>[Updated] Masterful Video Marketing Techniques - YouTube Edition's #Top 5 List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-all-you-need-to-know-about-podcast-funding/"><u>2024 Approved All You Need To Know About Podcast Funding</u></a></li>
+<li><a href="https://win-community.techidaily.com/best-hypercam-software-options-for-your-mac-a-comprehensive-guide/"><u>Best HyperCam Software Options for Your Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-hs50-headset-microphone-repairs-troubleshooting-tips-and-solutions/"><u>Corsair HS50 Headset Microphone Repairs: Troubleshooting Tips & Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/enjoy-uninterrupted-playback-fixing-shockwave-flash-crashes-in-google-chrome/"><u>Enjoy Uninterrupted Playback: Fixing Shockwave Flash Crashes in Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-troubleshooting-and-fixing-ps5-d-pad-issues-the-ultimate-guide/"><u>Expert Advice on Troubleshooting and Fixing PS5 D-Pad Issues - The Ultimate Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-fn-key-not-working-issue-for-your-dell-laptop/"><u>How to Fix FN Key Not Working Issue for Your Dell Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-when-your-hamachi-session-ends-unexpectedly/"><u>Mastering the Fix for When Your Hamachi Session Ends Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-overcoming-usb-device-not-recognized-and-failed-descriptor-request-issues/"><u>Successfully Overcoming USB Device Not Recognized & Failed Descriptor Request Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-tp-link-re5-surveillance-5-x-wireless-repeater-a-thorough-review-by-tech-experts/"><u>The TP-Link RE5 Surveillance 5 X Wireless Repeater - A Thorough Review by Tech Experts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Getting More Bangs From LoL: Overcoming Sluggish Download Times Easily"
-date: 2024-12-02T19:22:57.932Z
-updated: 2024-12-03T19:02:33.774Z
+date: 2024-12-10T22:39:29.124Z
+updated: 2024-12-16T17:27:22.804Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ League of Legends is a world popular game, but the slow download speed can easil
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,10 +48,6 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -58,7 +58,7 @@ League of Legends is a world popular game, but the slow download speed can easil
 3. In the file, find the**LOL Launcher.exe** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Right-click on it and click**Run as administrator** .
@@ -67,6 +67,10 @@ Downloading again to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -74,14 +78,19 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -89,10 +98,6 @@ Re-download to check.
  Then move to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Manually install .NET framework 3.5
 
@@ -131,10 +136,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
@@ -164,21 +165,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-casino-contestant-commentary-for-2024/"><u>[New] CASINO CONTESTANT COMMENTARY for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-revolutionizing-home-broadcasts-with-advanced-webcams/"><u>[New] In 2024, Revolutionizing Home Broadcasts with Advanced WebCams</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-exploring-the-dynamics-of-profit-distribution-in-video-shorts/"><u>2024 Approved Exploring the Dynamics of Profit Distribution in Video Shorts</u></a></li>
-<li><a href="https://common-error.techidaily.com/banish-the-shadows-expert-tips-to-restore-your-game-after-monster-hunter-worlds-startup-screens-are-swallowed-by-darkness/"><u>Banish the Shadows: Expert Tips to Restore Your Game After Monster Hunter: World's Startup Screens Are Swallowed by Darkness</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-huawei-nova-y71-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Huawei Nova Y71?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/cinema-crafting-excellence-top-5-camera-skills-to-hone/"><u>Cinema Crafting Excellence Top 5 Camera Skills to Hone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210596431-dells-usb-port-problem-discover-proven-strategies-to-get-it-working-again/"><u>Dell's USB Port Problem? Discover Proven Strategies to Get It Working Again!</u></a></li>
-<li><a href="https://win-online.techidaily.com/effortless-data-backup-using-command-line-and-batch-scripting-with-aomei-backupper/"><u>Effortless Data Backup Using Command Line & Batch Scripting with AOMEI Backupper</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/financial-guidance-through-emojis-unpacking-the-impact-of-digital-symbols-on-economy/"><u>Financial Guidance Through Emojis: Unpacking the Impact of Digital Symbols on Economy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-how-to-stop-guardians-of-the-galaxy-from-freezing-on-your-computer/"><u>Guide: How to Stop Guardians of the Galaxy From Freezing on Your Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-process-abruptly-ended-error-code-1067-on-your-pc/"><u>How To Overcome 'The Process Abruptly Ended' Error Code 1067 on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-not-charging-problem-for-connected-gadgets-on-your-windows-computer-versions-7-10/"><u>How to Resolve Not Charging Problem for Connected Gadgets on Your Windows Computer (Versions 7, 10)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/meet-the-exceptional-aio-cooler-by-manufacturer-tryx-chinas-latest-with-stunning-curved-amoled-display-technology/"><u>Meet the Exceptional AIO Cooler by Manufacturer Tryx - China's Latest with Stunning Curved AMOLED Display Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-cache-miss-errors-errcachemiss-in-google-chrome-easily/"><u>Overcoming Cache Miss Errors (ERR_CACHE_MISS) in Google Chrome Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-issues-with-broken-function-keys-on-your-asus-portable-computer/"><u>Overcoming Issues with Broken Function Keys on Your ASUS Portable Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-nonfunctional-hp-laptop-camera-in-windows-11-tips-and-solutions/"><u>Solving the Problem of a Nonfunctional HP Laptop Camera in Windows 11 – Tips and Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-audigy-fx-sound-card-drivers-boost-your-audio-experience/"><u>[Free Download] AUDIGY FX Sound Card Drivers - Boost Your Audio Experience</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-cutting-edge-design-inspirations-for-distinctive-tiktok-presence/"><u>[New] In 2024, Cutting-Edge Design Inspirations for Distinctive TikTok Presence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-obs-timer-mastery-building-a-custom-countdown-timer-for-2024/"><u>[New] OBS Timer Mastery Building a Custom Countdown Timer for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-step-by-step-to-stunning-photomontages-for-2024/"><u>[New] Step-by-Step to Stunning Photomontages for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-rise-to-success-with-these-essential-15-fb-sales-insights/"><u>[Updated] Rise to Success with These Essential 15 FB Sales Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-strategies-for-perfect-screenshots-at-your-fingertips-for-2024/"><u>[Updated] Strategies for Perfect Screenshots at Your Fingertips for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amazon-prime-hits-twitters-trendiest-watchers-and-lovers-for-2024/"><u>Amazon Prime Hits Twitter's Trendiest Watchers & Lovers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-fixing-sign-in-error-caused-by-user-profile-service-issue-in-windows-11/"><u>Complete Guide: Fixing 'Sign In Error' Caused by User Profile Service Issue in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-your-dead-usb-peripherals-mouse-and-keyboard-on-windows-7-systems/"><u>Easy Fixes for Your Dead USB Peripherals: Mouse & Keyboard on Windows 7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-deal-with-msmpengexe-and-lower-your-pcs-cpu-load-in-windows-10-ultimate-guide/"><u>Expert Tips to Deal with MsMpEng.exe and Lower Your PC’s CPU Load in Windows 10 - Ultimate Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-silent-pc-correcting-audio-output-not-detected-errors-in-windows-1110/"><u>Fix Your Silent PC: Correcting 'Audio Output Not Detected' Errors in Windows 11/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-easily-correct-error-0x800f0831-by-implementing-windows-update-strategies/"><u>How to Easily Correct Error 0X800F0831 by Implementing Windows Update Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-effortlessly-reinitialize-your-keyboard-settings/"><u>How To Effortlessly Reinitialize Your Keyboard Settings</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on OnePlus</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-missing-or-unsuitable-printer-drivers-in-windows-systems/"><u>Resolving the Issue of Missing or Unsuitable Printer Drivers in Windows Systems</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/transferer-des-donnees-entre-deux-serveurs-nas-sans-probleme-techniques-simplifiees/"><u>Transférer Des Données Entre Deux Serveurs NAS Sans Problème: Techniques Simplifiées</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204187602-windows-10-typing-troubles-heres-how-to-eliminate-keyboard-delay/"><u>Windows 10 Typing Troubles? Here's How to Eliminate Keyboard Delay</u></a></li>
 </ul></div>
 

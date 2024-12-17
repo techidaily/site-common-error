@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Corrupted System Files in Windows 10 and 11 Operating Systems
-date: 2024-12-03T19:06:13.625Z
-updated: 2024-12-10T21:18:18.889Z
+date: 2024-12-15T22:21:52.080Z
+updated: 2024-12-16T23:04:39.171Z
 tags:
   - win11
   - win10
@@ -41,14 +41,14 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c45b02d97.png)
 3. Right-click on**WLAN AutoConfig** to select**Restart** . If the Restart option grayed out, click**Start** instead.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c4e8dc53f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. **Double-click** WLAN AutoConfig.
 5. Set the Startup type to**Automatic** . Then**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c6c3c4eb5.jpg)
 
  Reboot your Windows computer and the error should disappear. If you’re prompted the error again, there’re something else you can try…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Repair your registry
 
@@ -64,7 +64,7 @@ Here’s how you can do it:
 4. Go to**HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca74d28b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Right-click**Dhcp** under the Services section to select**Export** .  
@@ -72,7 +72,7 @@ Here’s how you can do it:
 6. **Double-click** DependOnService on the right pane of Dhcp. Select all the words**except “Afd”** , then**delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc0dde1d6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Right-click**Eaphost** under the Services section to select**Export** .  
@@ -83,7 +83,7 @@ Here’s how you can do it:
  Close the Registry Editor window and reboot your Windows computer. Check if the error disappears. If you still see the error, don’t give up hope. Simply move onto next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 3: Update your network adapter driver
@@ -106,7 +106,7 @@ You can update your network driver either manually or automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b891580f3aca.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You’re done. Feel free to comment below if you have any question.
@@ -129,20 +129,18 @@ You’re done. Feel free to comment below if you have any question.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-best-of-breed-pages-for-sparkling-3d-text-for-2024/"><u>[New] Best of Breed Pages for Sparkling 3D Text for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-the-end-scene-in-youtube-productions/"><u>[Updated] In 2024, Elevating the End Scene in YouTube Productions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-contrasting-streamers-realms-twitch-vs-youtube/"><u>2024 Approved Contrasting Streamers' Realms Twitch Vs YouTube</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-repair-how-to-reconnect-your-media-device-in-windows-efficiently/"><u>DIY Repair: How to Reconnect Your Media Device in Windows Efficiently</u></a></li>
-<li><a href="https://discover-help.techidaily.com/how-does-cloning-windows-11-benefit-users/"><u>How Does Cloning Windows 11 Benefit Users?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-screenshots-simple-tricks-for-toshiba-users/"><u>Mastering the Art of Screenshots: Simple Tricks for Toshiba Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-your-wow-connection-tips-to-overcome-lag-issues-easily/"><u>Optimizing Your WoW Connection: Tips to Overcome Lag Issues Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/say-goodbye-a-comprehensive-guide-on-fixing-recurring-usb-recognition-issues/"><u>Say Goodbye: A Comprehensive Guide on Fixing Recurring USB Recognition Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-when-your-steam-store-doesnt-open/"><u>Step-by-Step Troubleshooting: When Your Steam Store Doesn’t Open</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-addressing-the-issues-of-windows-10s-april-2019-update-failure/"><u>Successfully Addressing the Issues of Windows 10'S April 2019 Update Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-simple-fix-for-your-apex-legends-anti-cheat-alert/"><u>The Simple Fix for Your Apex Legends Anti-Cheat Alert</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/top-3-solutions-logicielles-pour-transfert-de-donnees-vers-et-depuis-hdd-ssd-cles-usb-and-cartes-memoire/"><u>Top 3 Solutions Logicielles Pour Transfert De Données Vers Et Depuis HDD, SSD, Clés USB & Cartes Mémoire</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transcribe-speaking-to-writing-free-of-charge/"><u>Transcribe Speaking to Writing Free of Charge</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/who-wins-in-originality-testing-3-different-chatbots-with-one-creative-task/"><u>Who Wins in Originality? Testing 3 Different Chatbots with One Creative Task</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-user-reports-curse-of-the-invisible-mouse-pointer-and-how-to-fix-it/"><u>Windows 11 User Reports: Curse of the Invisible Mouse Pointer and How to Fix It</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-snap-instantly-with-iphone-time-lapse-tips/"><u>2024 Approved Snap Instantly with iPhone Time Lapse Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cyber-solutions-coverage/"><u>Cyber Solutions Coverage</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-recurring-device-lock-up-a-users-manual/"><u>Diagnosing & Repairing Recurring Device Lock-Up: A User's Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-wacom-tablet-stops-responding/"><u>Effective Fixes for When Your Wacom Tablet Stops Responding</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-fixing-bluetooth-connection-problems-in-win-11/"><u>Essential Guide: Fixing Bluetooth Connection Problems in Win 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-problem-of-unsuccessful-casting-to-peripherals-in-windows-10-systems/"><u>Fix the Problem of Unsuccessful Casting to Peripherals in Windows 10 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/formulating-intriguing-podcast-openers/"><u>Formulating Intriguing Podcast Openers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-concept-to-reality-7-powerful-ways-chatgpt-processes-images/"><u>From Concept to Reality: 7 Powerful Ways ChatGPT Processes Images</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-no-signal-on-your-screen-a-comprehensive-guide/"><u>How To Resolve 'No Signal' On Your Screen: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipad-pro-comparison-navigating-features-of-latest-flagship-tablets-from-apple-a-buyers-decision-maker-guide-gadgetpundit/"><u>IPad Pro Comparison: Navigating Features of Latest Flagship Tablets From Apple - A Buyer's Decision-Maker Guide | GadgetPundit</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-compression-top-picks-for-windows-10-users/"><u>New Free Video Compression Top Picks for Windows 10 Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/share-a-world-view-iphone-360-film-techniques/"><u>Share a World View IPhone 360 Film Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-videos-to-life-best-text-animation-apps-for-phones/"><u>Updated Bring Your Videos to Life Best Text Animation Apps for Phones</u></a></li>
 </ul></div>
 

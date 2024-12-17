@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for a Malfunctioning Touchscreen in Your Windows 11 Device [5 Methods]
-date: 2024-08-15T11:11:53.286Z
-updated: 2024-08-16T11:11:53.286Z
+date: 2024-12-14T01:57:45.004Z
+updated: 2024-12-16T23:01:37.927Z
 tags:
   - win11
   - win10
@@ -41,9 +41,17 @@ To turning the touch screen off and back on, follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef247d6c4d3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Yes** to confirm this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef234bcbb1a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. Right-click on **HID-compliant touch screen** again then select**Enable** .
 
@@ -61,13 +69,18 @@ To turning the touch screen off and back on, follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef290945f3c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click**Driver** tab then click on**Roll Back Driver** . If you see button is grey out, it means that you can’t roll back the driver. Read on to try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef28c11007f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Solution 4: Update the touch screen driver**
 
  Touch screen not working maybe due to faulty driver. So you can try updating the driver. You can go to the manufacturer’s website to check for and download the latest driver.
@@ -83,20 +96,15 @@ To turning the touch screen off and back on, follow steps below:
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Solution 5: Reset Windows 10**
 
  The final solution you can try is reset the Windows. If you are not sure how to do a reset on Windows, see[How to Reset Windows 10](https://tools.techidaily.com/drivereasy/download/) .
@@ -109,8 +117,6 @@ To turning the touch screen off and back on, follow steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +124,24 @@ To turning the touch screen off and back on, follow steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-steps-to-identify-your-dream-livestream-platform/"><u>[New] In 2024, Steps to Identify Your Dream Livestream Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtubeeuson-pciphone/"><u>最新YouTubeアドバルーションについeuson: 消去プロセスの詳細解説・PC/iPhone/モバイルブラウザ対応</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/boosting-meeting-impact-with-simple-snap-camera-steps-for-2024/"><u>Boosting Meeting Impact with Simple Snap Camera Steps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cutting-edge-online-resources-for-glittering-3d-typography/"><u>Cutting-Edge Online Resources for Glittering 3D Typography</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-disclaimer-know-what-to-share-what-not-to-on-social/"><u>Digital Disclaimer: Know What to Share, What Not to on Social</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-repair-a-broken-huion-pen-with-these-fast-and-easy-techniques/"><u>Expert Advice: Repair a Broken Huion Pen with These Fast and Easy Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-poco-c50-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Poco C50 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/learn-the-quick-trick-project-your-devices-screen-onto-an-lg-smart-tv/"><u>Learn the Quick Trick: Project Your Device's Screen Onto an LG Smart TV</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-steam-issues-a-deep-dive-into-fixing-error-code-80/"><u>Mastering Steam Issues: A Deep Dive Into Fixing Error Code 80</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-virtual-realm-key-strategies-for-shooting-360-video-top-9-rules-for-2024/"><u>Navigating the Virtual Realm Key Strategies for Shooting 360° Video (Top 9 Rules) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/pdm-modulates-by-changing-the-density-of-pulses-representing-signal-changes/"><u>PDM Modulates by Changing the Density of Pulses, Representing Signal Changes.</u></a></li>
+<li><a href="https://common-error.techidaily.com/pubg-construction-glitch-resolved-ensure-smooth-gameplay-with-these-tips/"><u>PUBG Construction Glitch Resolved – Ensure Smooth Gameplay with These Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/tracking-down-msvcr71-missing-issue/"><u>Tracking Down MSVCR71 Missing Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-keys-that-wont-budge-solutions-inside/"><u>Troubleshooting Windows Keys That Won't Budge – Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-windows-source-loading-problems-in-multimedia-applications/"><u>Understanding and Fixing Windows Source Loading Problems in Multimedia Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-restarting-saga-ends-here-your-ultimate-guide-to-fix-auto-repair-loop/"><u>Windows 10 Restarting Saga Ends Here: Your Ultimate Guide to Fix Auto Repair Loop</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Fix for Explorer Crash
-date: 2024-12-08T17:45:58.604Z
-updated: 2024-12-10T19:53:54.344Z
+date: 2024-12-09T22:22:21.155Z
+updated: 2024-12-16T17:55:12.626Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 3. **[Run the power troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your battery driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update your BIOS](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your battery
 
@@ -46,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your battery in Device Manager
 
  You might also have this problem because your battery is disabled in Device Manager. So you should run Device Manager to check your battery status. Here is how:
@@ -58,12 +62,16 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Double-click**Batteries,** and then check if your battery is disabled.
@@ -99,16 +107,12 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-53.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the process to be complete. If your computer fails to fix your problem, check **[fix 4](https://tools.techidaily.com/drivereasy/download/)**  to see if it can help.  
 
@@ -122,11 +126,11 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-11.jpg)
 
- Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
 
 ### Fix 4: Update your battery driver
 
@@ -142,17 +146,9 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-06-57-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update button** next to the battery driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -165,6 +161,10 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 **1)**  On your keyboard, press the **Windows logo** key and **R** at the same time to open the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Type **msinfo32** and click **OK** .
 
@@ -204,24 +204,19 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-the-dynamics-of-instagram-highlight-categories/"><u>[New] 2024 Approved Navigating the Dynamics of Instagram Highlight Categories</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-secrets-unveiled-amplifying-profile-visibility/"><u>[New] Secrets Unveiled Amplifying Profile Visibility</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-rethinking-streaming-new-platforms-challenge-obs/"><u>[Updated] Rethinking Streaming New Platforms Challenge OBS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-prime-device-editors-for-app-development/"><u>2024 Approved Prime Device Editors for App Development</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/challenging-the-titans-loongsons-new-16-core-cpu-rivals-intel-ice-lake-and-xeon-silver-performance/"><u>Challenging the Titans: Loongson's New 16-Core CPU Rivals Intel Ice Lake and Xeon Silver Performance</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-tutorial-on-repairing-damaged-jpegs-top-rated-tools-and-simple-steps-for-flawless-results/"><u>Complete Tutorial on Repairing Damaged JPEGs - Top-Rated Tools and Simple Steps for Flawless Results</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-windows-11s-disappearing-bluetooth-feature-get-started-now/"><u>Easy Fixes for Windows 11'S Disappearing Bluetooth Feature – Get Started Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-diagnosing-and-fixing-non-functional-corsair-keyboard-problems/"><u>Expert Advice on Diagnosing and Fixing Non-Functional Corsair Keyboard Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-on-overcoming-service-interruption-in-hamachi-software/"><u>Expert Tips on Overcoming ‘Service Interruption’ in Hamachi Software</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expertly-chosen-fastest-internet-portals-of-2024/"><u>Expertly Chosen Fastest Internet Portals of 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-illuminated-imagery-standing-out-in-the-visual-field/"><u>In 2024, Illuminated Imagery Standing Out in the Visual Field</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-audio-output-device-not-detected-errors-on-windows/"><u>Quick Fixes for Audio Output Device Not Detected Errors on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-fixing-a-non-responsive-laptop-trackpad-on-windows-10-8-and-7/"><u>Solved: Fixing a Non-Responsive Laptop Trackpad on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/stuck-on-startup-top-methods-for-unlocking-your-device/"><u>Stuck On Startup? Top Methods for Unlocking Your Device</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-complete-hands-free-navigation-manual-for-2024/"><u>The Complete Hands-Free Navigation Manual for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-5-ps2-emulation-apps-for-android-devices/"><u>Top 5 PS2 Emulation Apps for Android Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-for-managing-high-gpu-consumption-by-the-desktop-window-manager-on-windows-11/"><u>Top 5 Solutions for Managing High GPU Consumption by the Desktop Window Manager on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-0x80240034-glitch-in-windows-11-updates-effective-strategies-for-success/"><u>Troubleshooting the 0X80240034 Glitch in Windows 11 Updates – Effective Strategies for Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-loading-lag-solved-steps-to-fix-boot-time-crashes-and-freezes/"><u>Windows 11 Loading Lag Solved: Steps to Fix Boot Time Crashes and Freezes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube/"><u>[New] 2024 Approved Amplify Your Video Content with Precision Insights From Social Blade & YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-20plus-hashes-to-skyrocket-your-short-films-popularity-for-2024/"><u>[Updated] 20+ Hashes to Skyrocket Your Short Film's Popularity for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-from-raw-footage-to-cinematic-success-in-your-youtube-channel/"><u>[Updated] From Raw Footage to Cinematic Success in Your YouTube Channel</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-optimized-video-scale-to-mac-aspect-proportion-for-2024/"><u>[Updated] Optimized Video Scale to Mac Aspect Proportion for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-non-running-diagnostic-services/"><u>Effective Solutions for Non-Running Diagnostic Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-power-management-on-win-11/"><u>Efficient Power Management on Win 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-mend-a-broken-logitech-mouse-scroll-wheel/"><u>How To Correctly Address and Mend a Broken Logitech Mouse Scroll Wheel</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-12-mini-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 12 mini</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-6-plus-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 6 Plus?</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-shortcuts-how-to-restore-functionality-for-shiftpluswindowspluss-in-w10w11/"><u>Mastering Windows Shortcuts: How to Restore Functionality for Shift+Windows+S in W10/W11</u></a></li>
+<li><a href="https://common-error.techidaily.com/personalized-treatment-plans-based-on-genomic-profiling-are-becoming-the-standard-in-lung-cancer-care/"><u>Personalized Treatment Plans Based on Genomic Profiling Are Becoming the Standard in Lung Cancer Care</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-transition-expert-strategies-for-moving-to-your-newest-iphone-insights/"><u>Seamless Transition: Expert Strategies for Moving to Your Newest iPhone - Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-best-metaverse-visual-tech-for-2024/"><u>The Ultimate List of Best Metaverse Visual Tech for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-touchpad-scrolling-functionality/"><u>Troubleshooting Tips: Restoring Touchpad Scrolling Functionality</u></a></li>
 </ul></div>
 

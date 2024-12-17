@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting a Non-Responsive Laptop Trackpad: A Comprehensive Guide"
-date: 2024-11-27T23:43:52.506Z
-updated: 2024-12-04T02:23:45.211Z
+date: 2024-12-14T21:47:09.104Z
+updated: 2024-12-16T17:33:03.109Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ If you’d like to know why you can’t browse the Internet due to the **‘DNS 
 **Note:** The screens shown below are from Windows 10, but all the methods also apply to Windows 11/8/7.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 1: Correct your DNS server address
@@ -64,6 +64,10 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1286df40874.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Right-click on **Local Area Connection**, **Ethernet** or **Wi-Fi** according to your Windows. Then click **Properties**.|  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128e6af137d.png)
@@ -72,16 +76,12 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128fa0c7dc8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12900623628.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8) Click **Internet Protocol Version 6(TCP/IPv6)**, then **Properties**.  
@@ -91,10 +91,6 @@ The DNS server not responding error could be probably caused by an **incorrect D
 9) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12905d90a85.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart your computer and try to access the website you want to go to again and see if it succeeds.
 
@@ -107,6 +103,10 @@ There may be problems with your DNS server if its cache is getting full. To see 
 1) Type **cmd** in the search box from the Start menu. Then right-click on **Command Prompt** to select **Run as administrator**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1298fb8c2d7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** Click **Yes** when prompted by the User Account Control.
 
@@ -121,6 +121,10 @@ There may be problems with your DNS server if its cache is getting full. To see 
  **ipconfig /renew**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a129aa3217b1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then restart your computer and try to access the website you want to visit again and see if it succeeds.
 
@@ -140,7 +144,7 @@ You can update your drivers automatically with either the **FREE** or the **Pro*
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).  
@@ -148,16 +152,12 @@ You can update your drivers automatically with either the **FREE** or the **Pro*
 **Note**: You can do it for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After updating your network adapter driver, please restart your computer. Try to access the website you want to go to again and see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 4: Restart your modem and router
 
@@ -200,21 +200,19 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-innovative-video-enhancement-using-vce-22/"><u>[New] 2024 Approved Innovative Video Enhancement Using VCE 2.2</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-customize-your-youtube-watch-experience-speed-settings/"><u>[Updated] Customize Your YouTube Watch Experience (Speed Settings)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-effective-visual-branding-crafting-compelling-youtube-logos-for-2024/"><u>[Updated] Effective Visual Branding Crafting Compelling YouTube Logos for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-perfecting-instagram-stories-adding-and-sharing-custom-emojis/"><u>[Updated] In 2024, Perfecting Instagram Stories Adding & Sharing Custom Emojis</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-beginners-bible-to-your-youtube-audio-visual-arsenal/"><u>2024 Approved Beginner's Bible to Your YouTube Audio-Visual Arsenal</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/action-seekers-dream-the-ultimate-review-of-sj-cam-s6/"><u>Action Seeker's Dream The Ultimate Review of SJ-CAM S6</u></a></li>
-<li><a href="https://network-issues.techidaily.com/apex-hack-proofing-guide-instant-troubleshooting/"><u>Apex Hack-Proofing Guide: Instant Troubleshooting</u></a></li>
-<li><a href="https://common-error.techidaily.com/code-blocked-operation-on-hold/"><u>Code Blocked: Operation on Hold</u></a></li>
-<li><a href="https://common-error.techidaily.com/cursor-that-wont-quit-learn-how-to-make-it-stop-blinking/"><u>Cursor that Won't Quit? Learn How to Make It Stop Blinking</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-bluetooth-troubles-visible-now-in-device-manager/"><u>Fix Your Bluetooth Troubles: Visible Now in Device Manager</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-redmi-12-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi Redmi 12 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/nvidia-web-helper-no-disk-issue-comprehensive-solutions-and-fixes/"><u>Nvidia Web Helper 'No Disk' Issue: Comprehensive Solutions and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-graphic-glitches-in-valorant-a-step-by-step-fix-for-screen-anomalies/"><u>Overcome Graphic Glitches in VALORANT - A Step-by-Step Fix for Screen Anomalies</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-no-application-attached-to-files-error/"><u>Overcoming Windows: No Application Attached to Files Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-failed-creation-of-a-d3d-vertex-shader-context/"><u>Resolving Failed Creation of a D3D Vertex Shader Context</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-10s-persistent-problem-unsuccessful-shutdown-followed-by-unexpected-reboot/"><u>Resolving Windows 10'S Persistent Problem: Unsuccessful Shutdown, Followed by Unexpected Reboot</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-end-screen-elegance-free-guides-to-upgrade-your-videos/"><u>[New] End-Screen Elegance - Free Guides to Upgrade Your Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transform-your-clips-step-by-step-youtube-end-screen-tutorials/"><u>[New] Transform Your Clips Step-by-Step YouTube End Screen Tutorials</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cultivate-creativity-best-video-concepts-for-viewers-for-2024/"><u>[Updated] Cultivate Creativity Best Video Concepts for Viewers for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-of-sunfounders-pironman-n-model-5-with-noteworthy-assembling-steps/"><u>A Comprehensive Review of SunFounder's Pironman N Model 5 with Noteworthy Assembling Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/activating-or-deactivating-the-virtual-keyboard-in-windows-11-a-step-by-step-tutorial/"><u>Activating or Deactivating the Virtual Keyboard in Windows 11: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/coding-pathway-obstructed/"><u>Coding Pathway Obstructed</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-addressing-encryption-problems-in-mozilla-firefox/"><u>Comprehensive Solutions for Addressing Encryption Problems in Mozilla Firefox</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-resolve-windows-10s-repeated-restart-issue-quickly/"><u>Effective Strategies to Resolve Windows 10'S Repeated Restart Issue Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209973318-error-80240020-on-your-pc-heres-how-to-successfully-install-windows-10/"><u>Error 80240020 on Your PC? Here's How to Successfully Install Windows 10!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-implemented-for-geforce-experiences-inability-to-load-settings-correctly/"><u>Fix Implemented for GeForce Experience's Inability to Load Settings Correctly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-multiplayer-malfunctions-in-elden-ring-with-these-tips/"><u>Overcome Multiplayer Malfunctions in Elden Ring with These Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-11-start-menu-errors-and-restore-full-functionality-solved/"><u>Overcome Windows 11 Start Menu Errors and Restore Full Functionality [SOLVED]</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/supercharge-your-sound-expert-strategies-for-raising-speaker-output-in-windows-10/"><u>Supercharge Your Sound: Expert Strategies for Raising Speaker Output in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-overcoming-copy-and-paste-hurdles/"><u>Windows 10: Overcoming Copy & Paste Hurdles</u></a></li>
 </ul></div>
 

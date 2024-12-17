@@ -1,7 +1,7 @@
 ---
 title: "Brightening Difficulty: Windows Update Issue"
-date: 2024-08-22T19:22:55.217Z
-updated: 2024-08-23T19:22:55.217Z
+date: 2024-12-15T01:13:25.988Z
+updated: 2024-12-16T22:59:36.184Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8
 
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Windows Update Troubleshooter
 
  Windows Update Troubleshooter is a helpful tool built in Windows system, and you can use it to scan and fix the Windows Update error 0x80240017.
@@ -41,6 +45,11 @@ Here’s what you can do:
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
@@ -70,6 +79,10 @@ If the Windows Update error persists, move on to the second method.
 
  If your issue still persists, don’t worry, There is something else to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Repair corrupted system files
 
  Missing or corrupted system files can also trigger the Windows Update error 0x80240017\. To detect and fix them, you may need to perform an in-depth PC scan.
@@ -82,23 +95,15 @@ If the Windows Update error persists, move on to the second method.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
 #### Option 2 – Manually
 
  System File Checker (SFC) is a Windows built-in tool to identify and repair corrupted system files. But note that checking and restoring system files in this way might take some time and computer skills, and you may risk your personal data.
@@ -106,21 +111,16 @@ No advertising on the website.
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Type the following command and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update available drivers
 
  To ensure your computer operates without problems, you should keep your devices drivers up to date. And here are two ways for you to update drivers:**manually** and**automatically** .
@@ -137,6 +137,11 @@ sfc /scannow
 2. Run Driver Easy and click**Scan Now** . Then Driver Easy will scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
@@ -154,8 +159,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +166,26 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-culinary-cinema-mastery-the-7-pathways-to-delectable-vids/"><u>[New] 2024 Approved Culinary Cinema Mastery - The 7 Pathways to Delectable Vids</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-elevate-your-instagram-game-with-tailored-video-cropping-for-2024/"><u>[New] Elevate Your Instagram Game with Tailored Video Cropping for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-enrich-your-brain-with-these-15-ultimate-science-youtubes/"><u>[New] In 2024, Enrich Your Brain with These 15 Ultimate Science Youtubes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-whats-different-about-vegaspro-since-its-launch/"><u>[New] In 2024, What's Different About VegasPro Since Its Launch?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-broadcast-tools-battle-wirecast-versus-obs-in-detail/"><u>2024 Approved Broadcast Tools Battle Wirecast versus OBS in Detail</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unlocking-youtubes-potential-for-visual-storytelling/"><u>2024 Approved Unlocking YouTube's Potential for Visual Storytelling</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-hearthstone-lag-effective-quick-fix-tips-and-tricks/"><u>Beat Hearthstone Lag: Effective Quick-Fix Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quiet-down-a-noisy-ps4-gaming-console/"><u>How to Quiet Down a Noisy PS4 Gaming Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-10-microphone-issues-and-get-audio-working-again/"><u>How to Resolve Windows 10 Microphone Issues and Get Audio Working Again</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-t2-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo T2 Pro 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-exclusive-guide-to-the-leading-top-10-fb-videos-downloader-for-android/"><u>In 2024, Exclusive Guide to the Leading Top 10 FB Videos Downloader for Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-leading-edge-in-mobile-chats-discover-the-top-1-cookie-haven-by-lilys-bakery/"><u>In 2024, Leading Edge in Mobile Chats Discover the Top 1 Cookie Haven by Lily's Bakery</u></a></li>
+<li><a href="https://common-error.techidaily.com/keep-it-concise-and-descriptive-aim-for-a-title-length-of-50-60-characters-make-sure-the-title-accurately-represents-the-content-without-being-too-long-or-c35/"><u>Keep It Concise and Descriptive: Aim for a Title Length of 50-60 Characters. Make Sure the Title Accurately Represents the Content without Being Too Long or Complex, as Google Will Truncate Titles Beyond This Limit.</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-re-establishing-link-between-computer-and-external-devices-in-windows-os/"><u>Quick Fixes: Re-Establishing Link Between Computer and External Devices in Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-disconnected-external-drives-on-a-windows-operating-system/"><u>Troubleshooting Disconnected External Drives on a Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-common-windows-update-configuration-errors/"><u>Troubleshooting Tips: Overcoming Common Windows Update Configuration Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-fixing-the-quick-scroll-jump-in-file-explorer/"><u>Troubleshooting Windows 11: Fixing the Quick Scroll Jump in File Explorer</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-unresponsive-alphabetic-characters-in-windows-11s-keyboard-layout/"><u>Ultimate Guide: Fixing Unresponsive Alphabetic Characters in Windows 11'S Keyboard Layout</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-display-quality-meets-exclusive-deal-top-performing-ultraportable-notebook-in-clearance/"><u>Unbeatable Display Quality Meets Exclusive Deal: Top-Performing Ultraportable Notebook in Clearance!</u></a></li>
+</ul></div>
 

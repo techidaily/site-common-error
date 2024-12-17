@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Rejuvenating Your Keyboard Settings with a Full Reboot
-date: 2024-08-15T11:13:12.392Z
-updated: 2024-08-16T11:13:12.392Z
+date: 2024-12-11T01:02:45.337Z
+updated: 2024-12-17T01:52:28.458Z
 tags:
   - win11
   - win10
@@ -39,8 +39,18 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 4. Click the red cross button to uninstall the device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/x.jpg)
 5. Click Scan for hardware changes button. It will let the device appear.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/search-6.jpg)
 6. Select the same keyboard device again. Click the Update device driver button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-4.jpg)
 7. Allow the newest drivers to install.
 8. Restart your computer.
@@ -53,15 +63,21 @@ Your keyboard should back to the default setting after reboot.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device-1.jpg)
 3. Click**Typing** in the left pane and click**Advanced keyboard settings** on the right.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/type.jpg)
 4. Click the drop-down button to select the language you want.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/language.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you’ve reset your keyboard language.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## For Mac Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -75,15 +91,13 @@ Now you’ve reset your keyboard language.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Keyboard** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Modifier Keys** in the bottom right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/modi.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 4. Click**Restore Defaults** and then click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your keyboard should be back in the default settings.
 
@@ -91,20 +105,11 @@ Your keyboard should be back in the default settings.
 
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 2. Click**Language and Region** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 3. Select the language you want.
 4. Wait for the computer to reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Hard Reset
 
  If you’re experiencing unexpectable behavior like one functional key is not working or keyboard lighting issues, after trying a soft reset on your computer, you may want to try a hard reset.
@@ -129,8 +134,6 @@ Your keyboard should be reset successfully.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +141,16 @@ Your keyboard should be reset successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/enhance-gameplay-the-ultimate-guide-to-using-steams-switch-controller-for-2024/"><u>Enhance Gameplay The Ultimate Guide to Using Steam's Switch Controller for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203791386-fix-and-troubleshoot-unresponsive-touchpad-scrolling-issues-resolved/"><u>Fix & Troubleshoot: Unresponsive Touchpad Scrolling Issues Resolved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-windows-10-update-issue-a-comprehensive-guide-to-resolving-error-code-0x800705b4/"><u>Fixing the Windows 10 Update Issue: A Comprehensive Guide to Resolving Error Code 0X800705b4</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/revolutionize-your-music-library-with-these-7-strategies-for-moving-tunes-from-one-iphone-to-another/"><u>Revolutionize Your Music Library with These 7 Strategies for Moving Tunes From One iPhone to Another</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-intermittent-power-cycles-on-your-pc-solutions-found/"><u>Troubleshooting Intermittent Power Cycles on Your PC: Solutions Found</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-againnst-problematic-windows-patch-installations/"><u>Winning the Battle Againnst Problematic Windows Patch Installations</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solution Snapshot: Eliminate the 'Has Stopped Working' Warning for 32Bit Print Drivers"
-date: 2024-08-22T19:21:33.871Z
-updated: 2024-08-23T19:21:33.871Z
+date: 2024-12-12T16:15:02.731Z
+updated: 2024-12-17T00:02:25.568Z
 tags:
   - win11
   - win10
@@ -44,13 +44,25 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a75563e4f956.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on your game .exe file and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7556d9700b6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Tick on **Disable fullscreen optimizations**  under the **Compatibility**  pane. Then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7557a69aaf6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Relaunch your game application to see if it works.
 
@@ -70,11 +82,19 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755a27bdf2b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged graphics card driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755f4db1724.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer to make the new driver take effect, and relaunch your game to see if it works now.
 
@@ -86,8 +106,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,9 +113,18 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-quick-youtube-snippets-explained-simply/"><u>[Updated] 2024 Approved Quick YouTube Snippets Explained Simply</u></a></li>
+<li><a href="https://common-error.techidaily.com/cracking-the-code-of-the-red-screen-mystery-essential-repair-tips/"><u>Cracking the Code of the Red Screen Mystery: Essential Repair Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-initialization-error-troubleshooting-network-connection-issues/"><u>Dragon Ball FighterZ Initialization Error: Troubleshooting Network Connection Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sm-bus-controller-driver-for-various-windows-versions/"><u>Get the Latest SM Bus Controller Driver for Various Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-windows-store-cache-top-methods-explored/"><u>How to Repair a Broken Windows Store Cache – Top Methods Explored</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-essential-7-dslrs-to-elevate-virtual-presentations-and-broadcasts/"><u>In 2024, Essential 7 DSLRs to Elevate Virtual Presentations & Broadcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photo-and-video-edits-made-easy-select-the-best-8-apps-for-android-ios-for-2024/"><u>Photo & Video Edits Made Easy Select the Best 8 Apps for Android, iOS for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-and-simple-guide-mastering-the-ultimate-fresh-windows-10-installation/"><u>Quick & Simple Guide: Mastering the Ultimate Fresh Windows 10 Installation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/sweet-scene-capture-masterclass-in-freeze-dried-filmmaking-for-2024/"><u>Sweet Scene Capture Masterclass in Freeze-Dried Filmmaking for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-your-wacom-discover-proven-fixes-for-wacom-tablet-connectivity-issues/"><u>Trouble with Your Wacom? Discover Proven Fixes for Wacom Tablet Connectivity Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-lower-thirds-mastery-tips-and-tricks-for-fcpx-users/"><u>Updated In 2024, Lower Thirds Mastery Tips and Tricks for FCPX Users</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->

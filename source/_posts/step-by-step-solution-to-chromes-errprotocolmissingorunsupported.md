@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Chrome's 'ERR_PROTOCOL_MISSING_OR_UNSUPPORTED'
-date: 2024-11-30T17:29:53.498Z
-updated: 2024-12-04T06:39:07.105Z
+date: 2024-12-10T01:40:08.927Z
+updated: 2024-12-16T20:00:58.388Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ But don’t worry. We’ll help you fix your problem.
 
 In addition, make sure the connection ports are working correctly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Change the display settings
 
  As you may know, “**Input Not Supported** ” by your monitor because of the improper screen resolution, so you can change the screen resolution and refresh rate to fix the problem.
@@ -62,23 +66,24 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946559c00e.jpg)
 3. If you see a popup to confirm the change, click Keep changes to confirm.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94693c702d.jpg)
 4. Then click**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946c1e8119.jpg)
 5. Under the monitor name that is having the Input Not Supported error, click**Display adapter properties for Display** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9472de63ac.jpg)
 6. In the popup pane, click the**Monitor** tab. In the**Screen refresh rate** , choose the**recommended** or**default** **rate** in the drop down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94769aa3f3.jpg)
 7. Save the changes and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you’re using Windows 8 and Windows 7:
 
@@ -86,15 +91,11 @@ If you’re using Windows 8 and Windows 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f17a6508.jpg)
 2. If you have multiple displays, select the display that is having the error. Then choose the**recommended resolution** , and click**Apply** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f74c12c9.jpg)  
  If your current screen resolution is not proper, you’ll see a notification like this:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fc52735d.jpg)
@@ -103,14 +104,18 @@ If you’re using Windows 8 and Windows 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fec42db3.jpg)
 4. Click the**Monitor** tab, then choose the**recommended or default refresh rate setting** in the**Screen refresh rate** section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd945d0dd649.jpg)
 5. Save the changes and restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You should fix the error and boot your computer as normal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your monitor driver and graphics card driver
 
@@ -132,10 +137,6 @@ You should fix the error and boot your computer as normal.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9478ba7d6a.jpg)
 3. Click the**Update** button next to the flagged monitor and graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd947aa82f4c.jpg)
@@ -161,22 +162,19 @@ You should fix the error and boot your computer as normal.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-livecam-rivals-meet/"><u>[New] 2024 Approved LiveCam Rivals Meet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-syncing-sonata-to-still-images-in-the-cyberrealm/"><u>[Updated] Syncing Sonata to Still Images in the Cyberrealm</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-minimization-32-top-rated-apps-to-tidy-up-videos-on-android/"><u>2024 Approved Mastering Minimization 32 Top-Rated Apps to Tidy Up Videos on Android</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-creative-potentials-youtube-trailers-with-filmora/"><u>2024 Approved Unlock Creative Potentials YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://fox-http.techidaily.com/free-logo-blueprint-tailor-and-share-your-brand-identity-for-2024/"><u>Free Logo Blueprint Tailor and Share Your Brand Identity for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/green-grief-in-nba-2k21-no-more-expert-advice-on-removing-the-bug/"><u>Green Grief in NBA 2K21 No More: Expert Advice on Removing the Bug!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-the-youtube-audio-processor-failure-on-your-windows-10-device/"><u>How to Correct the Youtube Audio Processor Failure on Your Windows 10 Device</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-enable-screen-mirroring-on-your-iphone-xs-series-complete-tutorial/"><u>How to Enable Screen Mirroring on Your iPhone XS Series – Complete Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-oculus-hardware-error-2024/"><u>How to Fix Oculus Hardware Error – 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimize-your-pc-reducing-high-resource-usage-of-microsoft-compatibility-telemetry-on-windows-11/"><u>Optimize Your PC: Reducing High Resource Usage of Microsoft Compatibility Telemetry on Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-startup-errors-how-to-get-your-computer-running-smoothly-again/"><u>Resolving 'Startup Errors': How to Get Your Computer Running Smoothly Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-print-screen-not-working-errors-in-modern-windows-operating-systems/"><u>Solving Print Screen Not Working Errors in Modern Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-how-to-fix-your-valorant-games-screen-tearing-problem/"><u>Step-by-Step Guide: How To Fix Your Valorant Game's Screen Tearing Problem</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/step-by-step-initiating-instagram-live-shows-for-2024/"><u>Step-by-Step Initiating Instagram Live Shows for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-lenovos-wireless-connectivity-problems-driver-solutions-unveiled/"><u>Troubleshooting Lenovo's Wireless Connectivity Problems: Driver Solutions Unveiled</u></a></li>
-<li><a href="https://win-tips.techidaily.com/windows-11-dysfonctionne-frequemment-6-astuces-rapides-pour-resoudre-le-probleme/"><u>Windows 11 Dysfonctionne Fréquemment: 6 Astuces Rapides Pour Résoudre Le Problème</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-engaging-viewers-with-unique-square-videography-techniques-for-2024/"><u>[New] Engaging Viewers with Unique Square Videography Techniques for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-ergonomic-excellence-and-office-dynamics-for-peak-performance/"><u>[New] In 2024, Ergonomic Excellence and Office Dynamics for Peak Performance</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-decoding-facebooks-automatic-video-advancements-for-2024/"><u>[Updated] Decoding Facebook's Automatic Video Advancements for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pros-and-cons-of-vsdc-the-ultimate-guide-for-2024/"><u>[Updated] Pros & Cons of VSDC The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-s23plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel S23+ to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-stepwise-approach-effortlessly-incorporate-subtitlescc-into-your-youtube-content/"><u>In 2024, Stepwise Approach Effortlessly Incorporate Subtitles/CC Into Your YouTube Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-your-pc-fixing-the-wudfhostexe-cpu-usage-surge-in-windows-nx/"><u>Optimize Your PC: Fixing the WUDFHost.exe CPU Usage Surge in Windows nX</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-lack-of-audio-on-your-netflix-stream/"><u>Quick Solutions: Resolving Lack of Audio on Your Netflix Stream</u></a></li>
+<li><a href="https://common-error.techidaily.com/revamp-xbox-one-controller-functionality-in-pc-realm/"><u>Revamp Xbox One Controller Functionality in PC Realm</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revitalizing-corporate-efficiency-top-5-companies-embracing-the-transformative-power-of-the-apple-vision-pro/"><u>Revitalizing Corporate Efficiency: Top 5 Companies Embracing the Transformative Power of the Apple Vision Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-msvcr71dll-absence-issue/"><u>Solving MSVCR71.dll Absence Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-fixing-error-0x8024402c-on-windows/"><u>Step-by-Step Troubleshooting for Fixing Error 0X8024402c on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-fixing-the-hamachi-service-has-stopped-problem/"><u>Troubleshooting Steps: Fixing the 'Hamachi Service Has Stopped' Problem</u></a></li>
 </ul></div>
 

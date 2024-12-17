@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot & Replace: Resolving the d3dx9_43.dll Error in Windows Easily"
-date: 2024-08-22T19:18:50.704Z
-updated: 2024-08-23T19:18:50.704Z
+date: 2024-12-14T18:38:02.837Z
+updated: 2024-12-16T22:41:43.616Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9098f95479.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Fix the 0x80070643 error on Windows Update
 
  Here are fixes that you should try when you see an 0x80070643 error in Windows Update.
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 **ii.** Click on the latest version of .NET Framework.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d75d07929.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iii.** Click on**Download** .
 
@@ -69,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8dc2dcc5a2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** In Command Prompt, type “_**sfc /scannow**_ ” and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8de0f758fc.png)
@@ -90,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 **ii.** In the System window, check the System type entry to see if your operating system is**32-bit (x86-based)** or**64-bit (x64-based)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8fa2a4f246.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iii.** Open Windows Update and check the updates you have failed to install. Copy down the codes of these updates (the codes starting with “**KB** “).
 
@@ -126,6 +142,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
  Your antivirus software may be conflicting with the programs or Windows Update on your computer and bring about the 0x80070643 error. You can try disabling your antivirus software to see if this solves your problem. Disable all the functions of your antivirus software and then check Windows Update to see if it can update your system normally.
 
  _Hopefully one of the fixes above resolved your Windows Update issue. But if not, you may need to try [**the fixes in this post**](https://tools.techidaily.com/drivereasy/download/) ._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2) Fix the 0x80070643 error during a program installation
 
@@ -171,6 +191,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d75d07929.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iv.** Click **Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d8364e9e9.jpg)
@@ -178,6 +202,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 **v.** Open the downloaded file and follow the on-screen instructions to install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d990c1845.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **vi.** Try installing the program again and see if the error is gone.
 
@@ -190,8 +218,6 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,8 +225,22 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-tips-and-tricks-to-elevate-your-youtube-production-through-subtitle-integration/"><u>[New] Tips and Tricks to Elevate Your YouTube Production Through Subtitle Integration</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-beginning-your-instagram-live-journey/"><u>[Updated] Beginning Your Instagram Live Journey</u></a></li>
+<li><a href="https://common-error.techidaily.com/abrupt-shutdown-devices-in-crisis/"><u>Abrupt Shutdown: Devices in Crisis</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/eveo-wireless-receiver-fresh-driver-installation-guide-and-links/"><u>Eveo Wireless Receiver: Fresh Driver Installation Guide and Links</u></a></li>
+<li><a href="https://fox-links.techidaily.com/exquisite-solution-for-vr-adventures-for-2024/"><u>Exquisite Solution for VR Adventures for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-a-non-responsive-huion-pen-in-minutes-with-these-effective-strategies/"><u>Fix a Non-Responsive Huion Pen in Minutes with These Effective Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/flawless-installation-effectively-pinning-windows-11-desktop-icons/"><u>Flawless Installation: Effectively Pinning Windows 11 Desktop Icons</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-xiaomi-redmi-note-12-pro-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Xiaomi Redmi Note 12 Pro 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-typing-troubles-diagnosing-and-repairing-a-defective-backspace-key/"><u>Solving Typing Troubles: Diagnosing and Repairing a Defective Backspace Key</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-procedure-to-counteract-the-livekernelevent-144-fault/"><u>Step-by-Step Procedure to Counteract the LiveKernelEvent 144 Fault</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-steps-activating-bluetooth-on-your-pc-with-windows-11-or-10/"><u>Successful Steps: Activating Bluetooth on Your PC with Windows 11 or 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-10-best-webcam-covers-and-stickers/"><u>Top 10 Best Webcam Covers & Stickers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-fn-key-problems-in-dell-notebook-computers/"><u>Troubleshoot and Repair FN Key Problems in Dell Notebook Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-damaged-windows-os-files-in-version-10-and-11/"><u>Ultimate Guide: Repairing Damaged Windows OS Files in Version 10 & 11</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

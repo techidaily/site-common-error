@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Device Detection Issues in Windows 11'S Bluetooth Feature"
-date: 2024-08-22T19:19:24.827Z
-updated: 2024-08-23T19:19:24.827Z
+date: 2024-12-10T00:40:31.498Z
+updated: 2024-12-16T19:09:44.357Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f
 2. **[Run the Bluetooth troubleshooter](#b)**
 3. **[Set the Bluetooth support service to automatic](#c)**
 4. **[Update your Bluetooth driver](#d)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Remove all Bluetooth devices
 
@@ -50,11 +54,12 @@ thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-13-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your problem persists, then move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run the Bluetooth troubleshooter
 
  Another quick fix to this problem is running the Bluetooth troubleshooter. The Bluetooth troubleshooter is a Windows built-in utility that can detect and fix common Bluetooth issues automatically.
@@ -63,17 +68,26 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-35-46-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Select**Bluetooth** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-48-23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Wait for this process to be complete. Then, try pairing your Bluetooth devices to your PC again.
 
  If your Bluetooth still won’t discover devices, then read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Set the Bluetooth support service
 
  You’re likely to encounter the Bluetooth not detecting devices error if the Bluetooth service isn’t running properly on your PC. To see if that’s the core issue, follow the instructions below:
@@ -82,23 +96,18 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Type**services.msc** , then hit the**Enter key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Right-click**Bluetooth Support Service** . If the service is running, click**Restart** ; if the service isn’t running, click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_12-00-47.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Right-click**Bluetooth Support Service** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-59-45.jpg)
@@ -127,9 +136,6 @@ If your issue continues to occur, then try the next solution, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-09-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the **Update**  button next to the Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -149,8 +155,6 @@ If your issue continues to occur, then try the next solution, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +162,24 @@ If your issue continues to occur, then try the next solution, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-achieve-youtube-stardom-top-strategies-for-recognition-and-growth-for-2024/"><u>[New] Achieve YouTube Stardom Top Strategies for Recognition and Growth for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-video-productions-by-adding-youtube-music/"><u>[New] Perfecting Video Productions by Adding YouTube Music</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-loom-studio-sync-screen-record-features-explained/"><u>[Updated] 2024 Approved Loom Studio Sync Screen Record Features Explained</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-voice-of-vogue-establishing-your-channel-in-the-cosmetic-world/"><u>[Updated] Voice of Vogue Establishing Your Channel in the Cosmetic World</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-your-projects-with-voice-over-integration/"><u>2024 Approved Streamlining Your Projects with Voice Over Integration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-bing-chat-setup-for-windows-11-users/"><u>Effortless Bing Chat Setup for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-devices-stuck-on-plugged-in-but-wont-charge-in-windows-710/"><u>How to Fix Devices Stuck on 'Plugged In' But Won't Charge in Windows 7/10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-bridging-audio-artistry-in-visual-formats/"><u>In 2024, Bridging Audio Artistry in Visual Formats</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtube-video-earnings-explained-average-adsense-fees-per-kv/"><u>In 2024, Youtube Video Earnings Explained Average AdSense Fees per KV</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-playtime-ultimate-tips-to-stop-oddworld-soulstorm-from-crashing-on-pc/"><u>Mastering Playtime: Ultimate Tips to Stop Oddworld: Soulstorm From Crashing on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-frustrating-freeze-frame-situations-on-your-desktop-or-laptop/"><u>Overcoming Frustrating Freeze-Frame Situations on Your Desktop or Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-overwatch-voice-communication-problems/"><u>Quick Fixes for Overwatch Voice Communication Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-overcome-the-hamachi-connection-halt-error/"><u>Step-by-Step Guide to Overcome the Hamachi Connection Halt Error</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-12-clicker-games-you-may-like-on-pc/"><u>Top 12 Clicker Games You May Like on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-tips-to-correctly-resolve-the-dxgkrnl-killer-bug-affecting-videos-on-your-pc/"><u>Ultimate Tips to Correctly Resolve the 'Dxgkrnl' Killer Bug Affecting Videos on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/unpacking-the-mystery-understanding-xinput13dlls-role/"><u>Unpacking the Mystery: Understanding XINPUT1_3.dll's Role</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-joystick-restoring-functionality-to-pc-games/"><u>Xbox One Joystick: Restoring Functionality to PC Games</u></a></li>
+</ul></div>
 

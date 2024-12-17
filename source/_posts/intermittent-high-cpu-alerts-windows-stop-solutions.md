@@ -1,7 +1,7 @@
 ---
 title: "Intermittent High CPU Alerts: Windows Stop Solutions"
-date: 2024-12-01T06:46:05.741Z
-updated: 2024-12-03T21:25:14.809Z
+date: 2024-12-15T19:13:02.867Z
+updated: 2024-12-16T17:09:36.128Z
 tags:
   - win11
   - win10
@@ -32,33 +32,38 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Make sure**Power**icon is enabled.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
@@ -70,17 +75,13 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
@@ -93,6 +94,10 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
  If Windows fails to install the drivers for you, or your want to do it much faster, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you update drivers automatically.
@@ -102,10 +107,6 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -124,24 +125,20 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-top-choice-elite-videographer-tool-for-vimeo/"><u>[New] In 2024, Top Choice Elite Videographer Tool for Vimeo</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-device-not-migrated-on-windows-11/"><u>[Solved] Device Not Migrated on Windows 11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-edge-video-editing-programs-for-instagram-on-android/"><u>[Updated] Top Edge Video Editing Programs for Instagram on Android</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-buffs-expert-hacks-for-fast-tracking-league-of-legends-game-setup/"><u>Bypass Buffs: Expert Hacks for Fast-Tracking League of Legends Game Setup</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/delving-deep-into-vidma-writescreen-recorder-details/"><u>Delving Deep Into Vidma’ Writescreen Recorder Details</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-resolving-your-netflix-audio-problems-in-a-jiffy/"><u>Easy Solutions: Resolving Your Netflix Audio Problems in a Jiffy</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elite-6-tools-to-convert-visual-text-into-different-languages/"><u>Elite 6 Tools to Convert Visual Text Into Different Languages</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expanding-storytelling-with-alternative-cinematography/"><u>Expanding Storytelling with Alternative Cinematography</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-non-compatible-hardware-drivers-for-a-smoother-world-of-warcraft-experience/"><u>Fixing Non-Compatible Hardware Drivers for a Smoother World of Warcraft Experience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-itel-p55-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Itel P55 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unraveling-the-secrets-to-soaring-podcast-rankings-with-seo/"><u>In 2024, Unraveling the Secrets to Soaring Podcast Rankings with SEO</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-x-flip-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo X Flip? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/politica-de-derecho-a-la-informacion-y-proteccion-de-datos-guia-detallada-por-parte-de-digiarty-software-inc/"><u>Política De Derecho a La Información Y Protección De Datos: Guía Detallada Por Parte De Digiarty Software, Inc.</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-how-to-resolve-undetected-battery-problems/"><u>Quick Troubleshooting: How to Resolve Undetected Battery Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-warframe-update-issues-fixed/"><u>Resolving 'Warframe Update' Issues: Fixed</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-connecting-your-microsoft-dock-with-windows-10-resolved/"><u>Step-by-Step Solution for Connecting Your Microsoft Dock with Windows 10 [Resolved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-windows-resource-protection-failures/"><u>Troubleshooting and Solutions for Windows Resource Protection Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-get-dell-webcam-operational-on-windows-systems/"><u>Troubleshooting Guide: How to Get Dell Webcam Operational on Windows Systems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/xsplit-exclusive-direct-split-insight/"><u>XSplit Exclusive Direct Split Insight</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-extract-focus-from-logitech-cam-feed/"><u>[New] 2024 Approved Extract Focus From Logitech Cam Feed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-perfect-patches-backgrounds-for-online-streaming/"><u>[Updated] In 2024, Perfect Patches Backgrounds for Online Streaming</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-to-overcome-error-0x80070426-in-windows-11-environments/"><u>Comprehensive Solution to Overcome Error 0X80070426 in Windows 11 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-rdr2-out-of-memory-error-quickly-by-boosting-your-pagefile/"><u>Fix 'RDR2 - Out Of Memory' Error Quickly by Boosting Your Pagefile</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-a-non-responsive-dns-quick-and-effective-4-strategies/"><u>Fix a Non-Responsive DNS: Quick & Effective 4 Strategies</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-zoom-enhancing-your-skype-experience/"><u>In 2024, Mastering Zoom Enhancing Your Skype Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-infinix-smart-7-hd-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Infinix Smart 7 HD? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-latest-macbook-air-apple-unveils-m3-powered-13-and-15-models-the-complete-update-breakdown/"><u>Introducing the Latest MacBook Air: Apple Unveils M3 Powered 13 & 15 Models – The Complete Update Breakdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-cheats-gone-wrong-deactivate-the-nba-2k21-emerald-hack-now/"><u>Master Cheats Gone Wrong? Deactivate the NBA 2K21 Emerald Hack Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-performance-a-guide-to-resolving-valheims-lagging-issues/"><u>Maximizing Performance: A Guide to Resolving Valheim's Lagging Issues</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/speedy-alternatives-to-slow-bitlocker-efficient-and-fast-encryption-solutions-online/"><u>Speedy Alternatives to Slow BitLocker: Efficient and Fast Encryption Solutions Online!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-dealing-with-the-persistent-windows-camera-error-0xa00f4292/"><u>Troubleshooting Tips for Dealing with the Persistent Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-resolving-windows-n-11-media-streaming-problems-cast-not-working/"><u>Ultimate Guide to Resolving Windows N 11 Media Streaming Problems (Cast Not Working)</u></a></li>
 </ul></div>
 

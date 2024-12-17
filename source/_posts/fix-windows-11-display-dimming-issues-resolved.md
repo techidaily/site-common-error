@@ -1,7 +1,7 @@
 ---
 title: "Fix: Windows 11 Display Dimming Issues Resolved"
-date: 2024-12-04T21:53:41.851Z
-updated: 2024-12-10T16:22:48.608Z
+date: 2024-12-12T18:43:41.126Z
+updated: 2024-12-16T19:07:10.736Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are the solutions that have helped people resolve the same problem. Check it out:
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change your monitor settings
 
  As suggested in the error message, you can change your input timing to the specific resolution and refresh rate (in my case it’s**1920×1080@60Hz** ) or any other monitor listed timing as per monitor specifications. So you should change these monitor settings to match.
@@ -58,26 +58,14 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ad509cbf.jpg)
 2. In the**Display** section, scroll down and find**Resolution** , and change it to the specific resolution (in my case I choose**1080×1920** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b258f50a.jpg)
 3. Click**Keep changes** if you see the popup verification dialog.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1914a52c434.png)
 4. Then click**Advanced** **display** **settings** on the same screen.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
 5. Click**Display** **adapter** **properties** **for** **Display** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3bbd9a183.jpg)
 6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
@@ -86,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 7. Click**Apply** and**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
@@ -100,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 2. Change**Resolution** to the specific resolution (in my case I choose**1080×1920** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e3dadb40.jpg)
@@ -112,10 +100,23 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 5. On the same screen, click**Advanced** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
 6. Click the**Monitor** tab, and choose the specific refresh rate shown in your error message (in my case I choose**60Hz** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
 7. Click**Apply** and**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer in normal mode and see if it works.
 
@@ -142,11 +143,11 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 4. Restart your computer to take effect.
 
- This should fix your problem. Still no luck? Okay, there’s one more thing to try.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This should fix your problem. Still no luck? Okay, there’s one more thing to try.
 
 ### Fix 3: Boot your computer in low-resolution mode
 
@@ -165,30 +166,30 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15247e3c3cd.jpg)
 4. Click**Troubleshoot** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
 5. Click**Advanced** **options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
 6. Click**Startup** **Settings** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
 7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
 8. Press the**number** **key** (normally the**number 3 key** ) next to the option:**Enable low-resolution video** (**mode** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then your computer will boot into the low-resolution mode and it should fix your error.
 
@@ -223,14 +224,14 @@ Restart your computer in normal mode and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-razer-keyboard-not-lighting-up/"><u>[Solved] Razer Keyboard Not Lighting Up</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-video-partition-prowess-ultimate-recorder-ranking-for-2024/"><u>[Updated] Video Partition Prowess Ultimate Recorder Ranking for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-exclusive-guide-to-the-leading-top-10-fb-videos-downloader-for-android/"><u>2024 Approved Exclusive Guide to the Leading Top 10 FB Videos Downloader for Android</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-ways-to-repair-the-steam-error-on-your-disk-drive/"><u>Effective Ways to Repair the Steam Error on Your Disk Drive</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/expedited-pathway-to-turkeys-language-a-comprehensible-alphabet-and-pronunciation-guide/"><u>Expedited Pathway to Turkey's Language: A Comprehensible Alphabet & Pronunciation Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/gratis-convertitore-online-transforma-i-tuoi-video-in-foto-con-movavi/"><u>Gratis Convertitore Online: Transforma I Tuoi Video in Foto Con Movavi!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-scrolling-malfunction-on-a-touchpad-for-windows-10-users/"><u>How to Resolve Scrolling Malfunction on a Touchpad for Windows 10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-absence-of-an-audio-device-error-on-windows-11-systems/"><u>Troubleshooting the Absence of an Audio Device Error on Windows 11 Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-android-without-a-wire-heres-your-free-games-list-in-2024/"><u>[Updated] Android Without A Wire? Here's Your Free Games List, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-expand-your-youtube-video-footprint/"><u>[Updated] How to Expand Your YouTube Video Footprint</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-comprehensive-guide-to-taking-part-in-twitresponses/"><u>2024 Approved Comprehensive Guide to Taking Part in TwitResponses</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/windows-server-201n6/"><u>解決Windows Server 201N6更新後無限重啟的五大方法</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/meme-march-unstoppable-videos-hit-the-tweetsphere-for-2024/"><u>Meme March Unstoppable Videos Hit the Tweetsphere for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-why-isnt-my-desktop-starting-the-way-it-should/"><u>Solution Guide: Why Isn't My Desktop Starting the Way It Should?</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-significance-and-replacement-strategies-for-xinput13dll/"><u>The Significance & Replacement Strategies for XINPUT1_3.dll</u></a></li>
+<li><a href="https://common-error.techidaily.com/unrecognized-screen-input-error-what-to-do-when-your-display-wont-accept-data/"><u>Unrecognized Screen Input Error: What to Do When Your Display Won't Accept Data</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-disk-read-failures-in-windows-10/"><u>Winning the Battle Against Disk Read Failures in Windows 10</u></a></li>
 </ul></div>
 

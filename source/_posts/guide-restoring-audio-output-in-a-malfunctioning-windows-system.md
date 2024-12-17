@@ -1,7 +1,7 @@
 ---
 title: "Guide: Restoring Audio Output in a Malfunctioning Windows System"
-date: 2024-12-01T07:41:23.777Z
-updated: 2024-12-03T21:48:17.009Z
+date: 2024-12-12T17:23:11.009Z
+updated: 2024-12-16T22:57:27.310Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
@@ -61,17 +61,21 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -88,14 +92,10 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -120,7 +120,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
@@ -142,20 +142,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-navigating-zoom-recordings-for-business-success/"><u>[New] In 2024, Navigating Zoom Recordings for Business Success</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nleash-the-power-of-your-youtube-channel-with-expert-editing-techniques/"><u>[New] Unleash the Power of Your YouTube Channel with Expert Editing Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-thumbnail-downloader-solutions-online-for-2024/"><u>[Updated] Free Thumbnail Downloader Solutions Online for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-poco-x5-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco X5 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-play-fortnite-with-non-compatible-graphics-cards-on-windows-solutions-explored/"><u>How to Play Fortnite with Non-Compatible Graphics Cards on Windows: Solutions Explored</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-to-transfer-your-data-from-windows-1011-to-a-brand-new-hard-disk-learn-3-methods/"><u>How To Transfer Your Data From Windows 10/11 To A Brand New Hard Disk - Learn 3 Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210285213-laptop-charger-issues-fix-your-non-charging-battery-swiftly/"><u>Laptop Charger Issues? Fix Your Non-Charging Battery Swiftly</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-tv-saves-win-friendly-options-available/"><u>Mastering TV Saves Win-Friendly Options Available</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964502969-new-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through-which-you-c/"><u>New Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/pinpointing-and-resolving-windows-10-copypaste-errors/"><u>Pinpointing & Resolving Windows 10 Copy/Paste Errors</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/richer-screen-content-filter-integration-on-devices/"><u>Richer Screen Content Filter Integration on Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correcting-error-0x8024401c-during-windows-1011-updates/"><u>Step-by-Step Guide to Correcting Error 0X8024401C During Windows 10/11 Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-easy-fix-for-change-rendering-api-error-dota-2-err-2024/"><u>Step-by-Step Guide: Easy Fix for 'Change Rendering API' Error - Dota 2 (Err 2024)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-top-9-webcam-filters-for-professional-streamers/"><u>Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-update-components-must-be-repaired-fixed/"><u>Windows Update Components Must Be Repaired [FIXED]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-reels-crafted-by-a-true-creative-genius/"><u>[New] Instagram Reels Crafted by a True Creative Genius</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-6-video-techniques-that-grab-eyes/"><u>[New] Unveiling 6 Video Techniques That Grab Eyes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-macs-gif-mastery-top-10-recorder-guide/"><u>[Updated] In 2024, Mac's GIF Mastery Top 10 Recorder Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-quick-guide-downloading-and-prepping-vrecord/"><u>2024 Approved Quick Guide Downloading & Prepping VRecord</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-the-persistent-code-28-problem-within-windows-device-management/"><u>Diagnosing and Solving the Persistent 'Code 28' Problem Within Windows Device Management</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New 2024 Approved Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-errors-a-guide-to-repairing-internet-explorer-has-stopped-working/"><u>Resolving Errors: A Guide to Repairing 'Internet Explorer Has Stopped Working'</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-addressing-the-common-issues-with-apex-legends-anti-cheat-system/"><u>Solved! Addressing the Common Issues with Apex Legends' Anti-Cheat System</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-vanishing-cursor-on-your-windows-11-touchpad/"><u>Solving the Issue of Vanishing Cursor on Your Windows 11 Touchpad</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-tutorial-on-installing-samsungs-nvme-ssd-drivers-960-evo-on-windows/"><u>The Ultimate Tutorial on Installing Samsung's NVMe SSD Drivers (960 EVO) on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-the-solution-for-non-appearing-wi-fi-choices-on-windows-11/"><u>Uncover the Solution for Non-Appearing Wi-Fi Choices on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlicensed-zen-audio-streaming-for-2024/"><u>Unlicensed Zen Audio Streaming for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-in-pc-environment-function-reestablished/"><u>Xbox One in PC Environment: Function Reestablished</u></a></li>
 </ul></div>
 

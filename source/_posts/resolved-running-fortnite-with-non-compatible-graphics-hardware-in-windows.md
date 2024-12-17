@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Running Fortnite with Non-Compatible Graphics Hardware in Windows"
-date: 2024-12-04T20:34:07.939Z
-updated: 2024-12-10T17:04:20.438Z
+date: 2024-12-13T17:49:16.474Z
+updated: 2024-12-16T23:47:18.927Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Type and copy this command below and press**Enter** .
 
 msdt.exe -id DeviceDiagnostic
@@ -54,9 +58,17 @@ msdt.exe -id DeviceDiagnostic
 
 ![apply a windows suggested fix](https://images.drivereasy.com/wp-content/uploads/2021/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. You may need to restart your PC for the changes to take full effect.
 
  The troubleshooter may provide a solution for restoring your missing webcam. Now check if your problem has been solved. If not, you can try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Allow apps to access your camera
 
@@ -71,10 +83,6 @@ msdt.exe -id DeviceDiagnostic
 ![allow camera access](https://images.drivereasy.com/wp-content/uploads/2021/03/image-15.png)
 
  If there’s nothing wrong with the privacy settings, but your camera error 0xa00f4292 still persists, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your camera drivers
 
@@ -91,7 +99,7 @@ msdt.exe -id DeviceDiagnostic
 ![scan device drivers](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Click the **Update** button next to the ASUS webcam driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -100,18 +108,10 @@ msdt.exe -id DeviceDiagnostic
 
 ![update camera drivers](https://images.drivereasy.com/wp-content/uploads/2021/03/image-16.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance or the problem still persists, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the webcam driver, you can reboot your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset the camera app
 
@@ -121,6 +121,10 @@ msdt.exe -id DeviceDiagnostic
 
 ![settings](https://images.drivereasy.com/wp-content/uploads/2021/03/image-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Select**Apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-18.png)
@@ -129,19 +133,11 @@ msdt.exe -id DeviceDiagnostic
 
 ![app and features](https://images.drivereasy.com/wp-content/uploads/2021/03/image-19.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. Scroll down and click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-20.png)
 
  It may take about a few seconds to complete. Once the reset is done, check if the camera error 0xa00f4292 has been resolved by now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run the System File Checker
 
@@ -150,6 +146,10 @@ msdt.exe -id DeviceDiagnostic
  1\. Type**cmd** in the Windows Search bar, and select**Run as administrator** .
 
 ![command prompt](https://images.drivereasy.com/wp-content/uploads/2021/03/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2\. Click**Yes** when prompted for consent.
 
@@ -184,19 +184,22 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-finding-your-perfect-match-high-quality-lipo-units-for-drones-for-2024/"><u>[New] Finding Your Perfect Match High-Quality LiPo Units for Drones for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-a-stepwise-approach-to-twitter-archive-utilization-for-2024/"><u>[Updated] A Stepwise Approach to Twitter Archive Utilization for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/best-comprehensive-list-of-microsoft-business-applications-ios-2022-edition/"><u>Best Comprehensive List of Microsoft Business Applications (iOS) - 2022 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211076397-ce-34878-0-glitch-on-ps4-heres-how-you-can-easily-solve-it/"><u>CE-34878-0 Glitch on PS4? Here's How You Can Easily Solve It</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-making-a-damaged-dell-usb-port-work-again/"><u>Expert Advice on Making a Damaged Dell USB Port Work Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-missing-entry-point-error-in-windows-programs/"><u>How to Fix the Missing Entry Point Error in Windows Programs</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-missing-network-connections-on-windows-11-devices/"><u>How to Resolve Missing Network Connections on Windows 11 Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-v30-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme V30</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-rated-pc-intro-makers-online-and-offline-options-compared/"><u>New Top-Rated PC Intro Makers Online and Offline Options Compared</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/proven-methods-to-prevent-photos-app-freezes-in-windows-10/"><u>Proven Methods to Prevent Photos App Freezes in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/seamlessly-manage-daily-tasks-with-these-top-6-windows-11-software-solutions/"><u>Seamlessly Manage Daily Tasks with These Top 6 Windows 11 Software Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamlessly-switch-windows-11-walls-to-reflect-each-screens-style/"><u>Seamlessly Switch Windows 11 Walls to Reflect Each Screen's Style</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-overcome-slow-download-problems-with-league-of-legends/"><u>Troubleshoot & Overcome Slow Download Problems with League of Legends</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-bootup-keys-not-responding-heres-how-to-restore-functionality/"><u>Windows 11 Bootup Keys Not Responding? Here's How to Restore Functionality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-become-a-color-connoisseur-in-digital-photography/"><u>[New] Become a Color Connoisseur in Digital Photography</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-prime-time-for-podcast-debuts/"><u>[Updated] 2024 Approved Prime Time for Podcast Debuts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-digital-rights-unexpected-content-take-downs/"><u>[Updated] Digital Rights Unexpected Content Take-Downs</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11-usb-connection-issues-how-to-deal-with-port-reset-failed-errors-on-unrecognized-devices/"><u>Fixing Windows 11 USB Connection Issues: How to Deal with 'Port Reset Failed' Errors on Unrecognized Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-class-not-found-errors-on-windows-11-easy-solutions/"><u>How to Fix 'Class Not Found' Errors on Windows 11 – Easy Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-regain-lost-stream-file-permissions-solution-unveiled/"><u>How To Regain Lost Stream File Permissions - SOLUTION UNVEILED</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-camon-20-premier-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Camon 20 Premier 5G Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-imovies-cropping-an-in-depth-look/"><u>In 2024, IMovie's Cropping An In-Depth Look</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-permanent-tiktok-account-elimination-guide/"><u>In 2024, Permanent TikTok Account Elimination Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-shorts-fix-completed-no-more-anxiety/"><u>In 2024, Shorts Fix Completed – No More Anxiety</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-phone-freedom-comprehensive-guide-on-android-s-pentiger-way-for-samsung-galaxy-s6s7s8-edges/"><u>Mastering Phone Freedom: Comprehensive Guide on Android S PenTiger Way for Samsung Galaxy S6/S7/S8 Edges</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-overcoming-the-livekernelevent-117-error-on-windows/"><u>Quick Fixes for Overcoming the 'LiveKernelEvent 117' Error on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-connection-woes-effective-fixes-for-dell-wireless-peripherals-not-responding-properly/"><u>Solving Connection Woes: Effective Fixes for Dell Wireless Peripherals Not Responding Properly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-aspect-ratio-checklist-for-editors-and-directors/"><u>The Ultimate Aspect Ratio Checklist for Editors and Directors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-the-vanished-bluetooth-on-windows-10-with-ease/"><u>Troubleshoot and Fix the Vanished Bluetooth on Windows 10 with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-kodi-solutions-for-common-playback-problems/"><u>Troubleshooting Kodi: Solutions for Common Playback Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-update-errors-solved-effective-strategies-for-unsticking-your-system/"><u>Windows 10 Update Errors Solved – Effective Strategies for Unsticking Your System</u></a></li>
 </ul></div>
 

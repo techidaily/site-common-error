@@ -1,7 +1,7 @@
 ---
 title: "Guide to Reactivate Your Quick Search: Solving the Problem with Windows + Shift + S on PCs"
-date: 2024-08-22T19:22:54.095Z
-updated: 2024-08-23T19:22:54.095Z
+date: 2024-12-10T23:16:15.168Z
+updated: 2024-12-16T19:36:17.462Z
 tags:
   - win11
   - win10
@@ -46,16 +46,16 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-12-48.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click**Add a device** to see if your Bluetooth works properly now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-13-19.jpg)
 
 If your problem persists, then move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run the Bluetooth troubleshooter
 
  Another quick fix to this problem is running the Bluetooth troubleshooter. The Bluetooth troubleshooter is a Windows built-in utility that can detect and fix common Bluetooth issues automatically.
@@ -64,16 +64,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-35-46-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Select**Bluetooth** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-48-23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Wait for this process to be complete. Then, try pairing your Bluetooth devices to your PC again.
 
  If your Bluetooth still won’t discover devices, then read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Set the Bluetooth support service
 
@@ -83,13 +88,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-30.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**services.msc** , then hit the**Enter key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Right-click**Bluetooth Support Service** . If the service is running, click**Restart** ; if the service isn’t running, click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_12-00-47.jpg)
@@ -98,9 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-59-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Set the**Startup Type** to **Automatic** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-02-50.jpg)
@@ -108,6 +111,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **6)** Try connecting your Bluetooth devices to test your problem.
 
 If your issue continues to occur, then try the next solution, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update Bluetooth driver
 
@@ -125,9 +132,6 @@ If your issue continues to occur, then try the next solution, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-09-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 **3)** Click the **Update**  button next to the Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -135,8 +139,9 @@ If your issue continues to occur, then try the next solution, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-07-08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Restart your PC, then try reconnecting your Bluetooth devices to test your issue.
 
  Hopefully, this article helped in resolving your issue. Please feel free to leave a comment below if you have any questions or suggestions.
@@ -150,8 +155,6 @@ If your issue continues to occur, then try the next solution, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +162,22 @@ If your issue continues to occur, then try the next solution, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-gripping-phrase-generator-device/"><u>[Updated] 2024 Approved Gripping Phrase Generator Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-engaging-audiences-how-tos-for-effective-youtube-logo-creation-for-2024/"><u>[Updated] Engaging Audiences How-To's for Effective YouTube Logo Creation for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quick-and-easy-incorrante-audio-into-fb-profiles-ios-android/"><u>[Updated] Quick & Easy Incorrante Audio Into FB Profiles (iOS, Android)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-advantages-and-disadvantages-of-premium-membership/"><u>ChatGPT: Advantages & Disadvantages of Premium Membership</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-for-the-non-plugged-in-hardware-error-code-0xc0000098-on-windows-devices/"><u>Comprehensive Troubleshooting for the Non-Plugged In Hardware Error (Code 0xC0000098) on Windows Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-the-mystery-of-msdia80dll-essential-insights-for-secure-system-management/"><u>Deciphering the Mystery of msdia80.dll - Essential Insights for Secure System Management</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-advanced-drone-technology-with-the-dji-mavic-3-review/"><u>Exploring Advanced Drone Technology with the DJI Mavic 3 Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-non-starting-windows-10-optical-drive-error-message-with-incomplete-configuration-data-code-pressure/"><u>How to Repair a Non-Starting Windows 10 Optical Drive - Error Message with Incomplete Configuration Data (Code Pressure)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-geforce-experience-settings-retrieval-errors/"><u>How to Resolve GeForce Experience Settings Retrieval Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-your-missing-mouse-icon-on-a-windows-11-pc-expert-tips/"><u>How to Restore Your Missing Mouse Icon on a Windows 11 PC - Expert Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-new-features-a-guide-to-using-live-activities-in-ios-16/"><u>Mastering the New Features: A Guide to Using Live Activities in iOS 16</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-expert-advice-on-eradicating-the-vexing-red-screen-dilemma-once-and-for-all/"><u>Resolved: Expert Advice on Eradicating the Vexing Red Screen Dilemma Once and For All</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-audio-dropouts-on-the-logitech-g930-microphone-setup/"><u>Step-by-Step Solution for Audio Dropouts on the Logitech G930 Microphone Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformacion-de-imagenes-jpeg-a-png-libre-y-descargable-en-internet/"><u>Transformación De Imágenes JPEG a PNG Libre Y Descargable en Internet</u></a></li>
+</ul></div>
 

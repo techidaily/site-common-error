@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Destiny 2 Connectivity Woes: Fix Your Servers Now"
-date: 2024-12-08T19:36:42.122Z
-updated: 2024-12-10T19:00:19.085Z
+date: 2024-12-14T20:18:19.212Z
+updated: 2024-12-16T18:58:15.562Z
 tags:
   - win11
   - win10
@@ -29,23 +29,23 @@ If your **Xbox One won’t connect to Xbox Live**, don’t worry. There’re**fo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Hard reset your Xbox One and modem
 
 Sometimes a hard-reset can help you fix some strange problems. A hard-reset of Xbox One controller and modem helps many users fix the Xbox One not connecting to Xbox Live error. So make sure to give it a shot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to hard reset your Xbox One
 
 1) Press and hold the Xbox Logo on your console until the console shuts off. 2) Wait for a while then turn your console back on by pressing the same Xbox button on your console.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fcebec23ca.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to hard reset your modem
 
@@ -54,6 +54,10 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd1c2b6433.jpg)
 
 2) Release your hands and wait till the power light is steady. Now try to see if your Xbox One could be connected to Xbox Live.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Change IP settings and DNS settings on Xbox Live
 
@@ -65,28 +69,24 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Go on to click**Advanced settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd893e389f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click**IP settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd9129d434.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Now it’s back to Advanced settings. This time click**DNS settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd976db238.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to connect your Xbox one to Xbox Live.
@@ -95,15 +95,15 @@ Now try to connect your Xbox one to Xbox Live.
 
 1) On your keyboard, press the **Windows logo key** +**R**key together to invoke the Run box. 2) Enter**services.msc**in the box and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599f8eede7987.png)3) Scroll down on the open Services window. Find and right click on**Xbox Live Networking Service**. Then select**Properties**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
 
 4) On Gerenal pane, set its Startup type to **Automatic** from the drop-down menu. Then click**Apply**\>**OK**to save your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdeb828a6c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Now it’s back on Services window, right-click on**Xbox Live Networking Service**again. This time select**Start**.**Note:**If the Start option grayed out, select**Restart**instead.
 
@@ -114,7 +114,7 @@ Go on to do the same settings for**Xbox Live Auth Manager**and**Xbox Live Game S
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe022a60ab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your network adapter driver and Xbox One controller driver
@@ -146,22 +146,19 @@ After updating the drivers, please restart your computer to make the new drivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-capture-win10-ranking-the-best-video-grabbers/"><u>[New] In 2024, Capture Win10 Ranking the Best Video Grabbers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-motivational-moments-the-ultimate-list-for-insta/"><u>[New] Motivational Moments The Ultimate List for Insta</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-xiaomi-mi-drone-4k-review-for-2024/"><u>[New] Xiaomi MI Drone 4K Review for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-synergy-of-sounds-crafting-seamless-integration-with-powerpoint/"><u>[Updated] In 2024, Synergy of Sounds Crafting Seamless Integration with PowerPoint</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-cross-platform-listening-convert-spotify-playlists-to-youtube-videos/"><u>[Updated] Streamline Cross-Platform Listening Convert Spotify Playlists to YouTube Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-discover-the-best-phone-apps-to-improve-vocality/"><u>2024 Approved Discover the Best Phone Apps to Improve Vocality</u></a></li>
-<li><a href="https://common-error.techidaily.com/blizzard-out-of-service-status/"><u>Blizzard Out Of Service Status</u></a></li>
-<li><a href="https://common-error.techidaily.com/code-rejection-awaiting-new-instructions/"><u>Code Rejection: Awaiting New Instructions</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-fixing-the-critical-process-died-error-error-code-0x00000005/"><u>Expert Tips: Fixing the Critical Process Died Error (Error Code 0X00000005)</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-nier-automata-game-crashing-issues-on-pc/"><u>Fixes for Nier: Automata Game Crashing Issues on PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-perfect-photo-framing-digital-sites-and-apps-guide/"><u>In 2024, Perfect Photo Framing Digital Sites and Apps Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-defeating-the-frustrating-windows-update-error-0x80244022-once-and-for-all/"><u>Mastering the Art of Defeating the Frustrating Windows Update Error (0X80244022) Once and For All</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/pinterest-pin-square-advice/"><u>Pinterest Pin Square Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-and-easy-ways-to-repair-lost-bluetooth-connectivity-in-windows-10/"><u>Quick and Easy Ways to Repair Lost Bluetooth Connectivity in Windows 10</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266243541-simplify-note-management-on-iphones-purchase-the-powerful-stellarian-eraser-app/"><u>Simplify Note Management on iPhones – Purchase the Powerful Stellarian Eraser App</u></a></li>
-<li><a href="https://common-error.techidaily.com/success-story-resolved-problem-with-a-malfunctioning-igfx-emm/"><u>Success Story: Resolved Problem with a Malfunctioning iGFX EMM</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-startup-error-learn-how-to-correct-entry-point-not-found-issues/"><u>Windows Startup Error? Learn How to Correct Entry Point Not Found Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-earnings-update-navigating-youtube-monetization/"><u>[New] 2024 Approved Earnings Update Navigating YouTube Monetization</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-syncsound-pro-downloads-and-analysis/"><u>[New] 2024 Approved SyncSound Pro Downloads & Analysis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-recording-multiplesecondary-monitors/"><u>[Updated] 2024 Approved Recording Multiple/Secondary Monitors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-minimalist-obs-adjustments-for-under-500-pcs-for-2024/"><u>[Updated] Minimalist OBS Adjustments for Under-$500 PCs for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-failed-user-profile-service-on-windows-11-steps-to-recover-your-account/"><u>Fix Failed User Profile Service on Windows 11 - Steps to Recover Your Account</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-windows-11-ethernet-driver-issues-easily/"><u>Fix Windows 11 Ethernet Driver Issues. Easily!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-hidden-wi-fi-options-in-windows-11-how-to-make-them-visible/"><u>Fix: Hidden Wi-Fi Options in Windows 11 - How To Make Them Visible</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-resolving-windows-update-error-code-0x8007001f/"><u>Fixing the Issue: Resolving Windows Update Error Code 0X8007001F</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-note-30-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Note 30 ProFRP Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-overcoming-windows-unable-to-load-errors/"><u>Step by Step Solutions: Overcoming 'Windows Unable to Load' Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-fixing-lack-of-sound-on-netflix-quick-and-effective-methods/"><u>The Ultimate Guide to Fixing Lack of Sound on Netflix – Quick & Effective Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-wait-continues-for-elden-ring-enthusiasts-unveiling-the-launch-delay-insights/"><u>The Wait Continues for Elden Ring Enthusiasts - Unveiling the Launch Delay Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-computer-boot-issues-in-windows-11-effective-solutions-for-forced-shutdown-problems/"><u>Troubleshooting Computer Boot Issues in Windows 11 - Effective Solutions for Forced Shutdown Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-nvidia-hd-audio-malfunctions-and-mute-issues/"><u>Troubleshooting Steps for Nvidia HD Audio Malfunctions and Mute Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Impact of D3D Device Disappearance on Unreal
-date: 2024-12-03T21:37:20.321Z
-updated: 2024-12-10T22:59:21.886Z
+date: 2024-12-10T19:59:04.803Z
+updated: 2024-12-16T18:06:31.308Z
 tags:
   - win11
   - win10
@@ -47,15 +47,15 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -72,7 +72,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -84,6 +84,10 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -103,19 +107,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -131,7 +127,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -149,6 +145,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,20 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-decoding-youtube-shorts-all-you-need-to-understand/"><u>[Updated] Decoding YouTube Shorts All You Need to Understand</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oneplus-ace-2v-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to OnePlus Ace 2V FRP Bypass Instantly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/briskbounce-momentmirror-tape/"><u>BriskBounce MomentMirror Tape</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-repair-broken-usb-ports-in-modern-windows-environments/"><u>Expert Tips to Repair Broken USB Ports in Modern Windows Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-common-hamachi-disconnection-problems/"><u>Fixing The Common Hamachi Disconnection Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-the-windows-update-error-with-code-0x80070490-solution/"><u>How To Correctly Address the Windows Update Error with Code 0X80070490 [SOLUTION]</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 14 Pro Max</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-f34-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy F34 5G Lock Screen Password</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-immersion-meets-social-evolution-in-vr/"><u>Language Immersion Meets Social Evolution in VR</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-solution-how-to-fix-a-severe-unsolvable-directx-glitch/"><u>Mastering the Solution: How to Fix a Severe, Unsolvable DirectX Glitch</u></a></li>
-<li><a href="https://common-error.techidaily.com/msvcr71dll-was-not-found-solved/"><u>MSVCR71.dll Was Not Found [Solved]</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-ultimate-smartphone-list-for-optimal-gear-vr-functionality-2-written-by-john-doe-mba-expert-in-strategic-business-planning-and-marketing-for-2024/"><u>The Ultimate Smartphone List for Optimal Gear VR Functionality (2 Written By John Doe, MBA | Expert in Strategic Business Planning and Marketing for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-improper-image-error-on-your-pc-running-windows-11-or-10/"><u>Troubleshooting Improper Image Error on Your PC Running Windows 11 or 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/unwanted-system-stops-on-windows-10/"><u>Unwanted System Stops on Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-tips-for-efficiently-using-ez-grabber/"><u>[New] Essential Tips for Efficiently Using EZ Grabber</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-self-portraits-top-techniques-for-youtube-presentations-for-2024/"><u>[New] Mastering Self-Portraits Top Techniques for YouTube Presentations for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-camera-not-working-on-windows-11/"><u>[SOLVED] Camera Not Working on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-should-itop-screen-recorder-be-a-staple-in-your-kit/"><u>[Updated] Should ITop Screen Recorder Be a Staple in Your Kit?</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-comprehensive-guide-to-repair-the-error-0x802n401c-preventing-updates-on-your-windows-1011-machine/"><u>A Comprehensive Guide to Repair the Error 0X802n401C Preventing Updates on Your Windows 10/11 Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-ethernet-failures-in-windows-107-systems/"><u>Diagnosing and Repairing Ethernet Failures in Windows 10/7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolved-overcoming-issues-when-your-backspace-keys-wont-work/"><u>Error Resolved: Overcoming Issues When Your Backspace Keys Won't Work</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-smart-7-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Smart 7 Quickly | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-and-resolve-windows-installer-error-0x80070643/"><u>How to Repair and Resolve Windows Installer Error 0X80070643</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-tackle-the-runtime-broker-error-and-reduce-cpu-spikes-in-windows-10-operating-systems/"><u>How to Tackle the Runtime Broker Error and Reduce CPU Spikes in Windows 10 Operating Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s24plus-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S24+ Phone FRP Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203377239-league-of-legends-lag-no-more-speedy-download-fixes-unveiled/"><u>League of Legends Lag No More: Speedy Download Fixes Unveiled!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolution-guide-fixing-endless-reboots-on-your-windows-10-pc/"><u>Resolution Guide: Fixing Endless Reboots on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-successfully-start-team-fortress-2-after-a-glitch/"><u>Steps to Successfully Start Team Fortress 2 After a Glitch</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-tips-how-to-refresh-and-update-lenovo-docking-station-drivers-effortlessly/"><u>Troubleshooting Tips: How to Refresh & Update Lenovo Docking Station Drivers Effortlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466714412-your-iphone-wont-connect-to-your-computer-heres-the-fix/"><u>Your iPhone Won't Connect to Your Computer? Here's the Fix</u></a></li>
 </ul></div>
 

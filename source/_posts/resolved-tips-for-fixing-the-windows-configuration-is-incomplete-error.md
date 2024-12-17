@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Tips for Fixing the 'Windows Configuration Is Incomplete' Error"
-date: 2024-08-22T19:21:29.375Z
-updated: 2024-08-23T19:21:29.375Z
+date: 2024-12-11T00:26:30.426Z
+updated: 2024-12-16T16:01:21.983Z
 tags:
   - win11
   - win10
@@ -55,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Wait until your Windows system installed all the updates**
 
  If your PC seems to get stuck on the screen of “Preparing to configure Windows”, it may indicate that your**Windows system is installing and configuring the updates** .
@@ -65,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 
  The time it may take depends on your hardware specifications. It is recommended that you wait for**2 hours** . 2 hours later, if the your PC still gets stuck on the screen of “Preparing to configure Windows”, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Disconnect all the external devices and perform a hard reboot**
 
  Since your PC gets stuck on the screen of “Preparing to configure Windows” when you try to shut down your Windows system, in such a case, the only thing you can do is to**disconnect all the external devices** (such as**USB flash** **drives** ,**the external hard disk drive** , etc) and**perform a hard reboot** . Follow the instruction below to perform a hard reboot:
@@ -84,19 +82,20 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 1. On your keyboard, press**the Windows logo key** and type**windows update** . In the list of search results, select**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/check-for-updates.jpg)
 2. In the pop-up window, click**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)
 3. Wait until Windows downloads and installs all the updates.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart Windows to see if your PC will get stuck on the screen of “Preparing to configure Windows” again. It’s recommended that you**plug in your PC** and give your Windows system a whole night to configure all the updates. Normally, a whole night is enough for your Windows system to handle all these updates.
 
  If your PC still gets stuck when you wake up, you should **follow the instruction above to perform a hard reboot and then try the next fix** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performing a clean boot**
 
@@ -107,48 +106,28 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 2. Select the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-4.jpg)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8-4.jpg)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-4.jpg)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-5.jpg)
 6. Click **Restart**  to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-4.jpg)
 7. Perform a Windows update again after restarting Windows.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    1. On your keyboard, press**the Windows logo key** and type**windows update** . In the list of search results, select**Check for updates** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/check-for-updates.jpg)  
    2. In the pop-up window, click**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)  
    3. Wait until Windows downloads and installs all the updates.
 8. Restart your PC when Windows installed all the updates to see if this issue persists.
 
  If your PC won’t get stuck on the screen of “Preparing to configure Windows”, you’ve resolve this issue. Then go to the**System Configuration** window to enable the services you disabled before. After enabling each service, you need to **restart your PC to apply the changes** . If this annoying issue reappears, you may need to**restore your system** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## **Restore your Windows system**
 
  This annoying issue can be resolved by restoring your Windows system to a previous state. Follow the instructions below to restore your Windows system:
@@ -160,17 +139,33 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Ensure **the Protection status** of the local disk drive that has your Windows system installed on is**On** . Then click**System Restore…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap13-1.jpg)  
  If**the Protection status** of the local drive that has your Windows system installed on is**Off** , it indicates that you have**disabled** the system restore feature on this drive.
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Select**Choose a different restore point**  and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap14-4.jpg)
 4. Check the box next to **Show more restore points** . Select the restore point that is created just**before you run into this issue** and then click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap16-4.jpg)
 5. Click**Finish** to confirm your restore point.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap17-3.jpg)
 6. Click**Yes** to start restoring your Windows system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap18-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After restoring your Windows system, this annoying issue should be resolved.
 
@@ -194,8 +189,9 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap20-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) for advice. You should attach the URL of this article so they can help you better.
@@ -212,8 +208,6 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +215,26 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-influencing-instagram-step-by-step-tutorial/"><u>[New] 2024 Approved Influencing Instagram Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-full-periscope-capabilities/"><u>[New] Step-by-Step Guide to Full Periscope Capabilities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-echo-enthusiasts-emporium-obtain-and-review-sound-files/"><u>[Updated] Echo Enthusiasts Emporium Obtain & Review Sound Files</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-youtube-view-bots-how-to-increase-youtube-views/"><u>2024 Approved YouTube View Bots How to Increase YouTube Views?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-innovative-approach-to-difficult-workplace-communications/"><u>ChatGPT's Innovative Approach to Difficult Workplace Communications</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211846096-complete-guide-to-resolving-ps4-network-problems-fixed-nat-explained/"><u>Complete Guide to Resolving PS4 Network Problems – Fixed NAT Explained!</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-80240020-explained-a-step-by-step-solution-for-windows-11-installation-problems/"><u>Error Code 80240020 Explained - A Step-by-Step Solution for Windows 11 Installation Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-restoring-functionality-to-your-logitech-mouses-scroll-wheel/"><u>Expert Advice for Restoring Functionality to Your Logitech Mouse's Scroll Wheel</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-why-arent-my-function-keys-working/"><u>Expert Guide: Why Aren't My Function Keys Working?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/future-of-os-maintenance-starting-next-year-microsoft-requires-a-fee-for-windows-find-out-what-it-will-cost-you/"><u>Future of OS Maintenance: Starting Next Year, Microsoft Requires a Fee for Windows 지정 확인 - Find Out What It Will Cost You!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y200-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo Y200</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-organic-traffic-with-cookiebots-cutting-edge-seo-solutions/"><u>Maximize Organic Traffic with Cookiebot's Cutting-Edge SEO Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/prime-landscapes-for-streaming-success/"><u>Prime Landscapes for Streaming Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-the-roar-a-comprehensive-guide-to-fix-sound-issues-on-an-acer-computer/"><u>Reviving the Roar: A Comprehensive Guide to Fix Sound Issues on an Acer Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac-for-2024/"><u>The Ultimate Guide to Leveraging Preview Capabilities on a Mac for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sound-issues-resolve-windows-1011-audio-setup-errors-easily/"><u>Troubleshooting Sound Issues: Resolve Windows 10/11 Audio Setup Errors Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-symbol-when-it-fails-to-work/"><u>Troubleshooting the '@' Symbol When It Fails to Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/wifi-network-not-showing-up-on-computer-best-fixes/"><u>WiFi Network Not Showing Up on Computer [Best Fixes]</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-file-explorer-made-easy-learn-how-with-our-help/"><u>Windows 10 File Explorer Made Easy – Learn How With Our Help</u></a></li>
+</ul></div>
 

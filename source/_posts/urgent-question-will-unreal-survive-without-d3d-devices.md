@@ -1,7 +1,7 @@
 ---
 title: "Urgent Question: Will Unreal Survive Without D3D Devices?"
-date: 2024-11-30T00:31:14.546Z
-updated: 2024-12-04T01:49:49.524Z
+date: 2024-12-12T20:36:01.311Z
+updated: 2024-12-16T22:27:31.815Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 fixes for the Huion pen not working issue
 
  Now let’s cut to the chase. Here you’ll have 5 fixes that have proved useful for the Huion pen not working issue. You don’t need to try them all; just work your way down the list until you find the one that works for you.
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 **[Fix 5: Uncheck “Enable Windows Ink”](#fix5)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -85,12 +77,16 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
@@ -103,13 +99,13 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -120,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
  As mentioned in the user manual of the Huion pen, you should check the**Support TabletPC** box to enable the pressure sensitivity function in a variety of drawing programs. Here’s how:
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Check the**Support TabletPC** box, as shown below.
 
@@ -181,17 +173,29 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Follow the on-screen wizard to install the driver.
 
@@ -201,10 +205,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Uncheck “Enable Windows Ink”
 
  This fix should work if you’re experiencing brush lags or other similar issues in Photoshop, with a Huion pen/tablet. Here’s how to do it:
@@ -213,13 +213,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then save the file as**PSUserConfig.txt** to the following location:
 
@@ -232,7 +232,7 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
@@ -260,16 +260,17 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-secrets-unveiled-learn-to-hide-oneself-on-video/"><u>[New] Secrets Unveiled? Learn to Hide Oneself on Video</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-navigating-past-error-code-0x800f0922-on-your-windows-11-system/"><u>Effortless Fixes for Navigating Past Error Code 0X800F0922 on Your Windows 11 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhance-your-gaming-experience-resolve-rdr2-out-of-memory-errors-instantly/"><u>Enhance Your Gaming Experience: Resolve RDR2 Out of Memory Errors Instantly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/enhancing-professionalism-blurring-teambackgrounds-effectively/"><u>Enhancing Professionalism Blurring TeamBackgrounds Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-correcting-corrupted-file-issues-in-latest-windows-operating-systems/"><u>Expert Advice: Correcting Corrupted File Issues in Latest Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fixing-errors-with-remote-procedure-call-servers-in-windows-environments/"><u>Guide to Fixing Errors with Remote Procedure Call Servers in Windows Environments</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-recruiting-revolutionaries-10-most-motivational-episodes/"><u>In 2024, Recruiting Revolutionaries - 10 Most Motivational Episodes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/noise-reduction-for-better-video-experiences-on-youtube-for-2024/"><u>Noise Reduction for Better Video Experiences on YouTube for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-review-the-exceptional-performance-and-value-of-the-ecoflow-river-t3-mini/"><u>Top Review: The Exceptional Performance & Value of the EcoFlow River T3 Mini</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transforming-brands-a-list-of-20-keymarketing-phrases/"><u>Transforming Brands A List of 20 Keymarketing Phrases</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlocking-potential-in-instagram-engagement-with-advanced-data-tools-for-2024/"><u>Unlocking Potential in Instagram Engagement with Advanced Data Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-videography-7-free-sound-effects-collection/"><u>[New] 2024 Approved Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-ig-coverage-toolkit-apple-and-android-included/"><u>[New] In 2024, The Ultimate IG Coverage Toolkit, Apple & Android Included</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-viral-visionaries-top-10-tiktok-secrets/"><u>[Updated] In 2024, Viral Visionaries Top 10 TikTok Secrets</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-motorola-moto-g14-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Motorola Moto G14 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-troubles-on-windows-11-discover-quick-and-simple-fixes-now/"><u>Bluetooth Troubles on Windows 11? Discover Quick & Simple Fixes Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-productivity-navigate-and-optimize-file-explorer-on-windows-11/"><u>Enhancing Productivity: Navigate and Optimize File Explorer on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-retrieving-windows-that-have-slipped-off-your-monitors-edge/"><u>Expert Advice: Retrieving Windows That Have Slipped Off Your Monitor's Edge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-causing-a-crash-in-tribes-of-midgard/"><u>Fixes for Causing a Crash in Tribes of Midgard</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-dark-to-light-wows-3d-rendering-revolution/"><u>From Dark to Light: WoW's 3D Rendering Revolution</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconciling-excel-and-windows-notepad-compatibility/"><u>Reconciling: Excel and Windows Notepad Compatibility</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-resolving-ethernet-not-connecting-errors-in-windows-11-and-windows-7/"><u>Troubleshooting Steps for Resolving 'Ethernet Not Connecting' Errors in Windows 11 and Windows 7</u></a></li>
 </ul></div>
 

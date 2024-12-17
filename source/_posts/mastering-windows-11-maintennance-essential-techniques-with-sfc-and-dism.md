@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11 Maintennance: Essential Techniques with SFC and DISM"
-date: 2024-08-22T19:18:18.310Z
-updated: 2024-08-23T19:18:18.310Z
+date: 2024-12-09T20:30:28.962Z
+updated: 2024-12-16T19:10:20.379Z
 tags:
   - win11
   - win10
@@ -28,33 +28,39 @@ When you pay the money and look forward to enjoying the game but find that the g
 5. [Check your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 6. [Set the Windows Secondary Logon is set to automatic](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Rename the Destiny 2 folder
 
  To solve Destiny 2 stuck on initializing problem, this method is the first to go. Many users have proven its effective.
 
 1. Pause the initializing process and close**Battle.net** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d22.jpg)
 2. Navigate to your Destiny 2 folder location. Usually, it’s in C:\\Program Files (x86)\\. Then rename the Destiny 2 folder.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
 4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
 6. Be patient, the process will resume from where you left off after verifying the files that are already there. Then you’re good to go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After downloading the program successfully, it is recommended to[update your driver](https://tools.techidaily.com/drivereasy/download/) to improve your gaming performances.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Reinstall the Battle.net app
 
 Reinstall the Battle.net can may help you solve the issue.
@@ -65,9 +71,6 @@ Reinstall the Battle.net can may help you solve the issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Change Blizzard Settings
 
  Change the Blizzard’s download settings may help you increase the download speed.
@@ -75,23 +78,20 @@ Reinstall the Battle.net can may help you solve the issue.
 1. Click on the Blizzard logo on the upper right side. Then select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/d1.jpg)
 2. Select the**Game Installs/Update** . Scroll down to find the Network Bandwidth.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Change the Max Download rate by setting the Latest Updates and Future Patch updates to 0 to get the max download rate. Then Press**Done** to apply the settings.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d12.jpg)
 4. Download Destiny 2 to see whether it can help.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Run your Blizzard client as administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Blizzard can make full use of its features, so run Blizzard as an administrator to see if this fixes your issue.
@@ -101,13 +101,7 @@ Reinstall the Battle.net can may help you solve the issue.
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/b2.jpg)
 4. Run Blizzard and check whether the problem is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Method 5: Check your antivirus software
 
  Sometimes your antivirus software may be the reason for the Destiny 2 stuck on initializing. So disable your antivirus software and try downloading again to check if the issue persists.
@@ -118,9 +112,6 @@ Reinstall the Battle.net can may help you solve the issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Set the Windows Secondary Logon is set to automatic
 
  Windows Secondary Logon allows administrators to log on with a non-administrator account to perform administrative tasks without logging off. The Secondary Logon service must be enabled for Blizzard games to install and run.
@@ -130,14 +121,15 @@ Reinstall the Battle.net can may help you solve the issue.
 3. Locate and right-click**Secondary Logon** in the right pane.
 4. Select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/servi.jpg)
 5. Find Startup type and select**Automatic** in the dropdown menu. Then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ser.jpg)
 
  Some security programs may turn the secondary logon service off. If the service is disabled again after you’ve switched it to automatic, you must configure your security program to stop disabling the service. Contact your security program’s manufacturer if you need assistance with configuring your security software.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -167,6 +159,10 @@ OR
 2. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu1.jpg)
 3. Click the**Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
@@ -179,8 +175,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +182,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-5-choice-of-online-meeting-recorder-gadgets/"><u>[New] In 2024, Ultimate 5 Choice of Online Meeting Recorder Gadgets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>[Updated] 2024 Approved Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-advanced-techniques-for-proximity-viewing-in-roblox-for-2024/"><u>[Updated] Advanced Techniques for Proximity Viewing in Roblox for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-breaking-down-manycams-recording-capabilities-for-professionals/"><u>[Updated] Breaking Down ManyCam's Recording Capabilities for Professionals</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-fixing-unspecified-module-errors-on-pcmac/"><u>Easy Solutions for Fixing Unspecified Module Errors on PC/Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-battlenet-not-opening-on-a-windows-1110-pc/"><u>How to Fix Battle.net Not Opening on a Windows 11/10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-31-in-windows/"><u>How to Fix Error Code 31 in Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-12-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 12 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-media-disconnected-in-windows/"><u>How to Fix Media Disconnected in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-troubleshoot-your-non-functional-steelseries-arctis-er-audio-device/"><u>Solved! How to Troubleshoot Your Non-Functional SteelSeries Arctis Er Audio Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforma-tu-musica-desde-el-codec-aac-al-estandar-mpg-gratuito-en-linea-con-la-ayuda-de-movavi/"><u>Transforma Tu Música Desde El Códec AAC Al Estándar MPG Gratuito en Línea Con La Ayuda De Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-boot-problems-on-your-windows-11-system/"><u>Troubleshooting Persistent Boot Problems on Your Windows 11 System</u></a></li>
+</ul></div>
 

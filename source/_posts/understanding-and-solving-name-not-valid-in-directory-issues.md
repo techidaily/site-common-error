@@ -1,7 +1,7 @@
 ---
 title: Understanding and Solving 'Name Not Valid in Directory' Issues
-date: 2024-08-15T11:12:22.419Z
-updated: 2024-08-16T11:12:22.419Z
+date: 2024-12-12T19:14:01.944Z
+updated: 2024-12-16T18:45:44.279Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
  And luckily they’ve successfully tackled the noise problem with the fixes below. So check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for speakers crackling
 
  All the screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** .
@@ -31,9 +35,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -41,16 +42,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
@@ -70,9 +75,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
@@ -85,16 +87,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -112,8 +118,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +125,26 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-step-by-step-guide-to-crafting-an-effective-youtube-watch-later-playlist/"><u>[Updated] In 2024, A Step-by-Step Guide to Crafting an Effective YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-internal-device-recorder-to-capture-screens-on-mate-1020-and-p-series-phones-p2010-for-2024/"><u>[Updated] Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10) for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-your-yoga-900s-with-latest-windows-10-driver-pack/"><u>Boost Your Yoga 900S with Latest Windows 10 Driver Pack</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-couldnt-find-the-specified-module-errors/"><u>Effective Solutions for 'Couldn't Find the Specified Module' Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-correcting-a-broken-launcher-in-windows-11-os/"><u>Effective Solutions for Correcting a Broken Launcher in Windows 11 OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-resolving-win-11-update-0x80036003-critical-bug/"><u>Effective Solutions for Resolving Win 11 Update 0X80036003 Critical Bug</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211602649-fix-hp-keyboard-issues-in-no-time-with-these-easy-steps/"><u>Fix HP Keyboard Issues in No Time with These Easy Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ice-acceleration-showdown-at-the-olympics-2022-for-2024/"><u>Ice Acceleration Showdown at the Olympics, 2022 for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-file-explorer-on-windows-10-a-comprehensive-guide/"><u>Mastering File Explorer on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-no-imovie-no-problem-top-5-free-online-video-editors/"><u>New 2024 Approved No iMovie? No Problem! Top 5 Free Online Video Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/nikon-d500-revolutionizing-4k-dslr-photography-for-2024/"><u>Nikon D500 Revolutionizing 4K DSLR Photography for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quickly-rectify-your-downed-dns-server-with-our-4-expert-tips/"><u>Quickly Rectify Your Downed DNS Server with Our 4 Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-plugged-in-but-not-charging-problems-on-your-surface-device-today/"><u>Resolve Plugged-In But Not Charging Problems on Your Surface Device Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-msmpengexe-high-cpu-usage-on-windows-11-explained-and-fixed/"><u>Solution: MsMpEng.exe High CPU Usage on Windows 11 Explained and Fixed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-top-performing-work-laptops-beyond-lenovo-and-apple-zdnet/"><u>The Ultimate Guide to Top-Performing Work Laptops Beyond Lenovo and Apple | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-dell-usb-connection-issues-easily/"><u>Troubleshooting and Solving Dell USB Connection Issues Easily</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/two-primary-methods-for-moving-your-active-directory-a-step-by-step-guide/"><u>Two Primary Methods for Moving Your Active Directory: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

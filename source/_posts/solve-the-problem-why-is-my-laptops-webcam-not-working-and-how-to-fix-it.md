@@ -1,7 +1,7 @@
 ---
 title: "Solve the Problem: Why Is My Laptop's Webcam Not Working and How to Fix It?"
-date: 2024-12-01T02:25:32.668Z
-updated: 2024-12-04T05:13:26.241Z
+date: 2024-12-09T19:23:14.082Z
+updated: 2024-12-16T16:28:51.675Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
  Here’re 4 fixes that have helped other users resolve the**microphone not working on laptop in Windows 10, 8.1 and 7** issue. Just work your way down the list until the problem is fixed.
@@ -34,6 +30,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -54,7 +54,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
@@ -62,7 +62,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -85,7 +85,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -97,6 +97,11 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
@@ -106,10 +111,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
@@ -148,19 +149,20 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-grow-with-integrity-selecting-reputable-tiktok-leads/"><u>[Updated] 2024 Approved Grow with Integrity Selecting Reputable TikTok Leads</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209146215-bypass-windows-update-trouble-clearing-code-8007000e-with-ease/"><u>Bypass Windows Update Trouble: Clearing Code 8007000E with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-infamous-windows-0x800704cf-network-issue-a-step-by-step-solution/"><u>Bypassing the Infamous Windows 0X800704CF Network Issue - A Step-by-Step Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-demise-of-yahoo-messenger-reasons-and-consequences-for-users/"><u>Decoding the Demise of Yahoo! Messenger: Reasons and Consequences for Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-screen-camera-and-sound-recording-using-winxvideo-intelligent-technology/"><u>Effortless Screen, Camera, & Sound Recording Using WinxVideo Intelligent Technology</u></a></li>
-<li><a href="https://article-tips.techidaily.com/expert-advice-on-editing-away-backgrounds/"><u>Expert Advice on Editing Away Backgrounds</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-fixing-windows-1011-login-errors-caused-by-user-profile-service-glitches/"><u>Expert Advice: Fixing Windows 10/11 Login Errors Caused by User Profile Service Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/locating-group-policies-a-users-guide-for-win-users/"><u>Locating Group Policies: A User's Guide for Win Users</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-inisections-a-key-to-organized-and-efficient-document-management/"><u>Mastering IniSections: A Key to Organized and Efficient Document Management</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/meet-the-exceptional-aio-cooler-by-manufacturer-tryx-chinas-latest-with-stunning-curved-amoled-display-technology/"><u>Meet the Exceptional AIO Cooler by Manufacturer Tryx - China's Latest with Stunning Curved AMOLED Display Technology</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/reinstating-lost-binkw32dll-expert-solutions-and-steps/"><u>Reinstating Lost binkw32.dll: Expert Solutions and Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-windows-network-failure-issue-0x80cu04cf/"><u>Step-by-Step Solution for Windows Network Failure Issue [0X80cu04cf]</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-correcting-registry-mismatches-to-restore-photo-functionality-in-windows-10/"><u>Step-by-Step Solution: Correcting Registry Mismatches to Restore Photo Functionality in Windows 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences/"><u>[Updated] The Art of iPhone Cinematography Transforming Fast Motion Into Sluggish Sequences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-tactical-approach-to-effortless-ipad-screen-records/"><u>2024 Approved Tactical Approach to Effortless iPad Screen Records</u></a></li>
+<li><a href="https://common-error.techidaily.com/amd-hd-audio-fix-problem-with-device-connection-resolved/"><u>AMD HD Audio Fix: Problem with Device Connection Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-80072ee2-windows-update-error/"><u>Easy to Fix 80072EE2 Windows Update Error</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-the-2024-olympic-games-without-cost-using-an-over-the-air-antenna/"><u>Enjoy the 2024 Olympic Games without Cost Using an Over-the-Air Antenna</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-roundup-high-quality-zero-price-livestream-software-list-for-2024/"><u>Exclusive Roundup High-Quality, Zero-Price LiveStream Software List for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-90-lite-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from 90 Lite?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-guide-solve-the-common-anti-cheat-bug-in-apex-legends/"><u>Quick Guide: Solve the Common Anti-Cheat Bug in Apex Legends</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-fixing-nonfunctional-ethernet-on-windows-107-devices/"><u>Step-by-Step Solutions for Fixing Nonfunctional Ethernet on Windows 10/7 Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/tapping-into-personal-memories-on-facebook-today/"><u>Tapping Into Personal Memories on Facebook Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-epson-scan-non-responsiveness/"><u>Troubleshooting: Epson Scan Non-Responsiveness</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-solution-for-critical-process-died-blue-screen-bsod-error-code-c00000e9-in-windows/"><u>Ultimate Solution for Critical Process Died Blue Screen (BSoD) Error Code C00000e9 in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-mouse-malfunction-on-computers-discover-quick-and-effective-repair-techniques/"><u>USB Mouse Malfunction on Computers? Discover Quick and Effective Repair Techniques!</u></a></li>
 </ul></div>
 

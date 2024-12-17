@@ -1,7 +1,7 @@
 ---
 title: Restoring Windows 10/11 Audio, All Systems Go!
-date: 2024-08-22T19:20:44.691Z
-updated: 2024-08-23T19:20:44.691Z
+date: 2024-12-11T22:52:20.054Z
+updated: 2024-12-16T17:12:25.878Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
  If there’s no problem with the HDMI port and the cable, you can try the two solutions below. Start with Solution 1, then try Solution 2 if it doesn’t solve the problem.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -39,6 +43,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Check if you’re able to see the TV as a second monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f296382361.jpg)
@@ -50,11 +58,19 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
 After that, check to see if Windows can detect your TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
 
@@ -78,6 +94,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
 **TIP:** After connecting your TV via HDMI successfully, if you can’t hear sound from the output, go to [Fix HDMI No Sound in Windows 10](https://tools.techidaily.com/drivereasy/download/) for the solutions.
@@ -92,8 +112,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +119,23 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-synthesizing-success-the-power-of-magix-samplitude/"><u>[Updated] Synthesizing Success The Power of Magix Samplitude</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instant-anonymity-shield-face-details/"><u>2024 Approved Instant Anonymity Shield Face Details</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/action-packed-snapshots-the-bold-polaroid-xs-100i-review/"><u>Action-Packed Snapshots The Bold Polaroid XS 100I Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/airborne-mass-movers-selecting-the-best-drones/"><u>Airborne Mass Movers Selecting the Best Drones</u></a></li>
+<li><a href="https://common-error.techidaily.com/dxgidll-flaw-cured-pubg-compatibility-issue/"><u>Dxgi.dll Flaw: Cured PUBG Compatibility Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-fixes-get-out-of-the-endless-booting-loop-on-your-device/"><u>Expert Fixes: Get Out of the Endless Booting Loop on Your Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-distorted-or-missing-sounds-on-youtube-for-windows-11-users/"><u>How to Fix Distorted or Missing Sounds on YouTube for Windows 11 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-sonys-2024-event-breakthrough-gadgets-news-highlights-and-future-outlook/"><u>Inside Sony's 2024 Event: Breakthrough Gadgets, News Highlights & Future Outlook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-obs-recording-setup-and-usage-tips-for-mac-users-for-2024/"><u>Mastering OBS Recording Setup & Usage Tips for Mac Users for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization/"><u>New 2024 Approved Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unknown-usb-device-detected-port-reset-failed-error-on-windows-11/"><u>Resolving 'Unknown USB Device Detected: Port Reset Failed' Error on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-10-audio-adjustment-problem-complete-guide/"><u>Resolving the Windows 10 Audio Adjustment Problem – Complete Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/singing-machine-sml3er-these-are-all-indicative-of-the-machines-ease-of-use-and-vibrant-visual-appeal-making-them-suitable-for-a-target-audience-that-values153/"><u>Singing Machine SML3er. These Are All Indicative of the Machine's Ease of Use and Vibrant Visual Appeal, Making Them Suitable for a Target Audience that Values Simplicity and Entertainment in Their Karaoke Experience.</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-to-restore-dell-laptop-keyboard-functionality/"><u>Solution Steps to Restore Dell Laptop Keyboard Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209846160-step-by-step-walkthrough-activating-usb-tethering-in-windows-10-made-easy/"><u>Step-by-Step Walkthrough: Activating USB Tethering in Windows 10 Made Easy!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-windows-11-update-issues/"><u>Troubleshooting Guide: Fixing Windows 11 Update Issues</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

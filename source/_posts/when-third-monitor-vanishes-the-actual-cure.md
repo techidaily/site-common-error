@@ -1,7 +1,7 @@
 ---
 title: When Third Monitor Vanishes - The Actual Cure
-date: 2024-08-15T11:13:31.349Z
-updated: 2024-08-16T11:13:31.349Z
+date: 2024-12-09T22:48:40.640Z
+updated: 2024-12-16T20:43:45.221Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 ## Third Monitor Not Detected? Here’s the Real Fix
 
  Many users don’t stop at dual monitors and go further to triple-monitor setup. Either for entertainment or work efficiency, anyway, it’s just…awesome, and something that can “expand your horizon” and multiply your joy. But, wait…why is the**third monitor not detected** ? Don’t worry. In this post, we’ll show you how to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -34,51 +38,69 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 
 1. Press the**Windows logo key** and the**P key** at the same time. Then select**PC screen only** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-project-pc-screen-only.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 2. Disconnect all the external monitors (unplug the cables) and power off your computer.
 3. Reconnect all the monitors and power on your computer.
 4. Press the**Windows logo key** and the**P key** again. And click**Extend** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-project-extend.jpg)
 5. See if your third monitor is working now. If not, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check Multiple Monitors settings
 
 1. Right-click your desktop and select**Display settings** (Windows 11, 10) or Screen resolution (older versions).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/win-11-display-settings.jpg)
 2. Here you can confirm if all of your displays are detected. If not, click on the**Multiple displays** section and select**Detect** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-display-detect.jpg)
 3. If yes, drag the three monitors to match your display configuration. (You can click**Identify** if you don’t know which screen is which.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Alternatively, you can right-click on your desktop and select**NVIDIA Control Panel** to double-check your settings.
 5. Go to**Display** \>**Set up multiple displays** , and make sure you’ve checked all the displays. You can also drag the icons here.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/control-panel-set-up.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your 3rd monitor remains not detected after basic troubleshooting, the culprit might be your graphics drivers. You can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable your graphics card
 
 1. On your keyboard, press the**Windows logo key** and the**R key** (Win+R) to open the Run command window. Then enter**devmgmt.msc** in the box and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Expand Display adapters. Right-click your graphics card driver and select**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/disable.jpg)
 3. Wait for about 5 seconds for the device to be disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click the graphics driver again and select**Enable device** .
 5. Your third monitor should be detected right now.
 
 **Note:** If you have two graphics cards under Display adapters, you can disable NVIDIA or AMD cards and enable them back.  
   
  If it doesn’t work for you this way, you can just disable your Intel card and let NVIDIA or AMD card driver do the job. Then reconnect your third monitor to check if it’s working now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -128,9 +150,6 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Rollback your graphics driver
 
  If re-enabling your graphics driver failed to work, then the graphics driver may be at fault. You can roll back the graphics driver if you’ve made any changes recently. Sometimes the latest drivers don’t work properly. But if you didn’t perform any updates lately, you can skip to**[Fix 5](#f5)** to update your graphics driver instead.
@@ -138,21 +157,12 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 1. Open**Device Manager** .
 2. Expand the**Display adapters** , right-click your graphics driver, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 3. Go to the**Driver** tab and click**Roll Back Driver** , then follow the on-screen instructions to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 
 > **Note:** _If the_ **_Roll Back Driver_**   _option is grayed out, it means there is no driver version that Windows can roll back to. This doesn’t mean it’s impossible to roll back the driver, just that you won’t be able to do it from the built-in option. You can download a previous graphics driver from the manufacturer’s website for your graphics card and install it manually, or try the following fix._
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6\. Repair your PC
 
  It’s very likely that there’re some issues that are really hard to detect. The most common issues are corrupt, damaged, or missing system files. Here’s how:
@@ -173,16 +183,10 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -195,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -259,8 +260,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -268,4 +267,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-smooth-surfaces-from-stability-handheld-tech-for-pros/"><u>[New] 2024 Approved Smooth Surfaces From Stability Handheld Tech for Pros</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-propel-your-video-writes-the-ai-way/"><u>[New] Propel Your Video' Writes The AI Way</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-strategies-for-efficiently-configuring-facebooks-instream-ads/"><u>[New] Strategies for Efficiently Configuring Facebook's Instream Ads</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-dji-mavic-pro-vs-gopro-karma/"><u>[Updated] Dji Mavic Pro Vs GoPro Karma</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063635710-fasten-radeon-4800-driver-updates/"><u>Fasten Radeon 4800 Driver Updates!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-and-repair-a-broken-applicationexe-file/"><u>How to Address and Repair a Broken Application.exe File</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-se-2020-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://facebook.techidaily.com/legal-battle-trump-vs-social-media-over-free-expression/"><u>Legal Battle: Trump Vs. Social Media Over Free Expression</u></a></li>
+<li><a href="https://common-error.techidaily.com/managing-excessive-resource-utilization-in-windows/"><u>Managing Excessive Resource Utilization in Windows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-snapchat-incorporating-songs-into-your-videos-for-2024/"><u>Mastering Snapchat Incorporating Songs Into Your Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/origin-gaming-support-correcting-game-setup-problems-and-errors/"><u>Origin Gaming Support: Correcting Game Setup Problems and Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-strategies-for-dealing-with-vcruntime1c-dll-not-found-issue/"><u>Solution Strategies for Dealing with VCRUNTIME1C DLL Not Found Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/surface-book-pro-n-cam-trouble-on-windows-11-solutions-inside/"><u>Surface Book (Pro N) Cam Trouble on Windows 11 - Solutions Inside</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-potential-influence-of-artificial-intelligence-on-game-development/"><u>The Potential Influence of Artificial Intelligence on Game Development</u></a></li>
+</ul></div>
 

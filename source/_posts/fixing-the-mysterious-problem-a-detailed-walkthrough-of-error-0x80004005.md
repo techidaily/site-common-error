@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Mysterious Problem: A Detailed Walkthrough of Error 0X80004005"
-date: 2024-11-08T16:55:28.478Z
-updated: 2024-11-15T16:34:12.845Z
+date: 2024-12-09T20:56:50.114Z
+updated: 2024-12-16T19:23:15.915Z
 tags:
   - win11
   - win10
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098-windows-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  _Error Code**0xc0000098**_  o_n Windows 7, Vista_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
@@ -100,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) In Command Prompt, type the following command lines and hit Enter after each command. (There’s a space between**bootrec** and**/** .)
 
 bootrec /scanos
@@ -122,6 +123,10 @@ bootrec /rebuildbcd
  6) After you have entered the commands above, close the Command Prompt and Reboot your PC.
 
  The 0xc0000098 error should now be fixed as your PC begins to load. If not, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Startup Repair
 
@@ -155,13 +160,6 @@ chkdsk C: /f /r /x
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: System File Checker
 
  The error 0xc0000098 can also be caused by missing or corrupt system files. System File Checker (SFC) can help you to restore the missing files and repair any problematic ones.
@@ -187,6 +185,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
 
@@ -219,10 +221,7 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type**Check for updates** in the Search box and press**Enter** .
@@ -230,13 +229,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ##### 2\. Device Manager
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
@@ -261,10 +253,7 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
@@ -272,10 +261,7 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -302,21 +288,18 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-auditory-logging-system-tones-and-voice-samples/"><u>[New] Auditory Logging System Tones & Voice Samples</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-average-revenue-what-every-view-contributes-to-creators/"><u>[New] In 2024, Average Revenue What Every View Contributes to Creators</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-untold-story-of-instagram-story-consumers/"><u>[New] The Untold Story of Instagram Story Consumers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficiently-track-your-read-emails-with-these-gmail-tips-and-tricks/"><u>Efficiently Track Your Read Emails with These Gmail Tips & Tricks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/expertly-convert-videos-on-your-device-with-the-most-trusted-apps-8-for-2024/"><u>Expertly Convert Videos on Your Device with the Most Trusted Apps #8 for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/guidelines-for-securing-trustware-trustedinstaller-approval-for-file-modification/"><u>Guidelines for Securing TrustWare TrustedInstaller Approval for File Modification</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-fatal-error-1603-and-complete-software-installation-successfully/"><u>How to Resolve 'Fatal Error 1603' & Complete Software Installation Successfully</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-full-disclosure-gecata-gameplay-tracker-reviewed/"><u>In 2024, Full Disclosure Gecata Gameplay Tracker Reviewed</u></a></li>
-<li><a href="https://common-error.techidaily.com/local-authority-security-patched-successfully-learn-more-inside/"><u>Local Authority Security Patched Successfully - Learn More Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-geforce-experience-launch-problem-a-complete-guide/"><u>Resolving the GeForce Experience Launch Problem - A Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-rpc-server-unavailable-error-code-0xc0000098-in-windows-a-step-by-step-guide/"><u>Solving the RPC Server Unavailable (Error Code 0xC0000098) in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-network-adapter-failures-on-windows-117-pcs/"><u>Step-by-Step Guide: Resolving Network Adapter Failures on Windows 11/7 PCs</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-post-cloning-dark-monitor-dilemma-on-windows-pcs/"><u>Troubleshooting Post-Cloning Dark Monitor Dilemma on Windows PCs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultra-compact-and-efficient-hp-spectre-x360-touchscreen-review-for-on-the-go-productivity/"><u>Ultra-Compact and Efficient: HP Spectre X360 Touchscreen Review for On-the-Go Productivity</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 7? | Stellar</u></a></li>
-<li><a href="https://common-error.techidaily.com/yac598-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a1cymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-r103/"><u>YAC598 - Yamaha'aturboSound II Sound Module Based on the YMF7A1C/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-blu-ray-players-the-ultimate-list-for-24/"><u>[New] Leading Blu-Ray Players The Ultimate List for '24</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence/"><u>[New] Stream Power Showdown VMix Clashes with Wirecast for Broadcast Excellence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ideal-environments-for-digital-streaming-for-2024/"><u>[Updated] Ideal Environments for Digital Streaming for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-innovative-video-concepts-through-google-trends-exploration/"><u>2024 Approved Innovative Video Concepts Through Google Trends Exploration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/driving-into-excellence-with-the-massive-remote-controlled-galaxy-ford-f150-pickup-review/"><u>Driving Into Excellence with the Massive Remote-Controlled Galaxy Ford F150 Pickup Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-hearthstone-lagging/"><u>Easy To Fix Hearthstone Lagging</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-spark-10c-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Spark 10C Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-icue-hardware-recognition-errors-step-by-step-guide/"><u>Resolving iCUE Hardware Recognition Errors: Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-revolutionary-ultrabook-a-detailed-review-of-the-durable-and-portable-lg-gram-156-laptop-2018-release/"><u>The Revolutionary Ultrabook: A Detailed Review of the Durable & Portable LG Gram 15.6 Laptop (2018 Release)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-errors-when-playing-media-files-on-windows/"><u>Troubleshooting Errors When Playing Media Files on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/unveiling-the-solution-overcoming-total-war-romes-remastered-persistent-crashes/"><u>Unveiling the Solution: Overcoming Total War: Rome's Remastered Persistent Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-update-failed-successful-strategies-for-resolving-error-0x80240034/"><u>Windows 10 Update Failed? Successful Strategies for Resolving Error 0X80240034</u></a></li>
 </ul></div>
 

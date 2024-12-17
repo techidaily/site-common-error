@@ -1,7 +1,7 @@
 ---
 title: Loadlibrary Stuck on Error Cuffed | Corrective Steps for The Parameter Is Incorrect
-date: 2024-08-15T11:12:34.609Z
-updated: 2024-08-16T11:12:34.609Z
+date: 2024-12-11T19:16:41.923Z
+updated: 2024-12-17T01:39:40.081Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Repair your game
 
  Missing or corrupt game files can cause a wide variety of issues. So you need to make sure they are intact. The feature, repairing games allows you to achieve that goal. It checks your game’s installation and then automatically downloads any replacement or missing files:
@@ -36,6 +40,10 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 2) Select**My Game Library** . Right-click on your game title and select**Repair** .  
   
 ![Origin error There is a problem with your game's setup. Please reinstall your game. ](https://images.drivereasy.com/wp-content/uploads/2021/05/repair-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
 
@@ -61,20 +69,18 @@ If that didn’t help, try the next fix below.
  3) Type or paste**%ProgramData%/Origin** and press Enter.  
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
@@ -85,15 +91,17 @@ If that didn’t help, try the next fix below.
  7) Look for the**Origin** folder. Right-click it and select**Delete** .  
   
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) In the address bar, click on**AppData** .  
   
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9) Open the**Local** folder and delete the**Origin** folder in here.  
@@ -104,9 +112,6 @@ If that didn’t help, try the next fix below.
 
 If this didn’t give you any luck, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update your device drivers
 
  A driver is an essential piece of software that lets your system communicate with your hardware. If the device drivers are outdated, it would cause noticeable performance problems. When there are error messages popping up while launching a program, you should consider if you’re using any outdated drivers.
@@ -122,17 +127,11 @@ Here’s how to update drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -147,9 +146,6 @@ Here’s how to update drivers with Driver Easy:
 2) Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Run As Administrator** .  
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If you want to make Origin always run as administrator, take these steps:
 
@@ -163,14 +159,15 @@ If you want to make Origin always run as administrator, take these steps:
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 5\. Install the latest visual C++ redistributable pack
 
  Microsoft Visual C++ Redistributable is a standard distributable package of shared code that comes as part of your Windows and enables apps to run on your PC. If it’s missing or your current one is out-of-date, some apps that rely on the redistributable will fail to start or run and it will result in a total mess. Therefore, we would suggest you install the latest Visual C++ from[Microsoft](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) , both the x64 and x86 versions (you’ll find them in the**Visual Studio 2015, 2017 and 2019** section. )
 
 If that didn’t help, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Download Media Feature Pack for Windows 10 N
 
@@ -178,18 +175,23 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
  1) On your keyboard, press the**Windows + I keys** to open Settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -201,8 +203,6 @@ If that didn’t help, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +210,26 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enriching-youtube-content-with-improved-sound-quality-for-2024/"><u>[Updated] Enriching YouTube Content with Improved Sound Quality for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-delete-facebook-story/"><u>[Updated] In 2024, How to Delete Facebook Story?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-amplify-your-content-speedy-instagram-fame/"><u>2024 Approved Amplify Your Content Speedy Instagram Fame</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-port-reset-failures-comprehensive-troubleshooting-for-unidentified-usb-devices-in-windows/"><u>Bypassing Port Reset Failures: Comprehensive Troubleshooting for Unidentified USB Devices in Windows 지급</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-minecraft-lags-with-these-simple-troubleshooting-steps/"><u>Eliminate Minecraft Lags with These Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-hp-laptops-unresponsive-usb-port-a-step-by-step-guide/"><u>Fixing HP Laptop's Unresponsive USB Port - A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-hands-on-tactics-for-recording-and-storing-google-voice-talks/"><u>In 2024, Hands-On Tactics for Recording and Storing Google Voice Talks</u></a></li>
+<li><a href="https://common-error.techidaily.com/in-depth-analysis-of-unexpected-shutdown-issues-during-gaming-across-all-windows-versions/"><u>In-Depth Analysis of Unexpected Shutdown Issues During Gaming Across All Windows Versions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-through-non-displaying-thumbnails-on-your-shorts-for-2024/"><u>Navigating Through Non-Displaying Thumbnails on Your Shorts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-mouse-issues-the-definitive-fix-for-a-broken-right-click/"><u>Resolving Windows 10 Mouse Issues: The Definitive Fix for a Broken Right Click</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-chatbot-experience-with-these-9-powerful-plugins/"><u>Revolutionize Your Chatbot Experience with These 9 Powerful Plugins</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-wacom-tablet-not-working-dilemma/"><u>Step-by-Step Guide: Overcoming Wacom Tablet Not Working Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-when-windows-is-stuck-during-setup/"><u>Step-by-Step Solution for When Windows Is Stuck During Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/success-story-restoring-life-to-your-corsair-hs50-microphone-tips-and-tricks/"><u>Success Story: Restoring Life to Your Corsair HS50 Microphone - Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-complete-curve-editing-manual-for-photoshop-for-2024/"><u>The Complete Curve Editing Manual for Photoshop for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-how-to-generate-speech-from-text-the-top-text-to-speech-converters-for-2024/"><u>Updated How To Generate Speech From Text | The Top Text-to-Speech Converters for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209256710-windows-10-users-rejoice-comprehensive-guide-to-fixing-your-keyboard-responsiveness-issues/"><u>Windows 10 Users Rejoice: Comprehensive Guide to Fixing Your Keyboard Responsiveness Issues.</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-why-it-departments-must-step-up-for-superior-customer-interactions/"><u>ZDNet Exclusive: Why IT Departments Must Step Up for Superior Customer Interactions</u></a></li>
+</ul></div>
 

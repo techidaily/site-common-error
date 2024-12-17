@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Solving the Mystery of Sudden Computer Shutdowns"
-date: 2024-08-22T19:21:58.924Z
-updated: 2024-08-23T19:21:58.924Z
+date: 2024-12-16T00:57:53.393Z
+updated: 2024-12-16T20:40:00.960Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 2. **[Update the Corsair Keyboard driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset your keyboard
 
  Most Corsair keyboards have a reset function to fix unexpected issues, including the lighting failure. Depending on the type of Corsair keyboard you’re using, here’s how to reset it:
@@ -32,6 +36,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 #### Wired keyboard  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Corsair_K100_Gaming_Keyboard_16.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Unplug your keyboard from your computer.
 2. Press and hold the**ESC** key (or the**FN + F4** keys).
@@ -49,8 +57,9 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update the Corsair keyboard driver
 
  This lighting problem may occur if you are using**the wrong keyboard driver or it’s out of date** . So you should check if there’s any updated version of your Corsair keyboard driver and upgrade to it to see if the backlight problem can be fixed.
@@ -61,14 +70,8 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Update and configure the iCUE software
 
  iCUE is a software that allows you to control the performance of Corsair’s devices. Updating the iCUE software may help you deal with bugs that relate to your backlight problem. Here is how:
@@ -78,19 +81,19 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -106,8 +109,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +116,20 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-list-of-live-streaming-camera-models/"><u>[New] The Ultimate List of Live-Streaming Camera Models</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-skilled-uav-operation-tips-for-filmmakers/"><u>[Updated] Skilled UAV Operation Tips for Filmmakers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-perfection-iphone-camera-skills-guide/"><u>2024 Approved Capture Perfection IPhone Camera Skills Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-fix-reactivate-your-local-security-protocols-now/"><u>Immediate Fix: Reactivate Your Local Security Protocols Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-apples-content-downloading-with-ease/"><u>Navigating Apple's Content Downloading with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-windows-struggles-to-find-compatible-printer-drivers/"><u>Resolved: Windows Struggles to Find Compatible Printer Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-stalled-windows-updates-a-step-by-step-guide/"><u>Resolving Stalled Windows Updates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211454532-steam-game-data-gone-heres-your-step-by-step-fix/"><u>Steam Game Data Gone? Here’s Your Step-by-Step Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-8007000e-update-issue-on-your-pc/"><u>Step-by-Step Guide: Resolving the 8007000E Update Issue on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-get-your-oceanic-journey-up-and-running-again/"><u>Step-by-Step Solutions: Get Your Oceanic Journey Up & Running Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-revealing-your-wi-fi-settings-in-windows-11/"><u>Troubleshooting Guide: Revealing Your Wi-Fi Settings in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-to-fix-error-code-41-on-your-pcs-device-manager/"><u>Troubleshooting Tips to Fix Error Code 41 on Your PC's Device Manager</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wavwmvweb-movavi/"><u>WAV/WMVファイルの無料Web変換ソリューション - Movavi</u></a></li>
+</ul></div>
 

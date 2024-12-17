@@ -1,7 +1,7 @@
 ---
 title: "Windows Update Troubleshooting: A Step-by-Step Fix to Error 80244019"
-date: 2024-12-03T02:18:33.227Z
-updated: 2024-12-03T20:58:08.669Z
+date: 2024-12-12T21:46:10.215Z
+updated: 2024-12-16T18:55:41.284Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/47ffc6f56df8f55aee8393dc2516df4e9eefe4f14
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 fixes for **Mouse keeps disconnecting**
@@ -37,7 +37,7 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -55,7 +55,7 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
@@ -64,11 +64,15 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
@@ -89,10 +93,6 @@ You can update your drivers automatically with either the [**Free**](https://too
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -120,22 +120,22 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-game-sound-transformation-the-no-cost-pathway-in-free-fire/"><u>[New] In-Game Sound Transformation The No-Cost Pathway in Free Fire</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unleash-potential-creating-a-youtube-channel-that-shines-in-games/"><u>[Updated] 2024 Approved Unleash Potential Creating a YouTube Channel that Shines in Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-face-forward-comparing-apple-and-samsungs-face-detection-capabilities/"><u>2024 Approved Face Forward Comparing Apple and Samsung's Face-Detection Capabilities</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-optimal-low-cost-video-conferencing-software-options/"><u>2024 Approved Optimal Low-Cost Video Conferencing Software Options</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0x80n73cf9-explained-solutions-for-your-windows-10-microsoft-store-problems/"><u>Error Code 0X80n73Cf9 Explained: Solutions for Your Windows 10 Microsoft Store Problems</u></a></li>
-<li><a href="https://fox-where.techidaily.com/essential-windows-wow6432-node-registry-key-guide/"><u>Essential Windows WOW6432 Node Registry Key Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-persistent-latency-issues-on-a-windows-11-keyboard/"><u>Fixing Persistent Latency Issues on a Windows 11 Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-microsoft-wi-fi-dock-successful-connection-setup-on-windows-10/"><u>Fixing the Microsoft Wi-Fi Dock: Successful Connection Setup on Windows 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-silence-to-sonata-cropping-and-mixing-music-into-video-content-for-2024/"><u>From Silence to Sonata Cropping & Mixing Music Into Video Content for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-pl2303-chipdriver-version-for-windows-free-download/"><u>Get the Latest PL2303 ChipDriver Version for Windows - Free Download</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-oddworld-soulstorm-pc-game-launch-issues-complete-guide/"><u>How To Fix Oddworld Soulstorm PC Game Launch Issues - Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-a-suddenly-unresponsive-wireless-mouse-in-windows-10-or-11/"><u>How to Resolve a Suddenly Unresponsive Wireless Mouse in Windows 10 or 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-right-click-on-a-windows-10-system/"><u>How to Restore Functionality of Right-Click on a Windows 10 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-your-pc-finding-and-using-the-start-button-on-windows-10/"><u>Mastering Your PC: Finding and Using the Start Button on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-internet-explorer-not-responding-issues-a-step-by-step-guide/"><u>Solving 'Internet Explorer Not Responding' Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-pick-2024s-ultimate-guide-to-premium-network-server-rack-systems/"><u>Top Pick: 2024'S Ultimate Guide to Premium Network Server Rack Systems</u></a></li>
-<li><a href="https://fox-http.techidaily.com/undo-livestream-progress-with-twitch-tricks-for-2024/"><u>Undo Livestream Progress with Twitch Tricks for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-mastering-youtube-stat-tracking-essentials/"><u>[New] In 2024, Mastering YouTube Stat Tracking Essentials</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-viral-vanguard-tiktoks-hottest-video-ideas-for-2024/"><u>[New] The Viral Vanguard TikTok's Hottest Video Ideas for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-sharing-online-videos-from-youtube-to-facebook/"><u>[Updated] The Art of Sharing Online Videos From YouTube to Facebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-resonance-of-rhythm-music-that-echoes-films-for-2024/"><u>[Updated] The Resonance of Rhythm Music That Echoes Films for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/asus-laptop-maintenerence-tips-fixing-stuck-or-broken-function-key-issues/"><u>ASUS Laptop Maintenerence Tips: Fixing Stuck or Broken Function Key Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-gaming-woes-with-x3daudio17dll-repairs/"><u>Avoid Gaming Woes with X3DAudio1_7.dll Repairs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-apple-watch-bargains-for-july-22024-exclusive-deals-curated-by-zdnet/"><u>Discover the Ultimate Apple Watch Bargains for July 2^[/2024 | Exclusive Deals Curated by ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-missing-cursor-issue-in-windows-11-step-by-step-guide/"><u>How to Fix the Missing Cursor Issue in Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/oslos-premier-seo-agencies-for-optimal-online-presence-elite-search-engine-services-across-norway-powersuite-edition/"><u>Oslo's Premier SEO Agencies for Optimal Online Presence | Elite Search Engine Services Across Norway - PowerSuite Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quantity-of-videos-on-128gb-storage-media/"><u>Quantity of Videos on 128GB Storage Media</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-windows-update-hanging-on-100/"><u>Resolved: Fixing Windows Update Hanging on 100%</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-disabling-auto-start-feature-on-windows-10-devices/"><u>Step-by-Step Guide: Disabling Auto-Start Feature on Windows 10 Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-tiktok-hiccups-getting-back-in-sync-with-the-app/"><u>The Ultimate Fixes for TikTok Hiccups: Getting Back in Sync with the App</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-dead-backlit-keys-how-to-for-mac-and-windows-users/"><u>Troubleshooting Dead Backlit Keys: How-To for Mac and Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-missing-device-issue-in-windows-code-24/"><u>Troubleshooting: Fixing the Missing Device Issue in Windows (Code 24)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-issues-connecting-with-dhcp-servers/"><u>Troubleshooting: Issues Connecting with DHCP Servers</u></a></li>
 </ul></div>
 

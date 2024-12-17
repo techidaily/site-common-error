@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Windows Update Issue: Fixing Error Code 0X802e401c on Win10/Win11"
-date: 2024-12-06T19:30:50.511Z
-updated: 2024-12-10T18:32:25.049Z
+date: 2024-12-12T17:36:17.165Z
+updated: 2024-12-16T19:54:43.800Z
 tags:
   - win11
   - win10
@@ -43,13 +43,13 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 2. In the pop-up window, select**Windows Update** and click**Run the troubleshooter** . You’ll be prompted for permission. Click**Yes** to run**Windows Update troubleshooter** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap393.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click**Apply this fix** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap395.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
@@ -62,8 +62,17 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap397.png)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap398.png)  
  Please paste it in the address bar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Delete** all the files in the folder **DataStore** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap399.png)  
  When all the files are deleted, you shall see “This folder is empty”.
@@ -72,9 +81,17 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap400.png)  
  Please paste it in the address bar.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. **Delete** all the files in the folder   **Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap401.png)  
  When all the files are deleted, you shall see “This folder is empty”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perform a Windows update again. If it still doesn’t work, try the next fix.
 
@@ -86,7 +103,7 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    1. **Dism /Online /Cleanup-Image /ScanHealth**  
@@ -103,15 +120,11 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap405.png)  
     It may take several minutes for this command operation to be completed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Running System File Checker**
@@ -121,24 +134,12 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 1. On your keyboard, press **the Windows Logo Key**  and then type **cmd**  in the search box. When you see **Command Prompt**  in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **OK**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap407.png)
 2. On your keyboard, type the following command and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **sfc /scannow**  
  It may take some time for the command operation to be completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap408.png)
 3. When this command operation is completed, close **Command Prompt** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
 
@@ -150,6 +151,10 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap409.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
@@ -157,10 +162,6 @@ Run Windows Update  again to check whether this fix works or not. If you still f
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
@@ -192,21 +193,16 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-divided-footage-delight-top-cam-discussion-in-2024/"><u>[New] Divided Footage Delight Top Cam Discussion, In 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-6-techniques-for-capturing-your-minecraft-adventures/"><u>[Updated] Top 6 Techniques for Capturing Your Minecraft Adventures</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-olympic-ice-rush-speed-skaters-best-from-games/"><u>2024 Approved Olympic Ice Rush Speed Skaters' Best From Games</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-note-30-vip-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Note 30 VIP to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/cutting-edge-taggification-top-7-affordable-online-extractors-for-youtube-for-2024/"><u>Cutting-Edge Taggification Top 7 Affordable Online Extractors for YouTube for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-guide-to-correcting-audio-playback-errors-in-your-application/"><u>Effortless Guide to Correcting Audio Playback Errors in Your Application</u></a></li>
-<li><a href="https://common-error.techidaily.com/end-the-runtime-broker-cpu-crunch-on-windows-11-with-these-proven-fixes-get-started-now/"><u>End the Runtime Broker CPU Crunch on Windows 11 with These Proven Fixes – Get Started Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-incompatible-drivers-affect-ftdi-memory-integrity-and-solutions/"><u>How Incompatible Drivers Affect FTDI Memory Integrity and Solutions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-screenshot-perfection-on-mac-selecting-top-10-recorders-reviewed/"><u>In 2024, Screenshot Perfection on Mac Selecting Top 10 Recorders Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/reach-new-heights-of-conversational-ai-in-chrome-with-these-extensions/"><u>Reach New Heights of Conversational AI in Chrome with These Extensions</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-d3derr-not-available-errors-on-your-windows-pc-step-by-step-guide/"><u>Resolving D3DERR Not Available Errors on Your Windows PC – Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-print-to-pdf-error-on-your-windows-10-or-11-pc/"><u>Resolving the Print to PDF Error on Your Windows 10 or 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-problem-no-download-from-steam-updates/"><u>Resolving the Problem: No Download From Steam Updates</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/skyline-your-contents-search-trajectory-key-youtube-seo-tips-1-11/"><u>Skyline Your Content's Search Trajectory Key YouTube SEO Tips (1-11)</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-remote-procedure-call-failed-solved/"><u>The Remote Procedure Call Failed [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-windows-10-bluetooth-connectivity-issues/"><u>Ultimate Guide: Solving Windows 10 Bluetooth Connectivity Issues</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfecting-your-recordings-using-nvidia-recorder/"><u>[New] 2024 Approved Perfecting Your Recordings Using NVIDIA Recorder</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-guide-to-securing-top-tier-images-for-free/"><u>[New] In 2024, A Guide to Securing Top-Tier Images for Free</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoid-double-posting-mistakes-on-tiktok-with-these-steps/"><u>Avoid Double-Posting Mistakes on TikTok with These Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-download-arduino-mega-2560-drivers-effortlessly-beginners-guide/"><u>Find and Download Arduino Mega 2560 Drivers Effortlessly - Beginner's Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-restoring-functionality-of-usb-ports-for-windows-11-users/"><u>Guide: Restoring Functionality of USB Ports for Windows 11 Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-korean-with-ease-unveiling-the-top-6-web-based-solutions/"><u>Learn Korean with Ease: Unveiling the Top 6 Web-Based Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/left-click-not-responding-heres-how-you-can-resolve-the-issue-quickly/"><u>Left Click Not Responding? Here's How You Can Resolve the Issue Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-response-from-your-external-mouse-heres-what-you-can-do/"><u>No Response From Your External Mouse? Here's What You Can Do</u></a></li>
+<li><a href="https://common-error.techidaily.com/repaired-malfunctioning-keyboard-typing-issue-resolved/"><u>Repaired: Malfunctioning Keyboard Typing Issue Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-recover-vanishing-desktop-icons-on-your-windows-10-pc/"><u>Solved: How to Recover Vanishing Desktop Icons on Your Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-broken-windows-store-cache-fixes-and-tips-included/"><u>Solving the Problem of a Broken Windows Store Cache - Fixes and Tips Included</u></a></li>
 </ul></div>
 

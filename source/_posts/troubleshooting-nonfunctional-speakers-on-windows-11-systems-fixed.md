@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Nonfunctional Speakers on Windows 11 Systems [FIXED]
-date: 2024-12-02T04:20:42.710Z
-updated: 2024-12-04T04:52:25.304Z
+date: 2024-12-13T20:51:37.331Z
+updated: 2024-12-16T19:43:50.672Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ### Tip 2: Check your desktop icon settings
@@ -58,17 +54,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
@@ -80,7 +72,7 @@ You can also try these steps to rebuild the icon cache:
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
@@ -92,6 +84,10 @@ start explorer.exe
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -102,7 +98,7 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
@@ -123,18 +119,18 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -150,6 +146,11 @@ OR
 2. Run Driver Easy and click **Scan Now**. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
@@ -176,22 +177,19 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capturing-live-gaming-decide-on-obsshadowplay/"><u>[New] 2024 Approved Capturing Live Gaming - Decide on OBS/ShadowPlay</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-9-youtube-video-extraction-tools-for-android-reviewed/"><u>[New] In 2024, 9 YouTube Video Extraction Tools for Android Reviewed</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-instantaneous-accurate-image-browser-win11-for-2024/"><u>[Updated] Instantaneous, Accurate Image Browser Win11 for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-dawn-of-a-new-era-key-fb-ad-trends-arriving/"><u>[Updated] The Dawn of a New Era Key FB Ad Trends Arriving</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/apple-music-and-video-harmony-explained-for-2024/"><u>Apple Music and Video Harmony Explained for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-red-glitch-in-windows-11-operating-system/"><u>Fixing the Red Glitch in Windows 11 Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unresponsive-keyboard-buttons-in-windows-10-and-11-a-step-by-step-guide/"><u>Fixing Unresponsive Keyboard Buttons in Windows 10 and 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/how-to-see-old-stories-on-facebook-find-story-archive-easily/"><u>How to See Old Stories on Facebook Find Story Archive Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-switch-on-bluetooth-for-windows-7-systems-successfully-comprehensive-fixes-inside/"><u>How to Switch On Bluetooth for Windows 7 Systems Successfully - Comprehensive Fixes Inside</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-tecno-pova-5-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Tecno Pova 5</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-gpt-5-on-the-horizon-discover-its-expected-release-date/"><u>Is GPT-5 on the Horizon? Discover Its Expected Release Date</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211607285-pdf-printing-problems-solved-top-5-instant-fixes-revealed/"><u>PDF Printing Problems Solved: Top 5 Instant Fixes Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-repair-your-nonfunctional-huion-pen-in-under-5-minutes/"><u>Quick Solutions: Repair Your Nonfunctional Huion Pen in Under 5 Minutes</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-the-frustrating-error-code-224003-preventing-video-playback/"><u>Step-by-Step Fix for the Frustrating Error Code 224003 Preventing Video Playback</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-on-how-to-restore-disappeared-youtube-video-files-successfully/"><u>Step-by-Step Tutorial on How to Restore Disappeared YouTube Video Files Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-nier-automata-from-freezing-effective-fixes-for-pc-players/"><u>Stop Nier Automata From Freezing: Effective Fixes for PC Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/variable-rate-inflow-control-structures-can-help-maintain-consistent-detention-times-and-optimize-sedimentation-conditions-during-peak-flow-events/"><u>Variable-Rate Inflow Control Structures Can Help Maintain Consistent Detention Times and Optimize Sedimentation Conditions During Peak Flow Events.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-ingredients-to-inspiration-cooking-videos-for-2024/"><u>[Updated] From Ingredients to Inspiration Cooking Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-navigating-through-film-workflow-choosing-between-hdr-and-sdr-for-2024/"><u>[Updated] Navigating Through Film Workflow Choosing Between HDR & SDR for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-wont-connect-master-the-art-of-pairing-with-our-latest-windows-11-troubleshooting-guide/"><u>Bluetooth Won't Connect? Master the Art of Pairing with Our Latest Windows 11 Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-the-drag-and-drop-winning-against-slow-windows-10-closures/"><u>Defeating the Drag-and-Drop: Winning Against Slow Windows 10 Closures</u></a></li>
+<li><a href="https://common-error.techidaily.com/dormant-devices-down-windows-1110-woes/"><u>Dormant Devices Down: Windows 11/10 Woes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-to-choose-a-leading-netgear-wireless-router/"><u>How to Choose a Leading Netgear Wireless Router</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-s24plus-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy S24+ Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-fascination-frameworks-igs-most-popular-filters/"><u>In 2024, Fascination Frameworks IG's Most Popular Filters</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-print-driver-service-stopped-issues-on-older-32-bit-applications-and-oses/"><u>Overcoming 'Print Driver Service Stopped' Issues on Older 32-Bit Applications and OSes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-laptops-persistent-white-screen-problem-a-step-by-step-guide/"><u>Solve Your Laptop's Persistent White Screen Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/starting-a-hosted-network-in-windows-11-solutions-to-common-issues/"><u>Starting a Hosted Network in Windows 11 - Solutions to Common Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-eliminating-the-server-is-unable-to-communicate-with-the-computer-discussed-message-on-windows/"><u>Step-by-Step Guide: Eliminating the 'Server Is Unable to Communicate with the Computer Discussed' Message on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-disabled-microsoft-outlook-push-notifications/"><u>Troubleshooting Disabled Microsoft Outlook Push Notifications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-hugs-chat-the-open-source-twin-to-chatgpts-world/"><u>What Hugs Chat? - The Open Source Twin to ChatGPT's World</u></a></li>
 </ul></div>
 

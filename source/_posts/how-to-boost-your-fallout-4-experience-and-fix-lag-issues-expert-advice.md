@@ -1,7 +1,7 @@
 ---
 title: How To Boost Your Fallout 4 Experience and Fix Lag Issues (Expert Advice)
-date: 2024-11-27T18:25:57.560Z
-updated: 2024-12-03T20:50:42.859Z
+date: 2024-12-09T17:00:02.623Z
+updated: 2024-12-16T23:49:39.490Z
 tags:
   - win11
   - win10
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
  After confirming that your hardware is not the problem, check out the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
@@ -68,15 +72,11 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
@@ -92,12 +92,12 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -128,7 +128,7 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
@@ -145,14 +145,14 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -176,24 +176,22 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-epic-audio-essentials-top-10-for-trending-yt-shorts/"><u>[Updated] 2024 Approved Epic Audio Essentials Top 10 for Trending YT Shorts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-instructions-grid-view-activation-in-google-meet/"><u>[Updated] 2024 Approved Instructions Grid View Activation in Google Meet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-guide-to-reclaiming-lost-facebook-moments/"><u>[Updated] Step-by-Step Guide to Reclaiming Lost Facebook Moments</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-sound-management-on-android/"><u>2024 Approved Excellence in Sound Management on Android</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-stepwise-approach-to-implementing-youtube-cards-and-annotations/"><u>2024 Approved Stepwise Approach to Implementing YouTube Cards & Annotations</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-correcting-loadlibrary-failed-with-error-abortcode-the-parameter-is-incorrect-problem/"><u>Comprehensive Guide: Correcting Loadlibrary Failed with Error Abort_code: The Parameter Is Incorrect Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-when-your-computers-wired-internet-isnt-working-win-107-edition/"><u>Easy Fixes for When Your Computer's Wired Internet Isn't Working (Win 10/7 Edition)</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-to-common-file-explorer-problems-in-windows-10/"><u>Easy Solutions to Common File Explorer Problems in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-the-werfaultexe-application-failure-in-windows/"><u>Expert Advice: Overcoming the werFault.exe Application Failure in Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-guide-fix-the-issue-of-constant-crashes-in-frontier-for-windows-users/"><u>Expert Guide: Fix the Issue of Constant Crashes in 'Frontier' For Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-not-charging-issue-on-windows-710-your-complete-guide/"><u>Fixing 'Not Charging' Issue on Windows 7/10: Your Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/hardware-havoc-severe-system-disruption/"><u>Hardware Havoc: Severe System Disruption</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/harmonic-storage-pc-audio-and-speech-for-2024/"><u>Harmonic Storage PC Audio and Speech for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-user-permission-errors-enabling-access-requests-with-elevation-on-windows-os/"><u>Overcoming User Permission Errors: Enabling Access Requests with Elevation on Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-disabled-wireless-functionality-a-comprehensive-guide/"><u>Resolving Issues with Disabled Wireless Functionality - A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/speed-vs-latency-unlocking-the-secrets-to-optimizing-memory-for-peak-pc-functionality/"><u>Speed vs Latency: Unlocking the Secrets to Optimizing Memory for Peak PC Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-identifying-visitors-of-your-google-docs/"><u>Step-by-Step Guide: Identifying Visitors of Your Google Docs</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-windows-stop-error-0xc00000e9/"><u>Step-by-Step Solutions for Correcting Windows Stop Error 0xC00000E9</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728477226667-usb-windows-11/"><u>USB 快閃硬碟引導Windows 11：二種捷解方法詳解</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-how-to-make-a-cool-intro-for-youtube-plusfree-templates/"><u>[New] 2024 Approved How to Make a Cool Intro for YouTube? [+Free Templates]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-integrating-visuals-smoothly-mastering-snap-camera-in-microsoft-teams/"><u>[New] 2024 Approved Integrating Visuals Smoothly Mastering Snap Camera in Microsoft Teams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-futures-file-fortresses-top-five-cloud-storage-in-the-year-2024/"><u>[New] Future's File Fortresses Top Five Cloud Storage in the Year 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-engaging-video-audiences-choosing-impactful-youtube-images/"><u>[New] In 2024, Engaging Video Audiences Choosing Impactful YouTube Images</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-innovative-techniques-for-engaging-igtv-thumbnails/"><u>[Updated] Innovative Techniques for Engaging IGTV Thumbnails</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-audio-solutions-diagnosing-and-repairing-crackle-in-window-based-systems/"><u>Clear Audio Solutions: Diagnosing & Repairing Crackle in Window-Based Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-correct-service-did-not-respond-error-1053/"><u>Effective Strategies to Correct 'Service Did Not Respond' Error (1053)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-keyboard-illumination-on-windows-and-macos-computers/"><u>How to Restore Keyboard Illumination on Windows and macOS Computers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-steps-for-chromakey-magic/"><u>In 2024, Essential Steps for Chromakey Magic</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-openai-struggling-to-keep-a-grip-on-chatgpts-future/"><u>Is OpenAI Struggling to Keep a Grip on ChatGPT's Future?</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-unresponsive-personal-setup-features/"><u>Overcoming the Challenge of Unresponsive Personal Setup Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-successfully-pairing-a-non-syncing-xbox-one-controller/"><u>Step-by-Step Guide: Successfully Pairing a Non-Syncing Xbox One Controller</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailoring-your-presents-10-leading-e-commerce-platforms-unveiled-for-2024/"><u>Tailoring Your Presents 10 Leading E-Commerce Platforms Unveiled for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-windows-shell-application-stopped-working-expert-advice/"><u>Troubleshooting and Fixing 'Windows Shell Application Stopped Working': Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-critical-issues-in-call-of-duty-black-ops-iv/"><u>Ultimate Guide: Resolving Critical Issues in Call of Duty Black Ops IV</u></a></li>
+<li><a href="https://common-error.techidaily.com/winupdate-malfunction-solved-steps-to-restart-and-maintain-regularly/"><u>WinUpdate Malfunction Solved: Steps to Restart and Maintain Regularly</u></a></li>
 </ul></div>
 

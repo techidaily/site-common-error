@@ -1,7 +1,7 @@
 ---
 title: "Banish Minecraft Lags: Top Tips & Tricks for Optimal Performance"
-date: 2024-08-22T19:18:16.068Z
-updated: 2024-08-23T19:18:16.068Z
+date: 2024-12-12T22:44:41.273Z
+updated: 2024-12-16T19:47:59.685Z
 tags:
   - win11
   - win10
@@ -54,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1: Disable Windows Search service
 
  A lot of users suggested that disabling Windows Search helps to reduce the CPU and Disk usage caused by ntoskrnl.exe. To see if this does the trick for you as well:
@@ -65,37 +66,43 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
 2. Expand**Services and Applications** and click**Services** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/services-and-applications.jpg)
 3. Double-click**Windows Search** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/windwos-search-6101.jpg)
 4. In the**General** tab, click **Stop** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/stop-button.jpg)
 5. Wait for the service to stop, then press**OK** to save the change and exit.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change-6104.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Check incompatible programs
 
  Some users say that this only happens when they use certain programs. Especially when they have antivirus software running in the background. The antivirus software might have some conflicts with certain programs. The next time you encounter this situation, try to pay extra attention to see if you can find the program that is messing with your system. If such a program can be located, try reinstallingit or uninstalling it completely.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Run SFC and DISM
 
  Corrupted system files may cause high CPU and disk usage with ntoskrnl.exe, but luckily, there are two built-in tools that can help to identify and repair such bad system files. The whole process could take some time, and we suggest you don’t run any other programs when doing the test. To run these tools:
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3.1\. Scan corrupt files with System File Checker
 
  1) On your keyboard, press the**Windows** logo key and**R** at the same time. Type**cmd** and press**Ctrl+Shift+Enter** at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -113,9 +120,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt window, copy and paste the following commands and hit**Enter** after each line:
@@ -136,10 +140,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  When these tests are done, see if the ntoskrnl.exe high CPU or disk usage problem remains. If the problem still persists, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Method 4: Disable Runtime Broker
 
  Normally, the runtime broker process should only use a very low CPU resource, but if things go wrong, it could take up to 100% CPU and disk usage, making your Windows run slowly and buggy. In this case, you can try to disable it to see if it helps. To do so:
@@ -150,11 +150,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. On your keyboard, press the **Windows** key and the **R** key together. Type **regedit** and hit **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TimeBroker`  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker.png)
 4. On the right side, double-click**Start** , and change its value to**4** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker-4.png)
 5. Restart your computer for the changes to take effect.
 
@@ -166,8 +173,6 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +180,26 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/igital-storyboard-studio-for-2024/"><u>[New] Digital Storyboard Studio for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-digital-humor-designer-tool/"><u>[Updated] In 2024, Digital Humor Designer Tool</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-inside-vr-contemporary-insights-and-upcoming-struggles/"><u>2024 Approved Inside VR Contemporary Insights & Upcoming Struggles</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/beyond-expectations-a-critical-look-at-pixel-slates-performance-on-chromeos/"><u>Beyond Expectations? A Critical Look at Pixel Slate's Performance on ChromeOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosis-and-repair-techniques-for-addressing-driverpowerstatefailure-problems/"><u>Diagnosis and Repair Techniques for Addressing DRIVER_POWER_STATE_FAILURE Problems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/download-made-easy-master-the-art-of-using-ifunny-memes/"><u>Download Made Easy Master the Art of Using iFunny Memes</u></a></li>
+<li><a href="https://common-error.techidaily.com/elevate-your-gaming-session-performance-tweaks-for-windows-11-users/"><u>Elevate Your Gaming Session: Performance Tweaks for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-reviving-wet-apple-devices-iphone-and-ipod-recovery-processes/"><u>Expert Tips for Reviving Wet Apple Devices: IPhone and iPod Recovery Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-unplayable-dvd-issue-on-windows-computers/"><u>Fixing Your Unplayable DVD Issue on Windows Computers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-kyocera-printer-drivers-on-your-windows-pc/"><u>How to Download & Install KYOCERA Printer Drivers on Your Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-rid-of-the-infinite-loading-screen-in-valorant-once-and-for-all/"><u>How to Get Rid of the Infinite Loading Screen in Valorant Once and For All</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/logitech-webcam-101-a-beginners-guide-to-video/"><u>Logitech Webcam 101 A Beginner's Guide to Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/network-troubleshooting-tips-for-unlocking-parties-chat-on-any-device/"><u>Network Troubleshooting Tips for Unlocking Parties Chat on Any Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-pcs-unintended-nap-problem-quick-and-simple-fixes/"><u>Solving Your PC's Unintended Nap Problem: Quick & Simple Fixes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-complete-instagram-analytics-companion-transforming-metrics-into-strategy-for-2024/"><u>The Complete Instagram Analytics Companion Transforming Metrics Into Strategy for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-supercharged-window-11-usage/"><u>The Ultimate Guide to Supercharged Window 11 Usage</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-bandwidth-problems-in-world-of-warcraft-wow/"><u>Troubleshooting Bandwidth Problems in World of Warcraft (WOW)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-faulty-shift-key-now-repaired/"><u>Troubleshooting Your Faulty Shift Key - Now Repaired</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-hdcp-compatibility-issues-with-your-monitor-display/"><u>Understanding HDCP Compatibility Issues with Your Monitor Display</u></a></li>
+</ul></div>
 

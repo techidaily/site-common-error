@@ -1,7 +1,7 @@
 ---
 title: Dell Laptop Malfunction? How To Troubleshoot and Repair Unresponsive Keys Easily
-date: 2024-12-05T22:02:17.878Z
-updated: 2024-12-10T19:31:57.536Z
+date: 2024-12-14T19:35:03.638Z
+updated: 2024-12-17T01:09:14.423Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 fixes for **Mouse frozen on laptop**
 
  Here are 5 fixes that have helped other users resolve the mouse frozen on laptop problem. You may not have to try all of them; just work your way down the list until you find the one that works for you.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for physical issues
@@ -51,10 +47,6 @@ Depending on which mouse isn’t working:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Try the function keys
 
  Sometimes the mouse-isn’t-moving issue happens just because you’ve pressed the function keys and disabled trackpad unknowingly. If that’s the case, we might have to press the keys again to turn it back on. Here’s how:
@@ -63,6 +55,10 @@ Depending on which mouse isn’t working:
 2. Move your mouse and check if the **mouse frozen on laptop** issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: **Check mouse properties**
 
@@ -73,14 +69,14 @@ Depending on which mouse isn’t working:
 2. Click the **Device Settings** tab > **your device** \> **Enable** \> **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)
 3. Hopefully this time your mouse gets unfrozen and works fine. If the problem persists, try **Fix 4** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -146,6 +142,10 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click **Yes** when prompted to confirm.
 
  2) In the command prompt window, type **sfc /scannow** and press **Enter** .
@@ -177,22 +177,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-master-level-editing-the-essence-of-smooth-transitions-in-inshot-for-2024/"><u>[New] Master Level Editing The Essence of Smooth Transitions in Inshot for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-guide-80s-vhs-tricks-for-dynamic-edits-for-2024/"><u>[Updated] Ultimate Guide 80'S VHS Tricks for Dynamic Edits for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-broken-keyboard-arrows-easy-troubleshooting-steps-inside/"><u>Fix Your Broken Keyboard Arrows - Easy Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unspecified-error-understanding-and-solving-problem-0x800n4005/"><u>Fixing 'Unspecified Error': Understanding and Solving Problem 0X800n4005</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11s-red-screen-dilemma-a-comprehensive-solutions-overview/"><u>Fixing Windows 11'S Red Screen Dilemma - A Comprehensive Solutions Overview</u></a></li>
-<li><a href="https://common-error.techidaily.com/identify-and-update-vital-sound-and-display-drivers-for-optimal-pc-performance/"><u>Identify & Update Vital Sound & Display Drivers for Optimal PC Performance</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/immerse-top-sandbox-experiences-for-gamers-for-2024/"><u>Immerse Top Sandbox Experiences for Gamers for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-lenovo-thinkphone-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Lenovo ThinkPhone to PC? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-and-ipad-guide-a-comprehensive-look-at-purchasing-ebooks-via-the-native-books-application/"><u>IPhone & iPad Guide: A Comprehensive Look at Purchasing eBooks via the Native Books Application</u></a></li>
-<li><a href="https://common-error.techidaily.com/latest-guide-troubleshooting-miracast-connectivity/"><u>Latest Guide: Troubleshooting Miracast Connectivity</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-video-upload-your-guide-to-igtv-for-2024/"><u>Mastering Video Upload Your Guide to IGTV for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/microsoft-smartscreen-outage-why-the-security-feature-is-down/"><u>Microsoft SmartScreen Outage - Why the Security Feature Is Down</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-secure-trustwise-modification-rights-on-your-system-files/"><u>Steps to Secure TrustWise Modification Rights on Your System Files</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-best-cheap-video-doorbells-reviewed-focusing-on-the-iseebell-model-under-50/"><u>The Best Cheap Video Doorbells Reviewed – Focusing on the Iseebell Model Under $50</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-user-profile-service-failure-and-sign-in-issues-in-windows-10-and-11/"><u>Troubleshooting Tips: Resolving 'User Profile Service' Failure and Sign-In Issues in Windows 10 & 11</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-edits-advanced-l-cuts-and-j-cuts-techniques-in-fcpx/"><u>Updated Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-maximizing-mobile-smartphones-and-youtube-success/"><u>[New] 2024 Approved Maximizing Mobile Smartphones & YouTube Success</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-beginning-with-tweets-your-new-twitter-journey/"><u>[Updated] 2024 Approved Beginning with Tweets Your New Twitter Journey</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-comprehensive-list-of-8-authentic-propagation-tools-for-2024/"><u>[Updated] A Comprehensive List of 8 Authentic Propagation Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshoot-restoring-functionality-to-a-malfunctioning-xbox-sensor-bar/"><u>Comprehensive Troubleshoot: Restoring Functionality to a Malfunctioning Xbox Sensor Bar</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-the-mystery-quick-fixes-for-error-code-5-in-minecraft/"><u>Decode the Mystery: Quick Fixes for Error Code 5 in Minecraft</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tifying-how-tseries-capitalizes-on-youtube-audience-reach/"><u>Demystifying How TSeries Capitalizes on YouTube Audience Reach</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-tackle-svchostexes-heavy-load-problem-in-your-windows-10-system/"><u>Effective Strategies to Tackle svchost.exe's Heavy Load Problem in Your Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210547932-expert-advice-eliminate-error-code-0x80072efd-from-windows-10-step-by-step-fixes/"><u>Expert Advice: Eliminate Error Code 0X80072EFD From Windows 10 - Step-by-Step Fixes!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-unlock-mastery-deactivating-apples-icloud-lock-without-hitches/"><u>IPhone Unlock Mastery: Deactivating Apple's iCloud Lock Without Hitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-failed-to-create-d3d-device-error-in-your-game-expert-advice/"><u>Resolving Failed to Create D3D Device Error in Your Game – Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210268836-solving-the-bluetooth-missing-dilemma-on-your-windows-10-device-today/"><u>Solving the 'Bluetooth Missing' Dilemma on Your Windows 10 Device Today!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-c53-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme C53 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-the-full-potential-of-your-videos-on-youtube-discover-why-a-paid-membership-is-worth-it/"><u>Unlock the Full Potential of Your Videos on YouTube - Discover Why a Paid Membership Is Worth It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-missing-charge-indicator-easy-fix-guide/"><u>Windows 10 Missing Charge Indicator? Easy Fix Guide!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-cannot-locate-a-suitable-printer-driver-solved/"><u>Windows Cannot Locate a Suitable Printer Driver [SOLVED]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: White Screen of Death? Here's What You Need to Know About Laptop Repairs!
-date: 2024-08-22T19:20:09.163Z
-updated: 2024-08-23T19:20:09.163Z
+date: 2024-12-11T22:52:39.087Z
+updated: 2024-12-16T16:28:57.380Z
 tags:
   - win11
   - win10
@@ -35,35 +35,39 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
 This problem may occur if you are using the wrong or outdated drivers. So you should update your device drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
@@ -76,9 +80,11 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -98,8 +104,6 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +111,26 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-gamers-paradise-leading-5-hdmi-21-monitors-for-ps5/"><u>[Updated] 2024 Approved Gamers' Paradise Leading 5 HDMI 2.1 Monitors for PS5</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transforming-your-video-content-making-square-format-footage-for-instagram/"><u>[Updated] In 2024, Transforming Your Video Content Making Square-Format Footage for Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-master-class-the-7-cutting-edge-apps-for-youtube-live-on-iphonesandroid-os/"><u>[Updated] Master Class The 7 Cutting-Edge Apps for YouTube LIVE on iPhones/Android OS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-the-art-of-remote-podcast-production/"><u>2024 Approved Mastering the Art of Remote Podcast Production</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-sourcing-free-frame-videos-without-a-dollar-drop/"><u>2024 Approved Sourcing Free Frame Videos Without a Dollar Drop</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-save-big-with-up-to-1100-discounts-on-top-tier-gaming-and-video-editing-laptops-detailed-guide-on-zdnet/"><u>Exclusive Deal Alert: Save Big with Up to $1100 Discounts on Top-Tier Gaming and Video Editing Laptops | Detailed Guide on ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-a-malfunctioning-touchscreen-on-windows-11/"><u>Five Effective Methods to Repair a Malfunctioning Touchscreen on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-keyboard-wont-type/"><u>Fixed: Keyboard Won't Type</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-wow-glitches-ensuring-your-hardware-drivers-are-up-to-date-and-compatible/"><u>Fixing WoW Glitches: Ensuring Your Hardware Drivers Are Up-to-Date and Compatible</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-usb-device-unrecognized-error-that-wont-go-away/"><u>How to Fix 'USB Device Unrecognized Error' That Won't Go Away</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-xiaomi-redmi-note-12t-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi Redmi Note 12T Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-audio-made-simple-for-imovie-editors/"><u>In 2024, YouTube Audio, Made Simple for iMovie Editors</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-solution-how-to-address-a-missing-media-driver-issue-in-windows/"><u>Quick Fix Solution: How to Address a Missing Media Driver Issue in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-the-sluggish-shutdown-problem-in-windows-11/"><u>Quick Fixes: Resolving the Sluggish Shutdown Problem in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-wacom-pen-malfunctions-on-windows-operating-systems-1110/"><u>Solving Wacom Pen Malfunctions on Windows Operating Systems (11/10)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-story-behind-netflixs-transition-from-physical-media-a-deep-dive-into-its-early-dvd-rentals/"><u>The Story Behind Netflix's Transition From Physical Media: A Deep Dive Into Its Early DVD Rentals</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-isnt-your-windows-10-screen-saver-working/"><u>Troubleshooting Guide: Why Isn't Your Windows 10 Screen Saver Working?</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-doesnt-my-acer-computer-hold-a-charge-solutions-inside/"><u>Why Doesn't My Acer Computer Hold a Charge? Solutions Inside!</u></a></li>
+</ul></div>
 

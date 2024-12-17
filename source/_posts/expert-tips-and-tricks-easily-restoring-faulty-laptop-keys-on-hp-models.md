@@ -1,7 +1,7 @@
 ---
 title: Expert Tips & Tricks - Easily Restoring Faulty Laptop Keys on HP Models!
-date: 2024-12-09T20:10:39.271Z
-updated: 2024-12-10T16:34:20.594Z
+date: 2024-12-13T00:48:25.043Z
+updated: 2024-12-16T19:39:48.391Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -48,16 +44,12 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -79,19 +71,23 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -117,6 +113,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -138,13 +138,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,18 +184,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-t2-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo T2 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cut-costs-with-savvy-shopping-6-unbeatable-online-discount-portals/"><u>Cut Costs with Savvy Shopping: 6 Unbeatable Online Discount Portals</u></a></li>
-<li><a href="https://common-error.techidaily.com/determined-opengl-not-advocated-by-driver/"><u>Determined: OpenGL Not Advocated by Driver</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/endless-blink-no-more-expert-strategies-to-stabilize-your-mouse-pointer/"><u>Endless Blink No More! Expert Strategies to Stabilize Your Mouse Pointer</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-overcoming-the-access-denied-http-403-problem-on-your-site/"><u>Guide to Overcoming the 'Access Denied' HTTP 403 Problem on Your Site</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-prevent-your-desktop-or-laptop-from-going-to-sleep-on-its-own/"><u>How to Prevent Your Desktop or Laptop From Going to Sleep on Its Own</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-connect-and-captivate-youtube-twitter-and-facebook-using-zoom/"><u>In 2024, Connect and Captivate YouTube, Twitter & Facebook Using Zoom</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-13-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 13 or iPad?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-11-fixes-with-system-file-checker-and-deployment-image-servicing-management-utilities/"><u>Mastering Windows 11 Fixes with System File Checker and Deployment Image Servicing Management Utilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-10-update-loop-at-99-or-full-get-back-on-track-now/"><u>Resolving Windows 10 Update Loop at 99% or Full - Get Back on Track Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/update-alert-your-pc-needs-a-directx-11-gpu-for-optimal-performance/"><u>Update Alert! Your PC Needs a DirectX 11 GPU for Optimal Performance</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/yl-software-tutorial-advanced-image-video-and-document-password-protection-techniques/"><u>YL Software Tutorial: Advanced Image, Video and Document Password Protection Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-expert-techniques-for-swift-mac-screenshotting-using-shortcuts-for-2024/"><u>[Updated] Expert Techniques for Swift Mac Screenshotting Using Shortcuts for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-extensive-audit-unveiling-the-dji-inspire-1-drone-for-2024/"><u>[Updated] Extensive Audit Unveiling the DJI Inspire 1 Drone for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-insights-on-gopro-hero5-adventure-series/"><u>2024 Approved Insights on GoPro Hero5 Adventure Series</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/deciphering-high-bitcoin-network-charges-insights-from-yl-softwares-in-depth-analysis/"><u>Deciphering High Bitcoin Network Charges: Insights From YL Software's In-Depth Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/disarm-windows-11-blue-screen-attacks/"><u>Disarm Windows 11 Blue Screen Attacks</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-network-dysfunction-ethernet-issues-on-windows-10-and-7-explained/"><u>Fixing Network Dysfunction: Ethernet Issues on Windows 10 and 7 Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-this-device-is-not-present-code-24-in-windows-11-8-and-7-systems/"><u>How to Fix 'This Device Is Not Present' (Code 24) in Windows 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-godfall-fps-drops/"><u>How to Fix Godfall FPS Drops</u></a></li>
+<li><a href="https://common-error.techidaily.com/installation-issue-windows-10-update-version-1607-wont-install/"><u>Installation Issue: Windows 10 Update (Version 1607) Won't Install</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-monitor-repairs-the-definitive-guide-to-overcoming-black-screens-on-dell-devices/"><u>Mastering Monitor Repairs: The Definitive Guide to Overcoming Black Screens on Dell Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-your-machine-customize-active-hours-to-sidestep-surprises-in-windows-11/"><u>Mastering Your Machine: Customize Active Hours to Sidestep Surprises in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolve-non-responsive-dell-laptop-trackpad-on-windows-10/"><u>Resolve Non-Responsive Dell Laptop Trackpad on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stay-connected-the-ultimate-140-watt-portable-charger-that-keeps-seven-devices-juiced-up-without-frequent-recharges-tech-review/"><u>Stay Connected: The Ultimate 140-Watt Portable Charger That Keeps Seven Devices Juiced Up Without Frequent Recharges | Tech Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-audio-device-isolation-feature-in-windows-for-optimal-performance/"><u>Troubleshooting the Audio Device Isolation Feature in Windows for Optimal Performance</u></a></li>
 </ul></div>
 

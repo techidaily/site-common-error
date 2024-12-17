@@ -1,7 +1,7 @@
 ---
 title: How to Grant Admin Access for Critical Operations on Windows 11/10/7 Systems
-date: 2024-08-22T19:19:52.703Z
-updated: 2024-08-23T19:19:52.703Z
+date: 2024-12-14T18:17:56.693Z
+updated: 2024-12-16T23:14:25.990Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 3. [**Reinstall your system without activating it**](#c)
 4. [**Find another source of installation media**](#d)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Continue installation using Automatic Repair
 
  When your Windows installation process is stopped by the “could not complete” error, one effective method is to continue the process with the help of Advanced Recovery.
@@ -42,9 +46,17 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select**Reset this PC** .
 
@@ -61,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 **7)** Select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698c64b4abb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** If this method works for you, it’ll continue the installation process and you won’t get the error again.
 
@@ -96,20 +112,18 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c48b26ea5a3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Set up an account and password there on the user account creation wizard that appears.
 
 **5)**  Restart your computer and see if this fixes the error.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Reinstall your system without activating it
 
  Sometimes the error occurs when you are trying to install a specific version of Windows (such as Windows 10 Education). In this case, you can try reinstalling your system. But this time you should choose to install the Home version and don’t activate it during the installation. After the installation completes, use the product key to activate your system. It should run fine at this time.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Method 4: Find another source of installation media
 
  The error may result from the system installer you use — maybe it’s corrupted or incorrect. You should make sure that your installation media is from a valid source. If it isn’t, try getting another reliable installation media from Microsoft and running it on your computer. Then check to see if the error disappears.
@@ -122,8 +136,6 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +143,20 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-humor-and-heartbreak-the-vhs-story-of-goofy-movie/"><u>[New] In 2024, Humor and Heartbreak The VHS Story of Goofy Movie</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-excavate-extravagance-treasure-hunting-maps-ranked-for-2024/"><u>[Updated] Excavate Extravagance Treasure Hunting Maps Ranked for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-hone-your-sight-the-top-5-ways-to-zoom-in-minecraft/"><u>2024 Approved Hone Your Sight The Top 5 Ways to Zoom in Minecraft</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-kinemaster-elevating-your-game-play-experience-on-android-devices/"><u>2024 Approved KineMaster Elevating Your Game Play Experience on Android Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-the-class-not-registered-problem-in-your-windows-10-system/"><u>How to Correctly Address the 'Class Not Registered' Problem in Your Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-cannot-connect-to-rpc-server-error-error-code-0x800704cf-on-your-pc/"><u>How to Fix the 'Cannot Connect to RPC Server' Error (Error Code 0X800704CF) on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-failure-at-boot-time-effective-solutions-for-immediate-fixes/"><u>Keyboard Failure at Boot Time - Effective Solutions for Immediate Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-windows-11-calendar-space/"><u>Navigating the Windows 11 Calendar Space</u></a></li>
+<li><a href="https://common-error.techidaily.com/revamp-high-cpu-consumption-in-win11s-wmi-host/"><u>Revamp High CPU Consumption in Win11's WMI Host</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-dota-2s-changing-rendering-api-issue-a-step-by-step-guide-to-error-2024/"><u>Troubleshoot Dota 2'S Changing Rendering API Issue: A Step-by-Step Guide to Error 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/unseen-sd-dont-despair-fixes-exist/"><u>Unseen SD, Don't Despair: Fixes Exist</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-best-top-free-video-editing-tools-for-gamers/"><u>Updated 2024 Approved Best Top Free Video Editing Tools for Gamers</u></a></li>
+</ul></div>
 

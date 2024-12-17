@@ -1,7 +1,7 @@
 ---
 title: "Security Update Successful: Restrictions Lifted for File Download Functionality"
-date: 2024-08-15T11:12:10.462Z
-updated: 2024-08-16T11:12:10.462Z
+date: 2024-12-15T23:54:40.975Z
+updated: 2024-12-16T17:41:04.229Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6bc5e95188.jpg)
 
  If you run into the **Astro A40** **mic not working** problem, don’t panic – many users have reported the same. Luckily, it’s quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes for Astro A40 Mic Not Working
 
@@ -43,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -54,6 +55,10 @@ To make sure the volume is audible:
 
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
@@ -68,35 +73,28 @@ To do so:
 
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
 This problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -110,9 +108,9 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -142,8 +140,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +147,21 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ive-into-creating-alluring-youtube-video-intros/"><u>[New] Dive Into Creating Alluring YouTube Video Intros</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-precision-close-up-techniques-with-kinemaster-software/"><u>[New] In 2024, Precision Close-Up Techniques with Kinemaster Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-startup-strategies-for-making-money-on-periscope/"><u>[Updated] Startup Strategies for Making Money on Periscope</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-transforming-viewers-into-fans-with-top-yt-video-reacts/"><u>2024 Approved Transforming Viewers Into Fans with Top YT Video Reacts</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-techniques-for-malfunctioning-dell-cameras-in-windows-environments/"><u>DIY Repair Techniques for Malfunctioning Dell Cameras in Windows Environments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-transferring-your-dvd-collection-from-disc-to-pc-on-windows-or-mac/"><u>Easy Steps: Transferring Your DVD Collection From Disc to PC on Windows or Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-when-your-dell-audio-hardware-stops-working/"><u>Effective Fixes When Your Dell Audio Hardware Stops Working</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-gptzero-work-mastering-the-detection-of-ai-text-generation-techniques/"><u>How Does GPTZero Work? Mastering the Detection of AI Text Generation Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-securing-cash-through-youtube-content-sales/"><u>In 2024, Securing Cash Through YouTube Content Sales</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-issues-with-individual-settings-that-are-not-responding/"><u>Overcome Issues with Individual Settings That Are Not Responding</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-black-screen-issue-effective-solutions-for-google-chrome/"><u>Resolving the Black Screen Issue: Effective Solutions for Google Chrome</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revitalize-reps-with-the-top-backdrop-tracks-for-training-for-2024/"><u>Revitalize Reps with the Top Backdrop Tracks for Training for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-addressing-and-correcting-critical-directx-failures/"><u>Step-by-Step Solution: Addressing and Correcting Critical DirectX Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-repairing-a-non-functional-camera-on-your-lenovo-laptop/"><u>Troubleshooting Steps: Repairing a Non-Functional Camera on Your Lenovo Laptop</u></a></li>
+</ul></div>
 

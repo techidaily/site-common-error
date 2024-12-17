@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for a Nonfunctional Corsair Keyboard"
-date: 2024-12-08T18:15:42.913Z
-updated: 2024-12-10T21:27:27.829Z
+date: 2024-12-14T18:31:32.990Z
+updated: 2024-12-16T20:31:20.808Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for my keyboard won’t type
 
 1. **[Restart your computer](https://versadesk.pxf.io/xyboxx)**
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
  No matter which kind of keyboard you’re using, a USB keyboard, a wireless one or a laptop keyboard, you can try the first four methods. If unfortunately, all these four methods fail, try the fix for the exact type of keyboard you’re using.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Restart your computer
 
@@ -58,10 +58,14 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7664a26b24c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Adjust your keyboard settings
 
@@ -76,7 +80,7 @@ If your computer is running Windows 10:
 2. Click**Ease of Access** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76653d6e392.jpg)
@@ -84,21 +88,18 @@ If your computer is running Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If your computer is running Windows 11:
 
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
 2. From the left navigation panel, select **Accessibility** , then click **Keyboard**  from the right.  
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle **Off**  Sticky keys, Filter keys, and Toggle keys.  
-![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
 If your computer is running Windows 7:
 
@@ -116,10 +117,6 @@ Try to type some words using your keyboard to see if it works.
  If you could type using your keyboard, great! If your keyboard keeps not typing, don’t worry, try something else below…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Reinstall your keyboard driver
 
@@ -154,11 +151,15 @@ See how to do it:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766e1dcd420.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -205,19 +206,22 @@ Try to type some words using your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlockingfullpotentialwithyourcamrecorder/"><u>[New] 2024 Approved UnlockingFullPotentialWithYourCamRecorder</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-10-top-editing-apps-at-no-cost-online/"><u>[Updated] 10 Top Editing Apps at No Cost Online</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-steps-to-activate-a-full-screen-grid-on-google-meet-for-2024/"><u>[Updated] Easy Steps to Activate a Full-Screen Grid on Google Meet for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-peek-at-your-gadgets-soul-6-methods-to-discover-its-make/"><u>A Peek at Your Gadget's Soul: 6 Methods to Discover Its Make</u></a></li>
-<li><a href="https://fox-http.techidaily.com/capturing-stardust-the-premier-10-sites-for-hdr-skyscapes/"><u>Capturing Stardust The Premier 10 Sites for HDR Skyscapes</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-solutions-to-fix-windows-network-error-code-0x800704cf/"><u>Efficient Solutions to Fix 'Windows Network Error Code 0X800704CF'</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207566463-forgotten-sd-card-discover-remedies/"><u>Forgotten SD Card, Discover Remedies!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/luxury-on-a-budget-explore-exceptional-tech-gadgets-at-unbeatable-prices/"><u>Luxury on a Budget: Explore Exceptional Tech Gadgets at Unbeatable Prices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-discussions-with-underused-chatgpt-capabilities/"><u>Mastering AI Discussions with Underused ChatGPT Capabilities</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-in-2024-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>New In 2024, Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204368141-troubleshoot-your-way-out-of-windows-10-update-failure-code-0x800f0922-solved/"><u>Troubleshoot Your Way Out of Windows 10 Update Failure: Code 0X800F0922 Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/tutorial-correctly-setting-up-windows-10-configuration-system-to-avoid-failure/"><u>Tutorial: Correctly Setting Up Windows 10 Configuration System to Avoid Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-oculus-device-malfunctions/"><u>Ultimate Guide: Resolving Oculus Device Malfunctions</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-update-error-0x80240017-fixed/"><u>Windows Update Error 0X80240017 [Fixed]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/logging-vs-micro-video-which-outperforms-youtubes-shorts-or-tiktoks/"><u>[New] Vlogging Vs. Micro-Video Which Outperforms? YouTubes Shorts or TikToks?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pinnacle-of-pc-clicker-fun-top-12-must-try-games/"><u>[Updated] In 2024, Pinnacle of PC Clicker Fun Top 12 Must-Try Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-recording-webinars/"><u>[Updated] In 2024, Recording Webinars</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-elevating-success-channel-ideas-to-spark-momentum/"><u>2024 Approved Elevating Success Channel Ideas to Spark Momentum</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-drone-collection-available-now/"><u>2024 Approved Ultimate Drone Collection Available Now</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-understanding-youtubers-income-average-ad-revenues-per-play/"><u>2024 Approved Understanding Youtuber's Income Average Ad Revenues per Play?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-reno-9a-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo Reno 9A Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-your-racing-experience-by-correcting-audio-issues-in-forza-horizon-4/"><u>Boost Your Racing Experience by Correcting Audio Issues in Forza Horizon 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-the-dreaded-werfaultexe-bug-a-guide-with-six-foolproof-fixes-for-a-smoother-windows-experience/"><u>Defeat the Dreaded WerFault.exe Bug - A Guide with Six Foolproof Fixes for a Smoother Windows Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209657465-effective-solutions-overcoming-windows-10-not-shutdown-errors-on-pc-solved/"><u>Effective Solutions: Overcoming Windows 10 Not Shutdown Errors on PC – SOLVED</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-service-is-not-running-error-in-diagnostic-policies/"><u>Fixing the 'Service Is Not Running' Error in Diagnostic Policies</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-stuck-windows-10-taskbar-with-proven-solutions/"><u>Fixing Your Stuck Windows 10 Taskbar with Proven Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-phantoms-time-reversal-feature-for-2024/"><u>Mastering Phantom's Time-Reversal Feature for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-error-0x80004005-essential-tips-to-diagnose-and-repair-this-common-issue/"><u>Overcoming Error 0X80004005: Essential Tips to Diagnose and Repair This Common Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-the-problem-of-continuous-boot-loops-effective-fixes-for-your-computer/"><u>Tackling the Problem of Continuous Boot Loops: Effective Fixes for Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-back-your-lost-scroll-wheel-control-on-a-windows-10-pc/"><u>Winning Back Your Lost Scroll Wheel Control on a Windows 10 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/flv-gif/"><u>영구 용인: 간단한 방법, 우리가 도와드리는 화면에서 FLV 개시를 GIF로 전환</u></a></li>
 </ul></div>
 

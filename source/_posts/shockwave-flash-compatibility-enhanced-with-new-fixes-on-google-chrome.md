@@ -1,7 +1,7 @@
 ---
 title: Shockwave Flash Compatibility Enhanced with New Fixes on Google Chrome
-date: 2024-08-22T19:20:24.784Z
-updated: 2024-08-23T19:20:24.784Z
+date: 2024-12-09T18:50:15.528Z
+updated: 2024-12-16T20:25:15.024Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/0.jpg)
 
  I believe you’ve tried the most common fixes: wait for it or close the program and reboot it. But if these efforts can’t help you solve the**Google Chrome black screen** problem, you can try the methods below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -42,6 +46,10 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
  You should see the webpage again. Then you can adjust the edge of the window as you like. It’s a temporary fix, you might meet the issue again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Remove browser extensions
 
  If you can run Chrome normally, you can try this method first.  
@@ -52,9 +60,6 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 4. Restart Chrome to check whether the issue is solved or not.
 5. If the issue is solved, you’ll know there is something wrong with at least one extension.
 6. Enable your installed extensions one by one to find which one is causing the problem. Then disable or remove it.
@@ -62,8 +67,9 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Add “`--disable-gpu` ” parameter
 
  Chrome creates a completely separate operating system process for each tag or extra extension you use. If you have multiple tabs open and various third-party extensions installed, you may find many processes running at the same time.
@@ -72,6 +78,11 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 1. Right-click on Chrome click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom0.jpg)
 2. On the Shortcuts tab, find Target. Add “`--disable-gpu` ” at the end of the text in the Target box. It should now read: …chrome.exe”`--disable-gpu` .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : There’s a space after**exe”** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom01.jpg)
 3. Click**OK** and then run Google Chrome.
 4. Hit the three dots button in the upper right corner, then click**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom3.jpg)
@@ -87,19 +98,14 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 1. Right-click on Chrome click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom0.jpg)
 2. In the Compatibility tab, click Run this program in compatibility mode for. Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 3. Click**OK** then run Google Chrome to check.
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4: Update your Google Chrome
 
  Updating your Google Chrome to the latest version can help you solve many issues. You can use another browser and go to the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIm77Z45T%5F4QIV%5Fh-tBh3K6Qy6EAAYASAAEgJfh%5FD%5FBwE&gclsrc=aw.ds) to download the latest version and install it manually.
@@ -112,9 +118,6 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 1. Press the**Windows logo key** \+ **Pause** together then click **Control Panel** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome5.jpg)
 2. Set Control Panel view by**Category** . Then click **Uninstall a program** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 3. Right-click on Google Chrome and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome7.jpg)
 4. Use another browser to download the latest version of Google Chrome from the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI0sLo0YH%5F4QIVksJkCh1jiw8SEAAYASAAEgIDF%5FD%5FBwE&gclsrc=aw.ds) .
 5. Install it manually and then check the issue is solved or not.
@@ -122,8 +125,9 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus: Update your graphics card driver
 
  To make your computer screen works better and prevent potential screen problems, it is very important to keep your graphics card drivers up-to-date. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter issues like black screen.
@@ -152,16 +156,18 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -177,8 +183,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +190,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-captivating-creations-utilizing-motion-blur-effects-in-ai/"><u>[New] Captivating Creations Utilizing Motion Blur Effects in AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/reboot-signal-from-gaming-systems/"><u>[REBOOT] Signal From Gaming Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-editing-secrets-mastering-high-resolution-footage-in-fcpx/"><u>[Updated] 2024 Approved Insta-Editing Secrets Mastering High-Resolution Footage in FCPX</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-fixes-for-when-your-function-keys-arent-working-properly/"><u>Common Fixes for When Your Function Keys Aren't Working Properly</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/get-your-chats-sound-proofed-voicemod-guide-for-discord-users/"><u>Get Your Chats Sound-Proofed VoiceMod Guide for Discord Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/pioneers-of-virtual-reality-top-vr-headsets-on-pc-for-2024/"><u>Pioneers of Virtual Reality Top VR Headsets on PC for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-fixes-swapping-perspectives-by-flipping-videos-in-your-facebook-feed/"><u>Quick Fixes: Swapping Perspectives by Flipping Videos in Your Facebook Feed</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-halo-4s-ue4-crash-issues-strategies-for-a-smooth-gaming-experience/"><u>Resolving Halo 4'S UE4 Crash Issues : Strategies for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-clear-unwanted-saved-wi-fi-in-win-11/"><u>Securely Clear Unwanted Saved Wi-Fi in Win 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/seeing-beyond-the-ordinary-with-ar/"><u>Seeing Beyond the Ordinary with AR</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-steams-unwritable-disc-mishaps-quickly/"><u>Step-by-Step Guide to Fixing Steam’s Unwritable Disc Mishaps Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208943320-streamline-your-files-management-on-windows-11-a-comprehensive-file-explorer-tutorial/"><u>Streamline Your Files Management on Windows 11 - A Comprehensive File Explorer Tutorial!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-7-speaker-problems-a-step-by-step-guide/"><u>Troubleshooting Windows 7 Speaker Problems: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

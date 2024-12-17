@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing High Resource Demand From System Idle Functionality
-date: 2024-11-29T04:03:58.476Z
-updated: 2024-12-04T04:18:55.928Z
+date: 2024-12-10T18:50:36.644Z
+updated: 2024-12-16T16:26:25.630Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
  You don’t have to try them all; just work down the list until you find the one that works for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Possible causes for error code 0x800f0922
 
  There are plenty of potential causes leading to this error code. Here’s a list that might be responsible for triggering 0x800f0922:
@@ -60,16 +56,8 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-1.jpg)
 2. Click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-3.jpg)
 3. Choose**Windows Update** and then**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-2.jpg)
 
@@ -83,10 +71,14 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-4.jpg)
 2. In the pop-up windows, check if your system reserved partition space meets the 500 MB requirement.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it fits the requirement, skip this method and try[other methods](#fix-3) .
@@ -94,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
  If the space is not enough, use a**free partition tool** to extend the partition size. Most online partition tools support formatting, deleting, moving, resizing, splitting, and merging partitions. Just simply choose, download and install one like[MiniTool Partition Wizard](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&id=driveeasyen165827&url=https%3A%2F%2Fwww.minitool.com%2Fpartition-manager%2Fpartition-wizard-home.html) , and follow its instruction to resize your partition size.
 
  After resizing the system reserved partition, try to process the Windows update again. If the error code hasn’t been removed, scroll down and try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 Check network connection
 
@@ -107,6 +95,11 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 2. **Plug** the router back into the power supply. Wait for the network machine to fully boot up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/router-pixabay.jpg)
 3. Test your internet connection by browsing any website. If the browsing speed is slow, try to use a wired connection instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Turn off** your VPN software if you are using any. Then run your Microsoft Windows 10 upgrade again.
 
  If the upgrade runs successfully, restart your computer and turn VPN software back on. If the network and VPN aren’t accountable for the upgrade error, continue to have another try.
@@ -122,10 +115,19 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 3. A pop-up Window appears and choose**Let Windows Update download the files for you** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-17.jpg)
 4. Windows will download the required files and install those features for you.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-18.jpg)
 5. Reboot your computer.
 
  After rebooting, try to run the upgrade again to see if error 0x800f0922 disappears. If not, try the next trick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 Turn off firewall
 
@@ -140,13 +142,13 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-9.jpg)
 4. Try updating now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **IMPORTANT** : Remember to**turn on** the firewalls after you finish the update. Be extra careful in using the Internet during this period as your security may be endangered.
 
 If the error code is still there, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6 Repair system files
 
@@ -165,6 +167,11 @@ To use Fortect to repair your system files:
 2. Launch Fortect and run a**free scan** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To automatically fix all the issues, click**Start Repair** (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -180,10 +187,6 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 3. The scan can take up to 15 minutes, so wait patiently and check if the problem is still there after the scan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you fail to run an SFC scan or it doesn’t help the issue, run a**DISM** (Deployment Image Servicing and Management) tool prior to running SFC. DISM is a command-line tool that can be used to fix system problems.
 
 1. Type**cmd** in the search box and click**Run as administrator** to launch Command Prompt.  
@@ -192,6 +195,11 @@ Restart your computer for the changes to take effect.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-15.jpg)
 3. Type**sfc /scannow** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 4. Wait for the scan to finish and check for any improvement on the Windows update failure issue.
 
@@ -208,28 +216,24 @@ Restart your computer for the changes to take effect.
 2. Select**Virus & threat protection** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-12.jpg)
 3. Click**Scan options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-13.jpg)
 4. Select**Full scan** and**Scan now** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The scan will go through all the files on your computer and take a while to finish. After that, let this tool remove any threat on your computer and restart the machine. Then run Windows update again.
 
  If the error 0x800f0922 doesn’t go away, give a shot to the final one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8 Reach out to an IT specialist
 
@@ -264,24 +268,19 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-advanced-strategies-for-removing-background-in-figma/"><u>[New] Advanced Strategies for Removing Background in Figma</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-smooth-sailing-post-dxgidll-error-resolution/"><u>[PUBG] Smooth Sailing Post-Dxgi.dll Error Resolution</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-comprehensive-guide-to-capturing-lol-showdowns/"><u>[Updated] 2024 Approved Comprehensive Guide to Capturing LOL Showdowns</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-breakdown-of-popular-elements-in-youtube-shorts-for-2024/"><u>[Updated] Breakdown of Popular Elements in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-the-frustration-of-a-windows-code-28-error-effective-remedies-for-your-device-manager-issues/"><u>Bypass the Frustration of a Windows Code 28 Error - Effective Remedies for Your Device Manager Issues</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comprehensive-infrastructure-backup-system-secure-and-simplify-saving-all-networked-devices/"><u>Comprehensive Infrastructure Backup System: Secure and Simplify Saving All Networked Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-how-to-get-the-steam-store-running-again/"><u>Expert Advice on How To Get The Steam Store Running Again</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/fast-forward-freedom-in-snapchat-a-noobs-handbook/"><u>Fast-Forward Freedom in Snapchat A Noob’s Handbook</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-0x80070643-error-comprehensive-guide-for-windows-update-fixes/"><u>How to Resolve the 0X80070643 Error: Comprehensive Guide for Windows Update Fixes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/puerto-rico/"><u>Puerto Rico:</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722968936708-quick-fix-how-to-update-the-surface-dock-drivers-with-speed/"><u>Quick Fix: How to Update the Surface Dock Drivers with Speed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-the-mystery-ultimate-guide-to-fixing-google-chromes-missing-display/"><u>Resolve the Mystery: Ultimate Guide to Fixing Google Chrome's Missing Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-steps-when-your-bluetooth-keyboard-wont-pair-with-computer/"><u>Resolved: Troubleshooting Steps When Your Bluetooth Keyboard Won't Pair with Computer</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-f04-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy F04 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-drive-errors-a-step-by-step-solution-for-windows-11-users/"><u>Troubleshooting Persistent Drive Errors: A Step-by-Step Solution for Windows 11 Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-full-gpt-capabilities-top-9-upgrades-await-you-here/"><u>Unlock Full GPT Capabilities – Top 9 Upgrades Await You Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-of-fixable-installer-issues/"><u>Unraveling the Mystery of Fixable Installer Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/vertiginous-views-unveiling-gopro-karma-capabilities/"><u>Vertiginous Views Unveiling GoPro Karma Capabilities</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-igtv-to-fb-exposure-strategies-6-essential-tips/"><u>2024 Approved IGTV to FB Exposure Strategies (6 Essential Tips)</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-how-to-overcome-error-0x8024402c-during-windows-updates/"><u>Expert Tips: How to Overcome Error 0X8024402c During Windows Updates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-evolution-of-ai-language-models-spotlighting-the-top-5-contrasts-between-gpt-4-and-gpt-35/"><u>Exploring the Evolution of AI Language Models: Spotlighting the Top 5 Contrasts Between GPT-4 and GPT-3.5</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-logitech-keyboard-not-working-issue-easily/"><u>Fix Logitech Keyboard Not Working Issue. Easily!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-and-solutions-how-to-get-google-chrome-back-on-track-when-its-unresponsive/"><u>Fixes & Solutions: How To Get Google Chrome Back On Track When It's Unresponsive</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-more-bangs-from-lol-overcoming-sluggish-download-times-easily/"><u>Getting More Bangs From LoL: Overcoming Sluggish Download Times Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-apps-for-editing-dji-drone-film-content-for-2024/"><u>Leading Apps for Editing DJi Drone Film Content for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-command-prompt-a-cross-platform-guide-from-windows-7-to-11/"><u>Mastering Command Prompt: A Cross-Platform Guide From Windows 7 to 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/maximizing-performance-by-streamlining-windows-driver-foundation-cpu-impact/"><u>Maximizing Performance by Streamlining Windows Driver Foundation CPU Impact</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-start-for-my-pc-awoke-defying-windows-edition/"><u>No Start for My PC: Awoke-Defying Windows Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/solving-the-problem-how-to-successfully-resolve-mp4-to-windows-dvd-creation-issues/"><u>Solving the Problem: How to Successfully Resolve 'MP4 to Windows DVD' Creation Issues</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/speedy-conversion-of-insta-videos-to-audio-files-mp3/"><u>Speedy Conversion of Insta Videos to Audio Files (Mp3)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-effortless-mp4-video-tagging-top-editor-recommendations-for-2024/"><u>Updated Effortless MP4 Video Tagging Top Editor Recommendations for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/win1011-mitigate-resource-hungry-wmi/"><u>Win10/11: Mitigate Resource-Hungry WMI</u></a></li>
 </ul></div>
 

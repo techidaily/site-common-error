@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixing the 'Not Supported' Issue with Miracast in Your Drivers"
-date: 2024-08-22T19:20:08.017Z
-updated: 2024-08-23T19:20:08.017Z
+date: 2024-12-11T18:52:29.122Z
+updated: 2024-12-16T21:25:59.599Z
 tags:
   - win11
   - win10
@@ -25,22 +25,32 @@ All the fixes below work both in**Windows 10**and**8**. You may not have to try 
 2. **[Insert a Miracast adapter](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your Miracast adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Roll back your graphics card driver to a previous version
 
 Some graphics cards manufacturers have cut support for **Miracast**. So we might have to**roll back the drivers to a previous version**so that**Miracast**works. To do so:
 
 1. On your keyboard, press  **the Windows logo key**  and   **R** at the same time, then copy & paste **devmgmt.msc**  into the box and click  **OK**  .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Display adapters**  (aka. **graphics card** , **video card** ) to expand it.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e2baf0279.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the**Driver** tab >**Roll Back Driver** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e27a083b7.jpg)
 4. Click**Yes** if asked for confirmation. Then the driver will be restored to a previous version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart you computer and see if**Miracast** works properly on your computer.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Insert a **Miracast adapter**
 
 It’s also possible that the device you’re streaming content to doesn’t support Miracast. But don’t worry – if that’s the case, you need to do to enable Miracast is to plug in a Miracast adapter, such as a[Microsoft Wireless Display adapter](https://www.amazon.com/Microsoft-Wireless-Display-Adapter-P3Q-00001/dp/B01AZC3J3M/ref=sr%5F1%5F1%5Fsspa?s=electronics&ie=UTF8&qid=1542013017&sr=1-1-spons&keywords=Microsoft+Wireless+Display+Adapter&psc=1&tag=drivereasycom-20), into an HDMI port on your display device.
@@ -48,15 +58,13 @@ It’s also possible that the device you’re streaming content to doesn’t sup
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be94122c9d87.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Check if Miracast works properly as should right now. If yes, then congrats! But if the problem still persists, then move on to**Fix 3**, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your **Miracast adapter** driver
 
 This error may also occur when you have a corrupt/outdated **Miracast adapter** driver.  So you should update your**Miracast adapter** driver  to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.  You can update your drivers automatically with either **[the FREE](https://tools.techidaily.com/drivereasy/download/)**  or **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
@@ -64,13 +72,12 @@ This error may also occur when you have a corrupt/outdated **Miracast adapter** 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b43060ad35f9.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b43066ed2b95.jpg) You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
 
-<!-- affiliate ads end -->
-4. Restart your computer and see if this **Miracast: not supported by graphics driver** error message has been sorted.
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Restart your computer and see if this **Miracast: not supported by graphics driver** error message has been sorted.
 
 ---
 
@@ -85,8 +92,6 @@ That’s it  – 3 tried and tested methods to help fix your**Miracast: not supp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +99,20 @@ That’s it  – 3 tried and tested methods to help fix your**Miracast: not supp
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-chart-your-course-to-youtube-success-with-these-techniques/"><u>[Updated] 2024 Approved Chart Your Course to YouTube Success with These Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-reclaiming-snaps-secret-images-for-2024/"><u>[Updated] Reclaiming Snap's Secret Images for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-should-you-review-off-facebook-histories-security-tips-and-tricks/"><u>2024 Approved Should You Review Off-Facebook Histories? Security Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-guide-to-resolving-nier-automata-freezing-and-crashing-for-pc-users/"><u>Definitive Guide to Resolving NieR: Automata Freezing and Crashing for PC Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-tricks-to-revive-your-lenovos-unresponsive-f-key-step-by-step/"><u>Effortless Tricks to Revive Your Lenovo's Unresponsive F Key - Step by Step</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/future-of-ai-generative-models-is-gpt-5-already-in-development/"><u>Future of AI Generative Models - Is GPT-5 Already in Development?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209250416-guide-to-fixing-lost-bluetooth-connectivity-in-windows-11-steps-for-swift-resolution/"><u>Guide to Fixing Lost Bluetooth Connectivity in Windows 11: Steps for Swift Resolution!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-plus-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 14 Plus Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>In 2024, Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-stalled-windows-10-installation-for-smooth-upgrades/"><u>Resolving Stalled Windows 10 Installation for Smooth Upgrades</u></a></li>
+<li><a href="https://common-error.techidaily.com/tech-tragedy-device-lifespan-ended/"><u>Tech Tragedy: Device Lifespan Ended</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-complete-walkthrough-resolving-your-windows-1er-bluetooth-pairing-glitches/"><u>The Complete Walkthrough: Resolving Your Windows 1Er Bluetooth Pairing Glitches</u></a></li>
+</ul></div>
 

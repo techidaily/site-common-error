@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Not Turning Off? Here’s How to Resolve the Issue
-date: 2024-12-07T19:22:21.060Z
-updated: 2024-12-10T21:40:48.513Z
+date: 2024-12-14T18:45:30.352Z
+updated: 2024-12-16T21:31:20.482Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -38,7 +34,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -54,6 +50,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -74,25 +74,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Change boot order in BIOS
 
@@ -104,6 +96,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
@@ -117,7 +113,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -130,6 +126,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -153,21 +154,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-comparisons.techidaily.com/35x-plus-5y-95/"><u> [35X + 5Y = -95 </u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unveiling-the-magic-of-moving-texts-a-guide-for-insta-pros/"><u>[Updated] 2024 Approved Unveiling the Magic of Moving Texts A Guide for Insta Pros</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-stunning-images-with-the-latest-iphone-camera-features/"><u>[Updated] In 2024, Stunning Images with the Latest iPhone Camera Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-the-buzz-about-google-pixel-fold-2-insider-info-on-pricing-arrival-date-and-speculated-specifications/"><u>All the Buzz About Google Pixel Fold 2: Insider Info on Pricing, Arrival Date and Speculated Specifications!</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-halo-4-ue4-game-stopping-bugs-essential-fixes-and-workarounds/"><u>Beat Halo 4 UE4 Game-Stopping Bugs: Essential Fixes and Workarounds</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-how-to-restore-your-computers-keyboard-lighting/"><u>Fixes: How to Restore Your Computer's Keyboard Lighting</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-chromecasts-connectivity-woes-a-step-by-step-guide/"><u>Fixing Chromecast's Connectivity Woes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unregistered-windows-10-programs-effective-solutions-and-tips/"><u>Fixing Unregistered Windows 10 Programs: Effective Solutions and Tips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-dissecting-the-utility-of-sns-hdr-for-hdri-tasks/"><u>In 2024, Dissecting the Utility of SNS HDR for HDRI Tasks</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-and-simple-methods-to-overcome-the-disk-write-error-on-steam/"><u>Quick & Simple Methods to Overcome the 'Disk Write Error' On Steam</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sierra-users-the-ultimate-list-for-video-editing-apps-for-2024/"><u>Sierra Users The Ultimate List for Video Editing Apps for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correct-the-configuration-fault-on-your-new-windows-11-pc/"><u>Step-by-Step Guide to Correct the Configuration Fault on Your New Windows 11 PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-role-of-trusted-platform-module-tpm-in-windows-11-a-comprehensive-guide/"><u>Understanding the Role of Trusted Platform Module (TPM) in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-premium.techidaily.com/upgrading-your-iphone-easily-resolving-the-persistent-swipe-up-glitch/"><u>Upgrading Your iPhone Easily - Resolving the Persistent 'Swipe Up' Glitch</u></a></li>
-<li><a href="https://common-error.techidaily.com/win10-reboots-without-user-input/"><u>Win10 Reboots Without User Input</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxdvd-final-user-license-agreement-by-digiarty-software/"><u>WinXDVD Final User License Agreement by Digiarty Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ter-days-with-five-winter-themed-backgrounds-for-2024/"><u>Brighter Days with Five Winter-Themed Backgrounds for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138578375-9781452537528-dying-to-get-there/"><u>Dying to Get There | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-fixes-for-geforce-shadowplays-unsuccessful-installation-dilemma/"><u>Efficient Fixes for GeForce ShadowPlay's Unsuccessful Installation Dilemma</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-the-hottest-preorders-for-ipad-pro-and-latest-accessories-exclusive-deals-spotted/"><u>Find the Hottest Preorders for iPad Pro and Latest Accessories: Exclusive Deals Spotted !</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209242986-how-to-get-your-lost-invisible-desktop-windows-back/"><u>How To Get Your Lost, Invisible Desktop Windows Back</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-x-flip-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo X Flip to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/immune-response-alteration/"><u>Immune Response Alteration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-melody-matters-10-must-hear-sources-for-podcast-beginnings/"><u>In 2024, Melody Matters 10 Must-Hear Sources for Podcast Beginnings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/isolating-visual-snapshots-from-videos-using-the-windows-10-photos-tool/"><u>Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-fixes-for-when-your-gadget-says-it-isnt-prepared/"><u>Mastering Fixes for When Your Gadget Says It Isn't Prepared</u></a></li>
+<li><a href="https://common-error.techidaily.com/microsoft-wireless-display-adapter-wont-connect-on-windows-11-solved/"><u>Microsoft Wireless Display Adapter Won't Connect on Windows 11 [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-repair-guide-for-windows-11-disk-scanning-issues-ensuring-smooth-system-performance/"><u>Quick Repair Guide for Windows 11 Disk Scanning Issues: Ensuring Smooth System Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-pc-stuck-in-windows-11-troubleshooting-guide/"><u>Resolve PC Stuck in Windows 11: Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/seamless-auto-capture-mastering-hands-free-screen-shots/"><u>Seamless Auto-Capture: Mastering Hands-Free Screen Shots</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-error-code-0x800f081f-during-net-framework-35-setup/"><u>Solving the Dilemma: Error Code 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-on-extracting-audio-from-movies-or-videos/"><u>Step-by-Step Tutorial on Extracting Audio From Movies or Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-hello-fingerprint-login-configuration-guide/"><u>Windows Hello Fingerprint Login Configuration Guide</u></a></li>
 </ul></div>
 

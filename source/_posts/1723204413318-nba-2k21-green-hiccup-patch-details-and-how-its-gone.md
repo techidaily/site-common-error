@@ -1,7 +1,7 @@
 ---
 title: "NBA 2K21 Green Hiccup: Patch Details & How It's Gone!"
-date: 2024-08-15T11:10:50.085Z
-updated: 2024-08-16T11:10:50.085Z
+date: 2024-12-12T16:34:44.114Z
+updated: 2024-12-17T02:09:15.925Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/featured-image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one works for you.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
    * [PlayStation](https://tools.techidaily.com/drivereasy/download/)  
    * [Steam](https://tools.techidaily.com/drivereasy/download/)  
    * [Xbox One](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Make sure your PC meets the specs
 
@@ -59,6 +67,10 @@ Recommended System Requirements
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn off Shot Feedback
 
  Many players have tested that turning off the**Shot Feedback** fixed the green glitch. So it’s worth a shot. To do so, you can:
@@ -70,18 +82,14 @@ Recommended System Requirements
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-2-3.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  After applying the changes, relaunch your game and check if the problem is fixed. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics drivers
 
@@ -96,9 +104,6 @@ Here’s how to update drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
@@ -109,6 +114,10 @@ Here’s how to update drivers with Driver Easy:
 
  4) Restart your computer and start the game again to check if the issue persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Fixes on different gaming platforms
 
  There are some fixes that really worked for gamers. You can try the ones based on the platform you’re using.
@@ -116,6 +125,10 @@ Here’s how to update drivers with Driver Easy:
 [PlayStation](https://tools.techidaily.com/drivereasy/download/)
 [Steam](https://tools.techidaily.com/drivereasy/download/)
 [Xbox One](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### PlayStation: download files from MyCAREER
 
@@ -126,22 +139,17 @@ Here’s how to update drivers with Driver Easy:
  2) Click**Upload to Online Storage** and upload all your data for 2K21 to the cloud.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-2-2.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
  3) After uploading your data, go back to**Saved Data in Online Storage** and click**Download to System Storage** . Then download everything from**MyCAREER** (Only from**MyCAREER** files and nothing else).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Steam
 
  If you play NBA 2K21 on Steam and got the green glitch, you’re supposed to**disable the Steam overlay** and**verify your game files** .
@@ -151,16 +159,10 @@ Here’s how to update drivers with Driver Easy:
  1) Click on the**LIBRARY** tab, right-click on your game**NBA 2K21,** and select Properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-6.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Under the**GENERAL** section, uncheck**Enable the Steam Overlay while in-game** .
 
 ![disable steam overlay NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-3.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
  After applying the change, exit Steam and play your game again to see if the issue is fixed. If not, try verifying your game files.
 
@@ -173,9 +175,6 @@ To do this, simply follow the instructions below:
  1) Click on the**LIBRARY** tab, right-click on your game**NBA 2K21,** and select**Properties** .
 
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
 
@@ -183,9 +182,6 @@ To do this, simply follow the instructions below:
 
  3) When the process is completed, restart Steam and launch your game again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Xbox One: make sure the language is set to English
 
  If you don’t set the language to English, then it’s one of the reasons you got the green glitch.
@@ -193,10 +189,6 @@ To do this, simply follow the instructions below:
  1) Go to**FEATURES** in 2K.
 
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/set-the-language-into-English-1.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  2) Click**SETTINGS** and scroll down to**Menu Language** and make sure the language is set to**English** .
 
@@ -215,8 +207,6 @@ To do this, simply follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +214,24 @@ To do this, simply follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-expert-audio-guide-for-vloggers/"><u>[New] 2024 Approved Expert Audio Guide for Vloggers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-a-deeper-look-at-vivas-video-capabilities-for-2024/"><u>[Updated] A Deeper Look at Viva's Video Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-instrumental-showcase-highlighting-the-best-15-video-techniques/"><u>[Updated] In 2024, Instrumental Showcase Highlighting the Best 15 Video Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-the-print-screen-not-working-issue-on-windows-1110-pcs/"><u>Effective Solutions to the Print Screen Not Working Issue on Windows 11/10 PCs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elite-platforms-for-captivating-game-livestreams-for-2024/"><u>Elite Platforms for Captivating Game Livestreams for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/execution-denied-compliance-not-met/"><u>Execution Denied: Compliance Not Met</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fabricate-jocular-images-share-via-giphy-for-2024/"><u>Fabricate Jocular Images, Share via Giphy for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fortnite-graphics-card-compatibility-fix-for-windows-users-unsupported-to-supported/"><u>Fortnite Graphics Card Compatibility Fix for Windows Users (Unsupported to Supported)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-a15-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy A15 5G FRP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-20-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Tecno Spark 20</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-pc-fresh-implementing-auto-file-cleanup-in-winos/"><u>Keep Your PC Fresh: Implementing Auto-File Cleanup in WINOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/playing-fortnite-with-any-gpu-tips-for-fixing-compatibility-issues-on-windows/"><u>Playing Fortnite with Any GPU? Tips for Fixing Compatibility Issues on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-local-security-framework-lsa-defense-mechanism-back-online/"><u>Reviving Local Security Framework: LSA Defense Mechanism Back Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-how-to-get-non-responsive-chrome-working-again/"><u>Solution Steps: How To Get Non-Responsive Chrome Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-resolving-issues-with-non-responsive-computer-systems/"><u>Step-by-Step Instructions: Resolving Issues with Non-Responsive Computer Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-overcoming-issues-with-minecraft-native-launcher-updates/"><u>Troubleshooting Tips: Overcoming Issues with Minecraft Native Launcher Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205015240-usb-mouse-malfunction-on-computers-discover-quick-and-effective-repair-techniques/"><u>USB Mouse Malfunction on Computers? Discover Quick and Effective Repair Techniques</u></a></li>
+</ul></div>
 

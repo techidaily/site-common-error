@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Unexpected Shutdowns During Gaming on Various Windows Versions"
-date: 2024-12-02T20:16:13.879Z
-updated: 2024-12-03T18:34:41.225Z
+date: 2024-12-12T17:02:54.876Z
+updated: 2024-12-17T00:59:21.371Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -55,13 +51,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -70,28 +66,25 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
-3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
+3. Click **Change settings that are currently unavailable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -114,6 +107,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -122,11 +119,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -152,21 +153,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-windows-11-start-menu-not-working/"><u>[FIXED] Windows 11 Start Menu Not Working</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-30-best-freefire-tagshashtags-for-youtube/"><u>[Updated] 2024 Approved 30 Best FreeFire Tags/Hashtags For YouTube</u></a></li>
-<li><a href="https://common-error.techidaily.com/asus-laptop-issue-resolved-enabling-and-repairing-function-keys-that-wont-work-anymore/"><u>ASUS Laptop Issue Resolved: Enabling and Repairing Function Keys That Won't Work Anymore</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/breaking-down-lgs-360-camera-updates-and-features-for-2024/"><u>Breaking Down LG's 360 Camera Updates & Features for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-remove-unwanted-vertical-or-horizontal-lines-appearing-on-screen/"><u>Effective Techniques to Remove Unwanted Vertical or Horizontal Lines Appearing On Screen</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-15-plus-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-flv-conversion-for-content-creators-top-10-youtubes-alternatives-unveiled/"><u>In 2024, Flv Conversion for Content Creators Top 10 YouTubes Alternatives Unveiled</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-15-pro-max-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 15 Pro Max Stuck On Activation Lock?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rainbow-six-extraction-troubleshooting-steps-for-a-smooth-pc-gaming-experience/"><u>Rainbow Six Extraction - Troubleshooting Steps for a Smooth PC Gaming Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-failed-to-initialize-network-problem-in-dragon-ball-fighterz-expert-guide/"><u>Solving the 'Failed to Initialize Network' Problem in Dragon Ball FighterZ - Expert Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-runmuss-game-headset-microphone-woes/"><u>Troubleshoot and Fix Your Runmuss Game Headset Microphone Woes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-windows-11-problem-found-during-system-reset-complete-solution-walkthrough/"><u>Troubleshooting the Windows 11 Problem Found During System Reset - Complete Solution Walkthrough</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-malfunctioning-function-keyboard-buttons/"><u>Troubleshooting Tips: Fixing Malfunctioning Function Keyboard Buttons</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-mastered-achieving-restful-sleep/"><u>Windows 11 Mastered: Achieving Restful Sleep</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-creating-instagram-virality-video-edition/"><u>[Updated] 2024 Approved Creating Instagram Virality Video Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-optimize-your-instagram-stories-for-engagement/"><u>[Updated] 2024 Approved How to Optimize Your Instagram Stories for Engagement</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-androidios-the-ultimate-free-image-editing-tool-guide-top-10-for-2024/"><u>[Updated] Android/iOS The Ultimate Free Image Editing Tool Guide (Top 10) for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-cutting-edge-content-creation-premier-android-editors/"><u>[Updated] Cutting-Edge Content Creation Premier Android Editors</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-correcting-unrecognized-devices-in-icue-environments/"><u>Comprehensive Guide to Correcting Unrecognized Devices in ICUE Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-how-to-keep-your-windows-11-computer-from-constantly-restarting/"><u>Expert Tips: How To Keep Your Windows 11 Computer From Constantly Restarting</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fake-face-creators-top-picks-for-online-identity-design/"><u>Fake Face Creators Top Picks for Online Identity Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-for-local-sam-service-error-on-computers/"><u>Fix for Local SAM Service Error on Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-lenovo-laptop-camera-not-working/"><u>How To Fix Lenovo Laptop Camera Not Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-10s-persistent-windows-update-error-code-0x800705b4-guide/"><u>How to Fix Windows 10'S Persistent Windows Update Error Code 0X800705b4 [Guide]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-6-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 6 With or Without Password</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-cortana-backup-on-microsoft-operating-systems/"><u>Navigating Cortana Backup on Microsoft Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-window-10-screen-saver-malfunction-with-these-simple-steps/"><u>Resolve Window 10 Screen Saver Malfunction with These Simple Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-handling-error-code-1000-across-different-windows-platforms-7-8-and-10/"><u>Step-by-Step Solution for Handling Error Code 1000 Across Different Windows Platforms (7, 8 & 10)</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-bypassing-and-solving-google-chromes-notorious-error-scam/"><u>The Ultimate Guide to Bypassing and Solving Google Chrome's Notorious Error Scam</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-audio-issues-how-to-fix-unresponsive-volume-control/"><u>Troubleshooting Windows 11 Audio Issues: How to Fix Unresponsive Volume Control</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Application.exe Has Stopped Working"
-date: 2024-12-05T20:08:00.886Z
-updated: 2024-12-10T16:06:15.426Z
+date: 2024-12-09T20:20:08.043Z
+updated: 2024-12-16T19:05:50.884Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes for Astro A40 Mic Not Working
 
  All the screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** &**7** as well.
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -55,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
  Check if the microphone is still not working. If yes, then great. But if it’s not working, move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
 
@@ -70,10 +66,6 @@ To make sure the volume is audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -83,6 +75,10 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
@@ -94,16 +90,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -120,9 +112,17 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -156,22 +156,20 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-enhancement-the-art-of-background-blur/"><u>[New] 2024 Approved YouTube Enhancement The Art of Background Blur</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-transforming-video-aesthetics-on-tiktok-dual-approach/"><u>[New] In 2024, Transforming Video Aesthetics on TikTok (Dual Approach)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-champion-captures-educations-audio-leaders/"><u>[Updated] 2024 Approved Champion Captures Education's Audio Leaders</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-open-source-tranquility-tracks/"><u>[Updated] 2024 Approved Open Source Tranquility Tracks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-fandom-to-fame-gamers-livestream-success-strategies-for-2024/"><u>[Updated] From Fandom to Fame Gamers' Livestream Success Strategies for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-become-the-star-with-your-own-stories-guidelines-for-crafting-over-120-creative-snap-tales/"><u>[Updated] In 2024, Become the Star with Your Own Stories Guidelines for Crafting over 120 Creative Snap Tales</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-se-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone SE Without a Passcode</u></a></li>
-<li><a href="https://common-error.techidaily.com/application-stops-due-to-dll-absence/"><u>Application Stops Due to DLL Absence</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-the-binkw32dll-file-not-present-error/"><u>Comprehensive Fixes for The binkw32.dll File Not Present Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-it-tips-and-solutions-when-your-torrent-isnt-downloading-as-expected/"><u>How to Fix It: Tips and Solutions When Your Torrent Isn't Downloading as Expected</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-the-c1900101-problem-in-win10-setup/"><u>How To Fix the C1900101 Problem in Win10 Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-when-it-gets-stuck-on-100-solution/"><u>How to Fix Windows Update When It Gets Stuck on 100% - SOLUTION</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-s23plus-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Itel S23+.</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-frequent-device-disconnection-a-comprehensive-approach-to-troubleshooting-usb-connectivity/"><u>Overcoming Frequent Device Disconnection: A Comprehensive Approach to Troubleshooting USB Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-non-charging-difficulties-essential-tips-for-your-surface-device/"><u>Overcoming Non-Charging Difficulties: Essential Tips for Your Surface Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-addressing-second-monitor-not-detected-on-windows-7-fixed/"><u>Troubleshooting Guide: Addressing 'Second Monitor Not Detected' On Windows 7 [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-minecraft-local-area-network-lan-connection-issues/"><u>Troubleshooting Guide: Fixing Minecraft Local Area Network (LAN) Connection Issues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-complete-playbook-for-youtube-beginners/"><u>[Updated] In 2024, The Complete Playbook for YouTube Beginners</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-no-money-no-problem-learn-to-edit-videos-for-free-on-vimeo-for-2024/"><u>[Updated] No Money, No Problem! Learn to Edit Videos for FREE on Vimeo for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-eyesharp-record-chromeos-native-cam/"><u>2024 Approved EyeSharp Record ChromeOS Native Cam</u></a></li>
+<li><a href="https://techtrends.techidaily.com/academic-achievers-resource-picking-out-the-right-laptop-or-desktop-for-learning/"><u>Academic Achievers' Resource: Picking Out the Right Laptop or Desktop for Learning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-browser-practices-optimal-memorycpu-use-on-three-platforms/"><u>Best Browser Practices: Optimal Memory/CPU Use on Three Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-strategies-handling-and-repairing-livekernelevent-117-mishaps/"><u>Expert Strategies: Handling and Repairing LiveKernelEvent 117 Mishaps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-how-to-resolve-unresponsive-number-keys-on-your-keyboard/"><u>Fixed: How to Resolve Unresponsive Number Keys on Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-10-cant-be-installed-error-code-80240020-complete-solution/"><u>Fixing Windows 10 Can't Be Installed Error (Code 80240020) - Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/gaining-consent-from-reliableprotector-to-modify-system-files/"><u>Gaining Consent From ReliableProtector to Modify System Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-irrecoverable-directx-error-message-once-and-for-all/"><u>How to Fix the Irrecoverable DirectX Error Message Once and for All</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to others devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X without Passcode or Face ID</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-windows-installation-hang-up-clear-guide-for-unsticking-configuration/"><u>Resolve Windows Installation Hang-Up: Clear Guide for Unsticking Configuration</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-broken-keyboard-arrows-expert-advice-for-swift-repairs/"><u>Revive Broken Keyboard Arrows: Expert Advice for Swift Repairs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-msstdfmtdll-missing-error-on-your-computer/"><u>Troubleshooting The Msstdfmt.dll Missing Error on Your Computer</u></a></li>
 </ul></div>
 

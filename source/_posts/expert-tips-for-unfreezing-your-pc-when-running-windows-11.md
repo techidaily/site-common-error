@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Unfreezing Your PC When Running Windows 11
-date: 2024-12-06T16:09:37.735Z
-updated: 2024-12-10T16:46:30.991Z
+date: 2024-12-15T22:14:07.803Z
+updated: 2024-12-17T01:14:57.623Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Your**Windows Store** has been acting up recently.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for Windows Store cache may be damaged
@@ -44,14 +44,10 @@ Your**Windows Store** has been acting up recently.
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type**R** at the same time, then type**wsreset.exe** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Wait until the whole Windows store cache reset process finishes.
@@ -68,10 +64,6 @@ Your**Windows Store** has been acting up recently.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Create a new Windows Store cache folder
 
  Sometimes the error occurs just because your Windows Store is unable to read the error-ridden cache folder. If that’s true, we’ll need to**create a new Windows** **Store cache folder** .
@@ -80,13 +72,13 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae96c7d1dc08.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Copy & paste **windowsstore** into the search box and double-click on **Microsoft.WindowsStore\_8wekyb3d8bbwe** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aebb40074eaa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Double-click on **LocalState** , see if there’s a folder named**cache** in it:
 
@@ -107,9 +99,17 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Reset** , and you’ll receive a confirmation button. Click **Reset** and close the window.
 
@@ -142,20 +142,19 @@ Your**Windows Store** has been acting up recently.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-visual-enchantment-top-14-text-animation-highlights/"><u>[Updated] In 2024, Visual Enchantment Top 14 Text Animation Highlights</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-resolve-windows-10-patching-errors-and-enable-seamless-functionality/"><u>Effective Techniques to Resolve Windows 10 Patching Errors and Enable Seamless Functionality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-y17s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo Y17s Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>In 2024, Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-connection-top-tips-for-pairing-airpods-with-windows-11-systems-updated/"><u>Mastering the Connection: Top Tips for Pairing AirPods with Windows 11 Systems (Updated )</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-spark-20c-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Spark 20C on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-uninstallable-dilemma-a-comprehensive-guide-to-fixing-windows-10-error-code-80240020-fixed/"><u>Resolving the Uninstallable Dilemma: A Comprehensive Guide to Fixing Windows 10 - Error Code 80240020 | [Fixed]</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11s-screen-disturbance-a-step-by-step-guide/"><u>Resolving Windows 11'S Screen Disturbance: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-significance-of-ai-in-prompt-design-and-workforce-outlook/"><u>The Significance of AI in Prompt Design and Workforce Outlook</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-8-compact-android-emulators-windows-and-macos/"><u>Top 8 Compact Android Emulators, Windows & MacOS</u></a></li>
-<li><a href="https://common-error.techidaily.com/unknown-usb-device-device-descriptor-request-failed-solved/"><u>Unknown USB Device (Device Descriptor Request Failed) [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-does-my-pc-freeze-on-windows-7-essential-fixes-to-keep-your-system-running-smoothly/"><u>Why Does My PC Freeze on Windows 7? Essential Fixes to Keep Your System Running Smoothly</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-the-battle-against-windows-service-not-responding-errors/"><u>Winning the Battle Against Windows' Service Not Responding Errors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-asus-proart-pa32u-review-4k-hdr-professional-monitor-review/"><u>[New] 2024 Approved ASUS ProArt PA32U Review 4K HDR Professional Monitor Review</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-identifying-your-one-of-a-kind-tiktok-sequence/"><u>[New] Identifying Your One-of-a-Kind TikTok Sequence</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-crafting-unique-composition-through-montages/"><u>[New] In 2024, Crafting Unique Composition Through Montages</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-this-is-a-recommendation-about-bandicut-if-you-are-confused-please-check-it-out/"><u>2024 Approved This Is a Recommendation About Bandicut. If You Are Confused, Please Check It Out</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/device-driver-troubles-heres-how-to-achieve-compatibility-with-windows-updates/"><u>Device Driver Troubles? Here’s How to Achieve Compatibility with Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-when-your-diagnostics-policy-service-wont-start/"><u>Fixing the Issue When Your Diagnostics Policy Service Won't Start</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-non-responsive-file-explorer-in-windows-11-solutions-and-tips/"><u>How to Fix Non-Responsive File Explorer in Windows 11 – Solutions & Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-m54-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy M54 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/logitech-hd-c270-compatibility-guide-for-windows-devices/"><u>Logitech HD C270 Compatibility Guide for Windows Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-darkness-at-launch-overcoming-black-screens-in-monster-hunter-world/"><u>No More Darkness at Launch? Overcoming Black Screens in Monster Hunter: World</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/premium-gratis-image-cleaner-top-watermark-stripper-apps/"><u>Premium Gratis Image Cleaner: Top Watermark Stripper Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-pc-effective-repair-strategies-with-sfc-and-dism-in-windows-nvironments/"><u>Reviving Your PC: Effective Repair Strategies with SFC and DISM in Windows Nvironments</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-content-accessibility-issue-resolved-what-you-need-to-know/"><u>Steam Content Accessibility Issue Resolved: What You Need to Know</u></a></li>
 </ul></div>
 

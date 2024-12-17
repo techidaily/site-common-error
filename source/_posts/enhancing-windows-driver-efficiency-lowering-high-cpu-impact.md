@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Windows Driver Efficiency: Lowering High CPU Impact"
-date: 2024-11-30T05:48:44.453Z
-updated: 2024-12-04T01:59:00.747Z
+date: 2024-12-11T19:02:04.238Z
+updated: 2024-12-17T02:12:31.882Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Windows users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 5. **[Download updates from Microsoft Update Catalog manually](#f5)**
 6. **[Pro tip: Want us to fix the problem for you?](#p)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Remove any USB peripherals and wait for the update process to finish
 
  If you seldom check for Windows updates, it may take a long time for Windows to complete the update process. Maybe your PC is not “stuck” at Windows update, and Windows is just configuring and installing update packages.
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
  If you temporarily don’t need to use your PC, you can just wait for 2 to 3 hours to see if the update process can be completed. If there are any USB devices (like printers, USB flash drives, etc.) connected to your PC, you can try removing them from your PC. Some Windows users reported that after they disconnect all the USB peripherals from their PCs, the update process completes quickly.
 
  See if this issue persists after you wait for 2 to 3 hours. If it persists, try the next fix below to force restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Force restart your PC
 
@@ -71,13 +75,17 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 2. In the pop-up window, select **Windows Update** and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes** to run Windows Update troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap466-1.png)
 3. Click **Apply this fix** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap467-1.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### If you’re using Windows 11
 
@@ -86,14 +94,14 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Windows Update. Then wait for it to troubleshoot your issues.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perform a Windows update again to see if you can install the update. If this issue reappears, try the next fix, below.
 
@@ -104,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the Run dialog. Type **cmd** and press **Ctrl** , **Shift** and **Enter** at the same time to **run Command Prompt as administrator** . You’ll be prompted for permission. Click **Yes** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468-1.png)
 2. In Command Prompt, type the command lines below and press Enter on your keyboard after typing each:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  net stop bits  
  net stop wuauserv  
@@ -134,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of the Windows operating system. You can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually to see if you can fix this issue.
@@ -149,7 +149,7 @@ thumbnail: https://thmb.techidaily.com/fb656afcca36e04556318b24814fb553c32e021b5
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
@@ -172,12 +172,12 @@ Now, you can follow the steps below to download Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474-1.png)
 6. In the pop-up window, click the link to start downloading the updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475-1.png)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your PC to see if this issue persists. If not, congratulations! You’ve resolved this annoying issue! But if this issue reappears, you can try the last fix, below.
 
@@ -207,20 +207,22 @@ Now, you can follow the steps below to download Windows updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-accelerate-audio-playback-on-spotify-safely-and-effectively/"><u>[New] In 2024, Accelerate Audio Playback on Spotify Safely & Effectively</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-invite-and-guest-at-tiktok-lives-easily/"><u>[New] In 2024, Invite and Guest at TikTok Lives Easily</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-perfecting-online-presence-key-to-knowing-and-using-fb-video-ratios-for-2024/"><u>[New] Perfecting Online Presence Key to Knowing and Using FB Video Ratios for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-deciding-the-top-iphone-video-editor-cameo-or-filmorago/"><u>[Updated] Deciding the Top iPhone Video Editor Cameo or FilmoraGo?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-11-pro-max-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 11 Pro Max Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/ending-latency-woes-effective-strategies-to-fix-the-network-lag-detected-fault-in-pubg/"><u>Ending Latency Woes: Effective Strategies to Fix the 'Network Lag Detected' Fault in PUBG</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-step-by-step-instructions-to-fix-a-blank-screen-on-your-monitor/"><u>Expert Advice: Step-by-Step Instructions to Fix a Blank Screen on Your Monitor</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-streams-to-next-level-with-av1-on-youtube/"><u>In 2024, Elevate Streams to Next Level with AV1 on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>Photography Tutorial How to Shoot and Create Impressive HDR Portraits</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-malfunctioning-keyboard-backlights-on-pcmac-systems/"><u>Step-by-Step Solution for Malfunctioning Keyboard Backlights on PC/Mac Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-tell-if-netflix-isnt-working-and-solutions/"><u>Troubleshooting Guide: How to Tell If Netflix Isn't Working and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-disconnected-printer-resolving-error-code-30-successfully/"><u>Troubleshooting Your Disconnected Printer: Resolving Error Code -30 Successfully</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ubuntu-terminal-basics-for-chatgpt-enthusiasts/"><u>Ubuntu Terminal Basics for ChatGPT Enthusiasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/winkernel-power-failure-error-41-fixed/"><u>WinKernel Power Failure: Error #41 Fixed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-bring-your-ideas-to-life-a-practical-guide-to-screen-recording-on-macos/"><u>[Updated] Bring Your Ideas to Life A Practical Guide to Screen Recording on MacOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capture-every-moment-top-budget-friendly-cam-recorders/"><u>2024 Approved Capture Every Moment Top Budget-Friendly Cam Recorders</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-persistent-boot-loops-in-windows-11-expert-solutions-provided/"><u>Effective Fixes for Persistent Boot Loops in Windows 11 - Expert Solutions Provided</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-endless-load-on-skyrims-startup-a-step-by-step-guide/"><u>Fixing Endless Load on Skyrim's Startup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/holding-out-for-final-word-from-regulatory-panel/"><u>Holding Out for Final Word From Regulatory Panel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-11-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme 11 Pro?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Identify malfunctioning hardware drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-video-recording-and-editing-software-for-new-gamers/"><u>In 2024, Essential Video Recording & Editing Software for New Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/kb4056892-fix-steps-to-ensure-seamless-windows-10-update-installation-solved/"><u>KB4056892 Fix: Steps to Ensure Seamless Windows 10 Update Installation [SOLVED]</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastery-of-mourning-disconnecting-your-fb-commerce-profile/"><u>Mastery of Mourning: Disconnecting Your FB Commerce Profile</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/quick-fixes-for-the-troublesome-bsod-error-code-0x00000116/"><u>Quick Fixes for the Troublesome BSOD Error Code 0X00000116</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-high-disk-usage-by-microsoft-compatibility-telemetry-in-windows-11/"><u>Resolving High Disk Usage by Microsoft Compatibility Telemetry in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/surface-pen-not-working-solved/"><u>Surface Pen Not Working [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-it-professionals-checklist-for-fixing-a-frozen-system/"><u>The IT Professional's Checklist for Fixing a Frozen System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-incorrect-parameter-issues-with-loadlibrary-functions/"><u>Troubleshooting 'Incorrect Parameter' Issues with LoadLibrary Functions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-minecraft-opengl-issues/"><u>Troubleshooting Guide: Resolving Minecraft OpenGL Issues</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/visionvoice-tips-for-perfectly-sized-insta-posts-for-2024/"><u>VisionVoice Tips for Perfectly Sized Insta Posts for 2024</u></a></li>
 </ul></div>
 

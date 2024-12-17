@@ -1,7 +1,7 @@
 ---
 title: Fixing the Non-Responsive Scroll Wheel on Logitech Mice – A Step-by-Step Guide
-date: 2024-11-09T16:56:04.687Z
-updated: 2024-11-15T16:04:59.874Z
+date: 2024-12-13T20:23:35.542Z
+updated: 2024-12-16T16:02:36.184Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -67,6 +71,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -76,13 +84,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -102,13 +103,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -116,16 +110,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -136,6 +121,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -149,27 +138,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,19 +184,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-gifs-a-step-by-step-snapchat-guide/"><u>2024 Approved Mastering GIFs A Step-by-Step Snapchat Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/concealing-activities-deactivate-windows-eye-on-users/"><u>Concealing Activities: Deactivate Windows' Eye on Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnose-and-correct-bluetooth-connectivity-issues-between-your-keyboard-and-pc/"><u>Diagnose & Correct Bluetooth Connectivity Issues Between Your Keyboard and PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-asus-rog-phone-7-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Asus ROG Phone 7 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-live-streaming-elite-9-edition/"><u>In 2024, Live Streaming Elite #9 Edition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-thumbnail-extraction-from-youtube-on-multiple-platforms/"><u>In 2024, Mastering Thumbnail Extraction From Youtube on Multiple Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/reactivating-the-photography-capability-of-your-dell-system-under-a-windows-environment/"><u>Reactivating the Photography Capability of Your Dell System Under a Windows Environment</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-unstable-usb-connections-on-your-computer/"><u>Step-by-Step Fixes for Unstable USB Connections on Your Computer</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/step-by-step-guide-seamlessly-transferring-your-system-from-hard-drive-to-bootable-patriot-ssd/"><u>Step-by-Step Guide: Seamlessly Transferring Your System From Hard Drive to Bootable Patriot SSD</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/step-by-step-tutorial-on-creating-a-highly-available-virtual-server-cluster-with-hyper-v/"><u>Step-by-Step Tutorial on Creating a Highly Available Virtual Server Cluster with Hyper-V</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tailoring-visual-quality-choose-aspect-ratios-wisely-for-2024/"><u>Tailoring Visual Quality Choose Aspect Ratios Wisely for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-definitive-solution-to-the-frustrating-0x800705b4-update-glitch-on-windows-11-devices/"><u>The Definitive Solution to the Frustrating 0X800705b4 Update Glitch on Windows 11 Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-vehicle-monitoring-cameras/"><u>Ultimate Guide to Vehicle Monitoring Cameras</u></a></li>
-<li><a href="https://common-error.techidaily.com/white/"><u>White</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-critical-perspective-a-2024-review-of-magix-music-maker/"><u>[New] Critical Perspective A 2024 Review of Magix Music Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-5-simplified-steps-for-sequential-youtube-video-viewing-free-for-2024/"><u>[Updated] 5 Simplified Steps for Sequential YouTube Video Viewing (Free) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pro-gamers-preferred-video-capture/"><u>[Updated] Pro Gamers' Preferred Video Capture</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-boosting-income-via-youtube-ads-and-analytics-across-platforms/"><u>2024 Approved Boosting Income via YouTube Ads & Analytics Across Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-there-any-safety-concerns-with-using-alternative-chatgpt-applications-and-plug-ins/"><u>Are There Any Safety Concerns with Using Alternative ChatGPT Applications and Plug-Ins?</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-glitch-successfully-turn-off-your-computer-running-windows-11-now-solved/"><u>Beat the Glitch: Successfully Turn Off Your Computer Running Windows 11 – Now Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-effortless-solutions-to-stop-your-laptop-from-freezing-up/"><u>Expert Advice: Effortless Solutions to Stop Your Laptop From Freezing Up</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211027005-how-to-prevent-auto-sleep-on-pc-or-laptop-easy-steps-inside/"><u>How to Prevent Auto-Sleep on PC or Laptop - Easy Steps Inside!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-harmony-a-comprehensive-song-selection-methodology/"><u>Instagram Harmony A Comprehensive Song Selection Methodology</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-with-creating-directx-devices-on-your-system/"><u>Resolved: Issue with Creating DirectX Devices on Your System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-process-of-android-video-u-turns-for-2024/"><u>The Process of Android Video U-Turns for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-device-drivers-warnings-in-windows-7-setup-guide/"><u>Troubleshooting the Missing Device Drivers Warnings in Windows 7 Setup [Guide]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Nonfunctional Keyboard Issues During System Boot"
-date: 2024-12-05T21:10:25.331Z
-updated: 2024-12-10T22:01:17.093Z
+date: 2024-12-09T18:36:36.523Z
+updated: 2024-12-17T01:40:59.151Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 4. **[Update your keyboard driver](#Fix4)**
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
 
@@ -49,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
  After confirming that your hardware is not the problem, check out the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -67,22 +71,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -95,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
@@ -103,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -115,10 +115,14 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -133,10 +137,6 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
@@ -147,12 +147,12 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -175,15 +175,20 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>2024 Approved How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/all-you-need-to-know-in-depth-ipad-comparisons-unveiled/"><u>All You Need To Know: In-Depth iPad Comparisons Unveiled</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-graphics-the-ultimate-guide-to-installing-updated-drivers-on-acer-predator-helios-300/"><u>Boost Graphics: The Ultimate Guide to Installing Updated Drivers on Acer Predator Helios 300</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/effortless-harmony-creating-engaging-and-organized-youtube-playlists-for-2024/"><u>Effortless Harmony Creating Engaging and Organized YouTube Playlists for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-blaze-curve-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-obstacle-of-error-0x800n1ac3-comprehensive-steps-for-cleaning-a-corrupted-volume/"><u>Overcoming the Obstacle of Error 0X800n1AC3: Comprehensive Steps for Cleaning a Corrupted Volume</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-laptop-not-charging-on-windows-7-and-10/"><u>Resolved: How to Fix Laptop Not Charging on Windows 7 & 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-unresponsive-night-light-feature-in-windows-10-and-11/"><u>Troubleshooting Guide: Fixing the Unresponsive Night Light Feature in Windows 10 & 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-issues-when-the-steam-store-wont-load/"><u>Troubleshooting Guide: Resolving Issues When The Steam Store Won't Load</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-c32-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia C32 Phone When You Forget the Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-windows-0xfffffff-confusion-quick-fixes/"><u>Clearing Windows' 0XFFFFFFF Confusion: Quick Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-the-not-responding-error-on-your-windows-10-file-explorer-quick-fixes-revealed/"><u>Defeating the Not Responding Error on Your Windows 10 File Explorer - Quick Fixes Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-collaboration-microsofts-latest-update-to-windows-11-share-feature/"><u>Enhancing Collaboration: Microsoft's Latest Update to Windows 11 Share Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-7-update-stuck-2024-tips/"><u>How to Fix Windows 7 Update Stuck – 2024 Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-corrupted-files-on-windows-10-with-the-power-of-sfc-and-dism-utilities/"><u>How to Repair Corrupted Files on Windows 10 with the Power of SFC and DISM Utilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212248433-how-to-restore-lost-bluetooth-functionality-on-windows-10-fast-and-easy/"><u>How to Restore Lost Bluetooth Functionality on Windows 10, Fast and Easy.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-method-to-share-subtitle-text-online/"><u>In 2024, Step-by-Step Method to Share Subtitle Text Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/longer-is-stronger-securing-devices-with-extended-windows-11-pins/"><u>Longer Is Stronger: Securing Devices with Extended Windows 11 Pins</u></a></li>
+<li><a href="https://win-lab.techidaily.com/passaggio-da-hdd-ad-ssd-con-windows-11-un-tutorial-dettagliato/"><u>Passaggio Da HDD Ad SSD Con Windows 11: Un Tutorial Dettagliato</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-repair-your-lenovo-laptops-malfunctioning-webcam/"><u>Troubleshooting Steps to Repair Your Lenovo Laptop's Malfunctioning Webcam</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-best-top-race-rc-rock-crawlers-mastering-any-terrain/"><u>Ultimate Guide to the Best Top Race R/C Rock Crawlers - Mastering Any Terrain</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-timeout-errors-in-file-downloads/"><u>Ultimate Guide: Resolving Timeout Errors in File Downloads</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-midland-lxt500vp3-radio-an-in-depth-review-on-its-plentiful-features-and-underwhelming-output/"><u>Unveiling the Midland LXT500VP3 Radio - An In-Depth Review on Its Plentiful Features and Underwhelming Output</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211147057-9781998754380-writing-herstory/"><u>Writing HERstory | Free Book</u></a></li>
 </ul></div>
 

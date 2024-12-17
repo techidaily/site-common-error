@@ -1,7 +1,7 @@
 ---
 title: "Getting Your Microphone Back on Track: Expert Tips for Windows 11 Users"
-date: 2024-12-07T20:54:28.092Z
-updated: 2024-12-10T21:09:57.138Z
+date: 2024-12-14T01:40:24.529Z
+updated: 2024-12-17T00:53:38.872Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -37,10 +41,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
@@ -49,7 +49,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)  
@@ -60,22 +60,18 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -88,6 +84,10 @@ Then click **Device Manager**  to open it.
  2) With **Scan Now** , it can scan out all of your outdated, missing and corrupted drivers and find the correct ones for you in less than 1 min! Your touchpad driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
 
@@ -119,19 +119,14 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-recorders-eye-a-snapshot-of-best-tools/"><u>[Updated] 2024 Approved The Recorder's Eye A Snapshot of Best Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-action-film-snapshotting/"><u>[Updated] 2024 Approved Ultimate Guide to Action Film Snapshotting</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-setting-up-audio-on-modern-windows-10/"><u>2024 Approved Setting Up Audio on Modern Windows 10</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-nubia-z50-ultra-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Nubia Z50 Ultra? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-update-blues-fix-miracast-unsupported-by-this-device-easy-steps/"><u>Beat The Update Blues: Fix 'Miracast Unsupported by This Device' Easy Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/catch-every-swish-and-dunk-of-mens-ncaa-basketball-radio-broadcasts-from-thrilling-march-madness-matchups-to-final-four-showdowns/"><u>Catch Every Swish and Dunk of Men's NCAA Basketball: Radio Broadcasts From Thrilling March Madness Matchups to Final Four Showdowns.</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-getting-your-dell-camera-up-and-running-in-windows/"><u>Expert Tips: Getting Your Dell Camera Up and Running in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-mystery-how-to-stop-your-computer-from-unexpected-shutdowns/"><u>Fixing the Mystery: How to Stop Your Computer From Unexpected Shutdowns</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-silent-issue-complete-guide-on-resolving-no-audio-in-forza-horizon-4/"><u>Fixing the Silent Issue: Complete Guide on Resolving No Audio in Forza Horizon 4</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-echoenthusiast-auditory-review-exploration/"><u>In 2024, EchoEnthusiast Auditory Review Exploration</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-iphone-photography-handbook-tips-and-tricks/"><u>In 2024, The iPhone Photography Handbook Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-analysis-how-mismatched-drivers-lead-to-breached-security-in-ftdi-bus-systems/"><u>In-Depth Analysis: How Mismatched Drivers Lead to Breached Security in FTDI Bus Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-gadgets-with-professional-tips-from-toms-hardware/"><u>Master Your Gadgets with Professional Tips From Tom's Hardware</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-windows-update-failed-understanding-and-fixing-error-code-0x80070643/"><u>Solving the Mystery of 'Windows Update Failed' - Understanding and Fixing Error Code 0X80070643</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-the-best-online-pixel-ringtones-hubs/"><u>[New] In 2024, Navigating the Best Online Pixel Ringtones Hubs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-the-art-of-audio-with-zoom-your-complete-guidebook/"><u>[Updated] In 2024, Mastering the Art of Audio with Zoom Your Complete Guidebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-phantom-problem-of-a-non-existent-touchpad-cursor-in-windows-11/"><u>Fixing the Phantom Problem of a Non-Existent Touchpad Cursor in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-twitch-error-4000/"><u>How to Fix Twitch Error 4000</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-digital-rights-management-limits-a-guide-to-unlocking-secured-media/"><u>Overcoming Digital Rights Management Limits: A Guide to Unlocking Secured Media</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204743892-quick-troubleshooting-guide-how-to-eliminate-error-code-0x887a0006/"><u>Quick Troubleshooting Guide: How to Eliminate Error Code 0X887A0006</u></a></li>
+<li><a href="https://common-error.techidaily.com/surface-click-not-liked-fixed-it/"><u>Surface Click Not Liked - Fixed It</u></a></li>
 </ul></div>
 

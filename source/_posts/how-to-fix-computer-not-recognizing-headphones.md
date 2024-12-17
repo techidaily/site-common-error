@@ -1,7 +1,7 @@
 ---
 title: How To Fix Computer Not Recognizing Headphones
-date: 2024-08-15T11:11:49.991Z
-updated: 2024-08-16T11:11:49.991Z
+date: 2024-12-10T23:15:19.397Z
+updated: 2024-12-16T19:43:59.463Z
 tags:
   - win11
   - win10
@@ -28,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
 But don’t worry. We’ll help you fix your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions that have helped people resolve the error. You don’t have to try them all, just work your way down the list until everything’s working again.
@@ -38,9 +39,6 @@ But don’t worry. We’ll help you fix your problem.
 2. [Change the display settings](#F2)
 3. [Update your monitor driver and graphics card driver](#F3)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot the monitor connection
 
  You may see the ‘**Input Not Supported** ‘ error if there’s something wrong with the monitor connection. So you should check the monitor cable to make sure it works properly. Or you can switch to a new monitor cable.
@@ -59,32 +57,36 @@ Here’s what you can do:
 
 1. On your desktop, right click on any**empty area** and select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94623c6595.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Scroll down and find the**Scale and layout** section, then choose the**recommended resolution** for your display. If you’re on Windows 11, it’ll be**Display resolution** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946559c00e.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946559c00e.jpg)
 3. If you see a popup to confirm the change, click Keep changes to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94693c702d.jpg)
 4. Then click**Advanced display settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946c1e8119.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946c1e8119.jpg)
 5. Under the monitor name that is having the Input Not Supported error, click**Display adapter properties for Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9472de63ac.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. In the popup pane, click the**Monitor** tab. In the**Screen refresh rate** , choose the**recommended** or**default** **rate** in the drop down menu.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94769aa3f3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94769aa3f3.jpg)
 7. Save the changes and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you’re using Windows 8 and Windows 7:
 
@@ -99,6 +101,10 @@ If you’re using Windows 8 and Windows 7:
 4. Click the**Monitor** tab, then choose the**recommended or default refresh rate setting** in the**Screen refresh rate** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd945d0dd649.jpg)
 5. Save the changes and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should fix the error and boot your computer as normal.
 
@@ -121,9 +127,6 @@ You should fix the error and boot your computer as normal.
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9478ba7d6a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 3. Click the**Update** button next to the flagged monitor and graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd947aa82f4c.jpg)
@@ -140,8 +143,6 @@ You should fix the error and boot your computer as normal.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +150,23 @@ You should fix the error and boot your computer as normal.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fix-win-l1-1-dll-is-misplaced-in-files/"><u>[Fix]: Win L1-1 DLL Is Misplaced in Files</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-advice-the-most-effective-ways-to-capture-your-virtual-sessions/"><u>[Updated] Expert Advice The Most Effective Ways to Capture Your Virtual Sessions</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-camera-malfunctioning-on-windows-heres-how-to-fix-it/"><u>Dell Camera Malfunctioning on Windows? Here's How to Fix It!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-12-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 12 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-save-your-favorite-asiancrush-films-in-multiple-formats-mp4-avi-mov-on-pcs-and-macs/"><u>How to Save Your Favorite AsianCrush Films in Multiple Formats (MP4, AVI, MOV) on PCs and MACs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-not-working-diagnose-and-solve-common-streaming-problems-today/"><u>Netflix Not Working: Diagnose & Solve Common Streaming Problems Today</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267252832-no-worries-about-backups-heres-how-to-reset-and-retrieve-your-iphone-data/"><u>No Worries About Backups? Here’s How to Reset and Retrieve Your iPhone Data</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-the-vexing-error-0x80004005-detailed-solutions-and-explanations/"><u>Overcome the Vexing Error 0X80004005: Detailed Solutions and Explanations</u></a></li>
+<li><a href="https://common-error.techidaily.com/ready-for-battle-fortnite-launches-flawlessly/"><u>Ready for Battle: Fortnite Launches Flawlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-enabling-your-devices-wi-fi-functionality/"><u>Resolving Issues: Enabling Your Device's Wi-Fi Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/surprise-your-squad-steams-game-tastic-presents/"><u>Surprise Your Squad: Steam's Game-Tastic Presents</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-portable-media-players-uncovered-for-2024/"><u>Top Portable Media Players Uncovered for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/top-tier-tips-for-superior-home-theater-dvd-production-on-mac/"><u>Top-Tier Tips for Superior Home Theater DVD Production on Mac</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-guide-resolving-issues-when-your-scanner-fails-to-detect-a-pc-expert-tips-from-yl-tech/"><u>Troubleshooting Guide: Resolving Issues When Your Scanner Fails to Detect a PC - Expert Tips From YL Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsticking-your-shift-key-a-comprehensive-repair-tutorial/"><u>Unsticking Your Shift Key: A Comprehensive Repair Tutorial</u></a></li>
+</ul></div>
 

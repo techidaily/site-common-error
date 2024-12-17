@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the 'USB Device Not Accepted' Challenge: Expert Advice and Fixes"
-date: 2024-08-22T19:22:59.766Z
-updated: 2024-08-23T19:22:59.766Z
+date: 2024-12-14T22:01:10.378Z
+updated: 2024-12-16T20:37:33.084Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
  Found your XP-Pen pen or tablet not working properly? You’re not alone. Many users are reporting the same XP Pen not working issue, but the good new is that this problem is not hard to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before getting started
 
  Before trying the more complicated solutions below, you need to do some basic troubleshooting first:
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 2. **[Update your tablet driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Disable Windows Ink Workspace](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 1 – Turn off Sleep Mode
 
  If you have trouble using the XP-Pen pen after waking the computer from the Sleep Mode, try to disable this mode. Here’s how:
@@ -45,20 +45,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then, type**control** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-5.jpg)
 2. Select**Small icons** from the drop-down menu next to View by, and click**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-7.jpg)
 3. Click**Change plan settings** next to your preferred plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-8.jpg)
 4. Set the time to put the computer to sleep as**Never** and click**Save changes** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-5.jpg)
 
  After turning off the Sleep Mode, reboot your PC and test if your XP Pen works properly. If not, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your tablet driver
 
@@ -91,6 +93,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  The right and up-to-date tablet driver should make your XP Pen devices work perfectly as always. But if this method doesn’t help, keep reading the third fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Disable Windows Ink Workspace
 
  Windows Ink Workspace is a new feature designed to improve the users’ experience with their digital pens on Windows 10\. While in some cases, it doesn’t bring the expected result and can cause brush lags or other similar issues with your pens. Simply remove it via the following steps and see how things go.
@@ -103,18 +109,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  If you don’t see this folder, right-click the**Microsoft key** and select**New** \>**Key** to create**WindowsInkWorkspace** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-3-2.jpg)
 3. On the right pane, double-click the**AllowWindowsInkWorkspace** and set the value data to**0** . Then, click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-7.jpg)  
  As above, if you don’t see this setting, right-click any empty space on the right pane and select**New** \>**DWORD (32-bit) Value** . Then name the new key as**AllowWindowsInkWorkspace** and set its value data to**0** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4-1.jpg)
 4. Restart your PC to apply the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you complete the process, your XP Pen should return to the normal state now.
@@ -133,8 +134,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +141,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-treasure-trove-of-premium-youtube-images-from-6-websites/"><u>[New] In 2024, A Treasure Trove of Premium YouTube Images From 6 Websites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-android-listeners-choice/"><u>2024 Approved Leading Android Listeners' Choice</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photomixer-pro-compiling-media-on-macos/"><u>2024 Approved PhotoMixer Pro Compiling Media on macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-rated-asmr-gear-high-quality-priced-right/"><u>2024 Approved Top-Rated ASMR Gear High Quality, Priced Right</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-restricted-input-settings-for-touchscreens-and-pen-devices/"><u>Bypassing the Restricted Input Settings for Touchscreens and Pen Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-dvd-playback-problems-on-windows-machines/"><u>Diagnosing and Repairing DVD Playback Problems on Windows Machines</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/easy-movie-conversion-tools-for-macwindows-users-to-save-movies-in-various-formats-like-mp4-mov-avi/"><u>Easy Movie Conversion Tools for Mac/Windows Users to Save Movies in Various Formats Like MP4, MOV, AVI</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-strategies-for-fixing-your-lenovo-fn-key-without-delay/"><u>Efficient Strategies for Fixing Your Lenovo Fn Key Without Delay</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-800020-during-windows-11-installation-understanding-and-solutions-for-a-smooth-update/"><u>Error 80#0020 During Windows 11 Installation: Understanding and Solutions for a Smooth Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-fixing-unresponsive-integrated-cameras-in-windows-environments/"><u>Expert Advice: Fixing Unresponsive Integrated Cameras in Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-the-dysfunctional-start-menu-in-windows-11-fixed/"><u>Expert Tips for Repairing the Dysfunctional Start Menu in Windows 11 [FIXED]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-the-k1c-creality-shares-exciting-launch-date-price-tag-and-full-technical-specifications/"><u>Get Ready for the K1C: Creality Shares Exciting Launch Date, Price Tag & Full Technical Specifications!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-printer-driver-not-found-on-your-windows-computer-solution/"><u>How to Fix 'Printer Driver Not Found' On Your Windows Computer - SOLUTION</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-tecno-phantom-v-flip-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Tecno Phantom V Flip Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-maximizing-channel-potential-across-diverse-digital-venues/"><u>In 2024, Maximizing Channel Potential Across Diverse Digital Venues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mouse-malaise-cured-logitech-back-online/"><u>Mouse Malaise Cured: Logitech Back Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-energy-flow-in-data-hub-connectors/"><u>Troubleshooting Excessive Energy Flow in Data Hub Connectors</u></a></li>
+</ul></div>
 

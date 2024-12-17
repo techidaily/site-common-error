@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Recovering Missing or Hidden Windows on Your PC"
-date: 2024-08-15T11:14:04.657Z
-updated: 2024-08-16T11:14:04.657Z
+date: 2024-12-10T18:52:58.181Z
+updated: 2024-12-17T01:56:17.664Z
 tags:
   - win11
   - win10
@@ -33,11 +33,19 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -59,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -67,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -78,8 +87,9 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 ` ``
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `` Click **Yes**  when prompted by User Account Control.
@@ -97,9 +107,6 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
 ``
 
@@ -109,22 +116,24 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -143,8 +152,9 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -182,9 +192,6 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -204,8 +211,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +218,22 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-including-a-cover-letter-in-profile/"><u>[New] 2024 Approved Including a Cover Letter in Profile</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illuminate-photos-10-premium-luts-revealed/"><u>[New] Illuminate Photos 10 Premium LUTs Revealed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-iphone-vr-game-list-for-your-next-adventure/"><u>2024 Approved Ultimate iPhone VR Game List for Your Next Adventure</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/asus-vivobook-s-15-a-comprehensive-compromise-of-design/"><u>ASUS Vivobook S 15 - A Comprehensive Compromise of Design</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-for-your-logitech-mouses-unresponsive-scroll-wheel/"><u>How To Restore Functionality for Your Logitech Mouse's Unresponsive Scroll Wheel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-c55-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme C55 to Another | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-driver-issue-fixed-post-failure/"><u>Nvidia Driver Issue Fixed Post-Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-boot-problems-in-windows-10-expert-solutions-and-tricks/"><u>Overcoming Boot Problems in Windows 10: Expert Solutions and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplifying-your-experience-with-file-explorer-in-windows-10-essential-how-tos-and-support/"><u>Simplifying Your Experience with File Explorer in Windows 10: Essential How-Tos and Support</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-solving-minecrafts-opengl-mishaps/"><u>Step-by-Step Guide: Solving Minecraft's OpenGL Mishaps</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-correct-the-resource-not-found-problem-in-overwatch-gaming/"><u>Steps to Correct the 'Resource Not Found' Problem in Overwatch Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-for-sims-4-wont-open-expert-advice-and-tricks/"><u>The Ultimate Solution for 'Sims 4 Won't Open': Expert Advice and Tricks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-6s-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 6s in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+</ul></div>
 

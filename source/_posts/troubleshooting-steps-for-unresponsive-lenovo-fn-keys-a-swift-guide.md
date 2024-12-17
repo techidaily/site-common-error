@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps for Unresponsive Lenovo FN Keys: A Swift Guide"
-date: 2024-08-15T11:12:40.051Z
-updated: 2024-08-16T11:12:40.051Z
+date: 2024-12-09T22:59:13.891Z
+updated: 2024-12-16T18:15:56.796Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update the driver
 
  Your Lenovo keyboard not working problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, try to update the keyboard driver for your Lenovo laptop.
@@ -54,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -63,18 +68,23 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
  4) Restart your laptop, and check to see if your keyboard works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Press the problem keys diagonally
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -85,24 +95,14 @@ If you have no idea how to do a system restore, refer steps below:
  1) On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**control** and hit Enter to open the Control Panel.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
  3) Click**System protection** in left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
 4) Click **System Restore** .
 
@@ -115,15 +115,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f7c3c1c1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
  7) Click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) Click**Yes** to confirm the restore.
@@ -143,8 +141,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +148,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-googles-augmented-reality-stickers-in-spotlight-a-comparative-analysis/"><u>[New] In 2024, Google’s Augmented Reality Stickers in Spotlight - A Comparative Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-splendor-on-youtube-the-hue-harmonization-way/"><u>[Updated] In 2024, Digital Splendor on YouTube The Hue Harmonization Way</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-captivating-storytelling-with-these-6-snapchat-video-editors/"><u>2024 Approved Captivating Storytelling with These 6 Snapchat Video Editors</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-of-non-playable-dvds-in-windows-environments/"><u>Fixing the Issue of Non-Playable DVDs in Windows Environments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-say-laughs-say-free-mememakers-tutorial/"><u>In 2024, Say Laughs, Say Free - MemeMaker's Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-magic-vs-2-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor Magic Vs 2 Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-letter-failure-on-win-11-heres-your-guide-to-restoring-functionality/"><u>Keyboard Letter Failure on Win 11? Here's Your Guide to Restoring Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-opengl-issue-3-fix-for-windows-nvidia-gpus/"><u>Overcoming OpenGL Issue 3: Fix for Windows NVidia GPUs</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-your-devices-wi-fi-disconnection-problems-a-step-by-step-guide/"><u>Resolving Your Device's Wi-Fi Disconnection Problems - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-overcoming-errors-in-the-user-profile-login-process/"><u>Step-by-Step Solution: Overcoming Errors in the User Profile Login Process</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-for-xps-xffffffff-printer-failure/"><u>Swift Solutions for XP's XFFFFFFFF Printer Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-issues-with-the-steam-store-not-loading/"><u>Troubleshooting Guide: Resolving Issues with the Steam Store Not Loading</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-auto-save-keeping-your-data-intact-after-every-shutdown-and-startup/"><u>Windows 10 Auto-Save: Keeping Your Data Intact After Every Shutdown and Startup</u></a></li>
+</ul></div>
 

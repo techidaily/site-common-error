@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Managing and Fixing High Graphics Card Use by the Desktop Window Manager on Windows 10/11
-date: 2024-11-27T01:51:28.401Z
-updated: 2024-12-04T04:37:46.553Z
+date: 2024-12-10T21:50:03.214Z
+updated: 2024-12-16T19:46:41.542Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Table of contents
 
 * [Method 1: Check keyboard connection](https://tools.techidaily.com/drivereasy/download/)
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Check keyboard connection
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 * Also, make sure that the keyboard receiver is well-connected as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Check for possible viruses
@@ -65,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Install the correct keyboard driver
@@ -82,16 +86,12 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Clean the keyboard
@@ -121,17 +121,21 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unlocking-the-secrets-of-iphone-recording/"><u>[New] 2024 Approved Unlocking the Secrets of iPhone Recording</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-speedy-rescue-vanished-visuals/"><u>[New] Speedy Rescue Vanished Visuals</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-apocalypse-playground-8-best-zombie-game-experiences-for-2024/"><u>[Updated] The Apocalypse Playground 8 Best Zombie Game Experiences for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/amazon-prime-day-special-assemble-and-enjoy-an-optimized-plex-media-server-at-unbeatable-prices/"><u>Amazon Prime Day Special: Assemble & Enjoy an Optimized Plex Media Server at Unbeatable Prices</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-tips-to-overcome-your-livekernelevent-117-dilemma/"><u>Comprehensive Tips to Overcome Your LiveKernelEvent 117 Dilemma</u></a></li>
-<li><a href="https://common-error.techidaily.com/correctly-resolving-the-program-cant-start-error-code-is-0xc000007b-a-comprehensive-fixer/"><u>Correctly Resolving 'The Program Can’t Start, Error Code Is 0xC000007B' - A Comprehensive Fixer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016425647-cutting-through-the-noise-clear-crisp-audio-solutions-for-problematic-playbacks-on-windows-117-platforms/"><u>Cutting Through the Noise: Clear, Crisp Audio Solutions for Problematic Playbacks on Windows 11/7 Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-broken-spacebar-on-your-windows-11-laptop-or-pc/"><u>How to Fix a Broken Spacebar on Your Windows 11 Laptop or PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oppo-a78-5g-easily-by-drfone-android/"><u>How To Unlock a Oppo A78 5G Easily?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211773409-no-luck-with-your-pdf-printer-let-us-guide-you-to-quick-fixes/"><u>No Luck with Your PDF Printer? Let Us Guide You to Quick Fixes.</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-win11-crashes-guide-to-solve/"><u>No More Win11 Crashes: Guide to Solve</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-6-eco-friendly-affordable-4k-home-theaters/"><u>Top 6 Eco-Friendly, Affordable 4K Home Theaters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-composing-channel-overview-teaser-clips/"><u>[New] In 2024, Composing Channel Overview Teaser Clips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/behold-brilliance-in-motion-the-ultimate-review-of-asus-rog-swift-pg49wcds-49-inch-oled-gaming-display/"><u>Behold Brilliance in Motion: The Ultimate Review of Asus ROG Swift PG49WCD's 49-Inch OLED Gaming Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-windows-10-stalls-top-tips-for-quick-recovery/"><u>Dealing with Windows 10 Stalls - Top Tips for Quick Recovery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-phasmophobia-vr-gaming-errors-and-glitches/"><u>Effective Fixes for Phasmophobia VR Gaming Errors and Glitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-remedies-for-rapidly-restoring-power-when-your-device-says-no-charge/"><u>Effortless Remedies for Rapidly Restoring Power When Your Device Says 'No Charge'</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-successfully-addressing-windows-loadlibrary-failure-with-error-1114/"><u>Expert Tips for Successfully Addressing Windows 'LoadLibrary' Failure with Error 1114</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-m6-pro-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco M6 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oneplus-ace-2v-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock OnePlus Ace 2V Pattern Lock Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-xiaomi-redmi-note-13-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Xiaomi Redmi Note 13 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-y02t-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Y02T Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-note-13-proplus-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi Note 13 Pro+ 5G Device SIM</u></a></li>
+<li><a href="https://games-able.techidaily.com/inaudible-console-setup-for-xbox-fans/"><u>Inaudible Console Setup for Xbox Fans</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-guide-resolving-directx-9-device-failure-on-your-pc/"><u>Quick Fix Guide: Resolving DirectX 9 Device Failure on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-vanishing-cursor-issue-in-windows-11-a-step-by-step-guide/"><u>Solving the Vanishing Cursor Issue in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-insufficient-resource-alerts-in-systems/"><u>Troubleshooting and Correcting Insufficient Resource Alerts in Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/unavailable-real-time-monitor-display-doesnt-recognize-present-input-delays/"><u>Unavailable: Real-Time Monitor Display Doesn't Recognize Present Input Delays</u></a></li>
 </ul></div>
 

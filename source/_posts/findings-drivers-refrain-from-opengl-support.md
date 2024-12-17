@@ -1,7 +1,7 @@
 ---
 title: "Findings: Drivers Refrain From OpenGL Support"
-date: 2024-08-22T19:19:49.370Z
-updated: 2024-08-23T19:19:49.370Z
+date: 2024-12-11T16:43:50.988Z
+updated: 2024-12-16T17:27:24.378Z
 tags:
   - win11
   - win10
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507e3c65465.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **c)**  Sometimes the error appears due to**corrupted Registry** . You can **[restore your Registry](https://tools.techidaily.com/drivereasy/download/)**  or check all your Registry entries and remove any redundant one.
 
 **However** , you should note that modifying registry is an**advanced and complicated job** . Any improper manipulation can bring unexpected consequences to your Registry and therefore to your computer. If you are a computer novice, you can find a computer expert to help you solve the problem. If you insist on doing it yourself. It is strongly recommended that you**back up** your Registry before you proceed.
@@ -63,17 +67,33 @@ thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad370059cc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this case, you should**completely cut off the power** of your computer, and then**remove** the RAM(s) from your computer or**replace** them with other RAMs.
 
  (RAM is a hardware component inserted**inside** your computer. You need to**disassemble** your computer to remove or replace it. You can ask a specialist to do it for you, or consult your product manufacturer for assistance.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2) The application unable to start
 
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To resolve this error, you can try the methods below.
 
@@ -139,6 +159,10 @@ To repair BCD:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a019b37dab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** In Command Prompt, type the following lines and press**Enter** on your keyboard after each (press the**Y** key followed by**Enter** after you enter the final line):
 
 del d:\windows\system32\xntkrnl.exe
@@ -156,17 +180,15 @@ bootrec /rebuildbcd
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
 
  It can also be that your**RAM** or**hard drive** is defective. In this case, you can test with other RAM or hard drive, or you can contact the hardware manufacturers for any further suggestion.
@@ -179,8 +201,6 @@ bootrec /rebuildbcd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +208,23 @@ bootrec /rebuildbcd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-heres-what-you-dont-know-about-instagram-story-viewer2-for-2024/"><u>[New] Here's What You Don't Know About Instagram Story Viewer2 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-spectacular-8-cameras-for-professional-live-viewers/"><u>[Updated] 2024 Approved Spectacular 8 Cameras for Professional Live Viewers</u></a></li>
+<li><a href="https://common-error.techidaily.com/cyclic-redundancy-check-explained-how-to-overcome-and-prevent-common-errors/"><u>Cyclic Redundancy Check Explained: How to Overcome and Prevent Common Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024200d-on-windows-a-complete-guide-to-understanding-and-solving-update-failures/"><u>Error 0X8024200D on Windows - A Complete Guide to Understanding and Solving Update Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-limited-usb-interface-availability/"><u>Fixing Limited USB Interface Availability</u></a></li>
+<li><a href="https://common-error.techidaily.com/geforce-experience-restored-successful-retrieval-of-preferences-and-customization-options/"><u>GeForce Experience Restored - Successful Retrieval of Preferences and Customization Options</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-m14-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy M14 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-steadicams-matched-with-dslr-cameras/"><u>In 2024, Optimal Steadicams Matched with DSLR Cameras</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-unlock-content-creation-uploading-videos/"><u>In 2024, Unlock Content Creation Uploading Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/random-reboots-windows-10-issue/"><u>Random Reboots: Windows 10 Issue</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-motorola-razr-40-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-frozen-file-explorer-issue-on-windows-10-with-these-simple-steps/"><u>Resolve Your Frozen File Explorer Issue on Windows 10 with These Simple Steps</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-connecting-your-tv-with-telegram/"><u>Step-by-Step Guide: Connecting Your TV with Telegram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-instagram-photography-guide-for-crafting-perfect-covers-for-2024/"><u>The Ultimate Instagram Photography Guide for Crafting Perfect Covers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-minecraft-instability-from-incompatible-video-card-drivers-in-windows/"><u>Troubleshooting and Solving Minecraft Instability From Incompatible Video Card Drivers in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-your-hp-laptop-webcam-on-windows-10/"><u>Troubleshooting Tips: Resolving Issues with Your HP Laptop Webcam on Windows 10</u></a></li>
+</ul></div>
 

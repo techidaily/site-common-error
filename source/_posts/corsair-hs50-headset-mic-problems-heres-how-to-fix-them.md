@@ -1,7 +1,7 @@
 ---
 title: Corsair HS50 Headset Mic Problems? Here's How to Fix Them
-date: 2024-08-15T11:11:21.034Z
-updated: 2024-08-16T11:11:21.034Z
+date: 2024-12-15T23:25:49.371Z
+updated: 2024-12-16T16:34:08.172Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 
 Before you start:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Check your device first
 
 **Check your device’s connection** : The mic on the Corsair HS50 is removable, so check your mic connection. And if your PC/laptop doesn’t utilize 2-in-1 mic/stereo jacks, you will need to use the Y-cable to plug them in separately in their appropriate jacks.  
@@ -34,9 +38,6 @@ Before you start:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes for Corsair HS50 mic not working
 
  You may not have to try them all; just work your way down until you find the one that works for you.
@@ -52,16 +53,23 @@ Before you start:
 1. Press the**Windows logo key** +**I** together. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-7.jpg)
 2. Click**Microphone** in the left panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1-2.jpg)
 3. Click**Change** , then make sure the **Microphone access for this device** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.2-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Make sure **Allow apps to access your microphone** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Try your Corsair HS50 mic and see if the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Change the audio settings on your PC**
 
@@ -75,18 +83,12 @@ Before you start:
 4. Click the**Levels** tab, then drag the slider towards the largest value.  
  You can drag the slider to unmute and adjust your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/a4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Click**OK** to save your settings.
 
  Now that the microphone of your headset is set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your audio driver
 
  If your microphone is not working when used on your PC, this glitch could be caused by an old, wrong or missing audio driver. You should update the audio driver to make sure the communication is fine between your PC and mic.  
@@ -99,10 +101,12 @@ Before you start:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/a5.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).  
- Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/a6-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/a6-1.jpg)
 4. After updating the driver, restart your computer, then try your Corsair HS50 mic and see if your problem is solved or not.
 
 ---
@@ -121,8 +125,6 @@ Before you start:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +132,19 @@ Before you start:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-your-marketing-potential-with-our-50plus-free-youtube-banners/"><u>[Updated] Unlock Your Marketing Potential with Our 50+ Free YouTube Banners</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/44cq5lplusu5b6p5a6m5oiq44cr5ywx5lqr6loh5paz5asplus5ywn77ym5oko55qe6lplus05zyi5bey5zcm5q2l5yiw5oir5ycr55qe56il5byp57we/"><u>【修復完成】共享資料夾內，您的迴圈已同步到我們的程式組</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-note-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Note 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcoming-video-playback-sounds-problem-for-youtube-users-on-windows-10-system/"><u>Guide to Overcoming Video Playback Sounds Problem for YouTube Users on Windows 10 System</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-y56-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo Y56 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-sound-glitches-with-your-pcs-speakers-in-windows-operating-systems/"><u>How to Resolve Sound Glitches with Your PC's Speakers in Windows Operating Systems</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-fade-audio-in-kinemaster/"><u>New In 2024, How To Fade Audio In Kinemaster</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-random-stops-on-win11/"><u>System Random Stops on Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-lost-desktop-icons-in-windows-10-expert-tips-and-solutions/"><u>The Ultimate Fix for Lost Desktop Icons in Windows 10: Expert Tips and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fixes-for-dealing-with-the-crimson-display-glitch/"><u>The Ultimate Fixes for Dealing with the Crimson Display Glitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-crc-errors-to-ensure-flawless-data-transmission/"><u>Troubleshooting CRC Errors to Ensure Flawless Data Transmission</u></a></li>
+</ul></div>
 

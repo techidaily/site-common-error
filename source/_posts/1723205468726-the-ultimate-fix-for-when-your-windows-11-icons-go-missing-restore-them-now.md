@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for When Your Windows 11 Icons Go Missing - Restore Them Now
-date: 2024-12-04T18:35:11.758Z
-updated: 2024-12-10T22:51:48.701Z
+date: 2024-12-14T00:50:05.741Z
+updated: 2024-12-16T16:39:17.133Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If your desktop icons somehow disappear on your Windows 10 computer, don’t wor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these tips
 
 You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,6 +38,10 @@ You don’t have to try them all; just work your way down the list until you fin
 4. [**Perform a system restore**](#t5)
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 1: Enable Show desktop icons
 
@@ -54,7 +62,7 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 3. Select the icons you want to show on desktop, then click **OK**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
@@ -70,10 +78,6 @@ You can also try these steps to rebuild the icon cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -82,10 +86,6 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -97,26 +97,26 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -125,10 +125,6 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
@@ -153,6 +149,10 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 Hopefully, this can help you out.
@@ -176,22 +176,24 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-rebooted-social-scene-taking-control-of-fb-again/"><u>[New] 2024 Approved Rebooted Social Scene Taking Control of Fb Again</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-understanding-budgets-youtube-marketing-investments/"><u>[New] 2024 Approved Understanding Budgets YouTube Marketing Investments</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-integrating-voices-into-videos-effectively/"><u>[New] In 2024, Integrating Voices Into Videos Effectively</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero5-pro-vs-gopro-hero4-platinum/"><u>[Updated] GoPro Hero5 Pro Vs GoPro Hero4 Platinum</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/1726027647012-5/"><u>最高の5つの無料オーディオ変換ウェブサービス - オンラインボイス変更</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-14-proipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 14 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x8024200d-windows-update-failure-solved/"><u>Error 0X8024200d – Windows Update Failure [SOLVED]</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/how-to-fix-dreamlight-valley-glitches-and-stabilize-your-game-on-pc/"><u>How to Fix Dreamlight Valley Glitches and Stabilize Your Game on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-typing-the-wrong-keys-on-your-keyboard/"><u>How to Fix Typing the Wrong Keys on Your Keyboard</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-steam-service-disruptions-a-guide-to-restoring-access/"><u>Overcoming Steam Service Disruptions: A Guide to Restoring Access</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-persistent-0x80240017-issue-with-windows-updates-a-step-by-step-guide/"><u>Resolving the Persistent 0X80240017 Issue with Windows Updates - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sneak-peek-at-the-latest-samsung-galaxy-z-flip-series-release-date-pricing-speculations-and-full-tech-breakdown-exciting-leaks-revealed/"><u>Sneak Peek at the Latest Samsung Galaxy Z Flip Series: Release Date, Pricing Speculations and Full Tech Breakdown – Exciting Leaks Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-problem-of-malfunctioning-navigation-keys-on-your-keyboard/"><u>Solve the Problem of Malfunctioning Navigation Keys on Your Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/strategies-for-preventing-system-conflict-over-shared-resources/"><u>Strategies for Preventing System Conflict Over Shared Resources</u></a></li>
-<li><a href="https://common-error.techidaily.com/taming-the-noise-effective-ways-to-quiet-a-boisterous-ps4/"><u>Taming the Noise: Effective Ways to Quiet a Boisterous PS4</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-error-4220-in-call-of-duty-world-war-ii-gameplay/"><u>Troubleshooting Error 4220 in Call of Duty World War II Gameplay</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-iphones-prime-camera-utilities/"><u>[New] IPhone's Prime Camera Utilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-windows-smartscreen-access-problems-a-swift-guide/"><u>Addressing Windows SmartScreen Access Problems: A Swift Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/audio-troubleshooting-tips-for-windows-users-experiencing-no-output-device-errors/"><u>Audio Troubleshooting Tips for Windows Users Experiencing 'No Output Device' Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-the-key-startup-file-missing-error-on-windows-operating-systems/"><u>Diagnosing and Resolving the Key Startup File Missing Error on Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-brother-mfc-7860dw-printer-drivers-for-windows/"><u>Download and Install the Latest Brother MFC-7860DW Printer Drivers for Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975203917-easy-installation-of-logitech-drivers-for-windows-pcs-get-them-now/"><u>Easy Installation of Logitech Drivers for Windows PCs – Get Them Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-overcome-usb-connectivity-issues-within-the-latest-windows-environments/"><u>Expert Tips to Overcome USB Connectivity Issues Within the Latest Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-chrome-extension-loading-failure-in-windows-11/"><u>Fixing the Chrome Extension Loading Failure in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-stop-the-disappearing-cursor-problem-on-your-windows-10-system/"><u>Guide: Stop the Disappearing Cursor Problem on Your Windows 10 System</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-ai-names-for-podcasts-the-ultimate-guide/"><u>Innovative AI Names for Podcasts – The Ultimate Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printing-woes-config-error-help-needed/"><u>Printing Woes: Config Error, Help Needed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-tecno-camon-20-premier-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Camon 20 Premier 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-zoom-crash-code-1132-in-windows-os/"><u>Resolving Zoom Crash Code: 1132 in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719363489312-solving-your-computers-print-command-conundrum-with-effective-tips/"><u>Solving Your Computer's Print Command Conundrum with Effective Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-restore-brightness-controls-on-windows-11/"><u>Troubleshooting Guide: Restore Brightness Controls on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-unresponsive-dns-4-effective-solutions/"><u>Troubleshooting Your Unresponsive DNS: 4 Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-startup-understanding-auto-boot-in-your-windows-10-pc/"><u>Unexpected Startup: Understanding Auto-Boot in Your Windows 10 PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Poco X6 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

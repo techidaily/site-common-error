@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Lenovo Laptop Keyboard - A Step-by-Step Guide
-date: 2024-11-10T17:03:21.814Z
-updated: 2024-11-15T16:20:48.580Z
+date: 2024-12-14T01:53:41.293Z
+updated: 2024-12-16T23:22:21.865Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 2. [**Temporarily disable your antivirus**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Run your Steam client in compatibility mode
 
  Your Steam client may not be working well because of compatibility issues. And you should change the compatibility mode setting for your Steam client.
@@ -45,23 +49,21 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6c97719d17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Compatibility** tab, check**Run this program in compatibility** **mode** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ca563d08d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Double click**Steam** (or**Steam.exe** ) to run the Steam client. If this method works for you, you won’t see this error again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Temporarily disable your antivirus
@@ -73,10 +75,7 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 3: Update your device drivers
@@ -92,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ea20dde47.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
@@ -124,21 +116,24 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-leading-10-lenses-revolutionizing-photography/"><u>[New] 2024 Approved Leading 10 Lenses Revolutionizing Photography</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-igtv-production-phone-and-dslr-techniques/"><u>[Updated] In 2024, Mastering the Art of IGTV Production Phone and DSLR Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/breakthrough-alert-we-fixed-that-unable-to-show-this-site-problem/"><u>Breakthrough Alert: We Fixed That Unable to Show This Site Problem</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341755981-cutting-edge-resin-3d-printing-with-the-new-elegoo-saturn-4-ultra-expert-review-inside/"><u>Cutting-Edge Resin 3D Printing with the New Elegoo Saturn 4 Ultra - Expert Review Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-15-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 15 Without Passcode Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-motorola-moto-g14-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Moto G14 Lock Screen Password</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-capture-the-big-one-best-fishing-camers-ranked/"><u>In 2024, Capture the Big One Best Fishing Camers Ranked</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212308553-nba-2k21-green-mishap-explained-and-resolved-what-you-need-to-know/"><u>NBA 2K21 Green Mishap Explained and Resolved - What You Need to Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/new-world-update-eliminating-the-easy-anti-cheat-error-for-smooth-gameplay/"><u>New World Update: Eliminating the Easy Anti-Cheat Error for Smooth Gameplay</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-11-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme 11 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/petcubes-wallet-friendly-hd-cam-perfect-for-pet-lovers/"><u>Petcube’s Wallet-Friendly HD Cam - Perfect for Pet Lovers</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-functionality-to-broken-keyboard-keys-on-your-hp-device-expert-tips-and-tricks/"><u>Restore Functionality to Broken Keyboard Keys on Your HP Device: Expert Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-hp-laptop-non-functional-keys-with-these-simple-steps/"><u>Troubleshoot HP Laptop Non-Functional Keys with These Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-surface-device-not-charging-despite-being-connected/"><u>Why Is My Surface Device Not Charging Despite Being Connected?</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-windows-10-and-microsoft-wireless-adapter-disconnect-issues/"><u>Winning the Battle Against Windows 10 & Microsoft Wireless Adapter Disconnect Issues</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-easy-iphonesideways-capturing-the-moment/"><u>[New] In 2024, Easy iPhonesideways Capturing the Moment</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-masterful-makeovers-picarts-backdrop-banishment-guide/"><u>[New] In 2024, Masterful Makeovers PicArt’s Backdrop Banishment Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-comparative-costs-yt-vs-other-platforms/"><u>[Updated] 2024 Approved Comparative Costs YT vs Other Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-to-zoom-into-online-engagements-intelligently/"><u>[Updated] Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-html-designer-applications-for-windows-top-picks-revealed/"><u>Best Free HTML Designer Applications for Windows - Top Picks Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-blues-beat-windows-11s-pairing-problems-with-these-expert-solutions/"><u>Bluetooth Blues? Beat Windows 11'S Pairing Problems with These Expert Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/directory-corruption-solved-effective-strategies-for-file-repair/"><u>Directory Corruption Solved: Effective Strategies for File Repair</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-lenovo-mouse-pad-problems-on-windows-1187-effective-solutions-and-workarounds/"><u>Fix Your Lenovo Mouse Pad Problems on Windows 11/8/7 - Effective Solutions and Workarounds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/gaming-gain-graph-finns-financial-flux/"><u>Gaming Gain Graph Finn's Financial Flux</u></a></li>
+<li><a href="https://tools.techidaily.com/hdsentinel/products/"><u>Hdsentinel's Products</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-docm-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .docm file electronically</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-controls-on-a-non-responsive-windows-10-display/"><u>How to Restore Brightness Controls on a Non-Responsive Windows 10 Display</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp3-vs-wav-format-battle-determining-the-superior-audio-choice/"><u>MP3 vs WAV Format Battle: Determining the Superior Audio Choice</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-unresponsive-file-explorer-effective-fixes-for-windows-10-users-solved/"><u>Overcoming Unresponsive File Explorer: Effective Fixes for Windows 10 Users [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-device-unprepared-message-a-step-by-step-guide/"><u>Resolving the 'Device Unprepared' Message: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-scrolling-woes-tips-and-techniques-for-a-smooth-touchpad-experience/"><u>Resolving Windows 11 Scrolling Woes: Tips and Techniques for a Smooth Touchpad Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-your-windows-11-copy-and-paste-malfunction-easily/"><u>Resolving Your Windows 11 'Copy & Paste' Malfunction Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-z-fold-7-exploring-the-costs-launch-timeline-and-features/"><u>Samsung Galaxy Z Fold 7: Exploring the Costs, Launch Timeline & Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-beginning-of-windows-11-where-and-how-to-find-the-start-button/"><u>Unlocking the Beginning of Windows 11: Where and How to Find the Start Button</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Correcting Corrupt OS Files in Windows 10 and 11"
-date: 2024-08-22T19:18:44.491Z
-updated: 2024-08-23T19:18:44.491Z
+date: 2024-12-13T02:02:00.627Z
+updated: 2024-12-16T23:29:27.492Z
 tags:
   - win11
   - win10
@@ -19,6 +19,11 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
   
 A lot Windows 10 users reported that system restore did not complete successfully. And the problem pop-uped as**Error 0x80070091**shown as image above. It’s a good thing that Microsoft has noticed this error and  will update this thread soon. However, if you are Windows 10 Advanced user, you can fix it right now via the methods below. If you’ve faced it, just go with the easy fixes below.  
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix One. Rename the WindowsApps folder in Safe Mode**
 
 1)  
@@ -48,6 +53,11 @@ When prompted by User Account Control, click   **Yes.**
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-2.jpg)**
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3)  
 
 Type the following commands and hit **Enter** to run them one by one:  
@@ -80,17 +90,32 @@ Then click **Update & security**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 b)  
 Click **Recovery**.  
 Then scroll down on the right side and click **Restart now** under **Advanced startup** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-2.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 c)  
 Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/11.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2)  
 
 Type the following commands and hit **Enter**  to run them one by one:  
@@ -112,8 +137,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,8 +144,24 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-vrs-role-in-shaping-future-films-for-2024/"><u>[New] VR's Role in Shaping Future Films for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-novice-necessities-your-first-steps-in-gopro-world/"><u>[Updated] Novice Necessities - Your First Steps in GoPro World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-visuals-what-sets-360-apart-for-2024/"><u>Comprehensive Visuals What Sets 360° Apart for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-windows-update-error-0x8024402c-a-comprehensive-troubleshooting-guide-resolved/"><u>Defeat Windows Update Error 0X8024402c: A Comprehensive Troubleshooting Guide [Resolved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-wacom-pen-display-connectivity-problems/"><u>Diagnosing and Repairing Wacom Pen Display Connectivity Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-11-sound-issues-troubleshooting-non-responsive-volume-buttons/"><u>Fix Windows 11 Sound Issues: Troubleshooting Non-Responsive Volume Buttons</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guidelines-to-cure-printer-blank-screens/"><u>Guidelines to Cure Printer Blank Screens</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-itel-by-drfone-android/"><u>How to Show Wi-Fi Password on Itel</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-security-fault-in-1011-edition/"><u>Resolving Windows Security Fault in 10/11 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-monthly-charge-for-access-to-game-library/"><u>Sony's Monthly Charge for Access to Game Library</u></a></li>
+<li><a href="https://common-error.techidaily.com/streamline-your-tasks-essential-tips-for-using-file-explorer-in-windows-1ntegrated-applications-sync-with-google-photos-or-icloud-you-can-access-your-photos72/"><u>Streamline Your Tasks: Essential Tips for Using File Explorer in Windows 1Ntegrated Applications | Sync with Google Photos or iCloud, You Can Access Your Photos From Anywhere and on Any Device.</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-the-challenge-of-error-0x80240017-in-windows-updates-your-comprehensive-guide/"><u>Tackling the Challenge of Error 0X80240017 in Windows Updates – Your Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-oddworld-soulstorm-pc-game-crash-issues/"><u>Troubleshooting Guide for Oddworld: Soulstorm PC Game Crash Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/untangling-error-code-31-in-windows-easy-repair-techniques/"><u>Untangling Error Code 31 in Windows: Easy Repair Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/watermark-free-video-editing-top-10-online-tools-you-need-to-know-for-2024/"><u>Watermark-Free Video Editing Top 10 Online Tools You Need to Know for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209254604-windows-update-issue-solved-no-more-problems/"><u>Windows Update Issue Solved – No More Problems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

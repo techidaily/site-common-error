@@ -1,7 +1,7 @@
 ---
 title: USB Composite Device Can't Work Properly with USB 3.0 [SOLVED]
-date: 2024-08-22T19:21:53.028Z
-updated: 2024-08-23T19:21:53.028Z
+date: 2024-12-09T18:28:37.990Z
+updated: 2024-12-16T18:49:02.426Z
 tags:
   - win11
   - win10
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/b119e381603d6bed9ecec925cda81333c3ae9fa13
 2. **[Update your tablet driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Disable Windows Ink Workspace](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1 – Turn off Sleep Mode
 
  If you have trouble using the XP-Pen pen after waking the computer from the Sleep Mode, try to disable this mode. Here’s how:
@@ -46,17 +43,15 @@ thumbnail: https://thmb.techidaily.com/b119e381603d6bed9ecec925cda81333c3ae9fa13
 2. Select**Small icons** from the drop-down menu next to View by, and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-7.jpg)
 3. Click**Change plan settings** next to your preferred plan.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-8.jpg)
 4. Set the time to put the computer to sleep as**Never** and click**Save changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  After turning off the Sleep Mode, reboot your PC and test if your XP Pen works properly. If not, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your tablet driver
 
@@ -81,20 +76,22 @@ thumbnail: https://thmb.techidaily.com/b119e381603d6bed9ecec925cda81333c3ae9fa13
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click the**Update** button next to the flagged_Pentablet HID driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/udpate-tablet-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The right and up-to-date tablet driver should make your XP Pen devices work perfectly as always. But if this method doesn’t help, keep reading the third fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Disable Windows Ink Workspace
 
  Windows Ink Workspace is a new feature designed to improve the users’ experience with their digital pens on Windows 10\. While in some cases, it doesn’t bring the expected result and can cause brush lags or other similar issues with your pens. Simply remove it via the following steps and see how things go.
@@ -102,6 +99,11 @@ thumbnail: https://thmb.techidaily.com/b119e381603d6bed9ecec925cda81333c3ae9fa13
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then type**regedit** in the field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-1-3.jpg)
 2. Navigate to the following path on the left pane:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\WindowsInkWorkspace** .  
 
  If you don’t see this folder, right-click the**Microsoft key** and select**New** \>**Key** to create**WindowsInkWorkspace** .  
@@ -109,9 +111,11 @@ thumbnail: https://thmb.techidaily.com/b119e381603d6bed9ecec925cda81333c3ae9fa13
 3. On the right pane, double-click the**AllowWindowsInkWorkspace** and set the value data to**0** . Then, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-7.jpg)  
  As above, if you don’t see this setting, right-click any empty space on the right pane and select**New** \>**DWORD (32-bit) Value** . Then name the new key as**AllowWindowsInkWorkspace** and set its value data to**0** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4-1.jpg)
 4. Restart your PC to apply the changes.
 
@@ -131,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/b119e381603d6bed9ecec925cda81333c3ae9fa13
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +142,18 @@ thumbnail: https://thmb.techidaily.com/b119e381603d6bed9ecec925cda81333c3ae9fa13
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-leveraging-youtube-for-affiliate-earnings/"><u>[Updated] 2024 Approved Leveraging YouTube for Affiliate Earnings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-exclusive-no-fee-fb-visual-content-craftsman/"><u>2024 Approved Exclusive No-Fee FB Visual Content Craftsman</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-huion-graphics-tablet-issues-in-minutes-top-5-methods/"><u>Fix Huion Graphics Tablet Issues in Minutes - Top 5 Methods!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-user-profile-service-failed-error-on-your-windows-pc/"><u>Fixing the 'User Profile Service Failed' Error on Your Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-reviving-the-malfunctioned-audio-service-in-windows-7/"><u>Guide to Reviving the Malfunctioned Audio Service in Windows 7</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/hear-now-or-never-the-solution-for-twitter-vids-for-2024/"><u>Hear Now or Never The Solution for Twitter Vids for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-convenient-and-quality-passport-images-top-free-tools-listed-here/"><u>In 2024, Convenient & Quality Passport Images - Top Free Tools Listed Here</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-streamlined-audiovisual-sequencing-in-audacity/"><u>In 2024, Streamlined Audiovisual Sequencing in Audacity</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-guide-enable-support-for-your-graphics-card-in-fortnite-on-windows/"><u>Update Guide: Enable Support for Your Graphics Card in Fortnite on Windows</u></a></li>
+</ul></div>
 

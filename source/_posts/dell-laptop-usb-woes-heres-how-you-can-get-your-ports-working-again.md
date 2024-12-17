@@ -1,7 +1,7 @@
 ---
 title: Dell Laptop USB Woes? Here's How You Can Get Your Ports Working Again!
-date: 2024-08-15T11:13:29.185Z
-updated: 2024-08-16T11:13:29.185Z
+date: 2024-12-13T23:02:02.188Z
+updated: 2024-12-16T23:42:48.163Z
 tags:
   - win11
   - win10
@@ -35,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f34
 If all your USB ports aren’t working, try Step 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
  If your Dell laptop has any problem with the power supply, the USB ports on your laptop may stop working. To check for power supply issues, you can follow these steps:
@@ -44,14 +45,19 @@ If all your USB ports aren’t working, try Step 2, below.
 1. **Disconnect** the AC adapter or power cord from your laptop.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -59,24 +65,24 @@ If all your USB ports aren’t working, try Step 2, below.
 1. On your keyboard, press the**Windows logo** **key and R at the same time to invoke the Run box.**
 2. **Type devmgmt.msc and press Enter.**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Click the**Power Management** tab.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 8. Check if your USB port works properly now. If not, try Step 4, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
 
@@ -97,9 +103,6 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
 
 ---
@@ -114,8 +117,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +124,17 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-cutting-edge-tools-for-watchable-gaming/"><u>[New] 2024 Approved Cutting-Edge Tools for Watchable Gaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-master-levels-enhancing-steam-gameplay-videos-for-2024/"><u>[New] Master Levels Enhancing Steam Gameplay Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tep-by-step-guide-to-creating-engaging-high-quality-asmr-scenes-for-2024/"><u>[New] Step-by-Step Guide to Creating Engaging, High-Quality ASMR Scenes for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-quick-route-to-celebrity-status-on-insta-top-15-strategies-for-rapid-follower-growth/"><u>[Updated] 2024 Approved The Quick Route to Celebrity Status on Insta Top 15 Strategies For Rapid Follower Growth</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-microsoft-store-on-your-pc/"><u>How to Fix a Non-Responsive Microsoft Store on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-continuous-reboots-in-windows-11-and-10-systems-efficiently/"><u>How to Resolve Continuous Reboots in Windows 11 and 10 Systems Efficiently</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-intersection-of-real-and-virtual-defining-mixed-reality-for-2024/"><u>The Intersection of Real and Virtual Defining Mixed Reality for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unknown-usb-devices-a-guide-to-overcoming-device-not-recognized-errors-in-windows-11/"><u>Troubleshooting Unknown USB Devices: A Guide to Overcoming 'Device Not Recognized' Errors in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-the-power-of-windows-11-maintenance-with-system-file-checker-and-dism-solutions/"><u>Unlock the Power of Windows 11 Maintenance with System File Checker and DISM Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-the-potential-of-on-the-go-charging-with-halo-bolts-dual-purpose-power-unit-reviewed/"><u>Unlocking the Potential of On-the-Go Charging with Halo Bolt's Dual-Purpose Power Unit Reviewed</u></a></li>
+</ul></div>
 

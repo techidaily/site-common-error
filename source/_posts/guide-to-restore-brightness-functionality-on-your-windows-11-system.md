@@ -1,7 +1,7 @@
 ---
 title: Guide to Restore Brightness Functionality on Your Windows 11 System
-date: 2024-08-22T19:18:45.689Z
-updated: 2024-08-23T19:18:45.689Z
+date: 2024-12-13T20:30:55.125Z
+updated: 2024-12-16T21:28:00.033Z
 tags:
   - win11
   - win10
@@ -51,6 +51,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 ---
@@ -61,11 +65,19 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
  2) Select**System Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
 
@@ -82,6 +94,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  5) Again, click to highlight your mic. This time, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
@@ -103,34 +119,30 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now check to see your mic is back on track.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Modify privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
@@ -139,9 +151,6 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
@@ -149,8 +158,9 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
@@ -169,8 +179,6 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +186,21 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-crucial-6-platforms-enhancing-commercial-relations/"><u>[New] Crucial 6 Platforms Enhancing Commercial Relations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tutorial-navigating-mobizen-recording-features/"><u>[New] Essential Tutorial Navigating Mobizen Recording Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-master-iphone-cinematography-top-8-tips-for-professional-video-shooting/"><u>[Updated] In 2024, Master iPhone Cinematography Top 8 Tips for Professional Video Shooting</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-achieving-virality-on-youtube-essential-steps-demystified/"><u>2024 Approved Achieving Virality on YouTube Essential Steps Demystified</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-eco-visuals-cost-free-download/"><u>2024 Approved Eco Visuals, Cost-Free Download</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-firefoxs-picture-in-picture-capabilities/"><u>2024 Approved Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/descubra-o-prime-altamente-eficiente-y-gratuita-para-transferencia-de-dados-samsung-aqui-esta/"><u>Descubra O Prime Altamente Eficiente Y Gratuita Para Transferência De Dados Samsung - Aqui Está!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-hosted-network-connectivity-in-windows-11-a-comprehensive-guide/"><u>Mastering Hosted Network Connectivity in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/origin-gaming-help-easy-fixes-for-common-game-setup-issues/"><u>Origin Gaming Help: Easy Fixes for Common Game Setup Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-function-keys-fn-problems-on-a-dell-computer/"><u>Troubleshooting Steps: Resolving Function Keys (FN) Problems on a Dell Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-your-windows-11-touchscreen-discover-these-5-fixes-to-get-it-working-again/"><u>Unstuck Your Windows 11 Touchscreen: Discover These 5 Fixes to Get It Working Again</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mastering-filmora-scrn-a-beginners-guide-to-desktop-recording-for-2024/"><u>Updated Mastering Filmora Scrn A Beginners Guide to Desktop Recording for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-boot-problems-correct-the-user-profile-service-sign-in-error-smartly/"><u>Windows 11 Boot Problems? Correct the User Profile Service Sign-In Error Smartly</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Randomly Nonfunctional Wireless Mice in Modern Windows Environments
-date: 2024-08-22T19:22:20.628Z
-updated: 2024-08-23T19:22:20.628Z
+date: 2024-12-14T20:56:56.009Z
+updated: 2024-12-16T16:25:28.432Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -60,6 +64,10 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Press the Shift key on your keyboard to see if it works.
 
 #### on Windows 11
@@ -77,8 +85,9 @@ Follow these:
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Update your keyboard driver
 
  This problem may be caused by an old, corrupted, or missing keyboard driver. If so, you can solve it by updating the keyboard driver.
@@ -96,8 +105,9 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -105,8 +115,9 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -117,8 +128,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +135,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-practical-techniques-for-rapid-deletion-of-comments/"><u>[Updated] 2024 Approved Practical Techniques for Rapid Deletion of Comments</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-guide-to-enhancing-videos-with-online-filters/"><u>[Updated] In 2024, The Ultimate Guide to Enhancing Videos with Online Filters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-screen-recorder-unmatched-pcmacos-quality/"><u>[Updated] In 2024, Ultimate Screen Recorder - Unmatched PC/macOS Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-proven-strategies-to-decrease-graphics-card-usage-from-desktop-window-manager-on-your-pc-win-10-and-11/"><u>5 Proven Strategies to Decrease Graphics Card Usage From Desktop Window Manager on Your PC (Win 10 & 11)</u></a></li>
+<li><a href="https://common-error.techidaily.com/diuril-and-then-lipitor-only/"><u>Diuril and Then Lipitor Only</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-keyboard-sticky-keys-problem/"><u>Fix Windows Keyboard Sticky Keys Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-failure-configuring-windows-updates-error/"><u>How to Fix “Failure Configuring Windows Updates” Error</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-removing-advertisements-from-youtube-videos-on-chromefirefox/"><u>In 2024, Removing Advertisements From YouTube Videos on Chrome/Firefox</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/protonmails-vision-crafting-your-messages-effortlessly/"><u>ProtonMail's Vision: Crafting Your Messages Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-geforce-experience-cannot-access-configuration-details/"><u>Resolved: GeForce Experience Cannot Access Configuration Details</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/whats-behind-win32keygen-understanding-its-effect-on-pc-safety/"><u>What's Behind Win32/Keygen? Understanding Its Effect on PC Safety</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1728503708761-windows-pc/"><u>Windows PC中影片捄助：四法方便成功保存</u></a></li>
+</ul></div>
 

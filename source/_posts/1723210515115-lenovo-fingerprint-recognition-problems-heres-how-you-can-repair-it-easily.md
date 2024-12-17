@@ -1,7 +1,7 @@
 ---
 title: Lenovo Fingerprint Recognition Problems? Here's How You Can Repair It Easily
-date: 2024-08-15T11:13:10.175Z
-updated: 2024-08-16T11:13:10.175Z
+date: 2024-12-12T23:26:43.354Z
+updated: 2024-12-16T22:52:34.179Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/031a4402ffc175410606d46c107303b712eafaa4d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be5065a0d187.jpg)
 
  If you find the**fingerprint reader on your Lenovo laptop doesn’t work** any more, don’t panic. It’s often quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Fixes for Lenovo Fingerprint Reader Not Working
 
@@ -40,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/031a4402ffc175410606d46c107303b712eafaa4d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your fingerprint reader driver
 
 This problem may occur if you are using the wrong  fingerprint reader  driver or it’s out of date. So you should update your fingerprint reader driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -54,16 +55,14 @@ This problem may occur if you are using the wrong  fingerprint reader  driver or
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/Synaptics-WBDI-Fingerprint-Reader.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -72,9 +71,6 @@ This problem may occur if you are using the wrong  fingerprint reader  driver or
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Fix 3: Uninstall Lenovo Finerprint Manager and use the default fingerprint driver
 
  If Fix 2 doesn’t work for you, then you’d probably have to uninstall the lenovo fingerprint software and the fingerprint driver (so that Windows will install the default generic one for you) to see if it works.
@@ -83,30 +79,32 @@ Here’s how:
 
 1. On your keyboard, press **the Windows logo key** , then type**add or remove programs** and click on**Add or remove programs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/addorremoveprograms.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Locate and click on**Lenovo Fingerprint Manager** (or,**Lenovo Finerprint Manager Pro** ) and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/12.jpg)
 3. Click**Uninstall** to confirm, then follow the on-screen instructions to finish the uninstall process.![](https://images.drivereasy.com/wp-content/uploads/2018/11/12-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. On your keyboard, press**the Windows logo key** and type **devmgmt.msc** , then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4fe23bb7de.png)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Double-click on**Biometric devices** and then right-click on**your Lenovo fingerprint device** and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4ff6e683a2.png)
 6. Click **Uninstall**   to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your computer, then test to see if the fingerprint reader not working problem has been solved.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Re-enroll your fingerprints
 
 1. On your keyboard, press**the Windows logo key** and type**sign-in** , then click on**Sign-in options** .  
@@ -143,8 +141,9 @@ Here’s how to use Fortect to repair system files on your PC:
 Check your computer to see if the issue is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Run SFC scan
 
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files. To **run the SFC scan** :
@@ -158,6 +157,10 @@ Check your computer to see if the issue is fixed.
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -179,8 +182,6 @@ Check your computer to see if the issue is fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +189,22 @@ Check your computer to see if the issue is fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonize-your-preferences-how-to-create-an-engaging-youtube-playlist/"><u>[New] 2024 Approved Harmonize Your Preferences How to Create an Engaging YouTube Playlist</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-through-time-with-historical-fb-features-device-guide/"><u>[New] Navigating Through Time with Historical FB Features Device Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tiny-feature-plot-outline/"><u>[New] Tiny Feature Plot Outline</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-screen-recording-for-hp-users-top-4-methods-compared/"><u>[Updated] Effortless Screen Recording for HP Users - Top 4 Methods Compared</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-enhance-your-contents-visibility-peak-days-for-2024/"><u>[Updated] Enhance Your Content's Visibility - Peak Days for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-what-to-do-when-your-computer-freezes-up-unexpectedly/"><u>Easy Fixes: What to Do When Your Computer Freezes Up Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/escaping-the-reboot-trap-in-windows-11-or-10-effective-fixes-to-try-today/"><u>Escaping the Reboot Trap in Windows 11 or 10 - Effective Fixes to Try Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-minecraft-graphics-a-closer-look-at-opengl-errors/"><u>Fixing Your Minecraft Graphics: A Closer Look at OpenGL Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-optimize-your-windows-11-system-tackling-high-gpu-use-from-the-desktop-window-manager/"><u>How to Optimize Your Windows 11 System: Tackling High GPU Use From the Desktop Window Manager</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-harnessing-altitude-live-streaming-with-dji-drones/"><u>In 2024, Harnessing Altitude Live-Streaming with DJI Drones</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-player-cannot-load-game-files-on-windows-with-simple-tricks/"><u>Solve 'Player Cannot Load Game Files' On Windows with Simple Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-playback-problems-why-wont-my-dvd-work-on-windows-heres-help/"><u>Solving Playback Problems: Why Won't My DVD Work on Windows? Here’s Help!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-insiders-srt-primer-must-know-elements/"><u>The Insider's SRT Primer Must-Know Elements</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-smart-planners-guide-to-virtual-meeting-success-for-2024/"><u>The Smart Planner's Guide to Virtual Meeting Success for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-power-station-reviews-comprehensive-analysis-by-industry-experts-techradar/"><u>Top Rated Portable Power Station Reviews : Comprehensive Analysis by Industry Experts | TechRadar</u></a></li>
+</ul></div>
 

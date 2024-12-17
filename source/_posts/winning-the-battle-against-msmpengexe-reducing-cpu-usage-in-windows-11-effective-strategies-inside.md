@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Against MsMpEng.exe: Reducing CPU Usage in Windows 11 – Effective Strategies Inside!"
-date: 2024-12-06T16:26:40.961Z
-updated: 2024-12-10T20:31:20.335Z
+date: 2024-12-14T17:34:52.997Z
+updated: 2024-12-16T23:17:43.202Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 Fixes for MsMpEng.exe Eating Up Too Much CPU
 
  You may not have to try all these fixes; just work your way down the list until the problem is resolved.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 3. **[Use the Local Group Policy Editor to turn off Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Prevent Windows Defender from scanning its own folder**
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  2) Click **Virus & threat protection settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484832a46a2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to the bottom and click**Add or remove exclusions** .
 
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
@@ -96,21 +96,21 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48462bea585.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click the**Triggers** tab >**New…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
@@ -127,20 +127,20 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Locate and double-click on**Windows Defender Antivirus** (aka. **Windows Defender** , same as below). Then double-click on **Turn off Windows Defender Antivirus** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Restart your computer and see if your computer runs normally now.
 
@@ -167,16 +167,19 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-astonishingly-fast-finders-of-forlorn-reddit-content/"><u>[New] Astonishingly Fast Finders of Forlorn Reddit Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-interface-interlink-bridging-ig-and-tiktok-worlds/"><u>[Updated] In 2024, The Interface Interlink Bridging IG & TikTok Worlds</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-singe-sounds-to-complement-ppt-slides/"><u>[Updated] Singe Sounds to Complement PPT Slides</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparing-founders-design-with-asus-branded-graphics-card/"><u>Comparing Founder's Design with Asus-Branded Graphics Card</u></a></li>
-<li><a href="https://common-error.techidaily.com/critical-update-for-ftdi-systems-avoid-compatibility-errors-and-preserve-memory-integrity/"><u>Critical Update for FTDI Systems: Avoid Compatibility Errors and Preserve Memory Integrity.</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-snappy-vids-guide-essential-info/"><u>In 2024, Snappy Vids Guide Essential Info</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210211134-9781528767767-psychical-and-supernormal-phenomena-their-observation-and-experimentation/"><u>Psychical and Supernormal Phenomena - Their Observation and Experimentation | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-your-ps4-dualshock-controller-charging-issues/"><u>Resolved: Fixing Your PS4 Dualshock Controller Charging Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-the-persistent-audio-glitch-in-youtube-videos-on-windows-10/"><u>Troubleshoot & Resolve the Persistent Audio Glitch in YouTube Videos on Windows 10</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/what-is-most-common-among-israeli-speakers/"><u>What Is Most Common Among Israeli Speakers?</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-update-10-not-working-fixed/"><u>Windows Update 10 Not Working [FIXED]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-10-key-steps-for-basic-photo-color-correction/"><u>[New] 10 Key Steps for Basic Photo Color Correction</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-essential-guide-to-exploring-youtube-comments/"><u>[New] 2024 Approved The Essential Guide to Exploring YouTube Comments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-t5s-complete-action-video-insight-for-2024/"><u>[New] The T5's Complete Action Video Insight for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-warframe-crashing-on-pc/"><u>[Solved] Warframe Crashing on PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-choices-top-10-best-video-editing-software-free-2023/"><u>[Updated] In 2024, Essential Choices Top 10 Best Video Editing Software (Free, 2023)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-with-noctuas-ultimate-cooler-designed-specifically-for-nvidia-gh200-superchip/"><u>Beat the Heat with Noctua's Ultimate Cooler Designed Specifically for Nvidia GH200 Superchip</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-spacebar-issue-solutions-for-unresponsive-keyboard-keys-in-windows-10/"><u>Fixing the Spacebar Issue: Solutions for Unresponsive Keyboard Keys in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-repair-frequent-system-crashes-on-your-personal-computer/"><u>How to Diagnose and Repair Frequent System Crashes on Your Personal Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-microsoft-wi-fi-display-connection-problems-under-windows-10/"><u>How to Resolve Microsoft Wi-Fi Display Connection Problems Under Windows 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newly-released-wacom-graphic-pen-display-software-driver-step-by-step-downloads-and-updates/"><u>Newly Released Wacom Graphic Pen Display Software Driver – Step-by-Step Downloads & Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-update-issues-solving-the-error-0x8024401c-in-windows-11/"><u>Overcoming Update Issues: Solving the Error 0X8024401c in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/wi-fi-not-working-learn-how-to-restore-your-lost-internet-connection-here/"><u>Wi-Fi Not Working? Learn How To Restore Your Lost Internet Connection Here</u></a></li>
+<li><a href="https://discover-great.techidaily.com/yahoo-correo-mejora-totalmente-tu-cuenta-de-correo-con-la-pantalla-principal/"><u>Yahoo! Correo: Mejora Totalmente Tu Cuenta De Correo Con La Pantalla Principal</u></a></li>
 </ul></div>
 

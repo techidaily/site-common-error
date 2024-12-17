@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the Dxgkrnl Fatal Crash During Video Streaming on Windows
-date: 2024-08-15T11:12:04.326Z
-updated: 2024-08-16T11:12:04.326Z
+date: 2024-12-09T20:09:10.208Z
+updated: 2024-12-17T00:24:25.697Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
  One of the situations where you will see error code 0xc0000005 is when you get an**Access violation error** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59506a549650c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Access violation error occurs when the program you try to run is attempting to reach a location that is not assigned for it. This can result from various reasons. You can try the methods below to troubleshoot this error.
 
@@ -70,15 +74,17 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
  (RAM is a hardware component inserted**inside** your computer. You need to**disassemble** your computer to remove or replace it. You can ask a specialist to do it for you, or consult your product manufacturer for assistance.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2) The application unable to start
 
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To resolve this error, you can try the methods below.
@@ -95,11 +101,16 @@ To resolve this error, you can try the methods below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In fact, Driver Easy Pro has also other advanced features like**driver removal or restore** . Plus upgrading to Pro version can get you its**experienced technical support** and**30-day money back guarantee** .
@@ -119,9 +130,6 @@ To resolve this error, you can try the methods below.
  On Windows 7, just click**System Restore** in the search result:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
  On Windows 10/11, click**Create a restore** **point** ,
 
@@ -134,6 +142,10 @@ To resolve this error, you can try the methods below.
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **e)** You may also get this error because your**BCD (Boot Configuration Data)** file is corrupted. You can try repairing it and see if you can fix this error.
 
@@ -150,9 +162,6 @@ To repair BCD:
  If you are using Windows 8 or 10, click   **Next > Repair your computer > Troubleshoot > Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a019b37dab.png)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **iii.** In Command Prompt, type the following lines and press**Enter** on your keyboard after each (press the**Y** key followed by**Enter** after you enter the final line):
 
@@ -170,14 +179,15 @@ bootrec /rebuildbcd
 
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
 
@@ -191,8 +201,6 @@ bootrec /rebuildbcd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +208,24 @@ bootrec /rebuildbcd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-exploring-hand-tracking-an-in-depth-look-for-2024/"><u>[Updated] Exploring Hand Tracking An In-Depth Look for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-streamlining-your-creative-process-in-gopro-studio/"><u>2024 Approved Streamlining Your Creative Process in GoPro Studio</u></a></li>
+<li><a href="https://fox-that.techidaily.com/decode-iphones-charging-dilemmas-solve-charging-on-hold-issues-using-our-proven-8-tips/"><u>Decode iPhone's Charging Dilemmas: Solve 'Charging On Hold' Issues Using Our Proven 8 Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/detailed-exploration-adobe-cloud-essentials-plus-other-paths/"><u>Detailed Exploration Adobe Cloud Essentials + Other Paths</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-overcome-the-windows-update-error-0x80070002-a-step-by-step-guide/"><u>Effortlessly Overcome the Windows Update Error 0X80070002: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/epson-scanner-woes-on-windows-os/"><u>Epson Scanner Woes on Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-solve-boot-time-freezes-on-your-windows-10-device-successfully/"><u>Expert Tips to Solve Boot-Time Freezes on Your Windows 10 Device Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-non-responsive-audio-issue-in-windows-7/"><u>Fixing the Non-Responsive Audio Issue in Windows 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-stable-windows-volume-mixer-operation/"><u>Guidelines for Stable Windows Volume Mixer Operation</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-download-the-right-hp-printer-driver-for-windows-11-users/"><u>How to Find and Download the Right HP Printer Driver for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-errcachemiss-problem-a-step-by-step-guide-for-chrome-users/"><u>Resolving the 'ERR_CACHE_MISS' Problem: A Step-by-Step Guide for Chrome Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-resolve-video-file-playback-failed-with-error-224003/"><u>Solution: Resolve 'Video File Playback Failed' With Error 224003</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-a-repost-mistake-on-tiktok/"><u>Step-by-Step Guide: Correcting a Repost Mistake on TikTok</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-red-screen-glitch-on-windows-11/"><u>Troubleshooting and Fixing the Red Screen Glitch on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-how-to-restore-your-computers-audio-input/"><u>Troubleshooting Windows 11: How to Restore Your Computer's Audio Input</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-11-black-display-problem/"><u>Ultimate Guide: Resolving the Windows 11 Black Display Problem</u></a></li>
+</ul></div>
 

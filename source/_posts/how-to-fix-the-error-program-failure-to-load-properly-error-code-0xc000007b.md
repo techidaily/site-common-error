@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Error: Program Failure to Load Properly (Error Code 0xC000007B)"
-date: 2024-12-09T17:07:45.903Z
-updated: 2024-12-10T21:27:29.281Z
+date: 2024-12-14T21:05:30.866Z
+updated: 2024-12-16T18:50:29.393Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ But don’t worry, it’s not hard to fix at all…
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 fixes for **0x80072EE7**
 
  All the fixes below work in**Windows 10** . You may not have to try all of them; just work from top down the list until your Windows Store runs smoothly again.
@@ -45,25 +49,21 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b515a7b35011.jpg)
 3. Scroll down to the bottom and double-click on**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51623b61cf7.jpg)
 4. Select**Manual** in**Startup type** , click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51629aa2ad6.jpg)
 5. Launch your Windows Store again and see if the problem has been solved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the DISM tool
 
@@ -73,7 +73,7 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Type **the following command** and press **Enter** :  
@@ -106,12 +106,16 @@ But don’t worry, it’s not hard to fix at all…
 4. Restart your computer and hope everything goes off without a hitch on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the problem still lingers on after trying Driver Easy, feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** for more expedient and efficient guidance. ?
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change the DNS server address
 
@@ -121,7 +125,7 @@ But don’t worry, it’s not hard to fix at all…
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af921398c56a.png)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. **Click Change adapter settings .**  
@@ -134,10 +138,6 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2228b800796.jpg)
 5. Click option **Use the following DNS server addreses** ,
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  for **Preferred DNS server** , enter **8.8.8.8** ;
 
  for **Alternate DNS server** , enter **8.8.4.4.**
@@ -145,13 +145,13 @@ But don’t worry, it’s not hard to fix at all…
  Then click **OK** .  
  ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2229e75f892.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Restart your computer and re-launch your Windows Store to see if it works fine now.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 5: Register Windows Store package**
 
@@ -186,22 +186,20 @@ But don’t worry, it’s not hard to fix at all…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-4-top-choices-for-seamless-pcmac-video-capture/"><u>[New] In 2024, 4 Top Choices for Seamless PC/Mac Video Capture</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-discover-efficient-techniques-for-live-discord-recording/"><u>[New] In 2024, Discover Efficient Techniques for Live Discord Recording</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-the-art-of-larger-video-posts-in-instagram/"><u>[New] In 2024, Mastering the Art of Larger Video Posts in Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-windows-error-0xc0000098-with-our-detailed-fix-guide/"><u>Beat Window's Error 0xC0000098 with Our Detailed Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/dell-usb-failure-discover-effective-solutions-and-get-it-working-again/"><u>Dell USB Failure? Discover Effective Solutions and Get It Working Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-e80240020-explained-solving-the-windows-10-installation-failure/"><u>Error Code E80240020 Explained: Solving the Windows 10 Installation Failure</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/finest-6-economical-4k-hd-projector-picks/"><u>Finest 6 Economical 4K HD Projector Picks</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-infinix-hot-30-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Hot 30 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-overcome-constant-windows-11-system-reboots-instantly/"><u>Guide to Overcome Constant Windows 11 System Reboots Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-realme-11-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme 11 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-resolve-error-code-0x80072f8f-on-your-pc-windows/"><u>How to Correctly Resolve Error Code 0X80072F8F on Your PC (Windows)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-note-30-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Note 30 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-directx-hardware-configuration-errors-for-seamless-graphic-devices/"><u>Overcoming DirectX Hardware Configuration Errors for Seamless Graphic Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11s-0x80072efd-error-a-step-by-step-guide/"><u>Resolving Windows 11'S 0X80072EFD Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/solving-empty-ink-cartridge-troubles-expert-guide-by-yl-computing/"><u>Solving 'Empty Ink Cartridge' Troubles: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-nvidia-web-helper-errors/"><u>Troubleshooting Guide: Overcoming NVIDIA Web Helper Errors</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/troubleshooting-scanner-connection-problems-insights-from-yl-computing/"><u>Troubleshooting Scanner Connection Problems - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unbeatable-upvotes-reddits-hottest-threads-from-history/"><u>[New] Unbeatable Upvotes Reddit's Hottest Threads From History</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-engage-and-inspire-viewers-animated-subscribers-in-filmora-explained/"><u>[Updated] 2024 Approved Engage and Inspire Viewers - Animated Subscribers in Filmora Explained</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-keyboard-and-mouse-connectivity-issues-in-windows-7-environments/"><u>Fix Keyboard & Mouse Connectivity Issues in Windows 7 Environments</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-and-finesse-in-your-gaming-youtube-channel/"><u>Flair and Finesse in Your Gaming YouTube Channel</u></a></li>
+<li><a href="https://common-error.techidaily.com/fps-foiled-games-crash-in-windows-1011-environment/"><u>FPS Foiled: Games Crash in Windows 10/11 Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-out-of-a-boot-loop-effective-solutions-for-constant-boot-failures/"><u>Getting Out of a Boot Loop: Effective Solutions for Constant Boot Failures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722200009332-harness-the-power-of-chatgpt-on-your-android-device-today/"><u>Harness the Power of ChatGPT on Your Android Device Today!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-honor-magic-5-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Honor Magic 5 Phone that is Locked?</u></a></li>
+<li><a href="https://common-error.techidaily.com/insights-on-msda80dll-file-should-you-keep-or-delete-it-from-your-pc/"><u>Insights on MSDA80.DLL File: Should You Keep or Delete It From Your PC?</u></a></li>
+<li><a href="https://common-error.techidaily.com/tab-troubles-tamed-keys-now-talking/"><u>Tab Troubles Tamed - Keys Now Talking</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-repairing-the-windows-installer-service-not-found-error/"><u>The Ultimate Guide to Repairing the 'Windows Installer Service Not Found' Error</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-play-40c-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor Play 40C Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-hamachi-errors-why-is-my-service-discontinued/"><u>Troubleshooting Hamachi Errors: Why Is My Service Discontinued?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-maldives-visuals-for-your-screen-premium-hd-walls-photos-and-pictures-from-yl-softwares-image-library/"><u>Ultimate Maldives Visuals for Your Screen: Premium HD Walls, Photos & Pictures From YL Software's Image Library</u></a></li>
 </ul></div>
 

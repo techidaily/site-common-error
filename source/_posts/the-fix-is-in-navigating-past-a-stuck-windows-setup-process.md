@@ -1,7 +1,7 @@
 ---
 title: "The Fix Is In: Navigating Past a Stuck Windows Setup Process"
-date: 2024-08-22T19:19:33.359Z
-updated: 2024-08-23T19:19:33.359Z
+date: 2024-12-11T17:57:25.590Z
+updated: 2024-12-16T18:05:54.256Z
 tags:
   - win11
   - win10
@@ -45,32 +45,40 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Close the Windows Media Player window.
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -87,14 +95,18 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -109,8 +121,6 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +128,22 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-scheduling-podcast-drops-with-peak-engagement-times/"><u>[New] 2024 Approved Scheduling Podcast Drops with Peak Engagement Times</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-clearer-captures-smartphone-specific-tripods-guide/"><u>[New] Clearer Captures Smartphone-Specific Tripods' Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-fast-fixes-to-skyrocket-your-podcast-live/"><u>[New] In 2024, Fast Fixes to Skyrocket Your Podcast Live</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastering-ppt-presentation-in-google-meet-mobile-and-laptop/"><u>[Updated] 2024 Approved Mastering PPT Presentation in Google Meet (Mobile & Laptop)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-efficiency-boost-editing-on-magix-video-pro-x/"><u>2024 Approved The Efficiency Boost Editing on Magix Video Pro X</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211383111-cant-get-your-document-to-print-as-pdf-effortless-solutions-await/"><u>Can't Get Your Document to Print as PDF? Effortless Solutions Await!</u></a></li>
+<li><a href="https://common-error.techidaily.com/discords-silent-mic-now-speaking/"><u>Discord's Silent Mic Now Speaking</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-xbox-one-earphones-back-on-track-a-step-by-step-repair-tutorial/"><u>Getting Your Xbox One Earphones Back on Track: A Step-by-Step Repair Tutorial</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-excel-2016-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign Excel 2016 online free - (Tutorial)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-pc-when-windows-11-refuses-to-power-off-a-simple-solution/"><u>How to Fix Your PC when Windows 11 Refuses to Power Off: A Simple Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-uncontrolled-mouse-activity/"><u>Quick Solutions: How to Resolve Uncontrolled Mouse Activity</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-right-click-mouse-problem-effective-methods-and-advice/"><u>Resolving Windows 11 Right-Click Mouse Problem: Effective Methods and Advice</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seo-power-play-strategies-to-amplify-your-podcasts-impact/"><u>SEO Power Play Strategies To Amplify Your Podcast's Impact</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-pick-de-aplicativos-de-edicao-de-video-para-pc-windows-em-2024/"><u>Top Pick De Aplicativos De Edição De Video Para PC Windows Em 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212117921-windows-10-casting-glitches-solved-get-your-devices-connected-again/"><u>Windows 10 Casting Glitches Solved: Get Your Devices Connected Again</u></a></li>
+</ul></div>
 

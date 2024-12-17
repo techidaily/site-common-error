@@ -1,7 +1,7 @@
 ---
 title: How to Fix The RPC Server Is Unavailable Error in Windows
-date: 2024-12-05T22:04:09.738Z
-updated: 2024-12-10T16:17:48.565Z
+date: 2024-12-11T19:22:29.473Z
+updated: 2024-12-17T00:10:11.251Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -55,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -67,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -85,19 +97,11 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -120,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 `` 3) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
@@ -148,15 +144,15 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -165,10 +161,6 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -179,6 +171,10 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -197,6 +193,10 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,18 +225,24 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-best-online-video-saving-tools-reviewed-and-ranked-for-2024/"><u>[New] Best Online Video Saving Tools Reviewed & Ranked for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-dissecting-the-narrative-in-youtube-dialogues-for-2024/"><u>[New] Dissecting the Narrative in YouTube Dialogues for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-free-thumbnail-extract-from-youtube-videos-today/"><u>[New] In 2024, Free Thumbnail Extract From YouTube Videos Today</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-vr-gear-for-drone-operators/"><u>[Updated] Leading VR Gear for Drone Operators</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-premier-12-channel-online-video-broadcast-system/"><u>2024 Approved Premier 12-Channel Online Video Broadcast System</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-troubleshooting-techniques-for-hub-port-voltage-overloads/"><u>Effective Troubleshooting Techniques for Hub Port Voltage Overloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-openal32dll-missing-error/"><u>How to Fix OpenAL32.dll Missing Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-your-computers-unresponsive-shift-key-easily/"><u>How To Repair Your Computer's Unresponsive Shift Key Easily</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-to-collecting-costless-clipart/"><u>In 2024, Secrets to Collecting Costless Clipart</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-network-hurdles-reconnecting-lele-on-pc/"><u>Navigating Network Hurdles: Reconnecting LeLë on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-audio-hurdles-restoring-dolby-entertainment-features-on-windows-11-systems/"><u>Overcoming Audio Hurdles: Restoring Dolby Entertainment Features on Windows 11 Systems</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/problembehebung-iphone-blockaden-beim-apple-id-einrichtung-effiziente-ratschlage-und-hilfe/"><u>Problembehebung: IPhone-Blockaden Beim Apple ID Einrichtung – Effiziente Ratschläge Und Hilfe</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-digital-domains-star-clusters/"><u>The Digital Domain's Star Clusters</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-efficiently-recording-your-xbox-adventures/"><u>[New] 2024 Approved Efficiently Recording Your Xbox Adventures</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-exkludieren-von-onedrive-synkronisation-daten-unberuhrt-lassen/"><u>1. Exkludieren Von OneDrive-Synkronisation: Daten Unberührt Lassen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipate-apples-revolutionary-integration-of-ai-with-new-m4-processors-across-all-mac-models-release-timeline-revealed/"><u>Anticipate Apple's Revolutionary Integration of AI with New M4 Processors Across All Mac Models - Release Timeline Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/battling-high-cpu-drain-by-wudhostexe-tips-to-enhance-system-efficiency-in-windows-11/"><u>Battling High CPU Drain by WUDHost.exe - Tips to Enhance System Efficiency in Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/borrow-premium-image-footage-via-top-rated-4-youtube-channels/"><u>Borrow Premium Image Footage via Top-Rated 4 YouTube Channels</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-how-to-restore-your-touchpads-visible-pointer-in-windows-11/"><u>Fix Guide: How to Restore Your Touchpad's Visible Pointer in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-intel-rst-support-issues-a-guide-for-non-functional-services-on-windows-11/"><u>Fixing Intel RST Support Issues: A Guide for Non-Functional Services on Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/gain-momentum-with-these-strategies-for-trending-youtubers/"><u>Gain Momentum with These Strategies for Trending YouTubers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-a-trustworthy-ally-or-a-questionable-consultant-in-healthcare/"><u>GPT: A Trustworthy Ally or a Questionable Consultant in Healthcare?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-unfreeze-your-windows-11-taskbar-proven-methods-inside/"><u>How to Unfreeze Your Windows 11 Taskbar – Proven Methods Inside</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-record-complete-page-display/"><u>In 2024, Record Complete Page Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-hack-a-step-by-nstep-solution-for-correcting-black-screen-on-google-chrome/"><u>Master the Hack: A Step-by-nStep Solution for Correcting Black Screen on Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-visibility-controls-on-the-windows-11-taskbar-tips-and-tricks-revealed/"><u>Mastering Visibility Controls on the Windows 11 Taskbar: Tips & Tricks Revealed!</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-quagmire-of-irksome-online-promotions/"><u>Navigating the Quagmire of Irksome Online Promotions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-chatgpt-harnessing-potential-through-modern-generative-ai-applications/"><u>Navigating the World of ChatGPT: Harnessing Potential Through Modern Generative AI Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-pc-using-system-file-checker-sfc-and-deployment-image-servicing/"><u>Revive Your PC Using System File Checker (SFC) & Deployment Image Servicing</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstick-the-gears-ultimate-guide-to-fixing-ps4-controller-charging-woes/"><u>Unstick the Gears: Ultimate Guide to Fixing PS4 Controller Charging Woes</u></a></li>
+<li><a href="https://common-error.techidaily.com/wacom-tablet-not-responding-heres-what-you-need-to-know/"><u>Wacom Tablet Not Responding? Here's What You Need to Know!</u></a></li>
 </ul></div>
 

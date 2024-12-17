@@ -1,7 +1,7 @@
 ---
 title: Google Chrome Update Ends Support for Shockwave Flash – Here's How to Resolve It
-date: 2024-08-22T19:21:14.129Z
-updated: 2024-08-23T19:21:14.129Z
+date: 2024-12-12T20:13:22.505Z
+updated: 2024-12-16T16:48:41.432Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
  Many Warframe players report encountering the “Update failed!” error issues when downloading the latest update of the game. If you’re one of them, you’ve come to the right place!
 
  Here’re some fixes proved useful for many users. But before taking any attempts, we recommend you restart your computer first. Sometimes a simple restart can fix many issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,6 +56,10 @@ To do this:
   
 ![run as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under the**Settings** section, click**Run this program as an administrator** . Then click**Apply** .  
   
 ![run Warframe as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-3-1.jpg)
@@ -61,8 +69,9 @@ After applying the changes, try relaunching Warframe.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Temporarily disable antivirus software
 
  Your real-time virus scanner might be interfering with the Warframe launcher and this would lead to the “Update failed” error. To avoid this, you’re supposed to try temporarily disabling your antivirus software.
@@ -77,9 +86,6 @@ After applying the changes, try relaunching Warframe.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Optimize your internet connection
 
  When updating Warframe, you need to make sure that you have a stable internet connection.
@@ -92,9 +98,6 @@ After applying the changes, try relaunching Warframe.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/ethernet-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Under the**Ethernet** section, you can see if it’s connected or not.  
   
  2) If your computer isn’t connected to ethernet, then you need to check if the ethernet is connected to your router/ modem correctly.
@@ -149,23 +152,25 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![repair download packages; Warframe update failed](https://images.drivereasy.com/wp-content/uploads/2020/09/program-and-features.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  3) Under the**Uninstall or change a program** section, find the**Microsoft Visual C++** packages.
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/click-Microsoft-Visual-C.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click on it and click**Change** .
 
 ![repair Microsoft Visual C++](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5) When the**Modify Setup** window pops up, click**Repair** .
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) When you’re asked “Do you want to allow this app to make changes to your device?”, click**Yes** .
 
@@ -173,15 +178,16 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Update Microsoft Visual** **C++**
 
  To update Microsoft Visual C++, you need to go to the[download page](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) and install it manually.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall DirectX
 
  1) Download **[DirectX End-User Runtime Web Installer](https://www.microsoft.com/en-us/download/details.aspx?id=35)**  .
@@ -193,8 +199,9 @@ Both the repairing and updating might work. So just choose one of them.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Change the launcher settings
 
  If those methods haven’t worked for you, then you can change the launcher settings.
@@ -211,6 +218,10 @@ Both the repairing and updating might work. So just choose one of them.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Verify the download cache
 
  1) Open**Settings** from Warframe.
@@ -219,18 +230,14 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![verify Warframe download cache](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-Warframe-download-cache-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  3) In the**Verify Game Data?** window, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-Warframe-download-cache-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Till then, relaunch your game and update it to check if the issue still occurs.
 
 ---
@@ -250,9 +257,6 @@ To use a VPN service, you need to download a VPN application.
 
 ![vpn](https://images.drivereasy.com/wp-content/uploads/2020/09/NordVPN-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After you’ve installed NordVPN, launch it and then open Warframe to update your game.
 
 ---
@@ -268,8 +272,6 @@ To use a VPN service, you need to download a VPN application.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -277,4 +279,24 @@ To use a VPN service, you need to download a VPN application.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-expert-tips-for-seamless-integration-of-pip-in-microsoft-edge/"><u>[New] In 2024, Expert Tips for Seamless Integration of PIP in Microsoft Edge</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-harmonizing-visuals-and-audio-in-unboxing-videos/"><u>[Updated] In 2024, Harmonizing Visuals & Audio in Unboxing Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-radiant-contrast-synchronizer-for-2024/"><u>[Updated] Radiant Contrast Synchronizer for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/breeze-through-fixing-windows-update-error-code-0x80070002-simple-solutions-for-smooth-operations/"><u>Breeze Through Fixing Windows Update Error Code 0X80070002: Simple Solutions for Smooth Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-execution-errors-on-your-windows-media-player-server/"><u>How to Successfully Overcome Execution Errors on Your Windows Media Player Server</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-tecno-phantom-v-flip-easily-by-drfone-android/"><u>In 2024, How To Unlock a Tecno Phantom V Flip Easily?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-how-video-testimonials-shape-perception-and-trust/"><u>In 2024, How Video Testimonials Shape Perception and Trust</u></a></li>
+<li><a href="https://facebook.techidaily.com/invite-with-a-click-broadening-your-facebook-chats/"><u>Invite with a Click: Broadening Your Facebook Chats</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210780135-9781633413092-scott-cunninghamthe-path-taken/"><u>Scott Cunningham—The Path Taken | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-party-chat-features-may-be-blocked-by-your-home-wifi-setup/"><u>Solved: Why Party Chat Features May Be Blocked by Your Home WiFi Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-inert-tailored-settings-on-your-device/"><u>Solving the Problem of Inert Tailored Settings on Your Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-8-best-ai-apps-to-download-on-your-phone-android-and-iphone/"><u>The 8 Best AI Apps to Download on Your Phone (Android and iPhone)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-non-functional-volume-on-windows-10/"><u>Troubleshoot and Resolve Non-Functional Volume on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-sc2s-unavailable-graphics-card-error/"><u>Troubleshooting and Resolving SC2's Unavailable Graphics Card Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-automatic-restarts-in-windows-11-explained/"><u>Troubleshooting: Persistent Automatic Restarts in Windows 11 Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-microsoft-surface-pro-4-touch-screen-responding-solve-the-problem-here/"><u>Why Isn’t My Microsoft Surface Pro 4 Touch Screen Responding? Solve the Problem Here</u></a></li>
+</ul></div>
 

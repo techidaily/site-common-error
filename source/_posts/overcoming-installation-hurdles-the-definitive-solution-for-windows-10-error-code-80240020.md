@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Installation Hurdles: The Definitive Solution for Windows 10 Error Code 80240020"
-date: 2024-12-06T21:52:12.542Z
-updated: 2024-12-10T20:10:07.661Z
+date: 2024-12-10T22:30:02.814Z
+updated: 2024-12-16T23:50:20.384Z
 tags:
   - win11
   - win10
@@ -47,25 +47,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -75,26 +67,26 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -104,6 +96,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
@@ -125,6 +122,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -152,19 +153,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-integrating-snap-photos-in-teams/"><u>[New] 2024 Approved The Ultimate Guide to Integrating Snap Photos in Teams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-bring-laughter-to-life-kapwing-creator/"><u>[New] Bring Laughter to Life – Kapwing Creator</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-dive-into-freeware-for-precise-music-tempo-tracking/"><u>[New] In 2024, Dive Into Freeware for Precise Music Tempo Tracking</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/applecareplus-or-not-weighing-the-cost-benefit-of-extended-coverage/"><u>AppleCare+ or Not? Weighing the Cost-Benefit of Extended Coverage</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-restore-key-usage-on-computers-and-phones/"><u>Comprehensive Guide to Restore @ Key Usage on Computers and Phones</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-performance-with-updated-intel-graphics-control-panel-download-now-on-windows-1011/"><u>Enhance Performance with Updated Intel Graphics Control Panel - Download Now on Windows 10/11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-gt-3-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme GT 3 Is Unlocked</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-ensure-wd-my-passport-ultra-connects-and-shows-up-in-your-windows-environment/"><u>How to Ensure WD My Passport Ultra Connects and Shows Up in Your Windows Environment</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-discovery-perfecting-your-youtube-tags-game-for-2024/"><u>Key to Discovery Perfecting Your YouTube Tags Game for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-in-the-game-arena-secure-a-steal-on-acer-nitro-5-slash-costs-by-250-as-revealed-insiders/"><u>Score Big in the Game Arena: Secure a Steal on Acer Nitro 5, Slash Costs by $250 as Revealed Insiders!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-correctly-address-error-0x887a0006/"><u>Troubleshooting Guide: How to Correctly Address Error 0X887A0006</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-battle-royale-games-resolving-in-game-crashes/"><u>Troubleshooting Tips for Battle Royale Games - Resolving In-Game Crashes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ling-youtubes-behind-the-scenes-editor-space-for-2024/"><u>Unveiling YouTube's Behind-the-Scenes Editor Space for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-isnt-my-windows-10-touchpad-responding-to-scroll-gestures/"><u>Why Isn't My Windows 10 Touchpad Responding to Scroll Gestures?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208435044-fixed-this-device-is-not-present-code-24-windows-10-8-or-7/"><u>[Fixed] This Device Is Not Present (Code 24) – Windows 10, 8 or 7</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-detailed-instructions-to-record-and-save-facetime-calls/"><u>[New] 2024 Approved Detailed Instructions to Record and Save FaceTime Calls</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-obs-studio-and-lut-application-guide-for-professional-cinematographers/"><u>[New] 2024 Approved OBS Studio & LUT Application Guide for Professional Cinematographers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-endorsed-webcams-for-top-notch-zoom-engagement/"><u>[New] Expert-Endorsed Webcams for Top-Notch Zoom Engagement</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-insider-secrets-to-sharpen-your-photoshop-skills/"><u>[Updated] 2024 Approved Insider Secrets to Sharpen Your Photoshop Skills</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-solve-the-persistent-windows-update-error-code-0x8007001f/"><u>Expert Tips to Solve the Persistent Windows Update Error Code 0X8007001f</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s24plus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S24+ to Outlook | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-initiating-into-the-world-of-facebook-video-content-creation/"><u>In 2024, Initiating Into the World of Facebook Video Content Creation</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-when-your-corsair-keyboard-stops-working-correctly/"><u>Solution Steps for When Your Corsair Keyboard Stops Working Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-stabilizes-after-games-end/"><u>System Stabilizes After Games End</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-pitfalls-to-steer-clear-of-with-generative-ai-applications/"><u>Top 7 Pitfalls to Steer Clear of with Generative AI Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-unresponsive-web-browsers/"><u>Troubleshooting Guide: Dealing with Unresponsive Web Browsers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-print-to-pdf-functionality-in-windows-11-by-microsoft/"><u>Troubleshooting Print to PDF Functionality in Windows 11 by Microsoft</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Loop: Effective Remedies for Persistent Restart Issues in Windows 11/10"
-date: 2024-12-05T19:02:57.679Z
-updated: 2024-12-10T20:20:36.324Z
+date: 2024-12-10T21:57:47.883Z
+updated: 2024-12-16T23:51:44.715Z
 tags:
   - win11
   - win10
@@ -38,11 +38,19 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -54,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -64,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -75,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 `` 4) Reboot your Windows 10 and open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
@@ -89,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -127,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
@@ -145,7 +149,7 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -161,10 +165,6 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -185,7 +185,7 @@ thumbnail: https://thmb.techidaily.com/a37756492ab1857a09a054e79025c0f5c34551efc
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
@@ -225,21 +225,21 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-masterful-presentations-in-google-meet-with-new-backdrops/"><u>[New] 2024 Approved Masterful Presentations in Google Meet with New Backdrops</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unveiling-the-secrets-of-creative-commons-licensing/"><u>[New] 2024 Approved Unveiling the Secrets of Creative Commons Licensing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-expert-tips-for-snapchats-magic-invisible-hands-make-the-picture-pop/"><u>[New] In 2024, Expert Tips for Snapchat's Magic Invisible Hands Make the Picture Pop</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-photographers-aid-free-mobile-photography-boost/"><u>[New] Photographer's Aid - Free, Mobile Photography Boost</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-multi-device-video-talks-solutions-for-2024/"><u>[New] Premium Multi-Device Video Talks Solutions for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-original-tape-review-study-guide/"><u>[Updated] Original Tape Review Study Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-tackle-videodxgkrnl-fatal-issues-on-windows-machines/"><u>Comprehensive Solutions to Tackle Video_Dxgkrnl Fatal Issues on Windows Machines</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/copiar-disco-de-gratis-con-aomei-la-herramienta-sin-coste-para-clonar-unidades-guiadas/"><u>Copiar Disco De Gratis Con AOMEI - La Herramienta Sin Coste Para Clonar Unidades Guiadas</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-initialization-errors-for-windows-10-system-settings/"><u>Diagnosing and Repairing Initialization Errors for Windows 10 System Settings</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-wd-my-passport-ultra-missing-from-windows-device-manager/"><u>Fixing the Issue: WD My Passport Ultra Missing From Windows Device Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-enabling-bluetooth-connectivity-in-windows-7-solutions-revealed/"><u>Guide: Enabling Bluetooth Connectivity in Windows 7 - Solutions Revealed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/implementing-look-up-tables-luts-to-elevate-design-work-for-2024/"><u>Implementing Look-Up Tables (LUTs) to Elevate Design Work for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/new-world-overcomes-previous-easy-anti-cheat-issues-now-fully-functional/"><u>New World Overcomes Previous Easy Anti-Cheat Issues: Now Fully Functional</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/simplicity-in-story-construction-for-2024/"><u>Simplicity in Story Construction for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208217755-the-ultimate-fix-guide-for-overcoming-error-1068-in-windows-expert-advice-included/"><u>The Ultimate Fix Guide for Overcoming Error 1068 in Windows – Expert Advice Included!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-a-non-responsive-microsoft-keyboard/"><u>Troubleshooting Guide for a Non-Responsive Microsoft Keyboard</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-your-video-content-for-a-fanbase-boom/"><u>[New] In 2024, Elevating Your Video Content for a Fanbase Boom</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-troubleshoot-facebook-live-pause-strategies-for-smooth-broadcasts/"><u>[New] Troubleshoot Facebook Live Pause Strategies for Smooth Broadcasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-the-windows-update-hurdle-easy-fixes-for-error-code-0x80070643-on-your-pc/"><u>Bypass the Windows Update Hurdle - Easy Fixes for Error Code 0X80070643 on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/crack-the-code-to-a-smooth-windows-11-setup-fixing-error-80240020-easily-solved/"><u>Crack the Code to a Smooth Windows 11 Setup: Fixing Error 80240020 Easily [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-for-resolving-windows-update-malfunctions/"><u>Effective Strategies for Resolving Windows Update Malfunctions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-insights-on-macos-sonoma-version-144-bugs-and-fixes-pre-update-techinsight/"><u>Essential Insights on MacOS Sonoma Version 14.4 Bugs & Fixes Pre-Update | TechInsight</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-avoiding-and-repairing-the-critical-error-1603-during-setup-procedures/"><u>Expert Tips on Avoiding and Repairing the Critical 'Error 1603' During Setup Procedures</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-pro-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-edgeplus-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Edge+ (2023)?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insta-stardom-awaits-unlocking-the-secrets-of-shareable-content/"><u>Insta-Stardom Awaits: Unlocking the Secrets of Shareable Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-video-conferencing-with-zoom-and-win10/"><u>Navigating the World of Video Conferencing with Zoom & Win10</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-samsung-galaxy-a05s-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Samsung Galaxy A05s</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/swift-av-handling-upgrade-your-vlc-experience/"><u>Swift AV Handling: Upgrade Your VLC Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-installing-device-drivers-on-windows-7-solved/"><u>Troubleshooting Guide: Installing Device Drivers on Windows 7 [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-pubg-launch-glitches-in-the-2024-version-step-by-step/"><u>Ultimate Guide: Fixing PUBG Launch Glitches in the 2024 Version - Step by Step</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-troubleshooting-bluetooth-connection-issues-on-windows-11-2024-edition/"><u>Ultimate Guide: Troubleshooting Bluetooth Connection Issues on Windows 11 - 2024 Edition</u></a></li>
 </ul></div>
 

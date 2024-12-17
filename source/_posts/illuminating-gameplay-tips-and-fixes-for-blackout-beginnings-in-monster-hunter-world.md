@@ -1,7 +1,7 @@
 ---
 title: "Illuminating Gameplay: Tips and Fixes for Blackout Beginnings in Monster Hunter: World"
-date: 2024-08-22T19:18:05.295Z
-updated: 2024-08-23T19:18:05.295Z
+date: 2024-12-14T16:39:44.730Z
+updated: 2024-12-16T19:00:15.532Z
 tags:
   - win11
   - win10
@@ -76,11 +76,19 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -100,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
@@ -115,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -123,15 +132,17 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
@@ -139,8 +150,9 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ``
 
  2) Click **System** .
@@ -159,9 +171,6 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -169,6 +178,10 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -180,9 +193,6 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 3) Open the app again to see if it goes fine.
 
 That’s it!
@@ -201,8 +211,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +218,26 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/utstanding-movies-overlooked-by-critics/"><u>[New] Outstanding Movies Overlooked by Critics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-diy-experts-approach-to-saving-web-radios/"><u>[New] The DIY Expert's Approach to Saving Web Radios</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-download-windows-movie-maker-6-step-by-step-guide/"><u>[Updated] In 2024, Download Windows Movie Maker 6 Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastery-guide-installing-snapchat-on-mac-os-for-2024/"><u>[Updated] Mastery Guide Installing Snapchat on Mac OS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mobile-laughs-and-memes/"><u>[Updated] Mobile Laughs & Memes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-9-command-center-of-live-gaming-streams/"><u>2024 Approved 9 Command Center of Live Gaming Streams</u></a></li>
+<li><a href="https://blog-min.techidaily.com/adquirir-macx-mediatrans-gratis-plus-tarifa-reducida-online/"><u>Adquirir MacX MediaTrans Gratis + Tarifa Reducida Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-sfc-and-dism-essential-tools-for-fixing-windows-10-issues/"><u>Exploring SFC & DISM: Essential Tools for Fixing Windows 10 Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208883988-fixes-for-endless-load-time-in-valorant-get-back-into-battle/"><u>Fixes for Endless Load Time in Valorant - Get Back Into Battle!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-put-an-end-to-windows-11s-persistent-reboot-issue-efficiently/"><u>How to Put an End to Windows 11'S Persistent Reboot Issue Efficiently</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Poco Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/maximize-your-systems-efficiency-how-to-fix-unnecessary-cpu-usage-caused-by-shell-infrastructure/"><u>Maximize Your System’s Efficiency: How to Fix Unnecessary CPU Usage Caused By Shell Infrastructure</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-of-errors-related-to-cyclical-redundancy-in-data-transmission/"><u>Step-by-Step Resolution of Errors Related to Cyclical Redundancy in Data Transmission</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-the-persistent-0x80070490-error-encountered-in-windows-update-process/"><u>The Ultimate Fix for the Persistent 0X80070490 Error Encountered in Windows Update Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-restore-your-windows-11-start-menu/"><u>Troubleshooting Guide: How To Restore Your Windows 11 Start Menu</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-usb-ports-on-pc-with-windows-10-or-11/"><u>Troubleshooting Non-Functional USB Ports on PC with Windows 10 or 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-google-chrome-freezes-or-crashes/"><u>Troubleshooting Steps When Google Chrome Freezes or Crashes</u></a></li>
+</ul></div>
 

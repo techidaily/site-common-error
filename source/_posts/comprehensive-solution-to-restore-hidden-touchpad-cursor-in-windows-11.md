@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solution to Restore Hidden Touchpad Cursor in Windows 11
-date: 2024-12-08T22:06:54.467Z
-updated: 2024-12-10T19:32:13.156Z
+date: 2024-12-13T00:37:35.998Z
+updated: 2024-12-16T22:14:32.546Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -41,12 +37,20 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)  
 
@@ -55,19 +59,19 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -81,10 +85,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -94,7 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -119,24 +119,22 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-elevate-your-gopro-footage-live-streaming-on-facebook-and-periscope/"><u>[Updated] In 2024, Elevate Your Gopro Footage Live Streaming on Facebook and Periscope</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-and-repairing-the-persistent-ce-34878-0-code-issue-on-sony-playstation-4/"><u>Bypassing and Repairing the Persistent CE-34878-0 Code Issue on Sony PlayStation 4</u></a></li>
-<li><a href="https://common-error.techidaily.com/clearing-up-error-0xc0000005-a-detailed-walkthrough-for-windows-users/"><u>Clearing Up Error 0xC0000005 – A Detailed Walkthrough for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminate-your-worries-6-powerful-remedies-for-werfaultexe-issues-on-windows/"><u>Eliminate Your Worries: 6 Powerful Remedies for werFault.exe Issues on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gif-windowsseo/"><u>GIF作り始める: Windowsで使えるベストSEOタイトル - 費用無しで学んだ!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/how-to-archive-and-backup-your-chats-on-messenger-securely/"><u>How to Archive & Backup Your Chats on Messenger Securely</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-back-those-missing-windows-on-your-desktop-screen/"><u>How To Get Back Those Missing Windows On Your Desktop Screen</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-update-your-amd-radeon-gpus-with-the-latest-firmware-v2410/"><u>How to Update Your AMD Radeon GPUs with the Latest Firmware V24.10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-c12-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia C12 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-skipping-virtual-learning-videos/"><u>In 2024, Strategies for Skipping Virtual Learning Videos</u></a></li>
-<li><a href="https://facebook.techidaily.com/meta-postpones-e2e-by-default-analysis-and-expectations-for-23/"><u>Meta Postpones E2E By Default: Analysis and Expectations for '23</u></a></li>
-<li><a href="https://common-error.techidaily.com/monster-hunter-world-overcoming-initial-boot-up-black-screens/"><u>Monster Hunter World: Overcoming Initial Boot-Up Black Screens</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-your-exe-program-crash-troubleshooting-and-fixes-successful/"><u>Overcome Your EXE Program Crash: Troubleshooting and Fixes Successful!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/raspberry-pi-introduces-new-official-remote-access-application/"><u>Raspberry Pi Introduces New Official Remote Access Application</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-when-your-laptops-mouse-wont-respond-a-comprehensive-fix/"><u>Solutions for When Your Laptop's Mouse Won’t Respond: A Comprehensive Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-fixing-windows-update-failed-with-code-0x80070643/"><u>Step-by-Step Solutions for Fixing 'Windows Update Failed' With Code 0X80070643</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-windows-11-start-menu-issues-get-back-on-track-today/"><u>Ultimate Fixes for Windows 11 Start Menu Issues – Get Back on Track Today!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-essential-business-youtube-sites-you-must-follow/"><u>[Updated] In 2024, Essential Business YouTube Sites You Must Follow</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-incorporating-live-streaming-your-ultimate-website-guide-for-2024/"><u>[Updated] Incorporating Live Streaming Your Ultimate Website Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-evaluation-of-the-costly-flawed-microsoft-surface-duo/"><u>Comprehensive Evaluation of the Costly, Flawed Microsoft Surface Duo</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-a-malfunctioning-lenovo-keyboard-expert-tips-and-tricks/"><u>Diagnosing and Fixing a Malfunctioning Lenovo Keyboard: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-step-by-step-process-for-rebooting-your-keyboard/"><u>Easy Guide: Step-by-Step Process for Rebooting Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-loop-effective-solutions-for-persistent-windows-10-automatic-repairs/"><u>End the Loop: Effective Solutions for Persistent Windows 10 Automatic Repairs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-pairings-effective-solutions-to-connect-your-devices-on-windows-11-tips/"><u>Mastering Bluetooth Pairings: Effective Solutions to Connect Your Devices on Windows 11 (Tips )</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagrams-most-active-hours-for-2024/"><u>Mastering Instagram's Most Active Hours for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-adobe-systems-adobe-premiere-pro-cs6-for-mac-free-download/"><u>New Adobe Systems Adobe Premiere Pro CS6 for Mac (Free Download)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-common-issues-with-windows-update-failures/"><u>Resolving Common Issues with Windows Update Failures</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-scenes-powerhouses-an-overview-of-facebook-twitter-instagram-and-youtube/"><u>The Digital Scene's Powerhouses: An Overview of Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-repairing-and-resolving-a-0x8007049-grotesque-error-in-your-pcs-update-system-fixed/"><u>The Ultimate Guide to Repairing and Resolving a 0X8007049 Grotesque Error in Your PC's Update System [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-complete-guide-overcoming-obs-game-capture-display-issues/"><u>Troubleshooting Complete Guide: Overcoming OBS Game Capture Display Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-correcting-opengl-error-1281/"><u>Troubleshooting Tips for Correcting OpenGL Error 1281</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-the-warframe-update-failure-message/"><u>Troubleshooting Tips: Fixing the 'Warframe Update Failure' Message</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Failed Update Attempt for Microsoft's Windows 10 Version 1607 - What Went Wrong?
-date: 2024-12-02T21:31:14.538Z
-updated: 2024-12-03T17:12:29.594Z
+date: 2024-12-10T23:01:10.932Z
+updated: 2024-12-16T18:02:16.873Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,17 +38,9 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 4. [**Clear the SoftwareDistribution folder**](#d)
 5. [**Update your device drivers**](#e)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Run Windows Update troubleshooter
 
  Windows has a built-in troubleshooter that can check and fix issues with Windows Update. You should run it when an error occurs on your Windows Update. To do so:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### on Windows 10
 
@@ -62,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Windows-10-Update-and-Security.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Troubleshoot > Additional troubleshooters** .
 
 **3)** Find**Windows Update** and click**Run the troubleshooter** .
@@ -69,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 **4)** Follow the on-screen instructions to complete the troubleshooting process.
 
 **5)** Run your Windows Update again and see if your error is fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### on Windows 11
 
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click on the**Run** button next to**Windows Update** .
@@ -119,38 +115,34 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3214c6b1e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Double click**Cryptographic Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2d8b6d4e7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2f73c5553.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Double click**Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb327c20a47.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb361957d5c.jpg)
 
 **7)** Close the Services snap-in and restart your computer. Then check to see if this resolves your problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Clear the SoftwareDistribution folder
 
@@ -170,13 +162,13 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3da65b40b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Restore the_Services_ snap-in. Then click**Windows Update** and click**Start** (the service).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3f4e427ba.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
 
@@ -196,9 +188,17 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9e7d372aa0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to your each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
 
@@ -219,18 +219,18 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unmatched-quality-the-premier-4k-mirrorless-choices/"><u>[New] In 2024, Unmatched Quality The Premier 4K Mirrorless Choices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-shorts-monetization-how-to-make-money-on-youtube-shorts/"><u>[New] YouTube Shorts Monetization How to Make Money on YouTube Shorts?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-evaluating-recmeisters-innovation-in-video-capture/"><u>[Updated] Evaluating Recmeister's Innovation in Video Capture</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-androidios-montages-top-8-tools-for-dynamic-media-blends/"><u>2024 Approved Android/iOS Montages Top 8 Tools for Dynamic Media Blends</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/apowersoft-reviewed-a-guide-to-pc-screen-capture/"><u>Apowersoft Reviewed A Guide to PC Screen Capture</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-malfunctioning-alphabet-keys-tips-for-windows-1011-users/"><u>Diagnosing & Fixing Malfunctioning Alphabet Keys: Tips for Windows 10/11 Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-p55plus-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Itel P55+</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-memorable-titles-a-comprehensible-ae-approach/"><u>In 2024, Crafting Memorable Titles A Comprehensible AE Approach</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-bluetooth-setup-a-comprehensive-guide-for-windows-1110-users/"><u>Mastering Bluetooth Setup: A Comprehensive Guide for Windows 11/10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-persistent-windows-update-problem-clear-instructions-for-handling-error-0x8024402c/"><u>Overcoming the Persistent Windows Update Problem: Clear Instructions for Handling Error 0X8024402c</u></a></li>
-<li><a href="https://common-error.techidaily.com/ps4-whirring-woes-diagnosing-and-fixing-the-root-of-loudness-problems/"><u>PS4 Whirring Woes - Diagnosing & Fixing the Root of Loudness Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-bluetooth-functionality-on-windows-10-fast-and-straightforward-fixes-inside/"><u>Revive Your Bluetooth Functionality on Windows 10: Fast and Straightforward Fixes Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-nonfunctioning-function-keys-on-dell-laptops/"><u>Step-by-Step Solutions for Nonfunctioning Function Keys on Dell Laptops</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-do-youtube-channels-get-paid-regularly-for-2024/"><u>[New] How Do YouTube Channels Get Paid Regularly for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-upgrading-igtv-thumbnails-a-comprehensive-walkthrough/"><u>[New] Upgrading IGTV Thumbnails A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-hero-black-vs-keymission-for-the-ultimate-cinematographer/"><u>[Updated] In 2024, HERO Black vs Keymission For the Ultimate Cinematographer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-dynamic-duels-ranking-the-top-street-fighter-titles/"><u>2024 Approved Dynamic Duels Ranking the Top Street Fighter Titles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-building-an-unrestricted-chatgpt-version-on-windows-with-the-help-of-freedomgpt/"><u>Complete Tutorial: Building an Unrestricted ChatGPT Version on Windows with the Help of FreedomGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-overcoming-the-challenge-of-d3derrnotavailable-errors/"><u>Comprehensive Guide: Overcoming the Challenge of D3DERR_NOTAVAILABLE Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-missing-volume-slidericon-on-windows-10-an-illustrated-troubleshooting-walkthrough/"><u>Fix Your Missing Volume Slider/Icon on Windows 10 - An Illustrated Troubleshooting Walkthrough</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-3g2-files-to-wma-format-movavi/"><u>Free Online Converter: Change .3G2 Files to WMA Format - Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-avoiding-camera-induced-image-disruption/"><u>In 2024, Avoiding Camera-Induced Image Disruption</u></a></li>
+<li><a href="https://common-error.techidaily.com/stay-updated-seo-best-practices-evolve-over-time-so-it-is-essential-to-stay-updated-with-google-algorithm-changes-and-industry-trends-to-ensure-youre-optimi100/"><u>Stay Updated: SEO Best Practices Evolve over Time, so It Is Essential to Stay Updated with Google Algorithm Changes and Industry Trends to Ensure You're Optimizing Your Content Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-setback-overcome-installation-glitches-with-these-proven-solutions/"><u>Steam Setback? Overcome Installation Glitches with These Proven Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/voice-versus-video-making-the-right-media-selection-for-2024/"><u>Voice Versus Video Making the Right Media Selection for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/wacom-troubleshooting-101-overcoming-connectivity-and-performance-hurdles/"><u>Wacom Troubleshooting 101: Overcoming Connectivity and Performance Hurdles</u></a></li>
 </ul></div>
 

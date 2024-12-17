@@ -1,7 +1,7 @@
 ---
 title: Overcoming Obstacles in NVIDIA System Installation
-date: 2024-08-15T11:11:10.154Z
-updated: 2024-08-16T11:11:10.154Z
+date: 2024-12-11T22:45:04.256Z
+updated: 2024-12-16T19:45:53.632Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  “_**NVIDIA Installer failed**_ ” is a common error in Windows 10\. If you get this error when you’re installing NVIDIA drivers, try the solutions we’ve listed here to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for NVIDIA Installer failed error
 
 * [Some quick fixes](#h-some-quick-fixes)
@@ -28,13 +32,25 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 * [Solution 4: Kill all NVIDIA processes and delete related Files](#h-solution-4-kill-all-nvidia-processes-and-delete-related-files)
 * [Solution 5: Try a clean installation with DDU](#h-solution-5-try-a-clean-installation-with-ddu)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Some quick fixes
 
  If the driver software installation fails, try to reboot your computer and try the driver installation again. If that falls short, try explicitly uninstalling the previous version (if any), rebooting, and then reinstalling. If it fails again, make sure that you select “**Custom** ” and check “**Perform a clean installation** ” during the driver installation.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/01/nvidia-custom-install.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/01/nvidian-clean-installation.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 1: Update the Nvidia Driver Automatically
 
@@ -51,14 +67,8 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Solution 2: Uninstall the NVIDIA app if you have it
 
  Nvidia app and Nvidia GeForce Experience can’t co-exist with each other, so if you have the former installed on your computer, you should uninstall it first before you try the GeForce Experience installer. To do so:
@@ -66,15 +76,13 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 1. On your keyboard, press the**Windows** key and the**I** key together to open Settings.
 2. Go to**Apps** \>**Installed apps** . Find the**NVIDIA app** and**Uninstall** it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/01/uninstall-nvidia-app.png)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this still doesn’t help, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 3: Temporarily turn off any antivirus software or firewall
 
  Some antivirus software would block certain files, which prevents you from successfully completing your installation. For example many “Comodo” antivirus users have reported that it causes NVIDIA driver updates to fail. So if you’re running antivirus software or a firewall, your might need to turn them off during your installation. You’ll also need to make sure all their processes are turned off. You can check and kill all processes via your Task Manager.
@@ -87,28 +95,28 @@ If this still doesn’t help, please move on.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 2. Select**Processes** . Then right-click on the antivirus processes that are related to your antivirus program(s) and select**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-End-task.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 To disable Windows firewall:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then Type or paste**control firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-box-firewall.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. From the left menu, select**Turn Windows Defender Firewall on or off** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-firewall-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-firewall-2.jpg)
 3. Select**Turn off Windows Defender Firewall (not recommended)** for Domain network, Private Network and Public network. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-firewall-3.jpg)
 
  After that, try installing the NVIDIA driver again. Make sure you select “**Custom** ” and check the box for “**perform clean installation** ” while installing the driver still.
 
  If the NVIDIA Installer failed error remains, please enable your antivirus program and Windows firewall, then move on to the next step below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4: Kill all NVIDIA processes and delete related Files
 
@@ -132,19 +140,9 @@ To do a clean reinstallation of the display card driver with DDU:
 1. Download and search for the execution file of the display card driver from the website of your GPU manufacturer **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  .
 2. Download DDU from the[**official download page**](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) . Then unzip the folder, and double-click the**DDU** file to further extract the execution file.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-3.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 3. Boot your computer into Safe Mode as instructed here:[**Start Safe Mode using the System Configuration tool**](https://tools.techidaily.com/drivereasy/download/)
 4. When in Safe Mode, go to the folder where you unzip the DDU execution file. Double-click to run**Display Driver Uninstaller** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-2.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 5. Select **GPU** and **your GPU manufacturer** on the right side. Then click **Clean and restart** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-1.png)
 6. Your computer should restart when the old driver files for your graphics card are cleaned.
@@ -165,8 +163,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +170,18 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-becoming-a-photo-wizard-expert-techniques-for-utilizing-photoshops-background-eraser-tool/"><u>[New] In 2024, Becoming a Photo Wizard Expert Techniques for Utilizing Photoshop's Background Eraser Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-leading-no-ad-android-screen-recorder-hacks-for-2024/"><u>[Updated] Leading No-Ad Android Screen Recorder Hacks for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-your-mobiles-skin-aesthetics-the-creme-de-la-liste/"><u>[Updated] Mastering Your Mobile's Skin Aesthetics The Crème De La Liste</u></a></li>
+<li><a href="https://common-error.techidaily.com/gaming-related-system-overloads/"><u>Gaming-Related System Overloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-10-explore-scrollbar-issue-stops-at-top-unexpectedly/"><u>How to Fix the Windows 10 Explore Scrollbar Issue: Stops at Top Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-freezing-and-patch-problems-in-windows-11-updates/"><u>How to Overcome Freezing and Patch Problems in Windows 11 Updates</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-8-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 8? How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://common-error.techidaily.com/livekernelevent-117-problem-diagnosis-and-repair-methods/"><u>LiveKernelEvent 117 Problem: Diagnosis and Repair Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-best-and-free-roku-streaming-channels/"><u>Top 8 Best & Free Roku Streaming Channels</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-combo-keys-stuck-solving-win-shift-and-s-button-issues-on-pcs-with-w10w11/"><u>Windows Combo Keys Stuck? Solving Win, Shift, and S Button Issues on PCs with W10/W11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revamp Xbox One Controller Functionality in PC Realm
-date: 2024-12-02T22:32:20.592Z
-updated: 2024-12-03T21:14:14.230Z
+date: 2024-12-11T17:31:34.238Z
+updated: 2024-12-16T21:34:01.259Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
@@ -62,19 +58,27 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -87,22 +91,18 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -117,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 If this method didn’t work for you, check out the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -131,7 +131,7 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
@@ -141,7 +141,7 @@ If this method didn’t work for you, check out the last fix.
 4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -175,22 +175,24 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-how-to-profit-on-tiktok-the-8-essential-steps-you-need/"><u>[New] 2024 Approved How to Profit on TikTok The 8 Essential Steps You Need</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-tools-photo-music-capture-software-review/"><u>[Updated] 2024 Approved Essential Tools Photo-Music Capture Software Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-detailed-manual-for-individualized-keybindings-in-win11/"><u>A Detailed Manual for Individualized Keybindings in Win11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/asus-x441ba-evaluation-navigating-the-advantages-and-compromises-of-big-screen-laptops/"><u>Asus X441BA Evaluation: Navigating the Advantages and Compromises of Big Screen Laptops</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhanced-efficiency-after-resolving-inadequate-system-resources-warning/"><u>Enhanced Efficiency After Resolving Inadequate System Resources Warning</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-fixing-windows-communication-issue-with-the-event-notification-system/"><u>Expert Advice: Fixing Windows Communication Issue with the Event Notification System</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unresponsive-laptop-keys-on-windows-solutions-for-win10-8-and-7/"><u>Fixing Unresponsive Laptop Keys on Windows: Solutions for Win10, 8 & 7</u></a></li>
-<li><a href="https://win-tips.techidaily.com/how-to-seamlessly-replace-your-ssd-on-a-lenovo-thinkpad-yoga-2-pro/"><u>How to Seamlessly Replace Your SSD on a Lenovo ThinkPad Yoga 2 Pro</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-11-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-stuck-huion-pen-problems-in-a-flash-5-essential-troubleshooting-steps/"><u>Resolve Your Stuck Huion Pen Problems in a Flash: 5 Essential Troubleshooting Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-steams-absent-file-permissions-issue/"><u>Resolving Steam's Absent File Permissions Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-a-dead-microphone-on-skype-calls/"><u>Step-by-Step Guide to Repairing a Dead Microphone on Skype Calls</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/asy-way-to-mix-and-match-youtube-playlist-order/"><u>The Easy Way to Mix and Match YouTube Playlist Order</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-to-finding-the-perfect-convertor-for-videos-into-gifs-exploring-11-exceptional-options/"><u>The Ultimate Guide to Finding the Perfect Convertor for Videos Into GIFs: Exploring 11 Exceptional Options</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-microphone-issues-in-windows-11-step-by-step-guide/"><u>Troubleshooting Microphone Issues in Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-solving-windows-pcs-nonfunctional-built-in-camera/"><u>Troubleshooting Steps: Solving Windows PC's Nonfunctional Built-In Camera</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capturing-every-moment-in-motion-with-polaroids-new-release/"><u>[New] Capturing Every Moment in Motion with Polaroid's New Release</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlocking-youtube-dominance-exploring-the-quintessential-five-tactics/"><u>[New] Unlocking YouTube Dominance - Exploring the Quintessential Five Tactics</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-premier-collectors-list-top-shorts-for-free-online/"><u>2024 Approved Premier Collector's List Top Shorts for FREE Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-monetization-milestone-500-subscribers-achieved/"><u>2024 Approved YouTube's Monetization Milestone 500 Subscribers Achieved</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-slow-typing-on-windows-11-devices/"><u>Effective Fixes for Slow Typing on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/elevate-your-windows-11-gaming-performance-with-these-proven-strategies/"><u>Elevate Your Windows 11 Gaming Performance with These Proven Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-ios-18-enables-easy-phone-call-recordings-directly-on-your-iphone-the-complete-guide/"><u>How iOS 18 Enables Easy Phone Call Recordings Directly on Your iPhone - The Complete Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-zte-blade-a73-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on ZTE Blade A73 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-open-geforce-experience-when-encountered-issues-solution-steps/"><u>How to Successfully Open GeForce Experience When Encountered Issues [Solution Steps]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oppo-f23-5g-easily-by-drfone-android/"><u>How To Unlock a Oppo F23 5G Easily?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-note-13-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Redmi Note 13 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/japenese-expressions-friendliness-and-respect-on-display/"><u>Japenese Expressions: Friendliness & Respect on Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-troublefree-gameplay-overcoming-halo-n-4-ue4-crashes-for-a-smoother-2024-experience/"><u>Mastering Troublefree Gameplay: Overcoming Halo N 4 UE4 Crashes for a Smoother 2024 Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/preserve-file-locations-during-startup-in-windows-10/"><u>Preserve File Locations During Startup in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-minecraft-crashes-due-to-faulty-video-card-drivers-on-windows-computers/"><u>Resolving Minecraft Crashes Due to Faulty Video Card Drivers on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-user-account-control-prompts-elevation-needed-in-windows-11-10-and-7/"><u>Resolving User Account Control Prompts: Elevation Needed in Windows 11, 10 & 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secure-your-favorite-pbs-show-get-them-for-free-with-our-leading-techniques/"><u>Secure Your Favorite PBS Show - Get Them For Free With Our Leading Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-windows-10-sound-levels-issue/"><u>Troubleshooting Guide: Fixing Windows 10 Sound Levels Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-netflix-loading-effective-ways-to-troubleshoot-and-restore-playback/"><u>Why Isn't Netflix Loading? Effective Ways to Troubleshoot and Restore Playback</u></a></li>
 </ul></div>
 

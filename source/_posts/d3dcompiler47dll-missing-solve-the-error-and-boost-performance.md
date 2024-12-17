@@ -1,7 +1,7 @@
 ---
 title: D3DCOMPILER_47.dll Missing - Solve the Error & Boost Performance
-date: 2024-08-15T11:13:45.620Z
-updated: 2024-08-16T11:13:45.620Z
+date: 2024-12-15T01:07:13.969Z
+updated: 2024-12-16T23:33:08.357Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
 
  If you see ‘**Input Not Supported** ‘ warning floating on your monitor, don’t worry. You can fix**Input Not Supported** error quickly and easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does the error occur to my monitor?
 
  The ‘**Input Not Supported** ‘ error usually occurs to your computer after booting up, and it happens with a black screen on your computer. This problem happens especially when you’re using multiple monitors. Meanwhile, most of the people who are having this problem are using the Acer monitors.
@@ -35,14 +39,15 @@ But don’t worry. We’ll help you fix your problem.
 2. [Change the display settings](#F2)
 3. [Update your monitor driver and graphics card driver](#F3)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot the monitor connection
 
  You may see the ‘**Input Not Supported** ‘ error if there’s something wrong with the monitor connection. So you should check the monitor cable to make sure it works properly. Or you can switch to a new monitor cable.
 
 In addition, make sure the connection ports are working correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change the display settings
 
@@ -56,24 +61,25 @@ Here’s what you can do:
 
 1. On your desktop, right click on any**empty area** and select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94623c6595.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Scroll down and find the**Scale and layout** section, then choose the**recommended resolution** for your display. If you’re on Windows 11, it’ll be**Display resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946559c00e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. If you see a popup to confirm the change, click Keep changes to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94693c702d.jpg)
 4. Then click**Advanced display settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946c1e8119.jpg)
 5. Under the monitor name that is having the Input Not Supported error, click**Display adapter properties for Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9472de63ac.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 6. In the popup pane, click the**Monitor** tab. In the**Screen refresh rate** , choose the**recommended** or**default** **rate** in the drop down menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94769aa3f3.jpg)
 7. Save the changes and restart your computer.
 
@@ -82,12 +88,14 @@ If you’re using Windows 8 and Windows 7:
 1. Right click on any**empty area** on your desktop, and select**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f17a6508.jpg)
 2. If you have multiple displays, select the display that is having the error. Then choose the**recommended resolution** , and click**Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f74c12c9.jpg)  
  If your current screen resolution is not proper, you’ll see a notification like this:  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fc52735d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. On the same pane, click**Advanced** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fec42db3.jpg)
 4. Click the**Monitor** tab, then choose the**recommended or default refresh rate setting** in the**Screen refresh rate** section.  
@@ -96,9 +104,6 @@ If you’re using Windows 8 and Windows 7:
 
 You should fix the error and boot your computer as normal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your monitor driver and graphics card driver
 
  The missing or corrupted device drivers (especially the monitor driver and graphics card driver) will cause the “Input Not Supported” error on monitors. So you should update these drivers in your computer.
@@ -118,16 +123,14 @@ You should fix the error and boot your computer as normal.
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9478ba7d6a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 3. Click the**Update** button next to the flagged monitor and graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd947aa82f4c.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So there you have it – three easy methods to fix**monitor input not supported** issue. If you have any questions, feel free to leave a comment below and we’ll see what more we can do.
 
@@ -140,8 +143,6 @@ You should fix the error and boot your computer as normal.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +150,21 @@ You should fix the error and boot your computer as normal.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-journey-to-cohesion-expert-tips-for-using-inshots-transition-tools-for-2024/"><u>[Updated] Journey to Cohesion Expert Tips for Using Inshot's Transition Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-matchmakers-top-friend-focused-ventures/"><u>2024 Approved Metaverse Matchmakers Top Friend-Focused Ventures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-enhanced-top-free-must-have-tools-for-windows-11/"><u>Effortlessly Enhanced: Top Free Must-Have Tools for Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/for-experts-only-top-5-best-drones-to-buy-for-2024/"><u>For Experts Only – Top 5 Best Drones to Buy for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/ignite-your-youtube-traffic-understanding-and-overcoming-zero-views-for-2024/"><u>Ignite Your YouTube Traffic Understanding and Overcoming Zero Views for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-12-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 12 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209875514-quick-fixes-for-slow-boot-problems-on-windows-7-systems-improve-startup-time-now/"><u>Quick Fixes for Slow Boot Problems on Windows 7 Systems - Improve Startup Time Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-vanishing-mouse-pointer-in-windows-10-step-by-step-fixes/"><u>Resolve Your Vanishing Mouse Pointer in Windows 10 - Step-by-Step Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-your-pc-embrace-the-upcoming-rtx-now/"><u>Should Your PC Embrace the Upcoming RTX Now?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210730048-sound-troubleshooting-for-forza-horizon-4-your-ultimate-solution/"><u>Sound Troubleshooting for Forza Horizon 4: Your Ultimate Solution!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-4-twitter-apps-for-tracking-trending-hashtags/"><u>Top 4 Twitter Apps for Tracking Trending Hashtags</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-crackling-speakers-on-windows-11-and-7-a-comprehensive-guide/"><u>Troubleshooting Crackling Speakers on Windows 11 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolve-suitable-printer-driver-not-found-on-your-windows-device/"><u>Troubleshooting Tips: Resolve 'Suitable Printer Driver Not Found' On Your Windows Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-claims-surrounding-truthgpt-coins/"><u>Unraveling the Claims Surrounding TruthGPT Coins</u></a></li>
+</ul></div>
 

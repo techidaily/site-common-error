@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your PC From Continuously Restarting - Windows 11/10 Solutions
-date: 2024-08-22T19:18:28.421Z
-updated: 2024-08-23T19:18:28.421Z
+date: 2024-12-12T22:09:23.248Z
+updated: 2024-12-17T00:24:09.032Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -46,13 +50,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -60,20 +69,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -89,9 +98,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -109,9 +120,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -126,8 +134,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +141,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-best-software-for-live-broadcasting/"><u>[New] Best Software for Live Broadcasting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-easy-integration-merging-igtv-and-instagram-stories/"><u>[Updated] 2024 Approved Easy Integration Merging IGTV & Instagram Stories</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-your-guide-to-instantaneously-add-closed-captions-to-youtube-clips/"><u>2024 Approved Your Guide to Instantaneously Add Closed Captions to YouTube Clips</u></a></li>
+<li><a href="https://common-error.techidaily.com/astro-a40-microphone-not-working-heres-how-you-can-get-it-up-and-running/"><u>Astro A40 Microphone Not Working? Here's How You Can Get It Up & Running!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209077159-backspace-not-responding-heres-how-you-can-solve-this-problem/"><u>Backspace Not Responding? Here’s How You Can Solve This Problem!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/capturing-frames-a-step-by-step-guide-on-extracting-images-from-videos/"><u>Capturing Frames: A Step-by-Step Guide on Extracting Images From Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/editing-excess-strategies-to-clean-up-oversized-tiktok-drafts/"><u>Editing Excess Strategies to Clean Up Oversized TikTok Drafts</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212347138-fast-fixes-for-apex-legends-cheating-issues-no-more-errors/"><u>Fast Fixes for Apex Legends' Cheating Issues - No More Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-seamlessly-overcome-the-notorious-win11-update-bug-error-0x800705b4-in-depth-fixes/"><u>How to Seamlessly Overcome the Notorious Win11 Update Bug (Error 0X800705b4): In-Depth Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-complete-a-blocked-windows-1n-1803-version-upgrade-fixed/"><u>How to Successfully Complete a Blocked Windows 1N 1803 Version Upgrade [FIXED]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-long-is-a-video-at-20-megabits/"><u>In 2024, How Long Is a Video at 20 Megabits?</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/silenced-gear-shifts-resolved-guiding-you-through-forza-horizon-4-audio-troubleshooting/"><u>Silenced Gear Shifts Resolved: Guiding You Through Forza Horizon 4 Audio Troubleshooting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/thriving-on-youtube-11-secrets-to-boosting-video-search-rankings-for-2024/"><u>Thriving on YouTube 11 Secrets to Boosting Video Search Rankings for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-keypad-numbers-not-responding-on-laptopdesktop/"><u>Troubleshooting Guide: Fixing Keypad Numbers Not Responding on Laptop/Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-gamers-overcoming-the-notorious-apex-legends-code-23-glitch/"><u>Troubleshooting Tips for Gamers: Overcoming the Notorious Apex Legends Code 23 Glitch</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Fix Game Setup Errors for a Smooth Play on Origin Games
-date: 2024-11-28T05:36:57.007Z
-updated: 2024-12-04T04:10:06.271Z
+date: 2024-12-13T22:05:05.418Z
+updated: 2024-12-16T16:19:21.133Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Repair your game
 
  Missing or corrupt game files can cause a wide variety of issues. So you need to make sure they are intact. The feature, repairing games allows you to achieve that goal. It checks your game’s installation and then automatically downloads any replacement or missing files:
@@ -42,16 +46,12 @@ Continuously getting the error **“There is a problem with your games setup. Pl
   
 ![Origin error There is a problem with your game's setup. Please reinstall your game. ](https://images.drivereasy.com/wp-content/uploads/2021/05/repair-game.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
 
 If that didn’t help, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Clear Origin game cache
@@ -65,17 +65,9 @@ If that didn’t help, try the next fix below.
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Under the**Processes** tab, look for**Origin, OriginClientService, and OriginWebHelperService** . If they’re on the list, make sure to right-click each and then select**End task** .  
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
@@ -91,15 +83,15 @@ If that didn’t help, try the next fix below.
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  6) Type or paste**%AppData%** and press Enter.  
   
 ![open AppData using command](https://images.drivereasy.com/wp-content/uploads/2021/05/appdata.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Look for the**Origin** folder. Right-click it and select**Delete** .  
   
@@ -110,19 +102,23 @@ If that didn’t help, try the next fix below.
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10) Restart your PC and log back into Origin.
 
 If this didn’t give you any luck, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update your device drivers
@@ -151,7 +147,7 @@ Here’s how to update drivers with Driver Easy:
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Origin as an administrator
@@ -188,6 +184,10 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
  1) On your keyboard, press the**Windows + I keys** to open Settings.
@@ -217,22 +217,14 @@ If that didn’t help, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers/"><u>[Updated] Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-global-viewer-count-triumphs-play-button-honors-for-2024/"><u>[Updated] Global Viewer Count Triumphs Play Button Honors for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-virtual-adrenaline-rushes-top-10-without-gta/"><u>2024 Approved Virtual Adrenaline Rushes - Top 10 Without GTA</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208263035-beating-the-windows-10-update-blues-cracking-code-0xc1900208-successfully/"><u>Beating the Windows 10 Update Blues: Cracking Code 0xC1900208 Successfully!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-not-working-a-step-by-step-solution-guide-for-windows-10-users-in-2e24/"><u>Bluetooth Not Working? A Step-by-Step Solution Guide for Windows 10 Users in 2E24</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-call-of-duty-world-war-ii-glitch-tackling-error-code-4220/"><u>Eliminating Call of Duty World War II Glitch - Tackling Error Code 4220</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-prominent-positioning-of-sticky-notes-in-win-11/"><u>Ensuring Prominent Positioning of Sticky Notes in Win 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-your-windows-store-cache-errors-expert-advice/"><u>How To Repair Your Windows Store Cache Errors – Expert Advice</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x6-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco X6 Pro Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mouse-miracle-wireless-connection-reinstated/"><u>Mouse Miracle: Wireless Connection Reinstated</u></a></li>
-<li><a href="https://discover-able.techidaily.com/navigating-gpu-troubles-when-to-consider-replacement-expert-advice-by-yl-computing-and-yl-software/"><u>Navigating GPU Troubles: When to Consider Replacement - Expert Advice by YL Computing & YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-unexpected-computer-shutdown-issues/"><u>Resolved: How to Fix Unexpected Computer Shutdown Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-pc-a-step-by-step-guide-to-repairing-damaged-windows-11-files/"><u>Reviving Your PC: A Step-by-Step Guide to Repairing Damaged Windows 11 Files</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-creating-free-youtube-outros-1-6-for-2024/"><u>The Ultimate Guide to Creating FREE YouTube Outros #1-6 for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-dell-laptop-keyboard/"><u>Troubleshooting Guide: Fixing a Nonfunctional Dell Laptop Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-windows-10s-restart-riddle-expert-strategies-to-restore-stability/"><u>Winning Against Windows 10'S Restart Riddle: Expert Strategies to Restore Stability</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-computer-crashes-when-playing-games-in-windows-1111/"><u>[FIXED] Computer Crashes When Playing Games in Windows 11/11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-desktop-recording-head-to-head-obs-vs-shadowplay/"><u>2024 Approved Desktop Recording Head-to-Head OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-stop-windows-11-from-freezing-at-system-startup-or-during-boot/"><u>Effective Solutions to Stop Windows 11 From Freezing at System Startup or During Boot</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-corrupted-system-files-on-windows-10-11/"><u>How to Fix Corrupted System Files on Windows 10, 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-through-the-challenges-successful-installation-of-the-windows-10-version-1903-feature-enhancement/"><u>Navigating Through the Challenges: Successful Installation of the Windows 10 Version 1903 Feature Enhancement</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/the-guide-to-retrieving-deleted-or-missing-favorites-in-microsoft-edge-browser/"><u>The Guide to Retrieving Deleted or Missing Favorites in Microsoft Edge Browser</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210526000-9780349430362-the-little-book-of-crystal-magic/"><u>The Little Book of Crystal Magic | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477878907-tired-of-waiting-for-late-texts-on-ios-devices-heres-how-to-fix-it/"><u>Tired of Waiting for Late Texts on iOS Devices? Here's How to Fix It!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-best-action-cameras-for-hunting/"><u>Top 5 Best Action Cameras for Hunting</u></a></li>
 </ul></div>
 

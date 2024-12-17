@@ -1,7 +1,7 @@
 ---
 title: Power Surge Diagnosis and Solutions for Your Server's Main Port Station
-date: 2024-12-04T17:33:18.103Z
-updated: 2024-12-10T20:45:11.848Z
+date: 2024-12-09T20:48:32.404Z
+updated: 2024-12-16T17:39:34.003Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fixes to try:**
 
  You don’t have to try them all; just try each one in turn until your battery is charging again.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 5. **[Update the driver for your battery management device](#f5)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -58,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
  3) If possible,**use a new AC adapter to charge your battery** . See if this issue persists. If this issue persists, maybe this issue is caused by a bad battery. If the battery is charging, it suggests that there is something wrong in your AC adapter.
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Turn off the battery charge threshold
 
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you turn off the battery charge threshold feature, your battery should be charging.
 
 ### Fix 3: Perform a power reset on your laptop
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
@@ -126,13 +126,13 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
@@ -160,10 +160,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -173,6 +169,10 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -194,20 +194,16 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-chromatic-excellence-program-for-2024/"><u>[New] Chromatic Excellence Program for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-find-n3-flip-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo Find N3 Flip Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-online-deals-on-webcam-protection-kits/"><u>2024 Approved Best Online Deals on Webcam Protection Kits</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieve-smooth-gaming-boosting-frames-per-second-fps-in-ring-of-elysium/"><u>Achieve Smooth Gaming - Boosting Frames Per Second (FPS) in Ring of Elysium</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-hdcp-restrictions-on-unencrypted-display-devices-a-comprehvew/"><u>Bypassing HDCP Restrictions on Unencrypted Display Devices - A Comprehvew</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-correcting-the-wwe-2k-battlegrounds-for-optimal-performance-on-dx11-with-a-feature-level-of-100/"><u>Expert Advice: Correcting the WWE 2K Battlegrounds for Optimal Performance on DX11 with a Feature Level of 10.0</u></a></li>
-<li><a href="https://common-error.techidaily.com/exploring-ways-to-fix-windows-10-a-guide-to-using-sfc-and-dism/"><u>Exploring Ways to Fix Windows 10: A Guide to Using SFC & DISM</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-on-correcting-the-livekernelevent-144-glitch-quickly/"><u>Guide on Correcting the LiveKernelEvent 144 Glitch Quickly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50i-bootloader-easily-by-drfone-android/"><u>How to Unlock Honor X50i Bootloader Easily</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-value-in-your-cloud-service-expenditure/"><u>In 2024, Maximizing Value in Your Cloud Service Expenditure</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-fujitsu-scansnap-ix1400-analysis-top-choice-for-home-and-smb-workstations/"><u>In-Depth Fujitsu ScanSnap iX1400 Analysis: Top Choice for Home and SMB Workstations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/meet-the-new-era-of-connectivity-asrock-unveils-two-stunning-27-1440p-ips-monitors-equipped-with-integrated-wireless-support-in-their-stands/"><u>Meet the New Era of Connectivity: ASRock Unveils Two Stunning 27 1440P IPS Monitors Equipped with Integrated Wireless Support in Their Stands</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-repair-disconnected-ethernet-on-a-windows-machine/"><u>Step-by-Step Guide: Repair Disconnected Ethernet on a Windows Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-troubleshooting-airpods-on-windows-1011-2024-update/"><u>The Ultimate Guide to Troubleshooting AirPods on Windows 10/11 - 2024 Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211533200-turbocharged-tech-discover-the-secret-to-superior-swiftness-instantly/"><u>Turbocharged Tech: Discover the Secret to Superior Swiftness Instantly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-beyond-capture-understanding-mycams-advanced-features/"><u>[New] Beyond Capture – Understanding MyCam's Advanced Features</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-explore-the-best-ways-to-record-sound-in-your-latest-windows-11-pc-for-2024/"><u>[Updated] Explore the Best Ways to Record Sound in Your Latest Windows 11 PC for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-fine-tuning-color-balance-in-obs-for-2024/"><u>[Updated] Fine-Tuning Color Balance in OBS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-camera-clicks-to-youtube-clips-an-experts-step-by-step-visual-instruction-manual/"><u>[Updated] From Camera Clicks to YouTube Clips An Expert's Step-by-Step Visual Instruction Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-obsidian-gaming-recording-resolve-your-black-screen-trouble/"><u>Fixing the Obsidian Gaming Recording: Resolve Your Black Screen Trouble</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209944138-how-to-fix-csgo-crashing-quickly-and-easily/"><u>How To Fix CSGO Crashing. Quickly & Easily</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-amplify-creativity-in-photography-innovative-pixlr-hacks/"><u>In 2024, Amplify Creativity in Photography Innovative Pixlr Hacks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-top-ten-web-retailers-for-exquisite-wrapped-delights/"><u>In 2024, Top Ten Web Retailers for Exquisite Wrapped Delights</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-a-non-responsive-fn-key-on-your-lenovo-device/"><u>Quick Fixes for a Non-Responsive Fn Key on Your Lenovo Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-non-responsive-right-click-on-your-windows-10-mouse/"><u>Troubleshooting Guide: Fixing the Non-Responsive Right Click on Your Windows 10 Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-file-explorer-in-windows-11-a-comprehensive-guide/"><u>Troubleshooting Unresponsive File Explorer in Windows 11: A Comprehensive Guide</u></a></li>
 </ul></div>
 

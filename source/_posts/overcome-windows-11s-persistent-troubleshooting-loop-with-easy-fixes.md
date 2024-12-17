@@ -1,7 +1,7 @@
 ---
 title: Overcome Windows 11'S Persistent Troubleshooting Loop with Easy Fixes
-date: 2024-11-30T19:04:12.508Z
-updated: 2024-12-03T20:38:17.580Z
+date: 2024-12-09T21:57:18.903Z
+updated: 2024-12-17T00:15:57.261Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Check the power settings
 
  If your power settings are configured to sleep in a short time, for example, 5 minutes, you’ll experience the computer keeps going to sleep issue. To fix the problem, the first thing to do is check the power settings, and change the settings if necessary. To do so:
@@ -46,26 +42,38 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 3. **View by** **Large icons** , and click **Power Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1370b5c7879.jpg)
 4. Click**Change when the computer sleeps** in the left pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13709ea5614.jpg)
 5. Choose the sleep and display settings that you want your computer to use.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4a) Change the**Turn off the display** setting to whatever value you desire. You don’t have to set it to Never if you don’t want to.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137143ae4bb.jpg)  
  4b) Change the**Put the computer to sleep** setting to whatever value you desire. It’s recommended to set it to**Never** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1371d25d798.jpg)
 6. Click**Save changes** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Check to see if the computer still keeps going to sleep.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2: Update the graphics card driver
 
@@ -83,10 +91,14 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Disable the screen saver
@@ -107,16 +119,16 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For Windows 7:**
 
 1. Open**Control Panel** .
 2. **View by Category** , and click**Appearance and Personalization** (In some cases, this could be**Appearance** .).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
@@ -147,7 +159,7 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
@@ -162,10 +174,6 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
@@ -174,10 +182,6 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
 
@@ -202,24 +206,17 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-harnessing-the-power-of-channels-boosting-telegram-presence/"><u>[New] In 2024, Harnessing the Power of Channels Boosting Telegram Presence</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-why-instagram-story-highlights-matter-a-primer/"><u>[New] Why Instagram Story Highlights Matter A Primer</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-verification-boost-your-following-with-these-6-secrets/"><u>[Updated] 2024 Approved Mastering Instagram Verification Boost Your Following with These 6 Secrets</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook/"><u>[Updated] 2024 Approved Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/adding-your-companys-logo-as-a-background-image-in-flipbook-with-flipbuilder-guide/"><u>Adding Your Company's Logo As A Background Image In FlipBook With FlipBuilder Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-content-with-these-top-keyword-discovery-tools-for-2024/"><u>Elevate Your Content with These Top Keyword Discovery Tools for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-google-bard-top-7-improvements-with-palm-2-technology/"><u>Enhancing Google Bard: Top 7 Improvements with PaLM 2 Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-intel-serial-io-driver-installation-error-for-non-supported-systems/"><u>How to Overcome the Intel Serial IO Driver Installation Error for Non-Supported Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-14-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 14 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210989175-resolve-your-valorant-startup-hang-up-steps-to-end-infinite-loading/"><u>Resolve Your Valorant Startup Hang-Up: Steps to End Infinite Loading</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-when-the-steam-shop-wont-load-a-comprehensive-guide/"><u>Resolving Issues When The Steam Shop Won't Load: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212019000-solution-to-pubg-structures-failure-now-fixed/"><u>Solution to PUBG Structures Failure - Now Fixed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/speed-up-your-pc-by-reviving-corrupted-hardware-drivers-easily/"><u>Speed Up Your PC by Reviving Corrupted Hardware Drivers Easily</u></a></li>
-<li><a href="https://article-posts.techidaily.com/srt-mastery-curating-the-best-mac-and-windows-turbo-boosts/"><u>SRT Mastery Curating the Best Mac & Windows Turbo Boosts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-turn-your-ios-images-into-accessible-pdfs/"><u>Step by Step Turn Your IOS Images Into Accessible PDFs</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-laptops-touchpad-not-responding-in-windows-systems-solutions-inside/"><u>Troubleshooting Your Laptop's Touchpad Not Responding in Windows Systems – Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/unblock-your-gaming-resolving-error-loading-player-on-pc/"><u>Unblock Your Gaming: Resolving Error Loading Player on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-resolving-error-0x80004005-unspecified-issue-explained/"><u>Understanding and Resolving Error 0X80004005: Unspecified Issue Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/your-network-settings-are-blocking-party-chat-solved/"><u>Your Network Settings Are Blocking Party Chat [SOLVED]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ioneers-in-online-mastery-meet-up/"><u>[New] Pioneers in Online Mastery Meet-Up</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-radeon-rx-6700-xt-graphics-card-drivers-download-guide-for-windows-11-10-and-7/"><u>AMD Radeon RX 6700 XT Graphics Card Drivers: Download Guide for Windows 11, 10 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-lag-expert-fixes-and-optimizations-for-a-smoother-fallout-4-experience/"><u>Beat the Lag: Expert Fixes and Optimizations for a Smoother Fallout 4 Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-install-updated-drivers-for-your-hp-ink-advantage-jet-3700/"><u>Complete Guide: Install Updated Drivers for Your HP Ink Advantage Jet 3700</u></a></li>
+<li><a href="https://common-error.techidaily.com/gain-approval-overcome-restricted-entry-challenges-here/"><u>Gain Approval? Overcome Restricted Entry Challenges Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-csgo-crashing-quickly-and-easily/"><u>How To Fix CSGO Crashing. Quickly & Easily.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-yuva-3-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Yuva 3 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/snag-unbeatable-discounts-exclusive-oneplus-deals-for-prime-day-savvy-shoppers/"><u>Snag Unbeatable Discounts: Exclusive OnePlus Deals for Prime Day Savvy Shoppers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-magic-6-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor Magic 6 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/tutorial-retrieving-windows-hidden-on-the-outside-of-your-screen/"><u>Tutorial: Retrieving Windows Hidden on the Outside of Your Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-tech-reveal-apples-latest-lineup-includes-2023-macbook-air-and-next-gen-ipads-set-for-early-launch/"><u>Upcoming Tech Reveal? Apple's Latest Lineup Includes 2023 MacBook Air and Next-Gen iPads Set for Early Launch</u></a></li>
 </ul></div>
 

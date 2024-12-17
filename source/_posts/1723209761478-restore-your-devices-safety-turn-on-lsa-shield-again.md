@@ -1,7 +1,7 @@
 ---
 title: Restore Your Device's Safety - Turn On LSA Shield Again
-date: 2024-11-10T18:07:07.933Z
-updated: 2024-11-15T16:36:46.852Z
+date: 2024-12-09T23:35:15.455Z
+updated: 2024-12-16T23:06:46.806Z
 tags:
   - win11
   - win10
@@ -46,22 +46,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
@@ -76,10 +67,7 @@ Then see if the Local Security Authority Protection is still off.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Modify Registry Editor
@@ -95,14 +83,27 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
 5. If you don’t see**RunAsPPL** or**RunAsPPLBoot** on the right side, right-click the empty area and select**New > DWORD (32-bit) Value** . Name the new entry**RunAsPPL** , then double-click it to change its**Value data** to**2** . Repeat the same to create a new entry named**RunAsPPLBoot** and change its value data to 2.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-28.png) [](https://cdn.windowsreport.com/wp-content/uploads/2023/03/regedit%5F1OHPX7onS7.png)
 6. Restart your computer for the changes to take effect.
 
  Then see if the Local Security Authority protection can be turned on now. If the problem still remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Configure Group Policy Editor
 
@@ -113,34 +114,17 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-30.png)
 3. Go to **Computer Configuration\\Administrative Templates\\System\\Local Security Authority** . Double-click**Configure LSASS to run as a protected process** on the right side.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-32.png)
 4. Click**Enable** , then select**Enabled with UEFI Lock** from the drop-down menu. Then click**Apply** and**OK** to save and exit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
 5. Restart your computer for the change to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then see if your Local Security Authority protection can be toggled back on.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -154,6 +138,10 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -180,24 +168,15 @@ Then see if the Local Security Authority Protection is still off.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/net-framework-35-trouble-heres-how-to-fix-error-code-0x800f081f-during-installation/"><u>.NET Framework 3.5 Trouble? Here's How to Fix Error Code 0X800F081F During Installation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ensuring-clear-sound-with-proper-obs-configurations-for-2024/"><u>[Updated] Ensuring Clear Sound with Proper OBS Configurations for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-no-8-visionary-photomontage-creator-app/"><u>[Updated] The No. 8 Visionary Photomontage Creator App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-your-video-streaming-glitches-on-windows-11-with-these-simple-steps/"><u>Fix Your Video Streaming Glitches on Windows 11 with These Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-persistent-delays-resolving-keyboard-slowdowns-on-windows-11/"><u>Fixing Persistent Delays: Resolving Keyboard Slowdowns on Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-stalled-email-updates-a-how-to-for-iphone-users/"><u>Fixing Stalled Email Updates: A How-To for iPhone Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-curb-microsoft-telemetrys-intensive-disk-use-on-your-windows-11-device-for-better-efficiency/"><u>How to Curb Microsoft Telemetry's Intensive Disk Use on Your Windows 11 Device for Better Efficiency</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-itel-p40plus-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Itel P40+ Get Deleted photos Back with Ease and Safety?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-infinix-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Infinix ?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-sony-xperia-10-v-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Sony Xperia 10 V</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ating-to-your-subscription-statistics-for-2024/"><u>Navigating to Your Subscription Statistics for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-playing-frustratingly-fix-csgo-crash-problems-instantly/"><u>Stop Playing Frustratingly: Fix CSGO Crash Problems Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-essentials-correcting-critical-error-1603-to-ensure-seamless-program-installation/"><u>Troubleshooting Essentials: Correcting Critical Error 1603 to Ensure Seamless Program Installation</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-failed-downloads-of-windows-7-patches-and-updates/"><u>Troubleshooting Failed Downloads of Windows 7 Patches and Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-applicationexe-crash-issues/"><u>Troubleshooting Steps for 'Application.Exe' Crash Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212053341-unstuck-with-screen-mirroring-on-windows-10-fix-the-device-connection-issue-here/"><u>Unstuck with Screen Mirroring on Windows 10? Fix the Device Connection Issue Here!</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-stalled-during-setup-heres-the-fix/"><u>Windows Stalled During Setup? Here's the Fix!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-definitive-guide-to-proportion-perfection-in-youtube/"><u>[New] 2024 Approved The Definitive Guide to Proportion Perfection in YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-reviving-your-shows-heartbeat-saving-facebook-livestream-pauses/"><u>[New] Reviving Your Show's Heartbeat Saving Facebook Livestream Pauses</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-anatomy-of-an-anti-viewer-cutting-edge-strategies-for-reversed-youtube-videos-for-2024/"><u>[Updated] Anatomy of an Anti-Viewer Cutting Edge Strategies for Reversed YouTube Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-bridging-social-channels-the-journey-of-video-content-to-whatsapp/"><u>2024 Approved Bridging Social Channels The Journey of Video Content to WhatsApp</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolution-strategies-for-fixing-error-0x800f081f-when-implementing-net-framework-version-35/"><u>Error Resolution Strategies for Fixing Error 0X800F081F When Implementing .NET Framework Version 3.5</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-forgotten-frames-to-captivating-clip-sequences/"><u>In 2024, From Forgotten Frames to Captivating Clip Sequences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macos-ubuntu-users-welcome-protonpass-integration-expanding-secure-access-across-operating-systems/"><u>MacOS, Ubuntu Users Welcome ProtonPass Integration: Expanding Secure Access Across Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-broken-or-uncooperative-keys-on-your-hp-laptop-easily/"><u>Step-by-Step Guide: Fixing Broken or Uncooperative Keys on Your HP Laptop Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-correct-battleye-service-install-failure/"><u>Troubleshooting Steps to Correct BattlEye Service Install Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-the-ruby-display-glitch-on-your-windows-11-computer/"><u>Winning Against the Ruby Display Glitch on Your Windows 11 Computer</u></a></li>
 </ul></div>
 

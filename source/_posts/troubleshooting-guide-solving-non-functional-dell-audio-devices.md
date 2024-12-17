@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solving Non-Functional Dell Audio Devices"
-date: 2024-08-22T19:21:25.953Z
-updated: 2024-08-23T19:21:25.953Z
+date: 2024-12-11T02:09:18.075Z
+updated: 2024-12-16T16:13:58.890Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for Windows Firewall
 
  If Minecraft is not allowed on Firewall, the LAN not working issue can happen. You can check the Firewall settings and ensure the Minecraft executable file “javaw.exe” is allowed in the Firewall.
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
  First, navigate to**Control Panel** \->**Windows Defender Firewall** \->**Allow an app for feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c26077d5f666.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then see if the “javaw.exe” is checked. If it’s not checked, click the**Change settings** button then check the box next to “javaw.exe”. If you see more than one “javaw.exe” entry, check all of them. Also, ensure the Private box and the Public box are checked.
 
@@ -55,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
  Some antivirus software may block some features in Minecraft so that you can run into the LAN not working issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update the network drivers
 
@@ -77,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it with the Free version, but it’s partly manual.
 
@@ -114,9 +130,6 @@ If this method doesn’t work for you, try other solutions.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 6\. Ensure everyone has a single IP address
 
  If the computer is connected to the wired and wireless at the same time, it’ll have more than one IP address. This can cause the LAN not to work. So**ensure everyone has a single IP address** . It means everyone is connected to the wired or wireless.
@@ -138,45 +151,39 @@ If this method doesn’t work for you, try other methods.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260a9e41a12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3)**Type ipconfig and press the Enter key on your keyboard** . Then you’ll get a list of information about the network.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260ad5f1c53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  4)**Find the IPv4 Address** which usually means the IP address for that computer.
 
  The IP address will look something like 192.168.1.\* or 10.0.0.\*. In the below example, the IP address is 192.168.64.1.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b16d6474.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 **Secondly** , you need to get the game port. As soon as you launch Minecraft on the host computer, you can get the game port number at the bottom of the screen as follows.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b667f112.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you see a screen like the one below, click the**Direct Connect** button then enter the IP address and the game port number.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b918466d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If this method doesn’t work for you, try other methods.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Try to play Minecraft without Mods
 
  Mods can make the player look different in the game, but they also can cause problems, such as LAN not working. If you’re using Mods, you can try to play the game without them. Then check to see if the problem is resolved.
@@ -189,9 +196,6 @@ If this method doesn’t work for you, try other methods.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Try reinstalling Minecraft
 
  If the above methods don’t work for you, reinstall Minecraft and reconnect every computer to see if the problem is resolved.
@@ -211,8 +215,6 @@ You also like…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +222,20 @@ You also like…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-scouting-the-best-screenshot-and-recorders-of-today/"><u>[Updated] Scouting the Best Screenshot & Recorders of Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808162820-a-beginners-tutorial-to-fresh-video-drivers-in-windows-11-no-hassle/"><u>A Beginner's Tutorial to Fresh Video Drivers in Windows 11 - No Hassle!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypassing-the-d3d-initialization-fault-errgfxd3dinit-for-a-smooth-gta-v-experience/"><u>Bypassing the D3D Initialization Fault (ERR_GFX_D3D_INIT) for a Smooth GTA V Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-windows-10-microsoft-store-wont-start/"><u>Comprehensive Fix for Windows 10: Microsoft Store Won't Start?</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-for-dealing-with-hamachi-connection-stop-errors/"><u>Effortless Solutions for Dealing with Hamachi Connection Stop Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-connection-errors-between-bluetooth-keyboards-and-computers/"><u>Expert Tips for Fixing Connection Errors Between Bluetooth Keyboards and Computers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-perfecting-your-youtube-music-order/"><u>In 2024, Perfecting Your YouTube Music Order</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pixel-power-face-off-sj6-prodigy-meets-yi-4k-creator/"><u>In 2024, Pixel Power Face-Off SJ6 Prodigy Meets Yi 4K Creator</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-settings-how-to-disable-emergency-and-child-abduction-alarms-easily/"><u>IPhone Settings: How To Disable Emergency and Child Abduction Alarms Easily</u></a></li>
+<li><a href="https://discover-able.techidaily.com/optimizing-your-pc-key-configuration-tweaks-for-enhanced-efficiency-with-yl-software/"><u>Optimizing Your PC: Key Configuration Tweaks for Enhanced Efficiency with YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-fix-reactivating-lighting-features-on-your-corsair-keyboard/"><u>The Fix: Reactivating Lighting Features on Your Corsair Keyboard</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/the-power-of-choice-leveraging-multiple-operating-systems-for-effective-task-management-zdnet-blog-post/"><u>The Power of Choice: Leveraging Multiple Operating Systems for Effective Task Management | ZDNET Blog Post</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-hack-successful-pairing-of-airpods-with-windows-1011-2024-how-to/"><u>The Ultimate Hack: Successful Pairing of AirPods with Windows 10/11 - 2024 How-To</u></a></li>
+</ul></div>
 

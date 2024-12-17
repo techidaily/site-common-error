@@ -1,7 +1,7 @@
 ---
 title: Unlock Hidden Touchpad in Device Manager's Depths
-date: 2024-12-07T21:51:55.967Z
-updated: 2024-12-10T20:01:10.615Z
+date: 2024-12-14T23:09:37.685Z
+updated: 2024-12-17T00:27:04.243Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Show hidden devices in Device Manager](#fix-1)**
@@ -44,10 +40,19 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click**View** and select**Show hidden devices** from the pop-up menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/view-show-hidden-devices.jpg)
 3. Go on to click**Action** and select**Scan for hardware changes** from the pop-up menu  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Action-scan-for-hardware-changes.jpg)
 4. Restart your PC for the trick to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. After rebooting your computer, press**Windows + I** keys to open Windows Settings and select**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Settings-devices.jpg)
 6. Check if**Touchpad** is in the Devices list now. If it does, click the toggle to**On** .  
@@ -56,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
  If it doesn’t, sorry that this fix doesn’t work for you, move on to try the next below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Add the touchpad driver back manually
 
@@ -70,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 2. In Device Manager, select the first line (your computer name), then click **Action** on the menu bar and select **Add legacy hardware** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
@@ -79,15 +80,24 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)**  and click **Next** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-63.png)
 5. Select **Show All Devices** , and click **Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/Show-All-Devices.png)
 6. As mentioned, two of the most popular touchpad manufacturers are**Elan** and**Synaptics** , so you can select one of them on the**Manufacturer** list on the left side, and then see if you can find the touchpad device on the right side. Sometimes, you may also need to check if your touchpad is listed under the**Microsoft** umbrella. You can also try your laptop manufacturer’s name, like Acer, Asus, HP Dell, etc., to see if your touchpad is listed under them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/legacy-device-driver.png)
 
  If you still can’t find your touchpad in this way, please move on to the next fix, below.
@@ -102,6 +112,10 @@ OR
 
 **[Option 2 – Automatically (recommended)](#option-2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  To get the driver of your touchpad, you need to go to the official website of your device’s brand, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32-bit) and download the driver manually.
@@ -109,7 +123,7 @@ OR
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2 – Automatically update touchpad drivers
@@ -124,10 +138,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/03/synpatics-hid-touchpad.png)
@@ -178,16 +188,8 @@ Assigned BIOS hotkey
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/fortect-download-page-1.jpg)
 2. Open Fortect and it will run a FREE scan of your PC. You’ll see a complete overview of your system and issues once the scan is finished.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click**Start Repair** if Fortect detects any missing or broken system files or other issues  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, please contact[Fortect support](https://www.fortect.com/company/contacts/) **.**
 
@@ -227,24 +229,22 @@ Hot Accessories
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-shorts-showing-up-after-fix/"><u>[New] In 2024, YouTube Shorts Showing Up After Fix</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-roundup-unleashing-the-best-5-online-title-makers/"><u>[Updated] 2024 Approved The Ultimate Roundup Unleashing the Best 5 Online Title Makers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/choosing-the-top-10-affordable-image-converters-online-for-2024/"><u>Choosing the Top 10 Affordable Image Converters Online for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/ebxplored-in-apples-latest-operating-system/"><u>Ebxplored in Apple's Latest Operating System</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-tested-and-reviewed-leading-gaming-laptops-for-the-upcoming-year-2024/"><u>Expertly Tested and Reviewed: Leading Gaming Laptops for the Upcoming Year 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-audio-pop-ups-and-cracks-when-using-a-speaker-with-windows-11-or-7-expert-tips-and-tricks/"><u>Fixing Audio Pop-Ups and Cracks When Using a Speaker with Windows 11 or 7: Expert Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209312169-google-chrome-crashes-relaunch-and-fix-your-browser-issues-now/"><u>Google Chrome Crashes? Relaunch and Fix Your Browser Issues Now</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nokia-c300-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nokia C300</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-tackle-windows-11s-persistent-screen-error/"><u>How to Correctly Tackle Windows 11'S Persistent Screen Error</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-8-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-problems-encountered-when-installing-or-updating-your-steam-titles/"><u>How to Fix Problems Encountered When Installing or Updating Your Steam Titles</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-non-responsive-surface-pen-problems-quickly/"><u>How to Resolve Non-Responsive Surface Pen Problems Quickly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/minecraft-woes-fix-bad-driver-issues/"><u>Minecraft Woes: Fix Bad Driver Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-guide-resolve-error-code-0x800f0831-with-simple-windows-update-steps/"><u>Quick Fix Guide: Resolve Error Code 0X800f0831 with Simple Windows Update Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209896242-reviving-your-computers-speed-fix-high-cpu-usage-due-to-shell-infrastructures/"><u>Reviving Your Computer’s Speed – Fix High CPU Usage Due to Shell Infrastructures</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-battery-not-recognized-with-easy-troubleshooting-steps/"><u>Solve 'Battery Not Recognized' With Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/yac569-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a1ymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-ro14/"><u>YAC569 - Yamaha'aturboSound II Sound Module Based on the YMF7A1/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-beginners-blueprint-for-youtube-trailers-via-filmora-for-2024/"><u>[New] The Beginner's Blueprint for YouTube Trailers via Filmora for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-steps-to-disable-auto-recommended-podcasts-in-spotify/"><u>[Updated] Steps to Disable Auto-Recommended Podcasts in Spotify</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-expert-tips-for-efficient-youtube-to-mpeg-transcoding/"><u>2024 Approved Expert Tips for Efficient YouTube-to-MPEG Transcoding</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-instantly-top-performer-wi-fi-drivers-fully-resolved/"><u>Download Instantly: Top Performer Wi-Fi Drivers Fully Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-non-responsive-file-explorer-in-windows-10/"><u>Effective Solutions for Non-Responsive File Explorer in Windows 10</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/effortless-conversion-of-mts-files-to-avi-for-users-on-macoswindows-systems-a-comprehensive-guide/"><u>Effortless Conversion of MTS Files to AVI for Users on macOS/Windows Systems - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-techniques-for-screen-capturing-on-various-os-and-gadgets-for-2024/"><u>Essential Techniques for Screen Capturing on Various OS & Gadgets for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-successfully-restarting-your-steam-bootstrapper-when-it-wont-open/"><u>Expert Guide: Successfully Restarting Your Steam Bootstrapper When It Won't Open</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-overcome-dolby-speaker-connectivity-challenges-on-a-windows-abook-pc/"><u>Expert Tips to Overcome Dolby Speaker Connectivity Challenges on a Windows Abook PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-device-why-surface-isnt-charging-even-when-connected/"><u>Fixing Your Device: Why Surface Isn't Charging Even When Connected</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-asus-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Asus</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-audio-enhancement-issues-a-complete-guide/"><u>How to Fix Windows Audio Enhancement Issues: A Complete Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-motorola-g54-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Motorola G54 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/required-media-device-drivers-identification-and-resolution/"><u>Required Media Device Drivers: Identification and Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-second-display-recognition-problems-in-windows-7/"><u>Step-by-Step Solution for Second Display Recognition Problems in Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-successfully-start-geforce-experience-again/"><u>Troubleshooting Steps to Successfully Start GeForce Experience Again</u></a></li>
 </ul></div>
 

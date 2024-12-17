@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Keyboard Function Keys Failing to Work
-date: 2024-08-22T19:20:23.674Z
-updated: 2024-08-23T19:20:23.674Z
+date: 2024-12-10T17:21:35.650Z
+updated: 2024-12-16T23:55:53.931Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ Otherwise, you need to take a few minutes to read this part.
 
  Then check to see if you can get into the Windows system as usual. If not, don’t worry, try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Way 2:[Enter safe mode](https://tools.techidaily.com/drivereasy/download/)
 
  Safe mode is a diagnostic mode of Windows. When the hard reset doesn’t work, you need to enter Safe mode to trigger the problem. Safe mode will be running with a minimal set of drivers and services which is easier for you to identify the problem.
@@ -61,6 +58,10 @@ Otherwise, you need to take a few minutes to read this part.
 5. [**Repair system files**](#f5)
 6. [**Revert your system from a restore point**](#f7)
 7. [**Reset or reinstall Windows**](#7)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Stop overclocking
 
@@ -93,7 +94,17 @@ There are a few things you should do:
 3. Remove the **memory** from your computer. (Check out the screenshots below to see what memory looks like)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-502.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-503.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Rub the **golden contact** of your memory with an eraser. (This can clean the golden contact of your memory.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Install the memory back to your computer.
 6. Place the cover back to your computer.
 7. Connect the power cable and the battery back to your computer.
@@ -103,18 +114,6 @@ Hopefully, this fix could help you get rid of this issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  The RSOD issue could also relate to wrong and outdated device drivers. If that’s the case for you, you should update your device drivers on your computer. It’s no harm to try.
@@ -143,8 +142,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -164,18 +172,12 @@ OR
 1. On your keyboard, press **the Windows logo key** and **R** at the same time, then copy & paste **msinfo32**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714e5d73e95.png)
 2. In **the information** in **BIOS Version/Date**  and go to the manufacturer’s official website.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Check out the **Support** (or **Download** ) section and search for the latest BIOS update.
 4. Download the file and install it properly.
 5. Restart your computer and check if this **red screen error** appears or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Repair system files
 
  When the system files were broken or corrupted, it may cause the RSOD issue. Here’s how to solve it:
@@ -195,14 +197,8 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -214,22 +210,19 @@ OR
 2. Type**cmd** and press **Shift** +**Ctrl** +**Enter** together on your keyboard to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Restart your computer to check whether the blue screen issue is fixed or not.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Revert your system from a restore point
 
  You can also fix your red screen issue by reverting your Windows system to a previous state. You do this with System Restore. Here’s how:
@@ -240,16 +233,19 @@ The powerful video editing program for your Windows PC</a>
 2. Type **rstrui.exe** in the Run box, then press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-644.png)
 3. Follow the on-screen instructions of the System Restore wizard to restore your system from a restore point.  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-647.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Reset or reinstall Windows
 
  If all else fails, you may have to[reset Windows](https://tools.techidaily.com/drivereasy/download/) , or maybe even[reinstall it](https://tools.techidaily.com/drivereasy/download/) together. We all know reinstalling will delete all the data on your hard drive, you have to[back up all your important files](https://tools.techidaily.com/drivereasy/download/) before doing it.
@@ -268,8 +264,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -277,4 +271,22 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/robing-into-youtube-discussions/"><u>[New] Probing Into YouTube Discussions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-skyrocket-with-subscribers-5-proven-methods-for-igtv-success/"><u>[New] Skyrocket with Subscribers 5 Proven Methods for IGTV Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-seamlessly-upgrading-to-macos-11-big-sur/"><u>[Updated] Step-by-Step Seamlessly Upgrading to macOS 11 Big Sur</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-dancing-to-the-tune-youtubes-hottest-music-video-responses-23/"><u>2024 Approved Dancing to the Tune YouTube's Hottest Music Video Responses, '23</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-the-overuse-of-processor-resources-due-to-windows-audio-graphs/"><u>Addressing the Overuse of Processor Resources Due to Windows Audio Graphs</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-dealing-with-inoperative-usb-gadgets-and-troublesome-port-reset-errors-on-windows-10/"><u>Comprehensive Fixes for Dealing with Inoperative USB Gadgets and Troublesome Port Reset Errors on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-troubleshooting-bypass-steam-disk-writing-errors-with-minimal-hassle/"><u>DIY Troubleshooting: Bypass Steam Disk Writing Errors with Minimal Hassle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-jumpstart-your-disabled-bluetooth-mouse-windows/"><u>How to Jumpstart Your Disabled Bluetooth Mouse (Windows)</u></a></li>
+<li><a href="https://common-error.techidaily.com/livekernelevent-144-mistake-diagnosis-and-solutions-unveiled/"><u>LiveKernelEvent 144 Mistake - Diagnosis and Solutions Unveiled</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-how-facebook-stacks-up-against-twitter-instagram-and-youtube/"><u>Social Media Giants: How Facebook Stacks Up Against Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-for-critical-error-in-applicationexe-stoppage-issue/"><u>Solution Found for Critical Error in Application.exe Stoppage Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-assistance-with-file-explorer-features-in-windows-11/"><u>Step-by-Step Assistance with File Explorer Features in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uncover-10-keys-to-picking-your-perfect-broadcast-platform-for-2024/"><u>Uncover 10 Keys to Picking Your Perfect Broadcast Platform for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-guide-corrective-actions-for-system-file-damage-restoration/"><u>Windows 11 Guide: Corrective Actions for System File Damage Restoration</u></a></li>
+</ul></div>
 

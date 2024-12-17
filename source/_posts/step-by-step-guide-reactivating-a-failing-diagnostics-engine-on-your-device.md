@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reactivating a Failing Diagnostics Engine on Your Device"
-date: 2024-12-05T16:37:15.426Z
-updated: 2024-12-10T20:41:08.581Z
+date: 2024-12-12T16:26:21.709Z
+updated: 2024-12-16T22:27:07.657Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -56,17 +60,13 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
@@ -82,6 +82,11 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
@@ -90,7 +95,7 @@ Follow these steps to reset your Winsock Catalog:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
@@ -107,11 +112,15 @@ Follow these steps to reset your Winsock Catalog:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
@@ -126,16 +135,8 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
@@ -183,24 +184,21 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/he-easy-way-to-mix-and-match-youtube-playlist-order/"><u>[New] The Easy Way to Mix and Match YouTube Playlist Order</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-first-row-fun-beyond-the-game-top-alternatives/"><u>[Updated] 2024 Approved First Row Fun Beyond the Game Top Alternatives</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamerease-screen-recording-on-win11/"><u>[Updated] 2024 Approved StreamerEase Screen Recording on Win11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-unlock-youtubes-enigmentic-video-cache/"><u>[Updated] In 2024, How to Unlock YouTube’s Enigmentic Video Cache</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-leveraging-fb-livestream-for-post-produced-content-dissemination/"><u>2024 Approved Leveraging FB Livestream for Post-Produced Content Dissemination</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-walkthrough-repairing-the-0x80070490-error-during-system-updates-on-windows/"><u>Comprehensive Walkthrough: Repairing the 0X80070490 Error During System Updates on Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-safety-of-buying-gifts-on-tiktok-stores-a-surprisingly-pleasant-transaction-revealed-zdnet-insights/"><u>Exploring the Safety of Buying Gifts on TikTok Stores - A Surprisingly Pleasant Transaction Revealed | ZDNET Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fire-stick-remote-pairing-made-easy-a-comprehensive-instructional/"><u>Fire Stick Remote Pairing Made Easy: A Comprehensive Instructional</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-fix-ethernet-problems-on-your-windows-11-or-windows-7-computer/"><u>How to Diagnose & Fix Ethernet Problems on Your Windows 11 or Windows 7 Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-remote-connection-fixes-overcoming-communication-barriers-with-servers/"><u>Mastering Remote Connection Fixes: Overcoming Communication Barriers with Servers</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-touch-control-on-your-laptop-or-desktop-essential-repair-tips-for-windows-11-enthusiasts/"><u>Mastering Touch Control on Your Laptop or Desktop - Essential Repair Tips for Windows 11 Enthusiasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-mobile-tools-for-dji-footage-enhancement-for-2024/"><u>Premier Mobile Tools for DJi Footage Enhancement for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-excessive-noise-in-playstation-4-consoles-tips-and-tricks/"><u>Resolving Excessive Noise in PlayStation 4 Consoles - Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-function-key-malfunction-on-your-dell-pc-a-step-by-step-guide/"><u>Solving the Function-Key Malfunction on Your Dell PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/speed-up-your-keys-effective-methods-to-fix-laggy-keyboard-performance/"><u>Speed Up Your Keys: Effective Methods to Fix Laggy Keyboard Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-right-click-functionality-in-windows-11-pcs/"><u>Step-by-Step Solution: Restoring Right-Click Functionality in Windows 11 PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-elusive-video-connection-fix-the-no-video-input-detected-issue-today/"><u>Troubleshooting the Elusive Video Connection: Fix the 'No Video Input Detected' Issue Today</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/verhinderung-von-doppelten-fotos-auf-iphone-ein-umfassender-leitfaden-zur-losung/"><u>Verhinderung Von Doppelten Fotos Auf iPhone - Ein Umfassender Leitfaden Zur Lösung</u></a></li>
-<li><a href="https://facebook.techidaily.com/whatsapp-users-stick-to-original-policies-for-uninterrupted-functionality/"><u>WhatsApp Users Stick to Original Policies for Uninterrupted Functionality</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-calm-cadences-non-intrusive-audio-softening-techniques/"><u>[New] In 2024, Calm Cadences Non-Intrusive Audio Softening Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-optimal-focus-techniques-for-videoleap-users/"><u>[New] In 2024, Optimal Focus Techniques for Videoleap Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-pip-features-on-ms-edge/"><u>[New] Mastering PIP Features on MS Edge</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-41-in-windows-kernel-overcome/"><u>Error Code 41 in Windows Kernel Overcome</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-how-to-resolve-geforce-experience-not-syncing-preferences/"><u>Fixing Issues: How to Resolve 'GeForce Experience' Not Syncing Preferences</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-setup-epson-wf-3540-on-windows-free-driver-downloads-available/"><u>How to Setup Epson WF-3540 on Windows - Free Driver Downloads Available</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-decreasing-dwm-driven-gpu-strain-on-your-windows-machine/"><u>Master the Art of Decreasing DWM-Driven GPU Strain on Your Windows Machine</u></a></li>
+<li><a href="https://extra-information.techidaily.com/musical-motifs-and-movie-magic-with-imovie/"><u>Musical Motifs and Movie Magic with iMovie</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-error-code-31-a-comprehensive-guide/"><u>Resolving Windows Error Code 31: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cket-your-video-speed-expert-tips-for-faster-render-and-upload-for-2024/"><u>Skyrocket Your Video Speed Expert Tips for Faster Render & Upload for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-of-slow-or-nonfunctional-file-explorer-in-windows-10/"><u>Step-by-Step Resolution of Slow or Nonfunctional File Explorer in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-tablet-protection-gear-professional-evaluation-of-ideal-ipad-air-safeguards-techreviews-by-zdnet/"><u>Top-Rated Tablet Protection Gear: Professional Evaluation of Ideal iPad Air Safeguards | TechReviews by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-logitech-g930-microphone-dead-spots/"><u>Ultimate Guide: Fixing Logitech G930 Microphone Dead Spots</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unleash-creativity-designing-awe-inspiring-covers-for-instagram-highlights/"><u>Unleash Creativity Designing Awe-Inspiring Covers for Instagram Highlights</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unlocking-filmora-scrn-a-comprehensive-guide-to-desktop-recording/"><u>Updated In 2024, Unlocking Filmora Scrn A Comprehensive Guide to Desktop Recording</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-paste-problem-persists/"><u>Windows 11: Paste Problem Persists</u></a></li>
 </ul></div>
 

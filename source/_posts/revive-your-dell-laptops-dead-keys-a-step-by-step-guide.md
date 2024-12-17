@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Dell Laptop's Dead Keys: A Step-by-Step Guide"
-date: 2024-08-15T11:14:02.419Z
-updated: 2024-08-16T11:14:02.419Z
+date: 2024-12-13T01:12:43.902Z
+updated: 2024-12-16T17:26:47.833Z
 tags:
   - win11
   - win10
@@ -21,13 +21,14 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  Rest assured that you’re not alone – many people have reported the same issue. Usually it’s not that difficult to solve. Just follow this tutorial and do the troubleshooting by yourself!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dell wireless keyboard not working
 
  The first thing you should do is to pinpoint the cause of your issue. Take the steps in the following order:
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Step 1: Check the batteries
 
 1. First of all, look for any**battery tabs** that may prevent your batteries from offering power to the wireless keyboard. Then, make sure you**remove** the tabs.
@@ -36,21 +37,19 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  You may also look at the power status light (if there is one) to determine whether your batteries are functioning well. Generally the light will turn on (solid white) for about 15 seconds and then turn off if your keyboard has received enough power.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Turn on the power
 
  If there’s a power switch on your wireless keyboard, you should check whether you’ve turned it on. Usually you can find that switch at the bottom of your keyboard so make certain that the switch is set to**ON** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3: Plug the USB receiver into another port
 
 **Note** that if you’re using an all-in-one PC, the USB receiver may be preinstalled in it. In this case, you should skip this step and head to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-874.png)
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This is a Dell USB receiver.
 
@@ -70,6 +69,10 @@ This is a Dell USB receiver.
 
  Check to see if your wireless keyboard is working properly now. If not, please proceed to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 5: Connect your keyboard to another computer/laptop
 
  This is a crucial step to determine whether it’s your keyboard or your PC that causes the problem. After connecting your wireless keyboard to another computer/laptop, test the device and see if it works well:
@@ -79,9 +82,6 @@ This is a Dell USB receiver.
 
  In the former scenario, you may go to**Step 6** and take a closer look at your problem; in the latter however, you should visit[Dell Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fcontents%2Fus%2Fen%2F04%2Fcategory%2FContact-Information%3F%7Eck%3Dmn) for technical support or warranty options.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 6: Reconnect your device
 
 * If your USB receiver doesn’t have a**Connect** button on it, you should ignore this step and proceed to the next one. Or you may look for more specific instructions in your user manual on how to reconnect the wireless keyboard to its USB receiver.
@@ -117,10 +117,11 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_10-58-04-3.png)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the keyboard driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-24_12-23-35-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -136,15 +137,19 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 
 1. Right-click any empty space of the**taskbar** that locates at the bottom of your computer screen to open its context menu. Then make sure you enable the**Show touch keyboard button** option.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-13-11.png)
 2. There appears a**keyboard** icon in the notification area on your taskbar. Click the icon to invoke a virtual keyboard.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-19-38.png) ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-23-07.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the**Windows logo** **icon** at the left corner of your taskbar to open the**Start** menu. Then use the virtual keyboard to type**device** into the search box and select the**Device Manager** result.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-24-39.png)
-4. Click the**Keyboards** category to open its drop-down list. Right-click on the keyboard model you’re using and select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-28-38.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Click the**Keyboards** category to open its drop-down list. Right-click on the keyboard model you’re using and select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-28-38.png)
 5. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-31-04-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Wait till the download and installation process finishes.
 7. Click **Close** when it’s all done.
 8. Now your driver has been updated by Windows successfully. Don’t forget to restart your computer for the changes to take effect even if you’re not asked to.
@@ -158,13 +163,12 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 1. Find your way to the official website of Dell, or you may simply click:  
 [https://www.dell.com/en-us](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fen-us)
 2. Move your mouse cursor to the**Support** option located in the upper part of the site. Then select**Drivers & Downloads** from its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-46-51.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 3. Type your keyboard model into the search box if you know it clearly; otherwise you could just type**wireless keyboard** . Usually, you’ll be presented with a list of search suggestions below, so go on to select one from the list according to your keyboard model. (If you don’t know how to invoke a virtual keyboard on your computer, you may refer to Option 2.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-49-45-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. In the next window, make sure you choose the correct edition of your Windows system. Then download all the drivers you need.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-58-29.png)
 5. Open the file where you’ve just downloaded the driver. In most situations, you’ll get a file with an**EXE** extension. Double-click on it and follow the onscreen instructions to install the driver.
 6. Don’t forget to restart your computer for the changes to take effect even if you’re not asked to.
@@ -184,8 +188,6 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +195,22 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-10-ultimate-high-res-4k-mirrorless-cams/"><u>[New] 10 Ultimate High-Res 4K Mirrorless Cams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premium-mkv-player-for-windows-devices/"><u>[New] Premium MKV Player for Windows Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/confirmation-techniques-for-youtube-accounts-for-2024/"><u>Confirmation Techniques for Youtube Accounts for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/deathloop-for-pc-troubleshooting-and-solutions-to-eliminate-stuttering-performance/"><u>Deathloop for PC: Troubleshooting and Solutions to Eliminate Stuttering Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-the-latest-ai-experience-free-gpt-4-all-version-of-chatbot-on-your-windows-machine/"><u>Download the Latest AI: Experience Free GPT-4 All Version of Chatbot on Your Windows Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/festivals-and-rituals/"><u>Festivals and Rituals</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-that-irritatingly-flashing-cursor-on-your-screen-tips-and-tricks/"><u>Fix That Irritatingly Flashing Cursor on Your Screen - Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-laptops-charging-issue-instantly-simple-steps/"><u>Fix Your Laptop's Charging Issue Instantly - Simple Steps!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-implemented-for-pubg-building-rendering-issues-enjoy-uninterrupted-gaming/"><u>Fixes Implemented For PUBG Building Rendering Issues - Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/icue-troubleshooting-made-easy-resolving-undetected-device-errors/"><u>ICUE Troubleshooting Made Easy: Resolving Undetected Device Errors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-poco-c50-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Poco C50 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/key-players-transforming-vr-landscape/"><u>Key Players Transforming VR Landscape</u></a></li>
+<li><a href="https://common-error.techidaily.com/print-screen-key-malfunction-in-windows-1110-solutions-that-work/"><u>Print Screen Key Malfunction in Windows 11/10 – Solutions That Work!</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-to-the-troublesome-disk-read-error-in-windows-10/"><u>The Ultimate Solution to the Troublesome 'Disk Read Error' In Windows 10</u></a></li>
+</ul></div>
 

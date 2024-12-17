@@ -1,7 +1,7 @@
 ---
 title: Optimize Mouse Wheel for PC Gains
-date: 2024-11-29T23:54:44.317Z
-updated: 2024-12-03T19:50:18.402Z
+date: 2024-12-15T16:07:46.983Z
+updated: 2024-12-16T22:36:03.276Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is ntoskrnl.exe?
 
@@ -56,11 +60,11 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
-**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ## Method 1: Disable Windows Search service
 
@@ -71,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 2. Expand**Services and Applications** and click**Services** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/services-and-applications.jpg)
@@ -84,26 +88,22 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 5. Wait for the service to stop, then press**OK** to save the change and exit.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change-6104.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Check incompatible programs
 
  Some users say that this only happens when they use certain programs. Especially when they have antivirus software running in the background. The antivirus software might have some conflicts with certain programs. The next time you encounter this situation, try to pay extra attention to see if you can find the program that is messing with your system. If such a program can be located, try reinstallingit or uninstalling it completely.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Run SFC and DISM
 
  Corrupted system files may cause high CPU and disk usage with ntoskrnl.exe, but luckily, there are two built-in tools that can help to identify and repair such bad system files. The whole process could take some time, and we suggest you don’t run any other programs when doing the test. To run these tools:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.1\. Scan corrupt files with System File Checker
 
@@ -126,6 +126,10 @@ sfc /scannow
  1) On your keyboard, press the**Windows** logo key and**R** at the same time. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -159,15 +163,11 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 3. Go to the following location: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TimeBroker`  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker.png)
 4. On the right side, double-click**Start** , and change its value to**4** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker-4.png)
 5. Restart your computer for the changes to take effect.
@@ -189,22 +189,22 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-budgeting-essentials-for-your-music-video/"><u>[New] In 2024, Budgeting Essentials for Your Music Video</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-enabling-speech-to-text-on-powerpoint-essential-steps/"><u>[New] In 2024, Enabling Speech-to-Text on PowerPoint Essential Steps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-expert-guide-how-to-keep-a-log-of-google-voice-chats/"><u>[Updated] In 2024, Expert Guide How to Keep a Log of Google Voice Chats</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-little-gamers-treasure-trove-of-joy/"><u>[Updated] In 2024, Little Gamers' Treasure Trove of Joy</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-select-websites-propelling-youtube-media/"><u>2024 Approved Select Websites Propelling YouTube Media</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-smooth-integration-of-macos-sierra-on-old-systems/"><u>2024 Approved Smooth Integration of macOS Sierra on Old Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-stalled-steam-update-problem-a-comprehensive-guide/"><u>Fixing the Stalled Steam Update Problem: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-instagram-live-maintaining-privacy-while-streaming/"><u>In 2024, Instagram Live Maintaining Privacy While Streaming</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-real-time-capture-mastery-discover-the-top-4-livestream-strategies/"><u>In 2024, Real-Time Capture Mastery Discover the Top 4 Livestream Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-volume-control-overcoming-the-soundless-challenge-in-forza-horizon-4/"><u>Mastering Volume Control: Overcoming the Soundless Challenge in Forza Horizon 4</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-windows-error-651/"><u>Quick Solutions for Resolving Windows Error 651</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-closed-caption-mishaps-in-windows-10/"><u>Resolving Closed Caption Mishaps in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-the-speakers-expert-guide-to-enabling-audio-on-an-acer-notebook/"><u>Reviving the Speakers: Expert Guide to Enabling Audio on an Acer Notebook</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-failed-to-login-through-user-profile-service/"><u>Step-by-Step Fix for 'Failed to Login Through User Profile Service'</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-a-nonfunctional-usb-mouse-on-your-pc-top-solutions/"><u>Troubleshooting a Nonfunctional USB Mouse on Your PC: Top Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixes-for-geforce-experience-not-starting-correctly/"><u>Troubleshooting Tips: Fixes for GeForce Experience Not Starting Correctly</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-memory-management-issues-in-windows-11-devices/"><u>Understanding and Fixing Memory Management Issues in Windows 11 Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bypass-expenses-relish-films-anywhere-free-player/"><u>[Updated] Bypass Expenses, Relish Films Anywhere (FREE Player)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comprehensive-review-and-overview-of-du-recorder-for-2024/"><u>[Updated] Comprehensive Review and Overview of Du Recorder for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-leveraging-seo-for-youtube-popularity-a-budget-guide/"><u>[Updated] In 2024, Leveraging SEO for YouTube Popularity A Budget Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-new-era-of-authenticity-understanding-the-algorithm-update-for-2024/"><u>[Updated] The New Era of Authenticity Understanding the Algorithm Update for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-oggmp3-video-converter-by-movavi-convert-your-files-easily/"><u>Free Online OGG/MP3 Video Converter by Movavi - Convert Your Files Easily</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-explore-10-prime-video-editing-apps-for-android-and-pc/"><u>In 2024, Explore 10 Prime Video Editing Apps for Android and PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitech-g930-audio-disruption-fixes-comprehensive-guide-to-uninterrupted-sound/"><u>Logitech G930 Audio Disruption Fixes: Comprehensive Guide to Uninterrupted Sound</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premiere-audio-to-text-converters/"><u>Premiere Audio-To-Text Converters</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/realms-of-play-top-10-costless-online-roleplayers-for-2024/"><u>Realms of Play Top 10 Costless Online Roleplayers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-valorants-persistent-screen-tearing-problem-a-comprehensive-walkthrough/"><u>Resolving Valorant's Persistent Screen Tearing Problem - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correcting-the-pc-reset-failure-on-windows-10-platforms/"><u>Step-by-Step Guide to Correcting the PC Reset Failure on Windows 10 Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-fixing-the-freezing-issue-on-your-windows-11-taskbar/"><u>Top Solutions: Fixing the Freezing Issue on Your Windows 11 Taskbar</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-apex-legends-simple-fixes-for-the-anti-cheat-error-solved/"><u>Troubleshooting Apex Legends: Simple Fixes for the Anti-Cheat Error - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-on-windows-7-for-smooth-sounds/"><u>Troubleshooting Audio Issues on Windows 7 for Smooth Sounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-is-my-computer-rebooting-automatically-solutions-for-windows-10/"><u>Why Is My Computer Rebooting Automatically? Solutions for Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-network-malfunction-error-code-0x800704cf-resolved-strategies-for-users/"><u>Windows Network Malfunction [Error Code 0X800704cf] - Resolved Strategies for Users</u></a></li>
 </ul></div>
 

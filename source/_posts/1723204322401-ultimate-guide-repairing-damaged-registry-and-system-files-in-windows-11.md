@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Repairing Damaged Registry & System Files in Windows 11"
-date: 2024-08-22T19:22:11.570Z
-updated: 2024-08-23T19:22:11.570Z
+date: 2024-12-13T00:20:54.533Z
+updated: 2024-12-17T00:11:00.943Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Close unnecessary programs
 
  The first fix you can try is to close the programs running in the background. When you have many apps running at the same time, they may interfere with each other and cause random system bugs. For example, some users reported that they were able to fix the copy-and-paste feature after they turned off or restarted their video players or graphics design software.
@@ -60,31 +64,12 @@ If this fix didn’t help, try the next fix.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Fix 3: Clear clipboard history
 
  When your clipboard cache is full, you may not be able to copy-paste your files or texts. You can delete your clipboard history data to see if it solves the problem, and the steps are easy. Here’s how
@@ -95,6 +80,10 @@ Key features:
 
 If this fix didn’t help, try the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Restart the Windows Explorer process
 
  If the copy-paste bug occurs mostly when you’re sorting and moving your files, then the problem is likely caused by the Windows Explorer process. You can restart this process in Task Manager, here’s how:
@@ -103,11 +92,12 @@ If this fix didn’t help, try the next one.
 2. Under the**Process** tab, find**Windows Explorer** , right-click and**restart** the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Restart RDP Clipboard Monitor
 
  RDP Clipboard Monitor allows the user to share the clipboard between the local and the remote desktop. If this process is not functioning as it’s supposed to, you may encounter a copy-paste problem when you’re using a remote desktop. To fix this, you may need to restart the RDP Clipboard Monitor process:
@@ -117,8 +107,9 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tip: Update your device drivers
 
  In general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -131,13 +122,14 @@ If your problem persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
 ---
@@ -152,8 +144,6 @@ If your problem persists, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +151,24 @@ If your problem persists, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-crafting-audio-narratives-best-backdrop-tunes/"><u>[New] 2024 Approved Crafting Audio Narratives Best Backdrop Tunes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-explore-a-world-of-delicious-treats-top-rated-cookie-shops/"><u>[New] In 2024, Explore a World of Delicious Treats Top-Rated Cookie Shops</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-10-most-shared-stock-photos-and-their-tales/"><u>[New] In 2024, Top 10 Most Shared Stock Photos and Their Tales</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-basic-screen-capture-windows-10-version/"><u>[Updated] Basic Screen Capture, Windows 10 Version</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-edit-with-precision-mastery-of-photoshops-eraser/"><u>[Updated] Edit with Precision Mastery of Photoshop's Eraser</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bank-data-at-risk-the-role-of-gpt-in-todays-cyber-threats/"><u>Bank Data at Risk? The Role of GPT in Today's Cyber Threats</u></a></li>
+<li><a href="https://games-able.techidaily.com/bg3-hardware-requirements-at-a-glance/"><u>BG3 Hardware Requirements at a Glance</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-a-wandering-computer-mouse/"><u>Effortless Fixes for a Wandering Computer Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-resolving-driverpowerstatefailure-malfunctions-efficiently/"><u>Expert Advice: Resolving DRIVER_POWER_STATE_FAILURE Malfunctions Efficiently</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/foremost-companies-pioneering-vr-technology/"><u>Foremost Companies Pioneering VR Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-installation-failed-error-code-800020-step-by-step-guide/"><u>How to Fix Windows 11 Installation Failed Error Code 80#0020 - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/league-of-legends-download-speed-problem-solutions-and-tips/"><u>League of Legends Download Speed Problem: Solutions and Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/swift-download-of-razer-mamba-drivers-simple-steps-inside/"><u>Swift Download of Razer Mamba Drivers - Simple Steps Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205780356-trouble-with-hp-laptop-usb-ports-effective-solutions-at-hand/"><u>Trouble with HP Laptop USB Ports? Effective Solutions at Hand</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-undetected-western-digital-my-passport-ultra-on-your-pc/"><u>Troubleshooting Guide: Fixing Undetected Western Digital My Passport Ultra on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-overcome-the-32-bit-print-driver-host-crashed-issue/"><u>Troubleshooting Success! Overcome the '32-Bit Print Driver Host Crashed' Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-rpc-connection-failures-in-windows-systems/"><u>Troubleshooting Tips for Fixing RPC Connection Failures in Windows Systems</u></a></li>
+</ul></div>
 

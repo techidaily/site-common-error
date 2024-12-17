@@ -1,7 +1,7 @@
 ---
 title: How To Fix Fn Key Not Working
-date: 2024-08-15T11:11:23.229Z
-updated: 2024-08-16T11:11:23.229Z
+date: 2024-12-15T22:36:48.709Z
+updated: 2024-12-17T01:01:53.464Z
 tags:
   - win11
   - win10
@@ -40,20 +40,18 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/DisplayLink-USB-Device.jpg)
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2\. Disable USB Selective Suspend
 
@@ -62,37 +60,43 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 1. On your keyboard, press the Windows + S key at the same time to open the Search box.
 2. Enter**choose a** and select**Choose a power plan** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/power-plan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 3. Select**High Performance** or**Ultimate** (if this option is available).  
 ![high performance](https://images.drivereasy.com/wp-content/uploads/2021/09/high-performance.jpg)
 4. Click**Change plan settings** .  
 ![change usb settings](https://images.drivereasy.com/wp-content/uploads/2021/09/change-plan-settings-usb.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 5. Click**Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![change advanced power settings](https://images.drivereasy.com/wp-content/uploads/2021/09/change-advanced.jpg)
 6. Double click **USB settings** , then double click **USB selective suspend setting** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![usb suspend disabled](https://images.drivereasy.com/wp-content/uploads/2021/09/disabled.jpg)  
 **Note:** If you’re using a laptop, click **On battery** , then click **Disabled** from the drop-down menu.
 7. Click**Apply** \>**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3\. Turn on notification for USB problems
 
  If the methods above failed to solve your problem, you might need to turn on the notification so that you can better troubleshoot the issue. Use[this link to open](ms-settings:usb?activationSource) the USB Notification.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/USB.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can receive error messages when you’re having trouble connecting your devices with the USB C port.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4\. Make sure the charger is working
 
  Another likely reason for USB-C not working on Windows 10 could be **insufficient PC charging** . To avoid this, you should use the charger and cable included with your PC.
@@ -106,9 +110,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
  Although less likely, there is a chance that updating your system could solve your USB port problems. Press the Windows + R to open the Search box and enter check, and then select**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
  Check for updates and it will download and install available updates for you.
 
@@ -125,8 +126,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +133,23 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-complexities-of-chroma-removal-kinemaster-edition/"><u>[Updated] Navigating the Complexities of Chroma Removal (KineMaster Edition)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unleash-creativity-on-instagram-stories-with-branded-emojis/"><u>2024 Approved Unleash Creativity on Instagram Stories with Branded Emojis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/7-fun-online-games-for-kids-to-play/"><u>7 Fun Online Games for Kids to Play</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-the-process-terminated-unexpectedly-error-code-1067-in-microsoft-windows/"><u>Comprehensive Fixes for the 'Process Terminated Unexpectedly' Error (Code 1067) in Microsoft Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/deterring-windows-11-system-crashes/"><u>Deterring Windows 11 System Crashes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-fixes-for-when-windows-cant-locate-the-msvcr80dll-file/"><u>Effective Fixes for When Windows Can’t Locate the Msvcr80.dll File</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-correcting-0x80t72fde-error-on-your-windows-10-device/"><u>Effective Solutions for Correcting 0X80t72FDE Error on Your Windows 10 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-handling-unavailable-components-in-programs/"><u>Effective Solutions for Handling Unavailable Components in Programs</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-a-locked-up-windows-n-update-on-your-pc-step-by-step-guide/"><u>How to Resolve a Locked-Up Windows N Update on Your PC – Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-youtubes-trophy-chain-for-engaged-audiences/"><u>In 2024, YouTube's Trophy Chain for Engaged Audiences</u></a></li>
+<li><a href="https://facebook.techidaily.com/inspection-of-fb-messaging-security-claims/"><u>Inspection of Fb Messaging Security Claims</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-acceleration-trendsetting-with-likes-and-videos/"><u>Instagram Acceleration Trendsetting with Likes & Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/sneak-peek-into-private-digital-discourse-on-fb/"><u>Sneak Peek Into Private Digital Discourse on FB</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-7-exceptional-alarm-clock-apps-for-you/"><u>The Ultimate List: 7 Exceptional Alarm Clock Apps for You</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ftdi-communication-failure-due-to-unsuitable-driver-pairing/"><u>Troubleshooting FTDI Communication Failure Due to Unsuitable Driver Pairing</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-the-challenging-error-code-0x80004005/"><u>Troubleshooting Tips: Overcoming the Challenging Error Code 0X80004^005</u></a></li>
+</ul></div>
 

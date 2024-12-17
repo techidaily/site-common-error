@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Non-Functional Lenovo Function (Fn) Key - Simple Fixes
-date: 2024-08-22T19:18:51.891Z
-updated: 2024-08-23T19:18:51.891Z
+date: 2024-12-09T22:48:21.138Z
+updated: 2024-12-17T00:56:48.376Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 ## Easy Fixes for a Non-Functional USB on an HP Laptop - Now Working
 
 **USB ports not working on HP laptop** ? You’re not alone. Many users have reported the same. But the good news is, you can fix it easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 fixes for USB ports not working on HP laptop
 
@@ -45,13 +49,6 @@ Here’s how:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -59,29 +56,30 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 1. On the keyboard of the target computer, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update the drivers for your USB devices
 
  This problem may occur if you’re using the wrong or outdated USB drivers. So you should update the drivers for your USB devices to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -96,16 +94,14 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -126,8 +122,6 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +129,22 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/astering-youtube-streams-with-simple-obs-guide/"><u>[New] Mastering YouTube Streams with Simple OBS Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-final-cut-pro-unlocked-how-to-edit-for-free/"><u>[Updated] Final Cut Pro Unlocked How to Edit for Free</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-hassles-simple-repair-techniques-for-winodws-error-ebd-c0fe3897-b4f0-4aa5-a8e1-2dd5d3cbcefa/"><u>Bypassing the Hassles: Simple Repair Techniques for Winodws Error Ebd-C0fe3897-B4f0-4aa5-A8e1-2dd5d3cbcefa</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-issues-with-your-dell-laptops-usb-interface/"><u>Diagnosing and Correcting Issues with Your Dell Laptop's USB Interface</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-mic-working-again-on-a-laptop-running-windows-tenth-edition/"><u>How to Get Your Mic Working Again on a Laptop Running Windows Tenth Edition</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-of-imovie-alternatives-for-windows-10-users/"><u>In 2024, The Ultimate List of iMovie Alternatives for Windows 10 Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-websites-for-extracting-youtube-intros/"><u>Leading Websites for Extracting YouTube Intros</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-your-entertainment-a-comprehensive-look-at-the-2020-lenovo-tab-m10-fhd-plus/"><u>Maximizing Your Entertainment: A Comprehensive Look at the 2020 Lenovo Tab M10 FHD Plus</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-guide-to-speedy-shutdown-on-windows-10-systems/"><u>Quick Fix Guide to Speedy Shutdown on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-err-too-many-redirects-no-hassle-solutions-inside/"><u>Quick Fixes for ERR TOO MANY REDIRECTS - No Hassle Solutions Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-pc-lag-in-the-deathloop-game/"><u>Resolved: Fixes for PC Lag in The Deathloop Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-the-feature-update-failure-in-windows-11-build-1803/"><u>Resolved: Troubleshooting the Feature Update Failure in Windows 11 Build 1803</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-mirroring-your-ipad-screen-on-a-samsung-smart-tv/"><u>Step-by-Step Guide: Mirroring Your iPad Screen on a Samsung Smart TV</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-aw-snap-issue-in-google-chrome/"><u>Troubleshooting the 'Aw, Snap!' Issue in Google Chrome</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlock-the-full-potential-of-your-pcgaming-with-obs/"><u>Unlock the Full Potential of Your PC/Gaming with OBS</u></a></li>
+</ul></div>
 

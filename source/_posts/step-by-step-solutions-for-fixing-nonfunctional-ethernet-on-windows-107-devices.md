@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Fixing Nonfunctional Ethernet on Windows 10/7 Devices
-date: 2024-11-27T19:17:03.503Z
-updated: 2024-12-04T05:51:32.145Z
+date: 2024-12-10T00:35:10.475Z
+updated: 2024-12-16T21:25:04.840Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 1: Check if the device itself is faulty**
 
  If the USB device was working before you upgraded to Windows 10, it’s unlikely to be faulty. But coincidences do occur. It’s certainly_possible_ that your device just happened to die right at the same time that you upgraded Windows. So it’s best to rule that possibility out for sure before spending time on more complex troubleshooting.
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 4) Plug the power supply back in
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -66,13 +66,13 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
 
@@ -82,12 +82,16 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
@@ -104,22 +108,18 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 5: Check your USB ports**
 
@@ -142,17 +142,16 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-elite-arena-showdown-best-of-the-royales/"><u>[New] Elite Arena Showdown Best of the Royales</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-chuckle-chronicles-hilarious-meme-crafting-simplified/"><u>[Updated] In 2024, Chuckle Chronicles Hilarious Meme Crafting Simplified</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-the-ultimate-guide-to-tiktok-video-enhancements-on-mac-for-2024/"><u>[Updated] The Ultimate Guide to TikTok Video Enhancements on Mac for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-continuous-halt-issues-in-computers-a-users-handbook/"><u>Diagnosing & Repairing Continuous Halt Issues in Computers – A User's Handbook</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-premium-gigabyte-surround-sound-drivers-at-no-charge/"><u>Get Premium Gigabyte Surround Sound Drivers at No Charge</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-pop-8-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Pop 8 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-missing-bluetooth-feature-problems-in-windows-10-with-easy-fixes/"><u>Overcome Missing Bluetooth Feature Problems in Windows 10 with Easy Fixes!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209848761-9780985565909-purification-of-the-heart/"><u>Purification of the Heart | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-winsvr-server-role-failed-smb-signing-requirements-error-x0x800706b7/"><u>Quick Solutions for Resolving WinSvr Server Role Failed: SMB Signing Requirements Error - X0x800706B7</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/y-setup-procedures-for-personalized-youtube-shorts-images-for-2024/"><u>Speedy Setup Procedures for Personalized YouTube Shorts Images for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-minecraft-loading-on-your-windows-machine-heres-the-solution-fixed/"><u>Trouble with Minecraft Loading on Your Windows Machine? Here's the Solution! [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-tutorial-deactivate-touchpad-when-connected-to-a-mouse/"><u>Windows 11 Tutorial: Deactivate Touchpad When Connected to a Mouse</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-whiteboard-tech-in-online-classes-ios-android-and-macbooks/"><u>[New] 2024 Approved Mastering Whiteboard Tech in Online Classes IOS, Android, and MacBooks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ut-down-catch-more-the-best-url-reducers-for-youtube/"><u>[New] Cut Down, Catch More The Best URL Reducers for YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-step-by-step-inserting-chapters-in-vimeo-videos/"><u>[New] In 2024, Step-by-Step Inserting Chapters in Vimeo Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-windows-driver-efficiency-lowering-high-cpu-impact/"><u>Enhancing Windows Driver Efficiency: Lowering High CPU Impact</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-the-fujitsu-scansnap-ix1400-a-must-have-scanner-for-home-office-and-small-business-needs/"><u>Expert Analysis on the Fujitsu ScanSnap iX1400: A Must-Have Scanner for Home Office & Small Business Needs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-11-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme 11 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-0x80240034-issue-on-your-windows-11-pc/"><u>Resolving the 0X80240034 Issue on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-airdrop-in-no-time-effective-fixes-for-common-connectivity-errors/"><u>Revive AirDrop in No Time: Effective Fixes for Common Connectivity Errors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlining-your-workflow-with-zooms-pre-meeting-protocol/"><u>Streamlining Your Workflow with Zoom's Pre-Meeting Protocol</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-the-complete-fix-for-the-notorious-windows-update-error-0x8024002e/"><u>Troubleshoot & Repair: The Complete Fix for the Notorious Windows Update Error 0X8024002E</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unlocking-the-potential-of-screen-sharing-on-google-meet-for-2024/"><u>Unlocking the Potential of Screen Sharing on Google Meet for 2024</u></a></li>
 </ul></div>
 

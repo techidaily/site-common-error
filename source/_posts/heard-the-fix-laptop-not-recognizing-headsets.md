@@ -1,7 +1,7 @@
 ---
 title: "Heard The Fix: Laptop Not Recognizing Headsets"
-date: 2024-12-02T00:17:58.492Z
-updated: 2024-12-04T07:09:42.824Z
+date: 2024-12-12T16:16:56.548Z
+updated: 2024-12-16T22:34:10.671Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Show hidden devices in Device Manager](#fix-1)**
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 3. **[Update the touchpad driver](#fix-2)**
 4. **[Configure the BIOS settings](#fix-3)**
 5. **[Repair corrupt files](#fix-4)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Show hidden devices in Device Manager
 
@@ -45,6 +45,11 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 2. Click**View** and select**Show hidden devices** from the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/view-show-hidden-devices.jpg)
 3. Go on to click**Action** and select**Scan for hardware changes** from the pop-up menu  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Action-scan-for-hardware-changes.jpg)
 4. Restart your PC for the trick to take effect.
 
@@ -52,22 +57,14 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Settings-devices.jpg)
 6. Check if**Touchpad** is in the Devices list now. If it does, click the toggle to**On** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Settings-touchpad.jpg)  
  If it doesn’t, sorry that this fix doesn’t work for you, move on to try the next below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Add the touchpad driver back manually
 
@@ -77,12 +74,12 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, select the first line (your computer name), then click **Action** on the menu bar and select **Add legacy hardware** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click **Next**  to move on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)**  and click **Next** .  
@@ -93,9 +90,17 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/Show-All-Devices.png)
 6. As mentioned, two of the most popular touchpad manufacturers are**Elan** and**Synaptics** , so you can select one of them on the**Manufacturer** list on the left side, and then see if you can find the touchpad device on the right side. Sometimes, you may also need to check if your touchpad is listed under the**Microsoft** umbrella. You can also try your laptop manufacturer’s name, like Acer, Asus, HP Dell, etc., to see if your touchpad is listed under them.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/legacy-device-driver.png)
 
  If you still can’t find your touchpad in this way, please move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update the touchpad driver
 
@@ -106,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 OR
 
 **[Option 2 – Automatically (recommended)](#option-2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1 – Download and install the driver manually
 
@@ -138,6 +139,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Configure the BIOS settings
 
  Whenever your computer is booted, the BIOS is the first to be activated for operating system loading and device data reading. For some reason, your touchpad may be disabled in the BIOS and therefore can’t be displayed in Device Manager. So you might need to check your BIOS and set it to default. Here’s how:
@@ -164,7 +169,7 @@ Assigned BIOS hotkey
 3. Once done, press the key next to**Save** and**Exit** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer to see if the issue is fixed.
@@ -182,10 +187,6 @@ Assigned BIOS hotkey
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/fortect-download-page-1.jpg)
 2. Open Fortect and it will run a FREE scan of your PC. You’ll see a complete overview of your system and issues once the scan is finished.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click**Start Repair** if Fortect detects any missing or broken system files or other issues  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
@@ -228,15 +229,24 @@ Hot Accessories
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elite-8-digital-stars-on-the-rise/"><u>[New] In 2024, Elite 8 Digital Stars on the Rise</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209980060-solved-windows-10-wont-shut-down-restarts-instead/"><u>[Solved] Windows 10 Won't Shut Down, Restarts Instead</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/abbyy-crowned-top-performer-by-everest-group-in-the-2020-idp-peak-matrix/"><u>ABBYY Crowned Top Performer by Everest Group in the 2020 IDP Peak Matrix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899749582-currently-hot-shows-on-max-you-cant-miss/"><u>Currently Hot Shows on MAX You Can't Miss</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-guide-to-overcome-the-troublesome-network-error-0x800704cf-in-windows/"><u>Effortless Guide to Overcome the Troublesome Network Error 0X800704cf in Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-exciting-innovations-in-the-new-iphone-16-pro-a-tech-lovers-dream-come-true/"><u>Top 5 Exciting Innovations in the New iPhone 16 Pro: A Tech Lover's Dream Come True!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722998362474-troubleshoot-your-steam-sign-in-problem-successful-techniques-that-work/"><u>Troubleshoot Your Steam Sign-In Problem: Successful Techniques That Work!</u></a></li>
-<li><a href="https://common-error.techidaily.com/turn-off-the-troublesome-pause-during-playtime/"><u>Turn Off the Troublesome Pause During Playtime</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-troubleshooting-for-copy-and-paste-errors/"><u>Windows 10 Troubleshooting for Copy and Paste Errors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-artistic-image-alteration-methods/"><u>[Updated] Artistic Image Alteration Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-cross-monitors-data-synthesis-for-2024/"><u>[Updated] Cross-Monitors Data Synthesis for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-banner-templates-for-youtube-downloads-and-makers-for-2024/"><u>[Updated] Free Banner Templates for YouTube Downloads & Makers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-address-recovered-from-a-failed-display-driver-operation-error-messages/"><u>Effective Solutions to Address 'Recovered From a Failed Display Driver Operation' Error Messages</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-execution-with-ms-project-shortcuts/"><u>Efficient Execution with MS Project Shortcuts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ending-that-annoying-popping-sound-while-using-windows-heres-how/"><u>Ending That Annoying Popping Sound While Using Windows – Here’s How!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-error-0x80070426-on-windows-11/"><u>Fix Error 0X80070426 on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/gameplay-chronicles-proven-techniques-for-recording-your-sims-epic-saga-in-sims-4/"><u>Gameplay Chronicles Proven Techniques for Recording Your Sim's Epic Saga in Sims 4</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-failures-heres-how-to-get-it-working-again/"><u>HP Wireless Keyboard Failures? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-guide-for-unity-initialization-graphics-mishaps/"><u>Resolved: Troubleshooting Guide for Unity Initialization Graphics Mishaps</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-unfreezing-file-explorer-in-windows-10/"><u>Step-by-Step Solutions: Unfreezing File Explorer in Windows 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamlined-process-altering-video-direction-in-vlc-for-2024/"><u>Streamlined Process Altering Video Direction in VLC for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-for-a-non-responsive-razer-keyboard/"><u>Troubleshooting: Fixes for a Non-Responsive Razer Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-ineterr-resource-not-found-challenges-in-it-systems/"><u>Understanding and Fixing [InetErr] Resource Not Found Challenges in IT Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-the-mystery-understanding-unexpected-restarts-in-your-windows-10-pc/"><u>Unlock the Mystery: Understanding Unexpected Restarts in Your Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/vcruntime140dll-file-absent-heres-how-to-fix-it-and-start-your-program-in-windows-10/"><u>VCRUNTIME140.dll File Absent? Here's How to Fix It and Start Your Program in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206300964-windows-11-users-say-goodbye-to-skype-video-problems-with-these-easy-fixes/"><u>Windows 11 Users, Say Goodbye to Skype Video Problems with These Easy Fixes!</u></a></li>
 </ul></div>
 

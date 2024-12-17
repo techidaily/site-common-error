@@ -1,7 +1,7 @@
 ---
 title: Fix Error 0X80070426 on Windows 11
-date: 2024-12-08T17:46:53.270Z
-updated: 2024-12-10T18:32:08.976Z
+date: 2024-12-14T00:00:14.760Z
+updated: 2024-12-16T19:10:07.141Z
 tags:
   - win11
   - win10
@@ -30,13 +30,13 @@ When you fail to access another computer of the same network, or when you cannot
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fix 0x800704cf error when connecting to a network PC**
 
 ![Fix 0x800704cf error when connecting to a network PC](https://images.drivereasy.com/wp-content/uploads/2020/08/case1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s very frustrating when you want to access another network PC to share files or perform specific tasks but are interrupted by the 0x800704cf error. No worries. You can follow the guide below to put things back on track.
 
@@ -67,7 +67,7 @@ When you fail to access another computer of the same network, or when you cannot
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Uncheck**Client for Microsoft Networks** , and click**OK** .
@@ -77,10 +77,6 @@ When you fail to access another computer of the same network, or when you cannot
  Restart your device and check if the 0x800704cf goes away. If not, continue with the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Reset TCP/IP
 
@@ -94,10 +90,6 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-3-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** In the command prompt window, type in the following commands and press the **Enter** key after each command.
 
 ipconfig /flushdns
@@ -109,10 +101,6 @@ netsh winsock reset
 netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that the DNS cache is cleared, NetBIOS entries are refreshed, and both the IP settings and Winsock catalog is reset, you should reboot your computer for the changes to take effect. After that, check if the issue persists; if yes, head towards the last fix.
 
@@ -131,7 +119,7 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Double-click**Network adapters** to view all the devices under this category.
@@ -141,6 +129,10 @@ netsh int ip reset
 **4)** Right-click a device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-5-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click**Uninstall** .
 
@@ -152,9 +144,17 @@ netsh int ip reset
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 0x800704cf error when accessing the Microsoft Store**
 
 ![Fix 0x800704cf error when accessing the Microsoft Store on Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/08/error-case-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you fail to access the Microsoft Store on Windows 10 or 11, this 0x800704cf error will appear. It implies you’re not connected to the Internet, even though you are, as you can use the browser and other applications normally. But don’t worry; here’s a list of fixes that can help.
 
@@ -163,7 +163,7 @@ netsh int ip reset
 3. **[Reset the Microsoft Store](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Sign in with Microsoft account
@@ -183,7 +183,7 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Enter your**account** and**password** to sign in.
@@ -226,6 +226,10 @@ netsh int ip reset
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Reset the Microsoft store
 
  If your Microsoft isn’t working properly for whatever reason, one of the solutions is clearing the stored data and resetting it back to the default.
@@ -250,6 +254,10 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-5-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open your Microsoft Store, and the 0x800704cf error won’t be disturbing you anymore.
 
  Network issue like 0x800704cf error is a common PC problem but it’s insufferable. There’s so much you can’t do without the Internet, and even worse, you can’t search a solution to fix it. If you’ve frequently run into this kind of issues such as no or slow Internet access, be sure to check our bonus tips below.
@@ -272,19 +280,11 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to the flagged network driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -315,22 +315,18 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elite-writers-of-aural-narratives/"><u>[New] 2024 Approved Elite Writers of Aural Narratives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-peek-through-the-curtain-viewers-disguised-commentaries/"><u>[New] Peek Through the Curtain Viewers' Disguised Commentaries</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-tips-for-effective-youtube-end-screen-usage/"><u>[Updated] In 2024, Tips for Effective YouTube End Screen Usage</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/boost-your-pcs-speeds-swiftly-essential-hardware-components-worthy-of-an-upgrade/"><u>Boost Your PC's Speeds Swiftly: Essential Hardware Components Worthy of an Upgrade</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-pcs-media-malfunction-find-and-apply-the-missing-vital-driver/"><u>Fix Your PC's Media Malfunction - Find and Apply the Missing Vital Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-minecraft-crashes-caused-by-incompatible-video-card-drivers-in-windows-systems/"><u>How to Fix Minecraft Crashes Caused by Incompatible Video Card Drivers in Windows Systems!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-control-functionality-on-your-pc-with-windows-10/"><u>How To Restore Brightness Control Functionality On Your PC With Windows 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 13</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-troubleshooting-of-windows-11-and-10-stuck-on-rebooting-step-by-step-guide/"><u>Master the Troubleshooting of Windows 11 and 10 Stuck on Rebooting: Step-by-Step Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-audiovisual-precision-how-to-refine-sound-quality-by-eliminating-ambient-noises-in-premiere-pro/"><u>New Audiovisual Precision How to Refine Sound Quality by Eliminating Ambient Noises in Premiere Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-hurdle-of-windows-error-0x80240017-for-successful-system-update/"><u>Overcoming the Hurdle of Windows Error 0X80240017 for Successful System Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/ps4-control-deck-wont-charge-discover-effective-fixes-now/"><u>PS4 Control Deck Won't Charge? Discover Effective FIXES Now</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/telecharger-gratuitement-un-dvd-en-zone-2-ou-region-5-au-format-video-le-plus-recent/"><u>Télécharger Gratuitement Un DVD en Zone 2 Ou Région 5 Au Format Vidéo Le Plus Récent</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-continuous-crashes-in-warframe-for-pc-players/"><u>Troubleshooting Continuous Crashes in Warframe for PC Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steams-unavailable-game-updates/"><u>Troubleshooting Steam's Unavailable Game Updates</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/eling-mukbang-the-art-of-feast-filled-vlogs/"><u>Unraveling Mukbang The Art of Feast-Filled Vlogs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-sharing-the-vibe-how-to-post-tiktok-videos-to-facebook/"><u>[New] In 2024, Sharing the Vibe How to Post TikTok Videos to Facebook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-next-gen-game-viewing-top-5-hdmi-21-infinity-refresh-rates/"><u>[Updated] In 2024, Next-Gen Game Viewing Top 5 HDMI 2.1 Infinity Refresh Rates</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unveiling-the-art-of-closer-views-on-microsoft-teams-for-2024/"><u>[Updated] Unveiling the Art of Closer Views on Microsoft Teams for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-guide-to-atandts-international-data-roaming-rules/"><u>A Guide to AT&T's International Data Roaming Rules</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-resource-limits-exceeded-error-messages/"><u>Comprehensive Fixes for 'Resource Limits Exceeded' Error Messages</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-repairing-broken-ethernet-connections-for-windows-117-users/"><u>Expert Tips: Repairing Broken Ethernet Connections for Windows 11/7 Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-list-of-serene-pc-gaming/"><u>In 2024, The Ultimate List of Serene PC Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-error-5-has-occurred-in-windows-1078-a-comprehensive-guide/"><u>Resolving 'Error 5 Has Occurred' In Windows 10/7/8 - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-step-by-step-guide-to-fixing-windows-update-error-code-0x8024402c/"><u>Resolving the Issue: Step-by-Step Guide to Fixing Windows Update Error Code 0X8024402C</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-usb-ports-fail-issues-for-windows-10-and-11-users/"><u>Solving 'USB Ports Fail' Issues for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-recover-failed-steamuidll-load/"><u>Techniques to Recover Failed Steamui.dll Load</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-in-windows-10-how-to-restore-volume-controls/"><u>Troubleshooting Audio Issues in Windows 10 - How to Restore Volume Controls</u></a></li>
 </ul></div>
 

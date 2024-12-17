@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Boots and Startups Issues in Windows 10: Solutions to Unfreezing Your PC"
-date: 2024-12-09T19:48:34.518Z
-updated: 2024-12-10T18:15:46.472Z
+date: 2024-12-13T20:55:22.946Z
+updated: 2024-12-16T19:56:00.059Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ If your desktop icons somehow disappear on your Windows 10 computer, don’t wor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these tips
 
 You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,6 +35,10 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -47,11 +47,11 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Tip 2: Check your desktop icon settings
 
@@ -59,18 +59,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -91,10 +83,6 @@ start explorer.exe
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -103,6 +91,10 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
@@ -113,10 +105,6 @@ If your desktop icons still don’t show up, you can perform a system restore to
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 5: Reset your computer
 
 If the steps above didn’t work for you. Resetting your computer is worth a try. It fixed the desktop icon issue for some users.
@@ -125,14 +113,18 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -149,8 +141,16 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -175,19 +175,22 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-streamlining-media-transfer-fb-video-to-whatsapp/"><u>[Updated] Streamlining Media Transfer FB Video to WhatsApp</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unique-identity-creation-accessible-logo-base-and-personal-customization-for-no-cost/"><u>2024 Approved Unique Identity Creation Accessible Logo Base & Personal Customization for No-Cost</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-youtubes-go-to-lighting-kit-17-picks-reviewed/"><u>2024 Approved YouTube's Go-To Lighting Kit - #17 Picks Reviewed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chromecast-mastery-how-to-successfully-connect-and-use-your-casting-remote/"><u>Chromecast Mastery: How To Successfully Connect and Use Your Casting Remote</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205884697-fix-d3dxt939dll-error-not-found-heres-how-to-solve-it-effectively/"><u>Fix d3dxt9_39.dll Error Not Found? Here's How to Solve It Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-how-to-restore-night-light-feature-on-windows-11/"><u>Fix: How to Restore Night Light Feature on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-update-or-repair-a-missing-widevine-content-decryption-module-on-pcs/"><u>How to Update or Repair a Missing Widevine Content Decryption Module on PCs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-evaluation-djis-latest-drone-the-inspire-1/"><u>In 2024, Full Evaluation DJI's Latest Drone, The Inspire 1</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-13-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 13 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/security-patch-applied-reinforce-devices-internal-identity-validation-protocols/"><u>Security Patch Applied: Reinforce Device's Internal Identity Validation Protocols</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-fitness-journey-with-these-8-innovative-chatgpt-add-ons/"><u>Transform Your Fitness Journey with These 8 Innovative ChatGPT Add-Ons</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-10-8-and-7-complete-fix-guide/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 10, 8 & 7: Complete Fix Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/uncovering-the-currency-behind-product-discussions/"><u>Uncovering the Currency Behind Product Discussions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warzone-winning-tactics-solving-the-perplexing-dev-error-e5573-on-your-gaming-console-and-pc/"><u>Warzone Winning Tactics: Solving the Perplexing Dev Error E5573 on Your Gaming Console and PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-gameplay-videos-the-ultimate-collection-of-freefire-tags-for-2024/"><u>[New] Elevate Your Gameplay Videos The Ultimate Collection of FreeFire Tags for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamline-your-zoom-meetings-screen-sharing-essentials-for-2024/"><u>[New] Streamline Your Zoom Meetings Screen Sharing Essentials for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-legends-integrating-machine-learning-for-dandd-characters/"><u>Crafting Legends: Integrating Machine Learning for D&D Characters</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-your-steam-network-communication-problems/"><u>Diagnosing and Repairing Your Steam Network Communication Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-non-responsive-clipboard-in-windows-10/"><u>Diagnosing Non-Responsive Clipboard in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-to-overcome-fatal-video-errors-caused-by-dxgkrnl-on-windows/"><u>Essential Tips to Overcome Fatal Video Errors Caused by Dxgkrnl on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-windows-installation-issues-solve-could-not-complete-installation-in-minutes/"><u>Fix Your Windows Installation Issues: Solve 'Could Not Complete Installation' In Minutes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-semaphore-time-out-problems-for-error-code-0x80070x/"><u>How To Correct 'Semaphore Time Out' Problems for Error Code 0X80070^X</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-your-gameplay-a-comprehensive-review-of-the-asus-rog-rapture-gt-ax11000-gaming-router-with-lightning-fast-speeds/"><u>Maximizing Your Gameplay: A Comprehensive Review of the ASUS ROG Rapture GT-AX11000 Gaming Router with Lightning Fast Speeds</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-say-cheese-16-best-apps-to-convert-your-photos-into-cartoons/"><u>New Say Cheese! 16 Best Apps to Convert Your Photos Into Cartoons</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-ultimate-fixes-for-when-windows-10-audio-sliders-just-wont-work/"><u>Solved! The Ultimate Fixes for When Windows 10 Audio Sliders Just Won't Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-mastering-the-art-of-keyboard-reset/"><u>Step-by-Step Guide: Mastering the Art of Keyboard Reset</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tap-into-audience-desires-strategies-for-video-templates/"><u>Tap Into Audience Desires Strategies for Video Templates</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-non-responsive-hard-drive-in-windows-10-solutions-at-hand/"><u>Troubleshooting a Non-Responsive Hard Drive in Windows 10 - Solutions at Hand</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Restore Display of Bluetooth in Computer Settings
-date: 2024-08-22T19:20:37.335Z
-updated: 2024-08-23T19:20:37.335Z
+date: 2024-12-14T01:26:20.767Z
+updated: 2024-12-16T20:48:53.314Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 4. **[Update your battery driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update your BIOS](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your battery
 
  In many cases, a poor connection between the battery and motherboard is the root cause of this issue. To see if that’s the problem for you, you need to reinstall your battery. Here is how to do it:
@@ -42,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Check your battery in Device Manager
 
  You might also have this problem because your battery is disabled in Device Manager. So you should run Device Manager to check your battery status. Here is how:
@@ -52,27 +57,22 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 **3)** Double-click**Batteries,** and then check if your battery is disabled.
 
  If you see a**down arrow** next to your battery, that means your battery is disabled. You need to right-click your battery and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  If this didn’t help, don’t fret. There are still 3 more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Fix 3: Run the power troubleshooter
 
  When battery problems occur, running the Windows power troubleshooter is another solution that can fix them quickly. Follow the instructions below:
@@ -93,12 +93,13 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Power** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click**Next** .
 
@@ -112,11 +113,23 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Power,** and then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your battery driver
 
@@ -136,9 +149,6 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 5: Update your BIOS
@@ -151,28 +161,14 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Type **msinfo32** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **4)** Go to your BIOS manufacturer’s support website and download the latest update.
 
 **5)**  Open the update file and follow the on-screen instructions to install it.
@@ -194,8 +190,6 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +197,24 @@ thumbnail: https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-easy-steps-to-screen-save-your-work-in-windows-8/"><u>[New] Easy Steps to Screen Save Your Work in Windows 8</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-complete-2023-youtubers-handbook-for-rotated-content/"><u>[New] The Complete 2023 Youtuber's Handbook for Rotated Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-microphone-not-working-on-windows-11/"><u>[Solved] Microphone Not Working on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premiere-10-warzone-clashes/"><u>2024 Approved Premiere 10 Warzone Clashes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-spotlight-play-how-to-stand-out-with-youtube-gaming/"><u>2024 Approved Spotlight Play How to Stand Out with YouTube Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/command-unexecuted-standstill/"><u>Command Unexecuted: Standstill</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s24plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy S24+ to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-free-open-source-video-conferencing-solutions-the-ultimate-list-for-corporates-and-schools/"><u>In 2024, Free, Open Source Video Conferencing Solutions The Ultimate List for Corporates & Schools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-safaris-full-page-screenshot-hiccups-expert-tips-and-tricks/"><u>Resolving Safari's Full Page Screenshot Hiccups: Expert Tips and Tricks</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionizing-console-gaming-a-comprehensive-review-of-the-playstation-pros-4k-capabilities/"><u>Revolutionizing Console Gaming: A Comprehensive Review of the PlayStation Pro's 4K Capabilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-laptop-trackpad-malfunctions-for-windows-1187-users-with-these-simple-steps/"><u>Solve Laptop Trackpad Malfunctions for Windows 11/8/7 Users with These Simple Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-graphics-card-with-no-alpha-blending-support/"><u>Troubleshooting Guide for Graphics Card with No Alpha Blending Support</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-error-1053-how-to-ensure-services-start-promptly/"><u>Troubleshooting Steps for Error 1053: How to Ensure Services Start Promptly</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208356444-unlocking-screen-mirroring-on-your-device-upgraded-graphics-drivers-make-it-possible/"><u>Unlocking Screen Mirroring on Your Device: Upgraded Graphics Drivers Make It Possible!</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-overheat-and-crash-intervention/"><u>Win11 Overheat & Crash Intervention</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-configuration-stuck-heres-how-you-can-fix-it-effectively/"><u>Windows Configuration Stuck? Here's How You Can Fix It Effectively!</u></a></li>
+</ul></div>
 

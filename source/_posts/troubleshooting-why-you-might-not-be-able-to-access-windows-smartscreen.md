@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Why You Might Not Be Able To Access Windows SmartScreen"
-date: 2024-12-01T05:01:01.090Z
-updated: 2024-12-04T00:53:09.886Z
+date: 2024-12-15T00:12:56.974Z
+updated: 2024-12-16T20:22:29.842Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ The good news is, you can fix it easily!
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your sound driver
 
  Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
@@ -58,7 +62,7 @@ The good news is, you can fix it easily!
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
@@ -70,16 +74,12 @@ To do so:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
@@ -90,7 +90,7 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
@@ -101,10 +101,6 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
@@ -124,12 +120,16 @@ Here’s how:
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
@@ -156,17 +156,14 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-simplified-guide-effortless-ipad-screen-recording-techniques/"><u>[New] 2024 Approved Simplified Guide Effortless iPad Screen Recording Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fundamentals-of-narrative-crafting/"><u>[Updated] Fundamentals of Narrative Crafting</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-the-timeout-expired-semaphore-problem-0x80070079/"><u>Comprehensive Fixes for the 'Timeout Expired' Semaphore Problem (0X80070079)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/discovering-the-best-screen-recorder-obs-studio-vs-fraps-for-2024/"><u>Discovering the Best Screen Recorder OBS Studio Vs Fraps for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/emulate-hand-held-shooting-effects-in-ps/"><u>Emulate Hand-Held Shooting Effects in PS</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-eliminate-delay-in-your-computer-keyboard-input-instantly/"><u>Expert Advice: Eliminate Delay in Your Computer Keyboard Input Instantly</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-edge-40-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Edge 40 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-essential-tips-for-using-zoom-with-xbox/"><u>In 2024, Essential Tips for Using Zoom with Xbox</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-disk-usage-by-curtailing-microsofts-telemetry-features-in-windows-11/"><u>Optimizing Disk Usage by Curtailing Microsoft's Telemetry Features in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-system-performance-by-reducing-msmpengineexe-cpu-drainage-in-windows-10/"><u>Optimizing System Performance by Reducing MsMpEngine.exe CPU Drainage in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-correcting-keyboard-typos-practical-tips-and-advice/"><u>Understanding and Correcting Keyboard Typos - Practical Tips & Advice</u></a></li>
-<li><a href="https://solve-news.techidaily.com/winxvideo-ai-comprehensive-multimedia-editor-upgrade-your-videos-with-upscaling-recording-and-more/"><u>Winxvideo AI: Comprehensive Multimedia Editor – Upgrade Your Videos with Upscaling, Recording and More</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-prime-streaming-platforms-for-authors/"><u>[New] Prime Streaming Platforms for Authors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-urban-unleashed-best-matches-to-grand-theft-auto-v/"><u>[Updated] 2024 Approved Urban Unleashed Best Matches to Grand Theft Auto V</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-engage-with-panache-the-best-20-creative-tiktok-captions-to-try-for-2024/"><u>[Updated] Engage with Panache The Best 20 Creative TikTok Captions to Try for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-voice-transformers-top-7-android-audio-apps/"><u>2024 Approved Best Voice Transformers Top 7 Android Audio Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-timely-service-responses-avoiding-error-1053/"><u>Expert Solutions for Timely Service Responses – Avoiding Error 1053</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-system-files-is-retaining-msdia80dll-necessary-for-your-pcs-health/"><u>Navigating System Files: Is Retaining msdia80.dll Necessary for Your PC's Health?</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-hp-laptops-dead-usb-troubleshooting-and-fixes/"><u>Revive Your HP Laptop's Dead USB: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-windows-11-stalling-issues-effectively/"><u>Troubleshooting Tips: Resolving Windows 11 Stalling Issues Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/jcom-stream/"><u>スムーズにJ:COM STREAMで視聴したい！記録方法ガイド</u></a></li>
 </ul></div>
 

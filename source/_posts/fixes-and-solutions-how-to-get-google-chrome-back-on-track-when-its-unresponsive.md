@@ -1,7 +1,7 @@
 ---
 title: "Fixes & Solutions: How To Get Google Chrome Back On Track When It's Unresponsive"
-date: 2024-11-28T04:16:39.309Z
-updated: 2024-12-03T20:26:35.541Z
+date: 2024-12-09T17:45:31.374Z
+updated: 2024-12-17T01:52:15.390Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
@@ -47,12 +47,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -103,10 +107,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -122,13 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -143,7 +143,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -184,14 +184,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-postpresence-mastering-photo-and-video-sizing-on-instagram/"><u>[New] In 2024, PostPresence Mastering Photo and Video Sizing on Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-no-more-misfires-dxgidll-secured/"><u>[PUBG] No More Misfires - Dxgi.dll Secured</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-superior-live-streaming-and-conferencing-apps/"><u>[Updated] In 2024, Superior Live Streaming & Conferencing Apps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-s23-tactical-edition-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy S23 Tactical Edition without App | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cross-platform-iptv-adaptability/"><u>Cross-Platform IPTV Adaptability</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-mend-corrupted-files-in-windows-11-using-system-file-check-sfc-and-deployment-image-servicing-dism/"><u>Effective Strategies to Mend Corrupted Files in Windows 11 Using System File Check (SFC) & Deployment Image Servicing (DISM)</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-eliminating-cod-wwii-error-4220-the-ultimate-fix-checklist/"><u>Expert Tips for Eliminating COD WWII Error 4220 - The Ultimate Fix Checklist</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-11-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 11 Pro With or Without Password</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-error-messages-in-kodi-a-comprehensive-guide-to-smooth-streaming/"><u>Resolving Error Messages in Kodi - A Comprehensive Guide to Smooth Streaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-a-complete-walkthrough-of-vlc-capture-settings/"><u>[New] In 2024, A Complete Walkthrough of VLC Capture Settings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamlining-screen-recording/"><u>[New] In 2024, Streamlining Screen Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ideas-for-soundless-video-preservation-for-2024/"><u>[Updated] Ideas for Soundless Video Preservation for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-video-doorbell-under-50-the-iseebell-review/"><u>Affordable Video Doorbell Under $50 - The ISeeBell Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bard-ai-elevates-experience-with-7-new-exciting-functions-showcased-at-google-io-2023/"><u>Bard AI Elevates Experience with 7 New Exciting Functions Showcased at Google I/O 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/lost-in-no-sense-fix-your-sd-card/"><u>Lost in No-Sense: Fix Your SD Card</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211108508-next-generation-tkis-have-been-developed-to-overcome-some-forms-of-resistance/"><u>Next-Generation TKIs Have Been Developed to Overcome some Forms of Resistance.</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-issue-origin-gaming-platform-configuration-troubleshooting/"><u>Resolve the Issue: Origin Gaming Platform Configuration Troubleshooting</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-ethernet-connectivity-issues-a-guide-for-users-of-windows-10-and-7/"><u>Solving Ethernet Connectivity Issues: A Guide for Users of Windows 10 and 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/subscribe-to-success-4-indispensable-audible-benefits/"><u>Subscribe to Success: 4 Indispensable Audible Benefits</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-complete-fixing-applicationexe-has-stopped-working/"><u>Troubleshooting Complete: Fixing 'Application.exe Has Stopped Working'</u></a></li>
 </ul></div>
 

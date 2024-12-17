@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Out of Memory Errors - Overcoming System Resource Limitations"
-date: 2024-08-15T11:11:38.989Z
-updated: 2024-08-16T11:11:38.989Z
+date: 2024-12-16T01:19:02.313Z
+updated: 2024-12-16T20:08:58.445Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Read on this page and follow the steps:
 1. [Disable the full screen optimization of your game application](https://tools.techidaily.com/drivereasy/download/)
 2. [Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Disable the full screen optimization of your game application
 
  This error happens mostly due to the automatic full screen optimization. You can solve it by easily disable the full screen optimization.
@@ -44,6 +48,10 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a75563e4f956.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on your game .exe file and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7556d9700b6.png)
@@ -52,11 +60,12 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7557a69aaf6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Relaunch your game application to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Update your graphics card driver
 
  This error could be also cause by an outdated, corrupted or missing graphics card driver. You can solve it through updating your graphics card driver. What’s more,**for the best gaming performance** , you should keep your device driver, especially the graphics card driver up-to-date.
@@ -72,8 +81,9 @@ To do that, please follow these easy steps:
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755a27bdf2b.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged graphics card driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -81,8 +91,9 @@ To do that, please follow these easy steps:
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755f4db1724.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer to make the new driver take effect, and relaunch your game to see if it works now.
@@ -95,8 +106,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +113,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/he-editors-codex-innovations-in-youtube-video-formatting/"><u>[New] The Editor's Codex Innovations in Youtube Video Formatting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlimited-picture-pools-the-best-10-resources/"><u>[New] Unlimited Picture Pools The Best 10 Resources</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-the-concealed-cause-for-non-video-alerts-on-fb/"><u>[New] Unveiling the Concealed Cause for Non-Video Alerts on FB</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-out-the-100-complete-theta-s-study/"><u>2024 Approved Inside Out The 100% Complete Theta S Study</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-invisible-pointers-heres-how-you-can-restore-it-on-windows/"><u>Dealing with Invisible Pointers? Here's How You Can Restore It on Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/eradicating-screen-clutter-for-seamless-zoom-and-meet-sessions-for-2024/"><u>Eradicating Screen Clutter for Seamless Zoom & Meet Sessions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-resolving-xbox-one-headset-connectivity-issues/"><u>Expert Advice: Resolving Xbox One Headset Connectivity Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-touchpad-scrolling-in-windows-11-a-step-by-step-troubleshooting-guide/"><u>How to Restore Touchpad Scrolling in Windows 11: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-print-screen-functionality-solutions-for-windows-1110-issues/"><u>Mastering the Print Screen Functionality: Solutions for Windows 11/10 Issues</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-mac-video-editing-made-easy-a-beginners-guide-to-movie-creation-for-2024/"><u>New Mac Video Editing Made Easy A Beginners Guide to Movie Creation for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/quick-guide-how-to-migrate-and-recover-backups-between-computers-using-windows-server-20122008/"><u>Quick Guide: How to Migrate and Recover Backups Between Computers Using Windows Server 2012/2008</u></a></li>
+<li><a href="https://common-error.techidaily.com/whats-stopping-your-minecraft-lan-game-common-issues-and-easy-fixes-unveiled/"><u>What's Stopping Your Minecraft LAN Game? Common Issues & Easy Fixes Unveiled</u></a></li>
+</ul></div>
 

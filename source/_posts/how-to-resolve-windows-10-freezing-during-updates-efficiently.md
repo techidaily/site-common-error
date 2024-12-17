@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Windows 10 Freezing During Updates Efficiently
-date: 2024-12-08T18:19:47.609Z
-updated: 2024-12-10T22:58:23.595Z
+date: 2024-12-15T01:50:41.091Z
+updated: 2024-12-16T19:23:13.904Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -32,10 +36,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -55,13 +55,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -72,11 +72,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
@@ -95,16 +100,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -114,6 +111,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -122,12 +123,12 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -152,24 +153,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-efficient-use-of-obs-with-zoom-video-platform-for-2024/"><u>[Updated] Efficient Use of OBS with Zoom Video Platform for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/boosting-mac-efficiency-through-ventura-os-x-update/"><u>Boosting Mac Efficiency Through Ventura OS X Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-audio-renderer-interruptions-during-youtube-streaming-on-windows-11/"><u>Expert Tips for Repairing Audio Renderer Interruptions During YouTube Streaming on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-latest-buzz-around-the-new-xbox-vr-setup-pricing-insights-and-release-forecasts/"><u>Exploring the Latest Buzz Around the New Xbox VR Setup: Pricing Insights & Release Forecasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-lenovo-mouse-pad-malfunctioning-on-windows-1187-step-by-step-guide/"><u>Fix: Lenovo Mouse Pad Malfunctioning on Windows 11/8/7 – Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/glimpse-into-the-new-era-of-laptops-leaked-visuals-reveal-ai-powered-qualcomm-snapdragon-inside-next-gen-dell-xps-and-inspiron-notebooks-expected-this-fall.1/"><u>Glimpse Into the New Era of Laptops – Leaked Visuals Reveal AI-Powered Qualcomm Snapdragon Inside Next-Gen Dell XPS & Inspiron Notebooks, Expected This Fall</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-right-click-functions-when-your-windows-10-mouse-fails/"><u>How to Restore Right-Click Functions When Your Windows 10 Mouse Fails</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-free-videography-templates/"><u>In 2024, Getting Started Free Videography Templates</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-the-troublesome-livekernelevent-117-error/"><u>Mastering the Fix for the Troublesome LiveKernelEvent 117 Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207984741-overcome-the-windows-update-error-0x8024402c-with-ease-detailed-solutions-inside/"><u>Overcome the Windows Update Error (0X8024402c) with Ease - Detailed Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-error-writing-failed-to-0x-referenced-memory-location-understanding-fixes/"><u>Resolved Error: Writing Failed to 0X Referenced Memory Location - Understanding Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-extended-semaphore-connection-timed-out-error-error-code-0x80070079/"><u>Resolved: Extended Semaphore Connection Timed Out Error (Error Code 0X80070079)</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-connection-issues-in-monster-hunter-world-on-pc/"><u>Resolved: Fixing Connection Issues in Monster Hunter World on PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-reasonable-choice-for-tech-enthusiasts-in-depth-review-of-the-new-apple-iphone-se-2020/"><u>The Reasonable Choice for Tech Enthusiasts: In-Depth Review of the New Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-restoring-visible-bluetooth-devices-in-your-computers-device-manager/"><u>Troubleshooting Steps for Restoring Visible Bluetooth Devices in Your Computer's Device Manager</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-resolving-issues-with-non-responsive-mac-applications/"><u>Troubleshooting Steps: Resolving Issues with Non-Responsive Mac Applications</u></a></li>
-<li><a href="https://facebook.techidaily.com/visual-storytelling-creating-collages-for-facebook-narratives/"><u>Visual Storytelling: Creating Collages for Facebook Narratives</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-transform-your-hdr-images-into-professional-grade-time-lapses-with-gopro-studio/"><u>[Updated] 2024 Approved Transform Your HDR Images Into Professional-Grade Time Lapses with GoPro Studio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-kinemaster-tutorial-for-epic-memes/"><u>[Updated] KineMaster Tutorial for Epic Memes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-videoeditorpro-comprehensive-analysis-and-reviews/"><u>[Updated] VideoEditorPro Comprehensive Analysis & Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-performers-top-10-innovative-4k-mirrorless-models-for-2024/"><u>Best Performers Top 10 Innovative 4K Mirrorless Models for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-itel-a70-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Itel A70 Fingerprint Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-solutions-for-fixing-error-code-0x8024002e-during-windows-updates/"><u>Definitive Solutions for Fixing Error Code 0X8024002E During Windows Updates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawlessbackgroundfixer-premium-photo-editing-app/"><u>In 2024, FlawlessBackgroundFixer Premium Photo Editing App</u></a></li>
+<li><a href="https://common-error.techidaily.com/masterclass-ensuring-your-airpods-work-seamlessly-on-windows-tips-for-the-modern-tech-enthusiast/"><u>Masterclass: Ensuring Your AirPods Work Seamlessly on Windows (Tips for the Modern Tech Enthusiast )</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-meta-store-how-to-add-new-titles-to-your-oculus-quest-2-library/"><u>Navigating the Meta Store: How to Add New Titles to Your Oculus Quest 2 Library</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-correcting-the-unhandled-exception-0xc00e0005-issue-in-windows-os/"><u>Step-by-Step Tutorial: Correcting the Unhandled Exception (0xC00e0005) Issue in Windows OS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209856380-9780999742921-the-way/"><u>The Way | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-fixing-the-file-not-found-or-inaccessible-error-on-your-windows-machine/"><u>Tips for Fixing the 'File Not Found or Inaccessible' Error on Your Windows Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-unresponsive-ctrlplusaltplusdel-keys-easily/"><u>Troubleshoot and Resolve Unresponsive Ctrl+Alt+Del Keys Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-laptop-keyboards-for-windows-users-win-10-8-and-7/"><u>Troubleshooting and Repairing Laptop Keyboards for Windows Users [WIN 10, 8 & 7]</u></a></li>
 </ul></div>
 

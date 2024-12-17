@@ -1,7 +1,7 @@
 ---
 title: How to Fix USB Ports Not Working Issue. Easily
-date: 2024-12-07T21:32:42.425Z
-updated: 2024-12-10T17:31:32.890Z
+date: 2024-12-13T23:19:39.521Z
+updated: 2024-12-16T19:50:07.611Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Hold down the power button
 
  The easiest way that may resolve the problem is**hold down the power button for 30 seconds or so** . This will discharge the capacitor. After that, reboot PC and check to see if the problem is resolved.  
@@ -49,6 +53,10 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 **IMPORTANT:** You’ll need to use a keyboard or a mouse to try any of below solutions. . If your usb keyboard or mouse stops working, use a PS2 keyboard instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows swtiches your USB controllers off when they’re not in use, and switches back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again. controller or the devices.
@@ -62,16 +70,12 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b3d657b3f.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click the first USB Root Hub device in the list, and click the **Power Management**  tab. (If you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4911321a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Un-check the **Allow the computer to turn off this device to save power** checkbox, and click **OK**  .  
@@ -80,10 +84,6 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 
  5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 4: Check your device drivers**
 
@@ -100,7 +100,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb32c9a931.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -110,7 +110,7 @@ Here take Intel USB 3.0 driverf for example:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb3367beb7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -128,18 +128,16 @@ Here take Intel USB 3.0 driverf for example:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-ideal-websites-for-accessing-free-licensed-audio-files/"><u>[New] 2024 Approved Ideal Websites for Accessing Free, Licensed Audio Files</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-poco-x6-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Poco X6 Pro Device SIM</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-guide-eliminate-the-error-of-missing-d3dx939dll-file-on-your-computer/"><u>Fix Guide: Eliminate the Error of Missing D3DX9_39.dll File on Your Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guia-paso-a-paso-conversion-de-archivo-ifo-a-mp4-en-windows-y-mac/"><u>Guía Paso a Paso: Conversión De Archivo IFO a MP4 en Windows Y Mac</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-find-and-download-the-right-toshibe-driver-for-your-windows-printer/"><u>How To Find And Download The Right Toshibe Driver For Your Windows Printer</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-erratic-screen-behavior-in-windows-11-a-comprehensive-guide/"><u>How to Stop Erratic Screen Behavior in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-gt-neo-5-se-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme GT Neo 5 SE Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-woes-repairing-damaged-up-down-left-and-right-arrow-keys/"><u>Keyboard Woes: Repairing Damaged Up, Down, Left and Right Arrow Keys</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-art-of-fixing-windows-11s-troublesome-bluetooth-a-2024-guide/"><u>Master the Art of Fixing Windows 11'S Troublesome Bluetooth: A 2024 Guide</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/new-features-and-improvements-in-the-latest-version-of-winx-hd-video-converter-for-mac/"><u>New Features and Improvements in the Latest Version of WinX HD Video Converter for Mac</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/l-broadcast-battleground-fb-live-yt-live-twitvision/"><u>Social Broadcast Battleground FB Live, YT Live, TwitVision</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-common-issues-with-remote-procedure-calls-solutions-inside/"><u>Troubleshooting Common Issues with Remote Procedure Calls – Solutions Inside</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-fixing-a-lost-rockaldlldll-error-message/"><u>Troubleshooting Tips for Fixing a Lost Rockaldll.dll Error Message</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-add-music-to-facebook-videos-find-the-guide-here-for-2024/"><u>[New] How to Add Music to Facebook Videos? Find The Guide Here for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[New] In 2024, Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600423390-stellar-data-recovery-windows/"><u>無料のStellar Data Recoveryソフトウェア: Windows用データを完全に復元できます</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-guide-for-usb-devices-that-wont-recognize-device-descriptions/"><u>Comprehensive Solution Guide for USB Devices That Won’t Recognize Device Descriptions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/editando-videos-en-perfeccionamiento-adquira-la-herramienta-mas-segura-para-windows-and-mac-con-descuentos-que-no-puedes-perderse/"><u>Editando Videos en Perfeccionamiento - Adquira La Herramienta Más Segura Para Windows & Mac Con Descuentos Que No Puedes Perderse.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/experts-selection-best-full-screen-recorders-for-pc-and-mac/"><u>Expert's Selection Best Full-Screen Recorders for PC and Mac</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-14-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from 14</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-laptops-persistent-blackwhite-screen-problem/"><u>Solving the Laptop's Persistent Black/White Screen Problem</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic-5-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic 5</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-guide-addressing-windows-inaccessible-file-or-drive-alerts/"><u>The Ultimate Fix Guide: Addressing Windows' Inaccessible File or Drive Alerts</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-cryptic-error-code-0x80004005-expert-tips-for-resolution/"><u>Troubleshooting the Cryptic Error Code 0X80004005: Expert Tips for Resolution</u></a></li>
 </ul></div>
 

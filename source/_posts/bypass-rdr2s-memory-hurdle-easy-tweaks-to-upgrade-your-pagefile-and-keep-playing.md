@@ -1,7 +1,7 @@
 ---
 title: Bypass RDR2's Memory Hurdle - Easy Tweaks to Upgrade Your Pagefile and Keep Playing
-date: 2024-12-07T17:10:16.445Z
-updated: 2024-12-10T18:07:07.395Z
+date: 2024-12-10T20:28:51.247Z
+updated: 2024-12-17T01:54:20.318Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
 If this didn’t work for you, read on and check the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run the Windows Update troubleshooter
 
  When update errors occur, another quick fix you can choose is running the Windows Update troubleshooter.
@@ -60,21 +56,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-43-28.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-43-38.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Select **Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-43-47.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Select**Windows Update,** and then click **Run the troubleshooter.**
 
@@ -92,16 +84,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_14-10-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type**services** , then press the**Enter key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-44-18.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Double-click**Windows Update** .
@@ -112,10 +100,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-46-54.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** On your keyboard, press the**Windows logo** key and**R** at the same time to open the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-47-04.jpg)
@@ -124,15 +108,27 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-47-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Press and hold the**Shift** key on your keyboard, then click**DataStore** and**Download** to highlight these two folders.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-47-24.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Right-click**the highlighted folders,** and then click**Delete** .
 
  If you’re prompted for permissions, select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-47-34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** On your keyboard, press the**Windows logo** key and**R** .
 
@@ -143,7 +139,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-44-18.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **11)** Right-click**Windows Update** and select**Start** .
@@ -153,10 +149,6 @@ Here is how to do it:
 **12)** Restart your computer and perform a system update to see if your problem has been resolved.
 
 If not, check the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files using Command Prompt
 
@@ -170,6 +162,10 @@ If not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-51-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Type **sfc.exe /scannow** , then press the **Enter**  key on your keyboard.
 
  This process could take several minutes. Please wait for it to be complete.
@@ -177,12 +173,16 @@ If not, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-51-15.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Type **dism.exe /online /cleanup-image /startcomponentcleanup** , then press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-51-23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Type **dism.exe /online /cleanup-image /restorehealth** , then press the **Enter** key on your keyboard.
 
@@ -210,20 +210,22 @@ If not, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-prime-15-luts-to-perfect-gopro-cinematic-shots-for-2024/"><u>[New] Prime 15 LUTs to Perfect GoPro Cinematic Shots for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-channels-standing-with-these-tactics-for-2024/"><u>[Updated] Elevate Your Channel's Standing with These Tactics for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-finessing-your-profiles-first-look/"><u>2024 Approved Finessing Your Profile's First Look</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-unlocking-youtubes-subscriber-potential-in-30-days/"><u>2024 Approved Unlocking YouTube's Subscriber Potential in 30 Days</u></a></li>
-<li><a href="https://facebook.techidaily.com/complete-record-compilation-how-to-archive-your-facebook-life/"><u>Complete Record Compilation: How to Archive Your Facebook Life</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204171759-fix-the-too-many-redirects-error-instantly-simple-solutions/"><u>Fix the 'Too Many Redirects' Error Instantly - Simple Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-driver-issues-on-your-computer-for-smooth-windows-operation-a-step-by-step-guide/"><u>Fixing Driver Issues on Your Computer for Smooth Windows Operation - A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-gain-access-adjusting-file-permissions-via-trustedinstaller/"><u>How to Gain Access: Adjusting File Permissions via TrustedInstaller</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-realme-gt-5-240w-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Realme GT 5 (240W) ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-5-best-ps3-emulator-for-pc-2023/"><u>In 2024, Top 5 Best Ps3 Emulator For PC 2023</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-ie-tips-for-fixing-the-browser-has-stopped-working/"><u>Revive Your IE: Tips for Fixing the 'Browser Has Stopped Working'</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-reviving-broken-32-bit-applications-print-driver-host/"><u>Solution Found: Reviving Broken '32-Bit Applications Print Driver Host'</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-incorrect-side-by-side-configuration-on-windows-10-comprehensive-guide-and-fixes/"><u>Solve 'Incorrect Side-by-Side Configuration' On Windows 10 - Comprehensive Guide and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-repairing-windows-defender-security-center-malfunctions-wrp-trouble/"><u>Understanding and Repairing Windows Defender Security Center Malfunctions: WRP Trouble</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-boosting-sale-traffic-top-15-fb-analysis-tools-reviewed/"><u>[New] The Ultimate Guide to Boosting Sale Traffic Top 15 FB Analysis Tools Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-comparing-m1-powered-laptops-to-videographers-needs/"><u>[Updated] Comparing M1-Powered Laptops to Videographers' Needs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-samsungs-competitors-top-gear-360-alternative-cameras-of-the-year-for-2024/"><u>[Updated] Samsung’s Competitors Top Gear 360 Alternative Cameras of the Year for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-avoiding-edgenuitys-grasp-tips-for-quickly-skipping-video-lessons/"><u>2024 Approved Avoiding Edgenuity's Grasp Tips for Quickly Skipping Video Lessons</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-detection-problems-solved-a-guide-for-windows-11-users/"><u>Bluetooth Detection Problems Solved: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-solved-accessing-cwindowssystem32configsystemprofiledesktop-errors-corrected/"><u>Error Solved: Accessing C: Windows system32 config systemprofile Desktop Errors Corrected</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restart-your-diagnostic-policy-service-if-its-not-active/"><u>Expert Tips to Restart Your Diagnostic Policy Service if It's Not Active</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-s17t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo S17t to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-tools-ais-role-in-scholarship/"><u>Innovative Tools: AI's Role in Scholarship</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-revolutionize-your-mobile-videos-with-these-text-animation-apps/"><u>New In 2024, Revolutionize Your Mobile Videos with These Text Animation Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-crashes-in-total-war-rome-remastered-discover-our-proven-fix-now/"><u>No More Crashes in Total War Rome Remastered! Discover Our Proven Fix Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-mystery-detailed-fixes-for-windows-camera-error-0xa00f4292/"><u>Resolving the Mystery: Detailed Fixes for Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-directx-device-creation-errors-a-comprehensive-approach-to-graphical-hardware-initialization/"><u>Solving DirectX Device Creation Errors: A Comprehensive Approach to Graphical Hardware Initialization</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-windows-resource-protection-failed-to-start-messages/"><u>Step-by-Step Guide to Repairing 'Windows Resource Protection Failed to Start' Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-screen-casting-onto-your-lg-flat-panel/"><u>Step-by-Step Instructions for Screen Casting Onto Your LG Flat Panel</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-lowering-gpu-consumption-by-desktop-window-manager-in-windows-11/"><u>Troubleshooting Techniques: Lowering GPU Consumption by Desktop Window Manager in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your PC: Fixing the WUDFHost.exe CPU Usage Surge in Windows nX"
-date: 2024-11-29T21:57:50.715Z
-updated: 2024-12-04T04:43:43.653Z
+date: 2024-12-10T02:17:41.184Z
+updated: 2024-12-16T23:42:51.077Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Fixes for MsMpEng.exe Eating Up Too Much CPU
@@ -38,27 +38,27 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 2. **[Disable Real-Time Protection and reschedule your Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Use the Local Group Policy Editor to turn off Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Prevent Windows Defender from scanning its own folder**
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Virus & threat protection settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484832a46a2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to the bottom and click**Add or remove exclusions** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4848b874e63.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Add an exclusion** \>**Folder** .
 
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4849bf2c80f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
 
 ### **Fix 2: Disable Real-Time Protection and r** **eschedule your Windows Defender**
@@ -80,17 +76,21 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the bottom, double-click on**Windows Defender** , then right-click on**Windows Defender Scheduled Scan** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48254c26e3f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the**General** tab, un-check**the box** before**Run with highest privileges** .
 
@@ -99,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48462bea585.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click the**Triggers** tab >**New…** .
 
@@ -111,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
@@ -122,21 +126,17 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4829b314bed.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on **Computer Configuration** \>**Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Locate and double-click on**Windows Defender Antivirus** (aka. **Windows Defender** , same as below). Then double-click on **Turn off Windows Defender Antivirus** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
@@ -167,18 +167,22 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fabricate-personalized-viral-memes/"><u>[New] Fabricate Personalized Viral Memes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-masterclass-in-design-upgrading-igtv-backgrounds/"><u>[New] In 2024, Masterclass in Design Upgrading IGTV Backgrounds</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-playbook-for-splitting-views-in-facebook-livestreams/"><u>2024 Approved The Ultimate Playbook for Splitting Views in Facebook Livestreams</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tricks-to-start-your-intel-rst-service-again-overcoming-windows-10-setbacks/"><u>Expert Tricks to Start Your Intel RST Service Again – Overcoming Windows 10 Setbacks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experts-picks-for-the-most-value-packed-gamer-laptops-of-the-year-pcmagazine/"><u>Experts' Picks for the Most Value-Packed Gamer Laptops of the Year | PCMagazine</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-weave-of-wisdom-mastering-looms-tech/"><u>In 2024, The Weave of Wisdom Mastering Loom's Tech</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/r-the-craft-essential-filmmaking-advice-from-youtube-pros/"><u>Master the Craft Essential Filmmaking Advice From YouTube Pros</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-update-unavailable-issue-step-by-step-fix-guide/"><u>Resolving 'Windows Update Unavailable' Issue: Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-instructions-for-syncing-your-xbox-one-controller-when-connected-to-a-pc-or-console/"><u>Step-by-Step Instructions for Syncing Your Xbox One Controller When Connected to a PC or Console</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-restore-five-tips-for-solving-touchscreen-issues-in-windows-10/"><u>Troubleshoot and Restore: Five Tips for Solving Touchscreen Issues in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-missing-bluetooth-devices-in-windows-11-without-hassle/"><u>Troubleshoot Missing Bluetooth Devices in Windows 11 Without Hassle</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-integrity-of-windows-11-system-components/"><u>Troubleshooting Tips: Restoring Integrity of Windows 11 System Components</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ted-no-more-top-7-android-apps-to-eliminate-ads/"><u>Unwanted No More! Top 7 Android Apps to Eliminate Ads</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-a-youtubing-brand-from-scratch-with-these-8-courses-for-2024/"><u>Building a YouTubing Brand From Scratch with These 8 Courses for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-the-vcruntime140dll-is-missing-error-with-these-simple-steps/"><u>Bypass the 'VCRuntime140.dll Is Missing' Error with These Simple Steps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/election-excitement-5-best-voting-simulators-for-2024/"><u>Election Excitement 5 Best Voting Simulators for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205897576-how-to-fix-critical-process-died-for-tibrtipsexe-on-windows-versions-11-7-and-8-solved/"><u>How to Fix Critical Process Died for TIBRTIPS.EXE on Windows Versions (11, 7 & 8) - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-failed-to-create-d3d-device-error-solutions-included/"><u>How to Overcome 'Failed to Create D3D Device' Error - Solutions Included</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-90-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor 90 Pro Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-windows-setup-stuck-issue-a-step-by-step-guide/"><u>Solving the 'Windows Setup Stuck' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-how-to-fix-the-system-restore-failed-with-code-0x80-error-on-windows-11/"><u>Step-by-Step Solution: How to Fix the 'System Restore Failed with Code 0X80' Error on Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/strong-authentication-protocols/"><u>Strong Authentication Protocols</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-tutorial-infusing-motion-blur-into-faces-using-picsart/"><u>The Essential Tutorial Infusing Motion Blur Into Faces Using Picsart</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210755698-troubleshoot-and-fix-non-functional-microphone-on-google-hangouts-fast/"><u>Troubleshoot and Fix Non-Functional Microphone on Google Hangouts Fast!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-error-code-0xa00f4292-on-windows-pc/"><u>Troubleshooting Guide: Fixing Error Code 0xA00F4292 on Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-service-is-not-running-error-in-diagnostic-policy/"><u>Troubleshooting Steps: Resolving 'Service Is Not Running' Error in Diagnostic Policy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-durecorder-handbook-insights-and-evaluation-for-2024/"><u>Ultimate DuRecorder Handbook Insights & Evaluation for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unveiling-the-power-of-azure-voice-recognition-api-for-2024/"><u>Unveiling the Power of Azure Voice Recognition API for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/your-path-to-perfect-iphone-hdr-photos/"><u>Your Path to Perfect iPhone HDR Photos</u></a></li>
 </ul></div>
 

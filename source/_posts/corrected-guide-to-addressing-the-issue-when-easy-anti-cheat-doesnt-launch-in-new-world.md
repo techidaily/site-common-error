@@ -1,7 +1,7 @@
 ---
 title: "[CORRECTED] Guide to Addressing the Issue When Easy Anti-Cheat Doesn't Launch in New World"
-date: 2024-08-22T19:17:55.132Z
-updated: 2024-08-23T19:17:55.132Z
+date: 2024-12-14T22:43:33.732Z
+updated: 2024-12-16T19:19:43.737Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 
  We provide corresponding solutions below aiming to solve this issue. Read on and have a try.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1 Run Windows Update troubleshooter
 
  Windows troubleshooter is a built-in feature to find and fix things not working on your PC. If you get an error code while downloading and installing Windows update, you can always turn to the Update Troubleshooter for help. Here’s how:
@@ -53,19 +50,17 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 1. Type**troubleshoot** in the Windows search box, and click**Troubleshoot settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-1.jpg)
 2. Click**Additional troubleshooters** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-3.jpg)
 3. Choose**Windows Update** and then**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-2.jpg)
 
  Wait for a while until Windows troubleshooters detect and fix the problems for you. After it finishes, check if the error code 0x800f0922 still persists. If it does, go ahead and try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Fix 2 Check partition size
 
  Windows require a minimum**500 MB** space in the system reserved partition for the system update. So it’s necessary to extend the partition size for a successful update if the partition space is scarce. To check your system reserved partition available size:
@@ -75,9 +70,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. In the pop-up windows, check if your system reserved partition space meets the 500 MB requirement.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If it fits the requirement, skip this method and try[other methods](#fix-3) .
 
  If the space is not enough, use a**free partition tool** to extend the partition size. Most online partition tools support formatting, deleting, moving, resizing, splitting, and merging partitions. Just simply choose, download and install one like[MiniTool Partition Wizard](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&id=driveeasyen165827&url=https%3A%2F%2Fwww.minitool.com%2Fpartition-manager%2Fpartition-wizard-home.html) , and follow its instruction to resize your partition size.
@@ -85,8 +77,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  After resizing the system reserved partition, try to process the Windows update again. If the error code hasn’t been removed, scroll down and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3 Check network connection
 
  Weak network connection and VPN make it slow and unstable to connect to Microsoft Windows Update server. These may get you an update error code. Here we recommend restarting your router and turning off VPN temporarily:
@@ -106,18 +99,17 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Type**Windows features** in the search box and click**Turn Windows features on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-5.jpg)
 2. Check any box related to**.NET Framework** and click**OK** to save the change.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-6.jpg)
 3. A pop-up Window appears and choose**Let Windows Update download the files for you** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-17.jpg)
 4. Windows will download the required files and install those features for you.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-18.jpg)
 5. Reboot your computer.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  After rebooting, try to run the upgrade again to see if error 0x800f0922 disappears. If not, try the next trick.
 
@@ -128,27 +120,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Type**defender firewall** and select**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-7.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-8.jpg)
 3. Turn off Windows Defender Firewall temporarily for**domain** ,**private** and**public** network settings. Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-9.jpg)
 4. Try updating now.
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **IMPORTANT** : Remember to**turn on** the firewalls after you finish the update. Be extra careful in using the Internet during this period as your security may be endangered.
 
 If the error code is still there, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6 Repair system files
 
  Damaged, missing or corrupted system files hinder the successful process of Windows update. Your system also needs those intact and healthy files to maintain good running. So we suggest you scan and repair your system files regularly. There are two options to reach that:
@@ -166,11 +151,12 @@ To use Fortect to repair your system files:
 2. Launch Fortect and run a**free scan** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. To automatically fix all the issues, click**Start Repair** (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer for the changes to take effect.
 
@@ -181,8 +167,17 @@ Restart your computer for the changes to take effect.
 1. Type**cmd** in the search box and click**Run as administrator** to launch Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 2. Type**sfc /scannow** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 3. The scan can take up to 15 minutes, so wait patiently and check if the problem is still there after the scan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you fail to run an SFC scan or it doesn’t help the issue, run a**DISM** (Deployment Image Servicing and Management) tool prior to running SFC. DISM is a command-line tool that can be used to fix system problems.
 
@@ -191,20 +186,20 @@ Restart your computer for the changes to take effect.
 2. Copy and paste**DISM /Online /Cleanup-Image /RestoreHealth** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-15.jpg)
 3. Type**sfc /scannow** and press**Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 4. Wait for the scan to finish and check for any improvement on the Windows update failure issue.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your problem hasn’t been solved yet, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Fix 7 Run anti-virus
 
  If your computer is virus-infected, some of the tasks may be hard to perform successfully, such as Windows update. Therefore running a system scan to detect and remove viruses may help tackle the problem.
@@ -218,6 +213,11 @@ Restart your computer for the changes to take effect.
 3. Click**Scan options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-13.jpg)
 4. Select**Full scan** and**Scan now** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-11.jpg)
 
  The scan will go through all the files on your computer and take a while to finish. After that, let this tool remove any threat on your computer and restart the machine. Then run Windows update again.
@@ -248,8 +248,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -257,4 +255,18 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-experts-guide-to-rapid-time-lapsing/"><u>[New] Expert's Guide to Rapid Time-Lapsing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unleash-the-power-of-stories-free-online-and-mobile-solutions-for-2024/"><u>[Updated] Unleash the Power of Stories – Free, Online & Mobile Solutions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-failed-usb-recognition-port-reset-in-your-windows-10-system/"><u>Diagnosing & Repairing Failed USB Recognition (Port Reset) in Your Windows 10 System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-editorial-output-via-gpt-4/"><u>Elevate Your Editorial Output via GPT-4</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-effectively-address-msvcp140dll-gap/"><u>How to Effectively Address MSVCP140.dll Gap</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nokia-130-music-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nokia 130 Music Unlock Without Password</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-best-boutique-online-portals-for-individualized-gift-artistry/"><u>In 2024, Best Boutique Online Portals for Individualized Gift Artistry</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-mysterious-0x80004005-error-proven-solutions-for-your-email-woes/"><u>Resolving the Mysterious 0X80004005 Error - Proven Solutions for Your Email Woes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-unfreezing-your-laptops-mouse-control/"><u>Step-by-Step Solutions for Unfreezing Your Laptop's Mouse Control</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-understanding-automatic-boot-up-in-windows-10/"><u>Unraveling the Mystery: Understanding Automatic Boot-Up in Windows 10</u></a></li>
+</ul></div>
 

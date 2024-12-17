@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of a Missing Cursor on Your Windows 11 Touchpad
-date: 2024-08-15T11:11:40.119Z
-updated: 2024-08-16T11:11:40.119Z
+date: 2024-12-11T17:05:56.501Z
+updated: 2024-12-16T21:42:53.542Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 
  No panic any more. Here in this post, we will be showing you the tried-and-true **methods to fix touchpad scroll not working issue on Windows 10** . Actually, the methods also suits for other Windows operating system. Go on with the methods and make sure to try next if the only one didn’t help you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -32,12 +36,20 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)  
 
@@ -48,16 +60,14 @@ Then click **Device Manager**  to open it.
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -69,9 +79,6 @@ Then click **Device Manager**  to open it.
  2) With **Scan Now** , it can scan out all of your outdated, missing and corrupted drivers and find the correct ones for you in less than 1 min! Your touchpad driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
 
@@ -80,8 +87,9 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -97,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +112,20 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-choices-for-switchs-hd-gaming/"><u>[New] Best Choices for Switch's HD Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-if-reviewers-get-payed/"><u>[New] Examining if Reviewers Get Payed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leading-luminaries-of-livestreaming-success/"><u>[Updated] Leading Luminaries of Livestreaming Success</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-simplifying-iphoneipad-screen-captures-for-online-sharing-for-2024/"><u>[Updated] Simplifying iPhone/iPad Screen Captures for Online Sharing for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-tutorial-implementing-gamers-channel-banners-for-2024/"><u>[Updated] Ultimate Tutorial Implementing Gamers' Channel Banners for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-videos-wondershare-virbo-online-for-2024/"><u>Create AI Avatar Videos | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y27s-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y27s</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-overcoming-minecraft-wont-open-in-windows-problems/"><u>Expert Advice for Overcoming 'Minecraft Won't Open in Windows' Problems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-update-and-download-hp-deskjet-2540-drivers-here/"><u>Get the Most Recent Update and Download HP DeskJet 2540 Drivers Here!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-nokia-g42-5g-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Nokia G42 5G has been deleted.</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-fixing-critical-installation-failure-error-code-1603/"><u>Solved: Fixing Critical Installation Failure (Error Code 1603)</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-a-broken-dvd-or-cd-reader-on-windows-computers/"><u>Step-by-Step Guide to Fix a Broken DVD or CD Reader on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-touchpad-solutions-for-nonfunctional-scroll-buttons/"><u>Troubleshooting Windows 11 Touchpad: Solutions for Nonfunctional Scroll Buttons</u></a></li>
+</ul></div>
 

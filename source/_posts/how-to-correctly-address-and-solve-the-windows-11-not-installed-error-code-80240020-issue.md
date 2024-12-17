@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve the 'Windows 11 Not Installed - Error Code 80240020' Issue
-date: 2024-12-03T18:41:19.266Z
-updated: 2024-12-10T21:46:27.630Z
+date: 2024-12-15T21:12:43.195Z
+updated: 2024-12-16T20:54:12.659Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ A lot Windows 10 users reported that system restore did not complete successfull
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix One. Rename the WindowsApps folder in Safe Mode**
@@ -43,6 +43,10 @@ Then type **msconfig** in the box and hit **Enter**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 b)  
 On the pop-up window, view on **Boot** pane.  
 Then tick on **Safe boot**and click **OK**.  
@@ -50,10 +54,6 @@ Click **Restart**, if prompted by system configuration
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then your Windows 10 would get into safe mode.  
   
@@ -65,10 +65,6 @@ When prompted by User Account Control, click   **Yes.**
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-2.jpg)**
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3)  
 
@@ -88,7 +84,7 @@ This time uncheck **Safe boot** to reboot your Windows 10.
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5)  
@@ -97,7 +93,7 @@ When it finish rebooting, run System Restore again.
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
@@ -125,6 +121,10 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/11.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2)  
 
@@ -156,24 +156,22 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-exclusive-screenflow-examination-for-mac-users-for-2024/"><u>[New] Exclusive ScreenFlow Examination for Mac Users for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-video-cutting-with-vivacut-detailed-review-and-guidebook-24/"><u>2024 Approved Master Video Cutting with VivaCut Detailed Review & Guidebook '24</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-unlock-your-youtube-potential-idea-generation-guide/"><u>2024 Approved Unlock Your YouTube Potential Idea Generation Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/amplify-your-videos-impact-with-strategically-placed-time-markers/"><u>Amplify Your Video's Impact with Strategically Placed Time Markers</u></a></li>
-<li><a href="https://common-error.techidaily.com/battle-the-high-resource-hog-svchostexe-strategies-to-optimize-windows-11-performance/"><u>Battle the High Resource Hog svchost.exe: Strategies to Optimize Windows 11 Performance</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/blurring-the-boundary-a-comprehensive-look-at-story-bokeh/"><u>Blurring the Boundary A Comprehensive Look at Story Bokeh</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-1067-explained-a-step-by-step-solution-for-when-your-windows-application-abruptly-stops/"><u>Error 1067 Explained: A Step-by-Step Solution for When Your Windows Application Abruptly Stops</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-diagnose-and-address-teredo-unable-to-qualify-issues/"><u>How To Successfully Diagnose and Address 'Teredo Unable to Qualify' Issues</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-action-required-local-security-authority-guardrails-engaged-once-more/"><u>Immediate Action Required: Local Security Authority Guardrails Engaged Once More</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-transforming-tiktok-to-pop-with-top-gif-tools/"><u>In 2024, Transforming TikTok to Pop with Top GIF Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/innovative-solutions-for-windows-10-screen-saver-problems-step-by-step-guide/"><u>Innovative Solutions for Windows 10 Screen Saver Problems - Step by Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-browsing-ai-in-microsofts-bing/"><u>Revolutionizing Browsing: AI in Microsoft's Bing</u></a></li>
-<li><a href="https://common-error.techidaily.com/slash-your-pcs-graphics-performance-hit-5-methods-to-optimize-the-desktop-window-manager-on-windows/"><u>Slash Your PC's Graphics Performance Hit: 5 Methods to Optimize the Desktop Window Manager on Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-finest-gopro-complementary-items-for-2024/"><u>The Finest Gopro Complementary Items for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-free-fixes-for-a-laptop-that-wont-hold-a-charge-expert-advice-inside/"><u>Trouble-Free Fixes for a Laptop That Won't Hold A Charge: Expert Advice Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-0x800705b4-error-on-windows-update-for-windows-10-users/"><u>Troubleshoot & Fix 0X800705b4 Error on Windows Update for Windows 10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-flickering-display-on-windows-10-computers/"><u>Troubleshooting and Repairing Flickering Display on Windows 10 Computers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-behind-chatgpts-ownership/"><u>Unraveling the Mystery Behind ChatGPT's Ownership</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fundamentals-of-creating-persuasive-social-media-messages/"><u>[New] Fundamentals of Creating Persuasive Social Media Messages</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-top-vr-gloves-to-check-out/"><u>[New] In 2024, Top VR Gloves to Check Out</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-art-of-gaming-best-monitors-and-tvs-for-xbox-series-x/"><u>[New] Master the Art of Gaming Best Monitors & TVs For Xbox Series X</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-expert-techniques-for-streaming-facebook-live-2023/"><u>[Updated] Expert Techniques for Streaming Facebook Live, 2023</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-professional-filmmaking-essentials-ideal-lenses-to-consider/"><u>[Updated] Professional Filmmaking Essentials Ideal Lenses to Consider</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/easy-tech-advice-how-to-refresh-windows-with-help-from-yl-software-experts/"><u>Easy Tech Advice: How To Refresh Windows With Help From YL Software Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-mac-camera-not-working-the-easy-way/"><u>Fix Mac Camera Not Working - The Easy Way</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-casting-issues-between-your-devices-on-windows-11/"><u>How to Fix Casting Issues Between Your Devices on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-computer-not-shutting-down-on-windows-11-solutions/"><u>How to Fix Computer Not Shutting Down on Windows 11 - Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/mitigate-resource-misuse-by-wmis/"><u>Mitigate Resource Misuse by WMIs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/overcoming-handheld-vibration-secure-your-gopro-movies-for-2024/"><u>Overcoming Handheld Vibration Secure Your GoPro Movies for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-fix-for-video-player-error-message-error-code-224003/"><u>Successful Fix for Video Player Error Message - Error Code 224003</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-dos-and-donts-of-youtube-videos-on-twitter/"><u>The Dos and Don'ts of YouTube Videos on Twitter</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tidy-up-your-pictures-top-10-online-unblur-tools/"><u>Tidy Up Your Pictures Top 10 Online Unblur Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204262425-trouble-with-windows-10-version-1607s-new-features-heres-how-to-fix-it/"><u>Trouble with Windows 10 Version 1607'S New Features? Here's How to Fix It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-connection-issues-with-your-bluetooth-keyboard-and-computer/"><u>Troubleshooting Guide: Resolving Connection Issues with Your Bluetooth Keyboard and Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-activating-disabled-hosted-wi-fi-networks-on-windows-10/"><u>Troubleshooting Steps for Activating Disabled Hosted Wi-Fi Networks on Windows 10</u></a></li>
 </ul></div>
 

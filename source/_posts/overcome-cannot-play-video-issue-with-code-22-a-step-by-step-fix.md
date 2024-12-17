@@ -1,7 +1,7 @@
 ---
 title: Overcome 'Cannot Play' Video Issue with Code 22# - A Step-by-Step Fix
-date: 2024-12-07T20:58:26.575Z
-updated: 2024-12-10T18:47:17.805Z
+date: 2024-12-15T23:05:19.322Z
+updated: 2024-12-16T16:30:56.631Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dota 2 Change Rendering API error
 
  Before running the game, you can use the Game Launch Options feature on Steam to change game settings. Launch options allow the user to supersede the internal settings of the game. This is an effective means to recover from incompatible video settings and well as troubleshoot a wide range of issues. So in order to get rid of the error message, you should set a launch option specifically for Dota 2\. Here’s how you can do this:
@@ -33,28 +37,28 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/select-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **General** tab, click the **SET LAUNCH OPTIONS…** button.
 
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/set-launch-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type**\-dx11** and then click**OK** .
 
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/dx11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s recommended to run your game on**dx11** . But some older hardware doesn’t support dx11 so you would run it on**dx9** . You can simply type**\-dx9** instead of -dx11.
 
  4) Close your game’s **Properties** window and your problem should be solved. Till then launch your game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -72,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 
 ![update video card drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -105,22 +105,22 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-jumpstart-your-meme-odyssey-humor-in-the-virtual-cosmos/"><u>[Updated] 2024 Approved Jumpstart Your Meme Odyssey - Humor in the Virtual Cosmos</u></a></li>
-<li><a href="https://win-able.techidaily.com/4goproshooting/"><u>「4つの最適な方法でGoPro映像のファイルサイズを小さくしまSHOOTING」</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-mobile-editing-apps-for-dji-videos/"><u>Best Mobile Editing Apps for DJI Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-and-fixing-error-code-0x80240017-in-windows-update-process/"><u>Decoding and Fixing Error Code 0X80240017 in Windows Update Process</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-0x8024200d-during-windows-updates-a-comprehensive-guide/"><u>How to Fix Error Code 0X8024200D During Windows Updates – A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-unforeseen-shutdown-of-a-windows-application-error-1067/"><u>How to Fix the Unforeseen Shutdown of a Windows Application (Error 1067)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-lava-agni-2-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Lava Agni 2 5G.</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-12-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 12?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/keep-your-mac-pristine-discover-the-power-of-stellar-standard-mac-eraser-version-5-and-scheduled-cleanup-features/"><u>Keep Your Mac Pristine: Discover the Power of Stellar Standard Mac Eraser Version 5 and Scheduled Cleanup Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210098701-lost-your-signal-locate-and-fix-your-sd-card/"><u>Lost Your Signal: Locate and Fix Your SD Card!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-potential-10-custom-innovations/"><u>Maximizing ChatGPT Potential: 10 Custom Innovations</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-reactivating-your-devices-disabled-wi-fi-feature/"><u>Resolving the Issue: Reactivating Your Device's Disabled Wi-Fi Feature</u></a></li>
-<li><a href="https://common-error.techidaily.com/reveal-the-unseen-fix-touchpad-absence/"><u>Reveal the Unseen: Fix Touchpad Absence</u></a></li>
-<li><a href="https://common-error.techidaily.com/say-goodbye-to-computer-naps-troubleshoot-and-fix-now/"><u>Say Goodbye to Computer Naps: Troubleshoot and Fix Now!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-unleash-your-creativity-the-top-10-free-webm-video-editors-for-2024/"><u>Updated Unleash Your Creativity The Top 10 Free WebM Video Editors for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208803636-windows-11-copy-pasting-glitches-discover-the-fix-here/"><u>Windows 11 Copy-Pasting Glitches? Discover the Fix Here</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-essential-guide-for-adding-depth-and-style-in-instagram-stories/"><u>[New] 2024 Approved The Essential Guide for Adding Depth & Style in Instagram Stories</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-top-10-windows-friendly-tiktok-video-editors/"><u>[New] 2024 Approved Top 10 Windows-Friendly TikTok Video Editors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastery-over-airwaves-recording-techniques-for-live-sounds/"><u>[New] In 2024, Mastery Over Airwaves Recording Techniques for Live Sounds</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-ios-18-now-free-update-with-new-features-and-latest-updates/"><u>Download IOS 18 Now: Free Update with New Features & Latest Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-windows-11s-constant-restart-cycle-a-comprehensive-guide/"><u>End Windows 11'S Constant Restart Cycle: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-the-0x800f0922-update-issue-on-your-windows-10-device/"><u>Expert Tips for Fixing the 0X800F0922 Update Issue on Your Windows 10 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-dvd-playback-errors-on-your-windows-computer/"><u>How to Overcome DVD Playback Errors on Your Windows Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-trackpad-malfunctions-on-windows-tips-and-tricks-for-laptops/"><u>How to Resolve TrackPad Malfunctions on Windows: Tips & Tricks for Laptops</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-your-computers-visual-experience-download-and-install-nvidia-940mx-graphics-card-drivers-rtx/"><u>Improve Your Computer's Visual Experience: Download & Install Nvidia 940MX Graphics Card Drivers (RTX)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-exploring-self-through-instagram-a-diverse-set-of-100-captions/"><u>In 2024, Exploring Self Through #Instagram - A Diverse Set of 100 Captions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-reactivate-backlight-settings-on-your-laptops-keyboard-across-macwindows-platforms/"><u>Step-by-Step Guide to Reactivate Backlight Settings on Your Laptop's Keyboard Across Mac/Windows Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-errconnectionrefused-problems-infographics-provided/"><u>Step-by-Step Guide: Fixing ERR_CONNECTION_REFUSED Problems [Infographics Provided]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-the-0xc19amo16-error-during-windows-11-updates/"><u>Troubleshooting and Resolving the 0xC19amo16 Error During Windows 11 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-unresponsive-laptops-touchpad-tips-and-tricks/"><u>Troubleshooting Your Unresponsive Laptop's Touchpad – Tips & Tricks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unlocking-creative-potential-embedding-online-videos-in-slideshows/"><u>Unlocking Creative Potential Embedding Online Videos in Slideshows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-flaws-why-we-wont-suggest-dell-2024-xps-14-despite-our-tests-insights-from-zdnet/"><u>Unveiling the Flaws: Why We Won't Suggest Dell 2024 XPS 14 Despite Our Tests – Insights From ZDNet</u></a></li>
 </ul></div>
 

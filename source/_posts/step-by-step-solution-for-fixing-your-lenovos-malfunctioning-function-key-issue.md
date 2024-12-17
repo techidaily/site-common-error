@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Fixing Your Lenovo's Malfunctioning 'Function' Key Issue
-date: 2024-08-22T19:22:43.850Z
-updated: 2024-08-23T19:22:43.850Z
+date: 2024-12-09T20:47:13.492Z
+updated: 2024-12-16T20:30:23.166Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 1. **[Run troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Reinstall the AOC USB Monitor driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Run troubleshooter
 
  Windows has built-in troubleshoot to fix the common error in the operating system. This issue may due to hardware conflicts. To solve the problem, you can run the Hardware and Devices troubleshooter. Here’s how:
@@ -30,9 +34,19 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 1. Type “troubleshoot” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/8.23.1.jpg)
 2. Find**Hardware and Devices** then click.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/troubleshoot.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Relaunch your computer and check the issue is resolved or not.
 
  If you fail to find Hardware and Devices Troubleshooter in Control Panel, that’s probably because your computer version is after **Windows 10 build 1809** . The version has removed the Hardware and Devices Troubleshooter. Don’t worry, you can still run the Hardware and Devices Troubleshooter in this way:
@@ -44,6 +58,11 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Relaunch your computer and check the issue is resolved or not.
 
 ## Method 2: Reinstall the AOC USB Monitor driver
@@ -56,11 +75,6 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 2. Type “devmgmt.msc” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click**Monitors** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/monitor.jpg)
 4. Right-click on the AOC USB monitor and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
@@ -85,19 +99,15 @@ OR
 2. Search for the monitor on the webpage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbf95967fd.jpg)
 3. Click **Support** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfce1bef4.jpg)
 4. Scroll down and click **Driver** in the **Drivers and Software** section.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfda9b0ca.png)
 5. Click the downloaded file and follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **Option 2 – Automatically update AOC USB monitor drivers**
 
@@ -111,14 +121,12 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfffb0e24.jpg)
 3. Click the Update button next to your **AOC monitor** to automatically download and install the correct version of this driver (you can do this with the **FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdc1306ec3e.jpg)
 4. Reboot your computer and check the issue is solved or not.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -131,8 +139,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +146,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/fficient-youtube-ad-blocking-on-chromefirefoxandroid-devices/"><u>[New] Efficient YouTube Ad Blocking on Chrome/Firefox/Android Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-facebook-8-top-movie-downloader-rankings/"><u>[New] In 2024, Mastering Facebook #8 Top Movie Downloader Rankings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-10-iconic-beauty-personalities-to-follow-on-youtube/"><u>[Updated] 10 Iconic Beauty Personalities to Follow on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-bridging-shadows-and-highlights-the-lightroom-hdr-methodology/"><u>2024 Approved Bridging Shadows and Highlights The Lightroom HDR Methodology</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-13-mini-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 13 mini Online</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1728480600064-aomei-backupper/"><u>AOMEI Backupper專業技術支持的辦法：全面解析</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-how-to-fix-common-opengl-problems-in-minecraft/"><u>Expert Tips on How to Fix Common OpenGL Problems in Minecraft</u></a></li>
+<li><a href="https://win-able.techidaily.com/gtfo-gaming-guide-tackling-frame-rate-fluctuations-and-eliminating-lags/"><u>GTFO Gaming Guide: Tackling Frame Rate Fluctuations and Eliminating Lags</u></a></li>
+<li><a href="https://common-error.techidaily.com/igfxem-malfunction-solutions-expert-tips-for-restoring-module-operation/"><u>IgfxEM Malfunction Solutions: Expert Tips for Restoring Module Operation</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-skyrims-infinite-loading-glitch-for-smooth-gaming-experience/"><u>Overcome Skyrim's Infinite Loading Glitch for Smooth Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackle-error-8007000e-on-your-windows-updates-like-a-pro-quick-and-effective-methods/"><u>Tackle Error 8007000E on Your Windows Updates Like a Pro – Quick and Effective Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-approach-to-correcting-ftd2xxdll-error-not-found-issues-on-windows/"><u>The Comprehensive Approach to Correcting 'ftd2XX.dll' Error Not Found Issues on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-non-responsive-volume-control-in-windows-11/"><u>Troubleshoot and Resolve Non-Responsive Volume Control in Windows 11</u></a></li>
+</ul></div>
 

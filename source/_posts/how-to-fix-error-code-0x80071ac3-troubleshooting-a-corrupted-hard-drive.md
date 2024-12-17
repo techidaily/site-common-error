@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Error Code 0X80071AC3: Troubleshooting a Corrupted Hard Drive"
-date: 2024-11-09T17:04:25.626Z
-updated: 2024-11-15T17:15:33.447Z
+date: 2024-12-12T17:44:30.835Z
+updated: 2024-12-16T20:56:13.504Z
 tags:
   - win11
   - win10
@@ -36,19 +36,6 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 4. [**Modify Registry Editor**](#Method5)
 5. **[Bonus Tip](#b1)**
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Why does the error 0x80070002 occur?
 
  This error code may vary from different Windows versions. In Windows XP, you will see the error code **0x80070002** . While in Windows 10/8/7, you will see the error code **80070002** .
@@ -56,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  This problem happens when some files in the Windows Update are missing or corrupted, even though the update is downloaded and extracted successfully, or the driver faulty issue. So you can work it through by these methods until it solves your problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 1: Check the Date and Time settings**
 
@@ -76,30 +67,28 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0182e74a509.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click**OK** to finish the settings.
 
@@ -111,16 +100,13 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
 
@@ -142,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
@@ -149,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  4) Change the**Startup type** to**Automatic** . Then, make sure the Service status is set to**Stopped** . If it’s**Running** , click**Stop** then click**Apply** , and**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 2: Delete the Software Distribution Folder
 
@@ -180,13 +174,6 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Try Windows Update Troubleshooter**
 
  The Windows Update Troubleshooter is always a method to consider when you have any problems running Windows Update.
@@ -194,13 +181,6 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  1) Download the troubleshooter from[**Microsoft**](https://support.microsoft.com/en-ph/help/4027322/windows-windows-update-troubleshooter) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Run the downloaded file.
 
@@ -224,6 +204,10 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
  4) Select**OSUpgrade** key, then right-click the empty area on the right pane of Registry Editor, and click**New** , then c lick **DWORD (32-bit) Value** .
@@ -235,10 +219,7 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
@@ -266,13 +247,6 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
   
@@ -303,24 +277,20 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unleashing-potential-11-steps-to-enhance-facebook-traffic-through-video/"><u>[New] 2024 Approved Unleashing Potential 11 Steps to Enhance Facebook Traffic Through Video</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/apturing-youtube-icons-browser-extension-command-line-and-software-trio/"><u>[New] Capturing Youtube Icons Browser Extension, Command Line & Software Trio</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-detailed-guide-crafting-powerful-video-thumbnails-for-content-marketing/"><u>[New] In 2024, Detailed Guide Crafting Powerful Video Thumbnails for Content Marketing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-explore-free-fb-visual-creation-tools-best/"><u>[New] In 2024, Explore Free FB Visual Creation Tools - Best</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-ideal-aspect-ratio-for-video-content/"><u>[New] Unveiling the Ideal Aspect Ratio for Video Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-from-conceptualization-to-production-writing-engaging-documentary-stories/"><u>[Updated] From Conceptualization to Production Writing Engaging Documentary Stories</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-immerse-viewers-advanced-tiktok-visuals/"><u>[Updated] Immerse Viewers Advanced TikTok Visuals</u></a></li>
-<li><a href="https://fox-links.techidaily.com/decoding-subtitles-from-srt-to-xml-ssa-and-more-for-2024/"><u>Decoding Subtitles From SRT to XML, SSA & More for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-a-nonfunctional-lenovo-camera/"><u>Diagnosing and Repairing a Nonfunctional Lenovo Camera</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-solving-disconnected-media-issues-on-windows-systems/"><u>Expert Advice: Solving Disconnected Media Issues on Windows Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-untapped-benefits-essential-chatgpt-tools-you-might-be-ignoring/"><u>Explore Untapped Benefits: Essential ChatGPT Tools You Might Be Ignoring</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-handle-and-correct-installation-problems-with-your-steam-games/"><u>How to Handle and Correct Installation Problems with Your Steam Games</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-video-makers-with-music-for-android-and-iphone/"><u>In 2024, Best Video Makers with Music for Android and iPhone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mouse-cursor-disappears-on-windows-10-solved/"><u>Mouse Cursor Disappears on Windows 10 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-renderer-startup-issues-with-the-latest-2021-corrections/"><u>Overcoming Renderer Startup Issues with the Latest 2021 Corrections</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-the-windows-10-missing-bluetooth-problem-swiftly-and-with-simple-fixes/"><u>Resolve the 'Windows 10 Missing Bluetooth' Problem Swiftly and with Simple Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-the-infamous-error-1068-on-your-pc-detailed-fixes/"><u>Troubleshoot and Resolve the Infamous Error 1068 on Your PC - Detailed Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-unsuccessful-attempts-to-access-a-distant-server/"><u>Troubleshooting and Solving Unsuccessful Attempts to Access a Distant Server</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlock-the-solution-how-to-fix-your-pc-cant-start/"><u>Unlock the Solution: How to Fix 'Your PC Can't Start'</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixed-update-windows-10-version-2004-with-conexant-driver/"><u>[Fixed] Update Windows 10 Version 2004 With Conexant Driver</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-seize-the-moment-download-outro-samples-freepaid/"><u>[Updated] Seize the Moment Download Outro Samples (Free/Paid)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-social-media-marketing-essential-24-trend-alerts/"><u>2024 Approved Mastering Social Media Marketing Essential '24 Trend Alerts</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fix-resolving-the-troublesome-windows-10-update-error-0x80240034/"><u>Comprehensive Fix: Resolving the Troublesome Windows 10 Update Error 0X80240034</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/leveraging-action-a-comprehensive-guide-to-live-streaming-techniques/"><u>Leveraging Action: A Comprehensive Guide to Live Streaming Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/merge-avi-videos-like-a-pro-top-10-free-tools-and-software/"><u>Merge AVI Videos Like a Pro Top 10 Free Tools and Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/practical-techniques-for-restoring-your-windows-11-display-from-a-dreaded-black-screen/"><u>Practical Techniques for Restoring Your Windows 11 Display From a Dreaded Black Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/rectifying-a-broken-spacebar-on-windows-pcs-top-fixes-for-the-most-common-problems/"><u>Rectifying a Broken Spacebar on Windows PCs – Top Fixes for the Most Common Problems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/self-financing-strategies-with-your-3d-printer-unlocking-7-key-benefits/"><u>Self-Financing Strategies with Your 3D Printer: Unlocking 7 Key Benefits</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correct-windows-update-problem-error-0x80070002/"><u>Step-by-Step Guide to Correct Windows Update Problem: Error 0X80070002</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-power-surge-errors-on-windows-10-usb-devices/"><u>Step-by-Step Solutions for Overcoming Power Surge Errors on Windows 10 USB Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-physical-properties-of-the-residue-epertinent-to-their-size-shape-and-toughness-also-affect-how-quickly-they-are-decomposed-by-microbes-fine-particles-d22/"><u>The Physical Properties of the Residue (e.pertinent to Their Size, Shape, and Toughness) Also Affect How Quickly They Are Decomposed by Microbes. Fine Particles Decompose Faster than Coarse Materials, Influencing the Temporal Dynamics of Nutrient Release.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-online-stores-for-personalized-box-designs-for-2024/"><u>Top 10 Online Stores for Personalized Box Designs for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-destiny-2-initialization-problems-on-pc-and-console/"><u>Troubleshooting Steps for Destiny 2 Initialization Problems on PC and Console</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-premier-digital-audio-editor-for-2024/"><u>Updated Premier Digital Audio Editor for 2024</u></a></li>
 </ul></div>
 

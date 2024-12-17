@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions to Stop Frequent Restarting on Windows 11 Systems
-date: 2024-08-22T19:19:48.232Z
-updated: 2024-08-23T19:19:48.232Z
+date: 2024-12-14T00:10:23.550Z
+updated: 2024-12-16T20:47:04.806Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -40,22 +44,24 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -75,6 +81,10 @@ start explorer.exe
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -83,23 +93,19 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip 5: Reset your computer
 
 If the steps above didn’t work for you. Resetting your computer is worth a try. It fixed the desktop icon issue for some users.
@@ -107,11 +113,12 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -129,13 +136,11 @@ OR
 2. Run Driver Easy and click **Scan Now**. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -152,8 +157,6 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +164,26 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-future-in-your-pocket-asus-mg28uq-monitor-revealed/"><u>2024 Approved The Future in Your Pocket ASUS MG28UQ Monitor Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-your-league-of-legends-experience-fixing-download-delays-once-and-for-all/"><u>Accelerate Your League of Legends Experience – Fixing Download Delays Once and For All!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-free-from-virtual-reality-discomfort-for-2024/"><u>Breaking Free From Virtual Reality Discomfort for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comment-contourner-la-fonction-deplacer-vers-manquante-dans-windows-11-3-facons-efficaces/"><u>Comment Contourner La Fonction 'Déplacer Vers' Manquante Dans Windows 11 : 3 Façons Efficaces</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-the-unregistered-class-problem-in-windows-11-expert-tips/"><u>Defeating the Unregistered Class Problem in Windows 11 [Expert Tips]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dont-miss-out-on-crucial-enhancements-with-the-new-ios-1712-update-for-iphones/"><u>Don't Miss Out on Crucial Enhancements with the New iOS 17.1.2 Update for iPhones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-game-disruptions-fixing-freezing-and-lag-in-pubg-for-a-smoother-play-experience/"><u>Eliminate Game Disruptions: Fixing Freezing and Lag in PUBG for a Smoother Play Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-efficiency-managing-windows-driver-resources-to-cut-down-cpu-overuse/"><u>Enhancing Efficiency: Managing Windows Driver Resources to Cut Down CPU Overuse</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-the-perfect-tv-antenna-expert-reviews-and-comparisons-for-quality-viewing/"><u>Find the Perfect TV Antenna: Expert Reviews and Comparisons for Quality Viewing</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-when-your-key-stops-responding-on-computer-or-smartphone/"><u>Fixing When Your '@' Key Stops Responding on Computer or Smartphone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-the-screen-top-periscope-substitutes-for-smartphones/"><u>In 2024, Beyond the Screen Top Periscope Substitutes for Smartphones</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-s23-fe-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy S23 FE to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/in-depth-strategies-to-solve-the-persistent-black-screen-problems-plaguing-dell-laptops/"><u>In-Depth Strategies to Solve the Persistent Black Screen Problems Plaguing Dell Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202863159-laptop-battery-wont-charge-master-quick-repairs-to-power-up-again/"><u>Laptop Battery Won't Charge? Master Quick Repairs to Power Up Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-pc-stagnation-proven-methods-for-fixing-a-frozen-desktop/"><u>Overcoming PC Stagnation: Proven Methods for Fixing a Frozen Desktop</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-overcome-print-driver-host-error-for-32-bit-programs/"><u>Solution: Overcome 'Print Driver Host' Error for 32-Bit Programs</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-screen-drivers-non-starting-errors-in-windows/"><u>Solutions to Screen Drivers Non-Starting Errors in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-to-improve-frame-rates-and-eliminate-hiccups-in-naraka-bladepoint-playthroughs/"><u>Step-by-Step Solution to Improve Frame Rates & Eliminate Hiccups in Naraka: Bladepoint Playthroughs</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-solution-for-eliminating-windows-built-in-audio-system-noise-and-glitches/"><u>Ultimate Solution for Eliminating Window's Built-In Audio System Noise and Glitches</u></a></li>
+</ul></div>
 

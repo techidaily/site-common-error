@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: How to Overcome Error 0X8024402c During Windows Updates"
-date: 2024-12-03T03:07:29.070Z
-updated: 2024-12-03T19:36:02.709Z
+date: 2024-12-12T17:16:01.196Z
+updated: 2024-12-17T01:08:17.742Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/063f04ddcc12d7ad0c40343a71ed623fbddb1ebfb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix 1\. Enable Automatic Detect Settings**
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/063f04ddcc12d7ad0c40343a71ed623fbddb1ebfb
 Now try to install Windows Updates now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
@@ -66,15 +66,15 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Exit Internet Explorer and run Command Prompt.
 
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -85,6 +85,10 @@ Find and click to open Command Prompt from Start menu.
  c) Type **net start wuauserv**  and hit **Enter** .
 
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3\. Change DNS Servers
 
@@ -104,10 +108,6 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -119,14 +119,10 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4\. Configure Updates Client
 
@@ -150,6 +146,10 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
  a) Right-click on**Windows**  folder, then choose **New**  \> **Key** .
@@ -158,15 +158,15 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
@@ -195,17 +195,14 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-top-11-best-online-facebook-cover-photo-makers/"><u>[New] In 2024, Top 11 Best Online Facebook Cover Photo Makers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-visual-storytelling-the-20-key-strategies-for-powerful-fb-video-marketing-for-2024/"><u>[Updated] Unlocking Visual Storytelling The 20 Key Strategies for Powerful FB Video Marketing for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-maximizing-impact-the-20-key-principles-of-fb-video-marketing/"><u>2024 Approved Maximizing Impact The 20 Key Principles of FB Video Marketing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/androids-best-practice-for-saving-gameplay-videos/"><u>Android's Best Practice for Saving Gameplay Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/code-cannot-activate/"><u>Code Cannot Activate</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-resolving-sony-playstation-4-mic-issues-quickly/"><u>Expert Tips: Resolving Sony PlayStation 4 Mic Issues Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-faulty-game-modules-errors-and-stop-sudden-game-shutdowns/"><u>How to Correct 'Faulty Game Modules' Errors and Stop Sudden Game Shutdowns</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y28-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y28 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-asus-mg28uq-monitor-review-bridging-the-high-res-divide/"><u>In 2024, ASUS MG28UQ Monitor Review Bridging the High-Res Divide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-your-wireless-keyboard-seamlessly/"><u>Step-by-Step Guide: Setting Up Your Wireless Keyboard Seamlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-dota-2-change-rendering-api-issue-with-error-2024-fast-solutions/"><u>Troubleshooting Dota 2 'Change Rendering API' Issue with Error 2024 - Fast Solutions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-solving-launch-problems-in-counter-strike-2-update/"><u>Ultimate Guide: Solving Launch Problems in Counter-Strike 2 Update</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-metaverse-comedy-crafting-top-tips-for-diy-memetic-mastery/"><u>[Updated] Metaverse Comedy Crafting Top Tips for DIY Memetic Mastery</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-solution-guide-fixing-your-issues-with-not-launching-geforce-experience/"><u>A Step-By-Step Solution Guide: Fixing Your Issues with Not Launching GeForce Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-diminish-high-graphics-usage-by-dwm-for-a-smoother-experience-in-windows-1011/"><u>How to Diminish High Graphics Usage by DWM for a Smoother Experience in Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/perfect-playtime-essential-fixes-for-a-smooth-gaming-experience-with-pacific-drive-on-pc/"><u>Perfect Playtime: Essential Fixes for a Smooth Gaming Experience with Pacific Drive on PC</u></a></li>
+<li><a href="https://win-bits.techidaily.com/quick-tips-on-shifting-unowned-tracks-from-previous-device-to-your-latest-ios-gadget/"><u>Quick Tips on Shifting Unowned Tracks From Previous Device to Your Latest iOS Gadget</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-user-profile-service-failed-to-log-in-issue-on-windows-10-and-11-a-step-by-step-guide/"><u>Solving ‘User Profile Service’ Failed to Log In Issue on Windows 10 and 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/temporary-downtime-for-microsofts-smartscreen-what-to-do-now/"><u>Temporary Downtime for Microsoft's SmartScreen – What to Do Now?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-storytelling-chatais-potential/"><u>The Future of Storytelling: ChatAI's Potential</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95715314-9781449485832-the-world-is-great-and-i-am-small/"><u>The World Is Great, and I Am Small | Free Book</u></a></li>
 </ul></div>
 

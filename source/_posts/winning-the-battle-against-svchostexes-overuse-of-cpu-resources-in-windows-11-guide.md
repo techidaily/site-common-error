@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against svchost.exe's Overuse of CPU Resources in Windows 11 [Guide]
-date: 2024-11-27T16:33:21.974Z
-updated: 2024-12-04T00:12:07.168Z
+date: 2024-12-13T00:50:24.909Z
+updated: 2024-12-17T00:43:54.252Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -32,10 +36,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -51,13 +51,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
@@ -74,23 +74,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -101,6 +89,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
@@ -115,6 +107,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -123,11 +119,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -153,24 +153,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-attract-1000-viewers-quickly-on-youtube/"><u>[New] In 2024, Attract 1,000 Viewers Quickly on YouTube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-thriving-in-the-facebook-ecosystem-money-making-strategies/"><u>[New] Thriving in the Facebook Ecosystem Money-Making Strategies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-connectedviewing-premium-streaming-plus-local-channels-synergy/"><u>[Updated] ConnectedViewing Premium Streaming + Local Channels Synergy</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-streamlining-multiple-youtube-videos-into-one-for-2024/"><u>[Updated] Streamlining Multiple YouTube Videos Into One for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-securing-your-youtube-profitability-monetization-auditing-guide/"><u>2024 Approved Securing Your YouTube Profitability Monetization Auditing Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/behind-the-scenes-navigating-multiple-viewpoints-on-facebook-live/"><u>Behind the Scenes Navigating Multiple Viewpoints on Facebook Live</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-between-the-apple-watch-ultra-and-series-8-a-comprehensive-guide/"><u>Choosing Between the Apple Watch Ultra and Series 8: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-overwatch-microphone-problems-quickly-simple-solutions/"><u>Fix Overwatch Microphone Problems Quickly: Simple Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-persistent-screen-free-beginnings-on-your-monster-hunter-world-adventure/"><u>Fixing Persistent Screen-Free Beginnings on Your Monster Hunter: World Adventure</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-oddworld-soulstorm-game-running-flawlessly-on-windows-expert-troubleshooting-steps/"><u>Get Your Oddworld: Soulstorm Game Running Flawlessly on Windows - Expert Troubleshooting Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-usb-ports-in-windows-10-and-11/"><u>How to Fix Unresponsive USB Ports in Windows 10 and 11</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-exporting-snapchat-content-to-your-phones-gallery/"><u>In 2024, Exporting SnapChat Content to Your Phone's Gallery</u></a></li>
-<li><a href="https://common-error.techidaily.com/lte-advanced-category-9-with-up-to-450-mbits-download-speeds-using-band-38-2x20-mhz-channel-arrangement-and-up-to-75-mbits-upload-speeds-also-supports-dl-re70/"><u>LTE Advanced – Category 9 with up to 450 Mbit/S Download Speeds Using Band 38 (2X20 MHz) Channel Arrangement and up to 75 Mbit/S Upload Speeds. Also Supports DL-RevA Protocol Aggregation, but only with Other TANGO Radios on the Network</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202769731-optimize-your-pc-with-easy-windows-11-rejuvenation-methods-refresh-and-reset-tips-inside/"><u>Optimize Your PC with Easy Windows 11 Rejuvenation Methods – Refresh & Reset Tips Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/rectifying-non-responsive-copy-and-paste-on-windows-pcs/"><u>Rectifying Non-Responsive Copy & Paste on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-control-over-silent-slack-alerts-in-win-11/"><u>Regain Control Over Silent Slack Alerts in Win 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/regain-your-batterypower-gauge-on-windows-11-effective-solutions-unveiled/"><u>Regain Your Battery/Power Gauge on Windows 11 - Effective Solutions Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-windows-11-update-progress-halt-at-99/"><u>Resolving the Windows 11 Update Progress Halt at 99%</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/zooms-next-level-collaboration-how-vision-pro-headset-support-will-transform-your-video-conferences-exclusive-analysis/"><u>Zoom's Next-Level Collaboration: How Vision Pro Headset Support Will Transform Your Video Conferences Exclusive Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-beginners-guide-to-video-production-free-course-series-for-2024/"><u>[New] Beginner's Guide to Video Production Free Course Series for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-ultimate-guide-to-increasing-traffic-with-powerful-social-media-videos/"><u>[New] The Ultimate Guide to Increasing Traffic with Powerful Social Media Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-what-is-igtv-and-how-to-use-it-everything-you-need-to-know/"><u>[New] What Is IGTV and How to Use It Everything You Need to Know</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-create-an-affordable-customizable-virtual-reality-gear/"><u>[Updated] How to Create an Affordable, Customizable Virtual Reality Gear</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-pioneering-creative-expression-through-zero-cost-animation-for-2024/"><u>[Updated] Pioneering Creative Expression Through Zero-Cost Animation for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/4-effortless-ways-to-fix-dns-server-not-responding-issues/"><u>4 Effortless Ways to Fix 'DNS Server Not Responding' Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-dns-server-not-responding-discover-these-4-effortless-solutions/"><u>Beat 'DNS Server Not Responding': Discover These 4 Effortless Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-update-hurdles-a-comprehensive-guide-to-solving-error-0x80240017-in-windows-systems/"><u>Bypassing Update Hurdles: A Comprehensive Guide to Solving Error 0X80240017 in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-intermittent-power-state-malfunctions-caused-by-drivers-in-windows/"><u>Diagnosing & Fixing Intermittent Power State Malfunctions Caused by Drivers in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-ways-to-overcome-applicationexe-has-stopped-working-issues/"><u>Efficient Ways to Overcome 'Application.exe Has Stopped Working' Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-x50i-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor X50i to iPod | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-the-art-of-viewing-youtube-video-reactions-and-votes/"><u>In 2024, Mastering the Art of Viewing YouTube Video Reactions and Votes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/playstation-vr-2s-wired-advantage-benefits-over-cable-free-virtual-reality/"><u>PlayStation VR #2'S Wired Advantage - Benefits Over Cable-Free Virtual Reality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209866244-9780991671595-raise-the-vibration-between-us/"><u>Raise the Vibration Between Us | Free Book</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-2022-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2022) Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-1110-error-0x80072f8f-a-step-by-step-guide/"><u>Resolving Windows 11/10 Error 0X80072F8F: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/secure-xbox-controller-use-on-pc-platform/"><u>Secure Xbox Controller Use on PC Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-high-resource-utilization-from-wudfhostexe-in-windows-10-systems/"><u>Solving the Issue of High Resource Utilization From WUDFHost.exe in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-failures-during-windows-1903-feature-upgrade/"><u>Troubleshooting Tips: Fixing Failures During Windows 1903 Feature Upgrade</u></a></li>
 </ul></div>
 

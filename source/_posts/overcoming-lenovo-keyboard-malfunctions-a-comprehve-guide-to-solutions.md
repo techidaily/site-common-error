@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Lenovo Keyboard Malfunctions: A Comprehve Guide to Solutions"
-date: 2024-08-15T11:11:22.153Z
-updated: 2024-08-16T11:11:22.153Z
+date: 2024-12-15T17:18:15.671Z
+updated: 2024-12-16T22:08:34.997Z
 tags:
   - win11
   - win10
@@ -59,9 +59,6 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -73,8 +70,9 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -106,17 +104,19 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 4. Relaunch your computer and check your keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Repair system files
 
  Sometimes corrupted system files and hardware issues will lead to all kinds of errors. To identify the cause and repair it, you don’t have to check those components one by one but perform a quick automatic system scan.
@@ -127,20 +127,22 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips: Keyboard maintenance
 
 1. Try not to eat, smoke or drink on top of the keyboard to keep it clean.
@@ -159,8 +161,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +168,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-enhance-dji-flight-aesthetics-start-with-free-trial-lutts/"><u>[New] Enhance DJI Flight Aesthetics – Start With Free Trial LUTTs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-easily-access-snapchat-on-mac-os/"><u>[New] In 2024, Easily Access Snapchat on Mac OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellence-in-audio-on-windows-best-8-podcast-apps-compiled/"><u>[Updated] Excellence in Audio on Windows Best 8 Podcast Apps Compiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hubsan-x4-quadcopter-examination-an-in-depth-guide/"><u>[Updated] Hubsan X4 Quadcopter Examination An In-Depth Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-issues-with-unresponsive-dell-wireless-keyboards/"><u>Diagnosing and Repairing Issues with Unresponsive Dell Wireless Keyboards</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-guide-solving-not-connected-errors-with-your-pcs-ethernet-on-windows-11-and-7/"><u>Easy Guide: Solving 'Not Connected' Errors with Your PC's Ethernet on Windows 11 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-for-optimizing-your-file-explorer-experience-in-windows-11/"><u>Effortless Solutions for Optimizing Your File Explorer Experience in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-enjoy-videos-again-your-guide-to-correcting-error-code-224003/"><u>Effortlessly Enjoy Videos Again - Your Guide to Correcting Error Code 224003</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-1night-light-failure-in-windows-11-with-easy-steps/"><u>Fix Windows 1Night Light Failure in Windows 11 with Easy Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-vanishing-mouse-pointer-in-windows-11-a-complete-guide/"><u>Fixing the Vanishing Mouse Pointer in Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-asus-laptops-broken-fn-keys/"><u>How to Restore Functionality of Your Asus Laptop's Broken Fn Keys</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-x90s-easily-by-drfone-android/"><u>How To Unlock a Vivo X90S Easily?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-xs-max-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone XS Max?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-bebop-2s-aviary-artistry-reviewed/"><u>In 2024, Bebop 2’S Aviary Artistry Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-isolating-still-images-from-motion-in-windows-11-photos/"><u>In 2024, Isolating Still Images From Motion in Windows 11 Photos</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209434908-reignite-touchpad-visibility-in-device-listings/"><u>Reignite Touchpad Visibility in Device Listings!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-why-isnt-the-character-functioning/"><u>Solution Guide: Why Isn’t the '@' Character Functioning?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-nights-reign-black-vs-the-dawns-duty-silver-for-2024/"><u>The Night's Reign (Black) VS The Dawn’s Duty (Silver) for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96370938-9780876046357-visits-to-heaven/"><u>Visits to Heaven | Free Book</u></a></li>
+</ul></div>
 

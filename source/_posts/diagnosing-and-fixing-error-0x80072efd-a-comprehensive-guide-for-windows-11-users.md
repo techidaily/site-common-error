@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing Error 0X80072EFD - A Comprehensive Guide for Windows 11 Users
-date: 2024-08-22T19:18:10.936Z
-updated: 2024-08-23T19:18:10.936Z
+date: 2024-12-11T22:09:51.990Z
+updated: 2024-12-17T01:54:16.079Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
  Surprisingly, this is quite a common problem. But although it’s quite frustrating, it’s usually not that hard to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -27,6 +31,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -46,6 +54,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -57,27 +69,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 3: Change boot order in BIOS
 
 **Changing boot order in BIOS** turns out to be another effective solution to your computer-won’t-shut-down problem. Here’s how we do it:
@@ -85,13 +85,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -100,6 +102,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -107,9 +113,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -126,8 +134,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +141,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-enhancing-interactivity-tips-for-hosting-splitting-screen-events-on-facebook/"><u>[New] 2024 Approved Enhancing Interactivity Tips for Hosting Splitting-Screen Events on Facebook</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-replay-redux-mastering-iphones-videography-backwards-for-2024/"><u>[New] Replay Redux Mastering iPhone's Videography Backwards for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-speed-racers-remarkable-22-run/"><u>[New] Speed Racers' Remarkable '22 Run</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-antique-cinematography-in-the-digital-realm/"><u>[Updated] In 2024, Antique Cinematography in the Digital Realm</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/building-a-brand-the-art-of-creating-attention-grabbing-reels-on-social-media/"><u>Building a Brand The Art of Creating Attention-Grabbing Reels on Social Media</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-to-tackle-the-lost-openal32dll-component-error-on-your-pc/"><u>Easy Solutions to Tackle the Lost openAL32.dll Component Error on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-solutions-for-the-wwe-n-battlegrounds-feature-level-100-error-on-dx11-platform/"><u>Efficient Solutions for the WWE N' Battlegrounds Feature Level 10.0 Error on DX11 Platform</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-youtube-presence-with-audio-for-2024/"><u>Elevate Your Youtube Presence with Audio for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206802457-error-code-31-on-your-pc-heres-how-you-can-solve-it/"><u>Error Code 31 on Your PC? Here's How You Can Solve It</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-new-worlds-easy-anti-cheat-error-and-start-playing-smoothly/"><u>How to Resolve the New World's 'Easy Anti-Cheat Error' And Start Playing Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/latest-tricks-for-resolving-2024-miracast-reception-error-on-your-device/"><u>Latest Tricks for Resolving 2024 Miracast Reception Error on Your Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-setup-a-comprehensive-guide-to-activate-bluetooth-on-your-pc-windows-1110/"><u>Master the Setup: A Comprehensive Guide to Activate Bluetooth on Your PC (Windows 11/10)</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-windows-update-challenge-cracking-error-0x8024402c/"><u>Mastering the Fix for Windows Update Challenge: Cracking Error 0X8024402c</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722992778406-overcoming-recurrent-pc-hardware-and-software-collisions-solutions-unveiled/"><u>Overcoming Recurrent PC Hardware and Software Collisions – Solutions Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-a-non-responsive-razer-keyboard/"><u>Troubleshooting Tips: How To Fix A Non-Responsive Razer Keyboard</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/king-youtubes-monetization-potential-for-2024/"><u>Unlocking YouTube's Monetization Potential for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-of-hamachi-service-halts-expert-solutions-revealed/"><u>Unraveling the Mystery of Hamachi Service Halts: Expert Solutions Revealed</u></a></li>
+</ul></div>
 

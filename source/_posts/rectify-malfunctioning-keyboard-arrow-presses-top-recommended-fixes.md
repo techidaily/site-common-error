@@ -1,7 +1,7 @@
 ---
 title: Rectify Malfunctioning Keyboard Arrow Presses – Top Recommended Fixes
-date: 2024-08-22T19:19:01.035Z
-updated: 2024-08-23T19:19:01.035Z
+date: 2024-12-16T02:11:51.009Z
+updated: 2024-12-16T17:18:12.452Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 5. [**Perform a system restore**](#method5)
 
 **IMPORTANT** : Some of the methods below require you to log into Windows. If you’re unable to use the laptop keyboard to do that, **use an external keyboard or a mouse instead** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Restart your computer
 
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -64,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
@@ -83,59 +88,46 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**System protection** in left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 4) Click **System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  5) Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f7c3c1c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  8) Click**Yes** to confirm the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 9) Reboot your PC for the changes to take effect.
 
  Hopefully the methods above help you fix the Lenovo keyboard not working issue. If you have any questions, please feel free to leave your comments. We’d love to hear of any ideas or suggestions
@@ -149,8 +141,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +148,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-rated-iosandroid-apps-for-crafting-perfect-youtube-shorts/"><u>[New] In 2024, Top-Rated iOS/Android Apps for Crafting Perfect Youtube Shorts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-rotation-revelation-manual-transform-your-visual-content-on-social-media-sites-for-2024/"><u>[Updated] The Rotation Revelation Manual Transform Your Visual Content on Social Media Sites for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-in-depth-review-of-manycams-game-changing-recorder-tech/"><u>2024 Approved In-Depth Review of ManyCam's Game-Changing Recorder Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/4-ways-chatgpt-can-help-you-build-a-website/"><u>4 Ways ChatGPT Can Help You Build a Website</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/audio-troubleshooting-for-windows-users-solving-crackling-sound-issues-in-windows-107/"><u>Audio Troubleshooting for Windows Users: Solving Crackling Sound Issues in WINDOWS 10/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solutions-for-eliminating-speaker-noise-on-pcs-running-windows-operating-systems/"><u>DIY Solutions for Eliminating Speaker Noise on PCs Running Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-overcome-windows-camera-problem-resolving-error-0xa00f4292/"><u>Expert Tips to Overcome Windows Camera Problem: Resolving Error 0xA00F4292</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-g42-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia G42 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-e13-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola Moto E13</u></a></li>
+<li><a href="https://common-error.techidaily.com/lost-your-signal-locate-and-fix-your-sd-card/"><u>Lost Your Signal: Locate and Fix Your SD Card</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-the-changerenderingapierror-e2024-in-dota-2-enhance-your-gaming-experience-now/"><u>Quick Solutions for the ChangeRenderingApiError (E2024) in Dota 2 - Enhance Your Gaming Experience Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/strategic-brand-alliances-for-video-influencers-for-2024/"><u>Strategic Brand Alliances for Video Influencers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-made-easy-a-comprehensive-guide-to-fixing-the-persistent-windows-update-error-0x8024402c/"><u>Troubleshooting Made Easy: A Comprehensive Guide to Fixing the Persistent 'Windows Update Error 0X8024402c'</u></a></li>
+</ul></div>
 

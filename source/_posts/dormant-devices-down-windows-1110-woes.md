@@ -1,7 +1,7 @@
 ---
 title: "Dormant Devices Down: Windows 11/10 Woes"
-date: 2024-12-06T20:19:43.820Z
-updated: 2024-12-10T17:28:46.024Z
+date: 2024-12-11T21:10:40.109Z
+updated: 2024-12-16T16:18:27.130Z
 tags:
   - win11
   - win10
@@ -56,7 +56,7 @@ The good news is that it can be fixed quickly and easily.
 3. Then Windows will start to detect the update for your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After updating one device, check for updates on your other devices with the same steps.
@@ -76,17 +76,9 @@ The good news is that it can be fixed quickly and easily.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  If updating the driver didn’t help you, go on to follow other solutions:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Disable USB Root Hubs
 
@@ -97,7 +89,7 @@ The good news is that it can be fixed quickly and easily.
 2. Expand the**Universal Serial Bus controllers** ccategory. Then right-click on each USB Root Hub**except** the ones for your keyboard and mouse. Choose**Disable device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
@@ -110,7 +102,11 @@ To check which USB Root Hub is for your keyboard and mouse:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 4\. Modify your network adapter properties
@@ -120,7 +116,7 @@ To check which USB Root Hub is for your keyboard and mouse:
 2. Expand the**Network adapters** category. Right-click on your network adapter (it should be the one with a manufacturer brand name like Intel, Realtek, Ralink, Qualcomm, Broadcom, etc.) and choose**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca7c0b78a4.jpg)
@@ -128,6 +124,14 @@ To check which USB Root Hub is for your keyboard and mouse:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca8968c9bd.png)
 4. See if the system interrupts still consume a high CPU usage on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 5: Repair system files
 
@@ -139,10 +143,6 @@ To check which USB Root Hub is for your keyboard and mouse:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -175,15 +175,20 @@ To check which USB Root Hub is for your keyboard and mouse:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-find-your-favorite-skype-ringtones-with-these-4-websites/"><u>[Updated] 2024 Approved Find Your Favorite Skype Ringtones with These 4 Websites</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723201528006-corrupt-system-drivers-master-swift-fix-techniques-today/"><u>Corrupt System Drivers? Master Swift Fix Techniques Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/ensuring-seamless-operation-addressing-driver-mismatches-in-the-ftdi-system/"><u>Ensuring Seamless Operation: Addressing Driver Mismatches in the FTDI System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960499017-get-your-windows-compatible-epson-et-2750-printing-drivers-instantly/"><u>Get Your Windows Compatible Epson ET-2750 Printing Drivers Instantly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-installing-new-firmware-on-your-logitech-m510-a-comprehensive-guide/"><u>How To: Installing New Firmware on Your Logitech M510 - A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/logitech-mouse-scroll-troubles-easy-fixes-and-solutions/"><u>Logitech Mouse Scroll Troubles: Easy Fixes and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-errconnectionrefused-error-with-visual-aids/"><u>Troubleshooting ERR_CONNECTION_REFUSED Error with Visual Aids</u></a></li>
-<li><a href="https://win-help.techidaily.com/ultimate-step-by-step-tutorial-flawless-windows-11-nvme-setup-and-no-booting-issues/"><u>Ultimate Step-by-Step Tutorial: Flawless Windows 11 NVMe Setup & No Booting Issues</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-best-ios-and-android-apps-you-can-use-to-create-animoji-and-memoji-videos-for-2024/"><u>Updated Best iOS and Android Apps You Can Use to Create Animoji and Memoji Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-discover-the-best-free-subtitle-makers-srt-online/"><u>[New] 2024 Approved Discover the Best Free Subtitle Makers (Srt) Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-your-go-to-4-sites-for-skype-ringtones/"><u>[New] 2024 Approved Your Go-To 4 Sites for Skype Ringtones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-inauthentic-affection-impacts-your-feeds-credibility-for-2024/"><u>[New] How Inauthentic Affection Impacts Your Feed's Credibility for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-lipo-technologies-for-drones-needs/"><u>[New] Navigating Through LiPo Technologies for Drones' Needs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unmatched-video-capturing-reviews-of-the-best-apps/"><u>[New] Unmatched Video Capturing Reviews of the Best Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-googles-flat-cube-and-samsungs-headset/"><u>[Updated] Comparing Google's Flat Cube and Samsung's Headset</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-motion-control-top-camera-gadgets/"><u>[Updated] Mastering Motion Control - Top Camera Gadgets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-transform-your-virtual-space-with-google-meet-tools-for-2024/"><u>[Updated] Transform Your Virtual Space with Google Meet Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/d3d-devices-vanished-unreal-engine-fears-exit/"><u>D3D Devices Vanished, Unreal Engine Fears Exit</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-how-to-fix-easy-anti-cheat-not-loaded-in-new-world/"><u>Expert Advice: How to Fix 'Easy Anti-Cheat Not Loaded' In New World</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-a-malfunctioning-screen-on-windows-10/"><u>Five Effective Methods to Repair a Malfunctioning Screen on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-binkw32dll-missing-error/"><u>How to Fix binkw32.dll Missing Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208950169-mastering-file-explorer-on-windows-10-quick-tips-and-tricks/"><u>Mastering File Explorer on Windows 10: Quick Tips and Tricks!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-the-path-of-adobe-presenter-video-creation-for-2024/"><u>Navigating the Path of Adobe Presenter Video Creation for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/revealing-hidden-pointers-fixes-for-vanishing-mouse-cursors-on-windows-10-devices/"><u>Revealing Hidden Pointers: Fixes for Vanishing Mouse Cursors on Windows 10 Devices</u></a></li>
 </ul></div>
 

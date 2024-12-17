@@ -1,7 +1,7 @@
 ---
 title: Overcome Windows Update Glitch (Error Code 0X8024002E) with These Easy Tips
-date: 2024-08-15T11:10:54.392Z
-updated: 2024-08-16T11:10:54.392Z
+date: 2024-12-14T19:46:39.144Z
+updated: 2024-12-16T19:42:44.698Z
 tags:
   - win11
   - win10
@@ -38,17 +38,20 @@ Here’s what you can do:
 
 1. Type**Troubleshoot** in the search box on your desktop, and click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the Windows Update error persists, move on to the second method.
 
@@ -58,10 +61,12 @@ If the Windows Update error persists, move on to the second method.
 
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Copy and paste the following commands one by one in Command Prompt, and press**Enter** on your keyboard.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **net stop wuauserv**  
 **net stop cryptSvc**  
 **net stop bits**  
@@ -75,13 +80,15 @@ If the Windows Update error persists, move on to the second method.
 **pause**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dd3338a3f.jpg)
 3. Wait for the commands to complete, and exit Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Open Windows Update and see if it works properly.
 
  If your issue still persists, don’t worry, There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 3: Repair corrupted system files
 
  Missing or corrupted system files can also trigger the Windows Update error 0x80240017\. To detect and fix them, you may need to perform an in-depth PC scan.
@@ -96,10 +103,12 @@ If the Windows Update error persists, move on to the second method.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 #### Option 2 – Manually
 
@@ -107,19 +116,17 @@ If the Windows Update error persists, move on to the second method.
 
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Type the following command and press**Enter** .  
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update available drivers
 
  To ensure your computer operates without problems, you should keep your devices drivers up to date. And here are two ways for you to update drivers:**manually** and**automatically** .
@@ -135,9 +142,6 @@ sfc /scannow
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Then Driver Easy will scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
@@ -156,8 +160,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +167,20 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-does-imovie-set-dimensions/"><u>[Updated] 2024 Approved How Does iMovie Set Dimensions?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-joy-junction-for-tiny-gamers/"><u>[Updated] The Joy Junction for Tiny Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/44cm44k544oe44ox44op44og44o844ot44o844ki44ox44oq44cn44gl44kj5rai44gi44kl44kz44oz44og44oz44oe77ya5b6p5ywd44gz44kl5oml6acg44go44os44oz44oi/"><u>「スマプラムービーアプリ」から消えるコンテンツ：復元する手順とヒント</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-comprehensive-overview-of-whatsapp-voice-calls/"><u>2024 Approved Comprehensive Overview of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-scriptwriting-essentials-for-authentic-and-engaging-documentaries/"><u>2024 Approved Scriptwriting Essentials for Authentic and Engaging Documentaries</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-how-huawei-mediapad-m5-elevates-your-audio-and-visual-experience-expert-insights/"><u>Discover How Huawei MediaPad M5 Elevates Your Audio & Visual Experience - Expert Insights!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-slow-keyboard-lag-in-minutes-with-these-easy-techniques/"><u>Fixing Slow Keyboard Lag in Minutes with These Easy Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207362435-hosted-network-not-working-fix-your-connection-issues-in-windows-10/"><u>Hosted Network Not Working? Fix Your Connection Issues in Windows 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-maximize-impact-with-custom-icons-and-graphics-on-your-instagram-posts/"><u>In 2024, Maximize Impact with Custom Icons and Graphics on Your Instagram Posts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/leading-edge-top-10-advanced-vimeo-video-extraction-sites-for-2024/"><u>Leading Edge Top 10 Advanced Vimeo Video Extraction Sites for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-windows-1-grokinit-file-explorer-vertical-scrolling-trouble/"><u>Solution Steps for Windows 1 Grok_init File Explorer Vertical Scrolling Trouble</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-lost-desktop-symbols-in-windows-10-effective-strategies-applied/"><u>Winning Against Lost Desktop Symbols in Windows 10 – Effective Strategies Applied</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-online-connectivity-issues-heres-your-comprehensive-solution/"><u>Xbox One Online Connectivity Issues? Here's Your Comprehensive Solution!</u></a></li>
+</ul></div>
 

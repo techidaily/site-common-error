@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Recovery: Fix System Corruption Issues on Windows 11"
-date: 2024-08-22T19:17:47.198Z
-updated: 2024-08-23T19:17:47.198Z
+date: 2024-12-16T00:28:30.414Z
+updated: 2024-12-16T18:12:32.360Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
  If there’s no problem with the HDMI port and the cable, you can try the two solutions below. Start with Solution 1, then try Solution 2 if it doesn’t solve the problem.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -39,9 +43,17 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Check if you’re able to see the TV as a second monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f296382361.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you can’t see your TV on the screen , follow steps below:
 
@@ -54,7 +66,15 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After that, check to see if Windows can detect your TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
 
@@ -92,8 +112,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +119,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-navigating-snapchat-a-commerce-strategy/"><u>[New] 2024 Approved Navigating Snapchat A Commerce Strategy</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ippy-typography-two-approaches-to-liven-up-your-letters/"><u>[New] Zippy Typography Two Approaches to Liven Up Your Letters</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-biggest-fifa-visuals-youtube-insights-graphed/"><u>[Updated] 2024 Approved Biggest FIFA Visuals YouTube Insights Graphed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-strategies-for-high-quality-gopro-4k-footage-editing/"><u>[Updated] Expert Strategies for High-Quality GoPro 4K Footage Editing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-archive-video-discussions-with-ease-and-security-for-2024/"><u>[Updated] How to Archive Video Discussions with Ease & Security for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-repair-damaged-windows-file-systems-in-versions-10-and-11/"><u>Effective Techniques to Repair Damaged Windows File Systems in Versions 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restarting-a-frozen-or-unresponsive-system/"><u>Expert Tips for Restarting a Frozen or Unresponsive System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-disappearing-touchpad-cursors-on-your-windows-11-pc/"><u>Fixes for Disappearing Touchpad Cursors on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-wi-fi-mouse-malfunction-troubleshooting-steps-for-windows-11-and-10/"><u>Fixing a Wi-Fi Mouse Malfunction: Troubleshooting Steps for Windows 11 & 10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/mount-and-blade-ii-bannerlord-resolving-game-crash-issues/"><u>Mount & Blade II: Bannerlord - Resolving Game Crash Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-fixed-brightness-problems-on-windows-11-devices/"><u>Resolving Fixed Brightness Problems on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-puzzle-step-by-step-guide-to-resolve-error-code-31-on-your-pc/"><u>Solving the Puzzle: Step-by-Step Guide to Resolve Error Code 31 on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-ce-34878-0-for-playstation-4-users/"><u>Troubleshooting and Resolving CE-34878-0 for PlayStation 4 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-system-malfunctions-a-deep-dive-into-fixing-error-0xc00000e9/"><u>Winning the Battle Against System Malfunctions: A Deep Dive Into Fixing Error 0Xc00000e9</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

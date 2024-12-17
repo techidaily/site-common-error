@@ -1,7 +1,7 @@
 ---
 title: "Resolving C:\\Windows\\System32\\Config\\SystemProfile Desktop Error on Your PC"
-date: 2024-11-11T16:27:31.632Z
-updated: 2024-11-15T17:25:48.444Z
+date: 2024-12-11T22:35:22.320Z
+updated: 2024-12-16T23:18:08.495Z
 tags:
   - win11
   - win10
@@ -51,26 +51,20 @@ The good news is, you can fix it easily!
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
@@ -82,24 +76,19 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
-4. Repeat this fix on **Windows Audio Endpoint Builder** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
+4. Repeat this fix on **Windows Audio Endpoint Builder** .
 
 5. **Restart** your PC and check if your volume control icon works as it should.
 
@@ -115,32 +104,17 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
  Click **Yes**   when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -155,6 +129,11 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -179,19 +158,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-live-stream-via-network-in-vlc/"><u>[New] Step-by-Step Live Stream via Network in VLC</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-1110-stuck-on-restarting/"><u>[SOLVED] Windows 11/10 Stuck On Restarting</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-no-screen-only-silence-a6400-dilemma/"><u>[Updated] No Screen, Only Silence A6400 Dilemma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/directx-compatibility-fixes-for-a-smooth-call-of-duty-modern-warfare-eb-gameplay-experience/"><u>DirectX Compatibility Fixes for a Smooth Call of Duty: Modern Warfare Eb Gameplay Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-installation-failed-error-code-800020-step-by-step-guide/"><u>How to Fix Windows 11 Installation Failed Error Code 80#0020 - Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-se-2020-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone SE (2020) Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-8-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 8 Plus?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-m6-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco M6 5G Device</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/knack-assessment-striking-individuality-in-an-otherwise-standard-gaming-experience/"><u>Knack Assessment: Striking Individuality in an Otherwise Standard Gaming Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-dell-wireless-keyboard-solution-guide/"><u>Reviving Your Dell Wireless Keyboard - Solution Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-handling-semaphore-timed-out-with-code-0x80070079/"><u>Step-by-Step Guide: Handling 'Semaphore Timed Out' With Code 0X80070079</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-screen-mirroring-problems-making-your-windows-t-10-cast-perfectly/"><u>Troubleshooting Screen Mirroring Problems: Making Your Windows T 10 Cast Perfectly</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-cant-teredo-meet-qualification-standards/"><u>Why Can't Teredo Meet Qualification Standards?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-giggles-in-a-box-iphone-fun/"><u>[Updated] In 2024, Giggles in a Box (iPhone Fun)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-leading-fb-video-players-ranking-1-10/"><u>2024 Approved Leading FB Video Players Ranking #1-10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-every-frame-windows-11-and-storyremix-combo-guide-to-video-editing/"><u>2024 Approved Perfect Every Frame Windows 11 & StoryRemix Combo Guide to Video Editing</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-winodw-11s-frustrating-0x80072efd-bug-proven-remedies-inside/"><u>Beat Winodw 11'S Frustrating 0X80072EFD Bug: Proven Remedies Inside</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-secret-voice-recorder-apps-for-android-and-ios/"><u>Best Secret Voice Recorder Apps For Android and iOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-hs50-microphone-issue-solutions-and-tips-for-users/"><u>Corsair HS50 Microphone Issue: Solutions and Tips for Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficiently-tackle-wudfhostexe-high-resource-drain-on-windows-11-devices/"><u>Efficiently Tackle wudfhost.exe High Resource Drain on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-stopped-audio-service-in-windows-7/"><u>How to Fix the Stopped Audio Service in Windows 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-15-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 15?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-high-quality-android-videos-top-10-apps/"><u>In 2024, Explore High-Quality Android Videos Top 10 Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unveiling-new-dimensions-past-manycams-scope/"><u>In 2024, Unveiling New Dimensions Past ManyCam's Scope</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-network-access-how-to-correctly-address-ethernet-malfunctions-on-windows-versions-11-7/"><u>Restoring Network Access: How to Correctly Address Ethernet Malfunctions on Windows Versions (11, 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-to-successfully-shut-down-a-non-responsive-windows-10-machine-problem-solved/"><u>Tips to Successfully Shut Down a Non-Responsive Windows 10 Machine [PROBLEM SOLVED]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-rainbow-six-siege-solutions-for-error-code-3-0x0001000b/"><u>Troubleshooting Rainbow Six Siege - Solutions for Error Code 3-0X0001000B</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-stuck-keyboard-arrows-effective-solutions-and-tips/"><u>Troubleshooting Stuck Keyboard Arrows: Effective Solutions & Tips!</u></a></li>
 </ul></div>
 

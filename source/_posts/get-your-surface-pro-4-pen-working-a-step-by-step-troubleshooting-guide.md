@@ -1,7 +1,7 @@
 ---
 title: "Get Your Surface Pro 4 Pen Working: A Step-by-Step Troubleshooting Guide"
-date: 2024-08-22T19:20:58.207Z
-updated: 2024-08-23T19:20:58.207Z
+date: 2024-12-12T19:22:33.228Z
+updated: 2024-12-17T01:21:53.885Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ It’s possible that too many people connect to the Destiny servers during the t
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable DHCP for your connection
 
 If you’re connecting via WiFi, you’re more likely to have the servers not available error in Destiny 2\. So you can try disabling DHCP in your computer to fix your problem. To do so:
@@ -52,23 +49,31 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter** **settings** on the left.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Use the Ethernet connection
 
@@ -76,23 +81,19 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 
 1. Right click on the**network icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png) ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
-3. Right click on the**connections** that you’re not using, and select**Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Right click on the**connections** that you’re not using, and select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your network card driver
 
 A missing or outdated network card driver will cause connection issues in your computer, so you should keep the network card driver up to date. There are two ways to update the network card driver:**manually**and**automatically**.**Manually update the driver**– You can go to the manufacturer’s website of your network card, then download and install the latest correct driver into your computer. Be sure to download the one that is compatible with the Windows OS running in your computer. This requires time and computer skills.**Automatically update the driver**– If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the**FREE**or the**Pro**version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a**30-day money back guarantee**):
@@ -101,20 +102,18 @@ A missing or outdated network card driver will cause connection issues in your c
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b08c06924.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Open Destiny 2 and see the servers not available error has been removed.
 
 ---
@@ -130,8 +129,6 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +136,24 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-loadlibrary-failed-with-error-1114-error/"><u>[Fixed] LoadLibrary Failed with Error 1114 Error</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>[New] In 2024, How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-chrome-companions-custom-melodies/"><u>[Updated] Finding Chrome Companion's Custom Melodies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-guide-to-choosing-youtube-friendly-video-formats/"><u>2024 Approved The Essential Guide to Choosing YouTube-Friendly Video Formats</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-xbox-gameplay-perfect-screen-recording-guide/"><u>2024 Approved Xbox Gameplay Perfect Screen Recording Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-to-live-broadcasts-activating-mobile-fm-radio-functionality-on-iphonesandroids/"><u>Connect to Live Broadcasts: Activating Mobile FM Radio Functionality on iPhones/Androids</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-error-1067-dealing-with-abrupt-endings-of-windows-operations/"><u>Decoding Error 1067: Dealing with Abrupt Endings of Windows Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-repairing-ethernet-connectivity-woes-in-windows-11-and-7-environments/"><u>Effective Solutions for Repairing Ethernet Connectivity Woes in Windows 11 & 7 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-infamous-red-error-screen-in-5-easy-steps/"><u>Fixing the Infamous Red Error Screen in 5 Easy Steps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/high-speed-action-analysis-hero5-vs-star/"><u>High-Speed Action Analysis Hero5 Vs Star</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-reconnect-and-fix-media-problems-in-your-windows-computer/"><u>How To Correctly Reconnect and Fix Media Problems in Your Windows Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-a-smooth-version-verification-in-final-fantasy-xiv-tips-and-tricks/"><u>How to Ensure a Smooth Version Verification in Final Fantasy XIV: Tips & Tricks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-complete-walkthrough-for-dealing-with-pcs-frozen-during-system-initialization/"><u>The Complete Walkthrough for Dealing with PCs Frozen During System Initialization</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-a-new-era-of-portability-connecting-pc-and-steam-deck-with-barrier-methods/"><u>Unleashing a New Era of Portability: Connecting PC & Steam Deck with Barrier Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-microsoft-store-effective-solutions-for-opening-issues/"><u>Unlocking the Microsoft Store: Effective Solutions for Opening Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203189589-win-update-freeze-at-100-heres-how-to-get-it-moving-again-fixes-included/"><u>Win Update Freeze at 100%? Here's How to Get It Moving Again - Fixes Included</u></a></li>
+</ul></div>
 

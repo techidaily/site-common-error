@@ -1,7 +1,7 @@
 ---
 title: Google Chrome Lagging or Freezing? Restart Immediately!
-date: 2024-12-02T06:18:27.084Z
-updated: 2024-12-03T23:44:57.440Z
+date: 2024-12-13T18:26:53.866Z
+updated: 2024-12-17T01:06:39.305Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -76,6 +80,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -93,12 +101,12 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Option 2–Manually**
 
@@ -108,16 +116,8 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your computer, and see if the problem is fixed or not.
 
@@ -144,10 +144,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -156,15 +152,19 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -187,19 +187,19 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-adept-principles-for-youtube-participants-for-2024/"><u>[New] Adept Principles for YouTube Participants for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-depth-photo-editing-via-vsco-a-compreeved-guide/"><u>[Updated] In-Depth Photo Editing via VSCO A Compreeved Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mirthful-stream-retriever-review/"><u>[Updated] Mirthful Stream Retriever Review</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-health-advocacy-through-strategic-social-media-plays/"><u>2024 Approved Health Advocacy Through Strategic Social Media Plays</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-15-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 15 by Name | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-i-fixed-my-windows-10-lagging-shutdown-woes/"><u>How I Fixed My Window's 10 Lagging Shutdown Woes</u></a></li>
-<li><a href="https://common-error.techidaily.com/internet-explorer-wont-open-solved/"><u>Internet Explorer Won’t Open [SOLVED]</u></a></li>
-<li><a href="https://article-tips.techidaily.com/mastering-multimedia-production-a-guide-to-editing-videos-on-windows-10-for-2024/"><u>Mastering Multimedia Production A Guide to Editing Videos on Windows 10 for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-sound-control-fixes-for-unresponsive-volume-sliders-in-windows-11-solved/"><u>Mastering Sound Control: Fixes for Unresponsive Volume Sliders in Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-media-facebook-twitter-and-instagram/"><u>Navigating the Giants of Social Media: Facebook, Twitter & Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/small-cell-lung-cancer-sclc-tends-to-be-more-aggressive-with-poorer-outcomes-compared-to-nsclcs/"><u>Small Cell Lung Cancer (SCLC) Tends to Be More Aggressive with Poorer Outcomes Compared to NSCLCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-common-problems-in-windows-10-using-the-system-file-checker-and-dism-utility/"><u>Solving Common Problems in Windows 10 Using the System File Checker and DISM Utility</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-videos-into-zen-vision-format-using-your-mac/"><u>Step-by-Step Guide: Transforming Videos Into Zen Vision Format Using Your Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackle-error-0x80072f8f-head-on-with-our-proven-windows-1110-troubleshooting-techniques/"><u>Tackle Error 0X80072F8f Head-On with Our Proven Windows 11/10 Troubleshooting Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-fan-favorite-films-reimagined-7-replacements/"><u>[New] 2024 Approved Fan-Favorite Films Reimagined - #7 Replacements</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-expressive-authenticity-learning-to-alter-voice-on-ig-for-2024/"><u>[New] Expressive Authenticity Learning to Alter Voice on IG for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-syncing-soundscape-and-scene-editing-tips-for-canva-videographers/"><u>[New] Syncing Soundscape and Scene Editing Tips for Canva Videographers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-microscope-mode-in-roblox-games/"><u>[Updated] Mastering Microscope Mode in Roblox Games</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/isowmv/"><u>「迅速なステップバイステップ：ISO画像をWMVビデオ形式への変換ガイド」</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-instagrams-rising-stars-discover-the-magic-behind-their-growth-in-9-steps/"><u>2024 Approved Instagram's Rising Stars Discover the Magic Behind Their Growth in 9 Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-and-efficiency-incorporating-luts-in-after-effects/"><u>2024 Approved Precision and Efficiency Incorporating LUTs in After Effects</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-aoc-computer-screens-not-working-properly-with-the-latest-windows-operating-system/"><u>Diagnosing and Repairing AOC Computer Screens Not Working Properly with the Latest Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209210125-error-code-0x800f081f-on-your-mind-solving-the-dotnet-35-install-problems/"><u>Error Code 0X800F081F on Your Mind? Solving the DotNet 3.5 Install Problems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-best-quality-video-with-logitech-c525-driver-update-for-windows-easy-download-options/"><u>Get the Best Quality Video with Logitech C525 Driver Update for Windows - Easy Download Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-rid-of-game-lags-in-pubg-expert-tips-and-tricks-uncovered/"><u>How to Get Rid of Game Lags in PUBG? Expert Tips & Tricks Uncovered!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-poco-x6-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Poco X6 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-guide-to-resolving-the-persistent-update-service-failed-issue-error-0x80070652/"><u>Simple Guide to Resolving the Persistent 'Update Service Failed' Issue – Error 0X80070652</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-combatting-high-disk-usage-from-microsoft-compatibility-telemetry/"><u>Troubleshooting Windows 10: Combatting High Disk Usage From Microsoft Compatibility Telemetry</u></a></li>
 </ul></div>
 

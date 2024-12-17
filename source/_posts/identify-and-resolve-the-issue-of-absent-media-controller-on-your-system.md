@@ -1,7 +1,7 @@
 ---
 title: Identify and Resolve the Issue of Absent Media Controller on Your System
-date: 2024-08-22T19:18:06.443Z
-updated: 2024-08-23T19:18:06.443Z
+date: 2024-12-12T22:20:37.703Z
+updated: 2024-12-16T23:09:35.566Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 4. [**Change the ISO file format**](#Fix4)
 5. _[**Things you should do after trying these methods**](#Fix5)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does the error occur?
 
  This error generally occurs when you are installing Windows on your PC/laptop. the possible causes can be:
@@ -48,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 
  You can actually fix the**A media driver your computer needs is missing** error easily and quickly with the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Re-plug the USB drive
 
  You can try to re-plug the USB drive to fix the problem. Try the steps below:
@@ -59,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756ddcbe2a8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Re-plug the USB drive** into the computer again.
@@ -77,18 +74,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Plug the USB drive into another USB port** . If you have the**USB 2.0 port** with your PC/laptop, try to**plug the USB drive into the USB 2.0 port** .
 
 4) Try to install Windows again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Change the settings in BIOS
 
  The problem can also be caused by the wrong configuration in BIOS. So you can change the BIOS settings in startup.
@@ -114,8 +105,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  4) Save the settings and try to install Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Change the ISO file format
 
  The ISO file faulty can also cause the issue, so you can try to change the ISO file format to solve the issue.
@@ -123,8 +115,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Double check the**extracted setup** from the ISO file. If it is in**NTFS format** , extract the ISO file in**FAT32 format** and use the setup to install Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Things you should do after trying these methods
 
  As the error message indicated, the media driver is missing in your computer, so you can try to**install the missing drivers** , and**update the outdated drivers** in your computer, in order to improve the computer performance and reduce the chances of the similar issues.
@@ -141,11 +134,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a741854f33af.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a742eeb04a11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
 
@@ -160,8 +161,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +168,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-enhancing-engagement-the-ultimate-guide-for-tiktok-unboxings/"><u>[New] Enhancing Engagement The Ultimate Guide for TikTok Unboxings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-conquer-your-screen-space-integrating-video-within-video/"><u>[New] In 2024, Conquer Your Screen Space Integrating Video Within Video</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-delving-into-past-facebook-chronicles-with-tech-help/"><u>[New] In 2024, Delving Into Past Facebook Chronicles with Tech Help</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-incessant-boot-loop-solving-windows-11-and-10-startup-problems/"><u>End the Incessant Boot Loop - Solving Windows 11 and 10 Startup Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-geforce-gtx-1070-driver-issue-on-windows-11-solved/"><u>Fix GeForce GTX 1070 Driver Issue on Windows 11 [Solved]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-proven-tactics-to-amplify-your-youtube-popularity/"><u>In 2024, Proven Tactics to Amplify Your YouTube Popularity</u></a></li>
+<li><a href="https://common-error.techidaily.com/internet-explorer-errors-heres-how-to-get-it-running-smoothly-again/"><u>Internet Explorer Errors? Here’s How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16-design-enhancements-make-repairs-simpler-compared-to-previous-models-insights-from-apple-zdnet/"><u>IPhone 16 Design Enhancements Make Repairs Simpler Compared to Previous Models - Insights From Apple | ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/is-picku-eclipse-in-the-best-photo-editor-arena-for-android-devices-in-2024/"><u>Is PickU Eclipse in the Best Photo Editor Arena for Android Devices, In 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-wireless-audio-troubleshooting-and-fix-guide-for-airpods-on-windows-pcs/"><u>Mastering Wireless Audio: Troubleshooting and Fix Guide for AirPods on Windows PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-authentication-hurdles-user-profile-service-fails-sign-in-in-modern-windows-os/"><u>Overcoming Authentication Hurdles: User Profile Service Fails Sign-In in Modern Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-how-to-get-your-bluetooth-mouse-working-on-a-windows-desktop/"><u>Step-by-Step: How to Get Your Bluetooth Mouse Working on a Windows Desktop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-y100-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y100 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-printing-issues-on-windows-locating-the-right-printer-driver/"><u>Troubleshooting Printing Issues on Windows: Locating the Right Printer Driver</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Non-HDCP Compatible Monitors: Solutions Explored"
-date: 2024-08-22T19:20:56.032Z
-updated: 2024-08-23T19:20:56.032Z
+date: 2024-12-13T23:10:27.035Z
+updated: 2024-12-16T17:29:09.903Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 ## Troubleshooting Stuck Personalization Features: Solutions Found
 
 If you’re greeted with a dark screen with this **Personalized Settings (Not Responding)** box in the upper left after**Windows Update** , don’t panic. Many users have reported the same. But luckily they’ve solved this woe with the fixes below. So read on and check them out…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Fixes for Personalized Settings (Not Responding)
 
@@ -46,23 +50,23 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
 2. In the bottom right of your screen, click **the airplane mode icon![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a54a1f6ef.png)**  
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
-3. In the middle of your computer screen, click**Sign out** .
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. In the middle of your computer screen, click**Sign out** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Log in your computer and see if you get your desktop back this time. If the**Personalized Settings (Not Responding)** still lingers on, you should try **Fix 3** , below.
 
 ---
@@ -73,11 +77,13 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 2. Right-click on**Windows Explorer** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a86cad1b3.jpg)
 3. Click**File** \>**Run new task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
 4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
 
  Now you should have your desktop back.
@@ -85,9 +91,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run SFC Command
 
 1. On your keyboard, press the **Windows logo key**  and type**cmd** . Then right click on**Command Prompt** and click**Run as administrator** .  
@@ -97,16 +100,14 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Delete a file in regedit
 
  Please note: any modifications in regedit must be proceeded with caution to avoid further problems.
@@ -114,23 +115,17 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 1. On your keyboard, press the **Windows logo key**  and type**regedit** , then right-click on**regedit** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b3d238270.png)  
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click**Yes** when prompted to confirm.
 2. Locate and double-click on **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \> **Microsoft** \> **Active Setup** \> **Installed Components** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b61a4971d.jpg)
 3. Right-click on**the last file** and click**Export** to back up the file.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
  If this fix doesn’t help with the situation, you might want to import the file to restore the backup. Check out **[this link](https://tools.techidaily.com/drivereasy/download/)**  for further information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on**the last file** and click**Delete** .
 5. Restart your computer and see if your desktop comes back.
 
@@ -152,8 +147,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +154,19 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[Updated] In 2024, From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-iphone-night-photography-tips-take-night-photos-with-iphone/"><u>[Updated] IPhone Night Photography Tips Take Night Photos with iPhone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-integration-for-tiktok-video-content/"><u>2024 Approved Twitter Integration for TikTok Video Content</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/fixing-audio-only-issues-resolving-windows-1011-video-display-problems/"><u>Fixing Audio-Only Issues: Resolving Windows 10/11 Video Display Problems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-android-mobas-a-decade-of-favorite-titles-top-10/"><u>In 2024, Android MOBAs A Decade of Favorite Titles - Top 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-crafting-compelling-narratives-key-market-words-and-phrases/"><u>In 2024, Crafting Compelling Narratives Key Market Words and Phrases</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-on-windows-stuttering-and-freezing-correct-graphic-card-driver-errors-here/"><u>Minecraft on Windows Stuttering and Freezing? Correct Graphic Card Driver Errors Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/shockwave-flash-restored-now-works-seamlessly-with-google-chrome-update/"><u>Shockwave Flash Restored: Now Works Seamlessly with Google Chrome [Update]</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-s-pen-problems-a-comprehensive-fixing-manual-for-samsungs-digital-pens/"><u>Solve Your S Pen Problems: A Comprehensive Fixing Manual for Samsung's Digital Pens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-recording-calls-with-your-iphone-and-understanding-local-laws/"><u>Step-by-Step Guide: Recording Calls with Your iPhone & Understanding Local Laws</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovos-unresponsive-mouse-pad-on-windows-operating-systems-win-1187/"><u>Troubleshooting Lenovo's Unresponsive Mouse Pad on Windows Operating Systems (Win 11/8/7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-connection-issues-with-airpods-on-microsofts-latest-operating-systems-windows-10-and-11/"><u>Ultimate Guide: Resolving Connection Issues with AirPods on Microsoft's Latest Operating Systems (Windows 10 & 11)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring Compatible Cameras for Windows Hello
-date: 2024-12-09T16:00:11.552Z
-updated: 2024-12-10T17:32:21.531Z
+date: 2024-12-15T02:13:36.436Z
+updated: 2024-12-16T16:25:48.417Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Windows Update Troubleshooter
 
 **Windows Update Troubleshooter**   is a useful troubleshooting tool that helps us solve common Windows update issues. Here’s how to run Troubleshooter:
@@ -47,7 +43,11 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Windows Update**   \> **Run the troubleshooter** .
@@ -68,10 +68,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click **Yes**   when prompted to confirm.
 
 2) In the command prompt window, type **sfc /scannow**   and press **Enter** .
@@ -89,6 +85,10 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
  2) Type **the following command**   and press **Enter** :
@@ -96,10 +96,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 **DISM.exe /Online /Cleanup-image /Restorehealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Wait for a while for the whole process to finishes.
   
@@ -109,15 +105,15 @@ Wait for a while for the whole process to finishes.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Delete Windows Update Cache
 
  Deleting Windows Update Cache is another useful method to help us fix the **0x80073712** error code. Here’s how:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
 
@@ -126,34 +122,38 @@ Wait for a while for the whole process to finishes.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a89c68a29.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Press**Ctrl** and**A** at the same time, then right-click to pop up a menu and click**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a98e3f0f6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) When asked to provide administrator permission, check**the box** before**Do this for all current items** and click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ab04cd2f7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Back to the**Services** window, right-click on**Windows Update** and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Restart your computer and try the Windows update again to see if the error code disappears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Use **Media Creation Tool** to have a clean installation of Windows 10
 
@@ -188,18 +188,24 @@ Wait for a while for the whole process to finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-into-the-depths-of-screen-capture-a-youtube-perspective-for-idevices/"><u>[New] In 2024, Into the Depths of Screen Capture A YouTube Perspective for iDevices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-low-cost-cloud-vaulting-for-massive-file-stashing/"><u>[New] Low Cost Cloud Vaulting for Massive File Stashing</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-top-3-methoden-fur-die-automatische-synchronisation-ihres-inventars-unter-windows-11-10-8-und-7-einfache-losungen-erklart/"><u>1. Top 3 Methoden Für Die Automatische Synchronisation Ihres Inventars Unter Windows 11, 10, 8 Und 7: Einfache Lösungen Erklärt</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-m4v3g2/"><u>線上無成本Movavi M4V至3G2影像格式轉換工具</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beware-of-binggpt-related-cryptocurrency-scams-tokens-to-avoid-and-warning-signs/"><u>Beware of BingGPT-Related Cryptocurrency Scams: Tokens to Avoid and Warning Signs</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210351826-comprehensive-troubleshoot-for-windows-11s-persistent-0xc190n0028-upgrade-hurdle-solutions-included/"><u>Comprehensive Troubleshoot for Windows 11'S Persistent 0xC190n0028 Upgrade Hurdle - Solutions Included</u></a></li>
-<li><a href="https://article-tips.techidaily.com/conquering-video-design-challenges-with-filmora-tips-for-2024/"><u>Conquering Video Design Challenges with Filmora Tips for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fixes-for-common-windows-problems-addressing-the-entry-point-not-found-error/"><u>DIY Fixes for Common Windows Problems: Addressing the Entry Point Not Found Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/exploring-ways-to-fix-windows-10-a-guide-to-using-sfc-and-dism-tools/"><u>Exploring Ways to Fix Windows 10: A Guide to Using SFC & DISM Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-unresponsive-space-bar-issue-on-windows-11-systems/"><u>Fixing the Unresponsive Space Bar Issue on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-nonfunctional-dell-webcams-in-windows-a-step-by-step-guide/"><u>Troubleshoot Nonfunctional Dell Webcams in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/unable-to-print-pdf-files-easy-effective-troubleshooting-steps-inside/"><u>Unable to Print PDF Files? Easy, Effective Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-features-with-msixbundle-and-msix-package-installations/"><u>Unlocking Features with MSixBundle & MSIX Package Installations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-ps3-gaming-capture-step-by-step-guide/"><u>[New] Mastering PS3 Gaming Capture Step-by-Step Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-whats-your-expected-income-as-a-podcaster-for-2024/"><u>[Updated] What's Your Expected Income? - As a Podcaster for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-non-athletic-games-the-best-10-front-rows/"><u>2024 Approved Non-Athletic Games The Best 10 Front Rows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photography-at-the-tip-of-your-fingers-top-10-apps/"><u>2024 Approved Photography at the Tip of Your Fingers – Top 10 Apps</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/5win11/"><u>专业解码：5种最佳方法使用命令提示符维修Win11系统</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-methods-for-reinstating-msvcp140dll/"><u>Effective Methods for Reinstating MSVCP140.dll</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-fix-for-windows-d3dx943dll-file-not-found-issue/"><u>Fast Fix for Windows D3DX9_43.dll File Not Found Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-cannot-read-from-disk-issue-in-windows-operating-system/"><u>How to Fix 'Cannot Read From Disk' Issue in Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-microphone-functionality-on-your-windows-11-pc-a-step-by-step-solution/"><u>How to Restore Microphone Functionality on Your Windows 11 PC: A Step-by-Step Solution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-stop-motion-films-the-ultimate-15-list/"><u>In 2024, Pioneering Stop-Motion Films - The Ultimate 15 List</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-persistent-directx-faults-addressing-unrecoverable-errors-successfully/"><u>Overcoming Persistent DirectX Faults: Addressing Unrecoverable Errors Successfully</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-and-easy-how-to-record-your-iphone-7-display-for-2024/"><u>Quick & Easy How to Record Your iPhone 7 Display for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-asus-built-in-camera-operation/"><u>Restoring ASUS Built-In Camera Operation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionizing-workplace-technology-how-apples-vision-pro-offers-advanced-enterprise-device-control-according-to-zdnet/"><u>Revolutionizing Workplace Technology: How Apple's Vision Pro Offers Advanced Enterprise Device Control, According to ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-code-28-troubleshooting-headache-for-a-smooth-windows-experience/"><u>Solve Your Code 28 Troubleshooting Headache for a Smooth Windows Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-the-user-profile-service-failure-when-logging-into-windows-1011-systems/"><u>Step-by-Step Solutions to Overcome the User Profile Service Failure When Logging Into Windows 10/11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-launched-renderer-after-troubleshooting-new-solutions-as-of-query-what-is-the-meaning-of-initialization-in-computer-terms-and-how-does-it-relat52/"><u>Successfully Launched Renderer After Troubleshooting - New Solutions as of # Query: What Is the Meaning of Initialization in Computer Terms, and How Does It Relate to a Renderer?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-fixing-livekernel-event-code-144/"><u>Troubleshooting Steps for Fixing LiveKernel Event Code: 144</u></a></li>
 </ul></div>
 

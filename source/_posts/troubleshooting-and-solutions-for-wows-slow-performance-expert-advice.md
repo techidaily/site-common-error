@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solutions for Wow's Slow Performance - Expert Advice
-date: 2024-08-15T11:11:42.270Z
-updated: 2024-08-16T11:11:42.270Z
+date: 2024-12-12T23:44:42.337Z
+updated: 2024-12-16T20:37:29.018Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/2b40a723a6077cb6c79bfb5924e552b293609acaf
 
  If you run into the **Astro A40** **mic not working** problem, don’t panic – many users have reported the same. Luckily, it’s quite easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for Astro A40 Mic Not Working
 
  All the screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** &**7** as well.
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/2b40a723a6077cb6c79bfb5924e552b293609acaf
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -46,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/2b40a723a6077cb6c79bfb5924e552b293609acaf
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -54,18 +59,12 @@ To make sure the volume is audible:
 
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -74,20 +73,29 @@ To do so:
 
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
@@ -109,9 +117,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -136,8 +141,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +148,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-nextgen-fidelity-upgrade-your-viewing-experience/"><u>[Updated] 2024 Approved NextGen Fidelity Upgrade Your Viewing Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-top-ios-slideshow-creation-tools-xs-max-a9/"><u>[Updated] In 2024, Top iOS Slideshow Creation Tools (XS Max - A9)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-years-round-showcase-of-best-zero-toll-livestream-utilities-for-2024/"><u>[Updated] Year's Round Showcase of Best Zero-Toll LiveStream Utilities for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206148291-fix-broken-device-drivers-in-no-time-easy-steps-inside/"><u>Fix Broken Device Drivers in No Time - Easy Steps Inside</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gnome-46-release-boosting-your-linux-experience-is-it-a-game-changer/"><u>GNOME 46 Release: Boosting Your Linux Experience - Is It a Game Changer?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-inserting-tracks-in-youtube-playlists/"><u>In 2024, Step-by-Step Inserting Tracks in YouTube Playlists</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-with-manycam-top-notch-virtual-webcam-solutions/"><u>Live Streaming Mastery with ManyCam: Top-Notch Virtual Webcam Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-sharing-power-strategies-for-uploading-oversized-videos-to-discord-without-spending-a-dime/"><u>Maximize Your Sharing Power: Strategies for Uploading Oversized Videos to Discord without Spending a Dime</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unresponsive-google-chrome-issues/"><u>Resolving Unresponsive Google Chrome Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/searching-for-gone-screen-adjustment-in-win-oses/"><u>Searching For Gone Screen Adjustment in Win OSes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-to-selecting-from-the-top-9-free-youtube-tools-for-2024/"><u>The Ultimate Guide to Selecting From the Top 9 FREE YouTube Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-cannot-launch-new-world-due-to-easy-anti-cheat-issues/"><u>Troubleshooting Guide: Resolving 'Cannot Launch New World' Due to Easy Anti-Cheat Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/verdict-no-drivers-advocating-for-opengl/"><u>Verdict: No Drivers Advocating for OpenGL</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207177279-windows-amozekioe11-not-working-heres-how-you-can-repair-it/"><u>Windows Amozekioe11 Not Working? Here's How You Can Repair It!</u></a></li>
+</ul></div>
 

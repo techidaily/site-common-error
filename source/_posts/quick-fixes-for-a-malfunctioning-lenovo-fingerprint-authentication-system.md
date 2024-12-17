@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for a Malfunctioning Lenovo Fingerprint Authentication System
-date: 2024-12-04T18:11:07.504Z
-updated: 2024-12-10T20:46:31.211Z
+date: 2024-12-13T21:09:54.836Z
+updated: 2024-12-17T00:04:43.444Z
 tags:
   - win11
   - win10
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable Sleep Mode
@@ -89,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 #### on Windows 11
@@ -100,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
@@ -126,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
@@ -161,10 +165,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -187,10 +187,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
@@ -198,7 +194,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Follow the on-screen wizard to install the driver.
@@ -208,10 +204,6 @@ OR
  After updating your tablet driver, check to see if the digital pen works properly. In case the problem persists, you should try out the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Uncheck “Enable Windows Ink”
 
@@ -225,6 +217,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then save the file as**PSUserConfig.txt** to the following location:
 
 C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photoshop CC 2018 Settings
@@ -234,6 +230,10 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 **Note** that some of the functions in your drawing software may be unusable if you disable Windows Ink. In that situation, you’ll need to enable Windows Ink again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
@@ -260,14 +260,24 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-choices-full-sweep-video-recording-systems/"><u>[New] Top Choices Full Sweep Video Recording Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bridging-photography-and-cinematography-creating-fusion-videos-using-pixiz/"><u>[Updated] Bridging Photography and Cinematography Creating Fusion Videos Using Pixiz</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-discover-the-tricks-to-recording-and-screencasting-your-youtube-views-without-cash/"><u>[Updated] Discover The Tricks to Recording & Screencasting Your YouTube Views without Cash</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-complete-angle-manipulation-handbook-for-youtube-videos/"><u>[Updated] The Complete Angle Manipulation Handbook for YouTube Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210270217-game-changer-unleashed-experience-lightning-speed-in-action-today/"><u>Game-Changer Unleashed: Experience Lightning Speed in Action Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-device-connected-steps-to-restore-and-activate-wi-fi/"><u>Get Your Device Connected: Steps to Restore and Activate Wi-Fi</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212019355-league-of-legends-update-woes-heres-how-you-can-fix-those-dragging-downloads/"><u>League of Legends Update Woes? Here's How You Can Fix Those Dragging Downloads</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/nioh-2-complete-edition-ultimate-guide-to-solving-game-crash-issues/"><u>Nioh 2 Complete Edition: Ultimate Guide to Solving Game-Crash Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-rendering-api-update-issue-2024-in-dota-2-with-ease/"><u>Resolve Your 'Rendering API Update Issue 2024' In Dota 2 with Ease</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-gopro-max-360-vs-hero-11-which-takes-the-lead-in-2024/"><u>[New] GoPro Max 360 vs Hero 11 Which Takes the Lead, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-optimal-film-and-camera-choices-for-youtube-vloggers/"><u>[Updated] 2024 Approved Optimal Film & Camera Choices for YouTube Vloggers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-overcoming-inconsistency-stop-obs-frame-loss/"><u>[Updated] 2024 Approved Overcoming Inconsistency Stop OBS Frame Loss</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-swift-circulation-of-playlists-on-youtube/"><u>[Updated] 2024 Approved Swift Circulation of Playlists on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-content-steps-to-boosting-youtube-visibility-for-2024/"><u>[Updated] Elevate Your Content Steps to Boosting YouTube Visibility for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-record-internal-audio-in-android-without-root-4-ways/"><u>[Updated] In 2024, Record Internal Audio in Android without Root [4 Ways]</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-the-role-of-authenticity-in-online-self-portraits/"><u>[Updated] Unveiling the Role of Authenticity in Online Self-Portraits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>2024 Approved Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/beating-the-blues-of-windows-updates-overcoming-error-code-0x80240n17/"><u>Beating the Blues of Windows Updates: Overcoming Error Code 0X80240n17</u></a></li>
+<li><a href="https://common-error.techidaily.com/detecting-missing-dll-msvcr120-error/"><u>Detecting Missing DLL: MSVCR120 Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-windows-10-error-0x80070541-during-updates/"><u>Effective Solutions for Overcoming Windows 10 Error 0X80070541 During Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-for-your-windows-10-a-guide-to-sfc-and-dism-tools/"><u>Essential Fixes for Your Windows 10: A Guide to SFC and DISM Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-computers-usb-connection-issues-with-simple-troubleshooting-tips/"><u>Fix Your Computer's USB Connection Issues with Simple Troubleshooting Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixation-techniques-overcoming-the-configuring-windows-hurdle/"><u>Fixation Techniques: Overcoming the 'Configuring Windows' Hurdle</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-poco-c50-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Poco C50 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-hp-laptops-malfunctioning-usb-port-a-complete-guide/"><u>How to Fix HP Laptop's Malfunctioning USB Port: A Complete Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/repair-your-windows-10-system-easily-without-any-physical-media-top-6-methods-explored/"><u>Repair Your Windows 10 System Easily Without Any Physical Media - Top 6 Methods Explored</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-valorant-crashes-necessary-system-reboot/"><u>Resolving Valorant Crashes: Necessary System Reboot</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-doesnt-my-laptop-touchpad-scroll-properly-on-windows-10-solutions-inside/"><u>Why Doesn't My Laptop Touchpad Scroll Properly on Windows 10? Solutions Inside!</u></a></li>
 </ul></div>
 

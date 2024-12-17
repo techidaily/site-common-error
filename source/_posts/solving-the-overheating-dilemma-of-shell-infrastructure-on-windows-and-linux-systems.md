@@ -1,7 +1,7 @@
 ---
 title: Solving the Overheating Dilemma of Shell Infrastructure on Windows and Linux Systems
-date: 2024-08-22T19:18:23.887Z
-updated: 2024-08-23T19:18:23.887Z
+date: 2024-12-10T01:04:52.541Z
+updated: 2024-12-17T01:35:03.515Z
 tags:
   - win11
   - win10
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
  It might seem obvious, but a simple**restart** of your computer can often work wonders. It clears temporary files and resets processes, potentially giving sihost.exe a fresh start.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Keep Windows up to date
 
  Microsoft has made an effort to reduce this kind of issue on Windows 10/11, and installing pending Windows updates helped many users solve the problem. So try it first! Here’s how to update Windows to the most recent version:
@@ -54,12 +51,18 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 1. Click**Start** , and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-setting.jpg)
 2. Select**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/update-and-security.jpg)
 3. Click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/updates-1.jpg)
 4. Update your OS as required, and restart your computer to see if the issue has been resolved.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If Updating your Windows is not helping, move on to the second fix.
@@ -73,17 +76,24 @@ If Updating your Windows is not helping, move on to the second fix.
 2. Select**Personalization** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/personalization.jpg)
 3. In the **Background** field, select **Picture** or **Solid color.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background1.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this step still can’t improve the CPU usage, move on to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Use a different photo viewer app
 
  One of the major causes of the Shell Infrastructure Host high CPU problem is the memory leak issue with the default photo viewer app in Windows. This bug makes sihost.exe query the registry all the time, which leads to the high CPU usage.
@@ -93,19 +103,17 @@ If Updating your Windows is not helping, move on to the second fix.
 1. Click**Start** , and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-setting.jpg)
 2. Select**Apps.**  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/settings-app.jpg)
 3. Select**Default apps** , then click**Photos** (which is the default photo viewer app in Windows).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/default-apps.jpg)
 4. Switch to another app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/choose-an-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Then check if that resolves the issue. If nothing changes, you might need to repair corrupt system files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupt system files
 
@@ -123,9 +131,6 @@ Here’s how to use Fortect to repair your system files:
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact**<support@fortect.com>** for a full refund.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Run System Maintenance Troubleshooter
 
  Running the System Maintenance Troubleshooter is another proven solution to this problem. It’s a tool that can fix various system maintenance-related problems on your computer. To run it, follow the steps below:
@@ -133,29 +138,22 @@ Here’s how to use Fortect to repair your system files:
 1. Right-click**Start** button and select**Run** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-runn.jpg)
 2. **Type** **the following** into the command line and press**Enter** :  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `%systemroot%\system32\msdt.exe -id MaintenanceDiagnostic`  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/run-troubleshooting.jpg)
 3. Click **Advanced** in the pop-up box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced.jpg)
 4. Click**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/as-admin.jpg)
 5. Click**Next** . Then the system maintenance tool will do the troubleshooting for you and inform you when it’s completed.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/next.jpg)
 
  If the issue disappears, congrats! If not, there is one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Perform a clean boot
 
  A Clean boot is performed to start Windows by using a minimal set of drivers and startup programs. By doing so, you can determine whether a software (like photo editing apps) is continuously operating in the background and causing high CPU usage. Here’s how you do it:
@@ -163,9 +161,6 @@ Here’s how to use Fortect to repair your system files:
 1. Right-click**Start** button and select**Run** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-runn.jpg)
 2. Type**msconfig** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/msconfig.jpg)
 3. On the **Services**  tab of System Configuration, select **Hide all Microsoft services** , and then select **Disable all** . Click **Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot1-1.jpg)
@@ -174,17 +169,15 @@ Here’s how to use Fortect to repair your system files:
 5. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot3-1.jpg)
 6. Go back to the **System Configuration** window and click **OK** to save the changes you just made.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot4.jpg)
 7. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot5.jpg)
 8. Check to see if the problem goes away.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  Your computer may temporarily lose some functionality while in a clean boot environment, but that functionality will return when you[reset the computer to start normally](#reset) .
 
@@ -205,14 +198,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. On the **General**  tab, select **Normal startup** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot6.jpg)
 4. Select the **Services**  tab, clear the check box beside **Hide all Microsoft services** , select **Enable all** , then select **Apply** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot7.jpg)
 5. Select the **Startup**  tab, then select **Open Task Manager** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. In Task Manager, Enable all of the startup programs you had Disabled before, and then select **OK** .
 7. When you’re prompted to restart the computer, select **Restart** .
 
@@ -227,8 +224,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +231,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-the-requested-operation-requires-elevation-on-windows-11107/"><u>[FIXED] The Requested Operation Requires Elevation on Windows 11/10/7</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comment-effacement-en-serie-de-votre-windows-11-vers-une-cle-usb-ou-hdd-externe-le-guide-complet/"><u>Comment Effacement en Série De Votre Windows 11 Vers Une Clé USB Ou HDD Externe : Le Guide Complet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-fixing-persistent-dota-2-crashes-efficiently/"><u>Expert Advice on Fixing Persistent Dota 2 Crashes Efficiently</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2003-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2003</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-continuous-system-lag-and-keep-your-computer-running-smoothly/"><u>How to Overcome Continuous System Lag and Keep Your Computer Running Smoothly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-elevating-visual-storytelling-expert-techniques-for-instagram-video-edits/"><u>In 2024, Elevating Visual Storytelling Expert Techniques for Instagram Video Edits</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/issue-addressed-comprehve-solutions-for-non-typing-keyboards/"><u>Issue Addressed: Comprehve Solutions for Non-Typing Keyboards</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-when-your-lenovos-fingerprint-scanner-stops-responding/"><u>Quick Fixes When Your Lenovo's Fingerprint Scanner Stops Responding</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/seamless-tactic-for-igtv-stories-integration/"><u>Seamless Tactic for IGTV Stories Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/struggling-with-printer-and-pdfs-find-swift-fixes-here/"><u>Struggling with Printer and PDFs? Find Swift Fixes Here.</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-10-avants-gardistes-outils-de-montage-video-pour-ordinateurs-personnels/"><u>Top 10 Avants-Gardistes Outils De Montage Vidéo Pour Ordinateurs Personnels</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-update-failed-issues-in-warframe/"><u>Troubleshooting Guide: Resolving 'Update Failed' Issues in Warframe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-to-eliminate-league-of-legends-black-screen-tips/"><u>Ultimate Troubleshooting Guide to Eliminate League of Legends' Black Screen - Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-are-my-arrow-keys-not-responding-quick-solutions-inside/"><u>Why Are My Arrow Keys Not Responding? Quick Solutions Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-fortnite-lag-and-frozen-screens-on-your-pc-update-top-fixes/"><u>Winning the Battle Against Fortnite Lag & Frozen Screens on Your PC (Update: Top Fixes )</u></a></li>
+</ul></div>
 

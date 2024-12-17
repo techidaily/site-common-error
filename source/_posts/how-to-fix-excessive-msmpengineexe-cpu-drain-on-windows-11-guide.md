@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excessive MsMpEngine.exe CPU Drain on Windows 11 [GUIDE]
-date: 2024-12-02T00:03:25.415Z
-updated: 2024-12-04T07:46:53.373Z
+date: 2024-12-13T18:16:12.992Z
+updated: 2024-12-16T23:02:42.886Z
 tags:
   - win11
   - win10
@@ -66,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
@@ -85,16 +89,12 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9) See if the problem is resolved.
 
@@ -106,23 +106,23 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer after this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Troubleshoot Windows Updates issues**
 
@@ -132,21 +132,21 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click**Windows Update** and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **PRO TIP**
 
@@ -164,15 +164,15 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -189,21 +189,15 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-social-synergy-sharing-tweets-as-snaps-in-2e-2023/"><u>[New] In 2024, Social Synergy Sharing Tweets as Snaps in 2E 2023</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ptimize-your-music-experience-the-best-apps-for-turning-spotify-into-youtube/"><u>[New] Optimize Your Music Experience The Best Apps for Turning Spotify Into YouTube</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-when-your-computer-wont-recognize-your-usb-drive/"><u>Effortless Fixes for When Your Computer Won't Recognize Your USB Drive</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/extensive-look-at-djis-inspire-1-drone-for-2024/"><u>Extensive Look at DJI's Inspire 1 Drone for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/filtragem-e-conversao-simplificada-de-audiotextos-de-m4a-para-mp3-sem-custo-tecnica-rapida-e-direta-com-movavi/"><u>Filtragem E Conversão Simplificada De Audiotextos: De M4A Para MP3 Sem Custo - Técnica Rápida E Direta Com Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-permanent-windows-10-update-freeze-at-99-percent/"><u>Fixing the Permanent Windows 10 Update Freeze at 99 Percent</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-overwatch-server-connection-error-quickly-and-easily/"><u>How to Resolve the Overwatch Server Connection Error Quickly and Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2007-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2007 document electronically</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-going-back-in-space-and-time-rewind-your-instagram-video/"><u>In 2024, Going Back in Space and Time Rewind Your Instagram Video</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-steams-playtime-tracking-hours-logged-and-points-earned/"><u>Navigating Steam's Playtime Tracking: Hours Logged & Points Earned</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New 2024 Approved Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-a-comprehensive-guide-on-overcoming-the-red-screen-error/"><u>Resolved: A Comprehensive Guide on Overcoming the Red Screen Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-final-countdown-over-fortnite-launched/"><u>The Final Countdown Over - Fortnite Launched</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-unfiltered-truth-insights-into-instagram-reels/"><u>The Unfiltered Truth Insights Into Instagram Reels</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-red-dead-redemption-ii-memory-full-error-with-easy-pagefile-increase-tips/"><u>Troubleshoot Red Dead Redemption II 'Memory Full' Error with Easy Pagefile Increase Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-pubg-network-delays-and-errors-for-improved-online-play-experience/"><u>Troubleshooting PUBG Network Delays and Errors for Improved Online Play Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-enhancing-youtube-watching-with-list-rearrangement/"><u>[Updated] 2024 Approved Enhancing YouTube Watching with List Rearrangement</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-graphics-glitches-immediate-ways-to-address-failure-of-directx-initialization/"><u>Overcome Graphics Glitches: Immediate Ways to Address Failure of DirectX Initialization</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ering-your-way-up-on-youtube-26-key-strategies-for-2024/"><u>Pioneering Your Way Up on YouTube 26 Key Strategies for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-fixing-windows-10-store-error-0x80073cf9/"><u>Resolving the Issue: Fixing Windows 10 Store Error 0X80073CF9</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rumors-vs-facts-on-tesla-botataxi-insights-into-pricing-availability-specs/"><u>Rumors Vs. Facts on Tesla Botataxi - Insights Into Pricing, Availability, Specs</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-entry-point-missing-error-in-microsoft-windows-environments/"><u>Understanding and Fixing the Entry Point Missing Error in Microsoft Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-ports-failure-in-windows-1011-heres-how-to-fix-them/"><u>USB Ports Failure in Windows 10/11? Here's How to Fix Them!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-infinix-zero-5g-2023-turbo-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Infinix Zero 5G 2023 Turbo Phone Network-Ready</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-old-school-charm-may-reignite-interest-in-instagram/"><u>Why Old-School Charm May Reignite Interest in Instagram</u></a></li>
 </ul></div>
 

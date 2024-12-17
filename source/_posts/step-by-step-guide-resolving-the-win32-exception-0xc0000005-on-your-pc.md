@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving the Win32 Exception (0xC0000005) on Your PC"
-date: 2024-08-22T19:19:21.375Z
-updated: 2024-08-23T19:19:21.375Z
+date: 2024-12-13T23:32:19.914Z
+updated: 2024-12-17T02:06:30.807Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
  This small guide will be showing you how to fix the Shift key bot working issue step by step. Read on and go on with the steps to troubleshoot your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Shift key not working?
 
 A quick check before we start:
@@ -42,6 +46,10 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -55,6 +63,10 @@ Follow these:
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
@@ -74,11 +86,16 @@ Follow these:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Update your keyboard driver
 
  This problem may be caused by an old, corrupted, or missing keyboard driver. If so, you can solve it by updating the keyboard driver.
@@ -95,18 +112,12 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -117,8 +128,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +135,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-earinsight-exploring-audio-samples/"><u>[New] EarInsight Exploring Audio Samples</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-framing-speed-the-hyperlapse-video-methods/"><u>[New] Framing Speed The Hyperlapse Video Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ideal-screen-capturing-solutions-for-igadgets/"><u>[New] Ideal Screen Capturing Solutions for iGadgets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-efficiently-handling-youtube-short-issues/"><u>[Updated] Efficiently Handling YouTube Short Issues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-sandbox-experiences-for-gamers/"><u>[Updated] In 2024, Essential Sandbox Experiences for Gamers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-petite-narrative-blueprint/"><u>[Updated] Petite Narrative Blueprint</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726028788387-vimeomp3/"><u>「Vimeoビデオの音声抽出とMP3保存方法 -ステップバイステップ解説」</u></a></li>
+<li><a href="https://common-error.techidaily.com/battleye-service-installation-issue-resolved-successful-fix/"><u>BattlEye Service Installation Issue Resolved - Successful Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-ways-to-resolve-csgo-crashes-get-back-in-action-immediately/"><u>Effortless Ways to Resolve CSGO Crashes - Get Back in Action Immediately</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-amd-drivers-that-fail-to-appear-in-windows-device-manager-comprehensive-guide/"><u>Fixing AMD Drivers That Fail to Appear in Windows Device Manager: Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-computer-stuck-on-windows-10-boot-screen/"><u>How to Fix a Computer Stuck on Windows 10 Boot Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-error-cant-find-appropriate-printer-driver/"><u>How to Fix Windows Error: Can't Find Appropriate Printer Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-system-file-checker-issues-and-sfc-errors-on-pc/"><u>How to Resolve 'Windows System File Checker' Issues and SFC Errors on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitechs-silent-hero-usb-restored/"><u>Logitech's Silent Hero: USB Restored</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-build-1607-upgrade-unsuccessful-troubleshooting-steps/"><u>Windows 10 Build 1607 Upgrade Unsuccessful: Troubleshooting Steps</u></a></li>
+</ul></div>
 

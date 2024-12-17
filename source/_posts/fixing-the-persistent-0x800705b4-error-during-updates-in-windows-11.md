@@ -1,7 +1,7 @@
 ---
 title: Fixing the Persistent 0X800705b4 Error During Updates in Windows 11
-date: 2024-12-03T19:11:17.854Z
-updated: 2024-12-10T18:45:49.063Z
+date: 2024-12-09T18:44:33.198Z
+updated: 2024-12-16T23:32:59.334Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/2df34b659b3c29b9db007fd6c1ae27a91d6916d58
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59506a549650c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Access violation error occurs when the program you try to run is attempting to reach a location that is not assigned for it. This can result from various reasons. You can try the methods below to troubleshoot this error.
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/2df34b659b3c29b9db007fd6c1ae27a91d6916d58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507cc89e487.png)
@@ -69,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/2df34b659b3c29b9db007fd6c1ae27a91d6916d58
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507e3c65465.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **c)**  Sometimes the error appears due to**corrupted Registry** . You can **[restore your Registry](https://tools.techidaily.com/drivereasy/download/)**  or check all your Registry entries and remove any redundant one.
@@ -80,21 +76,25 @@ thumbnail: https://thmb.techidaily.com/2df34b659b3c29b9db007fd6c1ae27a91d6916d58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad370059cc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
 
  In this case, you should**completely cut off the power** of your computer, and then**remove** the RAM(s) from your computer or**replace** them with other RAMs.
 
  (RAM is a hardware component inserted**inside** your computer. You need to**disassemble** your computer to remove or replace it. You can ask a specialist to do it for you, or consult your product manufacturer for assistance.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2) The application unable to start
 
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To resolve this error, you can try the methods below.
 
@@ -132,6 +132,10 @@ To resolve this error, you can try the methods below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Windows 10/11, click**Create a restore** **point** ,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
@@ -145,7 +149,7 @@ To resolve this error, you can try the methods below.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **e)** You may also get this error because your**BCD (Boot Configuration Data)** file is corrupted. You can try repairing it and see if you can fix this error.
@@ -180,10 +184,6 @@ bootrec /rebuildbcd
 
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
@@ -191,7 +191,7 @@ bootrec /rebuildbcd
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
@@ -215,19 +215,24 @@ bootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-navigating-multiplatform-movie-capture-with-expert-ease/"><u>[New] Navigating Multiplatform Movie Capture with Expert Ease</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-cinematic-clarity-hub-query-responses-for-2024/"><u>[Updated] Cinematic Clarity Hub Query Responses for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-innovate-or-stagnate-the-must-know-fb-ad-trends-for-24/"><u>2024 Approved Innovate or Stagnate – The Must-Know FB Ad Trends for '24</u></a></li>
-<li><a href="https://common-error.techidaily.com/compatibility-checklist-verify-your-system-has-a-d3d11-ready-graphics-unit-for-optimal-performance/"><u>Compatibility Checklist: Verify Your System Has a D3D11-Ready Graphics Unit for Optimal Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-common-elevation-errors-during-operation-requests-in-windows-operating-systems/"><u>Fix Common Elevation Errors During Operation Requests in Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-missing-desktop-icons-on-windows-11-complete-solution/"><u>Fixing Missing Desktop Icons on Windows 11 - Complete Solution!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-damaged-files-a-complete-fix-guide/"><u>How to Repair Damaged Files: A Complete Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-missing-desktop-for-system-account-on-windows-config/"><u>How To Restore Missing Desktop for System Account on Windows Config</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-13-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 13 when Phone is Broken?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209060932-hp-laptop-keyboard-malfunction-heres-how-to-fix-it-quickly/"><u>HP Laptop Keyboard Malfunction? Here's How to Fix It Quickly!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/public-vs-closed-ai-collaborative-versus-privatized-worlds/"><u>Public Vs. Closed AI: Collaborative versus Privatized Worlds</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mapping-out-instagram-departures/"><u>[New] 2024 Approved Mapping Out Instagram Departures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-online-meeting-capture-the-leading-5-gadgets/"><u>[Updated] In 2024, Best Online Meeting Capture The Leading 5 Gadgets</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-update-failure-in-windows-11-error-code-0x800f0922-step-by-step-fixes-for-users/"><u>Bypass Update Failure in Windows 11 (Error Code 0X800f0922): Step-by-Step Fixes for Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/et3rminate-all-unnecessary-applications-running-in-the-background-that-might-be-hogging-system-resources-which-could-potentially-help-with-driver-installati98/"><u>e.t3rminate All Unnecessary Applications Running in the Background that Might Be Hogging System Resources, Which Could Potentially Help with Driver Installation Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-speaker-distortion-on-windows-107-a-comprehensive-guide/"><u>How to Fix Speaker Distortion on Windows 10/7 - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-ce-34878-0-issue-on-your-playstation-4-a-comprehensive-guide/"><u>How to Fix the CE-34878-0 Issue on Your PlayStation 4: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-10-and-11-update-error-code-0x8024401c/"><u>How to Fix Windows 10 and 11 Update Error Code 0X8024401c</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-capture-and-keep-best-five-extensions-for-fb-videos/"><u>In 2024, Capture and Keep Best Five Extensions for Fb Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-master-switch-pro-controller-gaming-in-steam/"><u>In 2024, How to Master Switch Pro Controller Gaming in Steam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-xbox-one-shutterbug-techniques/"><u>In 2024, The Ultimate Xbox One Shutterbug Techniques</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y200-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y200 Phone FRP Lock</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-ps4-game-capture-via-obs-studio-for-2024/"><u>Mastering PS4 Game Capture via OBS Studio for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-error-of-failure-in-creating-a-directx-graphics-device/"><u>Resolved: Fixing the Error of Failure in Creating a DirectX Graphics Device</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/resolved-login-issues-post-factory-reset-on-windows-11-a-comprehensive-guide/"><u>Resolved: Login Issues Post-Factory Reset on Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-youtube-audio-issues-fixing-the-audio-renderer-glitch-in-windows-11/"><u>Resolving YouTube Audio Issues: Fixing the Audio Renderer Glitch in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-flickering-effective-fixes-for-continuous-cursor-blinking-problems/"><u>Say Goodbye to Flickering: Effective Fixes for Continuous Cursor Blinking Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-walkthrough-activating-usb-tethering-in-windows-10-made-easy/"><u>Step-by-Step Walkthrough: Activating USB Tethering in Windows 10 Made Easy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-9-dangers-when-ai-takes-over-emotional-care/"><u>The 9 Dangers: When AI Takes Over Emotional Care</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-16-gratuito-video-codec-softwares-para-a-perfeicao-do-seu-projeto/"><u>Top 16 Gratuito Video Codec Softwares Para a Perfeição Do Seu Projeto</u></a></li>
 </ul></div>
 

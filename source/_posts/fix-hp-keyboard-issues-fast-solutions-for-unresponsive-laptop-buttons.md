@@ -1,7 +1,7 @@
 ---
 title: Fix HP Keyboard Issues Fast - Solutions for Unresponsive Laptop Buttons
-date: 2024-12-07T19:29:21.184Z
-updated: 2024-12-10T19:27:37.387Z
+date: 2024-12-12T22:34:53.041Z
+updated: 2024-12-17T01:57:02.632Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/670a3d23e314a574aa8e5af4448af6d1aaae62996
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,6 +51,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -54,7 +62,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -80,10 +88,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -119,7 +123,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
@@ -135,16 +139,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,24 +184,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-corsair-keyboard-not-lighting-up/"><u>[Fixed] Corsair Keyboard Not Lighting Up</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-from-airplay-to-download-effortless-apods-access/"><u>[New] 2024 Approved From AirPlay to Download Effortless APods Access</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-master-the-art-of-subtitling-a-brief-blueprint-for-your-fb-video-uploads/"><u>[New] Master the Art of Subtitling A Brief Blueprint for Your FB Video Uploads</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-banishing-bulky-buffered-broadcasts-windows-android-tips/"><u>[Updated] In 2024, Banishing Bulky Buffered Broadcasts Windows, Android Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/a-deep-dive-into-insta-verified-posts-for-2024/"><u>A Deep Dive Into Insta Verified Posts for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-enhanced-apple-vision-pro-experiences-tips-and-tricks-for-securing-your-demo-insights/"><u>Discover Enhanced Apple Vision Pro Experiences: Tips & Tricks for Securing Your Demo - Insights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dusk-rising-the-fade-out-process/"><u>Dusk Rising The Fade Out Process</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-unsupported-entry-notifications-on-your-screen-display/"><u>How to Correct 'Unsupported Entry' Notifications on Your Screen Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-scroll-wheel-on-your-laptops-touchpad/"><u>How to Fix Unresponsive Scroll Wheel on Your Laptop's Touchpad</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-10t-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Realme 10T 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/lgs-smart-tv-leap-discovering-the-bp550-update/"><u>LG's Smart TV Leap Discovering the BP550 Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/lowering-cpu-intensity-on-your-pc/"><u>Lowering CPU Intensity on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/new-methods-unveiled-how-to-smooth-out-your-minecraft-gaming-session/"><u>New Methods Unveiled - How To Smooth Out Your Minecraft Gaming Session</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-visual-disturbances-a-solution-for-screen-stuttering-on-windows-11/"><u>Overcoming Visual Disturbances: A Solution for Screen Stuttering on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/program-lockdown/"><u>Program Lockdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-solitude-gpt-powered-social-platforms/"><u>Redefining Solitude: GPT-Powered Social Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-steam-updates-that-wont-download/"><u>Resolving Issues with Steam Updates That Won't Download</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-resolve-the-sudden-termination-error-code-1067-in-windows-operating-system/"><u>Solved! How to Resolve the Sudden Termination Error (Code 1067) in Windows Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-overcoming-challenges-in-enabling-the-hosted-wi-fi-feature/"><u>Windows 11: Overcoming Challenges in Enabling the Hosted Wi-Fi Feature</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-movie-capture-pc-mac-and-mobile-techniques/"><u>[New] Mastering Movie Capture PC, Mac & Mobile Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-guide-to-changing-user-numbers-on-tiktok/"><u>2024 Approved Expert Guide to Changing User Numbers on TikTok</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/construct-chuckles-adobe-meme-creation/"><u>Construct Chuckles Adobe Meme Creation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-apples-revolutionary-m1-chip/"><u>Dissecting Apple’s Revolutionary M1 Chip</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-resolving-non-responsive-windows-11-start-menu-problems/"><u>Expert Guide: Resolving Non-Responsive Windows 11 Start Menu Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209423829-fixing-copy-and-paste-issues-in-windows-11-solutions-inside/"><u>Fixing 'Copy & Paste' Issues in Windows 11 - Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-vcruntime140dll-missing-file-issue-a-comprehensive-guide/"><u>Fixing VCRUNTIME140.dll Missing File Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-in-windows-10-by-drivereasy-guide/"><u>How to Manually Install a Driver in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-a-broken-usb-to-hdmi-connection-issue/"><u>How to Resolve a Broken USB to HDMI Connection Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-your-internet-access-repairing-ethernet-issues-in-windows-10-and-7-systems/"><u>How To Restore Your Internet Access: Repairing Ethernet Issues in Windows 10 and 7 Systems</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/schritt-fur-schritt-anleitung-zum-aktualisieren-von-windows-server-2012-r2-auf-version-2019/"><u>Schritt-Für-Schritt-Anleitung Zum Aktualisieren Von Windows Server 2012 R2 Auf Version 2019</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-apex-legends-simple-cheat-detection-mishap-faqs/"><u>Solving Apex Legends' Simple Cheat Detection Mishap - FAQs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-frame-rate-drop-problems-in-overwatch/"><u>Solving Frame Rate Drop Problems in Overwatch</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-guide-solving-xbox-one-controller-connectivity-issues/"><u>Ultimate Troubleshooting Guide: Solving Xbox One Controller Connectivity Issues</u></a></li>
 </ul></div>
 

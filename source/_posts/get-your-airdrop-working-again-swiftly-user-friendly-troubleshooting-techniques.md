@@ -1,7 +1,7 @@
 ---
 title: "Get Your AirDrop Working Again Swiftly: User-Friendly Troubleshooting Techniques"
-date: 2024-12-01T07:15:42.061Z
-updated: 2024-12-03T21:17:22.631Z
+date: 2024-12-09T22:15:19.031Z
+updated: 2024-12-16T16:55:14.191Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 fixes for the Huion pen not working issue
 
  Now let’s cut to the chase. Here you’ll have 5 fixes that have proved useful for the Huion pen not working issue. You don’t need to try them all; just work your way down the list until you find the one that works for you.
@@ -55,19 +51,11 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  So this is the quick fix for you. Sometimes it’s just your device driver running into glitches that caused the pen to stop working. In this case, simply shut down your computer and then restart it. The next time you use your pen on a PC, it should work as normal.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable Sleep Mode
 
@@ -85,20 +73,20 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
@@ -128,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
@@ -161,6 +153,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
@@ -181,21 +177,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Follow the on-screen wizard to install the driver.
 
@@ -214,16 +214,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then save the file as**PSUserConfig.txt** to the following location:
 
@@ -234,6 +230,10 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 **Note** that some of the functions in your drawing software may be unusable if you disable Windows Ink. In that situation, you’ll need to enable Windows Ink again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
@@ -260,22 +260,24 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-pro-iphone-light-techniques-for-expert-photographers/"><u>[New] Pro iPhone Light Techniques for Expert Photographers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-essence-of-luts-mastering-photo-color-dynamics/"><u>[New] The Essence of LUTs Mastering Photo Color Dynamics</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-five-hd-recording-cards-switch-edition/"><u>[Updated] In 2024, Top Five HD Recording Cards, Switch Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-incor-writings-on-the-best-practices-for-youtube-commentary/"><u>[Updated] Incor Writings on the Best Practices for YouTube Commentary</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-repair-methods-for-handling-the-0x887a0006-error-flawlessly/"><u>Easy Repair Methods for Handling the 0X887A0006 Error Flawlessly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-split-screen-in-windows-11/"><u>How to Split Screen in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-civi-3-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Civi 3 for Free? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mastering-real-time-video-conversations-with-whatsapp-web-on-pcs/"><u>Mastering Real-Time Video Conversations with WhatsApp Web on PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-windows-cant-find-an-appropriate-printer-driver/"><u>Resolved: How to Fix 'Windows Can't Find an Appropriate Printer Driver'</u></a></li>
-<li><a href="https://common-error.techidaily.com/scroll-jumps-a-windows-users-guide/"><u>Scroll Jumps: A Windows User's Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-installation-of-newest-drivers-for-your-microsoft-surface-book-2/"><u>Seamless Installation of Newest Drivers for Your Microsoft Surface Book ^2</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-how-to-restore-missing-icons-on-your-desktop-in-windows-11/"><u>Solution Steps: How to Restore Missing Icons on Your Desktop in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-pcs-cannot-find-d3dcompiler43dll-problem/"><u>Solving Your PC's 'Cannot Find d3dcompiler_43.dll' Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-steam-solution-correcting-installation-and-update-mishaps-on-steam-platform/"><u>Step-by-Steam Solution: Correcting Installation and Update Mishaps on Steam Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-hidden-desktop-icons-on-windows-11-the-ultimate-fixes/"><u>Troubleshooting Hidden Desktop Icons on Windows 11 - The Ultimate Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-a-superior-lifestyle-innovative-uses-of-chatgpt-for-personal-growth/"><u>Unlocking a Superior Lifestyle: Innovative Uses of ChatGPT for Personal Growth</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-the-potential-of-windows-hello-for-windows-10-hardware-not-supported-by-default/"><u>Unlocking the Potential of Windows Hello for Windows 10 Hardware Not Supported by Default</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-info-on-crafting-engaging-yt-shorts/"><u>[New] In 2024, Essential Info on Crafting Engaging YT Shorts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-recording-success-the-ultimate-guide-for-facetime-conversations-for-2024/"><u>[New] Recording Success The Ultimate Guide for FaceTime Conversations for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-initiate-an-impactful-live-stream-on-facebook-today-for-2024/"><u>[Updated] Initiate an Impactful Live Stream on Facebook Today for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-speedy-instagram-video-views-desktop-methods/"><u>[Updated] Speedy Instagram Video Views Desktop Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-intensity-the-ultimate-guide-to-video-audio/"><u>2024 Approved Instagram Intensity The Ultimate Guide to Video Audio</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206944998-bypassing-destiny-2-connectivity-woes-fix-your-servers-now/"><u>Bypassing Destiny 2 Connectivity Woes: Fix Your Servers Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-issues-and-fixes-for-a-dark-razer-keyboard-screen/"><u>Common Issues and Fixes for a Dark Razer Keyboard Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-to-lowering-high-cpu-usage-by-svchostexe-on-windows-10-devices-solved/"><u>Complete Guide to Lowering High CPU Usage by svchost.exe on Windows 10 Devices – Solved</u></a></li>
+<li><a href="https://win-special.techidaily.com/complete-guide-restore-lost-partitions-with-ifind-data-recovery-on-windows-10-and-11-by-ifind/"><u>Complete Guide: Restore Lost Partitions with IFind Data Recovery on Windows 10 & 11 by iFinD</u></a></li>
+<li><a href="https://common-error.techidaily.com/escape-the-endless-loop-of-boot-failures-a-step-by-step-fixer/"><u>Escape the Endless Loop of Boot Failures: A Step-by-Step Fixer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-sync-effective-strategies-to-fix-your-airpods-connection-problems-on-windows-11-a-2024-guide/"><u>Seamless Sync: Effective Strategies to Fix Your AirPods' Connection Problems on Windows 11 - A 2024 Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-eliminate-keyboard-delay-on-windows-10/"><u>Solution: Eliminate Keyboard Delay on Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-redmi-12-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Redmi 12 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-non-detectable-bluetooth-peripherals-on-windows-11-systems/"><u>Solving the Problem of Non-Detectable Bluetooth Peripherals on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-issues-with-computer-reboot-problems-on-windows-10/"><u>Step-by-Step Guide: Correcting Issues with Computer Reboot Problems on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-d3derr-not-available-glitch/"><u>Step-by-Step Solution for Fixing D3DERR Not Available Glitch</u></a></li>
 </ul></div>
 

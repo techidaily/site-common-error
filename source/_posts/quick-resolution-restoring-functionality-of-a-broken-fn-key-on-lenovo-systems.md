@@ -1,7 +1,7 @@
 ---
 title: "Quick Resolution: Restoring Functionality of a Broken Fn Key on Lenovo Systems"
-date: 2024-12-04T18:05:53.088Z
-updated: 2024-12-10T17:10:03.480Z
+date: 2024-12-14T16:34:22.695Z
+updated: 2024-12-16T16:19:56.717Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 Fixes for Personalized Settings (Not Responding)
 
  The screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** and**7** as well.
@@ -42,7 +38,7 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -54,20 +50,20 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Switch the network connection
 
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
 2. In the bottom right of your screen, click **the airplane mode icon![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a54a1f6ef.png)**  
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the middle of your computer screen, click**Sign out** .
@@ -85,12 +81,20 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
 4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
 
  Now you should have your desktop back.
 5. Restart your computer and login again to see if this**Personalized Settings (Not Responding)** issue has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run SFC Command
 
@@ -101,10 +105,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
 
@@ -117,17 +117,13 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 1. On your keyboard, press the **Windows logo key**  and type**regedit** , then right-click on**regedit** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b3d238270.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted to confirm.
 2. Locate and double-click on **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \> **Microsoft** \> **Active Setup** \> **Installed Components** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b61a4971d.jpg)
 3. Right-click on**the last file** and click**Export** to back up the file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
@@ -137,6 +133,10 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 5. Restart your computer and see if your desktop comes back.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -163,22 +163,16 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-gameplay-gimmicks-voice-variations-in-free-fire/"><u>[New] 2024 Approved Gameplay Gimmicks Voice Variations in Free Fire</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-seamlessly-gather-professional-images-and-vignettes/"><u>[New] How to Seamlessly Gather Professional Images & Vignettes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-30-camcorders-directly-at-your-eyes/"><u>[Updated] 2024 Approved Top 30 Camcorders Directly At Your Eyes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-timekeeping-a-guide-to-adding-timestamps-in-youtube-links/"><u>[Updated] Perfect Timekeeping A Guide to Adding Timestamps in YouTube Links</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-to-fix-windows-update-error-0x80070652/"><u>Easy to Fix Windows Update Error 0X80070652</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-critical-issue-0x8024200d-during-windows-update-process-complete/"><u>Effective Fixes for Critical Issue 0X8024200d During Windows Update Process [COMPLETE]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harmonizing-hashtags-instagram-tiktok-collaborative-guide-for-2024/"><u>Harmonizing Hashtags Instagram-TikTok Collaborative Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-device-not-detected-problem-fixing-error-code-24-on-windows-os/"><u>How to Overcome 'Device Not Detected' Problem - Fixing Error Code 24 on Windows OS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-media-preservation-instagram-to-iphone-saved/"><u>Mastering Media Preservation Instagram to iPhone Saved</u></a></li>
-<li><a href="https://article-files.techidaily.com/mastering-visuals-and-audio-top-5-video-creators-guide/"><u>Mastering Visuals and Audio Top 5 Video Creators' Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-obstacles-a-fixed-nvidia-error/"><u>Overcoming Obstacles: A Fixed NVIDIA Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-endless-windows-update-progress-at-100/"><u>Resolved: Troubleshooting Endless Windows Update Progress at 100%</u></a></li>
-<li><a href="https://common-error.techidaily.com/seamless-folder-navigation-in-windows-10-easy-tips-for-using-file-explorer/"><u>Seamless Folder Navigation in Windows 10 - Easy Tips for Using File Explorer</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-steam-api-dll-errors/"><u>Solutions for Steam API DLL Errors</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-complete-battleye-installation-now-running-smoothly/"><u>Troubleshooting Complete: BattlEye Installation Now Running Smoothly</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y100-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-complete-itunes-users-manual-recording/"><u>[Updated] In 2024, The Complete iTunes User's Manual (Recording)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerating-adoption-chatgpts-quintet-of-advantages/"><u>Accelerating Adoption: ChatGPT’s Quintet of Advantages</u></a></li>
+<li><a href="https://common-error.techidaily.com/beating-the-failed-to-create-d3d-device-problem-expert-advice-and-fixes/"><u>Beating the 'Failed to Create D3D Device' Problem – Expert Advice & Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-instructions-to-address-and-resolve-windows-update-settings-glitches/"><u>Clear Instructions to Address and Resolve Windows Update Settings Glitches</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-ordinary-to-extraordinary-crafting-captivating-instagram-puzzles-for-2024/"><u>From Ordinary to Extraordinary Crafting Captivating Instagram Puzzles for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-unfreeze-your-windows-11-taskbar-proven-strategies-that-work/"><u>How To Unfreeze Your Windows 11 Taskbar: Proven Strategies That Work</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-google-pixel-8-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Google Pixel 8 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smart-tips-for-creating-time-lapses-on-samsung-devices-for-2024/"><u>Smart Tips for Creating Time-Lapses on Samsung Devices for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-high-cpudisk-consumption-by-ntoskrnlexe/"><u>Solving High CPU/Disk Consumption by Ntoskrnl.exe</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210187876-9781250817761-the-prophet-the-complete-original-edition/"><u>The Prophet: The Complete Original Edition | Free Book</u></a></li>
 </ul></div>
 

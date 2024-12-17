@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Mend Missing Audio Files' Dll Issues
-date: 2024-08-15T11:13:59.266Z
-updated: 2024-08-16T11:13:59.266Z
+date: 2024-12-11T23:59:49.402Z
+updated: 2024-12-16T19:02:22.215Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
 **USB ports not working on HP laptop** ? You’re not alone. Many users have reported the same. But the good news is, you can fix it easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 fixes for USB ports not working on HP laptop
 
  All the fixes below work in**Windows 10** ,**8** and**7** . Just work your way down the list until your USB ports work properly again.
@@ -29,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
 
  Sometimes this**USB ports not working** problem is only a hiccup that can be easily solved by removing all the peripherals and reseating the battery before getting your HP laptop back to where it is.
@@ -49,8 +50,9 @@ Here’s how:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -58,24 +60,28 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 1. On the keyboard of the target computer, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update the drivers for your USB devices
 
  This problem may occur if you’re using the wrong or outdated USB drivers. So you should update the drivers for your USB devices to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -93,9 +99,6 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -117,8 +120,6 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +127,23 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-cloud-storage-cost-breakdown-2024-edition/"><u>[New] The Ultimate Cloud Storage Cost Breakdown, 2024 Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unveiling-hand-trackings-evolution-and-practice/"><u>[Updated] Unveiling Hand Tracking's Evolution and Practice</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-wireless-keyboard-problems-discover-proven-fixes-and-tricks/"><u>Dell Wireless Keyboard Problems? Discover Proven Fixes & Tricks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-base-system-device-driver-issue-in-device-manager/"><u>How to Fix Base System Device Driver Issue in Device Manager</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-y36-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo Y36 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-motorola-razr-40-ultra-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Motorola Razr 40 Ultra to Another | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-ultimate-picks-best-6-fb-lite-videos/"><u>In 2024, Ultimate Picks Best 6 FB Lite Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-monitor-support-issues-understanding-discontinued-display-standards/"><u>Navigating Monitor Support Issues: Understanding Discontinued Display Standards</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled-for-2024/"><u>New The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-issue-of-unrecognized-wd-my-passport-ultra-by-windows-os/"><u>Resolved: Fixing the Issue of Unrecognized WD My Passport Ultra by Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-airdrop-problems-fast-a-beginners-guide-to-troubleshooting/"><u>Solve Your AirDrop Problems Fast: A Beginner's Guide to Troubleshooting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-embedding-youtube-videos-in-insta-stories/"><u>The Ultimate Guide to Embedding YouTube Videos in Insta Stories</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-installing-iphone-applications-here-are-10-effective-remedies/"><u>Trouble Installing iPhone Applications? Here Are 10 Effective Remedies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-power-surge-issues-in-windows-11-usb-ports/"><u>Troubleshooting Guide: Resolving 'Power Surge' Issues in Windows 11 USB Ports</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-reviving-your-unresponsive-flash-drive-easily/"><u>Troubleshooting Guide: Reviving Your Unresponsive Flash Drive Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-random-system-failures-in-windows-7-solutions-and-prevention-methods/"><u>Troubleshooting Random System Failures in Windows 7 – Solutions & Prevention Methods</u></a></li>
+</ul></div>
 

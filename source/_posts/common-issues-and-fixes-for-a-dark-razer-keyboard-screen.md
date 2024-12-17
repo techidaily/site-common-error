@@ -1,7 +1,7 @@
 ---
 title: Common Issues and Fixes for a Dark Razer Keyboard Screen
-date: 2024-12-08T20:48:16.092Z
-updated: 2024-12-10T20:51:38.932Z
+date: 2024-12-13T23:13:41.716Z
+updated: 2024-12-16T22:15:45.326Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -43,17 +47,9 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -76,12 +72,16 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -107,10 +107,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -130,6 +126,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -139,7 +139,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
@@ -184,22 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-pro-filmmakers-guide-to-speedy-shot-techniques/"><u>[New] 2024 Approved Pro Filmmaker's Guide to Speedy Shot Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-forza-horizon-4-no-sound-problem/"><u>[SOLVED] Forza Horizon 4 No Sound Problem</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-perfect-selfies-tips-for-instagram-story-magnification/"><u>[Updated] 2024 Approved Perfect Selfies Tips for Instagram Story Magnification</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-discover-the-latest-2023-features-of-samsung-bd-j5900/"><u>2024 Approved Discover the Latest 2023 Features of Samsung BD-J5900</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhancing-visual-fidelity-in-ar-utilizing-custom-luts/"><u>2024 Approved Enhancing Visual Fidelity in AR Utilizing Custom LUTs</u></a></li>
-<li><a href="https://windows11.techidaily.com/clear-and-constructive-icon-arrangement-ideas/"><u>Clear and Constructive Icon Arrangement Ideas</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/experience-the-future-with-these-top-iphone-vr-titles/"><u>Experience the Future with These Top iPhone VR Titles</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-fixing-issues-with-logitec-mouse-scroll-functionality/"><u>Expert Advice: Fixing Issues with Logitec Mouse Scroll Functionality</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-honor-90-gt-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Honor 90 GT without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/locating-and-fixing-the-necessary-driver-your-pc-requires-for-media-devices/"><u>Locating and Fixing the Necessary Driver Your PC Requires For Media Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/nostalgianest-compact-crafting-classic-gaming-memories/"><u>NostalgiaNest Compact: Crafting Classic Gaming Memories</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/optimal-practices-for-archiving-interactive-online-workshops/"><u>Optimal Practices for Archiving Interactive Online Workshops</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-address-minecraft-issues-caused-by-faulty-gpu-drivers-in-windows/"><u>Troubleshooting Guide: How to Address Minecraft Issues Caused by Faulty GPU Drivers in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-charging-issues-when-plugged-into-windows-pcs-version-7-or-10/"><u>Troubleshooting Non-Charging Issues When Plugged Into Windows PCs (Version 7 or 10)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-non-operational-intel-rst-service-on-your-windows-11-pc/"><u>Troubleshooting the Non-Operational Intel RST Service on Your Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-the-livekernelevent-117-error-permanently/"><u>Ultimate Guide: Solving the 'LiveKernelEvent 117' Error Permanently</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-the-challenge-of-error-code-0x8024a105-in-microsoft-updates/"><u>Unraveling the Challenge of Error Code 0X8024a105 in Microsoft Updates</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-revolutionize-video-crafting-mastering-the-integration-of-windows-11-and-storyremix/"><u>[New] In 2024, Revolutionize Video Crafting Mastering the Integration of Windows 11 & StoryRemix</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-snooze-sequences-for-kids-critical-look-at-bedtime-storytelling-vids/"><u>[New] Snooze Sequences for Kids Critical Look at Bedtime Storytelling Vids</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-convert-youtube-videos-smoothly-into-professional-webm-files/"><u>[Updated] 2024 Approved Convert YouTube Videos Smoothly Into Professional WebM Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/achieving-peak-performance-tips-for-smarter-gaming-setups-with-windows-11/"><u>Achieving Peak Performance: Tips for Smarter Gaming Setups with Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/activating-or-deactivating-your-on-screen-typing-tools-in-windows-10-tutorial/"><u>Activating or Deactivating Your On-Screen Typing Tools in Windows 10 (Tutorial)</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-failed-dvd-movie-playback-on-windows-pcs/"><u>Diagnosing and Repairing Failed DVD Movie Playback on Windows PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-logitech-g-pro-x-2-lightspeed-a-must-have-for-serious-gamers/"><u>Expert Analysis of the Logitech G Pro X 2 Lightspeed - A Must-Have for Serious Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-teredo-reliable-connection-issues-in-windows-environments/"><u>How to Fix Teredo Reliable Connection Issues in Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-address-and-resolve-missing-d3dxtk9dll-errors/"><u>How to Successfully Address and Resolve Missing d3dxtk9.dll Errors</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-years-best-tiktok-collaborations-in-hip-hop/"><u>In 2024, The Year’s Best TikTok Collaborations in Hip-Hop</u></a></li>
+<li><a href="https://common-error.techidaily.com/maintaining-data-security-overcoming-memory-corruption-in-ftdis-with-compatible-drivers/"><u>Maintaining Data Security: Overcoming Memory Corruption in FTDIS with Compatible Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-obstacles-in-steam-updates-a-guide-to-troubleshooting-download-issues/"><u>Overcoming Obstacles in Steam Updates: A Guide to Troubleshooting Download Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-audio-functionality-for-a-silent-windows/"><u>Restoring Audio Functionality for a Silent Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/see-event-may-12-1amo-the-us-treasury-department-introduces-liberty-bonds-to-finance-world-war-i-efforts-relating-to-stock-markets-as-it-shows-governmental-134/"><u>See Event [May 12, 1Amo]: The U.S. Treasury Department Introduces 'Liberty Bonds' To Finance World War I Efforts, Relating to 'Stock Markets' As It Shows Governmental Intervention Can Influence Market Dynamics.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-content-designs-using-canva-gpt-at-scale/"><u>Streamlining Content Designs Using Canva, GPT at Scale</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-nokia-xr21-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Nokia XR21 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-7-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 7 Plus?</u></a></li>
 </ul></div>
 

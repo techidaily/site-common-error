@@ -1,7 +1,7 @@
 ---
 title: Essential Media Driver Missing? Fix Now
-date: 2024-08-22T19:21:06.184Z
-updated: 2024-08-23T19:21:06.184Z
+date: 2024-12-14T02:07:29.263Z
+updated: 2024-12-16T16:22:22.156Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
 
  A media driver your computer needs is missing. This could be a DVD, USB, or Hard disk driver. If you have a CD, DVD, or USB flash drive with the driver on it, please insert it now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix A media driver your computer needs is missing
 
  Here are the solutions you can try. You don’t need to try them all; Just work your way down until your problem is solved.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
 3. [**Change the settings in BIOS**](#Fix3)
 4. [**Change the ISO file format**](#Fix4)
 5. _[**Things you should do after trying these methods**](#Fix5)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does the error occur?
 
@@ -48,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
 
  You can actually fix the**A media driver your computer needs is missing** error easily and quickly with the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Re-plug the USB drive
 
  You can try to re-plug the USB drive to fix the problem. Try the steps below:
@@ -66,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
 4) Try to install Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Try another USB port
 
  If re-plugging the USB drive doesn’t work, you can try another USB port:
@@ -77,18 +83,15 @@ thumbnail: https://thmb.techidaily.com/1fae0ad394ab82a99f86e121c7a2e9769c50867e0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Plug the USB drive into another USB port** . If you have the**USB 2.0 port** with your PC/laptop, try to**plug the USB drive into the USB 2.0 port** .
 
 4) Try to install Windows again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change the settings in BIOS
 
  The problem can also be caused by the wrong configuration in BIOS. So you can change the BIOS settings in startup.
@@ -113,9 +116,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  4) Save the settings and try to install Windows again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Change the ISO file format
 
  The ISO file faulty can also cause the issue, so you can try to change the ISO file format to solve the issue.
@@ -138,15 +138,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a741854f33af.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a742eeb04a11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 4) Restart your computer to make it take effect.
 
  Here are the solutions to fix**A media driver your computer needs is missing** . If you have any questions, please feel free to comment below, and we’ll see what more we can do to help.
@@ -160,8 +161,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +168,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/2024-approved-visualize-vibes-tips-and-techniques-for-iconic-gif-humor/"><u>2024 Approved Visualize Vibes Tips & Techniques for Iconic GIF Humor</u></a></li>
+<li><a href="https://common-error.techidaily.com/breaking-free-from-the-loop-strategies-to-resolve-infinite-load-in-valorant/"><u>Breaking Free From the Loop: Strategies to Resolve Infinite Load in Valorant</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-stuck-keyboard-buttons-on-windows-pcs-a-comprehensive-guide/"><u>Fixing Stuck Keyboard Buttons on Windows PCs: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-football-manager-2021-pc-game-crashes-and-play-smoothly/"><u>How to Fix Football Manager 2021 PC Game Crashes and Play Smoothly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-peek-into-vegaspros-future/"><u>In 2024, A Peek Into VegasPro's Future</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-15-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 15 Pro Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-desired-visionos-enhancements-hopes-for-apples-big-reveal-at-wwdc/"><u>Top 10 Desired VisionOS Enhancements: Hopes for Apple's Big Reveal at WWDC!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207539518-troubleshooting-persistent-windows-updates-issues-solved/"><u>Troubleshooting Persistent Windows Updates Issues - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-for-code-224003-unplayable-video-errors-resolved/"><u>Troubleshooting Step-by-Step for Code 224003: Unplayable Video Errors Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-restoring-functionality-of-non-working-hp-laptop-webcam-on-windows-10/"><u>Troubleshooting Steps: Restoring Functionality of Non-Working HP Laptop Webcam on Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-online-video-platforms-vimeo-and-youtube-for-2024/"><u>Understanding Online Video Platforms Vimeo & YouTube for 2024</u></a></li>
+</ul></div>
 

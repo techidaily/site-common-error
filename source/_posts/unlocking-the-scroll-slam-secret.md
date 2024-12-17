@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Scroll Slam Secret
-date: 2024-11-13T16:15:07.352Z
-updated: 2024-11-15T16:59:34.845Z
+date: 2024-12-15T18:13:52.080Z
+updated: 2024-12-16T19:38:40.699Z
 tags:
   - win11
   - win10
@@ -36,8 +36,17 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 2. Type**bluetooth settings** in the search box, then select**Change Bluetooth settings** from the results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51aa79eae67.jpg)
 3. Make sure you**check** the boxes as the screenshot shown below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51aa0665a3a.jpg)
 4. Click the**little triangle icon** on the bottom-right part of your screen, and you’ll see the Bluetooth icon; it means you’ve turned on Bluetooth in your Windows 7\. Congratulations!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51acf5ddfb0.png)
 
@@ -47,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to do if you can’t turn on Bluetooth on Windows 7
 
  Here are the top 3 ways to fix Bluetooth issues on Windows 7\. Just work your way down the list until you find the one that works for you.
@@ -54,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 1. **[Update your Bluetooth driver](#fix1)**
 2. **[Re-enable the Bluetooth driver software in Device Manager](#fix2)**
 3. **[Make sure the Bluetooth Support Service is running](#fix3)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your Bluetooth driver
 
@@ -72,24 +89,14 @@ Fortunately, this is also the easiest problem to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb6f71081f36.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee. )  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb6f7884d30c.jpg)
 4. Restart your computer and check if you can turn on Bluetooth now. If you can’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Re-enable the Bluetooth driver software in Device Manager
 
@@ -98,34 +105,17 @@ Fortunately, this is also the easiest problem to fix.
 2. Expand the**Bluetooth Radios** category. You’ll see the Bluetooth hardware listed there.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t see the “Bluetooth Radios” category, find your Bluetooth adapter in the “Network adapters” category. It normally contains your network card that you use to connect to wireless or wired networks.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51bc632abfc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If there is a yellow exclamation mark on the Bluetooth icon, you need to install the proper driver before the Bluetooth will work. See[How to install or update the latest Bluetooth driver as mentioned in Fix 1](#fix1) .
 
  3) Right-click on your Bluetooth device and select **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b553ee3e567e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right-click on your device again, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b553f4d7ea68.jpg)
@@ -136,6 +126,10 @@ Fortunately, this is also the easiest problem to fix.
  Can you see the Bluetooth icon now? If you do, congratulations. You’ve fixed the problem. But if it’s still not there, try Fix 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure the Bluetooth Support Service is running
 
@@ -149,14 +143,11 @@ Fortunately, this is also the easiest problem to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ed3843575.jpg)
 5. Now check if you find the Bluetooth icon in the Notification Area.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/TIM图片20180720182550.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -182,19 +173,22 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-cash-rides-high-with-well-crafted-youtube-shorts/"><u>[Updated] In 2024, Cash Rides High with Well-Crafted YouTube Shorts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-discover-the-best-11-no-fee-name-crafting-for-channels/"><u>2024 Approved Discover the Best 11 No-Fee Name Crafting for Channels</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cutting-and-compositing-for-youtube-videos-using-premiere-pro-for-2024/"><u>Cutting and Compositing for YouTube Videos Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-an-aoc-monitor-wont-turn-on-in-windows-11-environment/"><u>Effective Fixes for When an AOC Monitor Won’t Turn On in Windows 11 Environment</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-tools-for-troubleshooting-windows-11-sfc-and-dism-explained/"><u>Essential Tools for Troubleshooting Windows 11 - SFC and DISM Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-no-entry-error-challenges-in-windows-environments/"><u>Expert Advice: Overcoming No Entry Error Challenges in Windows Environments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-note-30i-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Note 30i</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-seamlessly-update-your-pc-with-these-strategies-against-error-0x800f0922-in-windows-11/"><u>How to Seamlessly Update Your PC with These Strategies Against Error 0X800F0922 in Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719575464700-learn-languages-unlock-potential-start-with-slovak-in-a-days-work/"><u>Learn Languages, Unlock Potential: Start with Slovak in a Day's Work</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204832042-solving-your-connectivity-issues-get-your-windows-pcs-bluetooth-mouse-running-again/"><u>Solving Your Connectivity Issues: Get Your Windows PC's Bluetooth Mouse Running Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-laptops-touchpad-problems-in-windows-11-8-and-7/"><u>Solving Your Laptop's Touchpad Problems in Windows 11, 8 and 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/to-buy-or-not-the-mechanical-keyboard-dilemma/"><u>To Buy or Not: The Mechanical Keyboard Dilemma</u></a></li>
-<li><a href="https://common-error.techidaily.com/unsticking-your-steam-store-access-issues-proven-methods-to-restore-functionality/"><u>Unsticking Your Steam Store Access Issues: Proven Methods to Restore Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/weaving-stories-with-ai-chatgpts-guide-to-masterful-storytelling/"><u>Weaving Stories with AI: ChatGPT's Guide to Masterful Storytelling</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-clearscreen-pro-win11-live-video-recorder/"><u>[New] 2024 Approved ClearScreen Pro - Win11 Live Video Recorder</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-optimizing-youtube-auditory-experience-for-viewers/"><u>[New] 2024 Approved Optimizing YouTube Auditory Experience for Viewers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-easysnap-win11-no-hassle-just-screenshots/"><u>[Updated] 2024 Approved EasySnap Win11 No Hassle, Just Screenshots</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-full-scrutiny-the-dji-inspire-1-experience-for-2024/"><u>[Updated] Full Scrutiny The DJI Inspire 1 Experience for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-superior-recommendations-elite-ios-audio-makers/"><u>[Updated] In 2024, Superior Recommendations Elite iOS Audio Makers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevating-listeners-a-comprehensive-guide-to-podcast-seo/"><u>2024 Approved Elevating Listeners A Comprehensive Guide to Podcast SEO</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-valorant-screen-rippling-a-step-by-step-guide/"><u>Eliminate Valorant Screen Rippling: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-28-decoded-repair-strategies-for-devices-flagged-in-windows-driver-management/"><u>Error Code 28 Decoded: Repair Strategies for Devices Flagged in Windows Driver Management</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-hp-laptops-broken-webcam-issues-with-these-tips-for-windows-nt/"><u>Fix Your HP Laptop's Broken Webcam Issues with These Tips for Windows nT</u></a></li>
+<li><a href="https://common-error.techidaily.com/reset-troubles-learn-proven-methods-to-refresh-your-keyboard-today/"><u>Reset Troubles? Learn Proven Methods to Refresh Your Keyboard Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-media-player-server-execution-problems-in-windows-operating-systems/"><u>Resolving the Windows Media Player Server Execution Problems in Windows Operating Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-compre-point-saving-twitter-exclusive-gifs-on-phones-for-2024/"><u>The Compre Point Saving Twitter-Exclusive Gifs on Phones for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-slow-shutdowns-on-windows-11-devices/"><u>The Ultimate Fix for Slow Shutdowns on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-keyboard-shortcut-altplustab-stops-responding/"><u>Troubleshooting Steps When Keyboard Shortcut Alt+Tab Stops Responding</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-apple-watch-a-guide-to-fix-sleep-tracking-issues/"><u>Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-how-to-resolve-problem-resetting-your-computer-alerts/"><u>Troubleshooting: How to Resolve 'Problem Resetting Your Computer' Alerts</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-the-answers-total-war-rome-remastered-gameplay-interruptions-solved/"><u>Uncover the Answers: Total War: Rome Remastered Gameplay Interruptions Solved!</u></a></li>
 </ul></div>
 

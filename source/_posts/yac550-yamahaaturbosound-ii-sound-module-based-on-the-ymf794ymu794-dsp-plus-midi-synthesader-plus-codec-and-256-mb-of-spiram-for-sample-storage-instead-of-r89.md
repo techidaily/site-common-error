@@ -1,7 +1,7 @@
 ---
 title: YAC550 - Yamaha'aturboSound II Sound Module Based on the YMF794/YMU794 (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector
-date: 2024-12-01T07:22:59.554Z
-updated: 2024-12-03T22:21:00.861Z
+date: 2024-12-12T16:32:09.117Z
+updated: 2024-12-16T21:01:34.939Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Does this look familiar?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  **Method 1:[ Using Group Policy Editor ](<https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/#Way> 1. Using Group Policy Editor) Method 2:[ Using Registry Editor](<https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/#Way> 2. Using Registry Editor)**
@@ -42,6 +38,10 @@ Does this look familiar?
 2) Type **gpedit.msc**  and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279bde5ee8d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:**  If you cannot find gpedit.msc on your Windows 10,[here is the method to got it.](https://tools.techidaily.com/drivereasy/download/)
 `
@@ -58,10 +58,6 @@ Does this look familiar?
  3) Go to **Computer Configuration** \> **Administrative** **Templates** \>**Windows Components** \> **Data Collection and Preview Builds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279c6c18122.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `
 ` `
@@ -90,6 +86,10 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279d1cdc304.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) On your keyboard, press **Ctrl**  \+ **Shift**  \+ **Esc**  keys (at the same time) to open your Task Manager, check to see if Microsoft Compatibility Telemetry takes up a normal disk usage.  
 `
 ` `
@@ -117,12 +117,16 @@ Does this look familiar?
  1)On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bafc786d58.png)**  and **R** at the same time to invoke a **Run** command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) T ype**regedit**  in the box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a22807d2e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **YES**  when prompted by User Account Control.
 
@@ -130,31 +134,23 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a4ede532e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Double-click**Allow** **Telemetry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a53baa7f6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **NOTE:** If you can’t find Allow Telemetry, create it manually: Right-click on DataCollection and choose**New** \>**DWORD (32-bit) Value** . Then name the new value **Allow** **Telemetry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Set**Value date** to **0** (zero) and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a576ca320.jpg)
 
  7) On your keyboard, press **Ctrl**  \+ **Shift**  \+ **Esc**  keys (at the same time) to open your Task Manager, check to see if Microsoft Compatibility Telemetry takes up a normal disk usage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Update your device drivers
 
@@ -178,6 +174,10 @@ Does this look familiar?
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae6a0c3f690.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 PC.
 
@@ -211,24 +211,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-end-screen-creation-made-simple-free-templates-and-guides/"><u>[Updated] 2024 Approved End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-choreographing-newscast-endings-for-2024/"><u>[Updated] Choreographing Newscast Endings for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-achieving-visual-harmony-in-your-fb-videos-with-proper-ratio-adjustments/"><u>[Updated] In 2024, Achieving Visual Harmony in Your FB Videos with Proper Ratio Adjustments</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-finding-and-forming-youtube-content-partnerships/"><u>[Updated] Strategies for Finding & Forming YouTube Content Partnerships</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-doodles-to-dollars-the-graphic-artists-guide/"><u>2024 Approved From Doodles to Dollars The Graphic Artist's Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/combat-high-cpu-load-from-desktop-window-manager-with-these-5-powerful-windows-1110-tweaks/"><u>Combat High CPU Load From Desktop Window Manager with These 5 Powerful Windows 11/10 Tweaks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-performance-of-jackery-powerbar-the-convenience-of-an-inbuilt-ac-extension/"><u>Evaluating the Performance of Jackery PowerBar: The Convenience of an Inbuilt AC Extension</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-rectifying-issues-with-the-corsair-hs70-headset-mic/"><u>Expert Advice for Rectifying Issues with the Corsair HS70 Headset Mic</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/explorando-as-duas-formas-principais-de-clonar-o-servidor-disco-no-windows-server-201/"><u>Explorando as Duas Formas Principais De Clonar O Servidor Disco No Windows Server 201#</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/faux-chatgpt-browser-tool-targeting-facebook-logins-stay-alert/"><u>Faux ChatGPT Browser Tool Targeting Facebook Logins – Stay Alert!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-geforce-experience-error-how-to-restore-missing-configuration/"><u>Fixing GeForce Experience Error: How to Restore Missing Configuration</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-i-resolved-the-prolonged-shutdown-problem-on-my-windows-10-pc/"><u>How I Resolved the Prolonged Shutdown Problem on My Windows 10 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-microsoft-print-to-pdf-problem-on-windows-11-devices/"><u>How To Troubleshoot 'Microsoft Print to PDF' Problem on Windows 11 Devices</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-dissecting-video-platform-features-youtube-vs-dailymention/"><u>In 2024, Dissecting Video Platform Features YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://common-error.techidaily.com/is-d3d-device-loss-causing-unreal-to-exit/"><u>Is D3D Device Loss Causing Unreal to Exit?</u></a></li>
-<li><a href="https://common-error.techidaily.com/system-update-alert-do-you-need-a-d3d11-compatible-graphics-card-for-optimal-performance/"><u>System Update Alert: Do You Need a D3D11 Compatible Graphics Card for Optimal Performance?</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-expert-solution-when-your-tablet-is-plugged-in-but-not-charging-now-fixed/"><u>The Expert Solution: When Your Tablet Is Plugged In But Not Charging - Now Fixed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-restoring-windows-11s-corrupt-data-files/"><u>The Ultimate Guide to Restoring Windows 11'S Corrupt Data Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-resolve-driverpowerstatefailure-malfunctions/"><u>Troubleshooting Tips: How to Resolve DRIVER_POWER_STATE_FAILURE Malfunctions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ind-the-perfect-free-video-editor-app-for-iphones-and-ipads-for-2024/"><u>[New] Find the Perfect Free Video Editor App for iPhones & iPads for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ransforming-viewers-into-livelihood-with-right-numbers-for-2024/"><u>[New] Transforming Viewers Into Livelihood with Right Numbers for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-cutting-edge-techniques-to-elevate-your-tiktok-visual-storytelling/"><u>[Updated] 2024 Approved Cutting-Edge Techniques to Elevate Your TikTok Visual Storytelling</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-master-your-media-comprehensive-guide-to-instagram-converters-windowsmac/"><u>[Updated] In 2024, Master Your Media Comprehensive Guide to Instagram Converters (Windows/Mac)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-todays-vr-an-inside-look/"><u>[Updated] Today’s VR An Inside Look</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-overcome-port-reset-error-with-unknown-usb-device-on-your-windows-10-machine/"><u>Comprehensive Solutions to Overcome 'Port Reset Error with Unknown USB Device' On Your Windows 10 Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tips-for-correcting-rpc-communication-breakdowns-between-pcs-running-windows/"><u>Comprehensive Tips for Correcting RPC Communication Breakdowns Between PCs Running Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-casting-issues-from-pcs-to-devices-in-windows-10-solutions/"><u>How to Fix Casting Issues From PCs to Devices in Windows 10 - Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-smart-7-hd-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Smart 7 HD to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-step-by-step-troubleshooting-guide-to-reactivating-wi-fi-on-any-smartphone-or-computer/"><u>Solved: Step-by-Step Troubleshooting Guide to Reactivating Wi-Fi on Any Smartphone or Computer</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-list-top-10-free-game-download-sites-for-pc-android-and-mobile/"><u>The Ultimate List Top 10 Free Game Download Sites for PC, Android, and Mobile</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-persistent-windows-update-error-0x8024401c-on-your-windows-11-machine/"><u>Troubleshooting the Persistent Windows Update Error 0X802^4401c on Your Windows 11 Machine</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/vlc-expansion-guide-play-any-video-content-on-your-apple-tv-with-ease/"><u>VLC Expansion Guide: Play Any Video Content on Your Apple TV with Ease</u></a></li>
 </ul></div>
 

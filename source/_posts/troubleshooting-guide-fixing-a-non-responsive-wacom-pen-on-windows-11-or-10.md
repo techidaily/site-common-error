@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Non-Responsive Wacom Pen on Windows 11 or 10"
-date: 2024-08-15T11:13:35.760Z
-updated: 2024-08-16T11:13:35.760Z
+date: 2024-12-09T20:55:28.925Z
+updated: 2024-12-16T20:11:43.918Z
 tags:
   - win11
   - win10
@@ -35,8 +35,9 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **2)** Check the**battery status** of your controller: Make sure the **batteries are not running out of power** . If your controller is running low on power, charge or replace the batteries and see if this resolves the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Re-sync your controller
 
  If you are using a**wireless** controller, you can try re-syncing your Xbox One controller to the console to fix connection issues.
@@ -60,8 +61,9 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
  Check to see your controller can connect to the console or not. You can unplug the cable after the whole process.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Power cycle your console
 
  Power cycling your console means fully rebooting the console. It can fix some corruption issues in your console as well as your controller connection. To power cycle the console:
@@ -69,9 +71,9 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **1)**  Press and hold the**Xbox button** on the console until it completely shuts down. (It can take about**10** seconds.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f2bbba00f.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Press the**Xbox button** to turn on your console.
@@ -93,27 +95,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **4)** Select**Devices & accessories** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942011734551.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
 **5)**  Select the controller you are using.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201ea3bf92.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)**  Select**Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201a568b3e.png)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**  Select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420222745a9.png)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)**  Wait for the console to complete the updating process. After that, test your controller and see if the not syncing problem is fixed.
 
@@ -127,8 +128,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ransforming-viewers-into-fans-with-top-yt-video-reacts-for-2024/"><u>[New] Transforming Viewers Into Fans with Top YT Video Reacts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-airborne-broadcasting-how-to-stream-with-dji-drones/"><u>[Updated] 2024 Approved Airborne Broadcasting How to Stream with DJI Drones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unlocking-creative-potential-animated-text-techniques-ig-stories/"><u>[Updated] 2024 Approved Unlocking Creative Potential Animated Text Techniques IG Stories</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-comprehensive-look-at-ig-reels-vs-stories/"><u>[Updated] A Comprehensive Look at IG Reels Vs Stories</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-the-unresponsive-spacebar-in-your-windows-ebox/"><u>Diagnosing and Repairing the Unresponsive Spacebar in Your Windows Ebox</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-resolving-google-chrome-is-not-responding-problems-instantly/"><u>Expert Guide: Resolving 'Google Chrome Is Not Responding' Problems Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-laptop-trackpad-issues-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Fixing Laptop Trackpad Issues on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-your-ps4-out-of-nat-trouble-a-sequential-strategy-for-successful-repair/"><u>Guide Your PS4 Out of NAT Trouble: A Sequential Strategy for Successful Repair</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-asus-rog-phone-8-devices-by-drfone-android/"><u>How to Reset Gmail Password on Asus ROG Phone 8 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-excessive-cpu-load-from-wudfhostexe-on-your-windows-10-pc/"><u>How to Resolve Excessive CPU Load From wudfhost.exe on Your Windows 10 PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-hubs-of-immersive-visual-storytelling/"><u>In 2024, Hubs of Immersive Visual Storytelling</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-disk-read-errors-in-windows-11-a-step-by-step-guide/"><u>Resolving Disk Read Errors in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-driverpowerstateerror-a-comprehensive-guide/"><u>Resolving the DRIVER_POWER_STATE_ERROR: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/securely-preserve-your-instagram-content-on-iphone-for-2024/"><u>Securely Preserve Your Instagram Content on iPhone for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-for-resolving-the-steam-disk-write-issue/"><u>Simple Solutions for Resolving the 'Steam Disk Write' Issue</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-free-dual-screen-video-editing-software-web-and-desktop/"><u>Updated Top Free Dual-Screen Video Editing Software Web & Desktop</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/vlc-guide-setting-up-screen-recordings/"><u>VLC Guide Setting Up Screen Recordings</u></a></li>
+</ul></div>
 

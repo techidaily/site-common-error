@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Overcoming Minecraft's OpenGL Glitches
-date: 2024-08-15T11:13:51.640Z
-updated: 2024-08-16T11:13:51.640Z
+date: 2024-12-11T17:42:46.740Z
+updated: 2024-12-16T18:27:15.566Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 
 If that didn’t help, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Clear Origin game cache
 
  To be able to load faster, Origin stores data called cache files. But over time, these files accumulate out-of-date data and because of this, it’s best to delete them, especially if you’re having problems with your games. Here’s how to do this:
@@ -51,15 +55,17 @@ If that didn’t help, try the next fix below.
 * Type or paste**taskmgr** and press Enter.  
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Under the**Processes** tab, look for**Origin, OriginClientService, and OriginWebHelperService** . If they’re on the list, make sure to right-click each and then select**End task** .  
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
@@ -68,6 +74,10 @@ If that didn’t help, try the next fix below.
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
@@ -75,8 +85,9 @@ If that didn’t help, try the next fix below.
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
@@ -84,9 +95,6 @@ If that didn’t help, try the next fix below.
  6) Type or paste**%AppData%** and press Enter.  
   
 ![open AppData using command](https://images.drivereasy.com/wp-content/uploads/2021/05/appdata.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Look for the**Origin** folder. Right-click it and select**Delete** .  
   
@@ -99,6 +107,10 @@ If that didn’t help, try the next fix below.
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 10) Restart your PC and log back into Origin.
 
@@ -124,17 +136,15 @@ Here’s how to update drivers with Driver Easy:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run Origin as an administrator
 
  There are some situations that your game can’t be installed because your Origin client lacks the administrative privileges. Therefore, you may need to run Origin as an administrator:
@@ -144,9 +154,6 @@ Here’s how to update drivers with Driver Easy:
 2) Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Run As Administrator** .  
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you want to make Origin always run as administrator, take these steps:
 
@@ -157,25 +164,19 @@ If you want to make Origin always run as administrator, take these steps:
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 5\. Install the latest visual C++ redistributable pack
 
  Microsoft Visual C++ Redistributable is a standard distributable package of shared code that comes as part of your Windows and enables apps to run on your PC. If it’s missing or your current one is out-of-date, some apps that rely on the redistributable will fail to start or run and it will result in a total mess. Therefore, we would suggest you install the latest Visual C++ from[Microsoft](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) , both the x64 and x86 versions (you’ll find them in the**Visual Studio 2015, 2017 and 2019** section. )
 
 If that didn’t help, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Download Media Feature Pack for Windows 10 N
 
  For users who are running Windows N versions, you need to download the Media Feature Pack from Microsoft, which helped many players get rid of the error.
@@ -202,8 +203,6 @@ If that didn’t help, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +210,23 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-brand-your-content-download-complimentary-templates-for-youtube-makers/"><u>[New] 2024 Approved Brand Your Content Download Complimentary Templates for YouTube Makers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-youtubes-earnings-mechanism-through-cpm-analysis-for-2024/"><u>[New] Exploring YouTube's Earnings Mechanism Through CPM Analysis for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-inspirational-hiring-vids-1-10/"><u>[New] In 2024, Discover Inspirational Hiring Vids #1-10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-dominating-discussion-topics-in-the-social-space/"><u>[Updated] Dominating Discussion Topics in the Social Space</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-compelling-youtube-profile-definitions/"><u>[Updated] In 2024, Crafting Compelling YouTube Profile Definitions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/15-youtube-video-ideas-for-musicians/"><u>15 YouTube Video Ideas for Musicians</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/dissecting-the-ispring-screencap-magic/"><u>Dissecting the iSpring Screencap Magic</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-fixing-the-error-code-0x80070643-in-windows-updatesinstallations/"><u>Effective Techniques for Fixing the Error Code 0X80070643 in Windows Updates/Installations</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-strategies-for-repairing-the-malfunctioning-lenovo-laptop-camera/"><u>Expert Strategies for Repairing the Malfunctioning Lenovo Laptop Camera</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-sudden-breakdown-of-shockwave-flash-in-google-chrome/"><u>Fixing the Sudden Breakdown of Shockwave Flash in Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-the-power-combination-ctrl-alt-and-del-not-responding-fixes/"><u>How to Reactivate the Power Combination: Ctrl, Alt, and Del Not Responding Fixes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/inside-tips-for-maximizing-your-creator-studio-potential-for-2024/"><u>Inside Tips for Maximizing Your Creator Studio Potential for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202284295-solve-your-bluetooth-woes-on-windows-11-fast-fix-guide/"><u>Solve Your Bluetooth Woes on Windows 11: Fast Fix Guide!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-approach-to-resolve-the-windows-update-malfunction-error-code-0x8024401c-in-windows-1011/"><u>Step-by-Step Approach to Resolve the Windows Update Malfunction (Error Code 0X8024401C) in Windows 10/11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-deepening-digital-conversations/"><u>Step-by-Step Guide to Deepening Digital Conversations</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-windows-11s-red-screen-error/"><u>Troubleshooting and Solutions for Windows 11'S Red Screen Error</u></a></li>
+</ul></div>
 

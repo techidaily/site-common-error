@@ -1,7 +1,7 @@
 ---
 title: Navigating the Maze of MSVCP140.dll Deficiency
-date: 2024-12-08T17:00:18.450Z
-updated: 2024-12-10T17:12:17.775Z
+date: 2024-12-09T18:53:39.010Z
+updated: 2024-12-17T01:09:58.479Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/51ce8e2d4e344c8b82645f25a39faba4287a1c5da
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -103,6 +99,10 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  4) Restart your computer and start the game again to check if the issue persists.
@@ -115,6 +115,10 @@ Here’s how to update drivers with Driver Easy:
 [Steam](https://tools.techidaily.com/drivereasy/download/)
 [Xbox One](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PlayStation: download files from MyCAREER
 
  1) Go to **Settings > Application Saved Data Management > Saved Data in System Storage** .
@@ -122,22 +126,22 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Upload to Online Storage** and upload all your data for 2K21 to the cloud.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-2-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) After uploading your data, go back to**Saved Data in Online Storage** and click**Download to System Storage** . Then download everything from**MyCAREER** (Only from**MyCAREER** files and nothing else).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
 
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steam
 
@@ -150,12 +154,16 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the**GENERAL** section, uncheck**Enable the Steam Overlay while in-game** .
 
 ![disable steam overlay NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the change, exit Steam and play your game again to see if the issue is fixed. If not, try verifying your game files.
 
@@ -169,19 +177,11 @@ To do this, simply follow the instructions below:
 
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-your-game-files-Steam-4.png)
 
  3) When the process is completed, restart Steam and launch your game again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Xbox One: make sure the language is set to English
 
@@ -192,7 +192,7 @@ To do this, simply follow the instructions below:
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/set-the-language-into-English-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**SETTINGS** and scroll down to**Menu Language** and make sure the language is set to**English** .
@@ -221,15 +221,20 @@ To do this, simply follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-culminating-sound-merging-music-with-vimeo-media-assets/"><u>[New] In 2024, Culminating Sound Merging Music with Vimeo Media Assets</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-world-of-warcraft-was-unable-to-start-up-3d-acceleration/"><u>[Solved] World of Warcraft Was Unable to Start up 3D Acceleration</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>[Updated] In 2024, Essential Guide Top 10 Steps for Instructors on YouTube Channels</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-vmixadaptive-mac-and-pc-harmony-for-2024/"><u>[Updated] VMixAdaptive Mac & PC Harmony for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-synergistic-videos-to-skyrocket-your-follower-count/"><u>2024 Approved Synergistic Videos to Skyrocket Your Follower Count</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-how-to-fix-your-aoc-usb-display-problem-on-windows-11-systems/"><u>Expert Tips: How to Fix Your AOC USB Display Problem on Windows 11 Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/noise-issues-gone-expert-solutions-for-restoring-sounds-in-forza-horizon-4-game/"><u>Noise Issues Gone: Expert Solutions for Restoring Sounds in Forza Horizon 4 Game</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-boot-issues-tips-for-unsticking-a-pc-from-windows-preparation-mode/"><u>Resolving Boot Issues: Tips for Unsticking a PC From 'Windows Preparation Mode'</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-compatible-software-and-hardware-for-avi-file-playback-across-devices/"><u>Ultimate Guide: Compatible Software & Hardware for AVI File Playback Across Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-archival-artifacts-radeons-revamp/"><u>[New] Archival Artifacts Radeon's Revamp</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-chilly-cinematography-comprehensive-ice-cream-monitoring-tutorial/"><u>[Updated] Chilly Cinematography Comprehensive Ice Cream Monitoring Tutorial</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-bridging-games-and-friends-xbox-live-to-facebook-broadcasting/"><u>2024 Approved Bridging Games and Friends Xbox Live to Facebook Broadcasting</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-keyword-stuffing-ensure-that-your-title-flows-naturally-with-keywords-incorporated-in-a-way-that-feels-natural-to-the-reader-overstuffing-may-result-i88/"><u>Avoid Keyword Stuffing: Ensure that Your Title Flows Naturally, with Keywords Incorporated in a Way that Feels Natural to the Reader. Overstuffing May Result in Penalties From Google's Algorithms or Simply Look Unappealing to Users.</u></a></li>
+<li><a href="https://common-error.techidaily.com/csgo-stability-boost-resolve-game-crashes-efficiently-and-swiftly/"><u>CSGO Stability Boost: Resolve Game Crashes Efficiently and Swiftly</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-fixing-games-that-cant-start-due-to-missing-physxloaderdll-file/"><u>Easy Solutions for Fixing Games That Can't Start Due to Missing physxloader.dll File</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-slow-reaction-time-on-your-windows-10-keyboard/"><u>Expert Tips for Fixing Slow Reaction Time on Your Windows 10 Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-power-surge-on-the-usb-port-error-on-windows-10/"><u>Fix: Power Surge on the USB Port Error on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-can-you-prevent-saving-slides-as-a-video-in-powerpoint/"><u>How Can You Prevent Saving Slides as a Video in PowerPoint?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-11-pc-reset-issues-fixing-there-was-a-problem-errors-effortlessly/"><u>How to Resolve Windows 11 PC Reset Issues - Fixing There Was a Problem Errors Effortlessly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/intrinsic-storytelling-principles/"><u>Intrinsic Storytelling Principles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-redmi-a2-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Redmi A2 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-set-predefined-app-sizes-in-win11/"><u>Maximizing Efficiency: Set Predefined App Sizes in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-critical-installer-crash-how-to-fix-error-code-1603/"><u>Resolving the Critical Installer Crash - How to Fix Error Code 1603!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/st-streamers-ever-caught/"><u>Richest Streamers Ever Caught</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Successfully Updating and Installing Steam Titles Without Errors
-date: 2024-08-22T19:18:42.201Z
-updated: 2024-08-23T19:18:42.201Z
+date: 2024-12-14T00:11:20.986Z
+updated: 2024-12-16T21:11:42.284Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ It’s a nuisance to see an error pops up saying “**DirectX encountered an unr
 4. **[Upgrade DirectX version](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Change the Display Scaling settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run a complete scan on your PC](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Be sure to meet system requirements
 
@@ -73,9 +77,6 @@ For details of system requirements of other games:
 
  Game developers always keep releasing patches to improve their games and fix any issues, so you should check for updates of your game in Steam or from the official website. Then install the latest patch to keep it up to date. This can fix your DirectX error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  A missing or outdated graphics card driver can cause your**DirectX encountered an unrecoverable error** . To rule it out as the cause for your problem, you should update your graphics card driver to the latest version.
@@ -105,9 +106,6 @@ Now launch your game again to see if it fixes your problem.
 
  Still no changes? Don’t give up hope. There is something else you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Upgrade DirectX version
 
  As this is an error about DirectX, it’s necessary to check whether the DirectX version meets the DirectX requirement for your game.
@@ -124,9 +122,11 @@ Now launch your game again to see if it fixes your problem.
 2. Type**dxdiag** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6d1c42af90.jpg)
 3. In the**System** tab of the**DirectX** **Dianostic** **Tool** , you can see the**DirectX** information in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c18c7dc5dff8.jpg)
 
  Then see if the DirectX meets the DirectX requirement for the game. If not, you’ll need to upgrade the DirectX version on your computer.
@@ -151,10 +151,16 @@ Here’s what you need to do:
 2. Click**System** in the**Settings** pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dc28f1e4f.jpg)
 3. In the**Display** section, ensure to select**100** % for**Scale** **and layout** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
 4. Then Windows will apply the changes. Open the game again and see if your problem has been fixed.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **If you’re using Windows 8 and Windows 7:**
@@ -163,10 +169,16 @@ Here’s what you need to do:
  Click**Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 2. Choose**100%** or**Smaller** for the size of text and other items on your screen, then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 3. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Run a complete scan on your PC
@@ -175,9 +187,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -190,9 +199,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  So there you have it – the four effective methods to fix**DirectX encountered an unrecoverable error** . If you have any questions or suggestions, feel free to leave a comment below.
 
 * [Application Errors](https://tools.techidaily.com/drivereasy/download/)
@@ -204,8 +210,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +217,20 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dissecting-ustream-with-comparative-views/"><u>[Updated] 2024 Approved Dissecting Ustream with Comparative Views</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-high-quality-hd-downloads-5-best-facebook-extensions-for-2024/"><u>[Updated] High-Quality HD Downloads 5 Best Facebook Extensions for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-demystifying-ez-grabber-a-beginners-guide/"><u>2024 Approved Demystifying EZ Grabber A Beginner's Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-reasons-youre-feeling-apathetic-about-school-and-how-to-overcome-them/"><u>5 Reasons You're Feeling Apathetic About School and How to Overcome Them</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-free-no-invasive-android-video-recorders/"><u>Best Free, No-Invasive Android Video Recorders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-screen-captures-in-windows-snip-tool-vs-printscreen/"><u>Efficient Screen Captures in Windows: Snip Tool Vs. Printscreen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-setup-obtain-hp-streams-essential-drivers-in-a-flash/"><u>Effortless Setup: Obtain HP Stream's Essential Drivers in a Flash</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/enhanced-engagement-with-triggered-email-campaigns-vs-bulk-broadcasts-for-superior-open-rates-30-increase-leveraging-massmail-solutions/"><u>Enhanced Engagement with Triggered Email Campaigns Vs. Bulk Broadcasts for Superior Open Rates (30% Increase) - Leveraging MassMail Solutions</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/gratuito-conversor-de-imagens-dpx-para-jpeg-online-comprar-e-fazer-tudo-sem-custo-pelo-site-movavi/"><u>Gratuito Conversor De Imagens DPX Para JPEG Online - Comprar E Fazer Tudo Sem Custo, Pelo Site Movavi!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-challenge-of-missing-radeon-display-options/"><u>How to Overcome the Challenge of Missing Radeon Display Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-to-mp3-simple-recording-steps/"><u>In 2024, YouTube to MP3 Simple Recording Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fixes-for-windows-10s-persistent-error-code-0x800f0922-during-updates/"><u>Mastering the Fixes for Windows 10'S Persistent Error Code 0X800F0922 During Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-issue-non-functioning-toshiba-keyboard-buttons/"><u>Solved Issue: Non-Functioning Toshiba Keyboard Buttons</u></a></li>
+</ul></div>
 

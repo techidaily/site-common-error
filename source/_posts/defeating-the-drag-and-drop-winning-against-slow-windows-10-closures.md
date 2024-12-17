@@ -1,7 +1,7 @@
 ---
 title: "Defeating the Drag-and-Drop: Winning Against Slow Windows 10 Closures"
-date: 2024-12-03T17:48:30.402Z
-updated: 2024-12-10T16:32:28.542Z
+date: 2024-12-10T00:58:15.799Z
+updated: 2024-12-16T19:34:03.503Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Run a Startup Repair
 
  The Startup Repair can repair the files necessary for the startup of your computer. To run a Startup Repair to fix your issue:
@@ -47,6 +43,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 **2)** Select the language and region.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Repair your computer** .
 
@@ -65,7 +65,7 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968812f12e1e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** After the Startup Repair complete, restart your computer and see if it resolves your problem.
@@ -81,7 +81,7 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Repair your computer** .
@@ -92,9 +92,17 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Select**Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596884143a289.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Type the following lines in Command Prompt and press **Enter** on your computer after each.
 
@@ -107,17 +115,9 @@ _**bootrec /scanos**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968863896808.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)**  Wait for the scans to complete. Then exit Command Prompt.
 
 **8)** Restart your computer and see if it fixes the issue. If you still get stuck, check**method 3** to reset your Windows 10.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Reset your Windows 10
 
@@ -154,21 +154,24 @@ _**bootrec /scanos**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-polishing-your-youtube-production-post-publishment/"><u>[New] 2024 Approved Polishing Your YouTube Production Post-Publishment</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-leading-no-ad-android-screen-recorder-hacks-for-2024/"><u>[New] Leading No-Ad Android Screen Recorder Hacks for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-12-proplus-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme 12 Pro+ 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/anaplastic-thyroid-carcinoma-exhibits-a-diverse-array-of-genetic-changes-that-contribute-to-its-aggressive-behavior-and-resistance-to-conventional-treatment68/"><u>Anaplastic Thyroid Carcinoma Exhibits a Diverse Array of Genetic Changes that Contribute to Its Aggressive Behavior and Resistance to Conventional Treatments</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ddpai-mini3-dashcam-where-quality-meets-enjoyment-on-the-road/"><u>DDPai Mini3 Dashcam - Where Quality Meets Enjoyment on the Road</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-ways-to-overcome-steams-disc-writing-mistakes/"><u>Effortless Ways to Overcome Steam's Disc Writing Mistakes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-your-windows-experience-leveraging-system-file-checker-and-deployment-image-servicing-for-troubleshooting/"><u>Optimizing Your Windows Experience: Leveraging System File Checker and Deployment Image Servicing for Troubleshooting</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/premier-networks-global-gems-with-local-spectacles-2024/"><u>Premier Networks Global Gems with Local Spectacles, 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/ps4-fan-loud-why-and-how-to-fix-it/"><u>PS4 Fan Loud: Why & How to Fix It?</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-the-dreaded-black-or-blank-screen-on-your-laptop/"><u>Resolved: How to Fix the Dreaded Black or Blank Screen on Your Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203114476-resolving-apex-legends-cheating-issues-the-simple-fix-youve-been-waiting-for/"><u>Resolving Apex Legends Cheating Issues: The Simple Fix You've Been Waiting For</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-typewriter-keys-malfunction-across-windows-operating-systems-windows-10-7-8/"><u>Resolving Typewriter Keys Malfunction Across Windows Operating Systems (Windows 10, 7, 8)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlined-sonic-experience-techniques-to-connect-and-configure-multiple-bluetooth-speakers-together/"><u>Streamlined Sonic Experience: Techniques to Connect and Configure Multiple Bluetooth Speakers Together</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722883487115-troubleshooting-guide-for-resolving-netflix-playback-problems/"><u>Troubleshooting Guide for Resolving Netflix Playback Problems</u></a></li>
-<li><a href="https://win-great.techidaily.com/verifying-system-readiness-for-various-media-types-a-comprehensive-guide-by-yl-computing/"><u>Verifying System Readiness for Various Media Types: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlock-videos-free-effect-sites-ranked/"><u>[New] Unlock Videos Free Effect Sites Ranked</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-improve-youtube-viewing-of-fb-videos-on-android/"><u>[Updated] In 2024, Improve YouTube Viewing of FB Videos on Android</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnose-and-repair-overwatch-connection-failures-a-comprehensive-guide/"><u>Diagnose & Repair Overwatch Connection Failures: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-battery-failure-on-ps4-controllers/"><u>Diagnosing and Repairing Battery Failure on PS4 Controllers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-8-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 8</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-the-common-steam-disk-writing-problem-step-by-step-guide/"><u>Effortless Fixes for the Common Steam Disk Writing Problem – Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-dealing-with-detection-failures-of-power-sources/"><u>Effortless Fixes: Dealing with Detection Failures of Power Sources</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-windows-10-update-issue-a-guide-on-resolving-0x800705b4-error/"><u>Fixing the Windows 10 Update Issue: A Guide on Resolving 0X800705b4 Error</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-oppo-find-n3-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Oppo Find N3.</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-90-gt-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor 90 GT</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-dynamic-topic-suggestions-for-streamers/"><u>In 2024, Dynamic Topic Suggestions for Streamers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-fast-tracking-fb-content-efficiency-strategies-explored/"><u>In 2024, Fast-Tracking FB Content Efficiency Strategies Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-rise-and-fall-of-vegas-pro-a-critical-look/"><u>In 2024, The Rise and Fall of Vegas Pro A Critical Look</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-lenovo-mouse-compatibility-woes-on-windows-1087-expert-tips-and-tricks/"><u>Overcoming Lenovo Mouse Compatibility Woes on Windows 10/8/7 - Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/razer-keyboard-issue-resolved-why-it-wasnt-lighting-up-and-what-to-do/"><u>Razer Keyboard Issue Resolved - Why It Wasn't Lighting Up & What to Do</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-no-audio-output-device-found-issue-on-your-windows-pc/"><u>Solving the 'No Audio Output Device Found' Issue on Your Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-this-device-is-unavailable-code-24-problem-for-versions-10-8-and-7/"><u>Solving Windows 'This Device Is Unavailable (Code 24)' Problem for Versions 10, 8 & 7</u></a></li>
 </ul></div>
 

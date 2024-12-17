@@ -1,7 +1,7 @@
 ---
 title: Quick Tricks to Speed Up Your Unresponsive Keyboard
-date: 2024-12-01T19:13:57.267Z
-updated: 2024-12-03T22:19:54.075Z
+date: 2024-12-10T02:21:49.239Z
+updated: 2024-12-17T01:22:26.384Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 4. [**Reseat your laptop battery**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -71,16 +75,12 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -88,6 +88,10 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -122,16 +126,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -184,18 +184,14 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-achieving-flawless-audio-to-text-translation-using-google/"><u>[New] 2024 Approved Achieving Flawless Audio to Text Translation Using Google</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-ingenious-intellectual-engagement-best-general-knowledge-channels/"><u>[New] 2024 Approved Ingenious Intellectual Engagement Best General Knowledge Channels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pilots-perspective-dji-dualsense-fpv-tech/"><u>[Updated] Pilot's Perspective DJI DualSense FPV Tech</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-igtvs-potential-secrets-to-attract-more-subscribers/"><u>[Updated] Unlocking IGTV's Potential Secrets to Attract More Subscribers</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/d3dx927dll-mistakenly-absent-heres-how-to-restore-it/"><u>D3dx9_27.dll Mistakenly Absent? Here's How to Restore It</u></a></li>
-<li><a href="https://common-error.techidaily.com/exploring-msdia80dll-functionality-is-retaining-necessary/"><u>Exploring msdia80.dll Functionality – Is Retaining Necessary?</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-start-your-diagnostic-policy-service-when-its-stopped/"><u>Fixing the Issue: How to Start Your Diagnostic Policy Service When It's Stopped</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-13-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 13? How to Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-your-pc-or-laptops-unwanted-hibernation-problem/"><u>Quick Fixes for Your PC or Laptop's Unwanted Hibernation Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/spacebar-key-malfunction-in-windows-10-find-out-why-and-how-to-get-it-working-again/"><u>Spacebar Key Malfunction in Windows 10? Find Out Why and How to Get It Working Again</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-intriguing-world-of-whole-sphere-videos/"><u>The Intriguing World of Whole Sphere Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/waking-up-to-a-well-rested-win11-machine/"><u>Waking Up to a Well-Rested Win11 Machine</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/constructing-compelling-trailer-crafts-for-2024/"><u>Constructing Compelling Trailer Crafts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-error-cant-connect-to-microsoft-defender-smartscreen-protection-service/"><u>Fixing the Error: Can't Connect to Microsoft Defender SmartScreen Protection Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-unresponsive-mic-issue-in-windows-11-a-step-by-step-guide/"><u>Fixing the Unresponsive Mic Issue in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-resolve-windows-device-access-problems/"><u>How to Correctly Address and Resolve Windows Device Access Problems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevating-engagement-crafting-high-roi-animated-campaigns-on-facebook/"><u>In 2024, Elevating Engagement Crafting High-ROI Animated Campaigns on Facebook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 8 Plus</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/instantly-upgrade-visuals-seamlessly-implement-intel-gfx-in-windows/"><u>Instantly Upgrade Visuals: Seamlessly Implement Intel GFX in WIndows</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-diagnostic-system-fails-to-run-correctly/"><u>Solutions for When Your Diagnostic System Fails to Run Correctly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-beginners-walkthrough-on-syncing-a-remote-to-your-chromecast-device/"><u>The Beginner's Walkthrough on Syncing a Remote to Your Chromecast Device</u></a></li>
 </ul></div>
 

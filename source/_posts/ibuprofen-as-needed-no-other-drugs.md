@@ -1,7 +1,7 @@
 ---
 title: Ibuprofen as Needed; No Other Drugs
-date: 2024-12-09T19:23:00.291Z
-updated: 2024-12-10T19:50:31.563Z
+date: 2024-12-09T17:05:58.008Z
+updated: 2024-12-16T23:10:58.696Z
 tags:
   - win11
   - win10
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking your GPU
@@ -94,10 +94,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-177.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Wait until the game cache verification finishes.
 
 5) Close the windows in Steam and exit Steam.
@@ -105,10 +101,6 @@ To do so:
 6) Relaunch Steam, then run CS:GO and see if the **CSGO crashing** problem has been fixed. If the crashing problem still occurs, move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Launch CSGO in -autoconfig or -safe mode
 
@@ -128,10 +120,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
@@ -141,6 +129,10 @@ To do so:
  5) Type**\-autoconfig** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-182.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Exit Steam.
 
@@ -154,13 +146,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Remove**ANY** launch options currently shown.
 
@@ -174,6 +166,10 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Reacquire all CSGO game files
 
 1) Exit Steam.
@@ -183,6 +179,10 @@ To do so:
 3) Rename the**steamapps** folder to**old\_steamapps** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-184.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Launch Steam and re-run the game.
 
@@ -202,19 +202,19 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4c03820bb.jpg)
 3. On your keyboard, press**the Windows logo key** and**E** at the same time, then copy & paste **C:\\Windows\\SysWOW64\\wbem** into the address bar and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4db541a75.jpg)
 4. Locate**fastprox.dll** and rename it to **fastprox.dllold** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4e5f2211c.jpg)
 5. Re-launch your game and hope you’re enjoying your game right now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -237,16 +237,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/he-infographic-lens-on-2017s-youtube-numerical-truths-for-2024/"><u>[New] The Infographic Lens on 2017'S Youtube Numerical Truths for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-unlimited-verbal-input-processing-for-free/"><u>[New] Unlimited Verbal Input Processing for Free</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-mac-6-video-grabber-apps/"><u>[Updated] Essential Mac 6 Video Grabber Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-closer-views-for-efficient-tech-meetings/"><u>2024 Approved Navigating Closer Views for Efficient Tech Meetings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/elite-laughter-photo-composer-tool-for-2024/"><u>Elite Laughter Photo Composer Tool for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-how-to-easily-fix-error-0xc1900208-in-your-windows-11-updates/"><u>Expert Advice: How to Easily Fix Error 0Xc1900208 in Your Windows 11 Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210170852-fix-a-malfunctioning-dell-usb-port-quick-and-effective-solutions-inside/"><u>Fix a Malfunctioning Dell USB Port - Quick and Effective Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-vision-problems-a-step-by-step-solution-for-clearer-text-in-windows-10/"><u>Fix Your Vision Problems: A Step-by-Step Solution for Clearer Text in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-corrupted-windows-store-cache-complete-solution/"><u>Fixing a Corrupted Windows Store Cache - Complete Solution</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/illuminating-emotions-an-hdr-portraitists-guide-for-2024/"><u>Illuminating Emotions An HDR Portraitist's Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-diagnostics-policy-service-not-running-issue-quickly/"><u>Resolving 'Diagnostics Policy Service Not Running' Issue Quickly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elevate-your-virtual-meetings-mastering-zoom-filter-tech/"><u>[New] 2024 Approved Elevate Your Virtual Meetings Mastering Zoom Filter Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-compiled-lists-best-online-stores-for-youtube-tones-and-videos/"><u>[Updated] Compiled Lists Best Online Stores for Youtube Tones and Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-effortless-capture-and-storage-pro-guide-to-digital-sound-recording/"><u>[Updated] Effortless Capture & Storage Pro Guide to Digital Sound Recording</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-light-intensity-in-hdr-scrutinized-beneficial-for-2024/"><u>[Updated] Light Intensity in HDR Scrutinized Beneficial for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-excellent-image-restoration-apps-bring-pixels-back-to-life/"><u>Discover Excellent Image Restoration Apps: Bring Pixels Back To Life</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminating-cygwin1dll-is-missing-error-effective-troubleshooting-steps/"><u>Eliminating 'cygwin1.dll Is Missing' Error: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-copying-and-pasting-errors-in-windows-11/"><u>Expert Advice: Overcoming Copying & Pasting Errors in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-11-windows-monitor-missing-full-screen/"><u>Fix: 11 Windows Monitor Missing Full Screen</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-15-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 15 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-change-metaverse-advertising-masterclass-for-2024/"><u>Leading Change Metaverse Advertising Masterclass for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/missing-component-detected-msvcr71-fixed/"><u>Missing Component Detected: MSVCR71 Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-age-of-empires-3-initialization-failed/"><u>Solved: Age of Empires 3 Initialization Failed</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-repairing-windows-update-glitch-error-0x8024402c/"><u>Step-by-Step Solutions for Repairing Windows Update Glitch (Error 0X8024402c)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-oddworld-soulstorm-on-windows-ultimate-guide-to-stability/"><u>Troubleshooting Oddworld: Soulstorm on Windows – Ultimate Guide to Stability</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-solving-this-device-is-not-present-windows-7-8-and-10-troubleshooting-steps/"><u>Understanding and Solving 'This Device Is Not Present' - Windows 7, 8 & 10 Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201425373-unstuck-with-a-non-loading-steam-store-try-these-proven-fixes/"><u>Unstuck with a Non-Loading Steam Store? Try These Proven Fixes!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Laptop Microphone Malfunctions? Here's How You Can Get It Working Again
-date: 2024-08-22T19:20:48.094Z
-updated: 2024-08-23T19:20:48.094Z
+date: 2024-12-12T01:39:34.196Z
+updated: 2024-12-17T00:31:13.827Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -35,6 +39,10 @@ Here’s how to do it:
  1) On your keyboard, press **the Windows logo key**  and type **microphone** , then click on **Microphone privacy settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
@@ -49,8 +57,9 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,16 +72,17 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -82,25 +92,18 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
@@ -129,8 +132,6 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +139,23 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-techniques-for-swapping-video-content-in-android-for-2024/"><u>[New] Techniques for Swapping Video Content in Android for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-best-5-professional-drones-you-can-buy-for-2024/"><u>[Updated] Best 5 Professional Drones You Can Buy for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-non-functional-laptop-keys-in-windows-environment/"><u>Decoding: Non-Functional Laptop Keys in Windows Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/dll-deficiency-windows-core-library-absence-alert/"><u>DLL Deficiency: Windows Core Library Absence Alert</u></a></li>
+<li><a href="https://fox-info.techidaily.com/emblem-of-success-create-and-tailor-professional-logos-with-free-models/"><u>Emblem of Success Create & Tailor Professional Logos with Free Models</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-there-was-a-problem-resetting-your-pc-error-on-windows-10-solved/"><u>Fix There Was a Problem Resetting Your PC Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-with-the-igfxem-module-now-operational-again/"><u>Fixing Issues with the igfxEM Module - Now Operational Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-lenovos-unresponsive-fn-key-with-simple-solutions/"><u>How to Repair Lenovo's Unresponsive FN Key with Simple Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-subtitling-in-final-cut-pro-x-tips-and-tricks-for-2024/"><u>New The Ultimate Guide to Subtitling in Final Cut Pro X Tips and Tricks for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-libcurldll-error-fixes-for-not-found-and-missing-issues/"><u>Resolve libcurl.dll Error: Fixes for Not Found and Missing Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-self-activating-windows-11-computers-a-comprehensive-guide/"><u>Solving the Mystery of Self-Activating Windows 11 Computers - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-gamers-handbook-reviving-a-malfunctioning-wireless-gamepad-across-all-platforms/"><u>The Gamer's Handbook: Reviving a Malfunctioning Wireless Gamepad Across All Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/the-new-contender-asuss-answer-to-rog-ally/"><u>The New Contender: ASUS's Answer to ROG Ally</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/unify-your-visuals-a-beginners-guide-to-color-matching-in-final-cut-pro-for-2024/"><u>Unify Your Visuals A Beginners Guide to Color Matching in Final Cut Pro for 2024</u></a></li>
+</ul></div>
 

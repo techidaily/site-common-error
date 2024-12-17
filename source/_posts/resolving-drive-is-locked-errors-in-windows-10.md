@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Drive Is Locked' Errors in Windows 10
-date: 2024-08-22T19:19:22.514Z
-updated: 2024-08-23T19:19:22.514Z
+date: 2024-12-12T23:02:17.745Z
+updated: 2024-12-16T17:58:57.789Z
 tags:
   - win11
   - win10
@@ -43,13 +43,25 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e37bce76.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e855e5ac.png)
 
  After that, click**Manage your account** or**User Accounts** in the list of results. Then in the window popping up, you will see your account name and the account type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84fe1ae64a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ff74c632.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your account type is not**administrator** , sign out of this account and log into an administrator account, or ask the administrator of this computer to log on for you.
 
@@ -81,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6f8bd1c175.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Try opening or making changes to the file or folder and see if the error disappears.  
   
  To take the ownership on**Windows 7** :
@@ -93,9 +109,17 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fdb62994a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Owner** tab. Then click the**Edit** button to change the owner.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fdc489026.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the**Other users or groups** button to choose the user manually.
 
@@ -117,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e81aaee1354.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)** Check and see if the error disappears.  
   
 ## Method 2: Get the proper permissions
@@ -129,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e37bce76.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e855e5ac.png)
 
  After that, click**Manage your account** or**User Accounts** in the list of results. Then in the window popping up, you will see your account name and the account type.
@@ -136,6 +168,10 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84fe1ae64a.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ff74c632.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your account type is not**administrator** , sign out of this account and log into an administrator account, or ask the administrator of this computer to log on for you.
 
@@ -149,6 +185,10 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e822552e434.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** In the**Group or users names** box, click your name (the name you use to log into this computer). Then, in the Permissions for Users box, select the**Allow** check box of**Full control** (this will allow you to have full control to access and modify this file or folder). After that, click**OK** to apply the changes and exit this dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e8234601e13.png)
@@ -159,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
 
 **5)**  If this method works for you, you won’t get the access denied error when you try to open or modify the file or folder.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3: Recover your data
 
  It is also possible that you get the access denied error because the file or folder you are accessing is corrupted. You can’t open it or make any changes. Honestly, in most cases, the corrupted files and folders cannot be repaired. You can only either delete it or recover it from a backup copy. But still you can utilize some data recovery tools or services to recover data from a corrupted folder. So if the data in the problem folder is important for you, you can try using find some programs or services to perform data recovery in order to save them.
@@ -174,8 +211,6 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +218,24 @@ thumbnail: https://thmb.techidaily.com/64fc45e8712465207f2977b50077b33434cfc78bb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-boosting-obs-streams-direct-to-facebook-feed/"><u>[New] 2024 Approved Boosting OBS Streams Direct to Facebook Feed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-effective-method-for-adding-music-to-facebook-iphone/"><u>[Updated] Effective Method for Adding Music to Facebook (iPhone)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-full-rotation-shoots-9-must-follow-rules/"><u>2024 Approved Mastering Full-Rotation Shoots 9 Must-Follow Rules</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-the-void-effective-remedies-for-laptops-persistent-white-display-problem/"><u>Clear the Void: Effective Remedies for Laptop's Persistent White Display Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-to-fix-oddworld-soulstorm-pc-game-crashes/"><u>Complete Guide to Fix Oddworld: Soulstorm PC Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/computer-starts-up-without-problems-fix-implemented/"><u>Computer Starts Up Without Problems – Fix Implemented</u></a></li>
+<li><a href="https://common-error.techidaily.com/cracking-down-on-0x80070643-comprehensive-fixes-for-windows-update-failures/"><u>Cracking Down on 0X80070643 - Comprehensive Fixes for Windows Update Failures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-and-reliable-installation-of-ricoh-mp-c3003-printer-drivers-download-now/"><u>Easy and Reliable Installation of Ricoh MP C3003 Printer Drivers - Download Now</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-zte-nubia-z60-ultra-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your ZTE Nubia Z60 Ultra Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-evaluation-the-advantages-and-challenges-in-samsung-photo-tools/"><u>In 2024, Evaluation The Advantages & Challenges in Samsung Photo Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-meme-mania-social-medias-most-hilarious-video-threads/"><u>In 2024, Meme Mania Social Media's Most Hilarious Video Threads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-vouches-for-continued-brilliance-of-gpt/"><u>OpenAI Vouches for Continued Brilliance of GPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-common-overwatch-microphone-problems/"><u>Quick Fixes for Common Overwatch Microphone Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-the-stutter-proven-solutions-to-get-rid-of-minecraft-lag/"><u>Stop the Stutter: Proven Solutions to Get Rid of Minecraft Lag</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-remote-server-connection-errors-expert-tips-and-solutions/"><u>Troubleshooting Remote Server Connection Errors - Expert Tips and Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-cross-platform-video-playback-software-for-2024/"><u>Unleashing the Power of Cross-Platform Video Playback Software for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/unveiling-the-role-and-ensuring-xinput13dlls-presence/"><u>Unveiling the Role & Ensuring XINPUT1_3.dll's Presence</u></a></li>
+</ul></div>
 

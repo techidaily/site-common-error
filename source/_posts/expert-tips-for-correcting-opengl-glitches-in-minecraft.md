@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Correcting OpenGL Glitches in Minecraft
-date: 2024-08-22T19:21:44.968Z
-updated: 2024-08-23T19:21:44.968Z
+date: 2024-12-13T22:38:40.021Z
+updated: 2024-12-16T20:22:46.299Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Your**Windows Store** has been acting up recently.
 
  Looks like there’s lots of work to do, but don’t despair just yet. In this article, we’ll offer you 3 quick and easy fixes to help you solve this nasty problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for Windows Store cache may be damaged
 
  Before you try these fixes, please make sure your computer’s date, time and time zone are set correctly.
@@ -28,6 +32,10 @@ Your**Windows Store** has been acting up recently.
 1. **[Reset the Windows Store cache](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Create a new Windows Store cache folder](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Microsoft store](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reset the Windows Store cache
 
@@ -41,6 +49,10 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
@@ -51,9 +63,6 @@ Your**Windows Store** has been acting up recently.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Create a new Windows Store cache folder
 
  Sometimes the error occurs just because your Windows Store is unable to read the error-ridden cache folder. If that’s true, we’ll need to**create a new Windows** **Store cache folder** .
@@ -66,9 +75,6 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aebb40074eaa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  3) Double-click on **LocalState** , see if there’s a folder named**cache** in it:
 
 * If yes, rename the folder**cache.old** . Create a new folder and name it**cache** . Close the window.
@@ -88,30 +94,26 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  3) Click**Reset** , and you’ll receive a confirmation button. Click **Reset** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeace26d970e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Restart your computer and check if the problem has been sorted out.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Want us to fix the problem for you?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Free-Tech-Support.jpg)
@@ -126,8 +128,6 @@ Your**Windows Store** has been acting up recently.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,17 @@ Your**Windows Store** has been acting up recently.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-best-tales-woven-on-airwaves/"><u>[New] Best Tales Woven on Airwaves</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-remedy-screen-disruptions-during-live-streams/"><u>[New] In 2024, Remedy Screen Disruptions During Live Streams</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-creative-expression-incor-points-on-sharing-gifs-on-snapchat-for-2024/"><u>[New] Unlock Creative Expression Incor Points on Sharing Gifs on Snapchat for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-live-streaming-services-for-church-you-should-know-for-2024/"><u>10 Best Live Streaming Services for Church You Should Know for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208840290-comprehensive-fixes-for-windows-10-bluetooth-malfunctions-avoid-delays/"><u>Comprehensive Fixes for Windows 10 Bluetooth Malfunctions – Avoid Delays!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-techniques-to-address-and-resolve-driverpowerstatefailure-problems/"><u>Expert Techniques to Address and Resolve DRIVER_POWER_STATE_FAILURE Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-asus-rog-phone-7-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Asus ROG Phone 7</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inside-the-world-class-editor-a-complete-guide-to-vivacuts-offerings-for-2024/"><u>Inside the World-Class Editor A Complete Guide to VivaCut's Offerings for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-volume-is-dirty-error-code-0x80071ac3-in-windows/"><u>Resolving the 'Volume Is Dirty' Error (Code 0X80071AC3) in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-updates-successfully-resolved-after-initial-failure/"><u>Windows Updates Successfully Resolved After Initial Failure</u></a></li>
+</ul></div>
 

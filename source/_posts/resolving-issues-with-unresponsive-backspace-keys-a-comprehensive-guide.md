@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Unresponsive Backspace Keys: A Comprehensive Guide"
-date: 2024-11-08T17:13:10.688Z
-updated: 2024-11-15T17:27:55.693Z
+date: 2024-12-13T19:37:47.367Z
+updated: 2024-12-17T00:21:12.834Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Table of contents
 
 * [What’s Shell Infrastructure Host?](#h-what-s-shell-infrastructure-host)
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
   * [Fix 4: Repair corrupt system files](#h-fix-4-repair-corrupt-system-files)  
   * [Fix 5: Run System Maintenance Troubleshooter](#h-fix-5-run-system-maintenance-troubleshooter)  
   * [Fix 6: Perform a clean boot](#h-fix-6-perform-a-clean-boot)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s Shell Infrastructure Host?
 
@@ -59,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/update-and-security.jpg)
 3. Click**Check for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/updates-1.jpg)
 4. Update your OS as required, and restart your computer to see if the issue has been resolved.
 
@@ -85,6 +86,10 @@ If Updating your Windows is not helping, move on to the second fix.
 
  If this step still can’t improve the CPU usage, move on to the next method below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Use a different photo viewer app
 
  One of the major causes of the Shell Infrastructure Host high CPU problem is the memory leak issue with the default photo viewer app in Windows. This bug makes sihost.exe query the registry all the time, which leads to the high CPU usage.
@@ -95,19 +100,20 @@ If Updating your Windows is not helping, move on to the second fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-setting.jpg)
 2. Select**Apps.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/settings-app.jpg)
 3. Select**Default apps** , then click**Photos** (which is the default photo viewer app in Windows).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/default-apps.jpg)
 4. Switch to another app.  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/choose-an-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then check if that resolves the issue. If nothing changes, you might need to repair corrupt system files.
 
@@ -123,19 +129,15 @@ Here’s how to use Fortect to repair your system files:
 2. Launch Fortect and it will run a free scan of your PC. After the scan is complete, you will be presented with a report displaying the identified issues.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Click **Start Repair** to automatically fix all the issues (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact**<support@fortect.com>** for a full refund.
@@ -148,13 +150,6 @@ Here’s how to use Fortect to repair your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-runn.jpg)
 2. **Type** **the following** into the command line and press**Enter** :  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `%systemroot%\system32\msdt.exe -id MaintenanceDiagnostic`  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/run-troubleshooting.jpg)
 3. Click **Advanced** in the pop-up box.  
@@ -165,13 +160,6 @@ Here’s how to use Fortect to repair your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/next.jpg)
 
  If the issue disappears, congrats! If not, there is one more fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
 
@@ -186,40 +174,22 @@ Here’s how to use Fortect to repair your system files:
 4. On the **Startup**  tab of System Configuration, click **Open Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot2.jpg)
 5. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot3-1.jpg)
 6. Go back to the **System Configuration** window and click **OK** to save the changes you just made.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot4.jpg)
 7. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot5.jpg)
 8. Check to see if the problem goes away.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your computer may temporarily lose some functionality while in a clean boot environment, but that functionality will return when you[reset the computer to start normally](#reset) .
@@ -241,6 +211,11 @@ Here’s how to use Fortect to repair your system files:
 3. On the **General**  tab, select **Normal startup** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot6.jpg)
 4. Select the **Services**  tab, clear the check box beside **Hide all Microsoft services** , select **Enable all** , then select **Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot7.jpg)
 5. Select the **Startup**  tab, then select **Open Task Manager** .
 6. In Task Manager, Enable all of the startup programs you had Disabled before, and then select **OK** .
@@ -266,19 +241,24 @@ Here’s how to use Fortect to repair your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-discover-8-trusted-platforms-for-online-video-advancement/"><u>[New] 2024 Approved Discover 8 Trusted Platforms for Online Video Advancement</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essentials-of-effective-video-narration-techniques/"><u>2024 Approved The Essentials of Effective Video Narration Techniques</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/essential-tips-to-stop-batman-arkham-knight-from-freezing-or-fatal-errors/"><u>Essential Tips to Stop Batman: Arkham Knight From Freezing or Fatal Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-resolving-driverpowerstatefailure-malfunctions-efficiently/"><u>Expert Advice: Resolving DRIVER_POWER_STATE_FAILURE Malfunctions Efficiently</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/grab-two-top-nomad-iphone-sleeves-today-bogo-offer/"><u>Grab Two Top Nomad iPhone Sleeves Today - BOGO Offer!</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-netgear-networking-gear-the-ultimate-guide/"><u>Leading Netgear Networking Gear: The Ultimate Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/league-of-legends-download-speed-problem-solutions-and-tips/"><u>League of Legends Download Speed Problem: Solutions and Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-poco-x6-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Poco X6 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205780356-trouble-with-hp-laptop-usb-ports-effective-solutions-at-hand/"><u>Trouble with HP Laptop USB Ports? Effective Solutions at Hand</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-undetected-western-digital-my-passport-ultra-on-your-pc/"><u>Troubleshooting Guide: Fixing Undetected Western Digital My Passport Ultra on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-success-overcome-the-32-bit-print-driver-host-crashed-issue/"><u>Troubleshooting Success! Overcome the '32-Bit Print Driver Host Crashed' Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-rpc-connection-failures-in-windows-systems/"><u>Troubleshooting Tips for Fixing RPC Connection Failures in Windows Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-dvd-ripper-and-movie-transcoders-web-based-technical-assistance-hub/"><u>WinX DVD Ripper & Movie Transcoder's Web-Based Technical Assistance Hub</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-signal-id-video-overview-width-x-height-encoding-minutes/"><u>[New] 2024 Approved Signal ID Video Overview Width X Height, Encoding, Minutes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-essential-11-zero-cost-youtube-moniker-makers/"><u>[New] In 2024, Essential 11 Zero-Cost YouTube Moniker Makers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-offline-entertainment-how-to-load-youtube-video-onto-your-apple-gear/"><u>[Updated] 2024 Approved Offline Entertainment How to Load YouTube Video Onto Your Apple Gear</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pinnacle-programs-for-peak-webcam-video-quality-for-2024/"><u>[Updated] Pinnacle Programs for Peak Webcam Video Quality for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-exhilarating-escapades-a-guide-to-the-greatest-action-adventure-games-top-10/"><u>2024 Approved Exhilarating Escapades A Guide to the Greatest Action-Adventure Games (Top 10)</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio-for-2024/"><u>A Comprehensive Guide to Video and Subtitle Translation with Veed.io for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-guide-restoring-functionality-of-non-working-webcam-on-a-lenovo-laptop/"><u>DIY Guide: Restoring Functionality of Non-Working Webcam on a Lenovo Laptop</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/access-luxury-free-access-to-your-dreamset-of-50-banners/"><u>Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-it-tips-for-resolving-issues-with-a-broken-hdmi-connector-through-usb-ports/"><u>Fix It! Tips for Resolving Issues with a Broken HDMI Connector Through USB Ports</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-gt-neo-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme GT Neo 5 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-d3dcompiler47dll-error-comprehensive-guide/"><u>How to Fix D3DCOMPILER_47.dll Error - Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-pctablet-mkv-reader/"><u>In 2024, Premium PC/Tablet MKV Reader</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-missing-battery-indicator-on-windows-10-with-these-simple-fixes/"><u>Resolve Your Missing Battery Indicator on Windows 10 with These Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-nonfunctional-at-sign-keyboard-problems/"><u>Step-by-Step Solution for Nonfunctional 'At Sign' Keyboard Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-improve-scanner-printer-conversation-epson/"><u>Steps to Improve Scanner-Printer Conversation (Epson)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-durable-ultrabooks-and-powerhouses-of-2024-a-comprehensive-guide/"><u>Top Durable Ultrabooks and Powerhouses of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/total-war-enthusiasts-rejoice-uncrash-your-rome-remastered-experience-here/"><u>Total War Enthusiasts Rejoice: Uncrash Your Rome Remastered Experience Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubled-by-cs-go-keep-freezing-or-crashing-heres-how-to-fix-it-quickly/"><u>Troubled by CS: GO Keep Freezing or Crashing? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/zap-freezes-quickly-enjoy-flawless-games/"><u>Zap Freezes Quickly - Enjoy Flawless Games</u></a></li>
 </ul></div>
 

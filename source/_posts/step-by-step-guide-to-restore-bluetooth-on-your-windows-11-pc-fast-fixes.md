@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Restore Bluetooth on Your Windows 11 PC - Fast Fixes!
-date: 2024-11-08T16:08:39.967Z
-updated: 2024-11-15T18:18:55.652Z
+date: 2024-12-09T18:47:04.741Z
+updated: 2024-12-16T22:49:05.243Z
 tags:
   - win11
   - win10
@@ -41,20 +41,21 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -75,23 +76,9 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -104,10 +91,7 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
@@ -117,20 +101,16 @@ To do so:
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
@@ -168,20 +148,24 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-melodic-overlays-on-digital-imagery/"><u>[New] 2024 Approved Melodic Overlays on Digital Imagery</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/inute-by-minute-mastery-the-top-ten-on-youtube-daily-for-2024/"><u>[New] Minute-by-Minute Mastery The Top Ten on YouTube Daily for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-affordable-recording-powerhouses-ranking-of-10-free-recorders/"><u>[Updated] 2024 Approved Affordable Recording Powerhouses Ranking of 10 Free Recorders</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mobile-identification-showdown-iphone-x-and-galaxy/"><u>[Updated] In 2024, Mobile Identification Showdown IPhone X and Galaxy</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-windows-10-crashes-tips-and-techniques-for-users/"><u>Addressing Windows 10 Crashes: Tips and Techniques for Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-the-apple-vision-pro-enhance-your-air-travel-experience-discovering-luxury-in-economy/"><u>Can The Apple Vision Pro Enhance Your Air Travel Experience? Discovering Luxury in Economy</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/clandestine-scrollers-of-fb-stories-for-2024/"><u>Clandestine Scrollers of Fb Stories for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/fbs-5m-investment-seeks-to-outshine-substack-amongst-authors/"><u>FB's $5M Investment Seeks to Outshine Substack Amongst Authors</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207857915-google-chrome-stops-working-heres-how-you-can-resolve-it/"><u>Google Chrome Stops Working? Here's How You Can Resolve It!</u></a></li>
-<li><a href="https://common-error.techidaily.com/improved-driver-management-minimizes-elevated-cpu-utilization-in-windows/"><u>Improved Driver Management Minimizes Elevated CPU Utilization in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-11-launch-errors-strategies-to-address-post-upgrade-system-hang-ups/"><u>Mastering Windows 11 Launch Errors: Strategies to Address Post-Upgrade System Hang-Ups</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-typing-speed-tackling-keyboard-stutters-on-windows-11-devices/"><u>Optimizing Typing Speed - Tackling Keyboard Stutters on Windows 11 Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/sandstorm-stability-improvements-for-a-seamless-insurgency-experience/"><u>Sandstorm Stability Improvements for a Seamless Insurgency Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/snooze-button-off-fixing-wake-issues-on-windows-11/"><u>Snooze Button Off: Fixing Wake Issues on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-dealing-with-a-black-monitor-on-dell-systems/"><u>Ultimate Troubleshooting Tips for Dealing with a Black Monitor on Dell Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-bridging-gaps-building-relationships-with-your-audience/"><u>[New] 2024 Approved Bridging Gaps Building Relationships with Your Audience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-in-pursuit-of-perfection-is-black-gopro-better-than-sony-action-cam/"><u>[New] In 2024, In Pursuit of Perfection Is Black GoPro Better than Sony Action Cam?</u></a></li>
+<li><a href="https://common-error.techidaily.com/aoc-monitor-connection-issues-troubleshooting-and-fixes-for-non-responsive-screen-in-windows-10/"><u>AOC Monitor Connection Issues: Troubleshooting and Fixes for Non-Responsive Screen in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/battle-tested-solutions-to-overcome-wwe-2ks-feature-level-10-error-in-dx11-environments/"><u>Battle-Tested Solutions to Overcome WWE 2K's Feature Level 10 Error in DX11 Environments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-iphone-and-ipad-jokes-entertaining-pranks-to-surprise-friends/"><u>Best iPhone and iPad Jokes: Entertaining Pranks to Surprise Friends</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-broken-or-corrupted-file-structures-in-windows-11/"><u>Comprehensive Fixes for Broken or Corrupted File Structures in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-constant-pc-mouse-detachment-problems-for-smooth-usage/"><u>Diagnosing and Repairing Constant PC Mouse Detachment Problems for Smooth Usage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-15-must-have-complimentary-windows-11-themes-for-your-pc/"><u>Discover 15 Must-Have Complimentary Windows 11 Themes for Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175712434-discover-exceptional-cooling-value-the-thermalight-phantom-spirit-120-se-now-available-at-an-unbeatable-price-of-just-35/"><u>Discover Exceptional Cooling Value: The Thermalight Phantom Spirit 120 SE, Now Available at an Unbeatable Price of Just $35</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205128970-how-to-fix-lenovo-mouse-pad-issues-on-windows-11-8-and-7-solutions-included/"><u>How to Fix Lenovo Mouse Pad Issues on Windows 11, 8 & 7 - Solutions Included</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-stuck-or-non-updating-windows-10-problems-easily/"><u>How to Overcome Stuck or Non-Updating Windows 10 Problems Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solution-for-missing-bluetooth-devices-on-your-windows-10-pc/"><u>Quick Solution for Missing Bluetooth Devices on Your Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-successfully-linking-your-bluetooth-keyboard-to-laptopdesktop/"><u>Solution Guide: Successfully Linking Your Bluetooth Keyboard to Laptop/Desktop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-integrating-the-navyseal-big-brother-module-into-your-kodi-system-ensuring-matrix-compatibility/"><u>Step-by-Step Tutorial for Integrating the NavySeal Big Brother Module Into Your Kodi System, Ensuring Matrix Compatibility</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/supplementary-data-handling-amendment-enhancing-information-management/"><u>Supplementary Data Handling Amendment: Enhancing Information Management</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-best-of-the-best-in-open-world-gaming/"><u>The Best of the Best in Open World Gaming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls/"><u>The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-simple-solutions-to-resolve-typical-apple-pay-problems/"><u>Top 10 Simple Solutions to Resolve Typical Apple Pay Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-did-my-warframe-update-fail-common-causes-and-solutions/"><u>Why Did My Warframe Update Fail? Common Causes and Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What to Do When Your PC Runs on Windows 11 & Stalls? Comprehensive Fix Guide
-date: 2024-12-01T07:06:34.399Z
-updated: 2024-12-03T21:09:27.180Z
+date: 2024-12-14T18:13:03.571Z
+updated: 2024-12-16T20:01:11.427Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Close unnecessary programs
 
  The first fix you can try is to close the programs running in the background. When you have many apps running at the same time, they may interfere with each other and cause random system bugs. For example, some users reported that they were able to fix the copy-and-paste feature after they turned off or restarted their video players or graphics design software.
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix didn’t help, try the next fix.
 
@@ -68,13 +76,13 @@ If this fix didn’t help, try the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
@@ -97,10 +105,6 @@ If this fix didn’t help, try the next one.
 
 If your problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Restart RDP Clipboard Monitor
 
  RDP Clipboard Monitor allows the user to share the clipboard between the local and the remote desktop. If this process is not functioning as it’s supposed to, you may encounter a copy-paste problem when you’re using a remote desktop. To fix this, you may need to restart the RDP Clipboard Monitor process:
@@ -110,7 +114,7 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
@@ -125,16 +129,12 @@ If your problem persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -160,19 +160,15 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-enhancing-audio-visual-experience-with-youtube-music-insertion/"><u>[New] 2024 Approved Enhancing Audio-Visual Experience with YouTube Music Insertion</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlining-online-recording-of-webcamplusscreen/"><u>[New] 2024 Approved Streamlining Online Recording of Webcam+Screen</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-obs-mobile-top-techniques-for-2024/"><u>[New] Mastering OBS Mobile Top Techniques for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-tiny-tempo-truths-character-beats-exposed/"><u>[Updated] In 2024, Tiny Tempo Truths Character Beats Exposed</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-jumpstart-traffic-top-tier-video-seo-tools-for-2024/"><u>[Updated] Jumpstart Traffic – Top-Tier Video SEO Tools for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-how-to-repair-binkw32dll-absence-warning/"><u>Expert Guide: How to Repair Binkw32.DLL Absence Warning</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-lower-wucltexe-cpu-impact-in-windows-11/"><u>How to Troubleshoot and Lower wuclt.exe CPU Impact in Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-insta-influence-playbook-the-9-actions-that-build-a-brand/"><u>In 2024, Insta Influence Playbook The 9 Actions that Build a Brand</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206753948-microsoft-print-to-pdf-not-working-in-windows-1011-heres-the-solution/"><u>Microsoft Print-to-PDF Not Working in Windows 10/11? Here's the Solution</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-unrecognized-gpus-in-fortnite-windows/"><u>Troubleshooting and Fixing Unrecognized GPUs in Fortnite (Windows)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-non-responsive-aoc-monitor-issue-on-windows-11/"><u>Troubleshooting Guide: Fixing the Non-Responsive AOC Monitor Issue on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-solution-for-user32dll-disappearance-problems-on-your-pc/"><u>Ultimate Solution for 'User32.dll' Disappearance Problems on Your PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-parchment-to-paperbacks-the-quintessential-quest-for-classics/"><u>[New] From Parchment to Paperbacks The Quintessential Quest for Classics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-fixes-resolving-common-problems-with-your-corsair-void-audio-device/"><u>Essential Fixes: Resolving Common Problems with Your Corsair Void Audio Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-tailored-results-through-cookiebot-integration/"><u>Experience Tailored Results Through Cookiebot Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/experiencing-problems-with-netflix-heres-how-to-determine-and-fix-them/"><u>Experiencing Problems with Netflix? Here's How to Determine and Fix Them</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-repairing-user-profile-and-authentication-problems-in-windows-11/"><u>Guide to Repairing User Profile and Authentication Problems in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-restoring-usb-peripherals-in-windows-7/"><u>Troubleshooting Guide for Restoring USB Peripherals in Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-restarts-in-windows-11-pcs/"><u>Unexpected Restarts in Windows 11 PCs</u></a></li>
 </ul></div>
 

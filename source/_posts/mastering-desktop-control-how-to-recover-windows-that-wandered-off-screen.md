@@ -1,7 +1,7 @@
 ---
 title: "Mastering Desktop Control: How to Recover Windows That Wandered Off-Screen"
-date: 2024-12-05T22:51:21.269Z
-updated: 2024-12-10T20:49:02.256Z
+date: 2024-12-13T19:45:14.673Z
+updated: 2024-12-16T17:30:17.343Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -49,11 +45,19 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
@@ -62,7 +66,7 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -76,7 +80,7 @@ You can also try these steps to rebuild the icon cache:
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
@@ -98,21 +102,17 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
@@ -126,6 +126,11 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
@@ -148,10 +153,6 @@ OR
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -176,19 +177,15 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-techniques-for-enhancing-obs-studio-edits/"><u>[Updated] Essential Techniques for Enhancing OBS Studio Edits</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastering-the-art-of-video-from-still-photos-through-pixiz-techniques-for-2024/"><u>[Updated] Mastering the Art of Video From Still Photos Through Pixiz Techniques for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-srt-demystified-in-depth-analysis-and-tips-for-2024/"><u>[Updated] SRT Demystified In-Depth Analysis and Tips for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/beating-the-glitch-fixes-for-opening-issues-with-nvidias-geforce-experience-software/"><u>Beating the Glitch: Fixes for Opening Issues with Nvidia's GeForce Experience Software</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-google-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Google FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-guide-for-resolving-error-0x80070002-during-windows-updates/"><u>Effortless Guide for Resolving 'Error 0X80070002' During Windows Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-tech-cooperation-with-samsung-flow-link/"><u>Effortless Tech Cooperation with Samsung Flow Link</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-recurring-issues-why-your-pc-blender-may-be-frequently-crashing/"><u>Fixing Recurring Issues: Why Your PC Blender May Be Frequently Crashing</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208712953-how-to-fix-an-unsuccessful-torrent-file-download-expert-tips/"><u>How to Fix an Unsuccessful Torrent File Download - Expert Tips</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/seamless-cloning-guide-for-migrating-from-hard-drive-to-msata-solid-state-drive-on-pcs-with-windows-os/"><u>Seamless Cloning Guide for Migrating From Hard Drive to mSATA Solid State Drive on PCs with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-5-revolutionary-technology-breakthroughs-in-2n-transforming-industries-alike-insights/"><u>Top 5 Revolutionary Technology Breakthroughs in 2N, Transforming Industries Alike - Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-complete-mastering-error-code-0xa00f4292-in-windows-cameras/"><u>Troubleshooting Complete: Mastering Error Code 0xA00F4292 in Windows Cameras</u></a></li>
-<li><a href="https://common-error.techidaily.com/unexpected-shutdowns-on-windows-11/"><u>Unexpected Shutdowns on Windows 11</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/unraveling-the-mystery-understanding-the-surge-in-pop-up-window-appearances-your-guide-from-yl-computing/"><u>Unraveling the Mystery: Understanding the Surge in Pop-Up Window Appearances - Your Guide From YL Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-nuances-of-borders-in-images-using-canva/"><u>[New] Navigating the Nuances of Borders in Images Using Canva</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-program-initialization-problem-error-code-0xc000007b/"><u>Comprehensive Fixes for Program Initialization Problem (Error Code 0Xc000007b)</u></a></li>
+<li><a href="https://common-error.techidaily.com/correct-approach-to-msvcp140dll-deficiency/"><u>Correct Approach to MSVCP140.dll Deficiency</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosis-and-solution-for-unlit-razer-keyboards-a-step-by-step-guide/"><u>Diagnosis & Solution for Unlit Razer Keyboards – A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disk-space-management-for-win11-and-10-users/"><u>Disk Space Management for Win11 & 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-is-my-windows-10-system-restore-malfunctioning/"><u>Fixing the Issue: Why Is My Windows 10 System Restore Malfunctioning?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-securely-download-and-install-nvidias-3d-vision-driver-for-windows-a-complete-walkthrough/"><u>How to Securely Download and Install NVIDIA's 3D Vision Driver for Windows: A Complete Walkthrough</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-se-2022-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone SE (2022) in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unleash-fast-the-ultimate-tiktok-download-playbook/"><u>In 2024, Unleash Fast The Ultimate TikTok Download Playbook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ringtone-vox-transcription-device-iphone-for-2024/"><u>Ringtone VOX Transcription Device (iPhone) for 2024</u></a></li>
 </ul></div>
 

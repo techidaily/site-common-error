@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Non-Functional Bluetooth Mouse in Windows"
-date: 2024-08-15T11:10:38.089Z
-updated: 2024-08-16T11:10:38.089Z
+date: 2024-12-15T19:26:58.624Z
+updated: 2024-12-16T19:00:21.523Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/cc01732303965dd5a4fe7a6395032b1f09e613e11
 ## Bluetooth Mouse Troubles? Restore Functionality for Windows Users Now
 
 Did you have this experience? You open your computer ready to work or entertain, the Bluetooth mouse is not working. When you’re using a Bluetooth mouse, it stops responding. Don’t worry, we’re here to help. You’re not the only one and this post can lead your way to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,36 +43,25 @@ Did you have this experience? You open your computer ready to work or entertain,
 2. Type**control panel** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 3. Use the**Tab** key or the**arrow** keys to choose the position. When you see the square around**Category** , press the**Enter** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use the**arrow keys** to choose**Large icons** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_14-32-17.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Choose**Devices and Printers** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_14-39-28.jpg)
 6. Choose**Add a device** and press**Enter** . Your computer will start to detect your Bluetooth mouse.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_17-57-35.jpg)
 7. Choose your Bluetooth mouse and press Enter. Follow the on-screen instructions to finish the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run Troubleshooter
 
  If your mouse works fine on another computer, it should be a system issue. Windows has in-built troubleshooters to diagnose and fix common problems. Try this tool to fix the Bluetooth mouse not working problem.
@@ -76,19 +69,15 @@ Key features:
 1. Press the**Windows logo key + I** together.
 2. Use the**Tab** key to choose**Update & Security** and then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-00-03.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Choose**Troubleshoot** and press**Enter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-59-52.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-59-52.jpg)
 4. Select**Bluetooth** . Activate**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-01-06.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 5. Follow the instructions to finish the process.
 
 ---
@@ -100,14 +89,20 @@ Key features:
 1. Press the**Windows logo key + X** to open the menu. Use the**down arrow key** to choose**Device Manager** then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-31-48.jpg)
 2. Press**Tab** key to choose**Bluetooth** . Press the**right arrow** key to open the folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Choose the Bluetooth and press Enter. Go to the**Power Management** tab. Make sure**Allow the computer to turn off this device to save power** is**unchecked** . If it’s not, activate the checkbox (using the tab key) and press the**Space bar** . Move to OK and save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-48-38.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  If there’s something wrong with your Bluetooth adapter driver or mouse driver, you may encounter this Bluetooth mouse not working problem. There are two ways you can get drivers: manually or automatically.
@@ -121,10 +116,6 @@ Key features:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and use Tabchoose the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -144,8 +135,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +142,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-your-space-top-cloud-choices/"><u>[New] In 2024, Elevate Your Space Top Cloud Choices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ovie-buffs-secret-2023-recommendations/"><u>[New] Movie Buffs' Secret 2023 Recommendations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-channel-naming-excellence-tips-and-strategies-for-2024/"><u>[Updated] Channel Naming Excellence Tips & Strategies for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unlocking-the-potential-crafting-top-tier-gopro-filming/"><u>[Updated] Unlocking the Potential Crafting Top-Tier Gopro Filming</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-pioneering-the-vr-world-essential-gear-ranked/"><u>2024 Approved Pioneering the VR World Essential Gear Ranked</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-installation-of-windows-11-a-comprehensive-guide-for-new-drives/"><u>Effortless Installation of Windows 11: A Comprehensive Guide for New Drives</u></a></li>
+<li><a href="https://common-error.techidaily.com/function-lock-key-not-working-heres-how-you-can-solve-it/"><u>Function Lock Key Not Working? Here's How You Can Solve It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-i-resolved-the-issue-of-windows-not-finding-a-proper-printer-driver/"><u>How I Resolved the Issue of Windows Not Finding a Proper Printer Driver</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/resolving-graphics-card-issues-comprehensive-guide-by-yl-computing/"><u>Resolving Graphics Card Issues - Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-wwe-2k17s-directx-level-100-issue-a-comprehensive-guide/"><u>Resolving WWE 2K17's DirectX Level 10.0 Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-broken-or-stuck-characters-on-your-windows-11-keyboard/"><u>Step-by-Step Solution for Broken or Stuck Characters on Your Windows 11 Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-addressing-torrent-download-errors/"><u>Understanding and Addressing Torrent Download Errors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-v30-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo V30? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

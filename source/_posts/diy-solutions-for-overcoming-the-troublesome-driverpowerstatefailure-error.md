@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions for Overcoming the Troublesome DRIVER_POWER_STATE_FAILURE Error
-date: 2024-11-14T17:13:55.254Z
-updated: 2024-11-15T18:12:36.527Z
+date: 2024-12-16T00:22:49.032Z
+updated: 2024-12-16T23:08:56.847Z
 tags:
   - win11
   - win10
@@ -40,38 +40,26 @@ But don’t worry, it’s not hard to fix at all…
 
 1. On your keyboard, press **the Windows logo key**   ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)  and **R**  at the same time, then copy & paste **services.msc** into the box and press   **Enter**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Right-click on**Microsoft Store Install Service** and click**Start** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b515a7b35011.jpg)
 3. Scroll down to the bottom and double-click on**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51623b61cf7.jpg)
 4. Select**Manual** in**Startup type** , click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51629aa2ad6.jpg)
 5. Launch your Windows Store again and see if the problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the DISM tool
 
@@ -84,23 +72,14 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
  Wait a while for the whole process to finish.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Type **sfc /scannow**  and press **Enter** .
 4. Restart your computer, run Windows Store again and see if it works properly this time.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -120,10 +99,7 @@ But don’t worry, it’s not hard to fix at all…
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -133,6 +109,10 @@ But don’t worry, it’s not hard to fix at all…
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the DNS server address
 
  Another possible cause for this issue is  the unstable network connection or the misconfiguration of DNS servers settings. So we might have to change the DNS server address to see if it gets fixed:
@@ -140,6 +120,11 @@ But don’t worry, it’s not hard to fix at all…
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and **R**  at the same time. Then copy & paste **control /name Microsoft.NetworkAndSharingCenter** into the box and click   **OK**  .  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af921398c56a.png)**
 2. **Click Change adapter settings .**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2935c0967f.jpg)**
 3. Right-click on**the network adpater** (Ethernet in my case) and click **Properties** .  
 
@@ -147,27 +132,11 @@ But don’t worry, it’s not hard to fix at all…
 4. Click **Internet Protocol Version 4 (TCP/IPv4)**  and then click **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2228b800796.jpg)
 5. Click option **Use the following DNS server addreses** ,
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  for **Preferred DNS server** , enter **8.8.8.8** ;
 
@@ -180,6 +149,10 @@ But don’t worry, it’s not hard to fix at all…
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 5: Register Windows Store package**
 
  Fix 5 is about registering Windows Store package. This can help fix many issues(not opening, hanging, error codes etc) on Windows Store. To do this:
@@ -187,13 +160,6 @@ But don’t worry, it’s not hard to fix at all…
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Copy & paste**the following command** into the window and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **PowerShell -ExecutionPolicy Unrestricted -Command “& {$manifest = (Get-AppxPackage Microsoft.WindowsStore).InstallLocation + ‘\AppxManifest.xml’ ; Add-AppxPackage -DisableDevelopmentMode -Register $manifest}”**
 3. Once it finishes, close the command prompt window.
@@ -220,24 +186,22 @@ But don’t worry, it’s not hard to fix at all…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-choosing-your-recording-champion-pick-obs-or-bandicam/"><u>[New] 2024 Approved Choosing Your Recording Champion Pick OBS or Bandicam?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-magix-vpx-the-ultimate-software-showdown/"><u>[New] Magix VPX The Ultimate Software Showdown</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-youtube-hidden-videos/"><u>[Updated] 2024 Approved How to Find YouTube Hidden Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-payout-patterns-adsense-earnings-from-youtube-for-every-thousand-viewers/"><u>2024 Approved Payout Patterns AdSense Earnings From YouTube for Every Thousand Viewers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-ways-to-copy-file-and-folder-paths-in-windows-11/"><u>6 Ways to Copy File and Folder Paths in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-official-fixes-overcoming-frame-rate-stutters-and-latency-issues-on-the-pc-platform/"><u>Battlefield # Official Fixes: Overcoming Frame Rate Stutters & Latency Issues on the PC Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-restricted-input-settings-for-touchscreens-and-pen-devices/"><u>Bypassing the Restricted Input Settings for Touchscreens and Pen Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-repair-windows-media-players-fatal-dxgkrnl-error-for-uninterrupted-video-experience/"><u>Comprehensive Guide to Repair Windows Media Player's Fatal Dxgkrnl Error for Uninterrupted Video Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-dvd-playback-problems-on-windows-machines/"><u>Diagnosing and Repairing DVD Playback Problems on Windows Machines</u></a></li>
-<li><a href="https://windows11.techidaily.com/embarking-on-wintoys-journey-your-comprehensive-guide-to-windows-mastery/"><u>Embarking on WinToys Journey: Your Comprehensive Guide to Windows Mastery</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-800020-during-windows-11-installation-understanding-and-solutions-for-a-smooth-update/"><u>Error 80#0020 During Windows 11 Installation: Understanding and Solutions for a Smooth Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-fixing-unresponsive-integrated-cameras-in-windows-environments/"><u>Expert Advice: Fixing Unresponsive Integrated Cameras in Windows Environments</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-14-pro-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 14 Pro with a Broken Screen?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-realme-gt-5-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Realme GT 5 Pro Phone Screen?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-mastering-funimate/"><u>In 2024, The Art of Mastering Funimate</u></a></li>
-<li><a href="https://common-error.techidaily.com/mouse-malaise-cured-logitech-back-online/"><u>Mouse Malaise Cured: Logitech Back Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-energy-flow-in-data-hub-connectors/"><u>Troubleshooting Excessive Energy Flow in Data Hub Connectors</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-the-internet-explorer-has-stopped-working-problem/"><u>Troubleshooting Tips for the 'Internet Explorer Has Stopped Working' Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210139298-winning-against-windows-10-disk-read-errors-easy-solutions-inside/"><u>Winning Against Windows 10 Disk Read Errors: Easy Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-windows-cannot-access-the-specified-device-path-or-file-error/"><u>[Fixed] 'Windows Cannot Access the Specified Device Path or File' Error</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-easy-way-to-progressively-reduce-sound-levels-in-lumafusion/"><u>[New] 2024 Approved The Easy Way to Progressively Reduce Sound Levels in Lumafusion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-convert-for-free-from-twitter-videos-to-animated-gifs-for-2024/"><u>[New] Convert for Free From Twitter Videos to Animated Gifs for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-crafting-the-perfect-panel-of-playback-with-youtube/"><u>[New] In 2024, Crafting the Perfect Panel of Playback with YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-cutting-edge-strategies-for-choosing-best-fpv-drone-blades/"><u>[Updated] 2024 Approved Cutting-Edge Strategies for Choosing Best FPV Drone Blades</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-uncover-hidden-youtube-discussions/"><u>[Updated] 2024 Approved Uncover Hidden YouTube Discussions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-brilliant-backdrops-using-light-to-enchant-audiences/"><u>2024 Approved Brilliant Backdrops Using Light to Enchant Audiences</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comparing-top-titles-magix-video-pro-x-among-others/"><u>Comparing Top Titles Magix Video Pro X Among Others</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-unresponsive-computers-on-windows-11-solution/"><u>Dealing with Unresponsive Computers on Windows 11 [SOLUTION]</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-troubleshooting-repairing-broken-system-files-for-windows-10-and-11-users/"><u>DIY Troubleshooting: Repairing Broken System Files for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-resolving-the-detected-errors-in-your-windows-10-update-database/"><u>Expert Guide: Resolving the Detected Errors in Your Windows 10 Update Database</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-change-rendering-api-issue-in-dota-2-error-2024/"><u>How to Resolve Change Rendering API Issue in Dota 2 (Error 2024)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcp-x-visual-effects-green-screen-and-beyond/"><u>In 2024, FCP X Visual Effects Green Screen and Beyond</u></a></li>
+<li><a href="https://common-error.techidaily.com/triumph-over-windows-11s-troublesome-error-code-0x80070541-with-our-step-by-step-solutions/"><u>Triumph Over Windows 11'S Troublesome Error Code 0X80070541 with Our Step-by-Step Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-no-speakers-or-headphones-detected-by-windows-11-os/"><u>Troubleshooting No Speakers or Headphones Detected by Windows 11 OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-downloads-for-brother-hl-2280dw-driver-supports-windows-xp-to-11/"><u>Ultimate Downloads for Brother HL-2280DW Driver - Supports Windows XP to 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206011673-windows-n-11-audio-troubles-heres-how-to-restore-your-mic-functionality/"><u>Windows N 11 Audio Troubles? Here's How to Restore Your Mic Functionality!</u></a></li>
 </ul></div>
 

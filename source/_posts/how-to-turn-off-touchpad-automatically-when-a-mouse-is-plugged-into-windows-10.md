@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Touchpad Automatically When a Mouse Is Plugged Into Windows 10
-date: 2024-11-28T17:58:42.255Z
-updated: 2024-12-03T20:35:29.108Z
+date: 2024-12-15T23:35:08.091Z
+updated: 2024-12-16T16:50:48.751Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -38,7 +42,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)  
@@ -48,10 +52,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)  
 
  Choose to view on**Driver** pane.  
@@ -59,19 +59,15 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
-**Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -86,7 +82,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -96,6 +92,10 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -119,15 +119,20 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-fresh-start-strategy-budget-channels-to-purchase/"><u>[New] 2024 Approved Fresh Start Strategy Budget Channels to Purchase</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-fuel-the-fire-top-videos-that-inspire-audiences/"><u>[New] 2024 Approved Fuel the Fire Top Videos That Inspire Audiences</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-explore-the-best-and-easiest-youtube-to-mp3-conversion-tech/"><u>[Updated] In 2024, Explore the Best (and Easiest) YouTube-to-Mp3 Conversion Tech</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-address-unregistered-class-errors-on-windows-11-systems/"><u>Effective Techniques to Address Unregistered Class Errors on Windows 11 Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-gaming-experience-mastering-steams-space/"><u>Enhancing Gaming Experience: Mastering Steam's Space</u></a></li>
-<li><a href="https://common-error.techidaily.com/managing-antivirus-impact-reducing-msmppingexes-cpu-drain-on-windows-11-fixed/"><u>Managing Antivirus Impact: Reducing msmpping.exe's CPU Drain on Windows 11 [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-system-performance-curbing-wudfhostexes-high-cpu-usage-on-windows-11/"><u>Optimizing System Performance: Curbing wudfhost.exe's High CPU Usage on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-driver-framework-for-reduced-processor-load/"><u>Resolving Window's Driver Framework for Reduced Processor Load</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-overcome-common-usb-driver-errors-on-your-lenovo-computer/"><u>Simple Steps to Overcome Common USB Driver Errors on Your Lenovo Computer</u></a></li>
-<li><a href="https://fox-http.techidaily.com/time-saving-tips-for-a-swift-google-photo-collage-crafting/"><u>Time-Saving Tips for a Swift Google Photo Collage Crafting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-historys-heaviest-battles-rts-review-of-7-epic-games/"><u>[Updated] 2024 Approved History's Heaviest Battles RTS Review of 7 Epic Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ghostly-glimpses-video-review-for-2024/"><u>[Updated] Ghostly Glimpses Video Review for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-pc-transfer-protocols-effective-five-ways-to-send-your-files/"><u>2024 Approved PC Transfer Protocols Effective Five Ways to Send Your Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-issue-of-minecraft-not-launching-in-windows-operating-system/"><u>How to Resolve the Issue of Minecraft Not Launching in Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-10-freezing-during-updates-efficiently/"><u>How to Resolve Windows 10 Freezing During Updates Efficiently</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-eye-catcher-top-screen-recording-software-reviews/"><u>In 2024, Eye Catcher Top Screen Recording Software Reviews</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-15-budget-friendly-webm-players-that-work-flawlessly/"><u>In 2024, Top 15 Budget-Friendly WebM Players That Work Flawlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/new-strategies-to-overcome-initialization-problems-in-web-renderers/"><u>New Strategies to Overcome Initialization Problems in Web Renderers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preserving-originality-safeguarding-art-against-generative-ai-with-nightshade-tools/"><u>Preserving Originality: Safeguarding Art Against Generative AI with Nightshade Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-windows-10-upgrade-issue-when-it-gets-stuck-on-99/"><u>Resolve Your Windows 10 Upgrade Issue When It Gets Stuck on 99%</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/samsung-galaxy-s6-vs-apple-iphone-7-detaillierte-vergleichsanalyse-und-unterschiede/"><u>Samsung Galaxy S6 vs Apple iPhone 7: Detaillierte Vergleichsanalyse Und Unterschiede</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-enable-and-correct-dx11-feature-level-100-in-wwe-2k-battlegrounds/"><u>Step-by-Step Guide to Enable and Correct DX11 Feature Level 10.0 in WWE 2K Battlegrounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-error-windows-internet-explorer/"><u>Troubleshooting Tips: Resolving 'Error Windows Internet Explorer'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-your-non-functional-usb-to-hdmi-converter/"><u>Troubleshooting: Fixing Your Non-Functional USB to HDMI Converter</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-realme-c67-4g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Realme C67 4G</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Solutions: Making Your HP Laptop's Malfunctioning USB Port Functional Once More"
-date: 2024-12-08T21:42:30.243Z
-updated: 2024-12-10T21:12:44.184Z
+date: 2024-12-09T21:15:51.544Z
+updated: 2024-12-16T19:11:04.840Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -45,10 +41,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -57,9 +49,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -76,9 +76,17 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -90,20 +98,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
@@ -111,10 +115,6 @@ To do so:
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -149,14 +149,24 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-reel-in-views-mastering-the-art-of-instagrams-loop-videos/"><u>[New] Reel in Views Mastering the Art of Instagram's Loop Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoidance-of-memory-limitations-strategies-for-windows/"><u>Avoidance of Memory Limitations: Strategies for Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/banish-error-code-31-for-good-expert-advice-on-clearing-up-your-windows-system-issues/"><u>Banish Error Code 31 for Good: Expert Advice on Clearing Up Your Windows System Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-for-resolving-driverpowerstatefailure-in-windows-systems/"><u>Expert Advice for Resolving DRIVER_POWER_STATE_FAILURE in Windows Systems</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-newest-epson-wf-3620-printer-software-for-windows-operating-systems-10-8-and-7/"><u>Install Newest Epson WF-3620 Printer Software for Windows Operating Systems (10, 8 & 7)</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-art-of-troubleshooting-ensuring-seamless-bluetooth-connectivity-for-windows-10-tips-and-guides/"><u>Master the Art of Troubleshooting: Ensuring Seamless Bluetooth Connectivity for Windows 10 (Tips & Guides)</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-shift-key-issues-proven-solutions-and-fixes/"><u>Mastering Shift Key Issues: Proven Solutions and Fixes</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-and-fantastic-the-best-mp4-video-editors/"><u>New In 2024, Free and Fantastic The Best MP4 Video Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-racing-hearts-22-short-track-triumph/"><u>[New] Racing Hearts '22 Short-Track Triumph</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-easy-recording-guide-powerpoints-and-webcams-unite/"><u>[Updated] 2024 Approved Easy Recording Guide PowerPoints & Webcams Unite</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-software-for-enthusiasts-top-5-ps1-emulators-for-2024/"><u>[Updated] Essential Software for Enthusiasts Top 5 PS1 Emulators for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-on-perfecting-zoom-video-conferencing-for-youtube/"><u>[Updated] Expert Tips on Perfecting Zoom Video Conferencing for YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>2024 Approved Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/blueprint-to-blockbuster-scriptwriting-for-films-for-2024/"><u>Blueprint to Blockbuster Scriptwriting for Films for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-restoring-audio-on-your-astro-a4tic-50-expert-mic-troubleshooting-advice/"><u>Diagnosing & Restoring Audio on Your Astro A4tic 50: Expert Mic Troubleshooting Advice</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-trouble-shooting-techniques-for-a-defective-mic-in-your-steelseries-arctis-5-headset/"><u>Effective Trouble Shooting Techniques for a Defective Mic in Your SteelSeries Arctis 5 Headset</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unexpected-when-wd-my-passport-ultra-goes-undetected-by-windows-systems/"><u>Fixing 'Unexpected': When WD My Passport Ultra Goes Undetected by Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-converter-convert-mpeg-to-m4v-format-with-movavi/"><u>Free Online Converter: Convert MPEG to M4V Format with Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-and-fix-the-fatal-error-1603-during-software-installation/"><u>How to Resolve and Fix the 'Fatal Error 1603' During Software Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-care-101-how-to-restore-functionality-to-an-unresponsive-touchpad/"><u>Laptop Care 101: How to Restore Functionality to an Unresponsive Touchpad</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210914953-resolve-error-code-0x887a0006-with-these-easy-fixes/"><u>Resolve Error Code 0X887A0006 with These Easy Fixes!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/stream-wars-evaluating-streamers-top-contenders-obs-and-wirecast/"><u>Stream Wars Evaluating Streamers' Top Contenders, OBS & Wirecast</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-nonfunctional-usb-ports-on-your-pc-running-windows-11/"><u>Troubleshooting Nonfunctional USB Ports on Your PC Running Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-unidentified-usb-devices-and-port-resets-on-windows-10/"><u>Troubleshooting Tips for Fixing Unidentified USB Devices and Port Resets on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207699073-windows-11-youtube-sound-glitches-learn-how-to-tackle-audio-renderer-troubles-effectively/"><u>Windows 11 YouTube Sound Glitches? Learn How to Tackle Audio Renderer Troubles Effectively!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/yl-softwares-guide-to-effective-third-party-applications-for-memory-issues-in-windows-systems/"><u>YL Software's Guide to Effective Third-Party Applications for Memory Issues in Windows Systems</u></a></li>
 </ul></div>
 

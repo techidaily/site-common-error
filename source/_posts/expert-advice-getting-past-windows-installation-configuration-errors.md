@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Getting Past Windows Installation Configuration Errors"
-date: 2024-08-15T11:12:18.161Z
-updated: 2024-08-16T11:12:18.161Z
+date: 2024-12-11T21:12:26.508Z
+updated: 2024-12-16T16:12:43.813Z
 tags:
   - win11
   - win10
@@ -32,37 +32,31 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Restart your computer
 
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
 2. In the bottom right of your screen, click **the Power button![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a02279b2c.png)**  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
   and choose**Restart** .
 3. Hopefully your desktop comes up normally this time. If not, continue with**Fix 2** .
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Switch the network connection
 
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
 2. In the bottom right of your screen, click **the airplane mode icon![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a54a1f6ef.png)**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 3. In the middle of your computer screen, click**Sign out** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Log in your computer and see if you get your desktop back this time. If the**Personalized Settings (Not Responding)** still lingers on, you should try **Fix 3** , below.
 
 ---
@@ -73,6 +67,11 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 2. Right-click on**Windows Explorer** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a86cad1b3.jpg)
 3. Click**File** \>**Run new task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
 4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
@@ -90,17 +89,20 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
  Click**Yes** when prompted to confirm.
 2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Delete a file in regedit
 
  Please note: any modifications in regedit must be proceeded with caution to avoid further problems.
@@ -111,19 +113,22 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
  Click**Yes** when prompted to confirm.
 2. Locate and double-click on **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \> **Microsoft** \> **Active Setup** \> **Installed Components** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b61a4971d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Right-click on**the last file** and click**Export** to back up the file.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
  If this fix doesn’t help with the situation, you might want to import the file to restore the backup. Check out **[this link](https://tools.techidaily.com/drivereasy/download/)**  for further information.
 4. Right-click on**the last file** and click**Delete** .
 5. Restart your computer and see if your desktop comes back.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -141,8 +146,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +153,24 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-choose-best-free-youtube-video-editor-apps-on-ios/"><u>[Updated] How to Choose Best-Free YouTube Video Editor Apps on iOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instagrams-video-limit-regulations-for-2024/"><u>[Updated] Navigating Instagram's Video Limit Regulations for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1-rutube/"><u>1. Rutubeの動画ダウンロードと保存ガイド</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopro-vs-yi-4k-updated-review-of-ultimate-action-cams/"><u>2024 Approved GoPro Vs. Yi 4K Updated Review of Ultimate Action Cams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/amplify-engagement-broadcasting-from-twitch-to-facebook-for-2024/"><u>Amplify Engagement Broadcasting From Twitch to Facebook for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-0x80004005-comprehensive-guide/"><u>How to Fix Error Code 0X80004005 - Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photographic-soundtracking-online/"><u>Photographic Soundtracking Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972707936-quick-tutorial-getting-your-sound-blaster-z-up-and-running-in-windows-10/"><u>Quick Tutorial: Getting Your Sound Blaster Z Up and Running in WINDOWS 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210888050-reactivate-your-windows-11-bluetooth-connection-quick-fixes-inside/"><u>Reactivate Your Windows 11 Bluetooth Connection - Quick Fixes Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-windows-10-touch-display-a-guide-with-five-effective-fixes/"><u>Reviving Your Windows 10 Touch Display: A Guide with Five Effective Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-miracast-compatibility-issue-in-your-devices-5-essential-steps/"><u>Solving the Miracast Compatibility Issue in Your Devices - 5 Essential Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-computer-that-wont-stay-awake/"><u>Solving the Problem of a Computer That Won't Stay Awake!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-pdf-printing-issues-in-seconds/"><u>Solving Your PDF Printing Issues in Seconds</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208776417-touchpad-dilemma-unveil-and-repair-instantly/"><u>Touchpad Dilemma: Unveil & Repair Instantly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202972280-youtube-audio-malfunctioning-in-windows-10-heres-how-to-get-it-right/"><u>YouTube Audio Malfunctioning in Windows 10? Here's How to Get It Right</u></a></li>
+</ul></div>
 

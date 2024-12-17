@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Device Driver Unrecognized' Errors for a Smoother PC Experience
-date: 2024-11-10T17:17:19.836Z
-updated: 2024-11-15T17:57:13.770Z
+date: 2024-12-14T18:41:59.964Z
+updated: 2024-12-17T02:07:01.658Z
 tags:
   - win11
   - win10
@@ -60,10 +60,11 @@ Here’s how you can do it:
 4. Select **Configure a device** under the**Hardware and sound** section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c946c14d2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Next** .  
@@ -95,10 +96,7 @@ See how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Update your USB device and motherboard chipset drivers
@@ -116,16 +114,13 @@ See how to do it:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99dd433fd12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Restart your computer to see if the error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Disable the USB selective suspend feature
 
@@ -137,13 +132,6 @@ Restart your computer to see if the error disappears.
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c8665b788.png)
 3. Click**Power Options** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7437b4c8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Select **Change plan settings** of**Balanced(recommended)** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7c4b1d80.jpg)
 
@@ -157,6 +145,10 @@ Restart your computer to see if the error disappears.
 8. Click**Apply** \>**OK** to save your settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da698818c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if the error disappears.
 
  If till now, you don’t see the error message, congratulations! But if you’ve tried all the solutions above, you still see the annoying message, but your USB device works well, don’t give up hope, move on to the last solution here.
@@ -164,16 +156,7 @@ Check if the error disappears.
 ---
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Adjust your system settings
@@ -190,17 +173,7 @@ See how to do it:
 3. Select USB, then un-check **Notify me if there are issues connecting to USB devices.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e3bbc5732.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
@@ -212,10 +185,11 @@ See how to do it:
 5. Click **Advanced** , then tick on **Don’t tell me about USB errors** . Click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e4addd848.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Repeat Steps 4 & 5 for all your other USB controller drivers.
@@ -244,20 +218,24 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-demystifying-asuss-mg28uq-a-comprehensive-4k-review/"><u>[New] In 2024, Demystifying ASUS's MG28UQ - A Comprehensive 4K Review</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-twist-tactics-achieving-angles-that-stand-out-on-social-media-for-2024/"><u>[New] Twist Tactics Achieving Angles That Stand Out on Social Media for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-accidental-video-loadout-on-tiktok-find-again/"><u>[Updated] 2024 Approved Accidental Video Loadout on TikTok – Find Again?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-gt-neo-5-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme GT Neo 5 Fingerprint Lock</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effective-fixes-for-corsair-liquid-cpu-cooler-drivers-issues-on-windows-81011-platforms/"><u>Effective Fixes for Corsair Liquid CPU Cooler Drivers Issues on Windows 8/10/11 Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-224003-solved-enjoy-uninterrupted-video-viewing/"><u>Error Code 224003 Solved: Enjoy Uninterrupted Video Viewing</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-microsoft-print-to-pdf-issue-on-windows-11-a-comprehensive-guide/"><u>Fixing the 'Microsoft Print to PDF' Issue on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-your-destiny-2-beyond-light-pc-installation-issues-a-complete-guide/"><u>Fixing Your Destiny 2 Beyond Light PC Installation Issues – A Complete Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/from-recording-to-broadcast-masterful-podcast-editing-with-garageband-for-2024/"><u>From Recording to Broadcast Masterful Podcast Editing with GarageBand for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/pc-auf-mobilgerate-ubertragen-eine-anleitung-fur-den-datentransfer-ohne-itunes-unter-windows-und-macos/"><u>PC Auf Mobilgeräte Übertragen – Eine Anleitung Für Den Datentransfer Ohne iTunes Unter Windows Und macOS</u></a></li>
-<li><a href="https://common-error.techidaily.com/resizing-and-moving-windows-beyond-the-display-edge-tips-and-tricks/"><u>Resizing and Moving Windows Beyond the Display Edge: Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-installing-latest-windows-11-feature-update-version-1607/"><u>Trouble Installing Latest Windows 11 Feature Update (Version 1607)</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204983360-troubleshooting-video-files-resolve-playback-error-22403-now/"><u>Troubleshooting Video Files - Resolve Playback Error 22403 Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-sign-in-errors-with-user-profile-services/"><u>Troubleshooting Windows 11 Sign-In Errors with User Profile Services</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-kings-face-off/"><u>[New] Capture Kings Face-Off</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-downloadable-instagram-footage-tech-tips-for-computers-and-macs/"><u>[Updated] 2024 Approved Downloadable Instagram Footage Tech Tips for Computers & Macs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-photo-perfection-in-a-pinch-with-top-apps/"><u>[Updated] 2024 Approved Photo Perfection in a Pinch with Top Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-for-fresh-filmmakers-an-introduction-to-aspect-ratios-and-resolution/"><u>[Updated] For Fresh Filmmakers An Introduction to Aspect Ratios & Resolution</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-location-of-youtubes-creator-dashboard/"><u>[Updated] Mastering the Location of YouTube's Creator Dashboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboard-issues-heres-how-you-can-get-it-working-again/"><u>Corsair Keyboard Issues? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-0x80072f8f-on-windows-1110-top-solutions-to-restore-your-pcs-functionality/"><u>Error Code 0X80072F8F on Windows 11/10: Top Solutions to Restore Your PC's Functionality</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-silence-your-ps4s-overheating-problem-a-step-by-step-guide/"><u>How to Silence Your PS4's Overheating Problem – A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-visual-filmmaking-aids-go-green-no-money/"><u>In 2024, Visual Filmmaking Aids Go Green, No Money</u></a></li>
+<li><a href="https://program-issues.techidaily.com/lunar-desktop-application-crashes-solutions-and-prevention-tips-for-pc-users/"><u>Lunar Desktop Application Crashes: Solutions and Prevention Tips for PC Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-11-0x80t70541-update-issue-successfully/"><u>Resolving the Windows 11 0X80t70541 Update Issue Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-your-laptops-touchpad-from-activating-tips-for-windows-10-users/"><u>Stop Your Laptop's Touchpad From Activating: Tips for Windows 10 Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211310978-9781923009493-the-world-of-italian-folk-magic/"><u>The World of Italian Folk Magic | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-hidden-network-adapters-solving-windows-11s-wi-fi-dilemma/"><u>Uncover Hidden Network Adapters: Solving Windows 11'S Wi-Fi Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/valorant-teardown-ultimate-solutions-for-smooth-gameplay/"><u>Valorant Teardown: Ultimate Solutions for Smooth Gameplay</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-pcs-restart-at-odd-hours/"><u>Win11 PCs Restart at Odd Hours</u></a></li>
+<li><a href="https://common-error.techidaily.com/xinput13dll-explained-essentiality-and-recovery-steps/"><u>XINPUT1_3.dll Explained: Essentiality and Recovery Steps</u></a></li>
 </ul></div>
 

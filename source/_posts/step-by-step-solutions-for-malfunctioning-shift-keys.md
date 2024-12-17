@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Malfunctioning Shift Keys
-date: 2024-08-15T11:10:57.626Z
-updated: 2024-08-16T11:10:57.626Z
+date: 2024-12-12T22:08:23.471Z
+updated: 2024-12-16T16:43:41.520Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
  This small guide will be showing you how to fix the Shift key bot working issue step by step. Read on and go on with the steps to troubleshoot your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Shift key not working?
 
 A quick check before we start:
@@ -43,9 +47,9 @@ If the other keys stop working either, check the next question:
 2. [Update your keyboard driver](#solution2)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -55,9 +59,6 @@ Follow these:
 #### on Windows 10
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
 
@@ -66,9 +67,6 @@ Follow these:
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -83,15 +81,13 @@ Follow these:
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Update your keyboard driver
 
  This problem may be caused by an old, corrupted, or missing keyboard driver. If so, you can solve it by updating the keyboard driver.
@@ -108,13 +104,18 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
@@ -127,8 +128,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-techniques-for-screen-casts-ezvide-edition-for-2024/"><u>[New] Essential Techniques for Screen Casts - EZvide Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-interpreting-the-significance-of-a-blue-image-on-fb-chat/"><u>[New] Interpreting the Significance of a Blue Image on FB Chat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quality-microphone-recorders-for-mac-devices-our-five-choices-revealed-for-2024/"><u>[Updated] Quality Microphone Recorders for Mac Devices Our Five Choices Revealed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-video-perfection-a-comprehensive-strategy-for-seamless-subtitle-and-cc-integration-on-youtube/"><u>2024 Approved Video Perfection A Comprehensive Strategy for Seamless Subtitle & CC Integration on YouTube</u></a></li>
+<li><a href="https://win-great.techidaily.com/effortless-overview-of-windows-operating-processes-with-yl-computing-solutions/"><u>Effortless Overview of Window's Operating Processes with YL Computing Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essentials-for-transforming-your-google-meet-into-youtube-live/"><u>In 2024, The Essentials for Transforming Your Google Meet Into Youtube Live</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photographic-standouts-with-our-top-10-grid-picks-for-2024/"><u>Photographic Standouts with Our Top 10 Grid Picks for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-server-is-unavailable-top-4-dns-troubleshooting-steps/"><u>Resolving 'Server Is Unavailable': Top 4 DNS Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-for-eliminating-crackle-noise-a-step-by-step-guide-for-windows-107-users/"><u>Solution for Eliminating Crackle Noise: A Step-by-Step Guide for Windows 10/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microsoft-compatibility-telemetry-tackling-skyrocketing-disk-space-use-in-windows-11/"><u>Troubleshooting Microsoft Compatibility Telemetry: Tackling Skyrocketing Disk Space Use in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-right-click-issue-on-your-mouse-in-windows-11/"><u>Troubleshooting the Right-Click Issue on Your Mouse in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-solution-for-overcoming-livekernelerror-with-code-144/"><u>Ultimate Solution for Overcoming LiveKernelError with Code 144</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-is-my-windows-10-device-automatically-starting-troubleshooting-tips/"><u>Why Is My Windows 10 Device Automatically Starting? Troubleshooting Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-headset-malfunction-heres-your-ultimate-fix-guide/"><u>Xbox One Headset Malfunction? Here's Your Ultimate Fix Guide!</u></a></li>
+</ul></div>
 

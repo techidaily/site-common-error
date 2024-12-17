@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Non-Responsive Wacom Graphic Tables
-date: 2024-08-15T11:12:08.219Z
-updated: 2024-08-16T11:12:08.219Z
+date: 2024-12-15T17:38:13.530Z
+updated: 2024-12-16T23:58:26.195Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
  If you ever run into the**laptop keys not working** on your HP laptop, don’t panic. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -40,8 +41,9 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -53,6 +55,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -67,9 +73,6 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
@@ -80,6 +83,10 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -99,6 +106,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -113,16 +124,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -135,18 +140,11 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -172,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +177,24 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlocking-ez-grabber-a-quick-guide-to-downloading-setting-up/"><u>[Updated] 2024 Approved Unlocking EZ Grabber - A Quick Guide to Downloading, Setting Up</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertly-selected-8-filters-for-virtual-showcases/"><u>[Updated] Expertly Selected 8 Filters for Virtual Showcases</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pro-mic-tech-review-best-9-online-recorders-uncovered-for-2024/"><u>[Updated] Pro Mic Tech Review Best 9 Online Recorders Uncovered for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-securing-students-learning-mac-based-lecture-recording-for-2024/"><u>[Updated] Securing Students' Learning Mac-Based Lecture Recording for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204297058-combat-svchostexes-extreme-cpu-drain-on-windows-11-effective-fixes-and-tips-unveiled/"><u>Combat svchost.exe's Extreme CPU Drain on Windows 11: Effective Fixes and Tips Unveiled!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-player-not-found-mistake-on-windows-a-step-by-step-solution/"><u>How to Overcome 'Player Not Found' Mistake on Windows: A Step-by-Step Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-difficulties-when-microsoft-store-wont-start/"><u>How to Overcome Difficulties When Microsoft Store Won't Start</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-remove-microsoft-account-from-windows-10-easily-solved/"><u>How to Remove Microsoft Account From Windows 10 Easily [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-non-functional-windows-plus-shift-plus-s-shortcut-on-windows-1110-systems/"><u>How to Resolve Non-Functional Windows + Shift + S Shortcut on Windows 11/10 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unblemished-visuals-a-buyers-ultimate-guide/"><u>In 2024, Unblemished Visuals A Buyer's Ultimate Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-ps4-nat-settings-a-thorough-diy-error-resolution-manual/"><u>Mastering PS4 NAT Settings: A Thorough DIY Error Resolution Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-secrets-think-again-before-sharing-with-gpt/"><u>Protecting Secrets? Think Again Before Sharing with GPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-mystery-why-does-my-mouse-pointer-vanish-in-windows-10/"><u>Resolve the Mystery: Why Does My Mouse Pointer Vanish in Windows 10?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-cutting-edge-smart-display-picks-unveiled-by-zdnet/"><u>Top 5 Cutting-Edge Smart Display Picks Unveiled by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-twitch-error-code-4000/"><u>Troubleshooting Guide: Resolving Twitch Error Code 4000</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205507402-unstuck-with-ease-remedying-windows-10-touchpad-scrolling-hiccups-in-minutes/"><u>Unstuck with Ease: Remedying Windows 10 Touchpad Scrolling Hiccups in Minutes</u></a></li>
+</ul></div>
 

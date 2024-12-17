@@ -1,7 +1,7 @@
 ---
 title: Eradicating the Dxgi.dll Obstacle in PUBG
-date: 2024-11-09T17:01:22.888Z
-updated: 2024-11-15T17:22:09.455Z
+date: 2024-12-09T19:31:37.084Z
+updated: 2024-12-16T19:59:27.183Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Warframe as an administrator
 
  Running the launcher as an administrator can fix anything related to the file-write permission issues.
@@ -62,15 +55,16 @@ To do this:
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the**Compatibility** tab and click**Change settings for all users** .  
   
 ![run as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Under the**Settings** section, click**Run this program as an administrator** . Then click**Apply** .  
   
@@ -106,6 +100,10 @@ After applying the changes, try relaunching Warframe.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/ethernet-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under the**Ethernet** section, you can see if it’s connected or not.  
   
  2) If your computer isn’t connected to ethernet, then you need to check if the ethernet is connected to your router/ modem correctly.
@@ -126,13 +124,6 @@ ethernet
   
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/open-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type the commands below**one by one** and**before** you type the next one, remember to press**Enter** on your keyboard.  
   
 **ipconfig/flushdns**
@@ -147,6 +138,10 @@ ethernet
  You can update your network card driver by following these[steps](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair/ Update Microsoft Visual C++ Redistributable
 
@@ -172,10 +167,7 @@ Both the repairing and updating might work. So just choose one of them.
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/click-Microsoft-Visual-C.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click on it and click**Change** .
@@ -183,15 +175,16 @@ Both the repairing and updating might work. So just choose one of them.
 ![repair Microsoft Visual C++](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) When the**Modify Setup** window pops up, click**Repair** .
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) When you’re asked “Do you want to allow this app to make changes to your device?”, click**Yes** .
 
@@ -216,10 +209,7 @@ Both the repairing and updating might work. So just choose one of them.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Change the launcher settings
@@ -231,13 +221,6 @@ Both the repairing and updating might work. So just choose one of them.
 2) At the upper right corner, click the**Settings** icon.
 
 ![change settings Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/click-the-settings-icon.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Uncheck**Bulk Download** and when the**Warning** window appears, click**OK** . Then click**OK** on the**Settings** window.
 
@@ -258,10 +241,7 @@ Both the repairing and updating might work. So just choose one of them.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-Warframe-download-cache-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Till then, relaunch your game and update it to check if the issue still occurs.
@@ -307,24 +287,20 @@ To use a VPN service, you need to download a VPN application.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perfect-pair-5-sleek-webcams-with-built-in-microphones/"><u>[New] In 2024, Perfect Pair 5 Sleek Webcams with Built-In Microphones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-seamless-rotation-a-cameras-360-journey/"><u>[Updated] Seamless Rotation A Camera's 360 Journey</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-15-pro-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 15 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/curbing-msmpengexe-cpu-hog-effective-techniques-to-enhance-system-efficiency-in-windows-11-solved/"><u>Curbing MsMpEng.exe CPU Hog: Effective Techniques to Enhance System Efficiency in Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/detailed-steps-to-capture-all-your-messenger-conversations-for-2024/"><u>Detailed Steps to Capture All Your Messenger Conversations for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-free-windows-updates-solving-the-0x8024401c-error-on-windows-1110/"><u>Error-Free Windows Updates: Solving the 0X8024401c Error on Windows 11/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-how-to-fix-non-compatible-signal-issues-with-your-computer-screen/"><u>Expert Advice: How to Fix Non-Compatible Signal Issues with Your Computer Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-corrupted-windows-store-caches-effective-strategies-and-solutions/"><u>Fix Corrupted Windows Store Caches: Effective Strategies and Solutions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-resolving-stuttering-and-low-fps-in-red-dead-redemption-2/"><u>Fixes & Solutions: Resolving Stuttering & Low FPS in Red Dead Redemption 2</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-wwe-2k-battlegrounds-and-enable-dx11-feature-level-100-without-issues/"><u>How to Fix WWE 2K Battlegrounds and Enable DX11, Feature Level 10.0 without Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-incompatible-timing-settings-on-your-computers-display/"><u>How to Resolve Incompatible Timing Settings on Your Computer's Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-activate-bluetooth-in-windows-1110-quickly-and-easily/"><u>How To: Activate Bluetooth in Windows 11/10 Quickly & Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-google-pixel-8-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Google Pixel 8 Pro Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-skype-capture-manual-unveiling-the-best-free-and-paid-practices-windowsmac/"><u>In 2024, Skype Capture Manual Unveiling the Best Free and Paid Practices (Windows/Mac)</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastery-in-minutes-repair-techniques-for-remote-server-not-reachable-error/"><u>Mastery in Minutes: Repair Techniques for 'Remote Server Not Reachable' Error</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/online-learning-learn-bengali-daily/"><u>Online Learning: Learn Bengali Daily</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-your-system-integrity-solutions-for-repairing-broken-files-in-windows-11/"><u>Restore Your System Integrity: Solutions for Repairing Broken Files in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-lenovo-u310-driver-enhancement-guide/"><u>Swift Lenovo U310 Driver Enhancement Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-15-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 15 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-directors-cut-assessment-video-editor-review/"><u>[Updated] 2024 Approved Director's Cut Assessment – Video Editor Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-essential-how-to-guide-for-filming-anywhere-anytime/"><u>[Updated] The Essential How-To Guide for Filming Anywhere, Anytime</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1728474405158-hdd/"><u>「最適な手段でノートパソコン用外部HDDへのデータバックアップガイド」</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-basics-simplifying-pairing-processes-in-windows-11-and-windows-10-environments/"><u>Bluetooth Basics: Simplifying Pairing Processes in Windows 11 and Windows 10 Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-free-language-educational-applications-of-2024/"><u>Discover the Leading Free Language Educational Applications of 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-persistent-windows-10-update-problems/"><u>Expert Solutions for Persistent Windows 10 Update Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-incorrectly-entered-text-when-typing-errors-arise/"><u>Fixing Incorrectly Entered Text When Typing Errors Arise</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/interleaving-distributes-burst-errors-to-improve-the-effectiveness-of-fec/"><u>Interleaving Distributes Burst Errors to Improve the Effectiveness of FEC.</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-connection-fixing-cast-to-device-failures-on-windows-10-computers/"><u>Mastering the Connection: Fixing 'Cast to Device' Failures on Windows 10 Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solution-addressing-driver-errors-on-hp-displays-under-windows-1087/"><u>Step-by-Step Solution: Addressing Driver Errors on HP Displays Under Windows 10/8/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-great-reconnect-fixing-the-laptop-headset-gap/"><u>The Great Reconnect: Fixing the Laptop-Headset Gap</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208719328-windows-10-brightness-dial-wont-respond-here-are-the-fixes/"><u>Windows 10 Brightness Dial Won't Respond? Here Are the Fixes</u></a></li>
 </ul></div>
 

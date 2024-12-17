@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 and Below: Overcoming Minecraft's Startup Problem – Step-by-Step Troubleshooting"
-date: 2024-11-27T03:52:25.783Z
-updated: 2024-12-04T04:10:33.663Z
+date: 2024-12-10T00:02:47.493Z
+updated: 2024-12-16T22:33:39.629Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for Windows 10 keeps restarting
 
  Here’re 5 fixes that have helped other users resolve the**Windows 10 computer keeps restarting** problem.
@@ -41,7 +45,7 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Press **the power button** to turn on your PC. Then when Windows displays a login screen (i.e. Windows has fully booted), long press **the power button** to turn it off.  
@@ -58,6 +62,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
@@ -65,6 +73,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  6) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click **Startup settings** .
 
@@ -78,10 +90,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the**Windows 10 stuck in endless restart loop** problem.
 
 ---
@@ -92,25 +100,25 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612ab2f0c2c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Settings…** under the **Startup and Recovery** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612b02ca5c0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check**the box** before **Write an event to the system log** and uncheck**the box** before**Automatically restart** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612bede01ba.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Now check if your**computer keeps restarting** problem has been resolved. If yes, then great! But if it still restarts for no reason, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -137,7 +145,7 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Change the power option
@@ -154,17 +162,9 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Double-click on **Processor power management** \> **Minimum processor state** . Type**5** in**Setting (%)** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6130ff2aabf.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Depending on the build of your Windows 10, you might also see**On battery** and**Plugged in** in**Setting (%)** . Change both values to**5** and click**OK** .
 
@@ -205,18 +205,21 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-google-meets-grid-view-functionality/"><u>[New] 2024 Approved Mastering Google Meet's Grid View Functionality</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-zooms-best-audio-practices-2-simple-steps-to-enhanced-quality/"><u>[New] 2024 Approved Zoom's Best Audio Practices 2 Simple Steps to Enhanced Quality</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ree-to-profit-reaching-the-new-500-sub-total/"><u>[New] Free to Profit Reaching the New 500 Sub Total</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-spectacular-ultra-hd-screens-for-playing-games/"><u>2024 Approved Spectacular Ultra HD Screens for Playing Games</u></a></li>
-<li><a href="https://win11.techidaily.com/atlasos-resurgence-guide-for-older-tech/"><u>AtlasOS Resurgence Guide for Older Tech</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/cing-youtube-visibility-with-tubebuddy/"><u>Enhancing YouTube Visibility with TubeBuddy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x800705b4-the-ultimate-solutions-for-windows-1n-update-issues/"><u>Error 0X800705B4: The Ultimate Solutions for Windows 1N Update Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-your-touchscreen-on-a-windows-10-device/"><u>Five Effective Methods to Repair Your Touchscreen on a Windows 10 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-a-usb-mouse-to-work-again-on-your-laptop-top-5-fixes-you-cant-miss/"><u>Getting a USB Mouse to Work Again on Your Laptop: Top 5 Fixes You Can't Miss</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-lower-wudfhostexes-impact-on-your-pcs-performance-in-windows-11/"><u>How to Lower WUDFHost.exe's Impact on Your PC's Performance in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-of-error-code-39-a-step-by-step-guide-to-repairing-your-cddvd-drive/"><u>Solving the Problem of Error Code 39: A Step-by-Step Guide to Repairing Your CD/DVD Drive</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-tackle-the-persistent-0x80072efd-problem-in-windows-11/"><u>Step-by-Step Solutions to Tackle the Persistent 0X80072EFD Problem in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-isnt-my-torrent-downloading-find-out-what-you-can-do-to-resolve-it/"><u>Why Isn't My Torrent Downloading? Find Out What You Can Do to Resolve It</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oost-engagement-innovative-templates-for-your-video-closings-for-2024/"><u>[New] Boost Engagement Innovative Templates for Your Video Closings for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-zoo-matic-guide-to-improved-snapchat-media/"><u>[Updated] 2024 Approved The Zoo-Matic Guide to Improved Snapchat Media</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-use-of-snap-in-zoom-webinar-for-2024/"><u>[Updated] Efficient Use of Snap in Zoom Webinar for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-imovie-tips-creating-engaging-youtube-video-intros/"><u>[Updated] In 2024, IMovie Tips Creating Engaging YouTube Video Intros</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-in-depth-investigation-unraveling-the-secrets-of-bublcam-360/"><u>[Updated] In 2024, In-Depth Investigation Unraveling the Secrets of Bublcam 360</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-how-to-remove-pending-videos-from-your-youtube-history/"><u>2024 Approved How to Remove Pending Videos From Your YouTube History</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-walkthrough-for-correcting-windows-update-issues/"><u>A Step-by-Step Walkthrough for Correcting Windows Update Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/dota-2-quick-solutions-for-the-frustrating-api-changeerror-2024/"><u>Dota 2: Quick Solutions for the Frustrating 'API ChangeError 2024'</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-resolving-the-persistent-xerox-update-issue-error-0x800f020b-in-windows-environments/"><u>Effective Solutions for Resolving the Persistent Xerox Update Issue (Error 0X800f020b) in Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-effective-techniques-to-repair-windows-11s-touchscreen-issues/"><u>Five Effective Techniques to Repair Windows 11'S Touchscreen Issues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-troubleshooting-0xc0000005-windows-errors-and-crashes/"><u>Step-by-Step Solution for Troubleshooting 0Xc0000005 Windows Errors and Crashes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamlining-the-process-of-finding-your-own-musical-compilation-on-youtube-for-2024/"><u>Streamlining the Process of Finding Your Own Musical Compilation on Youtube for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-selecting-the-top-7-youtube-live-streaming-apps-for-iosandroid-users-for-2024/"><u>The Ultimate Guide Selecting the Top 7 YouTube Live Streaming Apps for iOS/Android Users for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205054994-trouble-with-win-10s-long-lasting-goodbyes-here-are-the-fixes-you-need/"><u>Trouble with Win 10'S Long-Lasting Goodbyes? Here Are the Fixes You Need</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-unknown-usb-device-error-and-descriptor-request-failures/"><u>Troubleshooting Tips: Fixing 'Unknown USB Device' Error and Descriptor Request Failures</u></a></li>
 </ul></div>
 

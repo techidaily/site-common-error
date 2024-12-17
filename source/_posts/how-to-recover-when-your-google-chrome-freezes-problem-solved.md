@@ -1,7 +1,7 @@
 ---
 title: How To Recover When Your Google Chrome Freezes – Problem Solved!
-date: 2024-08-15T11:13:52.720Z
-updated: 2024-08-16T11:13:52.720Z
+date: 2024-12-12T23:48:13.134Z
+updated: 2024-12-16T18:38:17.101Z
 tags:
   - win11
   - win10
@@ -36,14 +36,15 @@ Here are some solutions that have helped people resolve the error “**Destiny 2
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Connect to the Destiny 2 server in another time
 
 It’s possible that too many people connect to the Destiny servers during the time period, so the servers are overloading and you will fail to connect. So you can wait for a while and try playing the game in another time. This issue can be automatically fixed. If you still have the error “**Destiny 2 servers are not available**”, don’t worry. There’s something else to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable DHCP for your connection
 
@@ -56,35 +57,38 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Restart your computer and open Destiny 2 to see if it works.
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Use the Ethernet connection
 
 It’s recommended to use the Ethernet connection, since playing games like Destiny 2 requires a more stable and faster Internet connection. So you can switch to the**Ethernet connection**on your computer to see if it works. If you want to use the WiFi connection, or there’s no Ethernet connection available, try these steps to force your computer (and Destiny 2 included) to connect via WiFi.
 
 1. Right click on the**network icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png) ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
 
@@ -97,15 +101,19 @@ A missing or outdated network card driver will cause connection issues in your c
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b08c06924.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open Destiny 2 and see the servers not available error has been removed.
 
 ---
@@ -121,8 +129,6 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +136,24 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/1723207975204-solved-ps4-controller-wont-charge/"><u>[SOLVED] PS4 Controller Won't Charge</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-dissecting-viral-trends-for-immersive-fb-ad-content/"><u>[Updated] Dissecting Viral Trends for Immersive FB Ad Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-10-premier-yogic-platforms-to-maximize-physical-health/"><u>[Updated] Exploring 10 Premier Yogic Platforms to Maximize Physical Health</u></a></li>
+<li><a href="https://fox-access.techidaily.com/acclaimed-top-5-compact-cameras-for-filming-for-2024/"><u>Acclaimed Top 5 Compact Cameras for Filming for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-windows-resource-protection-errors-how-to-successfully-complete-operations-on-your-pc/"><u>Addressing Windows Resource Protection Errors: How to Successfully Complete Operations on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-input-type-not-accepted-when-using-visual-output-devices/"><u>Fixes for 'Input Type Not Accepted' When Using Visual Output Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-10-update-issues-how-to-unstick-and-resume/"><u>Fixing Windows 10 Update Issues: How to Unstick and Resume</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-reno-8t-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo Reno 8T 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-resolution-of-livekernelevent-error-number-117/"><u>Mastering the Resolution of LiveKernelEvent Error Number 117</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-dealing-with-the-fixed-windows-update-error-in-windows-11-error-0x8024401c/"><u>Troubleshoot and Repair: Dealing with the Fixed Windows Update Error in Windows 11 (Error 0X8024401C)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-wireless-charging-problems-with-these-7-tips/"><u>Troubleshooting iPhone's Wireless Charging Problems with These 7 Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-why-cant-i-complete-the-feature-upgrade-on-windows-11-version-1607/"><u>Troubleshooting Steps: Why Can't I Complete the Feature Upgrade on Windows 11 (Version 1607)?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-beauty-within-and-outside-in-depth-analysis-of-the-samsung-galaxy-watch/"><u>Unveiling the Beauty Within and Outside: In-Depth Analysis of the Samsung Galaxy Watch</u></a></li>
+<li><a href="https://common-error.techidaily.com/what-to-do-when-internet-explorer-stops-responding-fixes-and-tips/"><u>What to Do When Internet Explorer Stops Responding: Fixes and Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-link-mastery-a-roadmap-to-content-marketing-success-for-2024/"><u>YouTube Link Mastery A Roadmap to Content Marketing Success for 2024</u></a></li>
+</ul></div>
 

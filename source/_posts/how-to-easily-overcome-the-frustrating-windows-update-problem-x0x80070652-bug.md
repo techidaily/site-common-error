@@ -1,7 +1,7 @@
 ---
 title: "How to Easily Overcome the Frustrating Windows Update Problem: X0X80070652 Bug"
-date: 2024-12-05T21:58:35.221Z
-updated: 2024-12-10T22:02:24.766Z
+date: 2024-12-13T01:16:16.789Z
+updated: 2024-12-16T19:37:07.380Z
 tags:
   - win11
   - win10
@@ -34,19 +34,11 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
@@ -69,19 +61,23 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
@@ -92,9 +88,17 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
@@ -105,7 +109,11 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -140,20 +148,12 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -175,24 +175,24 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-craft-your-fortune-terrarias-best-map-list/"><u>[Updated] 2024 Approved Craft Your Fortune Terraria's Best Map List</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-spice-up-your-feeds-text-based-meme-magic/"><u>[Updated] 2024 Approved Spice Up Your Feeds Text-Based Meme Magic</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unleash-ps2-gaming-on-ios-the-best-emulators/"><u>[Updated] In 2024, Unleash PS2 Gaming on iOS The Best Emulators</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-error-8007000e-streamlined-strategies-to-restore-windows-updates/"><u>Bypassing Error 8007000E: Streamlined Strategies to Restore Windows Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-restoring-damaged-registry-and-system-files-in-windows-11/"><u>Complete Guide: Restoring Damaged Registry and System Files in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-hs50-mic-malfunction-heres-a-detailed-guide-to-diagnose-and-repair-your-audio-device/"><u>Corsair HS50 Mic Malfunction? Here's a Detailed Guide to Diagnose & Repair Your Audio Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-a-unique-windows-11-search-interface/"><u>Crafting a Unique Windows 11 Search Interface</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-instructions-for-obtaining-the-newest-drivers-for-your-canon-printer-model-mg2900/"><u>Easy Instructions for Obtaining the Newest Drivers for Your Canon Printer Model MG2900</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-a-broken-system-restore-feature-in-windows-10/"><u>Effective Fixes for a Broken System Restore Feature in Windows 10</u></a></li>
-<li><a href="https://win-trending.techidaily.com/error-unable-to-locate-the-webpage/"><u>Error: Unable to Locate the Webpage</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-expert-tips-for-dealing-with-the-notorious-reddit-blue-screen/"><u>Fixed! Expert Tips for Dealing with the Notorious REDdit Blue Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oneplus-nord-n30-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On OnePlus Nord N30 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-for-gamers-get-a-whopping-920-off-the-razer-blade-14-during-cyber-mondays-epic-2022-sale/"><u>Huge Savings Alert for Gamers: Get a Whopping $920 Off the Razer Blade 14 During Cyber Monday's Epic 2022 Sale</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-intel-networking-drivers-for-windows-operating-systems-get-yours-here/"><u>Latest Intel Networking Drivers for Windows Operating Systems - Get Yours Here</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-revenue-a-step-by-step-guide-to-using-buyselladscom-for-blogging-ads/"><u>Maximizing Revenue: A Step-by-Step Guide to Using BuySellAds.com for Blogging Ads</u></a></li>
-<li><a href="https://common-error.techidaily.com/pdf-wont-print-discover-swift-and-easy-troubleshooting-tips/"><u>PDF Won't Print? Discover Swift and Easy Troubleshooting Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-rectify-missing-msvcp140dll/"><u>Steps to Rectify Missing MSVCP140.dll</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-keystroke-errors-and-mistyped-letters/"><u>Troubleshooting Keystroke Errors and Mistyped Letters</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-to-lowering-graphics-card-load-in-win11s-desktop-manager-settings/"><u>Ultimate Guide to Lowering Graphics Card Load in Win11’s Desktop Manager Settings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-youtube-sponsorships-by-using-famebit/"><u>[Updated] 2024 Approved How to Find YouTube Sponsorships by Using FameBit</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-how-to-sell-your-brand-through-innovative-youtuber-collaborations/"><u>[Updated] 2024 Approved How To Sell Your Brand Through Innovative YouTuber Collaborations</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-the-update-challenge-strategies-to-resolve-windows-11s-error-0x800f0922-quickly/"><u>Conquer the Update Challenge: Strategies to Resolve Windows 11'S Error 0X800f0922 Quickly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209551969-corsair-illumination-troubleshooting-bring-back-the-glow/"><u>Corsair Illumination Troubleshooting: Bring Back the Glow!</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-troubleshooting-steps-for-a-non-functional-lenovo-fingerprint-sensor/"><u>Easy Troubleshooting Steps for a Non-Functional Lenovo Fingerprint Sensor</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-limited-system-resources-issues/"><u>Effective Solutions for Overcoming Limited System Resources Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-diagnosing-and-repairing-a-dysfunctional-laptop-pointing-device/"><u>Effective Techniques for Diagnosing and Repairing a Dysfunctional Laptop Pointing Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-eliminating-the-dreaded-fatal-error-and-ensuring-stability-in-halo-4-ue4-throughout-2024/"><u>Expert Tips for Eliminating the Dreaded 'Fatal Error' & Ensuring Stability in Halo 4 UE4 Throughout 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-rpc-communication-errors-in-microsoft-windows-environments/"><u>Expert Tips for Fixing RPC Communication Errors in Microsoft Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209458596-fix-your-oddworld-soulstorm-pc-game-crash-issues-solutions-inside/"><u>Fix Your Oddworld: Soulstorm PC Game Crash Issues - Solutions Inside!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/moto-z2s-brainpower-examined-in-detail-for-2024/"><u>Moto Z2's Brainpower Examined in Detail for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/611691-9781770702486-mysteries-and-secrets-of-time/"><u>Mysteries and Secrets of Time | Free Book</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/s-top-rated-vignette-makers-for-iphone-and-android-a-comprehensive-guide-for-2024/"><u>S Top-Rated Vignette Makers for iPhone and Android A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/speed-up-troubleshooting-tips-for-when-your-camera-fails-to-detect-sd-card/"><u>Speed-Up Troubleshooting Tips for When Your Camera Fails to Detect SD Card</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-dos-and-donts-of-managing-your-facebook-friends-list/"><u>The Do's and Don'ts of Managing Your Facebook Friends List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-path-to-profitable-fb-animation-ad-success-stories/"><u>The Path to Profitable FB Animation Ad Success Stories</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206694287-the-tnm-system-is-essential-for-accurate-lung-cancer-staging-and-treatment-planning/"><u>The TNM System Is Essential for Accurate Lung Cancer Staging and Treatment Planning</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-5-features-and-performance-of-the-ring-wireless-doorbell-batteries-included/"><u>Top 5 Features and Performance of the Ring Wireless Doorbell (Batteries Included)</u></a></li>
+<li><a href="https://games-able.techidaily.com/want-a-minimalistic-gaming-experience-try-idle-games/"><u>Want a Minimalistic Gaming Experience? Try Idle Games</u></a></li>
 </ul></div>
 

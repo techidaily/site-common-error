@@ -1,7 +1,7 @@
 ---
 title: "Fix Successful: Addressing the Unresponsive Keyboard Issue on Startup"
-date: 2024-12-02T18:19:15.984Z
-updated: 2024-12-04T07:12:23.899Z
+date: 2024-12-09T21:11:53.808Z
+updated: 2024-12-16T21:40:17.234Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Try these fixes for the Surface keyboard not working problem
 
  You don’t need to try them all; just work your way down the list until you find the one that works for you.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 3. [**Update or reinstall your driver**](#c)
 4. **[Disable the filter key](#filter)**
 5. **[Try Surface Diagnostic Toolkit](#toolkit)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1: Some quick fixes to try first
 
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 3. Make sure your Windows system is updated to the latest version.
 
  If these methods don’t help to bring back your keyboard, please move on to the other fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2: Perform a two-button shutdown
 
@@ -78,23 +90,19 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/surface-type-cover.png)
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4: Disable the filter key
 
 **Filter Keys** is a feature that makes your keyboard ignore brief or repeated keystrokes. It sometimes leads to the issue of the keyboard not working on Surface. For some users, **disabling Filter Keys** helps to fix the keyboard problem for them. To see if this does wonders for you as well:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Windows 10
 
@@ -104,19 +112,15 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off **Filter Keys** or uncheck **Turn on Filter Keys** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Windows 11
 
@@ -124,15 +128,11 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 2. Go to **Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle **Off**  Filter keys.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5: Try the Surface Diagnostic Toolkit
@@ -160,22 +160,20 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/accelerate-your-pcs-shutdown-time-with-these-tips-for-windows-11-users/"><u>Accelerate Your PC's Shutdown Time with These Tips for Windows 11 Users</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/capturing-the-best-visuals-in-vlogs/"><u>Capturing the Best Visuals in Vlogs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-performance-improved-how-the-latest-patch-boosted-fps-for-smoother-gameplay/"><u>Cyberpunk 2077 Performance Improved: How the Latest Patch Boosted FPS for Smoother Gameplay</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-silent-microphone-problem-in-your-corsair-hs50-setup/"><u>Diagnosing and Fixing the Silent Microphone Problem in Your Corsair HS50 Setup</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210900539-9781088154076-greater-exploits-12-perfect-legislation-faith-authority-and-power-to-legislate-and-overwrite/"><u>Greater Exploits - 12 Perfect Legislation - Faith, Authority and Power to LEGISLATE and OVERWRITE | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-overcome-inability-of-windows-to-locate-printer-drivers-fixed/"><u>Guide to Overcome Inability of Windows to Locate Printer Drivers [FIXED]</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-drive-where-windows-is-installed-is-locked-in-windows-11/"><u>How to Fix 'The Drive Where Windows Is Installed Is Locked' In Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210593508-how-to-successfully-set-up-battleye-anti-cheat-problems-solved/"><u>How To Successfully Set Up BattlEye Anti-Cheat: Problems Solved</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-y36i-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo Y36i Phone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-s-hottest-iphone-apps-user-favorites-and-critic-picks/"><u>New S Hottest iPhone Apps User Favorites and Critic Picks</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-sound-issues-in-forza-horizon-4-proven-fixes-for-an-immersive-racing-experience/"><u>Overcome Sound Issues in Forza Horizon 4: Proven Fixes for an Immersive Racing Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-premium-3d-printing-filaments/"><u>The Ultimate Selection of Premium 3D Printing Filaments</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-effective-voice-typing-on-your-iphone-with-these-5-essential-troubleshooting-steps/"><u>Unlock Effective Voice Typing on Your iPhone with These 5 Essential Troubleshooting Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/vr-safety-boundaries-apples-vision-pro-falls-short-compared-to-meta-quest-headsets/"><u>VR Safety Boundaries: Apple's Vision Pro Falls Short Compared to Meta Quest Headsets</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-mic-not-working-heres-how-to-solve-the-problem/"><u>Windows 10 Mic Not Working? Here's How to Solve the Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11s-troublesome-touchscreen-try-these-five-fixes/"><u>Windows 11'S Troublesome Touchscreen? Try These Five Fixes!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-younow-review-and-alternative/"><u>[New] Younow Review and Alternative</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-safe-exit-procedures-for-departing-discord-servers/"><u>[Updated] 2024 Approved Safe Exit Procedures for Departing Discord Servers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-breakthrough-ways-to-transform-your-powerpoint-presentations/"><u>[Updated] Breakthrough Ways to Transform Your PowerPoint Presentations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-green-screen-templates-free-download-videography-and-filmmaking/"><u>[Updated] Green Screen Templates Free Download – Videography, and Filmmaking</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-hs50-headset-microphone-repairs-fixing-issues-and-troubleshooting-steps/"><u>Corsair HS50 Headset Microphone Repairs - Fixing Issues & Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/eradicate-your-skyrim-loading-screen-dilemma-with-these-proven-fixes/"><u>Eradicate Your Skyrim Loading Screen Dilemma with These Proven Fixes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/experience-realistic-gearshift-with-the-logitech-momo-racing-wheel-on-your-computer/"><u>Experience Realistic Gearshift with the Logitech MOMO Racing Wheel on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209260339-fixing-error-1068-in-windows-a-comprehensive-guide-solution-found/"><u>Fixing Error 1068 in Windows: A Comprehensive Guide - SOLUTION FOUND</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-beginner-to-champion-essential-drone-races-tips-and-best-models/"><u>From Beginner to Champion Essential Drone Races Tips and Best Models</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-frozen-windows-10-screen/"><u>How to Fix a Frozen Windows 10 Screen</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-secrets-to-boosting-your-income-via-youtube-shorts-monetization/"><u>In 2024, The Secrets to Boosting Your Income via YouTube Shorts Monetization</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-opengl-hiccups-in-minecraft-a-comprehensive-solution-guide/"><u>Overcoming OpenGL Hiccups in Minecraft: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-port-reset-fails-on-a-mysterious-usb-gadget-in-windows-10/"><u>Solving the Port Reset Fails on a Mysterious USB Gadget in Windows 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/space-requirements-for-hd-video-on-64gb/"><u>Space Requirements for HD Video on 64GB?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-overuse-of-processor-resources-in-windows-audio-services/"><u>Troubleshoot Overuse of Processor Resources in Windows Audio Services</u></a></li>
 </ul></div>
 

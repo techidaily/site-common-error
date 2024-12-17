@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Non-Functional Astro A40 Microphone - Resolved
-date: 2024-12-07T16:25:11.669Z
-updated: 2024-12-10T21:16:02.536Z
+date: 2024-12-15T18:50:31.884Z
+updated: 2024-12-16T19:37:16.756Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
@@ -61,17 +65,13 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -84,6 +84,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 3. Click on**your microphone device** and click**Properties** .  
@@ -92,10 +96,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
@@ -115,13 +115,13 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -155,22 +155,20 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-bright-beginnings-on-youtube-launching-and-revenue-strategies/"><u>[New] 2024 Approved Bright Beginnings on YouTube Launching and Revenue Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-effortless-background-erasure-in-digital-photography/"><u>[New] Effortless Background Erasure in Digital Photography</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlock-fcp-without-paying-tips/"><u>[Updated] In 2024, Unlock FCP without Paying - Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-eliminating-crackling-sounds-from-native-windows-media-center-sound-system/"><u>Diagnosing and Eliminating Crackling Sounds From Native Windows Media Center Sound System</u></a></li>
-<li><a href="https://win-studio.techidaily.com/edit-your-documents-with-this-ultimate-free-pdf-editor-effortless-pdf-creation-and-modification/"><u>Edit Your Documents with This Ultimate FREE PDF Editor: Effortless PDF Creation & Modification!</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212143161-experience-uninterrupted-updates-on-windows-11-solve-error-code-0x800f0922-using-our-top-fixes/"><u>Experience Uninterrupted Updates on Windows 11: Solve ERROR CODE 0X800F0922 Using Our Top Fixes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-from-facebook-to-the-friends-inbox-sharing-videos-through-whatsapp/"><u>In 2024, From Facebook to the Friend's Inbox Sharing Videos Through WhatsApp</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/instant-adjustment-match-youtube-to-mac-aspects/"><u>Instant Adjustment Match YouTube to Mac Aspects</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-fixes-for-the-elusive-error-in-windows-installer-services/"><u>Mastering Fixes for the Elusive Error in Windows Installer Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-quick-fixes-for-windows-11-and-errorcode-0x80072f8f/"><u>Mastering Quick Fixes for Windows 11 and #ErrorCode 0X80072F8f</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-safe-shutdowns-on-a-windows-n-based-system-troubleshooting-tips-and-solutions/"><u>Mastering Safe Shutdowns on a Windows N-Based System – Troubleshooting Tips & Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-reviews-t17239718718633/"><u>Navigating the World of Gadgets with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-common-huion-pen-issues-quickly-5-proven-fixes-for-smoother-drawing/"><u>Solve Common Huion Pen Issues Quickly – 5 Proven Fixes for Smoother Drawing</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-to-combat-high-resource-drain-caused-by-wudfhostexe-on-windows-10-systems/"><u>Tips to Combat High Resource Drain Caused by WUDFHost.exe on Windows 10 Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-5-high-quality-low-speed-video-gear/"><u>Top 5 High-Quality Low-Speed Video Gear</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-minecrafts-opengl-issues-step-by-step-solutions/"><u>Ultimate Guide: Resolving Minecraft's OpenGL Issues - Step by Step Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-hidden-gems-that-challenge-vlc/"><u>Unveiling the Hidden Gems That Challenge VLC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-reimagining-received-gifts-the-joy-of-openness/"><u>[New] In 2024, Reimagining Received Gifts The Joy of Openness</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-transcoding-made-simple-from-xmlssattml-to-professional-srt-for-2024/"><u>[New] Transcoding Made Simple From XML/SSA/TTML to Professional SRT for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-secrets-to-high-quality-zoom-streams-for-youtube/"><u>[New] Unraveling the Secrets to High-Quality Zoom Streams for YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-seamlessly-stream-and-save-youtube-lives-from-every-device/"><u>[Updated] 2024 Approved Seamlessly Stream and Save YouTube Lives From Every Device</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-pure-summer-pleasures-our-top-10-holiday-flicks/"><u>2024 Approved Pure Summer Pleasures Our Top 10 Holiday Flicks</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-the-issue-of-elevated-cpu-consumption-by-audio-services-in-windows/"><u>Diagnosing and Solving the Issue of Elevated CPU Consumption by Audio Services in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-fixing-non-responsive-webcams-on-hp-devices-running-windows-lnon/"><u>Expert Advice: Fixing Non-Responsive Webcams on HP Devices Running Windows ˈl(no)n</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-fixing-failed-update-problems-on-your-warframe-game/"><u>Expert Tips: Fixing Failed Update Problems on Your Warframe Game</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-disk-operations-in-windows/"><u>Fixing Steam Disk Operations in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-outdated-or-corrupted-graphics-drivers-can-cause-minecraft-to-crash-on-your-windows-pc-and-how-to-fix-it/"><u>How Outdated or Corrupted Graphics Drivers Can Cause Minecraft to Crash on Your Windows PC – and How to Fix It</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/rekindle-the-glow-effective-ways-to-repair-and-reactivate-your-corsair-keyboards-light-features/"><u>Rekindle the Glow: Effective Ways to Repair and Reactivate Your Corsair Keyboard's Light Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-strategies-to-fix-the-ominous-black-screen-on-windows-11-devices/"><u>Step-by-Step Strategies to Fix the Ominous Black Screen on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-0x80070643-update-issues-on-pcs/"><u>Troubleshooting Guide: Fixing the 0X80070643 Update Issues on PCs</u></a></li>
 </ul></div>
 

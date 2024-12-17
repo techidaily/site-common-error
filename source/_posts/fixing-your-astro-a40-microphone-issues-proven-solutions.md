@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Astro A40 Microphone Issues: Proven Solutions"
-date: 2024-11-27T20:30:37.665Z
-updated: 2024-12-03T23:57:30.569Z
+date: 2024-12-12T17:40:37.940Z
+updated: 2024-12-16T18:04:54.897Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
@@ -53,6 +49,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
@@ -70,12 +70,12 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
@@ -91,29 +91,30 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
-5. Click **OK**  to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
+5. Click **OK**  to apply the changes in the windows.
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -149,20 +150,18 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-ios-excellence-leading-apps-to-unlock-youtube-videos/"><u>[New] In 2024, IOS Excellence Leading Apps to Unlock YouTube Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-music-for-instagram-videos-here-is-all-you-need-to-know/"><u>[New] In 2024, Music for Instagram Videos - Here Is All You Need to Know</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-exploring-affordable-virtual-reality-gear-from-china/"><u>[Updated] Exploring Affordable Virtual Reality Gear From China</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-direct-from-twitter-posting-engaging-video-content-on-snapchat/"><u>2024 Approved Direct From Twitter Posting Engaging Video Content on Snapchat</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-fast-with-premiere-pro/"><u>2024 Approved Fading Fast with Premiere Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-troubleshooting-for-windows-update-error-understanding-and-solving-0x800f0831/"><u>Effortless Troubleshooting for Windows Update Error: Understanding and Solving 0X800F0831</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fixing-the-cache-miss-problem-errcachemiss-error-on-chrome/"><u>Guide to Fixing the 'Cache Miss' Problem – ERR_CACHE_MISS Error on Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-fixing-lost-or-disappearing-bluetooth-devices-on-windows-10-easily/"><u>Guide: Fixing Lost or Disappearing Bluetooth Devices on Windows 10 Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-10-configuration-failure-error-and-get-your-system-running-again/"><u>How to Fix 'Windows 10 Configuration Failure' Error and Get Your System Running Again</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-your-pc-cant-close-windows-10-os-successfully-fixed/"><u>How to Resolve Your PC Can't Close Windows 10 OS Successfully – FIXED</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-trustee-rights-requesting-access-from-trustedinstaller-to-modify-files/"><u>Navigating Trustee Rights: Requesting Access From TrustedInstaller to Modify Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-driver-hurdles-a-users-handbook-for-the-logitech-wireless-mouse-f710-and-windows-os-compatibility/"><u>Overcoming Driver Hurdles: A User's Handbook for the Logitech Wireless Mouse F710 and Windows OS Compatibility</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-respecting-musicians-rights-on-ig-for-2024/"><u>The Ultimate Guide to Respecting Musicians' Rights on IG for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-quick-and-effective-ways-to-fix-lagging-in-pubg/"><u>Ultimate Guide: Quick and Effective Ways to Fix Lagging in PUBG!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-easy-steps-to-rectify-non-sending-or-delayed-videos-in-messenger-chats-for-2024/"><u>[Updated] Easy Steps to Rectify Non-Sending or Delayed Videos in Messenger Chats for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-streamline-your-classic-gaming-with-optimal-ps2-android-emulators/"><u>[Updated] In 2024, Streamline Your Classic Gaming with Optimal PS2 Android Emulators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-shortcut-to-go-to-tags-maximizing-your-youtube-impact-for-2024/"><u>[Updated] Shortcut to Go-To Tags Maximizing Your YouTube Impact for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-observing-patterns-in-instagram-unlikes/"><u>2024 Approved Observing Patterns in Instagram Unlikes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-official-nvidia-geforce-rtx-3090-drivers-for-windows-systems-1187/"><u>Download Official NVIDIA GeForce RTX 3090 Drivers for Windows Systems (11/8/7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-overcoming-the-driverpowerstatefailure-problem/"><u>Effective Remedies for Overcoming the DRIVER_POWER_STATE_FAILURE Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211985283-expert-tips-for-fixing-damaged-windows-store-caches-solved/"><u>Expert Tips for Fixing Damaged Windows Store Caches - SOLVED</u></a></li>
+<li><a href="https://common-error.techidaily.com/google-chrome-freezing-issues-how-to-restart-and-fix-the-problem/"><u>Google Chrome Freezing Issues: How to Restart and Fix the Problem</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-retrieve-deleted-unsaved-worksheets-from-excel-2016-using-the-power-of-ifind-data-recovery/"><u>How to Retrieve Deleted Unsaved Worksheets From Excel 2016 Using the Power of IFind Data Recovery</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-ten-strategies-for-controlling-a-twitch-broadcast/"><u>In 2024, Ten Strategies for Controlling a Twitch Broadcast</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectified-graphical-glitch-nvidia-leads-the-way/"><u>Rectified Graphical Glitch - NVIDIA Leads the Way</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-not-enough-memory-problems-for-seamless-performance/"><u>Resolve ‘Not Enough Memory’ Problems for Seamless Performance</u></a></li>
 </ul></div>
 

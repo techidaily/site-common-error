@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Cutting Down High GPU Usage From Desktop Window Manager in Windows 11"
-date: 2024-12-04T20:06:07.477Z
-updated: 2024-12-10T18:31:08.687Z
+date: 2024-12-14T18:05:39.761Z
+updated: 2024-12-16T17:26:11.299Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ After a day’s work, you click**Shut down** and pack your stuff for leaving. Bu
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [**Disconnect your USB-C device before shut down**](https://tools.techidaily.com/drivereasy/download/)
@@ -38,6 +34,10 @@ After a day’s work, you click**Shut down** and pack your stuff for leaving. Bu
 ### Fix 1: Disconnect your USB-C device before shut down
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/619Rf5BkGlL._SL1273_-1019x1024.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  USB Type-C sample  
  Photo from Amazon
@@ -59,14 +59,18 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-3.jpg)
 3. Choose**Troubleshoot** in the left pane. Then click**Power** and click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/power-1.jpg)
 4. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Reboot your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Fast Startup feature
 
@@ -87,16 +91,8 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
 5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
 6. Reboot your computer to apply the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -111,15 +107,11 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the result indicates that there are broken files exists but SFC can’t fix it, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examine and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Registry fix
@@ -130,6 +122,11 @@ The solution for this bug is very simple.
 2. Type “regedit” and press**Enter** to open**Registry Edition** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/registry.jpg)
 3. Copy and paste the text into the address bar and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management** “.
 4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
@@ -139,11 +136,11 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut1.jpg)
 7. Click**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Reboot your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your driver
 
@@ -156,12 +153,16 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your Windows 10 computer and check the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully, the above methods can help you to fix your problem. If you have any suggestions or questions, feel free to leave your comments below.
@@ -183,21 +184,16 @@ The solution for this bug is very simple.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-chromebook-shutter-mastery-in-four-steps-only/"><u>[New] Chromebook Shutter Mastery in Four Steps Only</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-efficient-cost-strategies-for-cloud-space-usage-for-2024/"><u>[New] Efficient Cost Strategies for Cloud Space Usage for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-vids-determining-the-perfect-dimensions/"><u>[Updated] In 2024, Instagram Vids Determining the Perfect Dimensions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-joke-tastic-iphones-today/"><u>[Updated] Joke-Tastic iPhones Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/5-effective-remedies-when-your-dns-server-fails-to-respond/"><u>5 Effective Remedies When Your DNS Server Fails to Respond</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/alta-qualita-video-grazie-al-potente-aiuto-di-winxvideo-ai-tecniche-di-ottimizzazione-visiva/"><u>Alta Qualità Video Grazie Al Potente Aiuto Di WinXvideo AI - Tecniche Di Ottimizzazione Visiva</u></a></li>
-<li><a href="https://common-error.techidaily.com/correct-setup-yet-some-component-is-absent-of-sound/"><u>Correct Setup, Yet Some Component Is Absent of Sound</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-mac-microphone-tools-selecting-leading-recorders/"><u>Essential Mac Microphone Tools Selecting Leading Recorders</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-12-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus 12 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-obs-potential-strategies-involving-lut-filters/"><u>In 2024, Unlocking OBS Potential Strategies Involving LUT Filters</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-failed-windows-10-build-1607-feature-update-problems/"><u>Resolving Failed Windows 10 Build 1607 Feature Update Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-rpc-server-unreachable-issue-on-your-windows-pc-a-step-by-step-guide/"><u>Resolving the 'RPC Server Unreachable' Issue on Your Windows PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-automatic-boot-up-solutions-for-your-self-starting-windows-11-pc/"><u>Understanding Automatic Boot-Up: Solutions for Your Self-Starting Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-behind-net-framework-35s-error-code-0x800f081f-fixes-inside/"><u>Unraveling the Mystery Behind .NET Framework 3.5'S Error Code 0X800F081F - Fixes Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-does-msda80dll-do-on-your-computer-and-how-to-manage-its-storage-safely/"><u>What Does MSDA80.DLL Do on Your Computer, and How to Manage Its Storage Safely?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-pathway-to-recognition-youtubers-guide-to-personal-brands/"><u>[New] 2024 Approved The Pathway to Recognition YouTubers' Guide to Personal Brands</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-echoed-calls-recorder-iphone-model-2024/"><u>[Updated] Echoed Calls Recorder - iPhone Model 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-hdcp-errors-for-non-compatible-screen-technology-a-comprehensive-guide/"><u>Fixing HDCP Errors for Non-Compatible Screen Technology - A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-get-snapchat-on-mac-easy-guide/"><u>How to Get Snapchat on Mac? [Easy Guide]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-excellence-written-segmented-by-film-categories/"><u>In 2024, Excellence Written, Segmented by Film Categories</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-leading-online-tools-select-your-new-photo-background/"><u>In 2024, Leading Online Tools Select Your New Photo Background</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-tips-for-resolving-common-problems-with-netflixs-performance-issues/"><u>Quick Tips for Resolving Common Problems with Netflix's Performance Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/reappearance-of-lost-desktop-icons-for-windows-10-users-easy-fixes/"><u>Reappearance of Lost Desktop Icons for Windows 10 Users: Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-overcoming-twitchs-error-43000/"><u>Step-by-Step Solution: Overcoming Twitch's Error 4^3000^</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-redmi-a2-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi Redmi A2 Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-vcruntime140dll-error-for-seamless-app-launches-in-windows-10/"><u>Troubleshoot VCRUNTIME140.dll Error for Seamless App Launches in Windows 10</u></a></li>
 </ul></div>
 

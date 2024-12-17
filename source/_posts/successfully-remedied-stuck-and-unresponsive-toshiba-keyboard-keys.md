@@ -1,7 +1,7 @@
 ---
 title: "Successfully Remedied: Stuck and Unresponsive Toshiba Keyboard Keys"
-date: 2024-12-07T21:47:27.765Z
-updated: 2024-12-10T20:05:15.772Z
+date: 2024-12-09T19:54:54.807Z
+updated: 2024-12-16T19:15:27.364Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/15c1fa1d4700ab3e156b726be8d32ae392374f04f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -51,6 +47,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -72,7 +72,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -84,6 +84,10 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -103,6 +107,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -118,17 +126,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -138,13 +138,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,18 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-direct-from-instagram-masterful-techniques-for-igtv-video-transferring/"><u>[New] In 2024, Direct From Instagram Masterful Techniques for IGTV Video Transferring</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-on-your-content-a-guide-to-stellar-videography-closures/"><u>[Updated] In 2024, Building on Your Content A Guide to Stellar Videography Closures</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transformative-versat-cookies-creative-edition/"><u>[Updated] Transformative Versat Cookies Creative Edition</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-wallet-friendly-spherical-camera-systems-for-hobbyists/"><u>2024 Approved Wallet-Friendly Spherical Camera Systems for Hobbyists</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-the-most-out-of-league-of-legends-by-fixing-sluggish-downloads-instantly/"><u>Getting the Most Out of League of Legends by Fixing Sluggish Downloads Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-the-disappeared-volume-icon-in-windows-10-with-step-by-step-images/"><u>How to Restore the Disappeared Volume Icon in Windows 10 with Step-by-Step Images</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211673739-how-to-successfully-launch-your-hosted-network-on-windows-10-solved/"><u>How to Successfully Launch Your Hosted Network on Windows 10 - Solved</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-unveiling-the-cash-generated-by-every-viewed-stream/"><u>In 2024, Unveiling the Cash Generated by Every Viewed Stream</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-elevated-cpu-consumption-issues-with-wudfhostexe-on-windows-11/"><u>Resolving Elevated CPU Consumption Issues with wudfhost.exe on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-dns-errors-in-their-tracks-with-these-4-user-friendly-fixes/"><u>Stop DNS Errors in Their Tracks with These 4 User-Friendly Fixes</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-newest-online-threat-alerts-navigating-the-dangers-of-2021s-cybersecurity-landscape/"><u>Top Newest Online Threat Alerts: Navigating the Dangers of 2021'S Cybersecurity Landscape</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-constant-usb-mouse-disconnection-issues/"><u>Ultimate Guide: Solving Constant USB Mouse Disconnection Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/unblock-your-pcs-usb-troubleshooting-guide-for-windows-users/"><u>Unblock Your PC's USB: Troubleshooting Guide for Windows Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-full-dynamics-review-2023/"><u>[New] In 2024, Full Dynamics Review 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-9-essential-apps-for-pulling-youtube-videos-android/"><u>[Updated] 2024 Approved 9 Essential Apps for Pulling YouTube Videos (Android)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-skyrocket-mobile-images-flawlessly-free/"><u>[Updated] 2024 Approved Skyrocket Mobile Images Flawlessly, Free</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-boosting-engagement-from-the-start-premium-paid-free-intra-creators/"><u>[Updated] Boosting Engagement From the Start Premium, Paid-Free Intra Creators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-fix-obs-camera-not-working/"><u>[Updated] How to Fix OBS Camera Not Working</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eradicated-muted-video-entries-shorts/"><u>[Updated] In 2024, Eradicated Muted Video Entries (Shorts)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expertly-reviewed-7-top-voice-changer-applications/"><u>[Updated] In 2024, Expertly Reviewed 7 Top Voice Changer Applications</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-quantifying-igtv-engagement-and-outreach/"><u>[Updated] Quantifying IGTV Engagement and Outreach</u></a></li>
+<li><a href="https://common-error.techidaily.com/break-the-code-reactive-laptop-inputs-for-windows-1011/"><u>Break the Code: Reactive Laptop Inputs for Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-correct-easy-anti-cheat-problems-in-apex-legends/"><u>Easy Steps to Correct Easy Anti-Cheat Problems in Apex Legends</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-correctly-address-stop-work-order-for-windows-host-process-using-rundll32/"><u>Easy Steps to Correctly Address Stop Work Order for Windows Host Process Using Rundll32</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/improving-your-photo-quality-adjusting-animal-eyes-for-a-professional-look/"><u>Improving Your Photo Quality: Adjusting Animal Eyes for a Professional Look</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-windows-error-0x80072ee7-in-store-apps-top-tips-for-quick-resolution/"><u>Overcoming the Windows Error 0X80072EE7 in Store Apps: Top Tips for Quick Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-overcome-perpetual-boot-loops-on-pcs/"><u>Troubleshooting Steps to Overcome Perpetual Boot Loops on PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-and-tricks-for-setting-up-your-playstation-4-controller/"><u>Troubleshooting Tips and Tricks for Setting Up Your PlayStation 4 Controller</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-solution-reconnect-and-repair-non-responsive-bluetooth-keyboard-to-pc/"><u>Ultimate Solution: Reconnect and Repair Non-Responsive Bluetooth Keyboard to PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-miracast-support-by-updating-graphics-card-software/"><u>Unlock Miracast Support by Updating Graphics Card Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-lenovo-keyboard-responding-fixes-for-common-issues/"><u>Why Isn't My Lenovo Keyboard Responding? Fixes for Common Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-bluetooth-woes-heres-how-to-get-your-controller-syncing-again/"><u>Xbox One Bluetooth Woes? Here's How to Get Your Controller Syncing Again!</u></a></li>
 </ul></div>
 

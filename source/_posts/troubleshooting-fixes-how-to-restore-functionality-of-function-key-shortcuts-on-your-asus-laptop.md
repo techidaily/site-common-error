@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: How to Restore Functionality of Function Key Shortcuts on Your ASUS Laptop"
-date: 2024-12-01T19:30:36.876Z
-updated: 2024-12-04T03:15:00.660Z
+date: 2024-12-10T20:52:35.015Z
+updated: 2024-12-16T16:36:57.366Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 fixes for USB ports not working on HP laptop
 
  All the fixes below work in**Windows 10** ,**8** and**7** . Just work your way down the list until your USB ports work properly again.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 **Before diving into the troubleshooting part** , make sure the USB devices you’re using are functioning.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
 
@@ -55,7 +55,7 @@ Here’s how:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2:  Change power management settings for USB Root Hubs
@@ -65,27 +65,24 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 1. On the keyboard of the target computer, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update the drivers for your USB devices
 
@@ -104,6 +101,10 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -134,20 +135,24 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-photobooth-hiccups-resolving-frozen-playback-issues/"><u>[New] Photobooth Hiccups Resolving Frozen Playback Issues</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-engineering-an-impactful-trailer-triumph/"><u>[Updated] In 2024, Engineering an Impactful Trailer Triumph</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-video-doorbells-under-50-iseebell-review/"><u>Affordable Video Doorbells Under $50 - ISeeBell Review</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95783108-9781594777295-catastrofobia/"><u>Catastrofobia | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehende-research-via-conversational-ai/"><u>Comprehende Research via Conversational AI</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-to-fix-werfaultexe-application-error/"><u>Easy to Fix WerFault.exe Application Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhance-your-streaming-experience-eliminate-kodis-buffering-frustration-effortlessly/"><u>Enhance Your Streaming Experience: Eliminate Kodi's Buffering Frustration Effortlessly</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-with-newest-netgear-wi-fi-adapter-drivers-downloaded-here/"><u>Ensure Optimal Performance with Newest NETGEAR Wi-Fi Adapter Drivers Downloaded Here!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-incompatible-drivers-can-compromise-the-integrity-of-your-ftdi-synchronous-data-transmission/"><u>How Incompatible Drivers Can Compromise the Integrity of Your FTDI Synchronous Data Transmission</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-system-error-e-xtracted-from-an-ssd-windows-11-7-and-8/"><u>How to Fix 'System Error E Xtracted From an SSD? [Windows 11, 7 & 8]</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mastering-the-art-of-video-capturing-zdsofts-method/"><u>Mastering the Art of Video Capturing ZDSoft's Method</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/peak-color-alignment-tool-for-2024/"><u>Peak Color Alignment Tool for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-directx-graphics-driver-initialization-issue/"><u>Resolved: DirectX Graphics Driver Initialization Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-the-0x80240017-dilemma-proven-fixes-to-revive-your-windows-updates-successfully/"><u>Tackling the 0X80240017 Dilemma - Proven Fixes to Revive Your Windows Updates Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-errors-during-game-installation-on-origin/"><u>Troubleshooting Errors During Game Installation on Origin</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-from-capture-to-share-reviewing-the-newest-sprout-version/"><u>[New] In 2024, From Capture to Share Reviewing the Newest Sprout Version</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-guide-to-iphonedesktop-video-change-top-8-recommendations/"><u>[Updated] 2024 Approved The Ultimate Guide to iPhone/Desktop Video Change Top 8 Recommendations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>[Updated] 2024 Approved Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-resolved-faulty-obs-camera-for-2024/"><u>[Updated] Resolved Faulty OBS Camera for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-c51-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme C51 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-how-to-fix-an-inverted-display-on-your-portable-computer/"><u>Expert Advice on How to Fix an Inverted Display on Your Portable Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-problems-with-your-steam-game-update-process/"><u>Expert Tips for Fixing Problems with Your Steam Game Update Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206628429-fix-your-laptops-non-charging-issue-a-fast-simple-solution/"><u>Fix Your Laptop's Non-Charging Issue: A Fast, Simple Solution!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-repair-entrypointnotfound-bugs-within-windows-systems/"><u>How to Correctly Address and Repair 'EntryPointNotFound' Bugs Within Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-features-on-systems-lacking-compatible-graphics-driver-support/"><u>How to Enable Miracast Features on Systems Lacking Compatible Graphics Driver Support</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-locate-the-start-menu-in-windows-11-a-step-by-step-guide/"><u>How to Locate the Start Menu in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-se-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone SE without Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/m1-innovation-elevating-smoothness-in-every-editors-toolkit/"><u>M1 Innovation Elevating Smoothness in Every Editor's Toolkit</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-valorants-perpetual-launch-loop-essential-tips-and-tricks/"><u>Overcome Valorant's Perpetual Launch Loop - Essential Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/safeguard-your-pc-with-local-security-authority-restart-protection-feature/"><u>Safeguard Your PC with Local Security Authority – Restart Protection Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-driverpowerstatefailure-problem-step-by-step-guide/"><u>Solving the DRIVER_POWER_STATE_FAILURE Problem: Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211168412-9798892820011-the-interpretation-of-dreams-unabridged/"><u>The Interpretation of Dreams - Unabridged | Free Book</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ultimate-guide-to-optimizing-video-quality-in-mobile-broadcasts/"><u>Ultimate Guide to Optimizing Video Quality in Mobile Broadcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11s-search-customization-made-simple/"><u>Windows 11'S Search: Customization Made Simple</u></a></li>
 </ul></div>
 

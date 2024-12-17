@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Overcoming the 0X80240034 Windows 11 Update Obstacle
-date: 2024-11-10T17:23:06.504Z
-updated: 2024-11-15T18:20:51.628Z
+date: 2024-12-13T01:36:14.222Z
+updated: 2024-12-16T23:26:13.267Z
 tags:
   - win11
   - win10
@@ -63,37 +63,28 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0182e74a509.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**OK** to finish the settings.
 
@@ -110,10 +101,7 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
@@ -136,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
@@ -151,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -181,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Try Windows Update Troubleshooter**
 
  The Windows Update Troubleshooter is always a method to consider when you have any problems running Windows Update.
@@ -207,10 +185,7 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
@@ -225,26 +200,31 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
  4) Select**OSUpgrade** key, then right-click the empty area on the right pane of Registry Editor, and click**New** , then c lick **DWORD (32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Right-click the newly created**NewValue#1** and select**Modify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Restart your computer and try again to see if it works.
 
@@ -297,22 +277,19 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-dissolving-ties-how-to-break-away-from-discord-servers/"><u>[New] In 2024, Dissolving Ties How to Break Away From Discord Servers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-quickshot-flipslow-mpeg/"><u>[New] QuickShot FlipSlow MPEG</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-a-plan-to-locate-breathtaking-photos-in-minutes-on-pexels/"><u>[Updated] Crafting a Plan to Locate Breathtaking Photos in Minutes on Pexels</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-boosting-youtube-success-mastery-with-tubebuddy/"><u>[Updated] In 2024, Boosting YouTube Success Mastery with TubeBuddy</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-nifty-network-of-5-extensions-aiding-fb-video-downloads/"><u>[Updated] In 2024, Nifty Network of 5 Extensions Aiding FB Video Downloads</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/windows-pc-c-ssd/"><u>如何在 Windows PC 中轻松更换 C 驱动器为 SSD - 详解</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209645575-9781620556887-breathing-as-spiritual-practice/"><u>Breathing as Spiritual Practice | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-incorrect-registry-entries-that-cause-image-viewing-problems-on-windows-10-devices/"><u>Diagnosing and Fixing Incorrect Registry Entries That Cause Image Viewing Problems on Windows 10 Devices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-kootek-notebook-thermal-management-pad-an-impressive-cross-platform-selection/"><u>Evaluating the Kootek Notebook Thermal Management Pad - An Impressive Cross-Platform Selection</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-file-explorer-working-again-on-a-windows-amoled-10-pc-solved/"><u>How to Get Your File Explorer Working Again on a Windows Amoled 10 PC – Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-a-step-by-nstep-approach-to-eliminate-0xc000012f-bug-on-your-pc/"><u>Mastering the Fix: A Step-by-nStep Approach to Eliminate 0xC000012F Bug on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-common-problems-with-unresponsive-dell-laptop-keyboards/"><u>Overcoming Common Problems with Unresponsive Dell Laptop Keyboards</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-the-computer-restarted-unexpectedly-loop-windows-10/"><u>Solved: The Computer Restarted Unexpectedly Loop Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-enabling-bluetooth-functionality-in-windows-7-systems/"><u>Step-by-Step Tutorial: Enabling Bluetooth Functionality in Windows 7 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/unplugging-the-mystery-why-your-surface-stays-chargeless-despite-connection/"><u>Unplugging the Mystery: Why Your Surface Stays Chargeless Despite Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/user-friendly-steps-to-overcome-windows-reboot-error-choose-proper-boot-device/"><u>User-Friendly Steps to Overcome Windows Reboot Error - Choose Proper Boot Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>[New] Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-vidmessenger-extractor-plus/"><u>[New] VidMessenger Extractor Plus</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-traction-in-yt-mastering-green-screen-ctas/"><u>[Updated] 2024 Approved Gain Traction in YT Mastering Green Screen CTAs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-essentials-of-high-quality-audio-interfaces-in-podcasting/"><u>[Updated] 2024 Approved The Essentials of High-Quality Audio Interfaces in Podcasting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-isnapmaker-ios-and-macos-media-synthesis-tool-for-2024/"><u>[Updated] ISnapMaker IOS & macOS Media Synthesis Tool for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-keyboard-wont-connect-here-are-the-steps-to-get-it-working-with-your-pc-again/"><u>Bluetooth Keyboard Won't Connect? Here Are the Steps to Get It Working with Your PC Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-annoying-screen-tremble-on-your-windows-11-pc/"><u>Fixing the Annoying Screen Tremble on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-broken-speaker-controls-in-windows-10-step-by-step-fixes/"><u>How to Repair Broken Speaker Controls in Windows 10 - Step by Step Fixes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 7 Plus?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-your-net-gain-three-steps-to-quantify-your-youtube-earnings/"><u>In 2024, Navigating Your Net Gain Three Steps to Quantify Your YouTube Earnings</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212249865-missing-vital-media-driver-find-and-install-the-necessary-components-now/"><u>Missing Vital Media Driver? Find and Install the Necessary Components Now!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-best-text-voice-generators-for-all-platforms-for-2024/"><u>The Best Text Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-innovations-best-vr-tech-for-drones/"><u>Top Innovations Best VR Tech for Drones</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-cpu-consumption-by-iastordatasvc-on-your-windows-10-machine-fixed/"><u>Troubleshooting Excessive CPU Consumption by IAStorDataSvc on Your Windows 10 Machine [Fixed]</u></a></li>
 </ul></div>
 

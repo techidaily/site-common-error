@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving PC Boot Problems with 'Getting Windows Ready' Errors"
-date: 2024-12-09T19:09:38.840Z
-updated: 2024-12-10T16:15:13.192Z
+date: 2024-12-11T21:58:52.800Z
+updated: 2024-12-16T23:55:10.682Z
 tags:
   - win11
   - win10
@@ -40,16 +40,12 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **C:\\Windows\\System32\\drivers\\etc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3567542f7b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **hosts** . Then right-click on it to select **Delete** .
 
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35ad5a4675.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **Network** **and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35b2a96e3d.jpg)
@@ -79,31 +79,31 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35c7a40df1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click **Clear SSL state**  in **Content** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35da806bf6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35de82e9dd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35e0d12a4a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  9) Restart your Chrome and go to the website to see if successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Disable the QUIC protocol on your Chrome
 
@@ -113,11 +113,11 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c360227258e.png)
 
- 3) Restart your Chrome and go to the website to see if successfully.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 3) Restart your Chrome and go to the website to see if successfully.
 
 ## Method 4: Make sure the Date and Time is correct on your Windows
 
@@ -133,11 +133,19 @@ Restart your Chrome and go to the website to see if successfully.
 
 Restart your Chrome and go to the website to see if successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 6: Make sure you’re going to the secure website
 
  To enable users to browse safely on Chrome, Chrome requires websites use trustworthy certificates. A secure website must have trustworthy SSL(Secure Sockets Layer) certificates; In other words, if the website doesn’t have a trustworthy SSL certification on Chrome, you may face this error.
 
 To check if a website is secure:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 1: See its URL
 
@@ -149,17 +157,9 @@ To the left of the website address, check the security status:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3858db33d0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Besides **Secure** , the secure status can also be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c386f232916.png) or ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3870b99499.png) , click the status for more detailed information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [Google Chrome](https://tools.techidaily.com/drivereasy/download/)
 
@@ -178,22 +178,24 @@ To the left of the website address, check the security status:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/1723203376336-fixed-we-couldnt-find-a-camera-compatible-with-windows-hello-face/"><u>[Fixed] We Couldn’t Find a Camera Compatible with Windows Hello Face</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-choreographing-newscast-endings/"><u>[Updated] Choreographing Newscast Endings</u></a></li>
-<li><a href="https://common-error.techidaily.com/address-counterarguments-eg-some-may-argue-that-not-all-problems-require-a-solution-and-discredit-them-using-compelling-evidence/"><u>Address Counterarguments (E.g., some May Argue that Not All Problems Require a Solution) and Discredit Them Using Compelling Evidence.</u></a></li>
-<li><a href="https://common-error.techidaily.com/bring-back-life-to-your-dead-laptop-battery-in-no-time-expert-tips-inside/"><u>Bring Back Life to Your Dead Laptop Battery in No Time - Expert Tips Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-overcoming-ethernet-connection-failures-on-windows-10-and-windows-7-devices/"><u>Comprehensive Guide: Overcoming Ethernet Connection Failures on Windows 10 and Windows 7 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/crack-the-code-effective-solutions-to-tackle-windows-11-update-error-0x80240034/"><u>Crack the Code: Effective Solutions to Tackle Windows 11 Update Error 0X80240034</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-experience-the-future-of-video-top-10-4k-samples/"><u>In 2024, Experience the Future of Video Top 10 4K Samples</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/microsoft-teams-outage-determining-if-the-issue-stands-with-service-or-connection/"><u>Microsoft Teams Outage: Determining If the Issue Stands with Service or Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/new-world-update-release-fixing-the-easy-anti-cheat-startup-issue/"><u>New World Update Release - Fixing the Easy Anti-Cheat Startup Issue</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/premier-stream-gear-with-superior-360-degree-cameras-for-2024/"><u>Premier Stream Gear with Superior 360-Degree Cameras for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-undetected-hard-drive-fixes-and-solutions/"><u>Solving the Issue: Undetected Hard Drive Fixes and Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-z-flip-5-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy Z Flip 5 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-drone-cameras-perfect-for-cinematic-moments/"><u>Top 10 Drone Cameras Perfect For Cinematic Moments</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-overcoming-the-windows-10-error-0xc19n208-solved/"><u>Troubleshooting Guide for Overcoming the Windows 10 Error 0Xc19n208 [SOLVED]</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-tutorial-on-broadcasting-content-from-huawei-p30-to-your-smart-tv/"><u>Ultimate Tutorial on Broadcasting Content From Huawei P30 to Your Smart TV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-fake-chatgpt-platforms-securing-online-transactions/"><u>Unmasking Fake ChatGPT Platforms: Securing Online Transactions</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172477251-why-im-a-convert-the-gamers-guide-to-oled-screens/"><u>Why I'm a Convert: The Gamer’s Guide to OLED Screens</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-amplify-your-channel-effortless-tactics-for-more-views/"><u>[New] In 2024, Amplify Your Channel Effortless Tactics for More Views</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-banishing-black-edges-on-your-youtube-video/"><u>[Updated] In 2024, Banishing Black Edges on Your YouTube Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinetic-illustration-101-core-skills-and-concepts/"><u>[Updated] Kinetic Illustration 101 Core Skills & Concepts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-social-sharing-during-facebook-lives/"><u>2024 Approved Mastering Social Sharing During Facebook Lives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-for-coding-evaluating-chatgpt-versus-gemini-ai/"><u>Best for Coding? Evaluating ChatGPT Versus Gemini AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/clearing-up-confusion-how-to-deal-with-unknown-usb-device-and-failed-port-resets-on-your-windows-10-pc/"><u>Clearing Up Confusion: How to Deal with 'Unknown USB Device' And Failed Port Resets on Your Windows 10 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficiently-join-excel-tables-techniques-for-integrating-multiple-columns/"><u>Efficiently Join Excel Tables: Techniques for Integrating Multiple Columns</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-touchpad-issues-why-scroll-functions-fail-in-windows-10/"><u>Fixing Touchpad Issues: Why Scroll Functions Fail in Windows 10?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-svchostexe-consuming-too-much-cpu-in-windows-10-solution-guide/"><u>How to Fix svchost.exe Consuming Too Much CPU in Windows 10 - Solution Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206472625-netflix-sound-not-working-heres-how-you-can-fix-it-fast/"><u>Netflix Sound Not Working? Here's How You Can Fix It Fast</u></a></li>
+<li><a href="https://common-error.techidaily.com/pdf-printing-issues-uncover-easy-and-fast-remedies-here/"><u>PDF Printing Issues? Uncover Easy and Fast Remedies Here.</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-file-explorer-freezing-issues-on-windows-10-a-comprehensive-guide/"><u>Resolve File Explorer Freezing Issues on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-there-were-no-hard-drives-found-issue-when-rebooting-your-windows-10-system/"><u>Resolving the 'There Were No Hard Drives Found' Issue When Rebooting Your Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-the-audio-step-by-step-guide-to-restoring-sound-on-an-acer-notebook/"><u>Revive the Audio: Step-by-Step Guide to Restoring Sound on an Acer Notebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/simple-strategies-for-capturing-games-on-consoles-for-2024/"><u>Simple Strategies for Capturing Games on Consoles for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-pc-freezes-for-sovled-necromunda-hired-gun-gaming-experience/"><u>Troubleshooting PC Freezes for [SOVLED] Necromunda: Hired Gun Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-non-functioning-webcam-on-your-hp-laptop-in-windows-10/"><u>Troubleshooting Steps: Resolving Non-Functioning Webcam on Your HP Laptop in Windows 10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-flip-your-footage-easy-final-cut-pro-tutorial/"><u>Updated 2024 Approved Flip Your Footage Easy Final Cut Pro Tutorial</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Steps to Unstick the 'Preparing to Install' Stage in Windows Setup"
-date: 2024-08-22T19:19:15.944Z
-updated: 2024-08-23T19:19:15.944Z
+date: 2024-12-10T21:43:21.097Z
+updated: 2024-12-16T17:48:36.903Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
  But no worries, it’s not at all a hard question to solve. Here are 4 options for you to try. You may not have to try them all; just work your way down until you find the one that works for you. Let’s get started!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Table of contents
 
 * [Method 1: Check keyboard connection](https://tools.techidaily.com/drivereasy/download/)
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check keyboard connection
 
  One of the first things you should check when something is off with your keyboard is the connection between it and your computer.
@@ -43,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 * If you’re using a wireless keyboard, make sure that the batteries in your keyboard are working, or try to use new batteries.
 * Also, make sure that the keyboard receiver is well-connected as well.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2: Check for possible viruses
 
  Among all the possible reasons why your keyboard is sticking, virus infection or malware is one of the biggest possibilities. Try to update your anti-virus programs and run a full scan with them.
@@ -55,9 +60,9 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Install the correct keyboard driver
 
  In some cases, your keyboard might need the correct driver to be able to work properly. It could be the latest version of the keyboard driver or the driver that shipped along with your keyboard. You should try both ways to decide which one suits you better.
@@ -73,18 +78,17 @@ The ultimate burning program for all your needs!</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Method 4: Clean the keyboard
 
 If you haven’t cleaned your keyboard, in like forever, do it now.
@@ -103,8 +107,6 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +114,24 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-enhancing-your-playback-quality-tips-for-roblox-recordings-mac-for-2024/"><u>[New] Enhancing Your Playback Quality Tips for Roblox Recordings (Mac) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-editors-face-off-which-is-superior-filmora-or-democreator/"><u>[Updated] In 2024, Editors Face-Off Which Is Superior, Filmora or Democreator?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>[Updated] In 2024, Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-guide-to-facetune-photo-enhancement-for-2024/"><u>[Updated] The Ultimate Guide to Facetune Photo Enhancement for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-nonfunctional-laptop-keyboard-on-windows-10-8-and-7-a-step-by-step-guide/"><u>Fixing a Nonfunctional Laptop Keyboard on Windows 10, 8 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-with-unresponsive-dhcp-servers-solutions-and-tips/"><u>Fixing Issues with Unresponsive DHCP Servers - Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-remedy-for-timeout-error-fixing-the-service-did-not-respond-issue/"><u>Immediate Remedy for Timeout Error - Fixing the Service Did Not Respond Issue</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-11-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 11 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-google-pixel-7a-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Google Pixel 7a without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/investigating-the-reasons-behind-unprompted-start-ups-in-windows-11-systems/"><u>Investigating the Reasons Behind Unprompted Start-Ups in Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-second-display-detection-issues-on-windows-7-a-comprehensive-guide/"><u>Resolving Second Display Detection Issues on Windows 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-process-how-to-upgrade-lenovo-chipset-drivers-with-ease/"><u>Seamless Process: How to Upgrade Lenovo Chipset Drivers with Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-resolving-copy-and-paste-issues-in-windows-11/"><u>Troubleshooting Fixes: Resolving Copy & Paste Issues in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-resolving-the-bugcheck-reboot-issue-on-your-pc/"><u>Troubleshooting Success: Resolving the Bugcheck Reboot Issue on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-and-bluetooth-woes-heres-how-to-make-your-peripherals-visible-again/"><u>Windows 10 and Bluetooth Woes? Here's How to Make Your Peripherals Visible Again</u></a></li>
+</ul></div>
 

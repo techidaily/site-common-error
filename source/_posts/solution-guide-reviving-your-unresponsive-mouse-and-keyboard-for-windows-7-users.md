@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Reviving Your Unresponsive Mouse & Keyboard for Windows 7 Users"
-date: 2024-12-02T21:37:15.607Z
-updated: 2024-12-04T02:01:18.111Z
+date: 2024-12-14T20:05:57.408Z
+updated: 2024-12-16T20:01:26.187Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 2. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Reseat your laptop battery**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  The incorrectly installed/ corrupted keyboard driver may account for this**keypad on laptop not working** issue. So we can try reinstalling the driver and see if the keys work properly again. Here’s a quick walk-through:
@@ -47,22 +43,22 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 1. On your keyboard, press **the Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Locate and double-click on **Keyboards** , then right-click on your keyboard and click **Uninstall device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 3. Wait until the uninstall finishes and **Restart**   your computer so that your computer can auto-install the keyboard driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Type on your laptop keyboard again and see if it works properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -83,12 +79,16 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Type on your keypad and test if the**laptop keypad not working** problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:  Reseat your laptop battery
 
@@ -124,18 +124,20 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-windows-photos-experience-with-music-and-aesthetic-filters/"><u>[New] Streamlining Windows Photos Experience with Music and Aesthetic Filters</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-how-to-use-leading-lines-in-photography-for-iphone-photos/"><u>[Updated] In 2024, How to Use Leading Lines in Photography for iPhone Photos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-unresponsive-buttons-on-lenovo-devices/"><u>Diagnosing and Repairing Unresponsive Buttons on Lenovo Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-rectifying-failed-graphics-device-setup-in-directx/"><u>Effective Solutions for Rectifying Failed Graphics Device Setup in DirectX</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/engage-with-ease-mastering-the-rtx-conversational-bot/"><u>Engage With Ease: Mastering the RTX Conversational Bot</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-windows-printer-driver-issues-and-ensure-smooth-operation/"><u>How to Overcome Windows Printer Driver Issues and Ensure Smooth Operation</u></a></li>
-<li><a href="https://win-info.techidaily.com/losungen-fur-die-fehlermeldung-sicherungsgrosse-ist-0-byte-unter-windows-11/"><u>Lösungen Für Die Fehlermeldung 'Sicherungsgröße Ist 0 Byte' Unter Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/preventing-unexpected-restarts-on-windows-11-a-comprehensive-guide/"><u>Preventing Unexpected Restarts on Windows 11 – A Comprehensive Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-11-proplus-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Realme 11 Pro+ Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-device-connection-errors-with-ease-understanding-and-fixing-code-0xc0000098-on-windows-os/"><u>Resolve Device Connection Errors with Ease: Understanding and Fixing Code 0Xc0000098 on Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-an-unresponsive-aoc-display-unit-on-a-windows-10-computer/"><u>Reviving an Unresponsive AOC Display Unit on a Windows 10 Computer</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-2-free-desktop-screen-capture-tools-perfect-for-quick-screenshots/"><u>Top 2 Free Desktop Screen Capture Tools - Perfect for Quick Screenshots!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-gaming-to-goals-celebrating-the-top-10-ladies-on-youtube-for-2024/"><u>[New] From Gaming to Goals Celebrating the Top 10 Ladies on YouTube for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-love-in-song-ultimate-listening-guide-to-proposals/"><u>[New] Love in Song Ultimate Listening Guide to Proposals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-your-next-favorite-film-with-ai-guidance/"><u>Discover Your Next Favorite Film with AI Guidance</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-google-hangouts-microphone-not-working/"><u>Easy to Fix Google Hangouts Microphone Not Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-past-errors-a-step-by-step-fix-for-a-non-responsive-microsoft-store/"><u>Getting Past Errors: A Step-by-Step Fix for a Non-Responsive Microsoft Store</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-and-regaining-your-steam-files-that-went-missing/"><u>Guide to Fixing and Regaining Your Steam Files That Went MISSING</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-hub-port-power-spike-problem-successfully/"><u>How to Fix a Hub Port Power Spike Problem Successfully</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/infographic-inquiry-unraveling-the-stats-of-yt-2017/"><u>Infographic Inquiry! Unraveling the Stats of YT (2017)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/intuitive-online-classes-for-aspiring-latino-scholars/"><u>Intuitive Online Classes for Aspiring Latino Scholars</u></a></li>
+<li><a href="https://win-lab.techidaily.com/losungen-fur-die-fehlerhafte-entdeckungsfunktion-von-wd-schnellstart/"><u>Lösungen Für Die Fehlerhafte Entdeckungsfunktion Von WD - Schnellstart</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-audio-settings-restoring-volume-in-windows-11-made-easy/"><u>Mastering Audio Settings: Restoring Volume in Windows 11 Made Easy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-toolwiz-photo-experience-analyzed-2023-for-2024/"><u>The Ultimate Toolwiz Photo Experience, Analyzed 2023 for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-ethernet-connection-problems-in-windows-10-and-7/"><u>Troubleshooting Steps: Resolving Ethernet Connection Problems in Windows 10 and 7</u></a></li>
 </ul></div>
 

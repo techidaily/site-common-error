@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Unidentified USB Device – Descriptor Error' Issues: A Step-by-Step Guide"
-date: 2024-11-11T17:24:22.949Z
-updated: 2024-11-15T17:47:20.943Z
+date: 2024-12-10T18:45:25.309Z
+updated: 2024-12-16T21:06:40.641Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
 
  All the fixes below work in**Windows 10** . Just work your way down the list until the problem is resolved.
@@ -41,13 +45,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
@@ -55,19 +52,6 @@ Here’s how to do it:
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
@@ -100,39 +84,36 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -165,17 +146,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-re-watch-lost-youtube-scenes-online-simple-steps/"><u>[New] 2024 Approved How to Re-Watch Lost YouTube Scenes Online Simple Steps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-downloading-youtubes-iconic-icons-via-web-windowsmac-methods/"><u>[New] In 2024, Downloading YouTube's Iconic Icons via Web, Windows/Mac Methods</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-tips-for-amplifying-minecraft-performance-via-ram-increase-for-2024/"><u>[New] Tips for Amplifying Minecraft Performance via RAM Increase for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-invalid-directory-name-error-expert-solutions/"><u>Fixing the 'Invalid Directory Name' Error – Expert Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-failure-configuring-windows-updates-error/"><u>How to Fix “Failure Configuring Windows Updates” Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-name-is-not-a-valid-directory-mistake-easily/"><u>How to Fix the 'Name Is Not a Valid Directory' Mistake Easily</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-enhancing-youtube-popularity-editing-and-optimizing-content-metadata/"><u>In 2024, Enhancing YouTube Popularity Editing & Optimizing Content Metadata</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-perfectiphone-podcast-guide-seamlessly-download-from-anywhere/"><u>In 2024, PerfectiPhone Podcast Guide – Seamlessly Download From Anywhere</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-a38-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo A38 Android SIM Unlock APK</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-full-potential-of-your-live-streams-using-onestream/"><u>In 2024, Unleash the Full Potential of Your Live Streams Using OneStream</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-motorola-g24-power-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Motorola G24 Power to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-resolve-wacom-tablet-malfunctions-easily/"><u>Troubleshooting Tips: How to Resolve Wacom Tablet Malfunctions Easily</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-accelerating-your-watch-experience-on-instagram-videos/"><u>[New] 2024 Approved Accelerating Your Watch Experience on Instagram Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pinnacle-artist-studio-overview/"><u>[New] Pinnacle Artist Studio Overview</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/creating-impressive-google-collage-with-minimal-haste/"><u>Creating Impressive Google Collage with Minimal Haste</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-a-broken-or-unresponsive-laptop-trackpad/"><u>Diagnosing and Repairing a Broken or Unresponsive Laptop Trackpad</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/elevate-your-snapstreak-game-with-savvy-tactics/"><u>Elevate Your Snapstreak Game with Savvy Tactics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/elevating-your-role-play-advanced-closer-views-techniques-for-2024/"><u>Elevating Your Role-Play Advanced Closer Views Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-shift-key-that-wont-work-step-by-step-guide-for-quick-resolution/"><u>Fix the Shift Key That Won’t Work: Step-by-Step Guide for Quick Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-the-frustrating-usb-not-detected-error-on-your-pc-solved/"><u>How to Address the Frustrating 'USB Not Detected' Error on Your PC – [SOLVED]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-effortlessly-send-copy-or-move-files-between-a-pc-running-on-windows-1011-and-an-iphone/"><u>How to Effortlessly Send, Copy or Move Files Between a PC Running on Windows 10/11 and an iPhone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-freshen-up-your-windows-11-experience-with-a-reset-or-refresh/"><u>How to Freshen Up Your Windows 11 Experience with a Reset or Refresh</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-your-mouse-visibility-in-windows-11-expert-troubleshooting-guide/"><u>How to Restore Your Mouse Visibility in Windows 11 - Expert Troubleshooting Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-how-to-pick-and-personalize-gospel-ringtones-effectively/"><u>In 2024, How to Pick and Personalize Gospel Ringtones Effectively</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-revolution-of-filmmaking-discovering-yis-4k-hero-series/"><u>In 2024, The Revolution of Filmmaking Discovering Yi's 4K Hero Series</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-hurdle-of-windows-11-stalled-updates-expert-solutions/"><u>Overcoming the Hurdle of Windows 11 Stalled Updates: Expert Solutions</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/relocate-your-boot-partition-onto-another-disk-in-windows-navigating-through-the-options-with-ease/"><u>Relocate Your Boot Partition Onto Another Disk in Windows Navigating Through the Options with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-league-of-legends-crashes-swiftly-a-step-by-step-guide/"><u>Resolve League of Legends Crashes Swiftly: A Step-by-Step Guide!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-lenovo-mouse-pad-problems-on-windows-effective-fixes-for-windows-1087-users/"><u>Solve Your Lenovo Mouse Pad Problems on Windows: Effective Fixes for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolving-window-10-audio-renderer-error-with-youtube-media-playback/"><u>Step-by-Step Guide to Resolving Window 10 Audio Renderer Error with YouTube Media Playback</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msdia80dll-file-do-you-need-to-preserve-it/"><u>The Role of msdia80.dll File: Do You Need to Preserve It?</u></a></li>
 </ul></div>
 

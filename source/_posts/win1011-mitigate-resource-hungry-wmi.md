@@ -1,7 +1,7 @@
 ---
 title: "Win10/11: Mitigate Resource-Hungry WMI"
-date: 2024-11-30T18:11:31.934Z
-updated: 2024-12-04T07:44:18.375Z
+date: 2024-12-16T02:17:15.545Z
+updated: 2024-12-17T00:26:49.193Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 
  But don’t worry if your**3d acceleration is not supported by WOW** . Many people resolved the issue with the solutions below, so read on and get your game up and running in no time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Make sure your video card is supported by WoW](#video-card)**
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your video card is supported by WoW
 
  When you see the unable to start up 3D acceleration in WoW, the first thing you should do is to make sure that your video card is supported by World of Warcraft. Here’s the list for your reference:[https://us.battle.net/support/en/article/31372](https://us.battle.net/support/en/article/31372)
@@ -50,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
  If your video card is not on the list, it’s probably that your video card doesn’t even meet the minimum system requirements for WoW to run. In that case, you’ll need to upgrade your hardware device for the game to run properly.
 
  If your computer meets the system requirements, but the unable to start up 3D acceleration error remains, please move on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Run your game as an administrator
 
@@ -63,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 2. File Explorer opens. Right click on your**game.exe file** , and click**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-256.png)
 3. Click the**Compatibility** tab, and check the box next to**Run this program as an administrator** , then click**Apply** and**OK** to save your changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/wow-run-as-admin-1.png)
 4. Rel aunch World of Warcraft again to see if it works.
@@ -77,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
@@ -107,28 +119,16 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Open your game again and see if it works now. If the **3d acceleration is not supported by WOW**  error remains, please move on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable overlays
 
  Overlay incompatibility could also cause problems like 3d acceleration is not supported in World of Warcraft. To see if this is the cause for your problem, you can disable overlays in programs that may have them enabled, like Discord, Nvidia GeForce Experience, MSI Afterburner, RadeonPro, and EVGA Precision.
 
  Here are the instructions on how to disable overlays on Discord and GeForce Experience for you reference:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On Discord
 
@@ -138,17 +138,13 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 3. Click the**Overlay** tab and toggle off**Enable in-game overlay** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### On GeForce Experience
@@ -159,10 +155,14 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 3. Scroll to toggle off**In-Game Overlay** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/0-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re not sure how to disable overlays in other programs, please refer to the support manual for further instructions.
 
@@ -192,22 +192,24 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-this-device-is-not-present-code-24-windows-10-8-or-7/"><u>[Fixed] This Device Is Not Present (Code 24) - Windows 10, 8 or 7</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-expert-pick-websites-showcasing-hd-sky-shots/"><u>[Updated] In 2024, Expert Pick Websites Showcasing HD Sky Shots</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review/"><u>2024 Approved From Vision to Reality BenQ’s Masterpiece, the BL2711U Monitor Review</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-incorporating-visual-media-into-free-writings/"><u>2024 Approved Incorporating Visual Media Into Free Writings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-12-proplus-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 12 Pro+ 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/best-3d-software-for-dynamic-youtube-intros-for-2024/"><u>Best 3D Software for Dynamic YouTube Intros for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-how-does-the-latest-generation-amazon-fire-hd-eight-stack-up-in-affordability-and-performance/"><u>Comprehensive Review: How Does The Latest Generation Amazon Fire HD Eight Stack Up in Affordability and Performance?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/detailed-analysis-of-amd-ryzen-9-9950x-engineering-sample-benchmarked-using-blender-at-multiple-thermal-design-power-configurations-evidence-of-improved-per7/"><u>Detailed Analysis of AMD Ryzen 9 9950X 'Engineering Sample' Benchmarked Using Blender at Multiple Thermal Design Power Configurations - Evidence of Improved Performance Efficiency</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-overcoming-severe-cxcrystalize-issues-smoothly/"><u>Expert Advice on Overcoming Severe Cx_Crystalize Issues Smoothly</u></a></li>
-<li><a href="https://common-error.techidaily.com/lonicera-fragrantissima-sweet-breath-of-spring-or-fragrant-honeysuckle-native-to-china-it-is-known-for-its-intensely-fragrant-winter-blooms-even-when-the-pl131/"><u>Lonicera Fragrantissima (Sweet Breath of Spring or Fragrant Honeysuckle): Native to China, It Is Known for Its Intensely Fragrant Winter Blooms, Even when the Plant Appears Dormant.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-genius-of-mobile-in-depth-moto-z2-analysis/"><u>The Genius of Mobile In-Depth Moto Z2 Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208863446-thyroid-lymphoma-while-uncommon-can-be-more-prevalent-in-individuals-with-a-history-of-autoimmune-thyroiditis-like-hashimotos-disease/"><u>Thyroid Lymphoma, While Uncommon, Can Be More Prevalent in Individuals with a History of Autoimmune Thyroiditis Like Hashimoto's Disease.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-childrens-headphones-professional-recommendations-techradar/"><u>Top-Rated Children's Headphones : Professional Recommendations | TechRadar</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-a-non-responsive-logitech-keyboard-under-windows-11-what-to-do/"><u>Trouble with a Non-Responsive Logitech Keyboard Under Windows 11: What to Do?</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-corrupted-files-on-a-windows-11-operating-system/"><u>Troubleshooting and Fixing Corrupted Files on a Windows 11 Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-high-wudfhostexe-cpu-consumption-on-windows-10-pcs/"><u>Troubleshooting and Fixing High wudfhost.exe CPU Consumption on Windows 10 PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-touchscreen-issues-5-effective-solutions/"><u>Troubleshooting Windows 11 Touchscreen Issues - 5 Effective Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagrams-latest-features-reels-and-stories/"><u>[New] Mastering Instagram’s Latest Features Reels & Stories</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-cut-to-perfection-editing-video-duration-on-youtube/"><u>[Updated] 2024 Approved Cut to Perfection Editing Video Duration on YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-download-smartly-secure-and-convert-vimeo-hd-videos-to-mp4/"><u>[Updated] 2024 Approved Download Smartly Secure and Convert Vimeo HD Videos to MP4</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-android-sd/"><u>无敲碰地，从 Windows 和 Android 手机上重置 SD 卡 - 全程指南</u></a></li>
+<li><a href="https://common-error.techidaily.com/baffled-by-sd-detecting-errors-fixes-include/"><u>Baffled by SD Detecting Errors? Fixes Include</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-se-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone SE</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/como-activar-el-funcionalidad-de-backup-por-eventos-determinados-una-guia-completa-sobre-la-optimizacion-del-proceso-de-respaldo/"><u>Cómo Activar El Funcionalidad De Backup Por Eventos Determinados: Una Guía Completa Sobre La Optimización Del Proceso De Respaldo</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnose-and-repair-pc-held-up-during-windows-boot-process-expert-advice/"><u>Diagnose and Repair PC Held Up During Windows Boot Process: Expert Advice</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-5-240w-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 5 (240W) in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-creating-d3d-device-error-with-effective-techniques/"><u>How to Fix Creating D3D Device Error with Effective Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-tackle-and-fix-error-code-0x8024200d-in-windows-update-systems/"><u>How to Successfully Tackle and Fix Error Code 0X8024200d in Windows Update Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-nokia-105-classic-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Nokia 105 Classic? Fixed | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/integrating-obs-for-youtube-and-twitch-streaming-for-2024/"><u>Integrating OBS for YouTube & Twitch Streaming for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-freezing-pc-with-these-proven-tips-and-tricks/"><u>Revive Your Freezing PC with These Proven Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-functionality-to-stuck-keys-on-pc-keyboards-for-windows-users/"><u>Step-by-Step Guide: Restoring Functionality to Stuck Keys on PC Keyboards for Windows Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-holy-stone-remote-control-cars-perfect-for-kids-and-families/"><u>The Ultimate Guide to Holy Stone Remote Control Cars - Perfect for Kids and Families</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-failed-attempts-at-opening-the-steam-store-online-shop/"><u>Troubleshooting Failed Attempts at Opening the Steam Store Online Shop</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tactics-for-overcoming-net-framework-eb-35-installation-error-code-0x800f081f/"><u>Troubleshooting Tactics for Overcoming .NET Framework Eb 3.5 Installation Error Code 0X800F081F</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-broken-usb-connectivity-on-your-hp-laptop-fixed/"><u>Troubleshooting the Broken USB Connectivity on Your HP Laptop (FIXED)</u></a></li>
 </ul></div>
 

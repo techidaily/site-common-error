@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving No-Response Problems with Your DHCP Server
-date: 2024-12-08T22:56:54.747Z
-updated: 2024-12-10T20:51:29.220Z
+date: 2024-12-12T22:51:24.974Z
+updated: 2024-12-16T21:02:04.424Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Cause of USB Mouse Not Working
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 * **Inappropriate surface**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
  If you’re sure it’s caused by hardware damage, it’s time for a total replacement, rather than having them repaired, given their relatively low prices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Replug your USB cable or USB reciever
 
  If you’re using a wired mouse or a wireless USB mouse, when it’s not working, the first thing you can do is to check if your mouse is connected correctly to your laptop. You can try to plug your USB cable or USB receiver into the same USB port or a different one to check if it works.
@@ -69,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8efba92bc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8f0a4ba40.png)
@@ -79,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 3) Plug your USB cable or USB receiver into the USB port correctly.
 
 4) Try to use your mouse to see if works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Restart your laptop
 
@@ -112,11 +104,19 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Driver-Easy-Scan-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your flagged mouse driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Update-all-drivers-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -143,22 +143,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-movavis-latest-video-edition-a-comprehensive-review/"><u>[New] In 2024, Movavi’s Latest Video Edition A Comprehensive Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-pros-picks-the-5-ultimate-gaming-stream-cams-uncovered/"><u>[New] Pro's Picks The 5 Ultimate Gaming Stream Cams Uncovered</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-computer-restarts-when-playing-games/"><u>[SOLVED] Computer Restarts When Playing Games</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-boost-engagement-through-anime-style-subscribe-buttons-filmora-tutorial-for-2024/"><u>[Updated] Boost Engagement Through Anime-Style Subscribe Buttons (Filmora Tutorial) for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-rush-release-channeling-playlist-hits-online-for-2024/"><u>[Updated] Rush Release Channeling Playlist Hits Online for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-infographics-spotlight-on-future-social-trends/"><u>2024 Approved Infographics Spotlight on Future Social Trends</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/best-non-itunes-solutions-for-seamlessly-managing-your-ios-devices-music-library/"><u>Best Non-iTunes Solutions for Seamlessly Managing Your iOS Device's Music Library</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212302588-fix-your-bluetooth-troubles-visible-now-in-device-manager/"><u>Fix Your Bluetooth Troubles: Visible Now in Device Manager!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-fix-the-livekernelevent-error-code/"><u>How to Troubleshoot and Fix the LiveKernelEvent Error (Code</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-troubles-learn-how-to-perform-a-quick-reset/"><u>Keyboard Troubles? Learn How to Perform a Quick Reset!</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-fixes-for-easier-handling-of-steam-write-errors/"><u>Mastering Fixes for Easier Handling of Steam Write Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/productivity-soared-the-finest-8-ai-enabled-chrome-extensions/"><u>Productivity Soared: The Finest 8 AI-Enabled Chrome Extensions</u></a></li>
-<li><a href="https://common-error.techidaily.com/say-goodbye-to-delayed-fortnite-starts/"><u>Say Goodbye to Delayed Fortnite Starts</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/step-by-step-guide-finding-and-managing-your-pcs-network-settings-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Finding and Managing Your PC's Network Settings via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-triumph-sound-issues-in-acer-notebooks-demystified/"><u>Troubleshoot and Triumph: Sound Issues in Acer Notebooks Demystified</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-getting-your-playstation-microphone-back-online/"><u>Troubleshooting Tips: Getting Your PlayStation Microphone Back Online</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-pursuit-for-full-viewable-content-from-friends-on-direct-chat-platforms/"><u>[New] Pursuit for Full Viewable Content From Friends on Direct Chat Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-smart-way-to-enhance-your-youtube-presence-legally-for-2024/"><u>[New] The Smart Way to Enhance Your YouTube Presence Legally for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elite-watchlist-top-10-advanced-video-capture-programs/"><u>[Updated] Elite Watchlist Top 10 Advanced Video Capture Programs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensively-reviewed-androids-lightroom-features-and-functions-for-2024/"><u>Comprehensively Reviewed Android’s Lightroom Features & Functions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-reactivating-your-devices-deactivated-wireless-network-functions/"><u>Expert Advice on Reactivating Your Device's Deactivated Wireless Network Functions</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-correcting-corrupted-system-image-failures-on-win11-and-win10/"><u>Expert Tips for Correcting Corrupted System Image Failures on Win11 and Win10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-update-error-code-0xc1900208-step-by-step-guide/"><u>How to Fix Windows 11 Update Error Code 0xC1900208 - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-eclectic-videoland-rating/"><u>In 2024, Eclectic Videoland Rating</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-xiaomi-13t-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Xiaomi 13T Android SIM Unlock APK</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-windows-doesnt-recognize-your-wd-my-passport-ultra/"><u>Troubleshooting Guide: Why Windows Doesn't Recognize Your WD My Passport Ultra</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tip-successfully-handling-error-set-user-settings-to-driver-failed/"><u>Troubleshooting Tip: Successfully Handling 'Error: Set User Settings to Driver Failed'</u></a></li>
 </ul></div>
 

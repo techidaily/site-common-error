@@ -1,7 +1,7 @@
 ---
 title: How To Restore and Recover Missing Options in Your GeForce Setup
-date: 2024-08-22T19:19:44.402Z
-updated: 2024-08-23T19:19:44.402Z
+date: 2024-12-14T19:40:00.561Z
+updated: 2024-12-16T21:47:41.571Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/702839098e6b38fca5d2a80178622bdd12571904a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6b16cc14d49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) After updating the driver, check to see if the problem is resolved.
 
 ## Solution 2: Check for the Bluetooth Support service
@@ -73,11 +77,12 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6b09187d0ad.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Check to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 3: Run Windows Troubleshooter
 
  To fix the problem, you can try to run Windows Hardware and Sound troubleshooter. Follow the steps below to run the troubleshooter.
@@ -86,38 +91,34 @@ Follow these steps:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  2) Click the View by**Large icons** and click**Troubleshooting** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6b13947d6e8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Hardware and Sound** . (If you’re on Windows 11, you should click**Other troubleshooters** , then click on the**Run** button next to Bluetooth. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6b13dff2ed3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Scroll down and click**Bluetooth** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6b141aeef9b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Click**Next** then the Troubleshooting will start.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6b145b76961.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) After the troubleshooting is completed, check to see if the problem is resolved.
 
  Hope the methods here help you solve the Bluetooth issues. If you have any questions or ideas, please leave your comments below. We’d love to hear of any ideas and suggestions.
@@ -131,8 +132,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +139,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-guide-to-youtube-short-video-insights-for-2024/"><u>[New] The Ultimate Guide to YouTube Short Video Insights for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-secure-connection-failed-on-firefox/"><u>[Solved] Secure Connection Failed on Firefox</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-combine-power-tweeting-and-snapping-with-snapchat/"><u>[Updated] 2024 Approved Combine Power Tweeting and Snapping with Snapchat</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleashing-the-potential-of-srt-files-in-real-time-social-networking-for-2024/"><u>[Updated] Unleashing the Potential of SRT Files in Real-Time Social Networking for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ace-your-pc-experience-tackling-slow-shutdown-in-windows-10/"><u>Ace Your PC Experience: Tackling Slow Shutdown in Windows 10</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/avoid-snappy-disappointments-streaking-wisdom/"><u>Avoid Snappy Disappointments Streaking Wisdom</u></a></li>
+<li><a href="https://article-files.techidaily.com/clearing-up-tips-for-preventing-gopro-haze/"><u>Clearing Up Tips for Preventing GoPro Haze</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevch265-files-on-motorola-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Motorola ?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-address-and-fix-error-0x800705b4-in-your-windows-10-system-update/"><u>How to Successfully Address and Fix Error 0X800705b4 in Your Windows 10 System Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/mac-and-windows-keyboard-troubleshoot-reactivating-the-missing-backlight-feature/"><u>Mac & Windows Keyboard Troubleshoot: Reactivating the Missing Backlight Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/mended-defect-keyboard-type-lag-issue/"><u>Mended Defect: Keyboard Type Lag Issue</u></a></li>
+<li><a href="https://fox-links.techidaily.com/no-money-no-problem-heres-your-list-of-vfx-pages-for-2024/"><u>No Money, No Problem! Here's Your List of VFX Pages for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-fortnite-performance-with-non-supported-pc-graphics-drivers/"><u>Optimizing Fortnite Performance with Non-Supported PC Graphics Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-connection-how-to-access-one-phone-number-from-different-electronic-devices/"><u>Seamless Connection: How to Access One Phone Number From Different Electronic Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-overwatch-voice-chat-glitches-with-simple-solutions/"><u>Troubleshoot Your Overwatch Voice Chat Glitches with Simple Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 11 | Dr.fone</u></a></li>
+</ul></div>
 

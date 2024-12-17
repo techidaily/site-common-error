@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue When Your Lenovo Keyboard Fails to Respond
-date: 2024-12-05T17:36:39.935Z
-updated: 2024-12-10T16:48:21.499Z
+date: 2024-12-09T22:38:03.739Z
+updated: 2024-12-17T01:56:24.709Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -36,6 +36,10 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
 
@@ -50,7 +54,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
@@ -61,7 +65,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
@@ -81,15 +85,11 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
 
@@ -110,22 +110,18 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-pricepoint-nimbus-economical-mass-storage-haven/"><u>[New] 2024 Approved PricePoint Nimbus - Economical Mass Storage Haven</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nveiling-transparent-video-on-youtube-for-2024/"><u>[New] Unveiling Transparent Video on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-essential-techniques-for-downloading-fb-stories-desktop-and-mobile/"><u>[Updated] In 2024, Essential Techniques for Downloading FB Stories (Desktop & Mobile)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-prevent-freezing-of-streamed-videos-in-chrome/"><u>[Updated] In 2024, Prevent Freezing of Streamed Videos in Chrome</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-profile-pictures-download-for-free-for-2024/"><u>[Updated] Profile Pictures - Download for FREE for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-comprehensive-list-of-instagram-tracking-tools-for-better-decisions/"><u>2024 Approved The Comprehensive List of Instagram Tracking Tools for Better Decisions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/beware-the-risk-in-fake-followers-on-youtube-for-2024/"><u>Beware The Risk in Fake Followers on YouTube for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/custom-settings-reactivated-overcame-non-responsive-error/"><u>Custom Settings Reactivated – Overcame Non-Responsive Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-slow-download-problem-in-league-of-legends-once-and-for-all/"><u>Fixing the Slow Download Problem in League of Legends Once and For All</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-failed-update-on-your-windows-amoled-version-1803-explained/"><u>How to Fix a Failed Update on Your Windows Amoled - Version 1803 Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-troublesome-windows-photo-capture-issue-error-code-0xa00f4292-explained/"><u>How to Fix the Troublesome Windows Photo Capture Issue: Error Code 0xA00F4292 Explained</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sharpening-zoom-visuals-immediate-upgrades/"><u>In 2024, Sharpening Zoom Visuals Immediate Upgrades</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-10-cannot-be-installed-error-80240020-step-by-step-solutions/"><u>Resolving Windows 10 Cannot Be Installed: Error 80240020 – Step-by-Step Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-resolve-error-code-0x800f0831-via-windows-updates/"><u>Simple Solutions: Resolve Error Code 0X800f0831 via Windows Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-a-bluetooth-keyboard-that-refuses-to-sync-with-your-personal-computer/"><u>Step-by-Step Solutions for a Bluetooth Keyboard That Refuses to Sync with Your Personal Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-a-down-dns-server-in-just-four-steps/"><u>Troubleshooting and Repairing a Down DNS Server in Just Four Steps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-integrated-systems-approach-for-film-recording-on-diverse-computers/"><u>[New] 2024 Approved Integrated Systems Approach for Film Recording on Diverse Computers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-8-engaging-exercise-routines-for-active-viewership/"><u>[New] 8 Engaging Exercise Routines for Active Viewership</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-list-dj-video-sources-at-your-fingertips/"><u>Curated List DJ Video Sources at Your Fingertips</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-common-wacom-tablet-issues/"><u>Expert Tips for Overcoming Common Wacom Tablet Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-rpc-server-not-responding-error-for-a-smooth-windows-experience/"><u>Fixing the 'RPC Server Not Responding' Error for a Smooth Windows Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-picture-to-motion-transformation-with-music-elements/"><u>In 2024, Picture-to-Motion Transformation with Music Elements</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-the-windows-update-error-0x8024402c-with-ease-detailed-solutions-inside/"><u>Overcome the Windows Update Error (0X8024402c) with Ease - Detailed Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-incompatibility-a-guide-for-making-your-devices-driver-compatible-in-wow/"><u>Overcoming Incompatibility: A Guide for Making Your Device's Driver Compatible in WoW</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/quelles-etapes-suivre-si-vous-rencontrez-des-difficultes-a-ouvrir-un-document-pdf/"><u>Quelles Étapes Suivre Si Vous Rencontrez Des Difficultés À Ouvrir Un Document PDF ?</u></a></li>
+<li><a href="https://common-error.techidaily.com/see-event-june-17-1940-the-dow-jones-industrial-average-hits-a-peak-of-18256-before-the-united-states-enters-world-war-ii-relating-to-equities-as-it-exempli21/"><u>See Event [June 17, 1940]: The Dow Jones Industrial Average Hits a Peak of 182.56 Before the United States Enters World War II, Relating to 'Equities' As It Exemplifies a High Valuation Period Prior to Significant Economic Upheaval.</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-correcting-power-state-errors-in-windows-drivers/"><u>Step-by-Step Tutorial: Correcting Power State Errors in Windows Drivers</u></a></li>
 </ul></div>
 

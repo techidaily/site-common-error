@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Nonfunctional Corsair HS50 Mic for Optimal Sound Quality
-date: 2024-11-28T00:42:54.593Z
-updated: 2024-12-03T21:58:35.385Z
+date: 2024-12-16T00:37:23.749Z
+updated: 2024-12-16T21:15:29.136Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -42,7 +38,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)  
@@ -60,13 +56,13 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
@@ -85,6 +81,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -94,7 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -119,17 +119,20 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expressive-sketches-for-fortnite-icons/"><u>[New] In 2024, Expressive Sketches for Fortnite Icons</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-premier-iphone-watermark-apps-reviewed/"><u>[New] In 2024, Premier iPhone Watermark Apps Reviewed</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-transforming-your-media-expertise-in-itunes-recordings/"><u>[Updated] In 2024, Transforming Your Media Expertise in iTunes Recordings</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207770097-effortless-methods-to-revive-charging-on-your-laptop-battery/"><u>Effortless Methods to Revive Charging on Your Laptop Battery</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x8024002e-explained-a-comprehensive-guide-to-successfully-update-windows-without-issues/"><u>Error 0X8024002E Explained: A Comprehensive Guide to Successfully Update Windows Without Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-when-your-app-wont-launch-resolving-application-failed-to-initialize-properly-error-code-0xc000007b/"><u>How to Fix the Error When Your App Won't Launch: Resolving 'Application Failed to Initialize Properly (Error Code 0xC000007B)'</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-directx-initialization-troubleshooting-tips-for-a-smooth-launch/"><u>Mastering DirectX Initialization: Troubleshooting Tips for a Smooth Launch</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solution-methods-to-maintain-adequate-humidity-include-using-wet-coverings-plastic-sheeting-or-mist-sprayers-these-techniques-help-retain-moisture-around-th159/"><u>Solution: Methods to Maintain Adequate Humidity Include Using Wet Coverings, Plastic Sheeting, or Mist Sprayers. These Techniques Help Retain Moisture Around the Concrete and Prevent Premature Drying that Can Weaken Its Structure</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/solutionner-lechec-du-demarrage-sous-windows-11-5-conseils-rapides-et-facilement-appliquables/"><u>Solutionner L'Échec Du Démarrage Sous Windows 11 : 5 Conseils Rapides Et Facilement Appliquables</u></a></li>
-<li><a href="https://article-tips.techidaily.com/ultimate-unseen-ui-techniques-for-newcomers-for-2024/"><u>Ultimate Unseen UI Techniques for Newcomers for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unlocking-seamless-ocean-footage-with-these-7-hacks/"><u>Unlocking Seamless Ocean Footage with These 7 Hacks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-exclusive-guide-save-high-res-fb-video/"><u>[New] Exclusive Guide Save High-Res FB Video</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-microcapture-screen-capture-tool-analysis/"><u>[Updated] 2024 Approved MicroCapture Screen Capture Tool Analysis</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/best-20-reviews-of-iphone-data-retrieval-apps-for-windows-users/"><u>Best 20 Reviews of iPhone Data Retrieval Apps for Windows Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevating-your-vlogs-with-high-quality-editing-premiere-pro-style/"><u>Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-astro-a40-microphone-issues-proven-solutions/"><u>Fixing Your Astro A40 Microphone Issues: Proven Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-problem-of-windows-update-not-finding-new-updates-fixed/"><u>How to Overcome the Problem of Windows Update Not Finding New Updates [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-10-synaptics-touchpad-unresponsive-scrolling/"><u>How to Resolve Windows 10 Synaptics Touchpad Unresponsive Scrolling</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max with IMEI Code?</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-mouse-wheel-for-pc-gains/"><u>Optimize Mouse Wheel for PC Gains</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-lenovos-unresponsive-keys-how-to-fix-a-non-functioning-keyboard/"><u>Revive Your Lenovo's Unresponsive Keys: How to Fix a Non-Functioning Keyboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-audio-glitch-win11s-error-0xc00d36b4/"><u>Solving Audio Glitch: Win11's Error 0XC00D36B4</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-get-your-wacom-device-back-online-after-malfunction/"><u>Steps to Get Your Wacom Device Back Online After Malfunction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-demise-of-chatgpt-jailbreaking-analyzing-why-these-methods-are-failing-the-7-reasons-behind-them/"><u>The Demise of ChatGPT Jailbreaking: Analyzing Why These Methods Are Failing - The 7 Reasons Behind Them</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-metaverse-multiverse-dichotomy-explained-for-2024/"><u>The Metaverse-Multiverse Dichotomy Explained for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-pauses-in-windows-11-systems/"><u>Unexpected Pauses in Windows 11 Systems</u></a></li>
 </ul></div>
 

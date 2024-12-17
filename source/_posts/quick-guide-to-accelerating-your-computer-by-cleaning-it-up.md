@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Accelerating Your Computer by Cleaning It Up
-date: 2024-08-15T11:10:35.911Z
-updated: 2024-08-16T11:10:35.911Z
+date: 2024-12-13T16:39:47.615Z
+updated: 2024-12-16T16:38:38.298Z
 tags:
   - win11
   - win10
@@ -38,16 +38,16 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Try turning on your computer again.
 
  If your computer boots correctly, that means that one of the peripherals you removed is causing your problem. You should **reinstall each device** back into your computer and test them each time. Then, you’ll find the specific device that causes your problem. Replace the device once you’ve identified it. Or, consult the manufacturer of the device for assistance.
 
 If your computer still can’t boot correctly, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Solution 2: Check the RAM
 
  Your computer might be unresponsive during the startup process when your RAMs are not well installed, or in some cases, one or more of your RAM modules or RAM slots is faulty.
@@ -63,11 +63,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
@@ -90,9 +85,9 @@ The powerful video editing program for your Windows PC</a>
 The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
@@ -111,12 +106,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-11-44.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Open System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
@@ -126,9 +122,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you don’t have a restore point in System Restore, move on and try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 5: Repair Corrupted System Files
 
  Computer boot issues are likely to occur when certain system files get corrupted somehow. To see if there’s any broken or missing system files, there are two tool you can use：
@@ -153,8 +146,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If there’s any problem, you can click Start Repair to start the repair process. You’d need to buy the pro version (which comes with a 60-day Money-Back Guarantee) to unlock this feature.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -166,20 +160,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 6: Perform a Fresh Install
 
  If none of the solutions works for you, you may have to[**do a clean reinstallation of Windows 10**](https://tools.techidaily.com/drivereasy/download/) . Note that this will wipe all files and data that you’ve stored on the computer.
@@ -192,8 +188,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +195,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-instagram-presence-vimeo-videos-included/"><u>[New] Enhancing Instagram Presence Vimeo Videos Included</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-crafting-artistry-your-ultimate-companion-for-boomerangs/"><u>[New] In 2024, Crafting Artistry Your Ultimate Companion for Boomerangs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlocking-youtube-top-rated-pc-and-mobile-video-extractors-for-2024/"><u>[New] Unlocking YouTube Top-Rated PC & Mobile Video Extractors for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-harnessing-the-power-of-zooms-video-filter-options/"><u>[Updated] Harnessing the Power of Zoom's Video Filter Options</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-live-stream-to-youtube-with-obs-step-by-step-guide-for-beginners/"><u>[Updated] In 2024, Live Stream to Youtube with OBS Step by Step Guide for Beginners</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieve-peaceful-nights-with-expert-recommended-asmr/"><u>Achieve Peaceful Nights with Expert-Recommended ASMR</u></a></li>
+<li><a href="https://common-error.techidaily.com/binkw32dll-is-unavailable-discover-simple-fixes-for-common-dll-errors/"><u>Binkw32.Dll Is Unavailable? Discover Simple Fixes for Common DLL Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-techniques-for-malfunctioning-usb-jacks-get-started-now/"><u>DIY Repair Techniques for Malfunctioning USB Jacks – Get Started Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-for-eliminating-unwanted-typos-during-typing/"><u>Effective Strategies for Eliminating Unwanted Typos During Typing</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-narzo-n55-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme Narzo N55 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-taking-it-upward-panning-high-with-your-phone/"><u>In 2024, Taking It Upward Panning High with Your Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-typing-problems-on-pc-fixes-for-windows-1078-users/"><u>Keyboard Typing Problems on PC? Fixes for Windows 10/7/8 Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-editing-software-the-best-options-without-watermarks/"><u>New Free Video Editing Software The Best Options Without Watermarks</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-failure-in-windows-updates-a-complete-guide-to-fixes/"><u>Overcoming Failure in Windows Updates: A Complete Guide to Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fixers-handbook-how-to-swiftly-address-and-repair-0xc000012f-fault-on-your-computer/"><u>The Ultimate Fixer's Handbook: How to Swiftly Address and Repair 0xC000012F Fault on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fix-for-cannot-start-hardware-device-error-code-19-on-dvdcd-roms-in-windows-10-systems/"><u>Troubleshooting Fix for 'Cannot Start Hardware Device' Error (Code 19) on DVD/CD-ROMs in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-resolving-user-profile-service-sign-in-failure-in-windows-10-and-11/"><u>Troubleshooting Steps for Resolving 'User Profile Service' Sign-In Failure in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211763929-why-isnt-my-hdmi-converter-working-with-usb-solutions-inside/"><u>Why Isn't My HDMI Converter Working with USB? Solutions Inside!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/windows-11-gamers-guide-to-excellent-game-capturing/"><u>Windows 11 Gamers' Guide to Excellent Game Capturing</u></a></li>
+</ul></div>
 

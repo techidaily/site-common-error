@@ -1,7 +1,7 @@
 ---
 title: "Quick-Fix Guide: Stop Counter Strike Go From Crashing Now"
-date: 2024-11-29T16:39:30.476Z
-updated: 2024-12-04T04:54:04.689Z
+date: 2024-12-11T22:33:09.526Z
+updated: 2024-12-17T01:18:16.861Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d6801
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -53,6 +57,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -72,7 +80,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -99,19 +107,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -121,10 +121,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -138,17 +134,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,24 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-digital-training-footage-for-2024/"><u>[New] Digital Training Footage for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/avigating-the-nuances-of-gamers-channel-templates-for-2024/"><u>[New] Navigating the Nuances of Gamers' Channel Templates for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-premier-capturing-device-for-exceptional-youtube-productions/"><u>[Updated] In 2024, Premier Capturing Device for Exceptional YouTube Productions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-therapeutic-effects-of-asmr-for-everyone/"><u>[Updated] The Therapeutic Effects of ASMR for Everyone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/connect-directly-your-guide-to-contacting-us/"><u>Connect Directly: Your Guide to Contacting Us</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-excellence-the-huawei-mediapad-m5-review-where-visuals-meet-acoustics/"><u>Discovering Excellence: The Huawei MediaPad M5 Review - Where Visuals Meet Acoustics</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discovering-the-default-storage-of-itunes-backups-for-ios-devices-and-tweaking-settings-on-a-computer/"><u>Discovering the Default Storage of iTunes Backups for iOS Devices & Tweaking Settings on a Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-ways-to-restore-your-dvdcd-rom-hardware-device-on-windows-11-understanding-and-fixing-configuration-error-code-19/"><u>Effective Ways to Restore Your DVD/CD-ROM Hardware Device on Windows 11: Understanding and Fixing Configuration Error (Code 19)</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-on-overcoming-loadlibrary-failed-error-code-n-87-parameter-corrections-made-simple/"><u>Expert Tips on Overcoming 'LoadLibrary Failed - Error Code N 87': Parameter Corrections Made Simple</u></a></li>
-<li><a href="https://common-error.techidaily.com/exploring-winre-sfc-and-dism-tools-for-effective-windows-11-system-restoration/"><u>Exploring WinRE, SFC & DISM Tools for Effective Windows 11 System Restoration</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-non-functional-mic-issues-in-windows-10/"><u>Fixes for Non-Functional Mic Issues in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208158927-steam-update-woes-heres-how-you-can-ensure-successful-downloads/"><u>Steam Update Woes? Here's How You Can Ensure Successful Downloads!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-for-gpu-fan-revival/"><u>Techniques for GPU Fan Revival</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ins-and-outs-of-podcasting-with-powerpoint/"><u>The Ins and Outs of Podcasting with PowerPoint</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-invisible-cursors-on-windows-11-a-comprehensive-guide/"><u>Troubleshooting Invisible Cursors on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-1011-when-no-audio-output-device-is-detected/"><u>Troubleshooting Windows 10/11 When No Audio Output Device Is Detected</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstick-valorant-from-its-constant-loading-screens-a-step-by-step-guide/"><u>Unstick Valorant From Its Constant Loading Screens - A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/wacom-cintiq-driver-download-and-update-easily/"><u>Wacom Cintiq Driver Download & Update Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-strategies-for-handling-pc-reset-errors-on-windows-10-systems/"><u>Winning Strategies for Handling PC Reset Errors on Windows 10 Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easy-paths-to-profitable-youtube-business-channels-top-10-list/"><u>[New] 2024 Approved Easy Paths to Profitable YouTube Business Channels, Top 10 List</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-a-vloggers-dream-exploring-the-best-12-video-capture-devices-for-2024/"><u>[Updated] A Vlogger's Dream Exploring the Best 12 Video Capture Devices for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-note-12-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi Note 12 Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effective-techniques-to-amplify-audio-in-your-videos/"><u>Effective Techniques to Amplify Audio in Your Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-red-dead-redemption-2-memory-issues-by-adjusting-virtual-memory-settings/"><u>Fixing 'Red Dead Redemption 2' Memory Issues by Adjusting Virtual Memory Settings</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-hardware-communication-faults-fixing-io-device-mistakes/"><u>How to Address Hardware Communication Faults: Fixing I/O Device Mistakes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-diagnose-and-repair-the-blue-screen-error-0xc00000e9-in-windows/"><u>How to Diagnose and Repair the Blue Screen Error (0XC00000E9) in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-network-lag-detected-mishap-in-pubg-for-seamless-gaming/"><u>How to Overcome the 'Network Lag Detected' Mishap in PUBG for Seamless Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-game-away-your-worries-the-coolest-titles/"><u>In 2024, Game Away Your Worries The Coolest Titles</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-unresponsive-to-windows-commands/"><u>Mouse Unresponsive to Windows Commands</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-mysterious-usb-malfunction-descriptor-request-error-fix/"><u>Resolved: Mysterious USB Malfunction - Descriptor Request Error Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-slow-boot-problems-on-windows-7-systems/"><u>Resolving Slow Boot Problems on Windows 7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-apex-legends-simple-cheat-protection-issue-step-by-step-guide/"><u>Solving Apex Legends' Simple Cheat Protection Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-your-creative-process-with-vsco-app-for-2024/"><u>Streamlining Your Creative Process with VSCO App for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-enhancing-your-soundscape-by-pairing-a-subwoofer-to-your-samsung-bar-speaker/"><u>The Ultimate Guide: Enhancing Your Soundscape by Pairing A Subwoofer to Your Samsung Bar Speaker</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-get-your-non-playable-dvd-running-in-windows/"><u>Troubleshooting Steps to Get Your Non-Playable DVD Running in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-hp-accelerometer-error-on-your-pc-running-windows/"><u>Troubleshooting the HP Accelerometer Error on Your PC Running Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-cutting-down-high-gpu-usage-from-desktop-window-manager-in-windows-11/"><u>Ultimate Guide: Cutting Down High GPU Usage From Desktop Window Manager in Windows 11</u></a></li>
 </ul></div>
 

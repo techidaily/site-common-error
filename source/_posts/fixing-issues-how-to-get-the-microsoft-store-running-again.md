@@ -1,7 +1,7 @@
 ---
 title: Fixing Issues - How To Get The Microsoft Store Running Again
-date: 2024-12-06T17:46:23.563Z
-updated: 2024-12-10T20:11:53.812Z
+date: 2024-12-09T21:05:01.105Z
+updated: 2024-12-16T18:19:49.865Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/d0ad1a80b811183ca46ae79924e7000317315a162
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 fixes for **Skype mic is not working**
@@ -48,15 +48,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21c099eec3.jpg)
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
 3. Scroll down to**Choose which apps can access your microphone** and make sure the toggle for Skype is**On** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276d2d207f.jpg)
 4. Check the mic on Skype and see if it works properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -68,12 +72,12 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf275aa63d91.png)
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -96,6 +100,10 @@ Here’s how:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Tweak your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -106,30 +114,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf2868dc7336.jpg)
 2. Click the **Recording**   tab, then click on **your microphone device**   and click **Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286af0375c.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
 5. Click **OK**   to apply the changes in the windows.
 6. Now that with microphone set as default device and the volume turned up, test in Skype to see if your buddy on the other end of Skype can hear you.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Skype
 
@@ -157,22 +157,14 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-blending-beats-posting-tunes-on-digital-diaries-for-2024/"><u>[New] Blending Beats Posting Tunes on Digital Diaries for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-tips-record-powerpoint-live-with-webcam-for-2024/"><u>[New] Essential Tips Record PowerPoint Live with Webcam for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-free-up-your-time-with-these-5-chrome-plugins-for-fb-video-downloads-for-2024/"><u>[Updated] Free Up Your Time with These 5 Chrome Plugins for FB Video Downloads for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-10-digital-landscape-replacers-for-videos/"><u>[Updated] In 2024, Best 10 Digital Landscape Replacers for Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-stabilizing-shots-best-4k-gimbals-reviewed/"><u>[Updated] Stabilizing Shots Best 4K Gimbals Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-leading-8-gratis-html-creation-software-for-windows-computers/"><u>Discover the Leading 8 Gratis HTML Creation Software for Windows Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-windows-11s-night-light-feature-failure/"><u>Fixing the Issue: Windows 11'S Night Light Feature Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-youtube-sound-back-addressing-and-repairing-audio-renderer-errors-in-windows-1nvite-the-audio-troubleshooting-community-with-expert-tips/"><u>Get Your YouTube Sound Back: Addressing and Repairing Audio Renderer Errors in Windows 1Nvite the Audio Troubleshooting Community with Expert Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p1006-driver-and-utility-downloads-for-smooth-printing-experience/"><u>HP LaserJet P1006 Driver and Utility Downloads for Smooth Printing Experience</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-essential-screenshot-and-recording-tools-for-learning-environments/"><u>In 2024, Essential Screenshot & Recording Tools for Learning Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210615747-nba-2k21s-green-error-solved-expert-tips-inside/"><u>NBA 2K21's Green Error Solved - Expert Tips Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210756908-overcome-the-0x80073712-error-in-windows-10-tips-and-tricks-for-a-smooth-operating-experience/"><u>Overcome the 0X80073712 Error in Windows 10: Tips and Tricks for a Smooth Operating Experience!</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-troubleshooting-unresponsive-usb-external-drives/"><u>Quick Solutions for Troubleshooting Unresponsive USB External Drives</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-power-symbol-disappearance-issue-on-windows-11-a-comprehensive-guide/"><u>Resolving the Power Symbol Disappearance Issue on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-hardware-innovations/"><u>Tom's Tech Reviews: Unveiling the Latest in Hardware Innovations</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-elevation-requests-during-operations-in-windows-11-10-and-7/"><u>Troubleshooting Elevation Requests During Operations in Windows 11, 10 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-overcoming-windows-10-update-error-0x80240034/"><u>Troubleshooting Guide for Overcoming Windows 10 Update Error 0X80240034</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-strategies-for-addressing-code-31-error-messages-in-windows-computers/"><u>Comprehensive Strategies for Addressing 'Code 31' Error Messages in Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-correctly-diagnose-and-solve-error-code-31-on-your-pc/"><u>Effective Strategies to Correctly Diagnose and Solve Error Code 31 on Your PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-airpods-not-connecting-to-windows-1111-2024-tips/"><u>How to Fix AirPods Not Connecting to Windows 11/11 - 2024 Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-save-moments-recording-your-playstation-4-gaming-experience/"><u>How To Save Moments: Recording Your PlayStation 4 Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/mending-pasting-malfunctions-windows-10-edition/"><u>Mending Pasting Malfunctions: Windows 10 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solution-overcoming-can-not-connect-to-projector-windows-troubleshooting/"><u>Quick Solution: Overcoming 'Can Not Connect To Projector' Windows Troubleshooting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-your-pubg-pcs-sound-problem-top-tips-and-fixes/"><u>Troubleshooting Your PUBG PC's Sound Problem – Top Tips & Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Improve Your File Explorer Experience on Windows 11
-date: 2024-11-13T17:09:41.041Z
-updated: 2024-11-15T18:16:36.121Z
+date: 2024-12-15T22:57:00.972Z
+updated: 2024-12-17T01:00:58.059Z
 tags:
   - win11
   - win10
@@ -32,10 +32,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -56,21 +53,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
-3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
+3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
@@ -90,13 +79,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -108,10 +90,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
@@ -121,8 +100,17 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -152,20 +140,20 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-premium-choices-the-very-best-tripods-for-high-definition-shooting-for-2024/"><u>[New] Premium Choices The Very Best Tripods for High Definition Shooting for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-transcription-services-for-video-content/"><u>[New] Top Transcription Services for Video Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-look-at-12-techniques-for-storing-web-based-songs/"><u>2024 Approved In-Depth Look at 12 Techniques for Storing Web-Based Songs</u></a></li>
-<li><a href="https://common-error.techidaily.com/correcting-common-mishaps-encountered-when-updating-your-steam-titles/"><u>Correcting Common Mishaps Encountered When Updating Your Steam Titles</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-strategies-for-fixing-windows-1903-feature-update-complications/"><u>Efficient Strategies for Fixing Windows 1903 Feature Update Complications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elite-ups-battery-backup-options-for-robust-protection-the-definitive-guide-to-2024s-finest/"><u>Elite UPS Battery Backup Options for Robust Protection - The Definitive Guide to 2024’S Finest</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-access-issues-unlocking-the-installation-drive-on-windows-10/"><u>Fixing Access Issues: Unlocking the Installation Drive on Windows 10</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/leagues-of-legends-replayand/"><u>Leagues of Legends Replayセーフティネス&非保存可能際の即戦略</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-msvcrt-dll-not-found-error-a-users-guide-to-quick-remedies/"><u>Overcoming MSVCRT DLL Not Found Error: A User's Guide to Quick Remedies</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-minecraft-slowdown-expert-solutions-for-smooth-gaming/"><u>Resolve Your Minecraft Slowdown: Expert Solutions for Smooth Gaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-non-responsive-fn-keys-effective-solutions-and-tips/"><u>Resolving Non-Responsive Fn Keys - Effective Solutions and Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-engaging-with-chatgpt-on-your-mac-device/"><u>Step-by-Step Tutorial: Engaging with ChatGPT on Your Mac Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211230678-troubleshooting-pubg-building-loading-errors-effective-fixes-inside/"><u>Troubleshooting PUBG Building Loading Errors - Effective Fixes Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlock-the-solution-addressing-entry-point-not-detected-in-windows-environments/"><u>Unlock the Solution: Addressing Entry Point Not Detected in Windows Environments</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-behind-youtube-functionality-failures-possible-causes-and-solutions/"><u>Unraveling the Mystery Behind YouTube Functionality Failures: Possible Causes and Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-eliminating-unsteadiness-from-high-altitude-cinematography/"><u>[New] Eliminating Unsteadiness From High-Altitude Cinematography</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-fusion-feats-mixing-genres-in-the-worlds-most-engaging-tiktoks/"><u>[New] In 2024, Fusion Feats Mixing Genres in the World's Most Engaging TikToks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-8-choices-affordable-open-source-videoconferencing-apps/"><u>2024 Approved Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210243867-error-code-0x80072f8f-on-your-computer-heres-how-you-can-troubleshoot-windows-1110-issues-easily/"><u>Error Code 0X80072F8F on Your Computer? Here's How You Can Troubleshoot Windows 11/10 Issues Easily!</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-0x800f081f-troubleshooting-during-your-net-framework-35-installation-journey/"><u>Error Code 0X800F081F Troubleshooting During Your .NET Framework 3.5 Installation Journey</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a15-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A15 4G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 8 Plus</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-content-effortless-download-of-youtube-video-for-ios/"><u>In 2024, Unleashing Content Effortless Download of Youtube Video for iOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/isomp4-dvd-shrink/"><u>ISOファイルからMP4へ変換： DVD Shrinkがキー！トラブルシューティングガイド</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-compatibility-challenges-microsoft-wireless-screen-mirroring-in-windows-10-fixed/"><u>Overcoming Compatibility Challenges: Microsoft Wireless Screen Mirroring in Windows 10 [Fixed]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pixel-pro-complimentary-photo-beautification-for-smartphones/"><u>Pixel Pro Complimentary Photo Beautification for Smartphones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-online-presence-with-manycam-top-tier-live-video-production-and-virtual-camera-tech/"><u>Transform Online Presence with ManyCam - Top-Tier Live Video Production & Virtual Camera Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-twitchs-error-4000-issue-expert-advice/"><u>Troubleshooting and Repairing Twitch's Error 4000 Issue – Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-error-code-0xc0000098/"><u>Troubleshooting Guide: Resolving Windows Error Code 0xC0000098</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207168446-update-complete-overcoming-the-halt-in-32-bit-applications-printer-connection/"><u>Update Complete: Overcoming the Halt in 32-Bit Application's Printer Connection!</u></a></li>
 </ul></div>
 

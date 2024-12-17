@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Unresponsive USB Slots on an HP Laptop Computer
-date: 2024-08-15T11:13:01.315Z
-updated: 2024-08-16T11:13:01.315Z
+date: 2024-12-10T01:56:50.314Z
+updated: 2024-12-17T00:50:14.107Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -55,18 +52,20 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
@@ -78,20 +77,21 @@ Follow these:
  2) From the left navigation panel, select**Accessibility** , then click**Keyboard** from the right.
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Update your keyboard driver
 
  This problem may be caused by an old, corrupted, or missing keyboard driver. If so, you can solve it by updating the keyboard driver.
@@ -107,15 +107,16 @@ Follow these:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers. Your keyboard driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -127,8 +128,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-fuse-melodies-into-your-youtube-digital-realm/"><u>[New] In 2024, Fuse Melodies Into Your Youtube Digital Realm</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-precision-editing-picarts-techniques-for-background-subtraction-for-2024/"><u>[New] Precision Editing PicArt's Techniques for Background Subtraction for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-the-art-of-alluring-youtube-live-image-creation/"><u>[New] Unlocking the Art of Alluring YouTube Live Image Creation</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-minecraft-lan-not-working/"><u>[SOLVED] Minecraft LAN Not Working</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-infinix-smart-8-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Infinix Smart 8 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-views-top-10-free-tools-for-custom-youtube-thumbnails-for-2024/"><u>Boost Views Top 10 Free Tools for Custom YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-up-fuzzy-display-on-your-windows-11-screen-quick-fixes-inside/"><u>Clear Up Fuzzy Display on Your Windows 11 Screen - Quick Fixes Inside</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-googles-latest-gemini-ai-innovation-exceed-chatgpt-in-performance/"><u>Does Google's Latest Gemini AI Innovation Exceed ChatGPT in Performance?</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-blank-canvas-a-guide-to-overcoming-laptop-white-screens/"><u>Fixing the Blank Canvas: A Guide to Overcoming Laptop White Screens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-turn-off-youtube-video-preview-all-platform-solution/"><u>How to Turn Off YouTube Video Preview? [All Platform Solution]</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-fast-paced-minecraft-by-conquering-game-lags-once-and-for-all/"><u>Master the Art of Fast-Paced Minecraft by Conquering Game Lags Once and for All</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-racing-experience-a-step-by-step-guide-to-upgrade-graphics-driver-for-forza-horizon-5/"><u>Optimize Your Racing Experience: A Step-by-Step Guide to Upgrade Graphics Driver for Forza Horizon 5</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-frustrating-ce-34878-0-problem-in-your-ps4-effective-strategies-revealed/"><u>Overcoming the Frustrating CE-34878-0 Problem in Your PS4 – Effective Strategies Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-repairing-issues-with-windows-store-caching-system/"><u>Resolved: Repairing Issues with Windows Store Caching System</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-aoc-display-problems-on-windows-10-easy-steps-for-users/"><u>Solve AOC Display Problems on Windows 10 - Easy Steps for Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-upgrading-the-epson-wf-7720-printer-driver-in-windows-environment/"><u>Step-by-Step Instructions for Upgrading the Epson WF-7720 Printer Driver in Windows Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211619581-winning-against-windows-update-challenge-solving-error-0x802n02e-successfully/"><u>Winning Against Windows Update Challenge: Solving Error 0X802n02e Successfully</u></a></li>
+</ul></div>
 

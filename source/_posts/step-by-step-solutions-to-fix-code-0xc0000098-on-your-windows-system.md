@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Fix Code 0Xc0000098 on Your Windows System
-date: 2024-11-13T17:45:32.320Z
-updated: 2024-11-15T17:09:52.273Z
+date: 2024-12-12T00:40:49.573Z
+updated: 2024-12-16T19:01:57.752Z
 tags:
   - win11
   - win10
@@ -22,24 +22,25 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## About the error 0xc0000098
 
 > _During the start-up process, the**Boot Configuration Data** (BCD) is very essential to provide required information to load the operating system. If the Boot Configuration Data is missing or corrupted, Windows won’t be able to load operating system and gives you the error**0xc0000098** ._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098-windows-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  _Error Code**0xc0000098**_  o_n Windows 7, Vista_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098.jpg)
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -66,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Download the installation media and save it on your computer.
 
 3) Double-click the Media Creation Tool to launch the tool.
@@ -82,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
@@ -106,10 +97,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
@@ -177,10 +165,7 @@ chkdsk C: /f /r /x
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: System File Checker
@@ -205,24 +190,19 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
 
@@ -308,24 +288,21 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-contrast-and-depth-in-hdr-portraits/"><u>[New] Crafting Contrast and Depth in HDR Portraits</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-streamlining-content-delivery-on-discord-platform-for-2024/"><u>[New] Streamlining Content Delivery on Discord Platform for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-essential-tags-for-tiktok-fame-and-viral-potential/"><u>[Updated] Essential Tags for TikTok Fame and Viral Potential</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-learn-to-speed-up-videos-on-snapchat/"><u>2024 Approved Quick Learn to Speed Up Videos on Snapchat</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209575556-bluetooth-mouse-troubles-restore-functionality-for-windows-users-now/"><u>Bluetooth Mouse Troubles? Restore Functionality for Windows Users Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-windows-werfaultexe-program-failure-with-these-6-steps/"><u>Bypass Windows werFault.exe Program Failure with These 6 Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-to-restore-bluetooth-detection-functionality-in-windows-11/"><u>Effective Solutions to Restore Bluetooth Detection Functionality in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-a-stuck-dns-a-step-by-step-approach-with-5-proven-solutions/"><u>Fix a Stuck DNS: A Step-by-Step Approach with 5 Proven Solutions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/from-amateur-to-expert-iphones-audio-recording-journey/"><u>From Amateur to Expert IPhone's Audio Recording Journey</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-f14-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy F14 5G Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-easy-anti-cheat-setup-problem-in-the-new-world-update/"><u>How to Overcome the Easy Anti-Cheat Setup Problem in the New World Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-recover-from-a-missing-openal32dll-file-effective-fixes-and-tips/"><u>How to Recover From a Missing openal32.dll File - Effective Fixes & Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-overcoming-windows-update-mishap-resolving-error-code-0x80240017/"><u>Successfully Overcoming Windows Update Mishap: Resolving Error Code 0X80240017</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-wifi-signal-boosters-in-2/"><u>Top Rated WiFi Signal Boosters in 2</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-non-functional-usb-mouse-and-keyboard-on-windows-7/"><u>Troubleshooting: Resolving Non-Functional USB Mouse & Keyboard on Windows 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/usb-to-hdmi-transmitter-issues-resolved-how-to-get-them-up-and-running/"><u>USB to HDMI Transmitter Issues Resolved - How to Get Them Up and Running</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mute-instagrams-personalized-posts/"><u>[New] In 2024, Mute Instagram's Personalized Posts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tackling-inaudible-portions-in-partially-muted-fb-media/"><u>[New] Tackling Inaudible Portions in Partially Muted FB Media</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transforming-igtv-with-multi-language-captioning-for-2024/"><u>[New] Transforming IGTV with Multi-Language Captioning for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-rapid-windows-document-examination/"><u>[Updated] Mastering Rapid Windows Document Examination</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-mukbang-mastery-from-novice-to-pro-video-creator/"><u>2024 Approved Mukbang Mastery From Novice to Pro Video Creator</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-and-repairing-undetected-device-errors-via-bluetooth-on-windows-11-platforms/"><u>Addressing and Repairing Undetected Device Errors via Bluetooth on Windows 11 Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-the-error-effective-fixes-for-continuous-crashes-of-ready-or-not-on-desktops-and-laptops/"><u>Banishing the Error: Effective Fixes for Continuous Crashes of 'Ready or Not' On Desktops and Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-restore-your-laptops-microphone-functionality/"><u>Effective Ways to Restore Your Laptop's Microphone Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-for-preventing-and-fixing-infinite-warfare-battleship-pc-malfunctions/"><u>Essential Tips for Preventing and Fixing Infinite Warfare Battleship PC Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitech-mouse-woes-repairing-a-stuck-or-broken-scroll-wheel/"><u>Logitech Mouse Woes: Repairing a Stuck or Broken Scroll Wheel</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-event-id-1000-across-different-generations-of-windows-os/"><u>Mastering the Fix for Event ID 1000 Across Different Generations of Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-bluetooth-not-found-error-in-windows-10-step-by-step-guide/"><u>Resolve the 'Bluetooth Not Found' Error in Windows 10 - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-pc-restoration-hiccups-the-ultimate-guide-for-windows-11-users/"><u>Resolve Your PC Restoration Hiccups: The Ultimate Guide for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-could-not-install-windows-cuhild-with-error-code-80240020/"><u>Resolving the 'Could Not Install Windows Cuhild' With Error Code 80240020</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y77t-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y77t Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-embrace-the-digital-book-revolution-with-a-kindle/"><u>Why Embrace the Digital Book Revolution with a Kindle</u></a></li>
 </ul></div>
 
