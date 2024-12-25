@@ -1,7 +1,7 @@
 ---
 title: "Clearing Up Shadows: A Guide to Remedying OBS's Black Screen Troubleshooting"
-date: 2024-08-15T11:08:44.701Z
-updated: 2024-08-16T11:08:44.701Z
+date: 2024-12-19T17:19:00.038Z
+updated: 2024-12-25T18:54:12.978Z
 tags:
   - win11
   - win10
@@ -32,28 +32,31 @@ You can try the the methods below to solve the problem.
 3. [**Change the high DPI settings of a specific app**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Turn on Let Windows try to fix apps so they’re not blurry
 
  You can try these easy steps to let Windows troubleshoot the**Windows 10 blurry text** problem for you first:
 
 1. Right-click on your desktop, then select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd81b1680b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 2. Click**Advanced scaling settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd9a6caf6a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 3. Turn on**Let Windows try to fix apps so they’re not blurry** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badda925f9a8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 4. Close the app(s) that you initially had issues with, and then open it again to see if Windows has fixed the problem. If not, move on to Method 2.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Check for the overall Windows DPI setting
 
@@ -61,9 +64,6 @@ You can try the the methods below to solve the problem.
 
 1. Right-click on your desktop, then select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd81b1680b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Under**Scale and layout** , make sure that it is on**100 percent** and not some higher number.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badddac4d69e.jpg)
 3. Reopen the app that appears blurry to check the result.
@@ -80,19 +80,23 @@ You can try the the methods below to solve the problem.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bade847d093b.jpg)
 3. **Right-click** the app, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bade8abd887c.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Click the**Compatibility** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bade8f847164.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Click the **Change high DPI settings** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badea24c8b60.jpg)
 6. Select the   **Use this setting to fix scaling problems for this program…**  check box.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badebdc96b2b.jpg)
 7. In the**High DPI scaling override** area, select the **Override high DPI scaling behavior** check box. And make sure**Application** is selected from the drop-down menu, which option was called **Disable display scaling on high DPI settings** in previous versions of Windows.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badeccbaf725.jpg)
 8. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badeda690b2c.jpg)
@@ -101,8 +105,9 @@ You can try the the methods below to solve the problem.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Update your graphics driver
 
  It’s also possible that your**Windows 10 blurry text** problem is being caused by driver issues — **the graphics driver on your PC is outdated or faulty** . The steps above may resolve the blurry text problem, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -114,14 +119,12 @@ You can try the the methods below to solve the problem.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. **Run** Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badf2f4e9700.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update** button next to your graphics driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the**FREE** version).  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badf36d49b5b.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -136,8 +139,6 @@ You can try the the methods below to solve the problem.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +146,22 @@ You can try the the methods below to solve the problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-windows-error-0x8000ffff/"><u>[Fixed] Windows Error 0X8000ffff</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-enhancing-your-videos-step-by-step-for-ken-burns-effect-in-camtasa/"><u>[New] 2024 Approved Enhancing Your Videos Step-by-Step for Ken Burns Effect in Camtasa</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-farm-fun-and-fellowship-the-ultimate-agritainment-guide/"><u>[New] In 2024, Farm Fun & Fellowship The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-guide-to-earning-on-youtube-shorts/"><u>[New] In 2024, The Ultimate Guide to Earning on Youtube Shorts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-facebooks-approach-for-automatic-youtube-video-playback/"><u>[Updated] Facebook's Approach for Automatic YouTube Video Playback</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-advanced-tips-for-bordered-instagram-photography/"><u>[Updated] In 2024, Advanced Tips for Bordered Instagram Photography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-maximize-your-sims-legacy-top-techniques-for-capturing-sims-4-adventures/"><u>[Updated] In 2024, Maximize Your Sim's Legacy Top Techniques for Capturing Sims 4 Adventures</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-voice-chatting-capability-in-overwatch-fast/"><u>How to Restore Voice Chatting Capability in Overwatch Fast</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/innovating-content-engagement-a-curated-list-of-20-best-tiktok-captions-for-2024/"><u>Innovating Content Engagement A Curated List of 20 Best TikTok Captions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/innovative-solutions-stop-the-halt-on-your-hamachi-connection-now/"><u>Innovative Solutions: Stop the Halt on Your Hamachi Connection Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-fn-key-malfunction-heres-how-to-restore-it-effortlessly-and-promptly/"><u>Lenovo Fn Key Malfunction? Here’s How to Restore It Effortlessly & Promptly</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-11-update-0x80240034-failure-a-step-by-step-guide/"><u>Resolving the Windows 11 Update 0X80240034 Failure - A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sonic-clash-apple-airpods-pro-vs-galaxy-buds-pro-review/"><u>Sonic Clash: Apple AirPods Pro Vs. Galaxy Buds Pro Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-reducing-excessive-svchostexe-load-on-windows-10-system/"><u>Tips for Reducing Excessive svchost.exe Load on Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-load-caused-by-the-windows-1011-desktop-window-manager/"><u>Top 5 Solutions for Reducing GPU Load Caused by the Windows 10/11 Desktop Window Manager</u></a></li>
+</ul></div>
 

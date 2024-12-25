@@ -1,7 +1,7 @@
 ---
 title: Keyboard Enthusiasts Unite! Restoring the Radiant Features of Your Corsair Board
-date: 2024-12-10T18:31:29.936Z
-updated: 2024-12-17T00:11:12.817Z
+date: 2024-12-18T16:55:40.688Z
+updated: 2024-12-25T20:14:11.391Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## For Windows Users
 
  The unexpectable behavior on your keyboard can be different. Here we have 2 solutions to meet your specific need:
@@ -46,11 +42,19 @@ In this post, we’ll guide you to reset your keyboard step-by-step.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click Keyboards and select the keyboard device you want to reset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the red cross button to uninstall the device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/x.jpg)
 5. Click Scan for hardware changes button. It will let the device appear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/search-6.jpg)
 6. Select the same keyboard device again. Click the Update device driver button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-4.jpg)
 7. Allow the newest drivers to install.
@@ -71,11 +75,11 @@ Your keyboard should back to the default setting after reboot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/language.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you’ve reset your keyboard language.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## For Mac Users
 
@@ -89,6 +93,10 @@ Now you’ve reset your keyboard language.
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Keyboard** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
 3. Click**Modifier Keys** in the bottom right corner.  
@@ -104,21 +112,13 @@ Your keyboard should be back in the default settings.
 2. Click**Language and Region** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
 3. Select the language you want.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Wait for the computer to reboot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Hard Reset
 
@@ -153,24 +153,15 @@ Your keyboard should be reset successfully.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-elevate-your-livestream-game-twitch-and-youtube-via-obs/"><u>[New] 2024 Approved Elevate Your Livestream Game Twitch & YouTube via OBS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-pick-prime-drone-gimbals/"><u>[New] Expert Pick Prime Drone Gimbals</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-mobile-and-desktop-tips-for-gotomeeting-captures/"><u>[New] Mobile & Desktop Tips for GoToMeeting Captures</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-nanocapture-screen-video-review/"><u>[Updated] NanoCapture Screen Video Review</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ultimate-tactics-to-record-lol-clashes/"><u>[Updated] Ultimate Tactics to Record LOL Clashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-faulty-clipboard-operations-in-windows-10/"><u>Bypassing Faulty Clipboard Operations in Windows 10</u></a></li>
-<li><a href="https://win-special.techidaily.com/confronto-tra-pulizia-solid-state-disk-ssd-e-cancellazione-garantita-di-dati-consigli-e-fasi-completa/"><u>Confronto Tra Pulizia Solid State Disk (SSD) E Cancellazione Garantita Di Dati: Consigli E Fasi Completa</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/extracting-image-files-from-youtube-browser-based-os-techniques/"><u>Extracting Image Files From Youtube Browser-Based, OS Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuit-ogg-to-mp3-konverteren-professioneel-en-online-zelfs-met-movavi/"><u>Gratuit Ogg-to-MP3 Konverteren: Professioneel en Online, Zelfs Met Movavi!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmony-color-calibrator/"><u>In 2024, Harmony Color Calibrator</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-media-creator-win8/"><u>In 2024, Ultimate Media Creator Win8</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-windows-update-failure-a-step-by-step-fix-for-error-0x8024200d/"><u>Overcoming the Window's Update Failure: A Step-by-Step Fix for Error 0X8024200D</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-clean-install-tips-to-get-the-most-out-of-your-new-windows-11-experience/"><u>Quick Clean Install Tips to Get the Most Out of Your New Windows 11 Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206943008-simple-fixes-for-turned-off-wireless-networks-now-solved/"><u>Simple Fixes for Turned-Off Wireless Networks - Now Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-restoring-connection-for-geforce-experience-preferences/"><u>Troubleshooting Guide: Restoring Connection for GeForce Experience Preferences</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-continuous-system-lock-ups-on-your-pc/"><u>Troubleshooting Tips: Resolving Continuous System Lock-Ups on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/unresolved-error-monitor-doesnt-recognize-present-input-speed/"><u>Unresolved Error: Monitor Doesn't Recognize Present Input Speed</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-troubleshooting-reappearing-vanished-mouse-pointer-guide/"><u>Windows 10 Troubleshooting: Reappearing Vanished Mouse Pointer Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-bluetooth-gone-wrong-rectify-it-swiftly-with-these-proven-techniques/"><u>Windows 11 Bluetooth Gone Wrong? Rectify It Swiftly with These Proven Techniques!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-concealed-visibility-mastering-visual-obscurity-in-videos-for-2024/"><u>[Updated] Concealed Visibility Mastering Visual Obscurity in Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlock-your-social-media-superpowers-top-9-instagram-techniques-to-skyrocket-popularity-for-2024/"><u>[Updated] Unlock Your Social Media Superpowers Top 9 Instagram Techniques to Skyrocket Popularity for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cutting-edge-tools-to-revamp-virtual-performer-voices/"><u>Cutting-Edge Tools to Revamp Virtual Performer Voices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-officejet-3830-printing-software-for-windows-users/"><u>Get the Latest HP OfficeJet 3830 Printing Software for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-tecno-spark-20c-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Tecno Spark 20C Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-astro-a40-mic-when-it-stops-working/"><u>How to Repair Your Astro A40 Mic When It Stops Working</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-sound-blaster-z-drivers-for-optimal-performance-in-windows-11/"><u>Latest Sound Blaster Z Drivers for Optimal Performance in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-when-numbers-wont-press-on-your-keyboard/"><u>Solution Guide: When Numbers Won't Press on Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/taming-wudfhostexe-strategies-for-optimizing-your-pcs-performance-on-windows-am/"><u>Taming wudfhost.exe: Strategies for Optimizing Your PC's Performance on Windows Am</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210105917-troubleshooting-missing-desktop-icons-on-windows-11-solved/"><u>Troubleshooting Missing Desktop Icons on Windows 11 – Solved!</u></a></li>
 </ul></div>
 

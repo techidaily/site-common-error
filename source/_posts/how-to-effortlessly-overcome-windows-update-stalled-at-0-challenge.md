@@ -1,7 +1,7 @@
 ---
 title: How To Effortlessly Overcome 'Windows Update Stalled At 0%%' Challenge
-date: 2024-08-15T11:08:32.625Z
-updated: 2024-08-16T11:08:32.625Z
+date: 2024-12-22T16:40:30.782Z
+updated: 2024-12-25T16:26:51.484Z
 tags:
   - win11
   - win10
@@ -31,11 +31,6 @@ For game players, Steam is the window of the world of gaming. But there are situ
 6. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 1\. Run Steam as administrator
 
  These error messages may indicate that it’s a permission issue. If the Steam client didn’t have the necessary permissions to download the updates, the issue will occur and you will not be able to continue the download process. To fix it, you can forcibly open Steam with administrative privileges.
@@ -43,9 +38,6 @@ The powerful video editing program for your Windows PC</a>
  1) Right-click on the shortcut and select**Run as Administrator** .  
   
 ![Run Steam as administrator](https://images.drivereasy.com/wp-content/uploads/2021/01/Run-Steam-as-administrator.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
  2) Now open your Steam client and resume the download of your game. If you didn’t receive the error message, congrats! In this case, you can always make Steam run as administrator. Follow the steps below to do this:  
  (If granting Steam with administrative rights didn’t solve the issue, proceed to the next[fix2](https://tools.techidaily.com/drivereasy/download/) . )
@@ -56,11 +48,16 @@ The powerful video editing program for your Windows PC</a>
   
 ![make Steam always run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/01/open-file-location-Steam.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) The**steam.exe** should be highlighted. Simply right-click it and select**Properties** .  
   
 ![make Steam always run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/01/Steam-Properties.png)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Select the**Compatibility** tab. Check**Run this program as an administrator** . Then click**Apply > OK** to save the changes.  
@@ -69,9 +66,6 @@ The powerful video editing program for your Windows PC</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Allow Steam through Firewall
 
  Windows Firewall or any anti-virus software are intended to protect your computer from any malware attack. But it may also fail to recognize a reliable application or program. In this case, you need to manually whitelist Steam in Windows Firewall.
@@ -79,9 +73,6 @@ The powerful video editing program for your Windows PC</a>
  1) In the Search box, type **windows firewall** and click **Windows Defender Firewall**  from the results.  
   
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
   
@@ -90,8 +81,9 @@ The powerful video editing program for your Windows PC</a>
  3) Click **Change settings** if it’s enabled on your end. Then click **Allow another app** .  
   
 ![allow VALORANT through windows firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-another-app-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then you can follow the on-screen instructions to add Steam to the list. By default, the location of the main Steam executable is**C:\\Program Files\\Steam\\bin** .
@@ -100,6 +92,10 @@ The powerful video editing program for your Windows PC</a>
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Change the download region
 
  It could be possible that there’s an ongoing server issue in your region. So you can change the download region to prevent the issue. Here’s how you can do this:
@@ -107,15 +103,17 @@ The powerful video editing program for your Windows PC</a>
  1) Open your Steam client. Click**Steam** from the menu and select**Settings** .  
   
 ![delete download cache Steam](https://images.drivereasy.com/wp-content/uploads/2021/01/Steam-settings.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select**Downloads** from the left pane. Under the**Download Region** section, click on the**down arrow** and choose a different region from the list. Then click**OK** to save the changes.  
   
 ![how to change download region in Steam](https://images.drivereasy.com/wp-content/uploads/2021/01/change-download-region.png)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Now simply click**RESTART STEAM** .
@@ -126,9 +124,6 @@ The powerful video editing program for your Windows PC</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Clear download cache
 
  Whenever you login Steam, they store the locally cached configuration data. But sometimes these download cache may cause some issues. To resolve it, you can clear the cache from its interface.
@@ -137,19 +132,17 @@ The powerful video editing program for your Windows PC</a>
 
 ![delete download cache Steam](https://images.drivereasy.com/wp-content/uploads/2021/01/Steam-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select**Downloads** from the left pane. In the bottom of the window, click on the**CLEAR DOWNLOAD CACHE** button.  
   
 ![clear download cache](https://images.drivereasy.com/wp-content/uploads/2021/01/clear-download-cache.png)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Simply click**OK** when asked for confirmation and you’ll be required to login to Steam again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/select-OK-to-confirm-the-changes.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -199,8 +192,9 @@ Here’s how to update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall Steam
 
  If nothing works, there’s a quick way to reinstall it and while keeping all your preferences and games intact. To do this, you can follow the steps below:
@@ -209,6 +203,10 @@ Here’s how to update your drivers with Driver Easy:
  To make sure you completely exit Steam, open Task Manager and look for **Steam Client Service**  and **Steam Client WebHelper** . Right-click on them and select **End task** .  
   
 ![End task Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On your keyboard, press the **Windows logo key** and **E**  at the same time to open File Explorer.
 
@@ -228,8 +226,6 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +233,18 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-stand-out-creating-unique-thumbnails-for-your-youtube-videos/"><u>[New] 2024 Approved Stand Out Creating Unique Thumbnails for Your YouTube Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-professionals-choice-select-the-best-15-tripodsmounts-for-gopro/"><u>[New] In 2024, Professional's Choice Select the Best 15 Tripods/Mounts for GoPro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138580826-9781452558806-becoming-the-healer/"><u>Becoming the Healer | Free Book</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-your-yt-content-with-the-top-thumbnail-hacks-for-2024/"><u>Elevating Your YT Content with the Top Thumbnail Hacks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-printing-on-your-pc-by-downloading-updated-hp-officejet-pro-8620-drivers-for-windows/"><u>Ensure Seamless Printing on Your PC by Downloading Updated HP OfficeJet Pro 8620 Drivers for Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/hidden-gems-galore-top-10-unique-meme-webpages-for-2024/"><u>Hidden Gems Galore – Top 10 Unique Meme Webpages for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-sony-xperia-1-v-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Sony Xperia 1 V Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205909632-solve-the-windows-11-will-not-shut-down-issue-proven-methods-inside/"><u>Solve the 'Windows 11 Will Not Shut Down' Issue - Proven Methods Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-manual-for-dealing-with-black-screens-on-your-dell-computer/"><u>The Ultimate Troubleshooting Manual for Dealing with Black Screens on Your Dell Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-fn-keys-in-dell-computers-easy-fixes-you-can-do-now/"><u>Troubleshooting Non-Responsive Fn Keys in Dell Computers - Easy Fixes You Can Do Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-port-reset-failures-on-usb-devices-in-windows-11-tips-and-solutions/"><u>Troubleshooting Port Reset Failures on USB Devices in Windows 11 – Tips & Solutions</u></a></li>
+</ul></div>
 

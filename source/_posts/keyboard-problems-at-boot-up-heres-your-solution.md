@@ -1,7 +1,7 @@
 ---
 title: Keyboard Problems at Boot-Up? Here's Your Solution
-date: 2024-08-15T11:07:29.151Z
-updated: 2024-08-16T11:07:29.151Z
+date: 2024-12-18T18:36:52.480Z
+updated: 2024-12-25T17:42:22.031Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 2. **[Use the On-Screen Keyboard](#b)**
 3. **[Update device drivers](#c)**
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Rule out the obvious
 
 * **[If you’re using a USB keyboard](#a1)**
@@ -46,15 +43,13 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 Here is what a receiver looks like:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-246.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If this didn’t fix your problem, move on and follow the instructions below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Use the On-Screen Keyboard
 
  It would be difficult, if not impossible to fix your keyboard issue without login into your computer first. To sign in to your PC without a physical keyboard, use the **On-Screen Keyboard** . Follow the instructions below:
@@ -64,15 +59,17 @@ Here is what a receiver looks like:
 **2)** Select **Type without the keyboard (On-Screen Keyboard)** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-20_17-27-01.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After login, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Update your keyboard driver
 
  One of the most common causes of the keyboard not working issue is a corrupt keyboard driver. To keep your keyboard functioning correctly, it’s essential that you have the latest correct driver at all times. There are two ways you can get the right driver:
@@ -89,13 +86,18 @@ After login, try updating your keyboard driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-20_17-06-29-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update**  button next to the keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-20_17-07-46.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -118,8 +120,6 @@ After login, try updating your keyboard driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +127,23 @@ After login, try updating your keyboard driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-action-packed-angling-best-fishing-cameras-ranked/"><u>[New] Action-Packed Angling Best Fishing Cameras Ranked</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prodigious-picture-editing-speedy-steps-for-windows-photo-app-users/"><u>[New] Prodigious Picture Editing Speedy Steps for Windows Photo App Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unveiling-creative-twists-transformative-text-in-imagery-for-2024/"><u>[Updated] Unveiling Creative Twists Transformative Text in Imagery for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-the-endless-cycle-of-window-10-automatic-reinstalls-a-user-friendly-guide/"><u>Banish the Endless Cycle of Window 10 Automatic Reinstalls: A User-Friendly Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-a78-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo A78 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-a-non-charging-plugged-in-surface-pc-easy-tips-and-solutions/"><u>Dealing with a Non-Charging Plugged In Surface PC: Easy Tips and Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deep-dive-into-ai-types-unraveling-the-complexities-of-strong-and-weak-artificial-intelligence/"><u>Deep Dive Into AI Types: Unraveling the Complexities of Strong and Weak Artificial Intelligence</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-no-playable-source-error-in-windows-a-comprehensive-guide/"><u>Fixing the 'No Playable Source' Error in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-audio-driver-error-unresponsive-device-issue/"><u>How To Reset Audio Driver Error: Unresponsive Device Issue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a14-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A14 5G Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mac-gif-perfection-best-recorder-showcase/"><u>In 2024, Mac GIF Perfection Best Recorder Showcase</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-installation-issue-error-code-0x800f081f-during-net-framework-35-setup/"><u>Resolving Installation Issue: Error Code 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snip-and-sketch-vs-prtsc-which-screen-capture-wins/"><u>Snip & Sketch Vs. PrtSc: Which Screen Capture Wins?</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-escaping-from-windows-10s-never-ending-restart-cycle/"><u>Step-by-Step Troubleshooting: Escaping From Windows 10'S Never-Ending Restart Cycle</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-binkw32dll-errors-for-smooth-computer-operation/"><u>Troubleshooting binkw32.dll Errors for Smooth Computer Operation</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-compatible-gpus-with-fortnite-gameplay-on-windows/"><u>Troubleshooting Steps for Compatible GPUs with Fortnite Gameplay on Windows</u></a></li>
+</ul></div>
 

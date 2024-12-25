@@ -1,7 +1,7 @@
 ---
 title: Expert Solutions to Laptop Mousepad Malfunction on Various Windows Versions (Windows 10/8/7)
-date: 2024-12-12T18:36:07.576Z
-updated: 2024-12-16T20:03:31.136Z
+date: 2024-12-24T17:00:26.903Z
+updated: 2024-12-25T17:36:05.030Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -37,6 +41,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
@@ -45,7 +53,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)  
@@ -56,18 +64,18 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -81,10 +89,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -92,10 +96,6 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -119,24 +119,20 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-closer-conversations-mastering-in-camera-precision/"><u>[New] Closer Conversations Mastering In-Camera Precision</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quick-effortless-and-free-red-eye-removal-for-ios-users/"><u>[New] Quick, Effortless, and FREE Red-Eye Removal for iOS Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-lightning-fast-photo-reader-for-pcs/"><u>[Updated] Lightning-Fast Photo Reader for PCs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-best-zero-cost-image-editors-online/"><u>[Updated] Ultimate Guide Best Zero-Cost Image Editors Online</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-soundtrack-of-stills-visual-audio-crafting/"><u>2024 Approved The Soundtrack of Stills Visual-Audio Crafting</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-s17e-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo S17e PC | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-set-of-hp-officejet-pro-6968-drivers-for-windows-and-mac/"><u>Complete Set of HP Officejet Pro 6968 Drivers for Windows and Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/enabling-fortnite-on-non-compatible-graphics-cards-in-the-windows-environment-workarounds-and-tweaks/"><u>Enabling Fortnite on Non-Compatible Graphics Cards in the Windows Environment – Workarounds and Tweaks</u></a></li>
-<li><a href="https://common-error.techidaily.com/hamachi-trouble-heres-how-you-can-fix-a-stopped-service-error/"><u>Hamachi Trouble? Here's How You Can Fix a Stopped Service Error</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Tecno Camon 20 Premier 5G.</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-a-display-driver-that-stopped-then-came-back-online/"><u>How to Troubleshoot a Display Driver That Stopped Then Came Back Online</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-s17-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo S17 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/patched-pubgs-dxgidll-hiccup-with-ease/"><u>Patched PUBG's Dxgi.dll Hiccup with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolve-pvpnet-patchers-faulty-kernel-issue/"><u>Quick Solutions: Resolve PvP.net Patcher's Faulty Kernel Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-windows-10-that-wont-properly-shut-down-and-reopens-instead/"><u>Resolving Issues with Windows 10 that Won't Properly Shut Down and Reopens Instead</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-addressing-challenges-in-directx-visual-processing-unit-creation-failures/"><u>Solution Guide: Addressing Challenges in DirectX Visual Processing Unit Creation Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-an-unresponsive-hp-touchpad-a-step-by-step-guide/"><u>Troubleshooting an Unresponsive HP Touchpad: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-laptop-mic-issues-a-comprehensive-guide/"><u>Troubleshooting and Repairing Laptop Mic Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-computer-speaker-problems-guidance-by-yl-software-professionals/"><u>Troubleshooting Computer Speaker Problems: Guidance by YL Software Professionals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-accurate-mac-photography-mastery-of-five-proven-snapshot-ways/"><u>[New] Accurate Mac Photography Mastery of Five Proven Snapshot Ways</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-in-depth-video-metrics-at-your-fingertips-social-blade-for-youtube/"><u>[Updated] 2024 Approved In-Depth Video Metrics at Your Fingertips Social Blade for YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-the-mystery-of-windows-update-error-0x8024200d-fixes-and-best-practices-for-successful-updates/"><u>Decoding the Mystery of Windows Update Error 0X8024200D: Fixes & Best Practices for Successful Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-restoring-functionality-to-dell-laptops-dead-keys/"><u>Effective Remedies for Restoring Functionality to Dell Laptop's Dead Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-non-responsive-ps4-headset-mic/"><u>Expert Tips for Resolving Non-Responsive PS4 Headset Mic</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-is-copy-and-paste-malfunctioning-in-windows-11/"><u>Fixing the Issue: Why Is 'Copy & Paste' Malfunctioning in Windows 11?</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-upside-down-your-instagram-videos-complete-manual-for-2024/"><u>How to Upside Down Your Instagram Videos [Complete Manual] for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-c51-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme C51 Unlock Without Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c12-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia C12 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/optimale-methode-zum-klonen-einer-festplatte-auf-virtualbox/"><u>Optimale Methode Zum Klonen Einer Festplatte Auf VirtualBox</u></a></li>
+<li><a href="https://common-error.techidaily.com/run-the-latest-engine-successfully-upgrade-to-a-gpu-that-works-with-direct3d-11/"><u>Run the Latest Engine Successfully? Upgrade to a GPU that Works with Direct3D 11!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-pdf-printing-problems-top-tips-and-solutions/"><u>Solve Your PDF Printing Problems: Top Tips & Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-resolving-miracast-issues-with-unsupported-graphics-drivers/"><u>Solved: Resolving Miracast Issues with Unsupported Graphics Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-update-error-on-your-computer-windows-1n-update-0x80240034-explained/"><u>Understanding and Fixing the 'Update Error' On Your Computer - Windows 1N Update 0X80240034 Explained</u></a></li>
 </ul></div>
 

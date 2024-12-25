@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Chrome's 'ERR_PROTOCOL_MISSING_OR_UNSUPPORTED'
-date: 2024-12-10T01:40:08.927Z
-updated: 2024-12-16T20:00:58.388Z
+date: 2024-12-21T20:45:48.517Z
+updated: 2024-12-25T19:51:14.010Z
 tags:
   - win11
   - win10
@@ -46,10 +46,6 @@ But don’t worry. We’ll help you fix your problem.
 
 In addition, make sure the connection ports are working correctly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change the display settings
 
  As you may know, “**Input Not Supported** ” by your monitor because of the improper screen resolution, so you can change the screen resolution and refresh rate to fix the problem.
@@ -67,17 +63,21 @@ Here’s what you can do:
 3. If you see a popup to confirm the change, click Keep changes to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94693c702d.jpg)
 4. Then click**Advanced display settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946c1e8119.jpg)
 5. Under the monitor name that is having the Input Not Supported error, click**Display adapter properties for Display** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9472de63ac.jpg)
@@ -95,7 +95,7 @@ If you’re using Windows 8 and Windows 7:
  If your current screen resolution is not proper, you’ll see a notification like this:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fc52735d.jpg)
@@ -107,14 +107,10 @@ If you’re using Windows 8 and Windows 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd945d0dd649.jpg)
 5. Save the changes and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You should fix the error and boot your computer as normal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your monitor driver and graphics card driver
@@ -137,6 +133,10 @@ You should fix the error and boot your computer as normal.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9478ba7d6a.jpg)
 3. Click the**Update** button next to the flagged monitor and graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd947aa82f4c.jpg)
@@ -162,19 +162,19 @@ You should fix the error and boot your computer as normal.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-engaging-viewers-with-unique-square-videography-techniques-for-2024/"><u>[New] Engaging Viewers with Unique Square Videography Techniques for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-ergonomic-excellence-and-office-dynamics-for-peak-performance/"><u>[New] In 2024, Ergonomic Excellence and Office Dynamics for Peak Performance</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-decoding-facebooks-automatic-video-advancements-for-2024/"><u>[Updated] Decoding Facebook's Automatic Video Advancements for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-pros-and-cons-of-vsdc-the-ultimate-guide-for-2024/"><u>[Updated] Pros & Cons of VSDC The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-s23plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel S23+ to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-stepwise-approach-effortlessly-incorporate-subtitlescc-into-your-youtube-content/"><u>In 2024, Stepwise Approach Effortlessly Incorporate Subtitles/CC Into Your YouTube Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimize-your-pc-fixing-the-wudfhostexe-cpu-usage-surge-in-windows-nx/"><u>Optimize Your PC: Fixing the WUDFHost.exe CPU Usage Surge in Windows nX</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-lack-of-audio-on-your-netflix-stream/"><u>Quick Solutions: Resolving Lack of Audio on Your Netflix Stream</u></a></li>
-<li><a href="https://common-error.techidaily.com/revamp-xbox-one-controller-functionality-in-pc-realm/"><u>Revamp Xbox One Controller Functionality in PC Realm</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revitalizing-corporate-efficiency-top-5-companies-embracing-the-transformative-power-of-the-apple-vision-pro/"><u>Revitalizing Corporate Efficiency: Top 5 Companies Embracing the Transformative Power of the Apple Vision Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-msvcr71dll-absence-issue/"><u>Solving MSVCR71.dll Absence Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-fixing-error-0x8024402c-on-windows/"><u>Step-by-Step Troubleshooting for Fixing Error 0X8024402c on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-fixing-the-hamachi-service-has-stopped-problem/"><u>Troubleshooting Steps: Fixing the 'Hamachi Service Has Stopped' Problem</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-eyeem-pro-your-ultimate-guide-to-freepaid-substitutes/"><u>[New] EyeEm Pro Your Ultimate Guide to Free/Paid Substitutes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-dancing-to-the-tune-youtubes-hottest-music-video-responses-23/"><u>[Updated] 2024 Approved Dancing to the Tune YouTube's Hottest Music Video Responses, '23</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/through-youtube-success-essential-tips-from-creator-studio-guide/"><u>Breakthrough YouTube Success Essential Tips From Creator Studio Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-microsofts-update-hurdle-correcting-code-0x800f0922-on-windows-11/"><u>Bypassing Microsoft’s Update Hurdle: Correcting Code 0X800f0922 on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-stop-your-csgo-from-unexpectedly-crashing/"><u>Effective Ways to Stop Your CS:GO From Unexpectedly Crashing</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-speaker-distortion-issue-a-comprehensive-guide/"><u>Fixing Window's Speaker Distortion Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/gratis-android-capture-free-your-devices-potential-for-2024/"><u>Gratis Android Capture Free Your Device's Potential for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206802848-how-to-successfully-repair-windows-update-glitches-now/"><u>How To Successfully Repair Windows Update Glitches, Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-strategies-for-building-impactful-slides-with-chatgpt/"><u>Innovative Strategies for Building Impactful Slides with ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-media-drives-troubleshooting-tips-for-the-persistent-error-39-on-your-cddvd-drive/"><u>Mastering Media Drives: Troubleshooting Tips for the Persistent Error 39 on Your CD/DVD Drive</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-compatibility-rejection-on-your-pc/"><u>Overcoming Windows 11 Compatibility Rejection on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safekeeping-for-chatgpt-dialogues/"><u>Safekeeping for ChatGPT Dialogues</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210395803-9781452158198-the-golden-book-of-fortune-telling/"><u>The Golden Book of Fortune-Telling | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-hp-laptop-usb-issues-comprehensive-guide/"><u>Troubleshooting HP Laptop USB Issues - Comprehensive Guide</u></a></li>
 </ul></div>
 

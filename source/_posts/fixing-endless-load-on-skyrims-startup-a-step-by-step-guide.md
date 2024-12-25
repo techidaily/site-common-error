@@ -1,7 +1,7 @@
 ---
 title: "Fixing Endless Load on Skyrim's Startup: A Step-by-Step Guide"
-date: 2024-12-15T17:46:01.538Z
-updated: 2024-12-16T20:06:57.950Z
+date: 2024-12-21T18:49:56.501Z
+updated: 2024-12-25T17:55:49.440Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix A media driver your computer needs is missing
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 4. [**Change the ISO file format**](#Fix4)
 5. _[**Things you should do after trying these methods**](#Fix5)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does the error occur?
 
  This error generally occurs when you are installing Windows on your PC/laptop. the possible causes can be:
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
  You can actually fix the**A media driver your computer needs is missing** error easily and quickly with the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Re-plug the USB drive
 
  You can try to re-plug the USB drive to fix the problem. Try the steps below:
@@ -65,15 +73,15 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756ddcbe2a8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Re-plug the USB drive** into the computer again.
 
 4) Try to install Windows again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Try another USB port
 
@@ -83,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Plug the USB drive into another USB port** . If you have the**USB 2.0 port** with your PC/laptop, try to**plug the USB drive into the USB 2.0 port** .
@@ -94,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 4) Try to install Windows again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change the settings in BIOS
@@ -126,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
  The ISO file faulty can also cause the issue, so you can try to change the ISO file format to solve the issue.
 
  Double check the**extracted setup** from the ISO file. If it is in**NTFS format** , extract the ISO file in**FAT32 format** and use the setup to install Windows again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Things you should do after trying these methods
 
@@ -175,24 +175,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-halo-4-ue4-fatal-error-crash-2024/"><u>[SOLVED] Halo 4 UE4 Fatal Error Crash 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-journey-through-cartoony-fun-snapchat-face-lens-magic/"><u>[Updated] Journey Through Cartoony Fun Snapchat Face Lens Magic</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-smooth-integration-of-youtube-playlists-via-web-tech/"><u>[Updated] Smooth Integration of YouTube Playlists via Web Tech</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-youtube-and-brands-united-strategic-collaborative-titles/"><u>[Updated] YouTube & Brands United Strategic Collaborative Titles</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-of-the-kootek-portable-cooling-stand-top-pick/"><u>Comprehensive Analysis of the Kootek Portable Cooling Stand - Top Pick!</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-window-11s-perpetual-reboot-problem/"><u>Diagnosing and Repairing Window 11'S Perpetual Reboot Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-enable-intel-rst-services-on-your-windows-10-pc-step-by-step-recovery-tips/"><u>How to Enable Intel RST Services on Your Windows 10 PC – Step-by-Step Recovery Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-error-code-0x80073712-in-windows-10-expert-solutions-revealed/"><u>How to Resolve 'Error Code 0X80073712' In Windows 10 – Expert Solutions Revealed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-the-startup-failure-issue-code-0xc000007b-step-by-step-guide/"><u>How To Successfully Overcome The Startup Failure Issue (Code 0Xc000007b) - Step-by-Step Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/improved-terms-and-conditions-alert/"><u>Improved Terms & Conditions Alert</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-asmrs-influence-on-your-life/"><u>In 2024, Navigating ASMR’s Influence on Your Life</u></a></li>
-<li><a href="https://win-info.techidaily.com/iniciar-sesion-en-windows-11-a-traves-de-usb-dos-tecnicas-claves-y-un-consejo-experto/"><u>Iniciar Sesión en Windows 11 a Través De USB: Dos Técnicas Claves Y Un Consejo Experto</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-logitech-g35-microphone-drivers-for-optimal-performance-on-windows-7810-systems/"><u>Install Logitech G35 Microphone Drivers for Optimal Performance on Windows 7/8/10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-persistent-keyboard-delays-in-windows-10/"><u>Resolved: Fixing Persistent Keyboard Delays in Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-essence-of-video-editing-filmoras-ten-wonders/"><u>The Essence of Video Editing Filmora's Ten Wonders</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-9-essential-considerations-when-shopping-for-an-electric-vehicle/"><u>Top 9 Essential Considerations When Shopping for an Electric Vehicle</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-nonfunctional-keyboard-in-windows-systems-win-1187/"><u>Troubleshooting Nonfunctional Keyboard in Windows Systems (Win 11/8/7)</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-c00000e9-bsod-detailed-strategies-for-restoring-your-pcs-stability/"><u>Understanding and Fixing the C00000e9 BSOD: Detailed Strategies for Restoring Your PC's Stability</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-unintended-restarts-and-auto-boot-in-windows-11/"><u>Unraveling the Mystery: Unintended Restarts and Auto-Boot in Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ignite-conversations-top-10-creative-reaction-insights-for-videos-for-2024/"><u>[Updated] Ignite Conversations Top 10 Creative Reaction Insights for Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-how-to-shuffle-youtube-playlist/"><u>2024 Approved How to Shuffle YouTube Playlist</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-a59-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A59 5G Fingerprint Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/defunct-windows-characteristics-youll-miss/"><u>Defunct Windows Characteristics You'll Miss</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-methods-to-revive-charging-on-your-laptop-battery/"><u>Effortless Methods to Revive Charging on Your Laptop Battery!</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhance-your-gaming-experience-by-fixing-screen-tearing-in-valorant-a-comprehensive-guide/"><u>Enhance Your Gaming Experience by Fixing Screen Tearing in Valorant - A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/enhance-your-vision-a-compreeved-guide-to-tiktok-video-captioning-for-2024/"><u>Enhance Your Vision A Compreeved Guide to TikTok Video Captioning for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-hacks-for-improved-tiktok-visuals/"><u>Expert Hacks for Improved TikTok Visuals</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-stuck-disk-error-on-windows-10-a-step-by-step-guide/"><u>Fix Your Stuck Disk Error on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11-taskbar-visibility-issues-a-comprehensive-guide/"><u>Fixing Windows 11 Taskbar Visibility Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-windows-1n-update-process-for-optimal-performance/"><u>How to Repair a Broken Windows 1N Update Process for Optimal Performance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-nokia-g310-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Nokia G310 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-windows-troubles-heres-how-you-can-resolve-error-0x8024402c-on-your-pc/"><u>Tackling Windows Troubles? Here's How You Can Resolve Error 0X8024402C on Your PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-power-of-niche-hashtags-for-targeted-instagram-reach-for-2024/"><u>The Power of Niche Hashtags for Targeted Instagram Reach for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-free-guide-to-repairing-nonfunctional-keys-on-hp-notebooks/"><u>Trouble-Free Guide to Repairing Nonfunctional Keys on HP Notebooks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210821095-9789918005215-what-is-your-idea-of-perfect-happiness/"><u>What is Your Idea of Perfect Happiness? | Free Book</u></a></li>
 </ul></div>
 

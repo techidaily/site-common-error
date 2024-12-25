@@ -1,7 +1,7 @@
 ---
 title: "Guide: Restoring Audio Output in a Malfunctioning Windows System"
-date: 2024-12-12T17:23:11.009Z
-updated: 2024-12-16T22:57:27.310Z
+date: 2024-12-20T17:40:43.504Z
+updated: 2024-12-25T20:31:55.537Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
 
@@ -61,21 +57,21 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -87,15 +83,23 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -119,10 +123,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -142,18 +142,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-reels-crafted-by-a-true-creative-genius/"><u>[New] Instagram Reels Crafted by a True Creative Genius</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-6-video-techniques-that-grab-eyes/"><u>[New] Unveiling 6 Video Techniques That Grab Eyes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-macs-gif-mastery-top-10-recorder-guide/"><u>[Updated] In 2024, Mac's GIF Mastery Top 10 Recorder Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-quick-guide-downloading-and-prepping-vrecord/"><u>2024 Approved Quick Guide Downloading & Prepping VRecord</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-the-persistent-code-28-problem-within-windows-device-management/"><u>Diagnosing and Solving the Persistent 'Code 28' Problem Within Windows Device Management</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New 2024 Approved Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-errors-a-guide-to-repairing-internet-explorer-has-stopped-working/"><u>Resolving Errors: A Guide to Repairing 'Internet Explorer Has Stopped Working'</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-addressing-the-common-issues-with-apex-legends-anti-cheat-system/"><u>Solved! Addressing the Common Issues with Apex Legends' Anti-Cheat System</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-of-vanishing-cursor-on-your-windows-11-touchpad/"><u>Solving the Issue of Vanishing Cursor on Your Windows 11 Touchpad</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-ultimate-tutorial-on-installing-samsungs-nvme-ssd-drivers-960-evo-on-windows/"><u>The Ultimate Tutorial on Installing Samsung's NVMe SSD Drivers (960 EVO) on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/uncover-the-solution-for-non-appearing-wi-fi-choices-on-windows-11/"><u>Uncover the Solution for Non-Appearing Wi-Fi Choices on Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlicensed-zen-audio-streaming-for-2024/"><u>Unlicensed Zen Audio Streaming for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/xbox-one-in-pc-environment-function-reestablished/"><u>Xbox One in PC Environment: Function Reestablished</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-economical-vr-headsets-from-the-east/"><u>[New] 2024 Approved Economical VR Headsets From the East</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-managing-a-day-job-and-your-thriving-youtube-channel/"><u>[New] 2024 Approved Managing a Day Job and Your Thriving YouTube Channel</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-navigating-new-worlds-an-in-depth-study-of-6-metaverse-models-for-2024/"><u>[New] Navigating New Worlds An In-Depth Study of 6 Metaverse Models for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-overlooked-wonders-latest-free-macspeech-software/"><u>[Updated] Overlooked Wonders Latest Free macSpeech Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/connect-airpods-to-pc-effortlessly-expert-tips-and-tricks-for-windows-users-in-202n/"><u>Connect AirPods to PC Effortlessly - Expert Tips and Tricks for Windows Users in 202N</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/easy-steps-setting-up-dejavu-add-on-in-kodi-versions-19-and-18-for-ultimate-media-streaming/"><u>Easy Steps: Setting Up DejaVu Add-On in Kodi (Versions 19 and 18) for Ultimate Media Streaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-internet-anonymity-access-to-free-ip-checker-services/"><u>Explore Internet Anonymity: Access to Free IP Checker Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-mastering-iphone-xs-identity-verification-face-id-repair/"><u>In 2024, Mastering iPhone X's Identity Verification Face ID Repair</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pro-controller-101-mastering-steam-and-switch-integration/"><u>In 2024, Pro Controller 101 Mastering Steam and Switch Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-error-0x80071ac3-volume-has-been-removed-from-windows-explorer/"><u>Overcoming the Challenge of Error 0X80071AC3: Volume Has Been Removed From Windows Explorer</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-microphone-malfunction-with-easy-fixes-and-advice/"><u>Resolving Windows 10 Microphone Malfunction with Easy Fixes and Advice</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ethernet-connectivity-errors-for-windows-117-users-effective-strategies/"><u>Troubleshooting Ethernet Connectivity Errors for Windows 11/7 Users: Effective Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-persistent-issue-of-error-code-0x8024200d-in-windows-updates/"><u>Understanding & Fixing the Persistent Issue of Error Code 0X8024200D in Windows Updates</u></a></li>
 </ul></div>
 

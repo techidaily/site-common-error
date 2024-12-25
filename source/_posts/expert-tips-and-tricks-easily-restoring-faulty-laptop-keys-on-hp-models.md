@@ -1,7 +1,7 @@
 ---
 title: Expert Tips & Tricks - Easily Restoring Faulty Laptop Keys on HP Models!
-date: 2024-12-13T00:48:25.043Z
-updated: 2024-12-16T19:39:48.391Z
+date: 2024-12-21T20:26:34.446Z
+updated: 2024-12-25T18:21:32.179Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -43,13 +47,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -71,17 +75,9 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -107,15 +103,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -130,6 +126,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -142,13 +142,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,19 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-expert-techniques-for-swift-mac-screenshotting-using-shortcuts-for-2024/"><u>[Updated] Expert Techniques for Swift Mac Screenshotting Using Shortcuts for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-extensive-audit-unveiling-the-dji-inspire-1-drone-for-2024/"><u>[Updated] Extensive Audit Unveiling the DJI Inspire 1 Drone for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-insights-on-gopro-hero5-adventure-series/"><u>2024 Approved Insights on GoPro Hero5 Adventure Series</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/deciphering-high-bitcoin-network-charges-insights-from-yl-softwares-in-depth-analysis/"><u>Deciphering High Bitcoin Network Charges: Insights From YL Software's In-Depth Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/disarm-windows-11-blue-screen-attacks/"><u>Disarm Windows 11 Blue Screen Attacks</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-network-dysfunction-ethernet-issues-on-windows-10-and-7-explained/"><u>Fixing Network Dysfunction: Ethernet Issues on Windows 10 and 7 Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-this-device-is-not-present-code-24-in-windows-11-8-and-7-systems/"><u>How to Fix 'This Device Is Not Present' (Code 24) in Windows 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-godfall-fps-drops/"><u>How to Fix Godfall FPS Drops</u></a></li>
-<li><a href="https://common-error.techidaily.com/installation-issue-windows-10-update-version-1607-wont-install/"><u>Installation Issue: Windows 10 Update (Version 1607) Won't Install</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-monitor-repairs-the-definitive-guide-to-overcoming-black-screens-on-dell-devices/"><u>Mastering Monitor Repairs: The Definitive Guide to Overcoming Black Screens on Dell Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-your-machine-customize-active-hours-to-sidestep-surprises-in-windows-11/"><u>Mastering Your Machine: Customize Active Hours to Sidestep Surprises in Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolve-non-responsive-dell-laptop-trackpad-on-windows-10/"><u>Resolve Non-Responsive Dell Laptop Trackpad on Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/stay-connected-the-ultimate-140-watt-portable-charger-that-keeps-seven-devices-juiced-up-without-frequent-recharges-tech-review/"><u>Stay Connected: The Ultimate 140-Watt Portable Charger That Keeps Seven Devices Juiced Up Without Frequent Recharges | Tech Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-audio-device-isolation-feature-in-windows-for-optimal-performance/"><u>Troubleshooting the Audio Device Isolation Feature in Windows for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/2024-tips-how-to-fix-bluetooth-not-pairing-on-windows-10/"><u>[2024 Tips] How to Fix Bluetooth Not Pairing on Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-masterclass-in-picture-text-edits-and-overlays/"><u>[New] 2024 Approved Masterclass in Picture Text Edits and Overlays</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/fficiently-broadcasting-your-videos-as-shorts-via-computers-and-mobile-for-2024/"><u>[New] Efficiently Broadcasting Your Videos as Shorts via Computers & Mobile for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-sharpen-focus-expert-tips-on-the-psx-eraser-tool-for-2024/"><u>[New] Sharpen Focus Expert Tips on the PSX Eraser Tool for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-comedy-kings-the-most-popular-memes/"><u>2024 Approved Comedy Kings The Most Popular Memes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquer-the-interview-arena-strategies-with-chatgpt/"><u>Conquer the Interview Arena: Strategies with ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-non-compatible-user-interface-messages-on-your-monitor/"><u>Dealing with Non-Compatible User Interface Messages on Your Monitor</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-windows-press-11s-startup-freeze-a-comprehensive-guide/"><u>Diagnosing and Resolving Windows Press 11'S Startup Freeze: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-frustration-to-success-with-nvidia-setup/"><u>From Frustration to Success with NVIDIA Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-file-explorer-crashes-on-windows-11-complete-guide/"><u>How to Fix File Explorer Crashes on Windows 11 – Complete Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-streamlined-solution-for-gifs-to-videos-top-5-online-services/"><u>In 2024, Streamlined Solution for GIFs to Videos Top 5 Online Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/resetting-keyboards-made-simple-an-ultimate-tutorial/"><u>Resetting Keyboards Made Simple: An Ultimate Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-excessive-cpu-usage-by-windows-audio-device-graph/"><u>Solving the Problem of Excessive CPU Usage by Windows Audio Device Graph</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-captivating-6-powerful-video-genres/"><u>The Art of Captivating 6 Powerful Video Genres</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-trick-for-bringing-back-disappeared-desktop-icons-in-windows-11/"><u>The Ultimate Trick for Bringing Back Disappeared Desktop Icons in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290429095-tokyoloader/"><u>TokyoLoader インストールガイド: ダウンロードができないときの解決策</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tough-as-nails-the-urban-armor-gear-laptop-sleeve-for-macpro-reviewed/"><u>Tough as Nails, the Urban Armor Gear Laptop Sleeve for MacPro Reviewed!</u></a></li>
 </ul></div>
 

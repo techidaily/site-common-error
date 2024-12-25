@@ -1,7 +1,7 @@
 ---
 title: What to Do When Your PC Runs on Windows 11 & Stalls? Comprehensive Fix Guide
-date: 2024-12-14T18:13:03.571Z
-updated: 2024-12-16T20:01:11.427Z
+date: 2024-12-23T18:43:50.235Z
+updated: 2024-12-25T18:11:45.729Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Close unnecessary programs
 
  The first fix you can try is to close the programs running in the background. When you have many apps running at the same time, they may interfere with each other and cause random system bugs. For example, some users reported that they were able to fix the copy-and-paste feature after they turned off or restarted their video players or graphics design software.
@@ -51,13 +47,22 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 1. Right-click the**Start button** on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix didn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Repair corrupted system files
 
@@ -72,18 +77,14 @@ If this fix didn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
 
@@ -114,7 +115,7 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
@@ -134,7 +135,7 @@ If your problem persists, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -160,15 +161,24 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-from-parchment-to-paperbacks-the-quintessential-quest-for-classics/"><u>[New] From Parchment to Paperbacks The Quintessential Quest for Classics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-fixes-resolving-common-problems-with-your-corsair-void-audio-device/"><u>Essential Fixes: Resolving Common Problems with Your Corsair Void Audio Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-tailored-results-through-cookiebot-integration/"><u>Experience Tailored Results Through Cookiebot Integration</u></a></li>
-<li><a href="https://common-error.techidaily.com/experiencing-problems-with-netflix-heres-how-to-determine-and-fix-them/"><u>Experiencing Problems with Netflix? Here's How to Determine and Fix Them</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-repairing-user-profile-and-authentication-problems-in-windows-11/"><u>Guide to Repairing User Profile and Authentication Problems in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-restoring-usb-peripherals-in-windows-7/"><u>Troubleshooting Guide for Restoring USB Peripherals in Windows 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/unexpected-restarts-in-windows-11-pcs/"><u>Unexpected Restarts in Windows 11 PCs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capture-screenshots-of-a-full-page/"><u>[New] In 2024, Capture Screenshots of a Full Page</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-seamless-snapchat-lens-creation-for-2024/"><u>[New] The Ultimate Guide to Seamless Snapchat Lens Creation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illuminating-emotions-an-hdr-portraitists-guide/"><u>[Updated] Illuminating Emotions An HDR Portraitist's Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-secrets-to-penning-popular-vlog-dialogue-plans/"><u>[Updated] The Secrets to Penning Popular Vlog Dialogue Plans</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-top-11-list-excellent-audio-devices-for-2024/"><u>[Updated] Ultimate Top 11 List Excellent Audio Devices for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-effortless-steps-to-reboot-your-keyboard/"><u>Complete Guide: Effortless Steps to Reboot Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/csgo-stability-solutions-fix-game-crashes-with-simple-techniques/"><u>CSGO Stability Solutions: Fix Game Crashes with Simple Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-answer-on-how-to-resolve-valorant-games-tearing-glitches/"><u>Definitive Answer on How to Resolve VALORANT Game's Tearing Glitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-the-hurdle-of-applicationexe-abrupt-shutdowns/"><u>Expert Tips: Overcoming the Hurdle of 'Application.exe' Abrupt Shutdowns</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-how-to-successfully-resolve-loadlibrary-failure-with-error-code-87/"><u>Fix Guide: How To Successfully Resolve 'LoadLibrary Failure with Error Code 87'</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-costs-fc-925000/"><u>Fixed Costs (FC) = $925,000</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/focus-on-you-not-the-surroundings-blur-techniques-for-google-meet-success-for-2024/"><u>Focus on You, Not the Surroundings Blur Techniques for Google Meet Success for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy F04</u></a></li>
+<li><a href="https://fox-info.techidaily.com/overview-of-magix-audio-enhancer-for-2024/"><u>Overview of MAGIX Audio Enhancer for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/slumber-screen-chronicles-evaluations/"><u>Slumber Screen Chronicles Evaluations</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/top-5-grands-lecteurs-multimedias-en-haute-definition-4k-installation-et-avis-sur-pcmac/"><u>Top 5 Grands Lecteurs Multimédias en Haute Définition 4K: Installation Et Avis Sur PC/Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-typing-troubles-heres-how-to-eliminate-keyboard-delay/"><u>Windows 10 Typing Troubles? Here's How to Eliminate Keyboard Delay!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-error-overcoming-incessant-restart-cycles-in-win-1110/"><u>Windows Update Error - Overcoming Incessant Restart Cycles in Win 11/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-wudfhostexe-tackling-overwhelming-cpu-usage-in-windows-11-environments/"><u>Winning the Battle Against WUDFHost.exe: Tackling Overwhelming CPU Usage in Windows 11 Environments</u></a></li>
 </ul></div>
 

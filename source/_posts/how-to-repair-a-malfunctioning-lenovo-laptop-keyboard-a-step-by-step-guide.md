@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Lenovo Laptop Keyboard - A Step-by-Step Guide
-date: 2024-12-14T01:53:41.293Z
-updated: 2024-12-16T23:22:21.865Z
+date: 2024-12-23T20:48:50.241Z
+updated: 2024-12-25T18:48:36.303Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 1. [**Run your Steam client in compatibility mode**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Temporarily disable your antivirus**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 1: Run your Steam client in compatibility mode
 
@@ -48,22 +48,18 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6c97719d17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Compatibility** tab, check**Run this program in compatibility** **mode** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ca563d08d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Double click**Steam** (or**Steam.exe** ) to run the Steam client. If this method works for you, you won’t see this error again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Temporarily disable your antivirus
@@ -75,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 3: Update your device drivers
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ea20dde47.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
@@ -116,24 +116,22 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-easy-iphonesideways-capturing-the-moment/"><u>[New] In 2024, Easy iPhonesideways Capturing the Moment</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-masterful-makeovers-picarts-backdrop-banishment-guide/"><u>[New] In 2024, Masterful Makeovers PicArt’s Backdrop Banishment Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-comparative-costs-yt-vs-other-platforms/"><u>[Updated] 2024 Approved Comparative Costs YT vs Other Platforms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-techniques-to-zoom-into-online-engagements-intelligently/"><u>[Updated] Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-html-designer-applications-for-windows-top-picks-revealed/"><u>Best Free HTML Designer Applications for Windows - Top Picks Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-blues-beat-windows-11s-pairing-problems-with-these-expert-solutions/"><u>Bluetooth Blues? Beat Windows 11'S Pairing Problems with These Expert Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/directory-corruption-solved-effective-strategies-for-file-repair/"><u>Directory Corruption Solved: Effective Strategies for File Repair</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-lenovo-mouse-pad-problems-on-windows-1187-effective-solutions-and-workarounds/"><u>Fix Your Lenovo Mouse Pad Problems on Windows 11/8/7 - Effective Solutions and Workarounds</u></a></li>
-<li><a href="https://fox-http.techidaily.com/gaming-gain-graph-finns-financial-flux/"><u>Gaming Gain Graph Finn's Financial Flux</u></a></li>
-<li><a href="https://tools.techidaily.com/hdsentinel/products/"><u>Hdsentinel's Products</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-docm-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .docm file electronically</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-controls-on-a-non-responsive-windows-10-display/"><u>How to Restore Brightness Controls on a Non-Responsive Windows 10 Display</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mp3-vs-wav-format-battle-determining-the-superior-audio-choice/"><u>MP3 vs WAV Format Battle: Determining the Superior Audio Choice</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-unresponsive-file-explorer-effective-fixes-for-windows-10-users-solved/"><u>Overcoming Unresponsive File Explorer: Effective Fixes for Windows 10 Users [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-device-unprepared-message-a-step-by-step-guide/"><u>Resolving the 'Device Unprepared' Message: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-scrolling-woes-tips-and-techniques-for-a-smooth-touchpad-experience/"><u>Resolving Windows 11 Scrolling Woes: Tips and Techniques for a Smooth Touchpad Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-your-windows-11-copy-and-paste-malfunction-easily/"><u>Resolving Your Windows 11 'Copy & Paste' Malfunction Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-z-fold-7-exploring-the-costs-launch-timeline-and-features/"><u>Samsung Galaxy Z Fold 7: Exploring the Costs, Launch Timeline & Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-the-beginning-of-windows-11-where-and-how-to-find-the-start-button/"><u>Unlocking the Beginning of Windows 11: Where and How to Find the Start Button</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-copy-and-paste-error-in-windows-11/"><u>[FIXED] Copy and Paste Error in Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-razer-kiyo-webcam-full-breakdown/"><u>[New] In 2024, Razer Kiyo Webcam Full Breakdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-build-a-sustainable-career-with-ai-prompt-engineering-lets-dive-in/"><u>Can You Build a Sustainable Career with AI Prompt Engineering? Let's Dive In!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertidor-online-de-video-transforme-seus-filmes-em-mp4-mov-ou-avi-com-eficiencia/"><u>Convertidor Online De Vídeo – Transforme Seus Filmes Em MP4, MOV Ou AVI Com Eficiência</u></a></li>
+<li><a href="https://win-web.techidaily.com/disabling-automatic-windows-updates-via-the-control-panel-a-step-by-step-guide-tips-from-techwhiz/"><u>Disabling Automatic Windows Updates via the Control Panel: A Step-by-Step Guide - Tips From TechWhiz</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-resolving-issues-with-your-logitech-mouses-scroll-wheel/"><u>Expert Tips: Resolving Issues with Your Logitech Mouse's Scroll Wheel</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-usb-device-unrecognized-error-that-constantly-appears/"><u>How to Fix the 'USB Device Unrecognized' Error That Constantly Appears</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-an-unresponsive-aoc-monitor-with-windows-10-troubleshooting-tips/"><u>How to Repair an Unresponsive AOC Monitor with Windows 10: Troubleshooting Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic5-ultimate-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic5 Ultimate via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-digital-detective-finding-and-watching-yt-archives/"><u>In 2024, Digital Detective Finding and Watching YT Archives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-sierras-icloud-drives-for-all-access/"><u>In 2024, Unlocking Sierra's iCloud Drives for All-Access</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-guide-to-accelerating-your-computer-by-cleaning-it-up/"><u>Quick Guide to Accelerating Your Computer by Cleaning It Up</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solving-the-conversation-not-found-issue-in-chatgpt-interactions/"><u>Solving the 'Conversation Not Found' Issue in ChatGPT Interactions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ftdi-sys-issues-the-impact-of-incompatible-device-drivers-on-memory-safety/"><u>Troubleshooting FTDI Sys Issues: The Impact of Incompatible Device Drivers on Memory Safety</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-functional-bluetooth-mouse-in-windows/"><u>Troubleshooting Guide: Fixing a Non-Functional Bluetooth Mouse in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-repair-your-windows-10-os-using-sfc-and-dism-utilities/"><u>Ultimate Guide: Repair Your Windows 10 OS Using SFC and DISM Utilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/win-1011-audio-service-reset-completed/"><u>Win 10/11 Audio Service Reset Completed</u></a></li>
 </ul></div>
 

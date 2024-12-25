@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Lenovo Biometric Sensor Issues and How to Fix Them"
-date: 2024-12-12T20:12:14.914Z
-updated: 2024-12-16T18:50:35.543Z
+date: 2024-12-21T20:15:07.372Z
+updated: 2024-12-25T18:17:53.068Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Many**PUBG**players are recently reporting an issue with their game. Their PUBG 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -45,10 +45,6 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fda9155da2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Downloads**, then click the**STEAM LIBRARY FOLDERS**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb536f27d.jpg)
@@ -57,13 +53,13 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdcc73a052.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Choose a folder on your SSD where you want to save your PUBG files. (If you want to create a new one, click **NEW FOLDER**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdd923b057.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click**CLOSE**.
 
@@ -74,20 +70,20 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdfe387754.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Click**LIBRARY**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe29b7bf54.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Right click **PLAYERUNKNOWN’S BATTLEGROUNDS** , then click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe31f23cb3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **9)** Select the**LOCAL FILES**tab, then click**MOVE INSTALL FOLDER**.
 
@@ -97,11 +93,11 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe4dad26a2.png)
 
-Steam will move your PUBG files to that new folder. You can then check to see if this fixes your building texture issues.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Steam will move your PUBG files to that new folder. You can then check to see if this fixes your building texture issues.
 
 ### Method 3: Update your graphics driver
 
@@ -112,6 +108,10 @@ Your game may not be able to load the building texture properly if you’re not 
 **3)**  Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b600778ced76.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -138,21 +138,19 @@ Your PUBG files may have been corrupted so you are having the texture loading is
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-crafting-cinematic-experiences-on-your-desktop-with-windows-hdr/"><u>[New] In 2024, Crafting Cinematic Experiences on Your Desktop with Windows HDR</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-l1-1-missing-core-dll-issue/"><u>[Resolved] L1-1 Missing Core DLL Issue</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-essential-guide-to-motion-blur-from-theory-to-practice-in-ps/"><u>[Updated] The Essential Guide to Motion Blur From Theory to Practice in PS</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nubia-z50s-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nubia Z50S Pro Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/chorus-chamber-capture-save-and-analyze-sound/"><u>Chorus Chamber Capture, Save & Analyze Sound</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/how-to-safely-exit-your-windows-pc-guide-for-windows-7-vista-and-8/"><u>How To Safely Exit Your Windows PC: Guide For Windows 7, Vista & 8</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-infinix-hot-40i-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Infinix Hot 40i FRP</u></a></li>
-<li><a href="https://common-error.techidaily.com/ntoskrnlexe-high-cpu-or-disk-usage-on-windows-solved/"><u>ntoskrnl.exe High CPU or Disk Usage on Windows [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimize-system-performance-by-curtailing-msmpengexe-cpu-drainage-in-windows-10/"><u>Optimize System Performance by Curtailing MsMpEng.exe CPU Drainage in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-startup-problems-solutions-for-computer-boot-failures/"><u>Overcoming Startup Problems: Solutions for Computer Boot Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-a-malfunctioning-lenovo-fingerprint-authentication-system/"><u>Quick Fixes for a Malfunctioning Lenovo Fingerprint Authentication System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/scaricare-gratuitamente-il-decodificatore-h265-hevc-per-la-visualizzazione-ottimale-dei-filmati-4k-e-8k/"><u>Scaricare Gratuitamente Il Decodificatore H.265 HEVC per La Visualizzazione Ottimale Dei Filmati 4K E 8K</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-the-troublesome-black-display-when-playing-overwatch-initially/"><u>Tackling the Troublesome Black Display When Playing Overwatch Initially</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-guide-fbx-free-gametime-tracking/"><u>The Ultimate Guide FBX-Free Gametime Tracking</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-a-non-responsive-corsair-keyboard/"><u>Troubleshooting Steps for a Non-Responsive Corsair Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-reactivating-your-disabled-wi-fi-feature/"><u>Troubleshooting Steps: Reactivating Your Disabled Wi-Fi Feature</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-captivating-features-the-allure-of-filmora-editing/"><u>[New] Captivating Features The Allure of Filmora Editing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mastering-youtube-video-illumination-techniques/"><u>[Updated] 2024 Approved Mastering YouTube Video Illumination Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208706213-error-8007000e-on-windows-fast-and-easy-resolution-methods/"><u>Error 8007000E on Windows: Fast and Easy Resolution Methods!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-fixing-the-persistent-xerox-error-code-0x800f020b-in-windows-operating-system/"><u>Expert Advice: Fixing the Persistent Xerox Error Code 0X800F020B in Windows Operating System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-techniques-to-successfully-reboot-your-macbook-pro/"><u>Expert Techniques to Successfully Reboot Your MacBook Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tips-to-triumph-in-spotifys-ad-marketplace/"><u>Expert Tips to Triumph in Spotify's Ad Marketplace</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-rapide-et-facile-pour-convertir-des-fichiers-asf-en-mp3-gratuits-en-ligne-avec-movavi/"><u>Guide Rapide Et Facile Pour Convertir Des Fichiers ASF en MP3 Gratuits en Ligne Avec Movavi</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-design-channels-get-free-visuals-now/"><u>In 2024, Design Channels - Get Free Visuals Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-typing-errors-fixes-for-a-broken-keyboard-layout/"><u>No More Typing Errors: Fixes for a Broken Keyboard Layout</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-intel-rst-service-failures-on-windows-11-devices/"><u>Step-by-Step Solutions for Intel RST Service Failures on Windows 11 Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95935408-9781844093137-the-six-archetypes-of-love/"><u>The Six Archetypes of Love | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-common-windows-update-malfunctions/"><u>Troubleshooting & Correcting Common Windows Update Malfunctions</u></a></li>
 </ul></div>
 

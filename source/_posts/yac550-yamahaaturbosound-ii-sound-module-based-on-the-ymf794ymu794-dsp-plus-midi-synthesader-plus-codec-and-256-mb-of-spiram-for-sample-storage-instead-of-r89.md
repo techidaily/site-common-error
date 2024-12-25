@@ -1,7 +1,7 @@
 ---
 title: YAC550 - Yamaha'aturboSound II Sound Module Based on the YMF794/YMU794 (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector
-date: 2024-12-12T16:32:09.117Z
-updated: 2024-12-16T21:01:34.939Z
+date: 2024-12-18T16:06:07.751Z
+updated: 2024-12-25T19:57:23.312Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Does this look familiar?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  **Method 1:[ Using Group Policy Editor ](<https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/#Way> 1. Using Group Policy Editor) Method 2:[ Using Registry Editor](<https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/#Way> 2. Using Registry Editor)**
@@ -40,7 +44,7 @@ Does this look familiar?
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279bde5ee8d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:**  If you cannot find gpedit.msc on your Windows 10,[here is the method to got it.](https://tools.techidaily.com/drivereasy/download/)
@@ -58,6 +62,10 @@ Does this look familiar?
  3) Go to **Computer Configuration** \> **Administrative** **Templates** \>**Windows Components** \> **Data Collection and Preview Builds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279c6c18122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `
 ` `
@@ -86,10 +94,6 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279d1cdc304.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) On your keyboard, press **Ctrl**  \+ **Shift**  \+ **Esc**  keys (at the same time) to open your Task Manager, check to see if Microsoft Compatibility Telemetry takes up a normal disk usage.  
 `
 ` `
@@ -116,27 +120,15 @@ Does this look familiar?
 
  1)On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bafc786d58.png)**  and **R** at the same time to invoke a **Run** command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) T ype**regedit**  in the box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a22807d2e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **YES**  when prompted by User Account Control.
 
  4) Go to **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \>**Policies** \>**Microsoft** \>**Windows** \>**DataCollection.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a4ede532e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Double-click**Allow** **Telemetry** .
 
@@ -146,11 +138,19 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Set**Value date** to **0** (zero) and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a576ca320.jpg)
 
  7) On your keyboard, press **Ctrl**  \+ **Shift**  \+ **Esc**  keys (at the same time) to open your Task Manager, check to see if Microsoft Compatibility Telemetry takes up a normal disk usage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update your device drivers
 
@@ -176,7 +176,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae6a0c3f690.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Reboot your Windows 10 PC.
@@ -211,18 +211,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ind-the-perfect-free-video-editor-app-for-iphones-and-ipads-for-2024/"><u>[New] Find the Perfect Free Video Editor App for iPhones & iPads for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ransforming-viewers-into-livelihood-with-right-numbers-for-2024/"><u>[New] Transforming Viewers Into Livelihood with Right Numbers for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-cutting-edge-techniques-to-elevate-your-tiktok-visual-storytelling/"><u>[Updated] 2024 Approved Cutting-Edge Techniques to Elevate Your TikTok Visual Storytelling</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-master-your-media-comprehensive-guide-to-instagram-converters-windowsmac/"><u>[Updated] In 2024, Master Your Media Comprehensive Guide to Instagram Converters (Windows/Mac)</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-todays-vr-an-inside-look/"><u>[Updated] Today’s VR An Inside Look</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-overcome-port-reset-error-with-unknown-usb-device-on-your-windows-10-machine/"><u>Comprehensive Solutions to Overcome 'Port Reset Error with Unknown USB Device' On Your Windows 10 Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-tips-for-correcting-rpc-communication-breakdowns-between-pcs-running-windows/"><u>Comprehensive Tips for Correcting RPC Communication Breakdowns Between PCs Running Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-casting-issues-from-pcs-to-devices-in-windows-10-solutions/"><u>How to Fix Casting Issues From PCs to Devices in Windows 10 - Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-smart-7-hd-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Smart 7 HD to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-step-by-step-troubleshooting-guide-to-reactivating-wi-fi-on-any-smartphone-or-computer/"><u>Solved: Step-by-Step Troubleshooting Guide to Reactivating Wi-Fi on Any Smartphone or Computer</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-list-top-10-free-game-download-sites-for-pc-android-and-mobile/"><u>The Ultimate List Top 10 Free Game Download Sites for PC, Android, and Mobile</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-persistent-windows-update-error-0x8024401c-on-your-windows-11-machine/"><u>Troubleshooting the Persistent Windows Update Error 0X802^4401c on Your Windows 11 Machine</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/vlc-expansion-guide-play-any-video-content-on-your-apple-tv-with-ease/"><u>VLC Expansion Guide: Play Any Video Content on Your Apple TV with Ease</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-tips-for-editing-your-videos-in-youtube-studio/"><u>[New] 2024 Approved Essential Tips for Editing Your Videos in YouTube Studio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-rotate-iphone-pics-sideways-and-upside-down-made-easy/"><u>[Updated] 2024 Approved Rotate iPhone Pics Sideways & Upside Down Made Easy</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-non-present-opencl-library-files/"><u>Correcting Non-Present OpenCL Library Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/d3dcompiler47dll-is-missing-fixed/"><u>D3DCOMPILER_47.dll Is Missing [FIXED]</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/explore-the-ultimate-list-of-comedy-tears-on-instagram-for-2024/"><u>Explore the Ultimate List of Comedy-Tears On Instagram for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-10-cant-be-installed-error-code-80240020-a-complete-walkthrough/"><u>Fixing 'Windows 10 Can't Be Installed' Error Code 80240020: A Complete Walkthrough</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-tackle-excessive-cpu-drain-from-wudfhostexe-on-your-windows-11-pc/"><u>How to Tackle Excessive CPU Drain From WUDFHost.exe on Your Windows 11 PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-v27-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo V27 Pro FRP Locks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-missing-launchdlldll-a-step-by-step-guide/"><u>Resolving Missing LaunchDll.dll: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/stabilize-your-new-windows-11-install/"><u>Stabilize Your New Windows 11 Install</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-hidden-touchpad-in-device-managers-depths/"><u>Unlock Hidden Touchpad in Device Manager's Depths!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-both-worlds-video-makers-with-music-for-android-and-iphone-for-2024/"><u>Updated The Best of Both Worlds Video Makers with Music for Android and iPhone for 2024</u></a></li>
 </ul></div>
 

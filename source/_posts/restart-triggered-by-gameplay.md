@@ -1,7 +1,7 @@
 ---
 title: "[RESTART] Triggered By Gameplay"
-date: 2024-12-10T20:09:27.270Z
-updated: 2024-12-17T00:47:28.060Z
+date: 2024-12-21T20:08:36.138Z
+updated: 2024-12-25T16:36:08.886Z
 tags:
   - win11
   - win10
@@ -36,11 +36,19 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 6. [**Run System File Checker**](#m6)
 7. [**Check for viruses and malware**](#m7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Lower in-game settings
 
  Some games have specific minimum system requirements for your system to be able to play them seamlessly. If your computer has met the minimum system requirements of the game, you can try lowering in-game settings and see if this helps unfreeze your computer. If not, try Method 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update your drivers
 
@@ -59,16 +67,12 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/graphic-chipset-1.jpg)
 4. Restart your computer and check if your game now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -96,11 +100,15 @@ OR
 2. If you want to run the check immediately, click**Restart now and check for problems (recommended)** . If you want to check later, click**Check for Problems the next time I start my computer** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa67cd8214e.jpg)
 3. When Windows restarts, this screen will appear showing the progress of the check and the number of passes it’ll run on your memory card.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa89992510a.jpg)  
  If you don’t see any errors, your memory card probably isn’t causing your problem, and you can move on to Method 5, below.
@@ -117,29 +125,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6b4c54aa9.jpg)
 2. Click the**Advanced** tab, then click the**Settings** button in the Performance section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6db7a7b90.jpg)
 3. From the**Advanced** tab, click**Change…**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e0a6f204.jpg)
 4. De-select**Automatically manage paging file size for all drives** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e4d0df27.jpg)
 5. **Select** your system drive ( the hard drive or partition where you installed your system — usually**C:** ), and select**Custom size** , enter the**Initial size** and**Maximum size** for your virtual memory. Click**Set** , then**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    * **Initial size** — This value varies, depending on your computer. If you’re not sure what value to use, enter the**Recommended** size.  
@@ -160,7 +160,7 @@ OR
 3. It should begin running a system scan and will take some time. When it finishes, restart your computer and check if it has fixed your problem. If not, try the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -194,15 +194,24 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-trending-potential-in-your-videos/"><u>[New] Unlocking Trending Potential in Your Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210732785-solved-the-hosted-network-couldnt-be-started-on-windows-10/"><u>[SOLVED] “The Hosted Network Couldn’t Be Started” On Windows 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-step-by-step-guide-for-easy-macbook-air-recordings/"><u>[Updated] In 2024, Step-by-Step Guide for Easy Macbook Air Recordings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-step-by-step-breakdown-of-vivacuts-new-tools-and-features-for-2024/"><u>[Updated] Step-by-Step Breakdown of VivaCut's New Tools and Features for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-securely-capture-web-series-every-time-you-watch/"><u>2024 Approved How to Securely Capture Web Series Every Time You Watch</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-techniques-for-exceptional-audio-recording-without-a-mic/"><u>2024 Approved Techniques for Exceptional Audio Recording without a Mic</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-solutions-for-powerless-devices-overcoming-the-no-battery-found/"><u>Fast Solutions for Powerless Devices - Overcoming the 'No Battery Found'</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-unseen-devices-problem-with-bluetooth-on-windows-11-system/"><u>How to Solve Unseen Devices Problem with Bluetooth on Windows 11 System</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-visual-voyage-from-vimeo-footage-to-animated-artistry/"><u>In 2024, Visual Voyage From Vimeo Footage to Animated Artistry</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-ethernet-malfunction-on-windows-117/"><u>Step-by-Step Guide: Resolving Ethernet Malfunction on Windows 11/7</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-explore-engaging-exchange-zones/"><u>[New] 2024 Approved Explore Engaging Exchange Zones</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-hitting-a-pixel-snag-a6400s-video-problems/"><u>[New] 2024 Approved Hitting a Pixel Snag A6400's Video Problems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-camera-innovations-top-10-reviewed-list/"><u>[Updated] 2024 Approved Camera Innovations - Top 10 Reviewed List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-get-vids-to-autoplay-effortlessly-on-fb/"><u>[Updated] In 2024, How to Get Vids to Autoplay Effortlessly on FB</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-record-everything-pay-nothing-screen-tools-for-all-users/"><u>[Updated] In 2024, Record Everything, Pay Nothing - Screen Tools for All Users</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728491964624-usb/"><u>初學者指南 - 如何理解與格式化USB隨身碟</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme C51 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-spontaneous-restart-issues-on-windows-10-systems/"><u>Diagnosing Spontaneous Restart Issues on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-track-fixes-for-enhancing-laptop-keyboard-responsiveness/"><u>Fast-Track Fixes for Enhancing Laptop Keyboard Responsiveness</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-correctly-installing-device-drivers-during-your-windows-7-setup-process/"><u>Guide to Correctly Installing Device Drivers During Your Windows 7 Setup Process</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximize-your-visuals-on-zoom-the-definitive-guide/"><u>In 2024, Maximize Your Visuals on Zoom – The Definitive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-htc-u23-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your HTC U23 Pro Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-touchpad-malfunctions-expert-fixes-for-smooth-scrolling/"><u>Overcoming Common Touchpad Malfunctions – Expert Fixes for Smooth Scrolling</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-your-playstation-vita-stylus-malfunctions-expert-advice-and-remedies/"><u>Step-by-Step Guide to Fixing Your PlayStation Vita Stylus Malfunctions: Expert Advice and Remedies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-av2000-powerline-networking-kit-assessment-outstanding-performance-with-average-build-quality/"><u>TP-Link AV2000 Powerline Networking Kit Assessment: Outstanding Performance with Average Build Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-malfunctioning-laptop-trackpad/"><u>Troubleshooting Guide: Fixing a Malfunctioning Laptop Trackpad</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-non-functional-keys-on-windows-1110-keyboards/"><u>Troubleshooting Guide: How to Fix Non-Functional Keys on Windows 11/10 Keyboards</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-resolve-errcachemiss-issues-in-google-chrome/"><u>Troubleshooting Guide: How to Resolve 'ERR_CACHE_MISS' Issues in Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-working-usb-peripherals-a-guide-for-windows-7-users/"><u>Troubleshooting Non-Working USB Peripherals: A Guide for Windows 7 Users</u></a></li>
 </ul></div>
 

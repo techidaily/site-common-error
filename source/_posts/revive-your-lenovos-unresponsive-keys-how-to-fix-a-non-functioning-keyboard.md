@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Lenovo's Unresponsive Keys: How to Fix a Non-Functioning Keyboard"
-date: 2024-12-12T21:11:05.024Z
-updated: 2024-12-16T23:06:22.656Z
+date: 2024-12-19T17:39:18.774Z
+updated: 2024-12-25T19:22:11.122Z
 tags:
   - win11
   - win10
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
@@ -63,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -77,11 +73,19 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -94,7 +98,7 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) View by **Small icons** and click **System** .
@@ -105,13 +109,13 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click **System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**Next** .
 
@@ -120,10 +124,6 @@ If you have no idea how to do a system restore, refer steps below:
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f7c3c1c1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Click**Finish** .
 
@@ -155,21 +155,20 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-gaming-on-one-disabling-cross-play-and-selecting-top-platforms/"><u>[New] 2024 Approved Gaming on One Disabling Cross-Play and Selecting Top Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unlocking-the-full-potential-of-obs-for-your-mac/"><u>[New] In 2024, Unlocking the Full Potential of OBS for Your Mac</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevating-your-medical-ad-game-secrets-to-success-on-facebook/"><u>[Updated] 2024 Approved Elevating Your Medical Ad Game Secrets to Success on Facebook</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>[Updated] In 2024, Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-art-of-influencing-amplifying-instagram-post-reach-for-2024/"><u>[Updated] The Art of Influencing Amplifying Instagram Post Reach for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-updated-wacom-cintiq-pro-pen-display-drivers-enhance-your-artwork-creation-experience/"><u>Download Updated Wacom CintiQ Pro Pen Display Drivers - Enhance Your Artwork Creation Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fix-for-errnamenotresolved-error-in-chrome/"><u>Easy Fix for ERR_NAME_NOT_RESOLVED Error in Chrome</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-version-of-dells-thunderbolt-tb16-port-expander-drivers/"><u>Get the Newest Version of Dell's Thunderbolt TB16 Port Expander Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/hands-off-hassle-free-usb-tethering-on-your-windows/"><u>Hands-Off, Hassle-Free USB Tethering on Your Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-usb-connectivity-how-to-tackle-the-unknown-usb-device-and-port-reset-failed-errors-on-windows-11/"><u>Mastering USB Connectivity: How to Tackle the 'Unknown USB Device' And 'Port Reset Failed' Errors on Windows 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/murni-muren-disk-menyiapkan-7-langkah-efektif-untuk-keberkesanannya-tetap-sederhana/"><u>Murni-Muren Disk Menyiapkan: 7 Langkah Efektif Untuk Keberkesanannya | Tetap Sederhana!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-current-unavailability-issues-with-microsofts-windows-smartscreen-protection/"><u>Resolving Current Unavailability Issues with Microsoft's Windows SmartScreen Protection</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-unresponsive-user-preferences-and-settings/"><u>Resolving Issues with Unresponsive User Preferences and Settings</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-write-protection-issues-tips-for-usbs-sd-cards-and-cds-in-windows/"><u>Resolving Write Protection Issues: Tips for USBs, SD Cards & CDs in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-unplayable-dvd-files-on-your-pc/"><u>Solving the Mystery of Unplayable DVD Files on Your PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-hidden-steam-accomplishments-quickly/"><u>Unveiling Hidden Steam Accomplishments Quickly</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-curate-a-perfect-playlist-on-youtube-a-step-by-step-guide/"><u>[New] Curate a Perfect Playlist on YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/capture-more-with-lexars-portable-ssd-the-ideal-solution-for-iphone-shooters/"><u>Capture More with Lexar's Portable SSD - The Ideal Solution for iPhone Shooters</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-msdia80dll-functionality-is-retaining-necessary/"><u>Exploring msdia80.dll Functionality – Is Retaining Necessary?</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-start-your-diagnostic-policy-service-when-its-stopped/"><u>Fixing the Issue: How to Start Your Diagnostic Policy Service When It's Stopped</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/zero-to-hero-boosting-youtube-view-count-quickly/"><u>From Zero to Hero Boosting YouTube View Count Quickly</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/methods-for-connecting-your-airpods-to-a-nintendo-switch-is-it-feasible/"><u>Methods for Connecting Your AirPods to a Nintendo Switch - Is It Feasible?</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-your-pc-or-laptops-unwanted-hibernation-problem/"><u>Quick Fixes for Your PC or Laptop's Unwanted Hibernation Problem</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revved-up-roads-ahead-with-5-headlight-boosters/"><u>Revved-Up Roads Ahead with 5 Headlight Boosters</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-windows-driver-power-state-issues/"><u>Step-by-Step Guide: Resolving Windows Driver Power State Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/syncing-airpods-to-your-macbook-pro-or-air-the-complete-tutorial/"><u>Syncing AirPods to Your MacBook Pro or Air: The Complete Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-complete-stucknon-responsive-keys-on-toshiba-notebooks/"><u>Troubleshooting Complete: Stuck/Non-Responsive Keys on Toshiba Notebooks</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209453975-troubleshooting-stuck-keyboard-arrows-effective-solutions-and-tips/"><u>Troubleshooting Stuck Keyboard Arrows: Effective Solutions & Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/waking-up-to-a-well-rested-win11-machine/"><u>Waking Up to a Well-Rested Win11 Machine</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-ai-enhance-mental-health-care-or-hinder-it/"><u>Will AI Enhance Mental Health Care or Hinder It?</u></a></li>
 </ul></div>
 

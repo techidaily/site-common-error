@@ -1,7 +1,7 @@
 ---
 title: Resolve Excessive CPU Consumption in Windows Sound Device Graph
-date: 2024-08-15T11:06:19.964Z
-updated: 2024-08-16T11:06:19.964Z
+date: 2024-12-22T17:05:10.335Z
+updated: 2024-12-25T19:12:39.085Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 2. **[Restart your audio service](#a)**
 3. **[Update your audio driver](#b)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix1: Run the audio troubleshooter
 
 **What is the audio troubleshooter?**
@@ -44,15 +41,9 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 **2)** Click**Next** and wait for the scans to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-446.png)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hope this worked for you. If Windows fails to detect your issue, read on the try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Restart your audio services
 
  This problem is probably caused by the improper status of the audio-related services. To fix it, follow the instructions below:
@@ -60,31 +51,34 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 **1)**  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-424.png)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Type **services.msc** , then press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-426.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Windows Audio** , then **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-428.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Set the**Startup type** to**Automatic** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-427.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Right-click**Windows Audio** , then**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-431.png)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Back to**step 3 to 5** to set the Startup type of these two services to**Automatic** , then restart them respectively.
 
@@ -93,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 **Multimedia Class Scheduler**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-436.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Reboot your computer.
 
@@ -136,6 +134,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -153,8 +155,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +162,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elite-no-cost-fb-imagemovie-design-toolkit/"><u>[Updated] 2024 Approved Elite No-Cost FB Image/Movie Design Toolkit</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-how-to-steer-clear-of-virtual-sickness/"><u>[Updated] In 2024, How to Steer Clear of Virtual Sickness</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-metaverse-marketing-plan/"><u>A Step-by-Step Metaverse Marketing Plan</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-settings-audience-focused-screen-shots-for-2024/"><u>Best Settings Audience-Focused Screen Shots for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-of-these-5-common-chatbot-scams-protect-yourself-now/"><u>Beware of These 5 Common Chatbot Scams: Protect Yourself Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-laptop-keyboard-malfunction-heres-how-you-can-fix-it-quickly/"><u>Dell Laptop Keyboard Malfunction? Here's How You Can Fix It Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/disregarded-sd-card-dont-despair-solutions-await/"><u>Disregarded SD Card, Don't Despair! Solutions Await</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-overcome-and-fix-code-28-device-manager-issues-on-your-pc/"><u>Effective Techniques to Overcome and Fix Code 28 Device Manager Issues on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unresponsive-number-keys-on-your-keyboard/"><u>Fixing Unresponsive Number Keys on Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-the-recently-resolved-database-glitch-in-windows-10-updates/"><u>How to Address the Recently Resolved Database Glitch in Windows 10 Updates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-crafting-professional-gamers-content-with-obs-recordings/"><u>In 2024, Crafting Professional Gamers' Content with OBS Recordings</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-latency-effective-ways-to-eliminate-lag-in-your-windows-10-keyboard/"><u>Overcome Latency: Effective Ways to Eliminate Lag in Your Windows 10 Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-slow-booting-in-windows-7-users/"><u>Quick Fixes for Slow Booting in Windows 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-desktop-mouse-stops-working/"><u>Quick Fixes for When Your Desktop Mouse Stops Working</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-laptops-internal-audio-solutions-for-the-silent-setup-problem/"><u>Reviving Your Laptop's Internal Audio: Solutions for the Silent Setup Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207936743-solution-found-compatibility-issues-with-display-input-timing-fixed/"><u>Solution Found: Compatibility Issues with Display Input Timing Fixed</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/synology-active-backup-solutions-for-enterprises-features-and-top-alternatives/"><u>Synology Active Backup Solutions for Enterprises: Features & Top Alternatives</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-get-your-razer-headset-mic-up-and-running-again/"><u>Troubleshooting Tips: Get Your Razer Headset Mic Up and Running Again</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unpacking-youtubes-financial-framework-shifts/"><u>Unpacking YouTube’s Financial Framework Shifts</u></a></li>
+</ul></div>
 

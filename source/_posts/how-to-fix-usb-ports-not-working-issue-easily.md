@@ -1,7 +1,7 @@
 ---
 title: How to Fix USB Ports Not Working Issue. Easily
-date: 2024-12-13T23:19:39.521Z
-updated: 2024-12-16T19:50:07.611Z
+date: 2024-12-18T18:17:32.763Z
+updated: 2024-12-25T20:47:02.279Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 1: Hold down the power button
@@ -54,7 +54,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 **IMPORTANT:** You’ll need to use a keyboard or a mouse to try any of below solutions. . If your usb keyboard or mouse stops working, use a PS2 keyboard instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Check your power management settings**
@@ -75,7 +75,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4911321a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Un-check the **Allow the computer to turn off this device to save power** checkbox, and click **OK**  .  
@@ -84,6 +84,10 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
   
 
  5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Check your device drivers**
 
@@ -100,7 +104,7 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb32c9a931.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -108,10 +112,6 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 Here take Intel USB 3.0 driverf for example:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb3367beb7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,16 +128,24 @@ Here take Intel USB 3.0 driverf for example:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-add-music-to-facebook-videos-find-the-guide-here-for-2024/"><u>[New] How to Add Music to Facebook Videos? Find The Guide Here for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[New] In 2024, Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600423390-stellar-data-recovery-windows/"><u>無料のStellar Data Recoveryソフトウェア: Windows用データを完全に復元できます</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solution-guide-for-usb-devices-that-wont-recognize-device-descriptions/"><u>Comprehensive Solution Guide for USB Devices That Won’t Recognize Device Descriptions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/editando-videos-en-perfeccionamiento-adquira-la-herramienta-mas-segura-para-windows-and-mac-con-descuentos-que-no-puedes-perderse/"><u>Editando Videos en Perfeccionamiento - Adquira La Herramienta Más Segura Para Windows & Mac Con Descuentos Que No Puedes Perderse.</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/experts-selection-best-full-screen-recorders-for-pc-and-mac/"><u>Expert's Selection Best Full-Screen Recorders for PC and Mac</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-14-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from 14</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-laptops-persistent-blackwhite-screen-problem/"><u>Solving the Laptop's Persistent Black/White Screen Problem</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic-5-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic 5</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-guide-addressing-windows-inaccessible-file-or-drive-alerts/"><u>The Ultimate Fix Guide: Addressing Windows' Inaccessible File or Drive Alerts</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-cryptic-error-code-0x80004005-expert-tips-for-resolution/"><u>Troubleshooting the Cryptic Error Code 0X80004005: Expert Tips for Resolution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-creators-uniting-for-marvels-digital-future/"><u>[New] In 2024, Creators Uniting for Marvel's Digital Future</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-cinematographers-codex-top-shot-tips-for-the-year-2024-filmography/"><u>[New] The Cinematographer’s Codex Top Shot Tips for the Year 2024 Filmography</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-instantaneously-showcasing-archived-video-sessions-via-facebook-live/"><u>[Updated] 2024 Approved Instantaneously Showcasing Archived Video Sessions via Facebook Live</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-chill-vibes-top-idle-pc-experiences/"><u>[Updated] Chill Vibes Top Idle PC Experiences</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-excessive-cpudisk-usage-ntoskrnlexe-fixes/"><u>Addressing Excessive CPU/Disk Usage: Ntoskrnl.exe Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-missing-bluetooth-feature-on-windows-10-step-by-step-guide/"><u>How to Resolve the 'Missing' Bluetooth Feature on Windows 10 - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-print-to-pdf-error-in-microsoft-windows-11/"><u>How to Resolve the Print to PDF Error in Microsoft Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/improve-your-workflow-advanced-file-explorer-techniques-for-windows-11-users/"><u>Improve Your Workflow: Advanced File Explorer Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-tasty-trailblazers-culinary-youtube-icons/"><u>In 2024, Tasty Trailblazers Culinary YouTube Icons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-low-storage-alerts-during-playtime-fixing-roblox-issues-on-apples-mobile-phones/"><u>Overcoming Low Storage Alerts During Playtime: Fixing Roblox Issues on Apple's Mobile Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-settings-not-working-errors-tips-and-tricks/"><u>Resolving 'Settings Not Working' Errors: Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-1011-issue-fixing-error-code-0x8024401c/"><u>Resolving the Windows 10/11 Issue: Fixing Error Code 0X8024401C</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-a-non-responsive-dell-bluetooth-keyboard-a-step-by-step-guide/"><u>Reviving a Non-Responsive Dell Bluetooth Keyboard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-graphical-glitches-and-missing-details-in-cod-warzone-maps/"><u>Solving Graphical Glitches and Missing Details in COD: Warzone Maps</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-playback-problems-reactivating-audio-services-on-windows-7/"><u>Solving Playback Problems: Reactivating Audio Services on Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-incorrect-parameter-issue-for-loadlibrary-failures-error-code-87/"><u>Solving the 'Incorrect Parameter' Issue for LoadLibrary Failures (Error Code 87)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-securely-locking-your-computer-with-windows-10s-command-prompt/"><u>Step-by-Step Guide: Securely Locking Your Computer with Windows 10'S Command Prompt</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/web-presence-mastery-unlocking-the-power-of-internet-exposure-for-small-businesses-a-decisive-guide-from-massmail-software/"><u>Web Presence Mastery: Unlocking the Power of Internet Exposure for Small Businesses – A Decisive Guide From Massmail Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44ov44kh44oz44k244gn44gk6kal44gb44gf5yuv55s744ks5a6j5ywo44gr6kiy6yyy44o75lplusd566h44gz44kl5oml5byv44gn/"><u>ファンザでお見せた動画を安全に記録・保管する手引き</u></a></li>
 </ul></div>
 

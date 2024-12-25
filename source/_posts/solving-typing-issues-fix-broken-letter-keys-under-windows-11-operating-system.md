@@ -1,7 +1,7 @@
 ---
 title: "Solving Typing Issues: Fix Broken Letter Keys Under Windows 11 Operating System"
-date: 2024-12-15T23:04:42.243Z
-updated: 2024-12-16T18:40:14.203Z
+date: 2024-12-24T19:22:35.364Z
+updated: 2024-12-25T18:19:51.014Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -51,7 +55,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
@@ -75,10 +79,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -90,7 +90,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
@@ -102,14 +102,14 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Type **the following command** and press **Enter** :  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
@@ -140,24 +140,24 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-implementing-youtube-video-automatic-start-on-facebook/"><u>[New] In 2024, Implementing Youtube Video Automatic Start on Facebook</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-youtubes-community-standards-as-a-viewer-or-creator/"><u>[New] In 2024, Navigating YouTube's Community Standards as a Viewer or Creator</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-gaining-traction-using-hashtags-in-igtv/"><u>[New] The Art of Gaining Traction Using Hashtags in IGTV</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-combating-content-id-blocks-on-youtube-with-knowledge/"><u>[Updated] Combating Content ID Blocks on YouTube with Knowledge</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-download-premium-video-covers-free-fast-and-easy-for-2024/"><u>[Updated] Download Premium Video Covers - Free, Fast & Easy for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-record-and-revel-samsungs-gamer-archive/"><u>[Updated] In 2024, Record & Revel Samsung's Gamer Archive</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-amateur-to-expert-15-must-knows-in-tiktok-video-edits/"><u>In 2024, From Amateur to Expert 15 Must-Knows in TikTok Video Edits</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70e-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70E Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-your-viewing-experience-top-10-ios-video-apps/"><u>In 2024, Maximizing Your Viewing Experience Top 10 iOS Video Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-queries-sidestep-these-6-frequent-slip-ups/"><u>Mastering ChatGPT Queries: Sidestep These 6 Frequent Slip-Ups</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-d3dxt939dll-not-found-issues-a-step-by-step-guide/"><u>Resolving d3dxt9_39.dll Not Found Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-msmpengexe-high-cpu-usage-in-windows-11-a-comprehensive-guide/"><u>Solving MsMpEng.exe High CPU Usage in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-what-to-do-if-your-key-is-malfunctioning/"><u>Step-by-Step Guide: What to Do If Your '@' Key Is Malfunctioning</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tips-for-solving-persistent-usb-device-unplugging-issues/"><u>Step-by-Step Tips for Solving Persistent USB Device Unplugging Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211894764-stop-your-laptop-from-falling-asleep-simple-solutions-now/"><u>Stop Your Laptop From Falling Asleep: Simple Solutions Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-solution-to-a-non-visible-mouse-on-your-windows-10-device/"><u>The Ultimate Solution to a Non-Visible Mouse on Your Windows 10 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-custom-setup-unresponsive-issues/"><u>Troubleshooting Steps for Custom Setup Unresponsive Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-fix-non-functional-usb-ports-on-windows-1011-computers/"><u>Troubleshooting Steps to Fix Non-Functional USB Ports on Windows 10/11 Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-of-error-1-4-a-detailed-guide-for-smoothing-out-livekernelevents/"><u>Unraveling the Mystery of Error 1# #4: A Detailed Guide for Smoothing Out LiveKernelEvents</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-innovating-filming-techniques-smartphones-as-webcams/"><u>[New] 2024 Approved Innovating Filming Techniques Smartphones as Webcams</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-top-9-free-youtube-logo-makers/"><u>[New] 2024 Approved Top 9 Free YouTube Logo Makers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-laugh-cry-or-shout-out-on-these-top-10-instagram-memes-hubs/"><u>[New] Laugh, Cry or Shout Out on These Top 10 Instagram Memes Hubs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-x-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone X</u></a></li>
+<li><a href="https://common-error.techidaily.com/clearing-up-shadows-a-guide-to-remedying-obss-black-screen-troubleshooting/"><u>Clearing Up Shadows: A Guide to Remedying OBS's Black Screen Troubleshooting</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosis-and-solutions-for-when-your-dell-laptops-keyboard-wont-work/"><u>Diagnosis & Solutions for When Your Dell Laptop's Keyboard Won't Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-guide-to-resolving-the-persistent-windows-update-at-0-standoff/"><u>Effortless Guide to Resolving the Persistent 'Windows Update at 0%' Standoff</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-not-working-laptop-mousepad-on-windows-solutions-for-windows-1187-users/"><u>Fix Not Working Laptop Mousepad on Windows: Solutions for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-dells-malfunctioning-usb-port-a-comprehensive-guide/"><u>Fixing Dell's Malfunctioning USB Port: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mobile-cinema-app-assessment-review/"><u>In 2024, Mobile Cinema App Assessment Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/les-top-3-methodes-pour-fabriquer-un-support-de-demarrage-sur-une-cle-usb-avec-windows-881/"><u>Les Top 3 Méthodes Pour Fabriquer Un Support De Démarrage Sur Une Clé USB Avec Windows 8/8.1</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-successful-windows-patches-and-fixes/"><u>Mastering Successful Windows Patches and Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/online-morality-correct-to-ban-trump-but-not-permanently/"><u>Online Morality: Correct to Ban Trump but Not Permanently</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-with-non-responsive-dell-wireless-keyboards-expert-advice/"><u>Overcoming Issues with Non-Responsive Dell Wireless Keyboards: Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209531378-resolving-0x80070002-update-issues-on-your-pc-with-ease/"><u>Resolving 0X80070002 Update Issues on Your PC with Ease!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-memes-with-these-7-top-gif-creation-techniques-for-2024/"><u>Revolutionize Your Memes with These 7 Top GIF Creation Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-error-0x80070002-in-windows-updates-quick-fixes-inside/"><u>Troubleshoot and Solve Error 0X80070002 in Windows Updates | Quick Fixes Inside</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-resolve-blue-yeti-microphone-unrecognized-issues/"><u>Troubleshooting Guide: How To Resolve 'Blue Yeti Microphone Unrecognized' Issues</u></a></li>
 </ul></div>
 

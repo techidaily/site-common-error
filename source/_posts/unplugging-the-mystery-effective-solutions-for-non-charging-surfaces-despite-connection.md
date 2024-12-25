@@ -1,7 +1,7 @@
 ---
 title: "Unplugging the Mystery: Effective Solutions for Non-Charging Surfaces Despite Connection"
-date: 2024-12-15T16:39:05.943Z
-updated: 2024-12-16T20:02:25.921Z
+date: 2024-12-21T18:23:32.363Z
+updated: 2024-12-25T17:39:02.137Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 3 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.
@@ -50,14 +46,14 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click **OK** .  
@@ -79,17 +75,21 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
 
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 4. Reboot your Windows 10.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -140,22 +140,20 @@ thumbnail: https://thmb.techidaily.com/71650fe6339aad7562a7ef4730d038972f077e65b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-complete-motion-evaluation-2023/"><u>[New] 2024 Approved Complete Motion Evaluation 2023</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-explore-free-vimeo-video-editing-tips-and-tricks/"><u>[New] Explore Free Vimeo Video Editing Tips and Tricks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-framework-for-high-quality-streaming-archiving-for-2024/"><u>[New] The Framework for High-Quality Streaming Archiving for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-leading-youtube-themes-for-captivating-opens-for-2024/"><u>[Updated] Leading YouTube Themes for Captivating Opens for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1728484355545-windows-11/"><u>保全数据与程序：重新组织Windows 11的最佳方法</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/conversione-webm-ad-mkv-online-e-gratuitissimo-servizio-di-conversione-video-senza-costi-aggiuntivi/"><u>Conversione WEBM Ad MKV OnLine E Gratuitissimo - Servizio Di Conversione Video Senza Costi Aggiuntivi</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/discover-the-right-ram-for-your-pc-a-comprehensive-guide-yl-tech-solutions/"><u>Discover the Right RAM for Your PC: A Comprehensive Guide - YL Tech Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-guide-to-overcome-too-many-redirects-error-swiftly/"><u>Effortless Guide to Overcome Too Many Redirects Error Swiftly!</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-resolving-installation-errors-code-0x80070643-on-your-windows-device/"><u>Expert Guide: Resolving Installation Errors Code 0X80070643 on Your Windows Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-successfully-install-windows-10-error-code-80240020-explanation-and-solution/"><u>Guide to Successfully Install Windows 10: Error Code 80240020 Explanation and Solution</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-programs-17-superior-aids-to-remove-outlines-for-2024/"><u>Leading Programs 17 Superior Aids to Remove Outlines for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-media-the-finest-downloading-options-for-2024/"><u>Mastering Instagram Media The Finest Downloading Options for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-with-a-click-windows-tips/"><u>Navigating with a Click: Windows Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-critical-0x80n05b4-error-during-windows-10-updates-easily-and-quickly/"><u>Resolving the Critical 0X80n05B4 Error During Windows 10 Updates Easily and Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/restored-msvcr71dll-case-closed/"><u>Restored MSVCR71.dll: Case Closed</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-secure-connection-issues-in-mozilla-firefox/"><u>Troubleshooting Guide: Resolving Secure Connection Issues in Mozilla Firefox</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstick-your-windows-tenth-upgrade-a-step-by-step-guide-for-quick-fixes/"><u>Unstick Your Windows Tenth Upgrade: A Step-by-Step Guide for Quick Fixes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-from-template-to-tutorial-gamers-channel-design/"><u>[Updated] From Template to Tutorial Gamers' Channel Design</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhancing-video-appeal-20-premium-thumbnail-fonts/"><u>2024 Approved Enhancing Video Appeal 20 Premium Thumbnail Fonts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-the-best-technology-for-crystal-clear-4k-visuals/"><u>2024 Approved Examining the Best Technology for Crystal-Clear 4K Visuals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-the-atomic-heart-catastrophe-mastering-startup-survival-tactics/"><u>Conquering the 'Atomic Heart' Catastrophe: Mastering Startup Survival Tactics</u></a></li>
+<li><a href="https://common-error.techidaily.com/corrective-actions-for-unresponsive-right-click-on-a-windows-10-pc/"><u>Corrective Actions for Unresponsive Right-Click on a Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-steps-to-resolve-stop-error-in-hamachi/"><u>Fixing the Issue: Steps to Resolve Stop Error in Hamachi</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210103406-9781250796783-here-hereafter/"><u>Here & Hereafter | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-integrity-of-corrupted-drive-partitions-for-windows-users/"><u>How to Restore Integrity of Corrupted Drive Partitions for Windows Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-a14-4g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy A14 4G Through Google Earth?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplify-image-editing-picart-background-shedding/"><u>In 2024, Simplify Image Editing PicArt Background Shedding</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/personalized-touchscreen-display-by-jdi-the-2vd-screen-that-sees-who-you-are-and-adapts-to-your-fingerprint/"><u>Personalized Touchscreen Display by JDI: The 2VD Screen That Sees Who You Are and Adapts to Your Fingerprint</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revolutionize-your-mouse-journey/"><u>Revolutionize Your Mouse Journey</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-guide-to-resolve-microphone-not-working-in-google-hangouts/"><u>Simple Guide to Resolve 'Microphone Not Working' In Google Hangouts</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-resolving-missing-d3dx939dll-issue/"><u>Solution Steps for Resolving MISSING D3DX9_39.dll Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-recurring-restart-glitches-on-windows-operating-systems-11-and-10/"><u>Troubleshooting Recurring Restart Glitches on Windows Operating Systems (11 and 10)</u></a></li>
 </ul></div>
 

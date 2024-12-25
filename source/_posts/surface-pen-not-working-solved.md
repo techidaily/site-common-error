@@ -1,7 +1,7 @@
 ---
 title: Surface Pen Not Working [Solved]
-date: 2024-12-11T17:31:09.472Z
-updated: 2024-12-16T16:14:16.237Z
+date: 2024-12-23T18:26:04.378Z
+updated: 2024-12-25T20:56:51.498Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 fixes to try
@@ -50,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Wait for Windows to detect and fix your issue automatically.
 
  If Windows fails to detect your problem, don’t worry. Move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust your pointer speed
 
@@ -76,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 **4)** Adjust your pointer speed to a proper place, like in the very middle. Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-533.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Check to see if your mouse can work properly now.
 
@@ -113,13 +121,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of_all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-229.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -133,17 +141,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Restart your computer after the update is complete.
 
@@ -171,17 +171,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-spoken-words-into-written-format-powerpoints-voice-recognition-insight/"><u>[Updated] Transform Spoken Words Into Written Format PowerPoint’s Voice Recognition Insight</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-redmi-note-12-pro-4g-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Redmi Note 12 Pro 4G Device SIM</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-lower-dwms-impact-on-your-pcs-graphics-resources-in-windows-nkite/"><u>Effective Techniques to Lower DWM's Impact on Your PC's Graphics Resources in Windows Nkite</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-loadlibrary-failures-a-comprehensive-guide-to-resolving-error-87/"><u>Fixing LoadLibrary Failures: A Comprehensive Guide to Resolving Error 87</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-serious-glitches-and-error-messages-in-black-ops-4/"><u>How to Resolve Serious Glitches and Error Messages in Black Ops 4</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-quick-visuals-accompanied-by-audio/"><u>In 2024, Quick Visuals Accompanied by Audio</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-challenges-in-configuring-a-functional-d3d-graphics-device/"><u>Overcoming Challenges in Configuring a Functional D3D Graphics Device</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/pny-ssd-copier-sans-probleme-clonage-optimise-pour-windows-grace-a-un-logiciel-innovant-et-performant/"><u>PNY SSD Copier Sans Problème - Clonage Optimisé Pour Windows Grâce À Un Logiciel Innovant Et Performant</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/professional-instruction-download-and-optimize-epson-ds-510-driver-on-pc-running-windows-operating-system/"><u>Professional Instruction: Download & Optimize Epson DS-510 Driver on PC Running Windows Operating System</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-perfect-kid-friendly-laptop-exploring-the-asus-chromebook-c202sa-review/"><u>The Perfect Kid-Friendly Laptop? Exploring the Asus Chromebook C202SA Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-repair-techniques-for-a-vanished-shelldll/"><u>Troubleshooting and Repair Techniques for a Vanished Shell.dll</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728467456541-windows-11/"><u>パーティション表の修正方法 - Windows 11ユーザー向け完全解析</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-capturing-coziness-ideal-winter-scenes-for-yt-video/"><u>[New] 2024 Approved Capturing Coziness Ideal Winter Scenes for YT Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infusing-identity-tips-for-iconic-podcast-graphics/"><u>[Updated] Infusing Identity Tips for Iconic Podcast Graphics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-preserving-youtube-music-3-secure-complimentary-techniques/"><u>[Updated] Preserving YouTube Music 3 Secure, Complimentary Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-keeping-track-of-changed-followers-on-instagram/"><u>2024 Approved Keeping Track of Changed Followers on Instagram</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y27-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y27 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-fixing-non-responsive-alt-plus-tab-feature-in-windows/"><u>Expert Advice on Fixing Non-Responsive Alt + Tab Feature in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-persistent-mouse-drops-a-comprehensive-guide-for-seamless-surfing/"><u>Fixing Persistent Mouse Drops: A Comprehensive Guide for Seamless Surfing</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-red-screen-of-error-a-step-by-step-guide/"><u>Fixing the Red Screen of Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-14-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 14 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-rst-service-not-running-errors-for-optimal-performance-with-windows-11/"><u>Resolving 'RST Service Not Running' Errors for Optimal Performance with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-intel-rst-driver-problems-in-windows-10-environments/"><u>Resolving Intel RST Driver Problems in Windows 10 Environments</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/revolutionized-ios-screenshot-and-recording-methods/"><u>Revolutionized iOS Screenshot & Recording Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-how-to-fix-windows-audio-device-failure-error/"><u>Troubleshoot: How to Fix 'Windows Audio Device Failure' Error</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/uncovering-10-premier-youtube-sources-for-history-buffs-for-2024/"><u>Uncovering 10 Premier YouTube Sources for History Buffs for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/unmasking-and-overcoming-effective-methods-to-get-rid-of-the-google-chrome-security-alert-hoax/"><u>Unmasking and Overcoming: Effective Methods to Get Rid of the Google Chrome Security Alert Hoax</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206921710-unstuck-from-windows-11-learn-how-to-effectively-restart-your-pc-now/"><u>Unstuck From Windows 11? Learn How to Effectively Restart Your PC Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair Unresponsive Buttons on a Win 10 or 11 Keyboard
-date: 2024-12-13T00:35:19.616Z
-updated: 2024-12-16T17:43:41.547Z
+date: 2024-12-21T18:31:56.063Z
+updated: 2024-12-25T16:37:30.585Z
 tags:
   - win11
   - win10
@@ -39,11 +39,19 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
 ![This image has an empty alt attribute; its file name is 2-24.png](https://images.drivereasy.com/wp-content/uploads/2017/06/2-24.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Keyboard** on the left pane. Then check the icon of Sticky Keys. If it’s **on** , set it to be**off** .
 
 ![This image has an empty alt attribute; its file name is 3-24.png](https://images.drivereasy.com/wp-content/uploads/2017/06/3-24.png)
 
  If after making sure the Sticky Keys feature is disabled, you still cannot use your spacebar, try other methods below. The spacebar not working error is probably due to its driver issues. Rolling back its driver to an earlier version or doing a clean install for its driver helps many users fix the issue. You can try to do so.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2:   Roll back your keyboard driver to an earlier version
 
@@ -51,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
  Then click**Device Manager** to open it.
 
 ![This image has an empty alt attribute; its file name is img_59795d07cc3ee.png](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59795d07cc3ee.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the pop-up Device Manager window, find and expand the**Keyboards** dialog. Then right-click on your keyboard software and choose**Properties** .
 
@@ -64,11 +68,11 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
 ![This image has an empty alt attribute; its file name is img_59796277ea917.png](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59796277ea917.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** If the Roll Back Driver icon is grayed out, you can choose to download the driver of an earlier version from your keyboard manufacturer’s website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3\. Do a clean install for your keyboard driver
 
@@ -81,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 ![This image has an empty alt attribute; its file name is img_59796713d5162.png](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59796713d5162.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Reboot your Windows 10 to let Windows reinstall your keyboard driver.
@@ -98,16 +102,12 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed-1200x900.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -128,18 +128,19 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-elevate-your-videos-luminous-techniques-for-android-users-for-2024/"><u>[New] Elevate Your Videos - Luminous Techniques for Android Users for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-revealing-gone-reddit-content-a-time-savers-guide-for-2024/"><u>[New] Revealing Gone-Reddit Content A Time Saver's Guide for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-engage-entertain-enlighten-crafting-compelling-live-thumbnails/"><u>[Updated] Engage, Entertain, Enlighten Crafting Compelling Live Thumbnails</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-6-plus-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 6 Plus Activity | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-y100i-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Y100i</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-fixing-the-driverpowerstatefailure-bug/"><u>Effective Solutions for Fixing the DRIVER_POWER_STATE_FAILURE Bug</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-the-vivid-red-glitch-in-windows-10-systems/"><u>Effective Solutions for Overcoming the Vivid Red Glitch in Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-10-bluetooth-missing-issue-quickly-and-easily/"><u>Fix Windows 10 Bluetooth Missing Issue. Quickly & Easily!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-xs-max-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone XS Max The Right Way</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-nvidia-graphics-drivers-compatible-with-windows-11-7-and-8-downloads/"><u>Latest Nvidia Graphics Drivers: Compatible with Windows 11, 7 & 8 Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-repairing-corrupt-system-files-in-windows-11-environments/"><u>Mastering the Art of Repairing Corrupt System Files in Windows 11 Environments</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-budsplus-unboxed-a-detailed-overview/"><u>Samsung Galaxy Buds+ Unboxed: A Detailed Overview</u></a></li>
-<li><a href="https://win-studio.techidaily.com/windows11107/"><u>Windowsで失われたデータの救出手順：11/10/7方法集</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-essential-inexpensive-vlogging-tools-listed/"><u>[New] In 2024, Essential, Inexpensive Vlogging Tools Listed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-no-complications-in-hdr-a-thorough-review/"><u>[New] In 2024, No Complications in HDR A Thorough Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-effortless-snapchat-setup-for-mac-enthusiasts-for-2024/"><u>[Updated] Effortless Snapchat Setup for Mac Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-rotators-playbook-for-youtube-video-spinning/"><u>[Updated] The Essential Rotator's Playbook for YouTube Video Spinning</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-troubleshoot-and-solve-windows-camera-failure-code-0xa00f4292/"><u>Comprehensive Guide to Troubleshoot and Solve Windows Camera Failure (Code 0xA00F4292)</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-troubleshoot-installation-problems-with-error-0x80t70643-on-windows/"><u>Comprehensive Guide to Troubleshoot Installation Problems with Error 0X80t70643 on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-correcting-stuck-on-initializing-glitches-in-destiny-2/"><u>Expert Guide: Correcting 'Stuck on Initializing' Glitches in Destiny 2</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-audio-playback-errors-from-youtube-on-windows-11-devices/"><u>How to Fix Audio Playback Errors From YouTube on Windows 11 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973502715-lighter-than-air-craft/"><u>Lighter than Air Craft.</u></a></li>
+<li><a href="https://common-error.techidaily.com/professional-maintenance-regularly-scheduled-maintenance-as-recommended-by-the-car-manufacturer-can-help-identify-and-address-any-potential-issues-with-the-144/"><u>Professional Maintenance: Regularly Scheduled Maintenance, as Recommended by the Car Manufacturer, Can Help Identify and Address Any Potential Issues with the Suspension Before They Become Serious Problems.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-guide-to-motion-blur-in-adobe-photoshop-for-2024/"><u>The Essential Guide to Motion Blur in Adobe Photoshop for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210164425-9781634177542-the-story-of-us/"><u>The Story of Us | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-non-functioning-spacebar-key-issue-in-windows-11/"><u>Troubleshooting the Non-Functioning Spacebar Key Issue in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-v-purse-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor V Purse Users</u></a></li>
 </ul></div>
 
